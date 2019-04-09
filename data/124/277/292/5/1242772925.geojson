@@ -1,0 +1,77 @@
+{
+  "id": 1242772925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.6807,33.2582,46.6807,33.2582",
+    "geom:latitude":33.2582,
+    "geom:longitude":46.6807,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Sar Kul",
+    "gn:country_code":"IR",
+    "gn:dem":1231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6711230,
+    "gn:latitude":33.2582,
+    "gn:longitude":46.6807,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Sar K\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u06af\u0644"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0631 \u06a9\u0648\u0644"
+    ],
+    "name:und_x_variant":[
+        "Sargol",
+        "Sar K\u016bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108720231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6711230
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7a9ea9ece1414a1ee536c6961dc66e93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720231,
+            "locality_id":1242772925,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1242772925,
+    "wof:lastmodified":1537647471,
+    "wof:name":"Sar Kul",
+    "wof:parent_id":1108720231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.6807,
+    33.2582,
+    46.6807,
+    33.2582
+],
+  "geometry": {"coordinates":[46.6807,33.2582],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343261721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.153,26.97457,60.153,26.97457",
+    "geom:latitude":26.97457,
+    "geom:longitude":60.153,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Sirchah",
+    "gn:country_code":"IR",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7049097,
+    "gn:latitude":26.97457,
+    "gn:longitude":60.153,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"S\u012brch\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0631 \u0686\u0627\u0647"
+    ],
+    "name:fas_x_variant":[
+        "S\u012brch\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7049097
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4e46224fd8e32302b46e8f35ff930ce7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720271,
+            "locality_id":1343261721,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1343261721,
+    "wof:lastmodified":1537647940,
+    "wof:name":"Sirchah",
+    "wof:parent_id":1108720271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.153,
+    26.97457,
+    60.153,
+    26.97457
+],
+  "geometry": {"coordinates":[60.153,26.97457],"type":"Point"}
+}

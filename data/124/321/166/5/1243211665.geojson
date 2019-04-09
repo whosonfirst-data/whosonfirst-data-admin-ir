@@ -1,0 +1,80 @@
+{
+  "id": 1243211665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.42338,35.83686,51.42338,35.83686",
+    "geom:latitude":35.83686,
+    "geom:longitude":51.42338,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Pas Qal`eh",
+    "gn:country_code":"IR",
+    "gn:dem":1936,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":121283,
+    "gn:latitude":35.83686,
+    "gn:longitude":51.42338,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Pas Qal\u2018eh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u064e\u0633\u062a \u0642\u064e\u0644\u0639\u0650\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u064e\u0633 \u0642\u064e\u0644\u0650\u0651\u0647",
+        "\u067e\u0633 \u0642\u0644\u0639\u0647",
+        "Past Qal\u2018eh",
+        "Pas Qal\u2018eh"
+    ],
+    "name:und_x_variant":[
+        "Pas Qalleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672313,
+        1108720445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":121283,
+        "wk:page":"Pas_Qaleh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9a76c97b0f111c7b9d7920af216d898a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720445,
+            "locality_id":1243211665,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1243211665,
+    "wof:lastmodified":1537643939,
+    "wof:name":"Pas Qal`eh",
+    "wof:parent_id":1108720445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.42338,
+    35.83685999999999,
+    51.42338,
+    35.83685999999999
+],
+  "geometry": {"coordinates":[51.42338,35.83685999999999],"type":"Point"}
+}

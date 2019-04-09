@@ -1,0 +1,73 @@
+{
+  "id": 1226436681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.2047,28.9869,53.2047,28.9869",
+    "geom:latitude":28.9869,
+    "geom:longitude":53.2047,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tajabad",
+    "gn:country_code":"IR",
+    "gn:dem":1383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":390194,
+    "gn:latitude":28.9869,
+    "gn:longitude":53.2047,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"T\u0101j\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u062c \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "T\u0101j\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390194
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"28b8eb78fc9a63f5ee1810b17a3b0912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720069,
+            "locality_id":1226436681,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1226436681,
+    "wof:lastmodified":1537646475,
+    "wof:name":"Tajabad",
+    "wof:parent_id":1108720069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.2047,
+    28.9869,
+    53.2047,
+    28.9869
+],
+  "geometry": {"coordinates":[53.2047,28.9869],"type":"Point"}
+}

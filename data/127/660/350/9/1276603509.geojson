@@ -1,0 +1,73 @@
+{
+  "id": 1276603509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.45806,31.07442,56.45806,31.07442",
+    "geom:latitude":31.07442,
+    "geom:longitude":56.45806,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Seyyedabad",
+    "gn:country_code":"IR",
+    "gn:dem":2026,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":38713,
+    "gn:latitude":31.07442,
+    "gn:longitude":56.45806,
+    "gn:modification_date":"2014-09-30",
+    "gn:name":"Seyyed\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Seyyed\u0101b\u0101d"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u06cc\u062f \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":38713
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"726086ced0ecd0a0843df0f543bf3064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720155,
+            "locality_id":1276603509,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1276603509,
+    "wof:lastmodified":1537642183,
+    "wof:name":"Seyyedabad",
+    "wof:parent_id":1108720155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.45806,
+    31.07442,
+    56.45806,
+    31.07442
+],
+  "geometry": {"coordinates":[56.45806,31.07442],"type":"Point"}
+}

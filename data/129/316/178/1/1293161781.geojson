@@ -1,0 +1,78 @@
+{
+  "id": 1293161781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.9351,27.4418,57.9351,27.4418",
+    "geom:latitude":27.4418,
+    "geom:longitude":57.9351,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Pamikh",
+    "gn:country_code":"IR",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":121686,
+    "gn:latitude":27.4418,
+    "gn:longitude":57.9351,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"P\u0101m\u012bkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0645\u06cc\u062e"
+    ],
+    "name:fas_x_variant":[
+        "P\u0101\u2019em\u012b",
+        "P\u0101m\u012bkh"
+    ],
+    "name:und_x_variant":[
+        "Y\u0101\u2019em\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":121686,
+        "wk:page":"Pamikh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b25ad103a287212f09668d32c557d35d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720029,
+            "locality_id":1293161781,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1293161781,
+    "wof:lastmodified":1537643975,
+    "wof:name":"Pamikh",
+    "wof:parent_id":1108720029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.9351,
+    27.4418,
+    57.9351,
+    27.4418
+],
+  "geometry": {"coordinates":[57.9351,27.4418],"type":"Point"}
+}

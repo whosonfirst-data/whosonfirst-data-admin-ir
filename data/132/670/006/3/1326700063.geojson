@@ -1,0 +1,82 @@
+{
+  "id": 1326700063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.0716,30.712,49.0716,30.712",
+    "geom:latitude":30.712,
+    "geom:longitude":49.0716,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Hamzeh-ye Vosta",
+    "gn:country_code":"IR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":127395,
+    "gn:latitude":30.712,
+    "gn:longitude":49.0716,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"\u1e28amzeh-ye Vost\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0645\u0632\u0647 \u0648\u0633\u0637\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28amzeh-ye Vost\u00e1"
+    ],
+    "name:und_x_variant":[
+        "Humzeh",
+        "Khomreh-ye Sofl\u00e1",
+        "Khomeyzeh",
+        "Khomzeh-ye \u2018Oly\u0101",
+        "Khomzeh",
+        "Khamzeh",
+        "\u1e28amzeh-ye Vost\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":127395
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fd75601c4f783ece8c817dfbcfb5ca0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719871,
+            "locality_id":1326700063,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1326700063,
+    "wof:lastmodified":1537644555,
+    "wof:name":"Hamzeh-ye Vosta",
+    "wof:parent_id":1108719871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.0716,
+    30.712,
+    49.0716,
+    30.712
+],
+  "geometry": {"coordinates":[49.0716,30.712],"type":"Point"}
+}

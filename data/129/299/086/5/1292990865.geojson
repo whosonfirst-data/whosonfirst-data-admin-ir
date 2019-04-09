@@ -1,0 +1,78 @@
+{
+  "id": 1292990865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.96575,36.83315,49.96575,36.83315",
+    "geom:latitude":36.83315,
+    "geom:longitude":49.96575,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Tokam",
+    "gn:country_code":"IR",
+    "gn:dem":1497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112736,
+    "gn:latitude":36.83315,
+    "gn:longitude":49.96575,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Tok\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Tok\u0101m"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u06a9\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Takam",
+        "\u062a\u06a9\u0627\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112736,
+        "wk:page":"Tokam"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6838a79c0c74f881d579f9d5d9097c59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720459,
+            "locality_id":1292990865,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1292990865,
+    "wof:lastmodified":1537643119,
+    "wof:name":"Tokam",
+    "wof:parent_id":1108720459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.96575,
+    36.83315,
+    49.96575,
+    36.83315
+],
+  "geometry": {"coordinates":[49.96575,36.83315],"type":"Point"}
+}

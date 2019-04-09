@@ -1,0 +1,76 @@
+{
+  "id": 1242842915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.77401,33.73756,47.77401,33.73756",
+    "geom:latitude":33.73756,
+    "geom:longitude":47.77401,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Varpol",
+    "gn:country_code":"IR",
+    "gn:dem":1129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":27205,
+    "gn:latitude":33.73756,
+    "gn:longitude":47.77401,
+    "gn:modification_date":"2014-09-30",
+    "gn:name":"Varpol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u067e\u0644"
+    ],
+    "name:fas_x_variant":[
+        "\u0631\u06cc\u062e\u062a\u0647 \u06a9\u0648\u0628"
+    ],
+    "name:und_x_variant":[
+        "R\u012bkhteh K\u016bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":27205
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4fdc0df2c002171af93fde55c80253ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720145,
+            "locality_id":1242842915,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1242842915,
+    "wof:lastmodified":1537641448,
+    "wof:name":"Varpol",
+    "wof:parent_id":1108720145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.77401,
+    33.73755999999999,
+    47.77401,
+    33.73755999999999
+],
+  "geometry": {"coordinates":[47.77401,33.73755999999999],"type":"Point"}
+}

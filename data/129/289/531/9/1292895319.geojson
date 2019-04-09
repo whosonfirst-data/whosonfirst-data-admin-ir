@@ -1,0 +1,78 @@
+{
+  "id": 1292895319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.86627,35.49586,48.86627,35.49586",
+    "geom:latitude":35.49586,
+    "geom:longitude":48.86627,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Qayesh",
+    "gn:country_code":"IR",
+    "gn:dem":1923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":119542,
+    "gn:latitude":35.49586,
+    "gn:longitude":48.86627,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Q\u0101yesh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0627\u06cc\u0634"
+    ],
+    "name:fas_x_variant":[
+        "Q\u0101yesh"
+    ],
+    "name:und_x_variant":[
+        "Qa\u012bsh Tepe",
+        "Ghayesh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":119542,
+        "wk:page":"Qayesh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6161b545632801b94a62cf8f485e86b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720349,
+            "locality_id":1292895319,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1292895319,
+    "wof:lastmodified":1537643757,
+    "wof:name":"Qayesh",
+    "wof:parent_id":1108720349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.86627,
+    35.49586,
+    48.86627,
+    35.49586
+],
+  "geometry": {"coordinates":[48.86627,35.49586],"type":"Point"}
+}

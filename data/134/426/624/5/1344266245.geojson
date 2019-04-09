@@ -1,0 +1,73 @@
+{
+  "id": 1344266245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.0027,36.7758,46.0027,36.7758",
+    "geom:latitude":36.7758,
+    "geom:longitude":46.0027,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Manuchehri",
+    "gn:country_code":"IR",
+    "gn:dem":1557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6710143,
+    "gn:latitude":36.7758,
+    "gn:longitude":46.0027,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Man\u016bchehr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0648\u0686\u0647\u0631\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Man\u016bchehr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108719915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6710143
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"95fb05b7412c288d4173ae0f11956043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719915,
+            "locality_id":1344266245,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1344266245,
+    "wof:lastmodified":1537647465,
+    "wof:name":"Manuchehri",
+    "wof:parent_id":1108719915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.0027,
+    36.7758,
+    46.0027,
+    36.7758
+],
+  "geometry": {"coordinates":[46.0027,36.7758],"type":"Point"}
+}

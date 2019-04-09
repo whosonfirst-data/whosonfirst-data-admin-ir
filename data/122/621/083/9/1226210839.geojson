@@ -1,0 +1,81 @@
+{
+  "id": 1226210839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.0792,33.5736,48.0792,33.5736",
+    "geom:latitude":33.5736,
+    "geom:longitude":48.0792,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Nargeseh",
+    "gn:country_code":"IR",
+    "gn:dem":1279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":122645,
+    "gn:latitude":33.5736,
+    "gn:longitude":48.0792,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Nargeseh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0631\u06af\u064a\u0632 \u0628\u0627\u0644\u064e"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0627\u0631\u06af\u064a\u0632",
+        "\u0646\u0631\u06af\u0633\u0647"
+    ],
+    "name:und_x_variant":[
+        "N\u0101rg\u012bz",
+        "N\u0101rg\u012bz B\u0101la",
+        "Nargeseh",
+        "\u0646\u0631\u06af\u0633\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":122645,
+        "wk:page":"Nargeseh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b98612e911355ca65d14f5815eb47b7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720145,
+            "locality_id":1226210839,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1226210839,
+    "wof:lastmodified":1537644078,
+    "wof:name":"Nargeseh",
+    "wof:parent_id":1108720145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.0792,
+    33.5736,
+    48.0792,
+    33.5736
+],
+  "geometry": {"coordinates":[48.0792,33.5736],"type":"Point"}
+}

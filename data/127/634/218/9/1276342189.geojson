@@ -1,0 +1,74 @@
+{
+  "id": 1276342189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.27111,31.70278,51.27111,31.70278",
+    "geom:latitude":31.70278,
+    "geom:longitude":51.27111,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Tagarg Ab",
+    "gn:country_code":"IR",
+    "gn:dem":2193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":38297,
+    "gn:latitude":31.70278,
+    "gn:longitude":51.27111,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Tagarg \u0100b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Tagarg \u0100b"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u064e\u06af\u064e\u0631\u06af \u0622\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672319,
+        1108719903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":38297,
+        "wk:page":"Tagarg_Ab"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"97b29587fb7c48faa73dedfa5d272a06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719903,
+            "locality_id":1276342189,
+            "region_id":85672319
+        }
+    ],
+    "wof:id":1276342189,
+    "wof:lastmodified":1537642169,
+    "wof:name":"Tagarg Ab",
+    "wof:parent_id":1108719903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.27111,
+    31.70278,
+    51.27111,
+    31.70278
+],
+  "geometry": {"coordinates":[51.27111,31.70278],"type":"Point"}
+}

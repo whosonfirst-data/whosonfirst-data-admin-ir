@@ -1,0 +1,70 @@
+{
+  "id": 1209934439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.4,33.1,47.4,33.1",
+    "geom:latitude":33.1,
+    "geom:longitude":47.4,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Qal`eh-ye Sheykh Makhun",
+    "gn:country_code":"IR",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":27576,
+    "gn:latitude":33.1,
+    "gn:longitude":47.4,
+    "gn:modification_date":"2006-08-20",
+    "gn:name":"Qal`eh-ye Sheykh M\u0101kh\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u064e\u0644\u0639\u0650\u06c0 \u0634\u0650\u064a\u062e \u0645\u0627\u062e\u0648\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108719947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":27576
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4bf223f2df93184f3d7ed8eb31ec3b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719947,
+            "locality_id":1209934439,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1209934439,
+    "wof:lastmodified":1537641479,
+    "wof:name":"Qal`eh-ye Sheykh Makhun",
+    "wof:parent_id":1108719947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.4,
+    33.1,
+    47.4,
+    33.1
+],
+  "geometry": {"coordinates":[47.4,33.1],"type":"Point"}
+}

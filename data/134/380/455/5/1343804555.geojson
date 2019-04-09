@@ -1,0 +1,74 @@
+{
+  "id": 1343804555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.8119,27.3736,57.8119,27.3736",
+    "geom:latitude":27.3736,
+    "geom:longitude":57.8119,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Tom Kambari",
+    "gn:country_code":"IR",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":48193,
+    "gn:latitude":27.3736,
+    "gn:longitude":57.8119,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Tom Kambar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062a\u0645 \u06a9\u0645\u0628\u0631\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Tom Qanbar\u012b",
+        "Tom Kambar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":48193
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3927ca40f414021873a8b72238ee6ddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720213,
+            "locality_id":1343804555,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1343804555,
+    "wof:lastmodified":1537642710,
+    "wof:name":"Tom Kambari",
+    "wof:parent_id":1108720213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.8119,
+    27.3736,
+    57.8119,
+    27.3736
+],
+  "geometry": {"coordinates":[57.8119,27.3736],"type":"Point"}
+}

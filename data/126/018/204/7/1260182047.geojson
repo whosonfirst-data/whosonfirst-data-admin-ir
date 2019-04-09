@@ -1,0 +1,73 @@
+{
+  "id": 1260182047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.468,31.1386,61.468,31.1386",
+    "geom:latitude":31.1386,
+    "geom:longitude":61.468,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Deh-e Darvish",
+    "gn:country_code":"IR",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6650935,
+    "gn:latitude":31.1386,
+    "gn:longitude":61.468,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Deh-e Darv\u012bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647 \u062f\u0631\u0648\u06cc\u0634"
+    ],
+    "name:fas_x_variant":[
+        "Deh-e Darv\u012bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6650935
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b746ffa4d7b22b386e0e2e566ecbe435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720513,
+            "locality_id":1260182047,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1260182047,
+    "wof:lastmodified":1537647201,
+    "wof:name":"Deh-e Darvish",
+    "wof:parent_id":1108720513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.468,
+    31.1386,
+    61.468,
+    31.1386
+],
+  "geometry": {"coordinates":[61.468,31.1386],"type":"Point"}
+}

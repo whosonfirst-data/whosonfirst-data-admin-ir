@@ -1,0 +1,73 @@
+{
+  "id": 1209857185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.53278,39.49222,47.53278,39.49222",
+    "geom:latitude":39.49222,
+    "geom:longitude":47.53278,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Kandi",
+    "gn:country_code":"IR",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442605,
+    "gn:latitude":39.49222,
+    "gn:longitude":47.53278,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kand\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u064e\u0646\u062f\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Kand\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442605
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bb378674310c65693e590a428ca19f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720297,
+            "locality_id":1209857185,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1209857185,
+    "wof:lastmodified":1537646773,
+    "wof:name":"Kandi",
+    "wof:parent_id":1108720297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.53278,
+    39.49222,
+    47.53278,
+    39.49222
+],
+  "geometry": {"coordinates":[47.53278,39.49222],"type":"Point"}
+}

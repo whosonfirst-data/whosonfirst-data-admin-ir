@@ -1,0 +1,85 @@
+{
+  "id": 1243313663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.46488,26.961,58.46488,26.961",
+    "geom:latitude":26.961,
+    "geom:longitude":58.46488,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Som Sili",
+    "gn:country_code":"IR",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":114057,
+    "gn:latitude":26.961,
+    "gn:longitude":58.46488,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Som S\u012bl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0633\u0645 \u0633\u06cc\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Somsar\u012b",
+        "Som S\u012bl\u012b",
+        "Soms\u016br\u012b",
+        "Sams\u012bl\u016b",
+        "Soms\u012bl\u012b",
+        "\u0633\u0645\u0648\u0631\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Samsiloo",
+        "Soms\u016br\u012b",
+        "Sams\u012bl\u016b",
+        "Soms\u012bl\u012b",
+        "Som\u016br\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":114057
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"03a1222747ad4e1fd8ebde0612ee04e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720029,
+            "locality_id":1243313663,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1243313663,
+    "wof:lastmodified":1537643243,
+    "wof:name":"Som Sili",
+    "wof:parent_id":1108720029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.46488000000001,
+    26.961,
+    58.46488000000001,
+    26.961
+],
+  "geometry": {"coordinates":[58.46488000000001,26.961],"type":"Point"}
+}

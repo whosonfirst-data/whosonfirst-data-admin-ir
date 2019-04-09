@@ -1,0 +1,71 @@
+{
+  "id": 1209444663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.06945,35.92004,61.06945,35.92004",
+    "geom:latitude":35.92004,
+    "geom:longitude":61.06945,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Kheyrabad",
+    "gn:country_code":"IR",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7319469,
+    "gn:latitude":35.92004,
+    "gn:longitude":61.06945,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kheyr\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Kheyr\u0101b\u0101d"
+    ],
+    "name:fas_x_variant":[
+        "\u062e\u06cc\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u062e\u06cc\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7319469,
+        "wk:page":"Kheyrabad,_Salehabad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6ccb018044e0e4db4b23e32196298620",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209444663
+        }
+    ],
+    "wof:id":1209444663,
+    "wof:lastmodified":1537648106,
+    "wof:name":"Kheyrabad",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.06945,
+    35.92004,
+    61.06945,
+    35.92004
+],
+  "geometry": {"coordinates":[61.06945,35.92004],"type":"Point"}
+}

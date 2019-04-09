@@ -1,0 +1,77 @@
+{
+  "id": 1226462855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.3097,29.7198,53.3097,29.7198",
+    "geom:latitude":29.7198,
+    "geom:longitude":53.3097,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Hoseynabad",
+    "gn:country_code":"IR",
+    "gn:dem":1571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":406341,
+    "gn:latitude":29.7198,
+    "gn:longitude":53.3097,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"\u1e28oseyn\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0633\u06cc\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28oseyn\u0101b\u0101d",
+        "\u062d\u0633\u06cc\u0646 \u0622\u0628\u0627\u062f \u06a9\u062a\u06a9"
+    ],
+    "name:und_x_variant":[
+        "\u1e28oseyn\u0101b\u0101d Katak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108719827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":406341
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9a978b524b27c82176011d9f1c852cd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719827,
+            "locality_id":1226462855,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1226462855,
+    "wof:lastmodified":1537646616,
+    "wof:name":"Hoseynabad",
+    "wof:parent_id":1108719827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.3097,
+    29.7198,
+    53.3097,
+    29.7198
+],
+  "geometry": {"coordinates":[53.3097,29.7198],"type":"Point"}
+}

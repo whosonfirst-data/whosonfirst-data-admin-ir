@@ -1,0 +1,82 @@
+{
+  "id": 1343700093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.88432,31.8745,55.88432,31.8745",
+    "geom:latitude":31.8745,
+    "geom:longitude":55.88432,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Esfang",
+    "gn:country_code":"IR",
+    "gn:dem":1730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":135321,
+    "gn:latitude":31.8745,
+    "gn:longitude":55.88432,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Esfang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0650\u0633\u0641\u064e\u0646\u06af"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0650\u0633\u0641\u064e\u0646\u064e\u06af",
+        "\u0627\u0650\u0633\u067e\u0650\u0646\u06af",
+        "\u0627\u0633\u0641\u0646\u06af"
+    ],
+    "name:und_x_variant":[
+        "Espeng",
+        "Esfanag",
+        "Esfang",
+        "\u0627\u0633\u0641\u0646\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108719849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":135321,
+        "wk:page":"Esfang"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d78ed42d4a5a6dbdb6b72b7b3ecc2102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719849,
+            "locality_id":1343700093,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1343700093,
+    "wof:lastmodified":1537645363,
+    "wof:name":"Esfang",
+    "wof:parent_id":1108719849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.88432,
+    31.8745,
+    55.88432,
+    31.8745
+],
+  "geometry": {"coordinates":[55.88432,31.8745],"type":"Point"}
+}

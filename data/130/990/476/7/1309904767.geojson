@@ -1,0 +1,78 @@
+{
+  "id": 1309904767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.44436,30.51052,51.44436,30.51052",
+    "geom:latitude":30.51052,
+    "geom:longitude":51.44436,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Gurab",
+    "gn:country_code":"IR",
+    "gn:dem":1741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":46478,
+    "gn:latitude":30.51052,
+    "gn:longitude":51.44436,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"G\u016br\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0643\u0648\u0631\u0627\u0628"
+    ],
+    "name:fas_x_variant":[
+        "G\u016br\u0101b",
+        "K\u016br\u0101b",
+        "\u06af\u0648\u0631\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u06af\u0648\u0631\u0627\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108719911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":46478
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9f13864865e9a991a4460d720b83731b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719911,
+            "locality_id":1309904767,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1309904767,
+    "wof:lastmodified":1537642612,
+    "wof:name":"Gurab",
+    "wof:parent_id":1108719911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.44436,
+    30.51052,
+    51.44436,
+    30.51052
+],
+  "geometry": {"coordinates":[51.44436,30.51052],"type":"Point"}
+}

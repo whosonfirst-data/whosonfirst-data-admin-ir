@@ -1,0 +1,73 @@
+{
+  "id": 1226711245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.4648,33.5636,52.4648,33.5636",
+    "geom:latitude":33.5636,
+    "geom:longitude":52.4648,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Mo`inabad",
+    "gn:country_code":"IR",
+    "gn:dem":954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8944,
+    "gn:latitude":33.5636,
+    "gn:longitude":52.4648,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mo\u2018\u012bn\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0639\u06cc\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Mo\u2018\u012bn\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108719825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8944
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"823b5c0505dfe9c347de9f0f6323df48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719825,
+            "locality_id":1226711245,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1226711245,
+    "wof:lastmodified":1537640469,
+    "wof:name":"Mo`inabad",
+    "wof:parent_id":1108719825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.4648,
+    33.5636,
+    52.4648,
+    33.5636
+],
+  "geometry": {"coordinates":[52.4648,33.5636],"type":"Point"}
+}

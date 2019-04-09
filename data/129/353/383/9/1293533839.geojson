@@ -1,0 +1,73 @@
+{
+  "id": 1293533839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.35901,36.53809,52.35901,36.53809",
+    "geom:latitude":36.53809,
+    "geom:longitude":52.35901,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Sa`din Kola",
+    "gn:country_code":"IR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8626,
+    "gn:latitude":36.53809,
+    "gn:longitude":52.35901,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sa\u2018d\u012bn Kol\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0639\u062f\u064a\u0646 \u0643\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "Sa\u2018d\u012bn Kol\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8626
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5aebc0452fb95c7871d9e11fd19ae05b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719807,
+            "locality_id":1293533839,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1293533839,
+    "wof:lastmodified":1537640442,
+    "wof:name":"Sa`din Kola",
+    "wof:parent_id":1108719807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.35901,
+    36.53809,
+    52.35901,
+    36.53809
+],
+  "geometry": {"coordinates":[52.35901,36.53809],"type":"Point"}
+}

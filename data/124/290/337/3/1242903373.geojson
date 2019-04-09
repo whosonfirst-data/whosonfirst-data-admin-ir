@@ -1,0 +1,74 @@
+{
+  "id": 1242903373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.9457,35.714,60.9457,35.714",
+    "geom:latitude":35.714,
+    "geom:longitude":60.9457,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Gush Laghar",
+    "gn:country_code":"IR",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1161056,
+    "gn:latitude":35.714,
+    "gn:longitude":60.9457,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"G\u016bsh L\u0101ghar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0634 \u0644\u0627\u063a\u0631"
+    ],
+    "name:fas_x_variant":[
+        "G\u016bsh L\u0101ghar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1161056,
+        "wk:page":"Gush_Laghar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ca2232eb1444f8612aeff2e25c5abd0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720499,
+            "locality_id":1242903373,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1242903373,
+    "wof:lastmodified":1537647089,
+    "wof:name":"Gush Laghar",
+    "wof:parent_id":1108720499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.9457,
+    35.714,
+    60.9457,
+    35.714
+],
+  "geometry": {"coordinates":[60.9457,35.714],"type":"Point"}
+}

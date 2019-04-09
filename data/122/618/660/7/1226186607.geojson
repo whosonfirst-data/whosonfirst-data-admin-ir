@@ -1,0 +1,78 @@
+{
+  "id": 1226186607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.34791,36.58232,52.34791,36.58232",
+    "geom:latitude":36.58232,
+    "geom:longitude":52.34791,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ba'udeh",
+    "gn:country_code":"IR",
+    "gn:dem":-4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8088,
+    "gn:latitude":36.58232,
+    "gn:longitude":52.34791,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"B\u0101\u2019\u016bdeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0621\u0648\u062f\u0650\u06c0 \u0633\u064f\u0641\u0644\u064e\u0649"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0627\u0626\u0648\u062f\u0647",
+        "B\u0101\u2019\u016bdeh-ye Sofl\u00e1",
+        "B\u0101\u2019\u016bdeh"
+    ],
+    "name:und_x_variant":[
+        "B\u0101\u2019\u016bdeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8088
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"97a51db9d0bbc16db4e430b6ec9c3f45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720199,
+            "locality_id":1226186607,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1226186607,
+    "wof:lastmodified":1537640419,
+    "wof:name":"Ba'udeh",
+    "wof:parent_id":1108720199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.34791,
+    36.58232,
+    52.34791,
+    36.58232
+],
+  "geometry": {"coordinates":[52.34791,36.58232],"type":"Point"}
+}

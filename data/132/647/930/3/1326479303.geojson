@@ -1,0 +1,74 @@
+{
+  "id": 1326479303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.837,38.5563,47.837,38.5563",
+    "geom:latitude":38.5563,
+    "geom:longitude":47.837,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Dadeh Beyglu",
+    "gn:country_code":"IR",
+    "gn:dem":1059,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":35741,
+    "gn:latitude":38.5563,
+    "gn:longitude":47.837,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dadeh Beygl\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u062f\u0647 \u0628\u064a\u06af\u0644\u0648"
+    ],
+    "name:fas_x_variant":[
+        "Dadeh Beygl\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":35741,
+        "wk:page":"Dadeh_Beyglu"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"84f38687eaa8931e3606c0ca38d9b999",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720237,
+            "locality_id":1326479303,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1326479303,
+    "wof:lastmodified":1537641967,
+    "wof:name":"Dadeh Beyglu",
+    "wof:parent_id":1108720237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.837,
+    38.5563,
+    47.837,
+    38.5563
+],
+  "geometry": {"coordinates":[47.837,38.5563],"type":"Point"}
+}

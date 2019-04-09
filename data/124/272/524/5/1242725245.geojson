@@ -1,0 +1,76 @@
+{
+  "id": 1242725245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.94143,33.26339,51.94143,33.26339",
+    "geom:latitude":33.26339,
+    "geom:longitude":51.94143,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Changarzeh",
+    "gn:country_code":"IR",
+    "gn:dem":2295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8948,
+    "gn:latitude":33.26339,
+    "gn:longitude":51.94143,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Changarzeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Ma\u2018dan-e Cham Darreh"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u0646\u06af\u0631\u0632\u0647"
+    ],
+    "name:und_x_variant":[
+        "Cham Darreh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108719825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8948
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bf18950588322422b3726653ce916242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719825,
+            "locality_id":1242725245,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1242725245,
+    "wof:lastmodified":1537640469,
+    "wof:name":"Changarzeh",
+    "wof:parent_id":1108719825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.94143,
+    33.26339,
+    51.94143,
+    33.26339
+],
+  "geometry": {"coordinates":[51.94143,33.26339],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1343546009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.3206,37.1834,49.3206,37.1834",
+    "geom:latitude":37.1834,
+    "geom:longitude":49.3206,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Lelekam",
+    "gn:country_code":"IR",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6757329,
+    "gn:latitude":37.1834,
+    "gn:longitude":49.3206,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Lelek\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0644\u0647 \u06a9\u0627\u0645"
+    ],
+    "name:fas_x_variant":[
+        "Leyleh K\u0101m",
+        "\u0644\u0644\u06a9\u0627\u0645",
+        "\u0644\u0644\u06a9\u0627\u0645 \u067e\u0627\u06cc\u06cc\u0646"
+    ],
+    "name:und_x_variant":[
+        "Lelek\u0101m",
+        "Lelek\u0101m-e P\u0101\u2019\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6757329,
+        "wk:page":"Lelekam"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5904fe06cb63a1ddbb90e7f21c57e877",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720013,
+            "locality_id":1343546009,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1343546009,
+    "wof:lastmodified":1537647627,
+    "wof:name":"Lelekam",
+    "wof:parent_id":1108720013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.3206,
+    37.1834,
+    49.3206,
+    37.1834
+],
+  "geometry": {"coordinates":[49.3206,37.1834],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1243522999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.9489,33.4158,47.9489,33.4158",
+    "geom:latitude":33.4158,
+    "geom:longitude":47.9489,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Cham Qahreman",
+    "gn:country_code":"IR",
+    "gn:dem":968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":27809,
+    "gn:latitude":33.4158,
+    "gn:longitude":47.9489,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Cham Qahrem\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0645 \u0642\u0647\u0631\u0645\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u064e\u0645 \u0645\u0627\u0647\u064a\u0644\u0627\u0646",
+        "\u0645\u0648\u06cc \u0644\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Cham Qahrem\u0101n",
+        "Cham M\u0101h\u012bl\u0101n",
+        "M\u016by L\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":27809
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cd854b1f8d8aa0173640e9163c6d510b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720307,
+            "locality_id":1243522999,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1243522999,
+    "wof:lastmodified":1537641485,
+    "wof:name":"Cham Qahreman",
+    "wof:parent_id":1108720307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.9489,
+    33.4158,
+    47.9489,
+    33.4158
+],
+  "geometry": {"coordinates":[47.9489,33.4158],"type":"Point"}
+}

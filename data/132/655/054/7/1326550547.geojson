@@ -1,0 +1,80 @@
+{
+  "id": 1326550547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.713,30.9136,52.713,30.9136",
+    "geom:latitude":30.9136,
+    "geom:longitude":52.713,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Mahalleh-ye Orjaman",
+    "gn:country_code":"IR",
+    "gn:dem":2177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112383,
+    "gn:latitude":30.9136,
+    "gn:longitude":52.713,
+    "gn:modification_date":"2014-09-04",
+    "gn:name":"Ma\u1e29alleh-ye Orjam\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0631\u062c\u0645\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Owrjam\u0101n",
+        "Argam\u0101n",
+        "\u0645\u062d\u0644\u0647 \u0627\u0631\u062c\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Orgam\u0101n",
+        "\u016argam\u0101n",
+        "Ma\u1e29alleh-ye Orjam\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108719975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112383
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"19016d74955d8fd363cfb5d6f9cb2757",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719975,
+            "locality_id":1326550547,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1326550547,
+    "wof:lastmodified":1537643080,
+    "wof:name":"Mahalleh-ye Orjaman",
+    "wof:parent_id":1108719975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.713,
+    30.9136,
+    52.713,
+    30.9136
+],
+  "geometry": {"coordinates":[52.713,30.9136],"type":"Point"}
+}

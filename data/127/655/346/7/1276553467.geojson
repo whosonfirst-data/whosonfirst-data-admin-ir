@@ -1,0 +1,67 @@
+{
+  "id": 1276553467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.03333,26.23333,59.03333,26.23333",
+    "geom:latitude":26.23333,
+    "geom:longitude":59.03333,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Sirjan",
+    "gn:country_code":"IR",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":49012,
+    "gn:latitude":26.23333,
+    "gn:longitude":59.03333,
+    "gn:modification_date":"2000-11-28",
+    "gn:name":"S\u012brj\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":49012
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"61a1574a09cad3812b6bdea639da6829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720271,
+            "locality_id":1276553467,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1276553467,
+    "wof:lastmodified":1536980347,
+    "wof:name":"Sirjan",
+    "wof:parent_id":1108720271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.03333000000001,
+    26.23333,
+    59.03333000000001,
+    26.23333
+],
+  "geometry": {"coordinates":[59.03333000000001,26.23333],"type":"Point"}
+}

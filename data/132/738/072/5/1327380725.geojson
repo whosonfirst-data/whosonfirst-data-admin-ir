@@ -1,0 +1,74 @@
+{
+  "id": 1327380725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.96335,30.45808,55.96335,30.45808",
+    "geom:latitude":30.45808,
+    "geom:longitude":55.96335,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Nazmabad",
+    "gn:country_code":"IR",
+    "gn:dem":1489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":35220,
+    "gn:latitude":30.45808,
+    "gn:longitude":55.96335,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Naz\u0327m\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0638\u0645 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Najm\u0101b\u0101d",
+        "Naz\u0327m\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":35220
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ef0d07aa7dd287eec97b0a2ae7d4f7b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720329,
+            "locality_id":1327380725,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1327380725,
+    "wof:lastmodified":1537641937,
+    "wof:name":"Nazmabad",
+    "wof:parent_id":1108720329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.96335,
+    30.45808,
+    55.96335,
+    30.45808
+],
+  "geometry": {"coordinates":[55.96335,30.45808],"type":"Point"}
+}

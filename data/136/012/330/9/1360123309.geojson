@@ -1,0 +1,79 @@
+{
+  "id": 1360123309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.8233,37.6845,54.8233,37.6845",
+    "geom:latitude":37.6845,
+    "geom:longitude":54.8233,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Torshkali",
+    "gn:country_code":"IR",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":40044,
+    "gn:latitude":37.6845,
+    "gn:longitude":54.8233,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Torshkal\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Kh\u016bjeh \u015e\u0101f\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u062e\u0648\u062c\u0647 \u0635\u0627\u0641\u06cc",
+        "\u062a\u0631\u0634\u06a9\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u062e\u0648\u062c\u0647 \u0635\u0627\u0641\u06cc",
+        "Torshkal\u012b",
+        "T\u016bshkan\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":40044
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"43c9ebd98fceb70317bed89d93d090d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720039,
+            "locality_id":1360123309,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1360123309,
+    "wof:lastmodified":1537642248,
+    "wof:name":"Torshkali",
+    "wof:parent_id":1108720039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.8233,
+    37.6845,
+    54.8233,
+    37.6845
+],
+  "geometry": {"coordinates":[54.8233,37.6845],"type":"Point"}
+}

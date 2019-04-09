@@ -1,0 +1,73 @@
+{
+  "id": 1276376293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.97485,37.03093,54.97485,37.03093",
+    "geom:latitude":37.03093,
+    "geom:longitude":54.97485,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Salman Farsi",
+    "gn:country_code":"IR",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9985896,
+    "gn:latitude":37.03093,
+    "gn:longitude":54.97485,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Salm\u0101n F\u0101rs\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0644\u0645\u0627\u0646 \u0641\u0627\u0631\u0633\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Salm\u0101n F\u0101rs\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9985896
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"39e5f56ea7b89ab98182ad4aac8dc006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720337,
+            "locality_id":1276376293,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1276376293,
+    "wof:lastmodified":1537648663,
+    "wof:name":"Salman Farsi",
+    "wof:parent_id":1108720337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.97485,
+    37.03093,
+    54.97485,
+    37.03093
+],
+  "geometry": {"coordinates":[54.97485,37.03093],"type":"Point"}
+}

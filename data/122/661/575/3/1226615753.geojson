@@ -1,0 +1,75 @@
+{
+  "id": 1226615753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.4895,32.052,49.4895,32.052",
+    "geom:latitude":32.052,
+    "geom:longitude":49.4895,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Owlad",
+    "gn:country_code":"IR",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":36692,
+    "gn:latitude":32.052,
+    "gn:longitude":49.4895,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Owl\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0644\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Boneh-ye Owl\u0101d",
+        "Owl\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":36692,
+        "wk:page":"Owlad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bddb506f32d37304a834b0a97d6133b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720229,
+            "locality_id":1226615753,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1226615753,
+    "wof:lastmodified":1537642027,
+    "wof:name":"Owlad",
+    "wof:parent_id":1108720229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.4895,
+    32.052,
+    49.4895,
+    32.052
+],
+  "geometry": {"coordinates":[49.4895,32.052],"type":"Point"}
+}

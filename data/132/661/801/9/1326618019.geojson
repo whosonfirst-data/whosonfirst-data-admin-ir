@@ -1,0 +1,74 @@
+{
+  "id": 1326618019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.5842,26.6101,57.5842,26.6101",
+    "geom:latitude":26.6101,
+    "geom:longitude":57.5842,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kashpiri",
+    "gn:country_code":"IR",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":48600,
+    "gn:latitude":26.6101,
+    "gn:longitude":57.5842,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kashp\u012br\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0634\u067e\u064a\u0631\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Kashp\u012br\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":48600,
+        "wk:page":"Kashpiri"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"06ab1f4c2367e9a2a5d0cad6a1421ed8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720243,
+            "locality_id":1326618019,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1326618019,
+    "wof:lastmodified":1537642737,
+    "wof:name":"Kashpiri",
+    "wof:parent_id":1108720243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.5842,
+    26.6101,
+    57.5842,
+    26.6101
+],
+  "geometry": {"coordinates":[57.5842,26.6101],"type":"Point"}
+}

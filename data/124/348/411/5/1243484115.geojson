@@ -1,0 +1,73 @@
+{
+  "id": 1243484115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.10322,37.24489,58.10322,37.24489",
+    "geom:latitude":37.24489,
+    "geom:longitude":58.10322,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Seh Gonbad",
+    "gn:country_code":"IR",
+    "gn:dem":1222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":116464,
+    "gn:latitude":37.24489,
+    "gn:longitude":58.10322,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Seh Gonbad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Kam\u0101l\u0101b\u0101d"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0647 \u06af\u0646\u0628\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672401,
+        1108720001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":116464
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"31b689c89dc34581ead99b2ec7e4d164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720001,
+            "locality_id":1243484115,
+            "region_id":85672401
+        }
+    ],
+    "wof:id":1243484115,
+    "wof:lastmodified":1537643452,
+    "wof:name":"Seh Gonbad",
+    "wof:parent_id":1108720001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.10321999999999,
+    37.24489000000001,
+    58.10321999999999,
+    37.24489000000001
+],
+  "geometry": {"coordinates":[58.10321999999999,37.24489000000001],"type":"Point"}
+}

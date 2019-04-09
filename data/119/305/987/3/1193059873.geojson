@@ -1,0 +1,73 @@
+{
+  "id": 1193059873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.9742,39.6077,47.9742,39.6077",
+    "geom:latitude":39.6077,
+    "geom:longitude":47.9742,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Molla Kandi",
+    "gn:country_code":"IR",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":17108,
+    "gn:latitude":39.6077,
+    "gn:longitude":47.9742,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Moll\u0101 Kand\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0627 \u0643\u0646\u062f\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Moll\u0101 Kand\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":17108
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"14e0c62390a963289df2ec3c1947ab72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720297,
+            "locality_id":1193059873,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1193059873,
+    "wof:lastmodified":1537640925,
+    "wof:name":"Molla Kandi",
+    "wof:parent_id":1108720297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.9742,
+    39.6077,
+    47.9742,
+    39.6077
+],
+  "geometry": {"coordinates":[47.9742,39.6077],"type":"Point"}
+}

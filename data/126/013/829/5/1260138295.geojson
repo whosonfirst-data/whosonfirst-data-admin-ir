@@ -1,0 +1,74 @@
+{
+  "id": 1260138295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.0757,33.5599,47.0757,33.5599",
+    "geom:latitude":33.5599,
+    "geom:longitude":47.0757,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Zuleh",
+    "gn:country_code":"IR",
+    "gn:dem":1215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":27878,
+    "gn:latitude":33.5599,
+    "gn:longitude":47.0757,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Z\u016bleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u0644\u0650\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0632\u0648\u0644\u0647",
+        "Z\u016bleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":27878
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7d560c231a351b165eac40e3a68c0a27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720169,
+            "locality_id":1260138295,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1260138295,
+    "wof:lastmodified":1537641487,
+    "wof:name":"Zuleh",
+    "wof:parent_id":1108720169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.0757,
+    33.5599,
+    47.0757,
+    33.5599
+],
+  "geometry": {"coordinates":[47.0757,33.5599],"type":"Point"}
+}

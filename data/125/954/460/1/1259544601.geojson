@@ -1,0 +1,80 @@
+{
+  "id": 1259544601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.96538,30.50657,54.96538,30.50657",
+    "geom:latitude":30.50657,
+    "geom:longitude":54.96538,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Bid Sukhteh",
+    "gn:country_code":"IR",
+    "gn:dem":2350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":49491,
+    "gn:latitude":30.50657,
+    "gn:longitude":54.96538,
+    "gn:modification_date":"2015-01-06",
+    "gn:name":"B\u012bd S\u016bkhteh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "B\u012bds\u016bkhteh-e V\u0101basteh Beh Javazm"
+    ],
+    "name:fas_x_variant":[
+        "B\u012bs\u016bkhteh",
+        "\u0628\u064a\u0633\u0648\u062e\u062a\u0647",
+        "\u0628\u064a\u062f \u0633\u0648\u062e\u062a\u0647"
+    ],
+    "name:und_x_variant":[
+        "B\u012bs\u016bkhteh",
+        "B\u012bds\u016bkhteh-e V\u0101basteh Beh Javazm",
+        "B\u012bd S\u016bkhteh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":49491
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6ebc36e0305c28f88d1338cf90f58c20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720433,
+            "locality_id":1259544601,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1259544601,
+    "wof:lastmodified":1537642787,
+    "wof:name":"Bid Sukhteh",
+    "wof:parent_id":1108720433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.96538,
+    30.50657,
+    54.96538,
+    30.50657
+],
+  "geometry": {"coordinates":[54.96538,30.50657],"type":"Point"}
+}

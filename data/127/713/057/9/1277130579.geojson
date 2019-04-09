@@ -1,0 +1,73 @@
+{
+  "id": 1277130579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.96003,35.00463,49.96003,35.00463",
+    "geom:latitude":35.00463,
+    "geom:longitude":49.96003,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Palangabad",
+    "gn:country_code":"IR",
+    "gn:dem":1665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":41747,
+    "gn:latitude":35.00463,
+    "gn:longitude":49.96003,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Palang\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0644\u0646\u06af \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Palang\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":41747
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"96c167c1c4674c9404a7fae2c8000b75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720407,
+            "locality_id":1277130579,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1277130579,
+    "wof:lastmodified":1537642354,
+    "wof:name":"Palangabad",
+    "wof:parent_id":1108720407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.96003,
+    35.00463,
+    49.96003,
+    35.00463
+],
+  "geometry": {"coordinates":[49.96003,35.00463],"type":"Point"}
+}

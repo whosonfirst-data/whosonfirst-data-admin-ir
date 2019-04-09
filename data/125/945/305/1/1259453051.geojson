@@ -1,0 +1,67 @@
+{
+  "id": 1259453051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.76306,31.58694,48.76306,31.58694",
+    "geom:latitude":31.58694,
+    "geom:longitude":48.76306,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Sedreh",
+    "gn:country_code":"IR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":42230,
+    "gn:latitude":31.58694,
+    "gn:longitude":48.76306,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sedreh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":42230
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"eb72df7376b3c380c4791cdf35e9ddf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719793,
+            "locality_id":1259453051,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1259453051,
+    "wof:lastmodified":1536902737,
+    "wof:name":"Sedreh",
+    "wof:parent_id":1108719793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.76306,
+    31.58694,
+    48.76306,
+    31.58694
+],
+  "geometry": {"coordinates":[48.76306,31.58694],"type":"Point"}
+}

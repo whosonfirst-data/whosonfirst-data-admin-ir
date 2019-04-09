@@ -1,0 +1,80 @@
+{
+  "id": 1259472405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.52148,34.49066,48.52148,34.49066",
+    "geom:latitude":34.49066,
+    "geom:longitude":48.52148,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Do La'i",
+    "gn:country_code":"IR",
+    "gn:dem":1974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":135971,
+    "gn:latitude":34.49066,
+    "gn:longitude":48.52148,
+    "gn:modification_date":"2018-07-02",
+    "gn:name":"Do L\u0101\u2019\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u064f\u0648\u0644\u0627\u0626\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u064f\u0644\u0651\u0627\u0626\u06cc",
+        "Dowl\u0101\u2019\u012b",
+        "\u062f\u0648 \u0644\u0627\u06cc\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Doll\u0101\u2019\u012b",
+        "Do L\u0101\u2019\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":135971,
+        "wk:page":"Dowlai"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8b111f05a940ed5f2d830b22c0e63a69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720505,
+            "locality_id":1259472405,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1259472405,
+    "wof:lastmodified":1537645427,
+    "wof:name":"Do La'i",
+    "wof:parent_id":1108720505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.52148,
+    34.49066,
+    48.52148,
+    34.49066
+],
+  "geometry": {"coordinates":[48.52148,34.49066],"type":"Point"}
+}

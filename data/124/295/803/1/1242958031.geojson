@@ -1,0 +1,78 @@
+{
+  "id": 1242958031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.4336,36.8066,49.4336,36.8066",
+    "geom:latitude":36.8066,
+    "geom:longitude":49.4336,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Zargah",
+    "gn:country_code":"IR",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":118659,
+    "gn:latitude":36.8066,
+    "gn:longitude":49.4336,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Zarg\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u0631\u06af\u0627\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Razg\u0101h",
+        "Zarg\u0101h"
+    ],
+    "name:und_x_variant":[
+        "Razgakh",
+        "Razqeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":118659
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b11179ac7fb6c47b815bb065c5020a4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720361,
+            "locality_id":1242958031,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1242958031,
+    "wof:lastmodified":1537643659,
+    "wof:name":"Zargah",
+    "wof:parent_id":1108720361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.4336,
+    36.8066,
+    49.4336,
+    36.8066
+],
+  "geometry": {"coordinates":[49.4336,36.8066],"type":"Point"}
+}

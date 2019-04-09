@@ -1,0 +1,73 @@
+{
+  "id": 1310530449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.82261,35.02483,60.82261,35.02483",
+    "geom:latitude":35.02483,
+    "geom:longitude":60.82261,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Chah-e Saburi",
+    "gn:country_code":"IR",
+    "gn:dem":829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1112964,
+    "gn:latitude":35.02483,
+    "gn:longitude":60.82261,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ch\u0101h-e \u015eab\u016br\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0647 \u0635\u0628\u0648\u0631\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Ch\u0101h-e \u015eab\u016br\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1112964
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ecef80295b303570e4c1220297c535a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720489,
+            "locality_id":1310530449,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1310530449,
+    "wof:lastmodified":1537646825,
+    "wof:name":"Chah-e Saburi",
+    "wof:parent_id":1108720489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.82261,
+    35.02483,
+    60.82261,
+    35.02483
+],
+  "geometry": {"coordinates":[60.82261,35.02483],"type":"Point"}
+}

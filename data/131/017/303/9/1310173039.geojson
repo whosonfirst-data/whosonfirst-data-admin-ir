@@ -1,0 +1,79 @@
+{
+  "id": 1310173039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.29348,35.92914,54.29348,35.92914",
+    "geom:latitude":35.92914,
+    "geom:longitude":54.29348,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Solhabad",
+    "gn:country_code":"IR",
+    "gn:dem":1105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":114136,
+    "gn:latitude":35.92914,
+    "gn:longitude":54.29348,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"\u015eol\u1e29\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u015eol\u1e29\u0101b\u0101d\u016b"
+    ],
+    "name:fas_x_variant":[
+        "\u015eol\u1e29\u0101b\u0101d",
+        "\u0635\u0644\u062d \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "S\u0101leh \u0100b\u0101d",
+        "\u015eol\u1e29\u0101b\u0101d",
+        "S\u016blh\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672309,
+        1108719937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":114136
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9f19c1c658e8da2c8551f4264a1883fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719937,
+            "locality_id":1310173039,
+            "region_id":85672309
+        }
+    ],
+    "wof:id":1310173039,
+    "wof:lastmodified":1537643251,
+    "wof:name":"Solhabad",
+    "wof:parent_id":1108719937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.29348,
+    35.92914000000001,
+    54.29348,
+    35.92914000000001
+],
+  "geometry": {"coordinates":[54.29348,35.92914000000001],"type":"Point"}
+}

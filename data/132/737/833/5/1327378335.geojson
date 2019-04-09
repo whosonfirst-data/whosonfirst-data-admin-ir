@@ -1,0 +1,76 @@
+{
+  "id": 1327378335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.65362,36.4742,52.65362,36.4742",
+    "geom:latitude":36.4742,
+    "geom:longitude":52.65362,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Mir Kola",
+    "gn:country_code":"IR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11004,
+    "gn:latitude":36.4742,
+    "gn:longitude":52.65362,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"M\u012br Kol\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u064a\u0631 \u0643\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "M\u012br Kol\u0101"
+    ],
+    "name:und_x_variant":[
+        "\u0645\u064a\u0631 \u0643\u064f\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11004
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9464fde1dc69fba5e468f9b20c1235d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719845,
+            "locality_id":1327378335,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1327378335,
+    "wof:lastmodified":1537640600,
+    "wof:name":"Mir Kola",
+    "wof:parent_id":1108719845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.65362,
+    36.4742,
+    52.65362,
+    36.4742
+],
+  "geometry": {"coordinates":[52.65362,36.4742],"type":"Point"}
+}

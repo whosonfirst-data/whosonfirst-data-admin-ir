@@ -1,0 +1,80 @@
+{
+  "id": 1310225487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.7736,27.5933,52.7736,27.5933",
+    "geom:latitude":27.5933,
+    "geom:longitude":52.7736,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Chah Sargahi",
+    "gn:country_code":"IR",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":139530,
+    "gn:latitude":27.5933,
+    "gn:longitude":52.7736,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ch\u0101h Sarg\u0101h\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0647 \u0633\u0631\u06af\u0627\u0647\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Ch\u0101h-e Sa\u1e29arg\u0101h\u012b",
+        "Ch\u0101h Sarg\u0101h\u012b"
+    ],
+    "name:und_x_variant":[
+        "Sargaya",
+        "Ch\u0101h-e Sar G\u0101h\u012b",
+        "Chah Sargahi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":139530,
+        "wk:page":"Chah_Sargahi"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"08c8b2497a89436248f11778483194b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720253,
+            "locality_id":1310225487,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1310225487,
+    "wof:lastmodified":1537645781,
+    "wof:name":"Chah Sargahi",
+    "wof:parent_id":1108720253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.7736,
+    27.5933,
+    52.7736,
+    27.5933
+],
+  "geometry": {"coordinates":[52.7736,27.5933],"type":"Point"}
+}

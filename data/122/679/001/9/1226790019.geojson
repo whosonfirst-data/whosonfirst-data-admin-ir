@@ -1,0 +1,82 @@
+{
+  "id": 1226790019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.73875,35.118,49.73875,35.118",
+    "geom:latitude":35.118,
+    "geom:longitude":49.73875,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Mazlaqan",
+    "gn:country_code":"IR",
+    "gn:dem":1614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":124510,
+    "gn:latitude":35.118,
+    "gn:longitude":49.73875,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Mazlaq\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0632\u0644\u0642\u0627\u0646 \u0643\u0647\u0646\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Mazdaq\u0101n-e Kohneh",
+        "Mazlaq\u0101n-e Kohneh",
+        "\u0645\u0632\u0644\u0642\u0627\u0646",
+        "\u0645\u0632\u062f\u0642\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Marqak\u0101n",
+        "Mazdaq\u0101n Kohneh",
+        "Mazdaq\u0101n",
+        "Mazlaq\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":124510
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6bb03cd25fcc38edc977df261aec7a99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720407,
+            "locality_id":1226790019,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1226790019,
+    "wof:lastmodified":1537644260,
+    "wof:name":"Mazlaqan",
+    "wof:parent_id":1108720407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.73875,
+    35.118,
+    49.73875,
+    35.118
+],
+  "geometry": {"coordinates":[49.73875,35.118],"type":"Point"}
+}

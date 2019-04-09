@@ -1,0 +1,77 @@
+{
+  "id": 1276967217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.22191,26.36585,57.22191,26.36585",
+    "geom:latitude":26.36585,
+    "geom:longitude":57.22191,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Namordi",
+    "gn:country_code":"IR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":122715,
+    "gn:latitude":26.36585,
+    "gn:longitude":57.22191,
+    "gn:modification_date":"2014-09-30",
+    "gn:name":"Namord\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0645\u0631\u062f\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Namord\u012b",
+        "\u06af\u0648\u0646\u0645\u0631\u062f\u06cc"
+    ],
+    "name:und_x_variant":[
+        "G\u016bnmord\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":122715
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5e091cedf98fc2b1bca58f618ec36195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720243,
+            "locality_id":1276967217,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1276967217,
+    "wof:lastmodified":1537644085,
+    "wof:name":"Namordi",
+    "wof:parent_id":1108720243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.22191,
+    26.36585,
+    57.22191,
+    26.36585
+],
+  "geometry": {"coordinates":[57.22191,26.36585],"type":"Point"}
+}

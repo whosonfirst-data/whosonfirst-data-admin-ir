@@ -1,0 +1,73 @@
+{
+  "id": 1209171193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.23427,35.95865,53.23427,35.95865",
+    "geom:latitude":35.95865,
+    "geom:longitude":53.23427,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Tarum",
+    "gn:country_code":"IR",
+    "gn:dem":2367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":33750,
+    "gn:latitude":35.95865,
+    "gn:longitude":53.23427,
+    "gn:modification_date":"2013-10-03",
+    "gn:name":"\u0162\u0101r\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0637\u0627\u0631\u064f\u0645"
+    ],
+    "name:fas_x_variant":[
+        "\u0637\u0627\u0631\u0648\u0645",
+        "\u0162\u0101rom",
+        "\u0162\u0101r\u016bm",
+        "\u0637\u0627\u0631\u0648"
+    ],
+    "name:und_x_variant":[
+        "\u0162\u0101r\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":33750
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e8f22d098fcaad01cd02b7a6041794f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209171193
+        }
+    ],
+    "wof:id":1209171193,
+    "wof:lastmodified":1537641878,
+    "wof:name":"Tarum",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.23427,
+    35.95865,
+    53.23427,
+    35.95865
+],
+  "geometry": {"coordinates":[53.23427,35.95865],"type":"Point"}
+}

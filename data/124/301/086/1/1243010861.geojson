@@ -1,0 +1,76 @@
+{
+  "id": 1243010861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.90286,36.11712,49.90286,36.11712",
+    "geom:latitude":36.11712,
+    "geom:longitude":49.90286,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Khanamabad",
+    "gn:country_code":"IR",
+    "gn:dem":1223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":132195,
+    "gn:latitude":36.11712,
+    "gn:longitude":49.90286,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Khanamabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0643\u064a\u0645 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28ak\u012bm\u0101b\u0101d"
+    ],
+    "name:und_x_variant":[
+        "Kh\u0101nom\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108719913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":132195
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6ef29a4844e3b163b7ad7cf137adb3cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719913,
+            "locality_id":1243010861,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1243010861,
+    "wof:lastmodified":1537645041,
+    "wof:name":"Khanamabad",
+    "wof:parent_id":1108719913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.90286,
+    36.11712,
+    49.90286,
+    36.11712
+],
+  "geometry": {"coordinates":[49.90286,36.11712],"type":"Point"}
+}

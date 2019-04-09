@@ -1,0 +1,73 @@
+{
+  "id": 1276986385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.51134,27.30667,61.51134,27.30667",
+    "geom:latitude":27.30667,
+    "geom:longitude":61.51134,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sartafti",
+    "gn:country_code":"IR",
+    "gn:dem":1525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8698788,
+    "gn:latitude":27.30667,
+    "gn:longitude":61.51134,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Sart\u0101ft\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u062a\u0627\u0641\u062a\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Sart\u0101ft\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8698788
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1723793cdca8d3712badaa44476b7de4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720389,
+            "locality_id":1276986385,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1276986385,
+    "wof:lastmodified":1537648606,
+    "wof:name":"Sartafti",
+    "wof:parent_id":1108720389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.51134,
+    27.30667,
+    61.51134,
+    27.30667
+],
+  "geometry": {"coordinates":[61.51134,27.30667],"type":"Point"}
+}

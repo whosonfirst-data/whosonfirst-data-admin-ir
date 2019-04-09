@@ -1,0 +1,64 @@
+{
+  "id": 1209111917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.65,26.0,59.65,26.0",
+    "geom:latitude":26.0,
+    "geom:longitude":59.65,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Chakeri Koch",
+    "gn:country_code":"IR",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":49037,
+    "gn:latitude":26.0,
+    "gn:longitude":59.65,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ch\u0101ker\u012b Koch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Ch\u0101ker\u012b Koch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":49037
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"51cebdb7e3e5fb2d6ef2f6f0759ee5c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209111917
+        }
+    ],
+    "wof:id":1209111917,
+    "wof:lastmodified":1537642766,
+    "wof:name":"Chakeri Koch",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.65,
+    26.0,
+    59.65,
+    26.0
+],
+  "geometry": {"coordinates":[59.65,26.0],"type":"Point"}
+}

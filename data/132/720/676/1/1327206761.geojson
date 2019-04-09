@@ -1,0 +1,76 @@
+{
+  "id": 1327206761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.9667,32.8802,48.9667,32.8802",
+    "geom:latitude":32.8802,
+    "geom:longitude":48.9667,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Marmeh",
+    "gn:country_code":"IR",
+    "gn:dem":732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":36447,
+    "gn:latitude":32.8802,
+    "gn:longitude":48.9667,
+    "gn:modification_date":"2016-01-06",
+    "gn:name":"M\u0101rmeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "M\u0101rmah"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0627\u0631\u0645\u0647"
+    ],
+    "name:und_x_variant":[
+        "M\u0101rmeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":36447
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"09f2989bcbd2825b1d10084c4ce7f147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719969,
+            "locality_id":1327206761,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1327206761,
+    "wof:lastmodified":1537642011,
+    "wof:name":"Marmeh",
+    "wof:parent_id":1108719969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.9667,
+    32.8802,
+    48.9667,
+    32.8802
+],
+  "geometry": {"coordinates":[48.9667,32.8802],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1343256157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.538,30.231,51.538,30.231",
+    "geom:latitude":30.231,
+    "geom:longitude":51.538,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Zameni",
+    "gn:country_code":"IR",
+    "gn:dem":896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":111528,
+    "gn:latitude":30.231,
+    "gn:longitude":51.538,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e94\u0101men\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u1e94\u0101men\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u1e94\u0101men\u012b-ye B\u0101l\u0101",
+        "\u0636\u0627\u0645\u0646\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Zamen\u012b",
+        "Z\u0101men\u012b-ye \u2018Oly\u0101",
+        "\u0636\u0627\u0645\u0646\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":111528,
+        "wk:page":"Zameni"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"74873a43bfe9a5d8d468f0c17f46060a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720209,
+            "locality_id":1343256157,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1343256157,
+    "wof:lastmodified":1537642981,
+    "wof:name":"Zameni",
+    "wof:parent_id":1108720209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.538,
+    30.231,
+    51.538,
+    30.231
+],
+  "geometry": {"coordinates":[51.538,30.231],"type":"Point"}
+}

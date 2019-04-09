@@ -1,0 +1,77 @@
+{
+  "id": 1343730615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.98041,33.70651,48.98041,33.70651",
+    "geom:latitude":33.70651,
+    "geom:longitude":48.98041,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Bayatan",
+    "gn:country_code":"IR",
+    "gn:dem":1610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":141049,
+    "gn:latitude":33.70651,
+    "gn:longitude":48.98041,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Bay\u0101t\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u064a\u0627\u062a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Bay\u0101t\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Bay\u0101t\u016bn",
+        "Bey\u0101t\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":141049
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"372060c3ad80d14c7ae17d55a4c58405",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719973,
+            "locality_id":1343730615,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1343730615,
+    "wof:lastmodified":1537645937,
+    "wof:name":"Bayatan",
+    "wof:parent_id":1108719973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.98041,
+    33.70650999999999,
+    48.98041,
+    33.70650999999999
+],
+  "geometry": {"coordinates":[48.98041,33.70650999999999],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343712989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.98917,32.25306,53.98917,32.25306",
+    "geom:latitude":32.25306,
+    "geom:longitude":53.98917,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Yakhdan",
+    "gn:country_code":"IR",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2666,
+    "gn:latitude":32.25306,
+    "gn:longitude":53.98917,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Yakhd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u064a\u064e\u062e\u062f\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Yakhd\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108720239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2666
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6014c4f2d02ea731e555907ebbec35c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720239,
+            "locality_id":1343712989,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1343712989,
+    "wof:lastmodified":1537640218,
+    "wof:name":"Yakhdan",
+    "wof:parent_id":1108720239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.98917,
+    32.25306,
+    53.98917,
+    32.25306
+],
+  "geometry": {"coordinates":[53.98917,32.25306],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343844143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.8933,34.3951,46.8933,34.3951",
+    "geom:latitude":34.3951,
+    "geom:longitude":46.8933,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Da'ichi",
+    "gn:country_code":"IR",
+    "gn:dem":1325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":24015,
+    "gn:latitude":34.3951,
+    "gn:longitude":46.8933,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"D\u0101\u2019\u012bch\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u06cc\u06cc\u0686\u06cc"
+    ],
+    "name:und_x_variant":[
+        "D\u0101\u2019\u012bch\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":24015
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"26a12fa7265474010dbb113f134303a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720117,
+            "locality_id":1343844143,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1343844143,
+    "wof:lastmodified":1537641251,
+    "wof:name":"Da'ichi",
+    "wof:parent_id":1108720117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.8933,
+    34.3951,
+    46.8933,
+    34.3951
+],
+  "geometry": {"coordinates":[46.8933,34.3951],"type":"Point"}
+}

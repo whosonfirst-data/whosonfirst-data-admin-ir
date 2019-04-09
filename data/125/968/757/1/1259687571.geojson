@@ -1,0 +1,74 @@
+{
+  "id": 1259687571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.1439,36.9834,45.1439,36.9834",
+    "geom:latitude":36.9834,
+    "geom:longitude":45.1439,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Nalus",
+    "gn:country_code":"IR",
+    "gn:dem":1419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":122771,
+    "gn:latitude":36.9834,
+    "gn:longitude":45.1439,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"N\u0101l\u016bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0644\u0648\u0633"
+    ],
+    "name:fas_x_variant":[
+        "N\u0101l\u016bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":122771,
+        "wk:page":"Nalus"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"172d3eedb2d2f86d9758a4cb0d0adfa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720291,
+            "locality_id":1259687571,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1259687571,
+    "wof:lastmodified":1537644089,
+    "wof:name":"Nalus",
+    "wof:parent_id":1108720291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.1439,
+    36.9834,
+    45.1439,
+    36.9834
+],
+  "geometry": {"coordinates":[45.1439,36.9834],"type":"Point"}
+}

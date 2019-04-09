@@ -1,0 +1,73 @@
+{
+  "id": 1243540645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.7421,34.3156,46.7421,34.3156",
+    "geom:latitude":34.3156,
+    "geom:longitude":46.7421,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Valiyehabad",
+    "gn:country_code":"IR",
+    "gn:dem":1353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6711558,
+    "gn:latitude":34.3156,
+    "gn:longitude":46.7421,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"V\u0101l\u012byeh\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0644\u06cc\u0647 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "V\u0101l\u012byeh\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6711558
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bee980d729c15448648bcd8ba4f1ca51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720117,
+            "locality_id":1243540645,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1243540645,
+    "wof:lastmodified":1537647476,
+    "wof:name":"Valiyehabad",
+    "wof:parent_id":1108720117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.7421,
+    34.3156,
+    46.7421,
+    34.3156
+],
+  "geometry": {"coordinates":[46.7421,34.3156],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344237443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.25353,27.30577,55.25353,27.30577",
+    "geom:latitude":27.30577,
+    "geom:longitude":55.25353,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Penar",
+    "gn:country_code":"IR",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8182937,
+    "gn:latitude":27.30577,
+    "gn:longitude":55.25353,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Pen\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0646\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Pen\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8182937
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"90a460d986748d23f00fd13b1105c664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720127,
+            "locality_id":1344237443,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1344237443,
+    "wof:lastmodified":1537648527,
+    "wof:name":"Penar",
+    "wof:parent_id":1108720127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.25353000000001,
+    27.30577000000001,
+    55.25353000000001,
+    27.30577000000001
+],
+  "geometry": {"coordinates":[55.25353000000001,27.30577000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1277028265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.3366,37.8583,47.3366,37.8583",
+    "geom:latitude":37.8583,
+    "geom:longitude":47.3366,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Abarghan",
+    "gn:country_code":"IR",
+    "gn:dem":1700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":145431,
+    "gn:latitude":37.8583,
+    "gn:longitude":47.3366,
+    "gn:modification_date":"2018-05-25",
+    "gn:name":"Abargh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u0631\u063a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Abargh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145431,
+        "wk:page":"Abarghan,_Sarab"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1054ae063c80f34b4878fbc24cffa8e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720385,
+            "locality_id":1277028265,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1277028265,
+    "wof:lastmodified":1537646363,
+    "wof:name":"Abarghan",
+    "wof:parent_id":1108720385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.3366,
+    37.8583,
+    47.3366,
+    37.8583
+],
+  "geometry": {"coordinates":[47.3366,37.8583],"type":"Point"}
+}

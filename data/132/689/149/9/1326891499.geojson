@@ -1,0 +1,73 @@
+{
+  "id": 1326891499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.5793,31.03096,56.5793,31.03096",
+    "geom:latitude":31.03096,
+    "geom:longitude":56.5793,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Chehel Ta'i",
+    "gn:country_code":"IR",
+    "gn:dem":2268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":9878625,
+    "gn:latitude":31.03096,
+    "gn:longitude":56.5793,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Chehel T\u0101\u2019\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0647\u0644 \u062a\u0627\u06cc\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Chehel T\u0101\u2019\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9878625
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"01f73f0e9f50bdedc49380d5939e28bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720523,
+            "locality_id":1326891499,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1326891499,
+    "wof:lastmodified":1537648656,
+    "wof:name":"Chehel Ta'i",
+    "wof:parent_id":1108720523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.5793,
+    31.03096,
+    56.5793,
+    31.03096
+],
+  "geometry": {"coordinates":[56.5793,31.03096],"type":"Point"}
+}

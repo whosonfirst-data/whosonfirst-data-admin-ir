@@ -1,0 +1,76 @@
+{
+  "id": 1343551235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.57593,36.64154,49.57593,36.64154",
+    "geom:latitude":36.64154,
+    "geom:longitude":49.57593,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Vachil",
+    "gn:country_code":"IR",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7431567,
+    "gn:latitude":36.64154,
+    "gn:longitude":49.57593,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Vach\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Vach\u012bl"
+    ],
+    "name:fas_x_variant":[
+        "\u0648\u0686\u06cc\u0644"
+    ],
+    "name:und_x_variant":[
+        "\u0648\u0686\u06cc\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7431567
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4a313b59f16a50e160761deffba25f86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720361,
+            "locality_id":1343551235,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1343551235,
+    "wof:lastmodified":1537648191,
+    "wof:name":"Vachil",
+    "wof:parent_id":1108720361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.57593,
+    36.64154,
+    49.57593,
+    36.64154
+],
+  "geometry": {"coordinates":[49.57593,36.64154],"type":"Point"}
+}

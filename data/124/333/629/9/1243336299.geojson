@@ -1,0 +1,74 @@
+{
+  "id": 1243336299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.46472,30.05083,48.46472,30.05083",
+    "geom:latitude":30.05083,
+    "geom:longitude":48.46472,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Nahr-e Mosa`edeh",
+    "gn:country_code":"IR",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":44963,
+    "gn:latitude":30.05083,
+    "gn:longitude":48.46472,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Nahr-e Mos\u0101\u2018edeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Nahr-e Mos\u0101\u2018edeh"
+    ],
+    "name:und_x_variant":[
+        "Nahr-e K\u016br",
+        "Mos\u0101\u2018ed\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":44963
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3c05984f9277ae4daeeadbe33c4f6cf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719777,
+            "locality_id":1243336299,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1243336299,
+    "wof:lastmodified":1537642512,
+    "wof:name":"Nahr-e Mosa`edeh",
+    "wof:parent_id":1108719777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.46472,
+    30.05083,
+    48.46472,
+    30.05083
+],
+  "geometry": {"coordinates":[48.46472,30.05083],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293418425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.31213,36.04446,51.31213,36.04446",
+    "geom:latitude":36.04446,
+    "geom:longitude":51.31213,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Oshtorak",
+    "gn:country_code":"IR",
+    "gn:dem":2095,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8665,
+    "gn:latitude":36.04446,
+    "gn:longitude":51.31213,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Oshtorak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0634\u062a\u0631\u0643"
+    ],
+    "name:und_x_variant":[
+        "\u0627\u0634\u062a\u0631\u0643",
+        "Oshtorak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672415,
+        1108720105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8665
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"be469c2975027e2117507075cd50d8a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720105,
+            "locality_id":1293418425,
+            "region_id":85672415
+        }
+    ],
+    "wof:id":1293418425,
+    "wof:lastmodified":1537640446,
+    "wof:name":"Oshtorak",
+    "wof:parent_id":1108720105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.31213,
+    36.04446,
+    51.31213,
+    36.04446
+],
+  "geometry": {"coordinates":[51.31213,36.04446],"type":"Point"}
+}

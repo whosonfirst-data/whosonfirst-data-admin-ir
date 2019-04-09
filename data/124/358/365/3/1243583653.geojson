@@ -1,0 +1,73 @@
+{
+  "id": 1243583653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.26453,36.51672,60.26453,36.51672",
+    "geom:latitude":36.51672,
+    "geom:longitude":60.26453,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Niazi",
+    "gn:country_code":"IR",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7082268,
+    "gn:latitude":36.51672,
+    "gn:longitude":60.26453,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"N\u012b\u0101z\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0627\u0632\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "N\u012b\u0101z\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7082268
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"47bae23faa9f2043547afcba1ae774d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720095,
+            "locality_id":1243583653,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1243583653,
+    "wof:lastmodified":1537648028,
+    "wof:name":"Niazi",
+    "wof:parent_id":1108720095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.26453000000001,
+    36.51672,
+    60.26453000000001,
+    36.51672
+],
+  "geometry": {"coordinates":[60.26453000000001,36.51672],"type":"Point"}
+}

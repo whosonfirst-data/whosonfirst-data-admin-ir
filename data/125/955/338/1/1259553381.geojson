@@ -1,0 +1,76 @@
+{
+  "id": 1259553381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.3395,30.2835,48.3395,30.2835",
+    "geom:latitude":30.2835,
+    "geom:longitude":48.3395,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Ramileh",
+    "gn:country_code":"IR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":118823,
+    "gn:latitude":30.2835,
+    "gn:longitude":48.3395,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ram\u012bleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u0645\u064a\u0644\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Ram\u012bleh"
+    ],
+    "name:und_x_variant":[
+        "Romeyleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":118823
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"701a88a495d332d4d5cb1f63c011479e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719777,
+            "locality_id":1259553381,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1259553381,
+    "wof:lastmodified":1537643675,
+    "wof:name":"Ramileh",
+    "wof:parent_id":1108719777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.3395,
+    30.2835,
+    48.3395,
+    30.2835
+],
+  "geometry": {"coordinates":[48.3395,30.2835],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259523803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.02246,36.50147,52.02246,36.50147",
+    "geom:latitude":36.50147,
+    "geom:longitude":52.02246,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Natel",
+    "gn:country_code":"IR",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8286,
+    "gn:latitude":36.50147,
+    "gn:longitude":52.02246,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"N\u0101tel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062a\u0644"
+    ],
+    "name:fas_x_variant":[
+        "N\u0101tel",
+        "N\u0101t\u0101l",
+        "\u0646\u0627\u062a\u0627\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8286
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9af0e402af63eb26bb28c1c0ad664b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720283,
+            "locality_id":1259523803,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1259523803,
+    "wof:lastmodified":1537640429,
+    "wof:name":"Natel",
+    "wof:parent_id":1108720283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.02246,
+    36.50147,
+    52.02246,
+    36.50147
+],
+  "geometry": {"coordinates":[52.02246,36.50147],"type":"Point"}
+}

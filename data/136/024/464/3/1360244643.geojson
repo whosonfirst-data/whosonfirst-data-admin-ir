@@ -1,0 +1,73 @@
+{
+  "id": 1360244643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.5046,38.3804,47.5046,38.3804",
+    "geom:latitude":38.3804,
+    "geom:longitude":47.5046,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Manjiqchi",
+    "gn:country_code":"IR",
+    "gn:dem":1129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6730913,
+    "gn:latitude":38.3804,
+    "gn:longitude":47.5046,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Manj\u012bqch\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u062c\u06cc\u0642 \u0686\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Manj\u012bqch\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6730913
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bdee13c5184d7a96c43d57a6d57eda4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720237,
+            "locality_id":1360244643,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1360244643,
+    "wof:lastmodified":1537647545,
+    "wof:name":"Manjiqchi",
+    "wof:parent_id":1108720237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.5046,
+    38.3804,
+    47.5046,
+    38.3804
+],
+  "geometry": {"coordinates":[47.5046,38.3804],"type":"Point"}
+}

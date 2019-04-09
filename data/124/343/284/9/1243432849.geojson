@@ -1,0 +1,77 @@
+{
+  "id": 1243432849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.5638,33.515,46.5638,33.515",
+    "geom:latitude":33.515,
+    "geom:longitude":46.5638,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Meydan",
+    "gn:country_code":"IR",
+    "gn:dem":1382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":28133,
+    "gn:latitude":33.515,
+    "gn:longitude":46.5638,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Meyd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u062f\u0627\u0646 \u0645\u06cc\u0634 \u062e\u0627\u0635"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u064a\u062f\u0627\u0646",
+        "Meyd\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Meyd\u0101n-e M\u012bsh Kh\u0101\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108720061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":28133
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4fedde1e7ee7f49469c932d866f772ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720061,
+            "locality_id":1243432849,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1243432849,
+    "wof:lastmodified":1537641510,
+    "wof:name":"Meydan",
+    "wof:parent_id":1108720061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.5638,
+    33.515,
+    46.5638,
+    33.515
+],
+  "geometry": {"coordinates":[46.5638,33.515],"type":"Point"}
+}

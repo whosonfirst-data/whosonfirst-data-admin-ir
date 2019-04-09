@@ -1,0 +1,73 @@
+{
+  "id": 1310505083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.4232,36.0902,45.4232,36.0902",
+    "geom:latitude":36.0902,
+    "geom:longitude":45.4232,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ebrahimabad",
+    "gn:country_code":"IR",
+    "gn:dem":1598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6677020,
+    "gn:latitude":36.0902,
+    "gn:longitude":45.4232,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ebr\u0101h\u012bm\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u0631\u0627\u0647\u06cc\u0645 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Ebr\u0101h\u012bm\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6677020
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cd837037e5125144fa1c9f32cd21ca7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720399,
+            "locality_id":1310505083,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1310505083,
+    "wof:lastmodified":1537647331,
+    "wof:name":"Ebrahimabad",
+    "wof:parent_id":1108720399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.4232,
+    36.0902,
+    45.4232,
+    36.0902
+],
+  "geometry": {"coordinates":[45.4232,36.0902],"type":"Point"}
+}

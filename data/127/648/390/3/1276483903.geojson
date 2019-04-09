@@ -1,0 +1,67 @@
+{
+  "id": 1276483903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.46667,37.28333,55.46667,37.28333",
+    "geom:latitude":37.28333,
+    "geom:longitude":55.46667,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Kalleh Khar",
+    "gn:country_code":"IR",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5919,
+    "gn:latitude":37.28333,
+    "gn:longitude":55.46667,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Kalleh Khar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5919
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8db5543c62eafe9b273e6970e7c64941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720245,
+            "locality_id":1276483903,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1276483903,
+    "wof:lastmodified":1537071108,
+    "wof:name":"Kalleh Khar",
+    "wof:parent_id":1108720245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.46666999999999,
+    37.28333,
+    55.46666999999999,
+    37.28333
+],
+  "geometry": {"coordinates":[55.46666999999999,37.28333],"type":"Point"}
+}

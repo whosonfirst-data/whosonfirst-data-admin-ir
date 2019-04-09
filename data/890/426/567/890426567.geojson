@@ -1,0 +1,70 @@
+{
+  "id": 890426567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.46989,31.12082,61.46989,31.12082",
+    "geom:latitude":31.12082,
+    "geom:longitude":61.46989,
+    "gn:country":"IR",
+    "gn:fcode":"BLDG",
+    "gn:pop":5,
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "qs:name":"Magma",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":2082,
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8015572,
+        "gp:id":2229543,
+        "qs:id":749493,
+        "wd:id":"Q42278",
+        "wk:page":"Magma"
+    },
+    "wof:country":"IR",
+    "wof:created":1469051637,
+    "wof:geomhash":"0481749887ed11a720c15f6fabe2a762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720513,
+            "locality_id":890426567,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":890426567,
+    "wof:lastmodified":1527782106,
+    "wof:name":"Magma",
+    "wof:parent_id":1108720513,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.46989,
+    31.12082,
+    61.46989,
+    31.12082
+],
+  "geometry": {"coordinates":[61.46989,31.12082],"type":"Point"}
+}

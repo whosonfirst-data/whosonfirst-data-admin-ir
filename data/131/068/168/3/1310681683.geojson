@@ -1,0 +1,80 @@
+{
+  "id": 1310681683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.08655,25.45893,59.08655,25.45893",
+    "geom:latitude":25.45893,
+    "geom:longitude":59.08655,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Karti",
+    "gn:country_code":"IR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":128246,
+    "gn:latitude":25.45893,
+    "gn:longitude":59.08655,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kart\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0650\u0631\u0650\u062a\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Kart\u012b",
+        "\u0643\u0631\u062a\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Keret\u012b",
+        "Kerti",
+        "\u0643\u0631\u062a\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":128246,
+        "wk:page":"Karti"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e515c33528f0359d8a91db5d864d2e01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720077,
+            "locality_id":1310681683,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1310681683,
+    "wof:lastmodified":1537644643,
+    "wof:name":"Karti",
+    "wof:parent_id":1108720077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.08655,
+    25.45893,
+    59.08655,
+    25.45893
+],
+  "geometry": {"coordinates":[59.08655,25.45893],"type":"Point"}
+}

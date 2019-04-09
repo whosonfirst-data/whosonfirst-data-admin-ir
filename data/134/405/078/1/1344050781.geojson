@@ -1,0 +1,77 @@
+{
+  "id": 1344050781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.1085,32.8081,47.1085,32.8081",
+    "geom:latitude":32.8081,
+    "geom:longitude":47.1085,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Eshkam Gav-e Anaran",
+    "gn:country_code":"IR",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6719771,
+    "gn:latitude":32.8081,
+    "gn:longitude":47.1085,
+    "gn:modification_date":"2015-04-09",
+    "gn:name":"Eshkam G\u0101v-e An\u0101r\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0627\u0634\u06a9\u0645 \u06af\u0627\u0648 \u0627\u0646\u0627\u0631\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Eshkam G\u0101v-e An\u0101r\u0101n",
+        "\u0627\u0634\u06a9\u0645 \u06af\u0627\u0648"
+    ],
+    "name:und_x_variant":[
+        "Eshkam G\u0101v"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108719957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6719771
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dd5d7ea1d1671639dd16bf1d2bf70d1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719957,
+            "locality_id":1344050781,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1344050781,
+    "wof:lastmodified":1537647483,
+    "wof:name":"Eshkam Gav-e Anaran",
+    "wof:parent_id":1108719957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.1085,
+    32.8081,
+    47.1085,
+    32.8081
+],
+  "geometry": {"coordinates":[47.1085,32.8081],"type":"Point"}
+}

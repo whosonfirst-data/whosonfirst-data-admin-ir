@@ -1,0 +1,73 @@
+{
+  "id": 1242633377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.69861,33.415,48.69861,33.415",
+    "geom:latitude":33.415,
+    "geom:longitude":48.69861,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Faramarz",
+    "gn:country_code":"IR",
+    "gn:dem":1892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":134848,
+    "gn:latitude":33.415,
+    "gn:longitude":48.69861,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Far\u0101marz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0641\u064e\u0631\u0627\u0645\u064e\u0631\u0632"
+    ],
+    "name:fas_x_variant":[
+        "Far\u0101marz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":134848
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"08acd2e0ea2138d261ca4870e21a89a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720145,
+            "locality_id":1242633377,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1242633377,
+    "wof:lastmodified":1537645314,
+    "wof:name":"Faramarz",
+    "wof:parent_id":1108720145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.69861,
+    33.415,
+    48.69861,
+    33.415
+],
+  "geometry": {"coordinates":[48.69861,33.415],"type":"Point"}
+}

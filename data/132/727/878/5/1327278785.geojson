@@ -1,0 +1,73 @@
+{
+  "id": 1327278785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.4328,35.1351,50.4328,35.1351",
+    "geom:latitude":35.1351,
+    "geom:longitude":50.4328,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Ja`farabad",
+    "gn:country_code":"IR",
+    "gn:dem":1243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":130631,
+    "gn:latitude":35.1351,
+    "gn:longitude":50.4328,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ja\u2018far\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u0639\u0641\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Ja\u2018far\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":130631
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"349a9bed3ec24f6effe99785ab924d1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720407,
+            "locality_id":1327278785,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1327278785,
+    "wof:lastmodified":1537644884,
+    "wof:name":"Ja`farabad",
+    "wof:parent_id":1108720407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.4328,
+    35.1351,
+    50.4328,
+    35.1351
+],
+  "geometry": {"coordinates":[50.4328,35.1351],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276903787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.44829,36.65174,59.44829,36.65174",
+    "geom:latitude":36.65174,
+    "geom:longitude":59.44829,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Derangabad",
+    "gn:country_code":"IR",
+    "gn:dem":1178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":31075,
+    "gn:latitude":36.65174,
+    "gn:longitude":59.44829,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Derang\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0646\u06af \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Derang\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":31075,
+        "wk:page":"Derangabad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7d8c7a6b94a5dd004ab230ddb9d180ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720227,
+            "locality_id":1276903787,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1276903787,
+    "wof:lastmodified":1537641695,
+    "wof:name":"Derangabad",
+    "wof:parent_id":1108720227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.44829,
+    36.65174,
+    59.44829,
+    36.65174
+],
+  "geometry": {"coordinates":[59.44829,36.65174],"type":"Point"}
+}

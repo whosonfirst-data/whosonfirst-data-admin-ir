@@ -1,0 +1,73 @@
+{
+  "id": 1310521943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.15364,27.61551,54.15364,27.61551",
+    "geom:latitude":27.61551,
+    "geom:longitude":54.15364,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Cheshm Badami",
+    "gn:country_code":"IR",
+    "gn:dem":1041,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11272572,
+    "gn:latitude":27.61551,
+    "gn:longitude":54.15364,
+    "gn:modification_date":"2016-10-10",
+    "gn:name":"Cheshm B\u0101d\u0101m\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0686\u0634\u0645 \u0628\u0627\u062f\u0627\u0645\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Cheshm B\u0101d\u0101m\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11272572
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b135df65e760046ff3d8e2acb490580e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720185,
+            "locality_id":1310521943,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1310521943,
+    "wof:lastmodified":1537648765,
+    "wof:name":"Cheshm Badami",
+    "wof:parent_id":1108720185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.15364,
+    27.61551,
+    54.15364,
+    27.61551
+],
+  "geometry": {"coordinates":[54.15364,27.61551],"type":"Point"}
+}

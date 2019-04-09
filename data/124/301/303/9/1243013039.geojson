@@ -1,0 +1,85 @@
+{
+  "id": 1243013039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.04662,34.87019,50.04662,34.87019",
+    "geom:latitude":34.87019,
+    "geom:longitude":50.04662,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Kanj",
+    "gn:country_code":"IR",
+    "gn:dem":1269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":128873,
+    "gn:latitude":34.87019,
+    "gn:longitude":50.04662,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kanj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u064e\u0646\u062f\u0650\u062c"
+    ],
+    "name:fas_x_variant":[
+        "\u0643\u064e\u0646\u062f\u064e\u062c",
+        "\u0643\u064f\u0646\u062f\u064e\u062c",
+        "\u0643\u064e\u0646\u062f\u064a\u062c\u0647",
+        "\u0643\u0646\u062c"
+    ],
+    "name:und_x_variant":[
+        "Kondaj",
+        "Kandaj",
+        "Kand\u012bjh",
+        "Kanj",
+        "\u0643\u0646\u062c",
+        "Kandej"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":128873,
+        "wk:page":"Kandej"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"414c8e8d05264c23af5481acbbc899b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720473,
+            "locality_id":1243013039,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1243013039,
+    "wof:lastmodified":1537644709,
+    "wof:name":"Kanj",
+    "wof:parent_id":1108720473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.04662,
+    34.87019,
+    50.04662,
+    34.87019
+],
+  "geometry": {"coordinates":[50.04662,34.87019],"type":"Point"}
+}

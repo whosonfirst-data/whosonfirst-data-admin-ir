@@ -1,0 +1,71 @@
+{
+  "id": 1209343511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.66556,32.5837,59.66556,32.5837",
+    "geom:latitude":32.5837,
+    "geom:longitude":59.66556,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Hajjiabad",
+    "gn:country_code":"IR",
+    "gn:dem":1860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":132355,
+    "gn:latitude":32.5837,
+    "gn:longitude":59.66556,
+    "gn:modification_date":"2015-08-06",
+    "gn:name":"\u1e28\u0101jj\u012b\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0627\u062c\u06cc \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28\u0101jj\u012b\u0101b\u0101d"
+    ],
+    "name:und_x_variant":[
+        "H\u0101j\u012b\u0101b\u0101d",
+        "Haji Abad Mo\u2019men Abad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":132355
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"98b6a246130f738f0ee4f10474bfb235",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209343511
+        }
+    ],
+    "wof:id":1209343511,
+    "wof:lastmodified":1537645059,
+    "wof:name":"Hajjiabad",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.66556,
+    32.5837,
+    59.66556,
+    32.5837
+],
+  "geometry": {"coordinates":[59.66556,32.5837],"type":"Point"}
+}

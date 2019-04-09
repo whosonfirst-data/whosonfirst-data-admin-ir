@@ -1,0 +1,73 @@
+{
+  "id": 1259479857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.4296,30.0232,52.4296,30.0232",
+    "geom:latitude":30.0232,
+    "geom:longitude":52.4296,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Qavamabad",
+    "gn:country_code":"IR",
+    "gn:dem":1609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6872400,
+    "gn:latitude":30.0232,
+    "gn:longitude":52.4296,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Qav\u0101m\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0642\u0648\u0627\u0645 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Qav\u0101m\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6872400
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1a50b1cf7a7972ad74b0d17492d9da40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720421,
+            "locality_id":1259479857,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1259479857,
+    "wof:lastmodified":1537647689,
+    "wof:name":"Qavamabad",
+    "wof:parent_id":1108720421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.4296,
+    30.0232,
+    52.4296,
+    30.0232
+],
+  "geometry": {"coordinates":[52.4296,30.0232],"type":"Point"}
+}

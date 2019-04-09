@@ -1,0 +1,79 @@
+{
+  "id": 1226519861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.6523,27.924,56.6523,27.924",
+    "geom:latitude":27.924,
+    "geom:longitude":56.6523,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Goli Anjir",
+    "gn:country_code":"IR",
+    "gn:dem":1045,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":133656,
+    "gn:latitude":27.924,
+    "gn:longitude":56.6523,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Gol\u012b Anj\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0631\u0648 \u0627\u0646\u062c\u064a\u0631\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u0650\u062f\u0648 \u0627\u064e\u0646\u062c\u064a\u0631",
+        "\u06af\u0644\u06cc \u0627\u0646\u062c\u06cc\u0631",
+        "Ger\u016b Anj\u012br\u0101n",
+        "Gol\u012b Anj\u012br"
+    ],
+    "name:und_x_variant":[
+        "Ged\u016b Anj\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":133656
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dcae85eeb26a3309c81930de2996edd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720045,
+            "locality_id":1226519861,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1226519861,
+    "wof:lastmodified":1537645193,
+    "wof:name":"Goli Anjir",
+    "wof:parent_id":1108720045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.6523,
+    27.924,
+    56.6523,
+    27.924
+],
+  "geometry": {"coordinates":[56.6523,27.924],"type":"Point"}
+}

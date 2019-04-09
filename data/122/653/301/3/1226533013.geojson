@@ -1,0 +1,82 @@
+{
+  "id": 1226533013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.46345,30.24847,51.46345,30.24847",
+    "geom:latitude":30.24847,
+    "geom:longitude":51.46345,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Dasht Manguderaz",
+    "gn:country_code":"IR",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":116435,
+    "gn:latitude":30.24847,
+    "gn:longitude":51.46345,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"Dasht Mang\u016bderaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Seh Tal\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "Satal\u0101n",
+        "\u0633\u062a\u0644\u0627\u0646",
+        "\u062f\u0634\u062a \u0645\u0646\u06af\u0648\u062f\u0631\u0632",
+        "\u0633\u0647 \u062a\u0644\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Dezak",
+        "Satal\u0101n",
+        "\u0633\u062a\u0644\u0627\u0646",
+        "Dasht Mang\u016bderaz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":116435
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"34b328acec5c785663b85c30b0f9af5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720209,
+            "locality_id":1226533013,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1226533013,
+    "wof:lastmodified":1537643450,
+    "wof:name":"Dasht Manguderaz",
+    "wof:parent_id":1108720209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.46345,
+    30.24847,
+    51.46345,
+    30.24847
+],
+  "geometry": {"coordinates":[51.46345,30.24847],"type":"Point"}
+}

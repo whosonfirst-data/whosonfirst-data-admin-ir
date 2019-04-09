@@ -1,0 +1,68 @@
+{
+  "id": 1209967103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.81417,30.25111,57.81417,30.25111",
+    "geom:latitude":30.25111,
+    "geom:longitude":57.81417,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Hanza",
+    "gn:country_code":"IR",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":403480,
+    "gn:latitude":30.25111,
+    "gn:longitude":57.81417,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Hanza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":403480,
+        "wk:page":"Hanza%2C_Kerman"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8082640d036936c65cc1e807c69a584e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720115,
+            "locality_id":1209967103,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1209967103,
+    "wof:lastmodified":1537566286,
+    "wof:name":"Hanza",
+    "wof:parent_id":1108720115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.81417,
+    30.25111,
+    57.81417,
+    30.25111
+],
+  "geometry": {"coordinates":[57.81417,30.25111],"type":"Point"}
+}

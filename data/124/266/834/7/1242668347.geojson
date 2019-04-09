@@ -1,0 +1,77 @@
+{
+  "id": 1242668347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.34806,30.48256,51.34806,30.48256",
+    "geom:latitude":30.48256,
+    "geom:longitude":51.34806,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Dudek",
+    "gn:country_code":"IR",
+    "gn:dem":1187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":135661,
+    "gn:latitude":30.48256,
+    "gn:longitude":51.34806,
+    "gn:modification_date":"2014-09-30",
+    "gn:name":"D\u016bdek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "D\u016bdek"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0648\u062f\u06a9"
+    ],
+    "name:und_x_variant":[
+        "Dodak",
+        "\u062f\u0648\u062f\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":135661
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c8dcfd9a2b7f4f5027746d127f0499fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720209,
+            "locality_id":1242668347,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1242668347,
+    "wof:lastmodified":1537645397,
+    "wof:name":"Dudek",
+    "wof:parent_id":1108720209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.34806,
+    30.48256,
+    51.34806,
+    30.48256
+],
+  "geometry": {"coordinates":[51.34806,30.48256],"type":"Point"}
+}

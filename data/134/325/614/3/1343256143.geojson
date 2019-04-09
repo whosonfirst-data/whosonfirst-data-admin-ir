@@ -1,0 +1,78 @@
+{
+  "id": 1343256143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.47469,30.21498,51.47469,30.21498",
+    "geom:latitude":30.21498,
+    "geom:longitude":51.47469,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Sar Bisheh",
+    "gn:country_code":"IR",
+    "gn:dem":844,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":46581,
+    "gn:latitude":30.21498,
+    "gn:longitude":51.47469,
+    "gn:modification_date":"2018-06-06",
+    "gn:name":"Sar B\u012bsheh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sar B\u012bsheh"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0631 \u0628\u06cc\u0634\u0647"
+    ],
+    "name:und_x_variant":[
+        "Tall-e B\u012bsheh",
+        "\u0633\u0631 \u0628\u06cc\u0634\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":46581,
+        "wk:page":"Sar_Bisheh,_Fars"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8665faebbaa9fc8ba9b2ef36214bcbdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720209,
+            "locality_id":1343256143,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1343256143,
+    "wof:lastmodified":1537642619,
+    "wof:name":"Sar Bisheh",
+    "wof:parent_id":1108720209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.47469,
+    30.21498,
+    51.47469,
+    30.21498
+],
+  "geometry": {"coordinates":[51.47469,30.21498],"type":"Point"}
+}

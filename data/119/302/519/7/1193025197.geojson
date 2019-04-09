@@ -1,0 +1,78 @@
+{
+  "id": 1193025197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.591,39.0364,44.591,39.0364",
+    "geom:latitude":39.0364,
+    "geom:longitude":44.591,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Qular",
+    "gn:country_code":"IR",
+    "gn:dem":1996,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":13984,
+    "gn:latitude":39.0364,
+    "gn:longitude":44.591,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Q\u016bl\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0648\u0644\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0642\u0648\u0644\u064e\u0631",
+        "Q\u016blar",
+        "Q\u016bl\u0101r"
+    ],
+    "name:und_x_variant":[
+        "Q\u016bl\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108719923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13984
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d6f0e734b37f5ba7568f157238f83ca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719923,
+            "locality_id":1193025197,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1193025197,
+    "wof:lastmodified":1537640766,
+    "wof:name":"Qular",
+    "wof:parent_id":1108719923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.591,
+    39.0364,
+    44.591,
+    39.0364
+],
+  "geometry": {"coordinates":[44.591,39.0364],"type":"Point"}
+}

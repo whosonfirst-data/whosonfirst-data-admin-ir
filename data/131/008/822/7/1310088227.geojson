@@ -1,0 +1,81 @@
+{
+  "id": 1310088227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.94429,30.77103,48.94429,30.77103",
+    "geom:latitude":30.77103,
+    "geom:longitude":48.94429,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Gharganeh",
+    "gn:country_code":"IR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":45023,
+    "gn:latitude":30.77103,
+    "gn:longitude":48.94429,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Gharg\u0101neh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Qarg\u0101neh"
+    ],
+    "name:fas_x_variant":[
+        "Gharg\u0101neh",
+        "Zobeyd\u012b",
+        "\u0642\u0631\u06af\u0627\u0646\u0647",
+        "\u0632\u0628\u06cc\u062f\u06cc",
+        "\u063a\u0631\u06af\u0627\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0642\u0631\u06af\u0627\u0646\u0647",
+        "\u0632\u0628\u06cc\u062f\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":45023
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"934ab75fb686fdb064dcb2eadeaf30c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720425,
+            "locality_id":1310088227,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1310088227,
+    "wof:lastmodified":1537642516,
+    "wof:name":"Gharganeh",
+    "wof:parent_id":1108720425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.94429,
+    30.77103,
+    48.94429,
+    30.77103
+],
+  "geometry": {"coordinates":[48.94429,30.77103],"type":"Point"}
+}

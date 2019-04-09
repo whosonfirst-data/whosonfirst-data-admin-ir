@@ -1,0 +1,73 @@
+{
+  "id": 1343304363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.01345,31.53715,54.01345,31.53715",
+    "geom:latitude":31.53715,
+    "geom:longitude":54.01345,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Murtam-e Bala",
+    "gn:country_code":"IR",
+    "gn:dem":2609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8627386,
+    "gn:latitude":31.53715,
+    "gn:longitude":54.01345,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"M\u016brtam-e B\u0101l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0631\u062a\u0645 \u0628\u0627\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "M\u016brtam-e B\u0101l\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108720475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8627386
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ec7c5dbeabf638404156306d5357797e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720475,
+            "locality_id":1343304363,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1343304363,
+    "wof:lastmodified":1537648595,
+    "wof:name":"Murtam-e Bala",
+    "wof:parent_id":1108720475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.01345,
+    31.53715,
+    54.01345,
+    31.53715
+],
+  "geometry": {"coordinates":[54.01345,31.53715],"type":"Point"}
+}

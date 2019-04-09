@@ -1,0 +1,74 @@
+{
+  "id": 1225934679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.79881,29.016,54.79881,29.016",
+    "geom:latitude":29.016,
+    "geom:longitude":54.79881,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sang-e Sefid",
+    "gn:country_code":"IR",
+    "gn:dem":1584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9533264,
+    "gn:latitude":29.016,
+    "gn:longitude":54.79881,
+    "gn:modification_date":"2018-06-20",
+    "gn:name":"Sang-e Sef\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u06af \u0633\u0641\u06cc\u062f"
+    ],
+    "name:und_x_variant":[
+        "Sang-e Sef\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9533264,
+        "wk:page":"Sang-e_Sefid,_Qatruyeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3ebcaaa3644c0e22659c27972a127baf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720277,
+            "locality_id":1225934679,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1225934679,
+    "wof:lastmodified":1537648648,
+    "wof:name":"Sang-e Sefid",
+    "wof:parent_id":1108720277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.79881,
+    29.016,
+    54.79881,
+    29.016
+],
+  "geometry": {"coordinates":[54.79881,29.016],"type":"Point"}
+}

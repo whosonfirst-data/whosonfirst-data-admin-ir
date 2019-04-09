@@ -1,0 +1,73 @@
+{
+  "id": 1193275545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.55813,28.43991,61.55813,28.43991",
+    "geom:latitude":28.43991,
+    "geom:longitude":61.55813,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dastgerd",
+    "gn:country_code":"IR",
+    "gn:dem":1403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1113656,
+    "gn:latitude":28.43991,
+    "gn:longitude":61.55813,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Dastgerd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Dastgerd-e P\u0101\u2019\u012bn"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0633\u062a\u06af\u0631\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1113656
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ec4faf5d0846986e8d5eef8dad4c906a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720131,
+            "locality_id":1193275545,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1193275545,
+    "wof:lastmodified":1537646867,
+    "wof:name":"Dastgerd",
+    "wof:parent_id":1108720131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.55813000000001,
+    28.43991,
+    61.55813000000001,
+    28.43991
+],
+  "geometry": {"coordinates":[61.55813000000001,28.43991],"type":"Point"}
+}

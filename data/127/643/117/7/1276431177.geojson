@@ -1,0 +1,76 @@
+{
+  "id": 1276431177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.8248,38.124,48.8248,38.124",
+    "geom:latitude":38.124,
+    "geom:longitude":48.8248,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Kuhestan",
+    "gn:country_code":"IR",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6744290,
+    "gn:latitude":38.124,
+    "gn:longitude":48.8248,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"K\u016bhest\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0647\u0633\u062a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "K\u016bhest\u0101n"
+    ],
+    "name:und_x_variant":[
+        "K\u016bhest\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6744290
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bc43e7958c1bdfdd7b7d08b64c504965",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720487,
+            "locality_id":1276431177,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1276431177,
+    "wof:lastmodified":1537647611,
+    "wof:name":"Kuhestan",
+    "wof:parent_id":1108720487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.8248,
+    38.124,
+    48.8248,
+    38.124
+],
+  "geometry": {"coordinates":[48.8248,38.124],"type":"Point"}
+}

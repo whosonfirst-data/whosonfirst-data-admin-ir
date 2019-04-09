@@ -1,0 +1,73 @@
+{
+  "id": 1343633263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.58359,36.35415,46.58359,36.35415",
+    "geom:latitude":36.35415,
+    "geom:longitude":46.58359,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Yazi Bolaghi",
+    "gn:country_code":"IR",
+    "gn:dem":1534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":26248,
+    "gn:latitude":36.35415,
+    "gn:longitude":46.58359,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Y\u0101z\u012b Bol\u0101gh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u064a\u0627\u0632\u06cc \u0628\u0644\u0627\u063a\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Y\u0101z\u012b Bol\u0101gh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":26248
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cb4e203c07c0111ac97af156d1ad6f20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720381,
+            "locality_id":1343633263,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1343633263,
+    "wof:lastmodified":1537641382,
+    "wof:name":"Yazi Bolaghi",
+    "wof:parent_id":1108720381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.58359,
+    36.35415,
+    46.58359,
+    36.35415
+],
+  "geometry": {"coordinates":[46.58359,36.35415],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276651943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.8153,37.9501,48.8153,37.9501",
+    "geom:latitude":37.9501,
+    "geom:longitude":48.8153,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Homasar",
+    "gn:country_code":"IR",
+    "gn:dem":1147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":37167,
+    "gn:latitude":37.9501,
+    "gn:longitude":48.8153,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Hom\u0101sar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0647\u0645\u0627\u0633\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Hom\u0101sar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":37167,
+        "wk:page":"Homasar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e84274389103f17d37e0b1de6c54c7f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720487,
+            "locality_id":1276651943,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1276651943,
+    "wof:lastmodified":1537642067,
+    "wof:name":"Homasar",
+    "wof:parent_id":1108720487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.8153,
+    37.9501,
+    48.8153,
+    37.9501
+],
+  "geometry": {"coordinates":[48.8153,37.9501],"type":"Point"}
+}

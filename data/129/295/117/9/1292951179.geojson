@@ -1,0 +1,73 @@
+{
+  "id": 1292951179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.98475,30.67369,56.98475,30.67369",
+    "geom:latitude":30.67369,
+    "geom:longitude":56.98475,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Deh-e Taqi",
+    "gn:country_code":"IR",
+    "gn:dem":2172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535204,
+    "gn:latitude":30.67369,
+    "gn:longitude":56.98475,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Deh-e Taq\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647 \u062a\u0642\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Deh-e Taq\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535204
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"400804e0187f0ef18488a6ca3d09b24b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720347,
+            "locality_id":1292951179,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1292951179,
+    "wof:lastmodified":1537648579,
+    "wof:name":"Deh-e Taqi",
+    "wof:parent_id":1108720347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.98475,
+    30.67369,
+    56.98475,
+    30.67369
+],
+  "geometry": {"coordinates":[56.98475,30.67369],"type":"Point"}
+}

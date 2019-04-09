@@ -1,0 +1,77 @@
+{
+  "id": 1260009285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.94187,35.05352,57.94187,35.05352",
+    "geom:latitude":35.05352,
+    "geom:longitude":57.94187,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Kharabcheh",
+    "gn:country_code":"IR",
+    "gn:dem":870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":15749,
+    "gn:latitude":35.05352,
+    "gn:longitude":57.94187,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Khar\u0101bcheh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Khar\u0101bcheh"
+    ],
+    "name:fas_x_variant":[
+        "Khar\u0101b Ch\u0101h",
+        "\u062e\u0631\u0627\u0628\u0686\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u062e\u0631\u0627\u0628\u0686\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108719877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":15749
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c7b35312c591b3b61552f534a1434bb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719877,
+            "locality_id":1260009285,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1260009285,
+    "wof:lastmodified":1537640908,
+    "wof:name":"Kharabcheh",
+    "wof:parent_id":1108719877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.94187,
+    35.05352,
+    57.94187,
+    35.05352
+],
+  "geometry": {"coordinates":[57.94187,35.05352],"type":"Point"}
+}

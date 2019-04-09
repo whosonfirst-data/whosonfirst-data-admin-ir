@@ -1,0 +1,73 @@
+{
+  "id": 1343712983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.7,31.85,53.7,31.85",
+    "geom:latitude":31.85,
+    "geom:longitude":53.7,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Bad Nar",
+    "gn:country_code":"IR",
+    "gn:dem":2410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":69137,
+    "gn:latitude":31.85,
+    "gn:longitude":53.7,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Bad N\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u064e\u062f \u0646\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Bad N\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108720475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":69137
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"141ffeb2bd9366d27f41c2b8bf3c32d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720475,
+            "locality_id":1343712983,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1343712983,
+    "wof:lastmodified":1537642902,
+    "wof:name":"Bad Nar",
+    "wof:parent_id":1108720475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.7,
+    31.85,
+    53.7,
+    31.85
+],
+  "geometry": {"coordinates":[53.7,31.85],"type":"Point"}
+}

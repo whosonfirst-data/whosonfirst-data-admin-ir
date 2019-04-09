@@ -1,0 +1,82 @@
+{
+  "id": 1276963081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.92747,35.42019,48.92747,35.42019",
+    "geom:latitude":35.42019,
+    "geom:longitude":48.92747,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Chalboqa",
+    "gn:country_code":"IR",
+    "gn:dem":1946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":139299,
+    "gn:latitude":35.42019,
+    "gn:longitude":48.92747,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Ch\u0101lboq\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0644\u0628\u0642\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u0627\u0644 \u0628\u0642\u0627",
+        "Sh\u0101lbaq\u0101",
+        "Ch\u0101l Boq\u0101"
+    ],
+    "name:und_x_variant":[
+        "Ch\u0101l Bogh\u0101\u2019",
+        "Ch\u0101b\u016bgha",
+        "Ch\u0101lb\u016bgha",
+        "Ch\u0101lboq\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":139299,
+        "wk:page":"Chal_Boqa"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e8882c355ce27b59634a906180bc4d61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720349,
+            "locality_id":1276963081,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1276963081,
+    "wof:lastmodified":1537645763,
+    "wof:name":"Chalboqa",
+    "wof:parent_id":1108720349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.92747,
+    35.42019000000001,
+    48.92747,
+    35.42019000000001
+],
+  "geometry": {"coordinates":[48.92747,35.42019000000001],"type":"Point"}
+}

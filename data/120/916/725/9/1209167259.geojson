@@ -1,0 +1,71 @@
+{
+  "id": 1209167259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.56209,36.50105,47.56209,36.50105",
+    "geom:latitude":36.50105,
+    "geom:longitude":47.56209,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Khezer Shah",
+    "gn:country_code":"IR",
+    "gn:dem":1757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":26703,
+    "gn:latitude":36.50105,
+    "gn:longitude":47.56209,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Khe\u1e95er Sh\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0636\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Khe\u1e95er\u0101b\u0101d",
+        "\u062e\u0636\u0631 \u0634\u0627\u0647"
+    ],
+    "name:und_x_variant":[
+        "Khe\u1e95er Sh\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":26703
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1f68403d6abd1646cec89ff90762fc82",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209167259
+        }
+    ],
+    "wof:id":1209167259,
+    "wof:lastmodified":1537641413,
+    "wof:name":"Khezer Shah",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.56209000000001,
+    36.50105,
+    47.56209000000001,
+    36.50105
+],
+  "geometry": {"coordinates":[47.56209000000001,36.50105],"type":"Point"}
+}

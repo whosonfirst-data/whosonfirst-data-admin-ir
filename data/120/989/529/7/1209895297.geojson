@@ -1,0 +1,71 @@
+{
+  "id": 1209895297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.0601,34.5243,47.0601,34.5243",
+    "geom:latitude":34.5243,
+    "geom:longitude":47.0601,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Khelek",
+    "gn:country_code":"IR",
+    "gn:dem":1399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":23723,
+    "gn:latitude":34.5243,
+    "gn:longitude":47.0601,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Khelek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0644\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":23723,
+        "wk:page":"Khelek"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"95db8b22eb2e4dd65d51d3e2ccab94dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720117,
+            "locality_id":1209895297,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1209895297,
+    "wof:lastmodified":1537641229,
+    "wof:name":"Khelek",
+    "wof:parent_id":1108720117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.0601,
+    34.5243,
+    47.0601,
+    34.5243
+],
+  "geometry": {"coordinates":[47.0601,34.5243],"type":"Point"}
+}

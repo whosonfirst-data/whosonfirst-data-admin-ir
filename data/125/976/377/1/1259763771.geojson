@@ -1,0 +1,74 @@
+{
+  "id": 1259763771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.0414,27.1844,57.0414,27.1844",
+    "geom:latitude":27.1844,
+    "geom:longitude":57.0414,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Baziari",
+    "gn:country_code":"IR",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6654892,
+    "gn:latitude":27.1844,
+    "gn:longitude":57.0414,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"B\u0101z\u012b\u0101r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0632\u064a\u0627\u0631\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "B\u0101z\u012b\u0101r\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6654892,
+        "wk:page":"Baziari"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"37e4c1a6c57e9f271f19fb45ad6dd439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720243,
+            "locality_id":1259763771,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1259763771,
+    "wof:lastmodified":1537647249,
+    "wof:name":"Baziari",
+    "wof:parent_id":1108720243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.0414,
+    27.1844,
+    57.0414,
+    27.1844
+],
+  "geometry": {"coordinates":[57.0414,27.1844],"type":"Point"}
+}

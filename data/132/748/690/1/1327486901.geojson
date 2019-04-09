@@ -1,0 +1,74 @@
+{
+  "id": 1327486901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.86268,36.68449,52.86268,36.68449",
+    "geom:latitude":36.68449,
+    "geom:longitude":52.86268,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Dunchal",
+    "gn:country_code":"IR",
+    "gn:dem":-17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":385061,
+    "gn:latitude":36.68449,
+    "gn:longitude":52.86268,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"D\u016bnch\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0646\u0686\u0627\u0644"
+    ],
+    "name:fas_x_variant":[
+        "D\u016bnch\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385061,
+        "wk:page":"Dunchal"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"81a8c7a59e86de3bae5e60b3669adf83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720085,
+            "locality_id":1327486901,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1327486901,
+    "wof:lastmodified":1537646380,
+    "wof:name":"Dunchal",
+    "wof:parent_id":1108720085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.86268000000001,
+    36.68449,
+    52.86268000000001,
+    36.68449
+],
+  "geometry": {"coordinates":[52.86268000000001,36.68449],"type":"Point"}
+}

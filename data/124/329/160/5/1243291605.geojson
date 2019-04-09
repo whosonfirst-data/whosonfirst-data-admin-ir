@@ -1,0 +1,67 @@
+{
+  "id": 1243291605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.34,34.73722,59.34,34.73722",
+    "geom:latitude":34.73722,
+    "geom:longitude":59.34,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Shir Mohammad",
+    "gn:country_code":"IR",
+    "gn:dem":937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":401132,
+    "gn:latitude":34.73722,
+    "gn:longitude":59.34,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Sh\u012br Mohammad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401132
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"01aa7734895436801ccd77ac91f75172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720343,
+            "locality_id":1243291605,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1243291605,
+    "wof:lastmodified":1537027694,
+    "wof:name":"Shir Mohammad",
+    "wof:parent_id":1108720343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.34,
+    34.73722,
+    59.34,
+    34.73722
+],
+  "geometry": {"coordinates":[59.34,34.73722],"type":"Point"}
+}

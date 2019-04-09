@@ -1,0 +1,77 @@
+{
+  "id": 1276848271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.20919,27.05317,57.20919,27.05317",
+    "geom:latitude":27.05317,
+    "geom:longitude":57.20919,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Valichi",
+    "gn:country_code":"IR",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":67461,
+    "gn:latitude":27.05317,
+    "gn:longitude":57.20919,
+    "gn:modification_date":"2014-09-30",
+    "gn:name":"Val\u012bch\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06cc\u0686\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u064e\u062f\u0650\u0651 \u0645\u064a\u0646\u0627\u0628",
+        "Val\u012bch\u012b"
+    ],
+    "name:und_x_variant":[
+        "Sadd-e M\u012bn\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":67461
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fc60033037719e05029211b2eced77af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720243,
+            "locality_id":1276848271,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1276848271,
+    "wof:lastmodified":1537642839,
+    "wof:name":"Valichi",
+    "wof:parent_id":1108720243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.20919,
+    27.05317,
+    57.20919,
+    27.05317
+],
+  "geometry": {"coordinates":[57.20919,27.05317],"type":"Point"}
+}

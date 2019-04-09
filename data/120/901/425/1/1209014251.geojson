@@ -1,0 +1,72 @@
+{
+  "id": 1209014251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.06667,32.58333,50.06667,32.58333",
+    "geom:latitude":32.58333,
+    "geom:longitude":50.06667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Parshah",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":3245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":67208,
+    "gn:latitude":32.58333,
+    "gn:longitude":50.06667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Parsh\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u064e\u0631\u0634\u0627\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u064e\u0631\u064e\u0634\u0627\u0647",
+        "Parsh\u0101h"
+    ],
+    "name:und_x_variant":[
+        "Parash\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":67208
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b092821c26b10f011912d49dc1b1a6a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209014251
+        }
+    ],
+    "wof:id":1209014251,
+    "wof:lastmodified":1537642831,
+    "wof:name":"Parshah",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.06667,
+    32.58333,
+    50.06667,
+    32.58333
+],
+  "geometry": {"coordinates":[50.06667,32.58333],"type":"Point"}
+}

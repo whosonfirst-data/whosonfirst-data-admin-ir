@@ -1,0 +1,78 @@
+{
+  "id": 1293813525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.38552,33.03716,59.38552,33.03716",
+    "geom:latitude":33.03716,
+    "geom:longitude":59.38552,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Sheykhan",
+    "gn:country_code":"IR",
+    "gn:dem":1913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":115178,
+    "gn:latitude":33.03716,
+    "gn:longitude":59.38552,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sheykh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sheykh\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u06cc\u062e\u0627\u0646",
+        "Shaikh\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Shaikh\u0101n",
+        "\u0634\u06cc\u062e\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108719895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":115178
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bf8175150e6a77c7dab7442b5f24eab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719895,
+            "locality_id":1293813525,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1293813525,
+    "wof:lastmodified":1537643336,
+    "wof:name":"Sheykhan",
+    "wof:parent_id":1108719895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.38551999999999,
+    33.03716,
+    59.38551999999999,
+    33.03716
+],
+  "geometry": {"coordinates":[59.38551999999999,33.03716],"type":"Point"}
+}

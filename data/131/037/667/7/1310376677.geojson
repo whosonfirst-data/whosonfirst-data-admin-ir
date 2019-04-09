@@ -1,0 +1,75 @@
+{
+  "id": 1310376677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.4675,34.408,47.4675,34.408",
+    "geom:latitude":34.408,
+    "geom:longitude":47.4675,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Qozivand",
+    "gn:country_code":"IR",
+    "gn:dem":1281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":23522,
+    "gn:latitude":34.408,
+    "gn:longitude":47.4675,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qoz\u012bvand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0632\u06cc\u0648\u0646\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Q\u016bz\u012bvand",
+        "Qoz\u012bvand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":23522,
+        "wk:page":"Quzivand"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"afa36e758cabbb1d800856246f18ec7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720051,
+            "locality_id":1310376677,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1310376677,
+    "wof:lastmodified":1537641213,
+    "wof:name":"Qozivand",
+    "wof:parent_id":1108720051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.4675,
+    34.408,
+    47.4675,
+    34.408
+],
+  "geometry": {"coordinates":[47.4675,34.408],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326779411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.0728,39.1803,48.0728,39.1803",
+    "geom:latitude":39.1803,
+    "geom:longitude":48.0728,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Anjirlu",
+    "gn:country_code":"IR",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389019,
+    "gn:latitude":39.1803,
+    "gn:longitude":48.0728,
+    "gn:modification_date":"2018-05-15",
+    "gn:name":"Anj\u012brl\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u062c\u06cc\u0631\u0644\u0648"
+    ],
+    "name:fas_x_variant":[
+        "Anj\u012brl\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108719893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389019,
+        "wk:page":"Anjirlu,_Germi"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fb42c2440f99fc9f55a890af8652b821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719893,
+            "locality_id":1326779411,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1326779411,
+    "wof:lastmodified":1537646465,
+    "wof:name":"Anjirlu",
+    "wof:parent_id":1108719893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.0728,
+    39.1803,
+    48.0728,
+    39.1803
+],
+  "geometry": {"coordinates":[48.0728,39.1803],"type":"Point"}
+}

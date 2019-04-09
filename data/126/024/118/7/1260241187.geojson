@@ -1,0 +1,73 @@
+{
+  "id": 1260241187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.1585,39.4486,48.1585,39.4486",
+    "geom:latitude":39.4486,
+    "geom:longitude":48.1585,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Qeshlaq-e Asghar",
+    "gn:country_code":"IR",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":38139,
+    "gn:latitude":39.4486,
+    "gn:longitude":48.1585,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qeshl\u0101q-e A\u015fghar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0634\u0644\u0627\u0642 \u0627\u0635\u063a\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Qeshl\u0101q-e A\u015fghar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108719893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":38139
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"40daad32f09fee51b7c8bc9bffe88664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719893,
+            "locality_id":1260241187,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1260241187,
+    "wof:lastmodified":1537642156,
+    "wof:name":"Qeshlaq-e Asghar",
+    "wof:parent_id":1108719893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.1585,
+    39.4486,
+    48.1585,
+    39.4486
+],
+  "geometry": {"coordinates":[48.1585,39.4486],"type":"Point"}
+}

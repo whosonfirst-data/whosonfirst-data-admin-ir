@@ -1,0 +1,79 @@
+{
+  "id": 1260176111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.01557,28.85262,55.01557,28.85262",
+    "geom:latitude":28.85262,
+    "geom:longitude":55.01557,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Riz Ab",
+    "gn:country_code":"IR",
+    "gn:dem":1601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6980566,
+    "gn:latitude":28.85262,
+    "gn:longitude":55.01557,
+    "gn:modification_date":"2013-11-12",
+    "gn:name":"R\u012bz \u0100b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0627\u06a9\u0633\u062a\u0648\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Bel\u0101kest\u016bn",
+        "\u0631\u064a\u0632 \u0622\u0628",
+        "\u0628\u0644\u0627\u06a9\u0633\u062a\u0648\u0646 \u0631\u064a\u0632 \u0622\u0628"
+    ],
+    "name:und_x_variant":[
+        "R\u012bz \u0100b",
+        "Bel\u0101kest\u016bn R\u012bz \u0100b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6980566
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1e677fad8ea94613f8331162e8927dc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720277,
+            "locality_id":1260176111,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1260176111,
+    "wof:lastmodified":1537647820,
+    "wof:name":"Riz Ab",
+    "wof:parent_id":1108720277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.01557,
+    28.85262,
+    55.01557,
+    28.85262
+],
+  "geometry": {"coordinates":[55.01557,28.85262],"type":"Point"}
+}

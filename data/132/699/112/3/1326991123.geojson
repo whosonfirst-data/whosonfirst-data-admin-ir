@@ -1,0 +1,74 @@
+{
+  "id": 1326991123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.5134,29.4432,55.5134,29.4432",
+    "geom:latitude":29.4432,
+    "geom:longitude":55.5134,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Naseriyeh",
+    "gn:country_code":"IR",
+    "gn:dem":1701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":122574,
+    "gn:latitude":29.4432,
+    "gn:longitude":55.5134,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"N\u0101\u015fer\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0635\u0631\u06cc\u0647"
+    ],
+    "name:fas_x_variant":[
+        "N\u0101\u015fer\u012byeh-e Kaffeh",
+        "N\u0101\u015fer\u012byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":122574
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b905783f527aec37c0ddd2bfad42e8d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720461,
+            "locality_id":1326991123,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1326991123,
+    "wof:lastmodified":1537644072,
+    "wof:name":"Naseriyeh",
+    "wof:parent_id":1108720461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.5134,
+    29.4432,
+    55.5134,
+    29.4432
+],
+  "geometry": {"coordinates":[55.5134,29.4432],"type":"Point"}
+}

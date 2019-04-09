@@ -1,0 +1,73 @@
+{
+  "id": 1310363555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.5599,33.6517,48.5599,33.6517",
+    "geom:latitude":33.6517,
+    "geom:longitude":48.5599,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Chahar Borji",
+    "gn:country_code":"IR",
+    "gn:dem":1660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":139716,
+    "gn:latitude":33.6517,
+    "gn:longitude":48.5599,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chah\u0101r Borj\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0647\u0627\u0631 \u0628\u0631\u062c\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Chah\u0101r Borj\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":139716
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5f283f2b230ff399382c2f1fa0d56b67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720145,
+            "locality_id":1310363555,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1310363555,
+    "wof:lastmodified":1537645799,
+    "wof:name":"Chahar Borji",
+    "wof:parent_id":1108720145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.5599,
+    33.6517,
+    48.5599,
+    33.6517
+],
+  "geometry": {"coordinates":[48.5599,33.6517],"type":"Point"}
+}

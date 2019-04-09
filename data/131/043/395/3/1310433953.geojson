@@ -1,0 +1,76 @@
+{
+  "id": 1310433953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.85,33.75,59.85,33.75",
+    "geom:latitude":33.75,
+    "geom:longitude":59.85,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Ziarat",
+    "gn:country_code":"IR",
+    "gn:dem":2513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":66285,
+    "gn:latitude":33.75,
+    "gn:longitude":59.85,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Z\u012b\u0101rat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u064a\u0627\u0631\u064e\u062a"
+    ],
+    "name:fas_x_variant":[
+        "Z\u012b\u0101rat"
+    ],
+    "name:und_x_variant":[
+        "Ziy\u0101rat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108720313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":66285
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"912b46745a3f3cf536ff9de4334f28a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720313,
+            "locality_id":1310433953,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1310433953,
+    "wof:lastmodified":1537642800,
+    "wof:name":"Ziarat",
+    "wof:parent_id":1108720313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.85,
+    33.75,
+    59.85,
+    33.75
+],
+  "geometry": {"coordinates":[59.85,33.75],"type":"Point"}
+}

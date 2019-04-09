@@ -1,0 +1,73 @@
+{
+  "id": 1259862209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.1225,30.678,49.1225,30.678",
+    "geom:latitude":30.678,
+    "geom:longitude":49.1225,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Kut",
+    "gn:country_code":"IR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":126086,
+    "gn:latitude":30.678,
+    "gn:longitude":49.1225,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"K\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u062a"
+    ],
+    "name:fas_x_variant":[
+        "K\u016bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":126086
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bb7af26836253d18c4afae1944562239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719871,
+            "locality_id":1259862209,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1259862209,
+    "wof:lastmodified":1537644411,
+    "wof:name":"Kut",
+    "wof:parent_id":1108719871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.1225,
+    30.678,
+    49.1225,
+    30.678
+],
+  "geometry": {"coordinates":[49.1225,30.678],"type":"Point"}
+}

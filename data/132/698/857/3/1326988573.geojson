@@ -1,0 +1,79 @@
+{
+  "id": 1326988573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.75,27.4361,52.75,27.4361",
+    "geom:latitude":27.4361,
+    "geom:longitude":52.75,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Akhand",
+    "gn:country_code":"IR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":144364,
+    "gn:latitude":27.4361,
+    "gn:longitude":52.75,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Akhand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u062e\u0646\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u062e\u0648\u0646\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u0100kh\u016bnd",
+        "\u0100khownd",
+        "Akhand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108720101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":144364,
+        "wk:page":"Akhand"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"af8c7e757e34c8205f61acedf1b82080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720101,
+            "locality_id":1326988573,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1326988573,
+    "wof:lastmodified":1537646263,
+    "wof:name":"Akhand",
+    "wof:parent_id":1108720101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.75,
+    27.4361,
+    52.75,
+    27.4361
+],
+  "geometry": {"coordinates":[52.75,27.4361],"type":"Point"}
+}

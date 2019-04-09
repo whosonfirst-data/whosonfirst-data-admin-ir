@@ -1,0 +1,67 @@
+{
+  "id": 1209291995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.882,27.6401,55.882,27.6401",
+    "geom:latitude":27.6401,
+    "geom:longitude":55.882,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Fin",
+    "gn:country_code":"IR",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6981242,
+    "gn:latitude":27.6401,
+    "gn:longitude":55.882,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"F\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0641\u06cc\u0646"
+    ],
+    "name:fas_x_variant":[
+        "F\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6981242
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2ca1c151fb552124980e00f3ed17e61f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209291995
+        }
+    ],
+    "wof:id":1209291995,
+    "wof:lastmodified":1537647827,
+    "wof:name":"Fin",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.882,
+    27.6401,
+    55.882,
+    27.6401
+],
+  "geometry": {"coordinates":[55.882,27.6401],"type":"Point"}
+}

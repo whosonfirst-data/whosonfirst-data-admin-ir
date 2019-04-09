@@ -1,0 +1,78 @@
+{
+  "id": 1259605693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.18831,30.96527,51.18831,30.96527",
+    "geom:latitude":30.96527,
+    "geom:longitude":51.18831,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Gariveh",
+    "gn:country_code":"IR",
+    "gn:dem":2023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":47012,
+    "gn:latitude":30.96527,
+    "gn:longitude":51.18831,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Gar\u012bveh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Gar\u012bveh"
+    ],
+    "name:fas_x_variant":[
+        "Kar\u012bveh",
+        "\u0643\u064e\u0631\u064a\u0648\u0650\u0647",
+        "\u06af\u0631\u064a\u0648\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u06af\u0631\u064a\u0648\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108719965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":47012
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6bc20c99c5c68345e6fa74c5635ebfcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719965,
+            "locality_id":1259605693,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1259605693,
+    "wof:lastmodified":1537642653,
+    "wof:name":"Gariveh",
+    "wof:parent_id":1108719965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.18831,
+    30.96527,
+    51.18831,
+    30.96527
+],
+  "geometry": {"coordinates":[51.18831,30.96527],"type":"Point"}
+}

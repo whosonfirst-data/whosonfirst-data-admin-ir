@@ -1,0 +1,74 @@
+{
+  "id": 1225998121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.29196,36.66965,51.29196,36.66965",
+    "geom:latitude":36.66965,
+    "geom:longitude":51.29196,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Mianki",
+    "gn:country_code":"IR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8717,
+    "gn:latitude":36.66965,
+    "gn:longitude":51.29196,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"M\u012b\u0101nk\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0627\u0646\u06a9\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "M\u012b\u0101nk\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8717,
+        "wk:page":"Mianki"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f988790e088d7a78295d568a4833b50b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719925,
+            "locality_id":1225998121,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1225998121,
+    "wof:lastmodified":1537640450,
+    "wof:name":"Mianki",
+    "wof:parent_id":1108719925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.29196,
+    36.66965,
+    51.29196,
+    36.66965
+],
+  "geometry": {"coordinates":[51.29196,36.66965],"type":"Point"}
+}

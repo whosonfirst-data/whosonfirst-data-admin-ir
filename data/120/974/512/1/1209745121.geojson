@@ -1,0 +1,73 @@
+{
+  "id": 1209745121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.72186,35.96519,59.72186,35.96519",
+    "geom:latitude":35.96519,
+    "geom:longitude":59.72186,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Zekrabad",
+    "gn:country_code":"IR",
+    "gn:dem":1176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":33989,
+    "gn:latitude":35.96519,
+    "gn:longitude":59.72186,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Z\u0304ekr\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0630\u06a9\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Z\u0304ekr\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108719995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":33989
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e3a699a502f64d7897e967c1876ce90d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719995,
+            "locality_id":1209745121,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1209745121,
+    "wof:lastmodified":1537641887,
+    "wof:name":"Zekrabad",
+    "wof:parent_id":1108719995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.72186,
+    35.96519,
+    59.72186,
+    35.96519
+],
+  "geometry": {"coordinates":[59.72186,35.96519],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1360042467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.09802,36.26991,54.09802,36.26991",
+    "geom:latitude":36.26991,
+    "geom:longitude":54.09802,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Astaneh",
+    "gn:country_code":"IR",
+    "gn:dem":1480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":142680,
+    "gn:latitude":36.26991,
+    "gn:longitude":54.09802,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"\u0100st\u0101neh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0100st\u0101neh"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u0633\u062a\u0627\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0622\u0633\u062a\u0627\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672309,
+        1108719937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":142680
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2bf9b86e6c21e265dad6b03c7f8fe1e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719937,
+            "locality_id":1360042467,
+            "region_id":85672309
+        }
+    ],
+    "wof:id":1360042467,
+    "wof:lastmodified":1537646096,
+    "wof:name":"Astaneh",
+    "wof:parent_id":1108719937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.09802,
+    36.26991,
+    54.09802,
+    36.26991
+],
+  "geometry": {"coordinates":[54.09802,36.26991],"type":"Point"}
+}

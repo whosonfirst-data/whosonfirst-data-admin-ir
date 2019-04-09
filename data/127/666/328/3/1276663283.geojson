@@ -1,0 +1,76 @@
+{
+  "id": 1276663283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.40602,26.34068,60.40602,26.34068",
+    "geom:latitude":26.34068,
+    "geom:longitude":60.40602,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Ranag",
+    "gn:country_code":"IR",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7319396,
+    "gn:latitude":26.34068,
+    "gn:longitude":60.40602,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"R\u0101nag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "R\u0101nag"
+    ],
+    "name:fas_x_variant":[
+        "\u0631\u0627\u0646\u06af"
+    ],
+    "name:und_x_variant":[
+        "\u0631\u0627\u0646\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7319396
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dca4d1c1de8cb9da56d85e86c9d91455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720271,
+            "locality_id":1276663283,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1276663283,
+    "wof:lastmodified":1537648102,
+    "wof:name":"Ranag",
+    "wof:parent_id":1108720271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.40602,
+    26.34068,
+    60.40602,
+    26.34068
+],
+  "geometry": {"coordinates":[60.40602,26.34068],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1225891109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.08026,30.59446,57.08026,30.59446",
+    "geom:latitude":30.59446,
+    "geom:longitude":57.08026,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Yami Sayeb",
+    "gn:country_code":"IR",
+    "gn:dem":2512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7110064,
+    "gn:latitude":30.59446,
+    "gn:longitude":57.08026,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Y\u0101m\u012b Sayeb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06cc\u0627\u0645\u06cc \u0633\u06cc\u0628"
+    ],
+    "name:fas_x_variant":[
+        "Y\u0101m\u012b Sayeb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7110064
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"78811c66adef69a6c2474930d6f167a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720115,
+            "locality_id":1225891109,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1225891109,
+    "wof:lastmodified":1537648093,
+    "wof:name":"Yami Sayeb",
+    "wof:parent_id":1108720115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.08026,
+    30.59446,
+    57.08026,
+    30.59446
+],
+  "geometry": {"coordinates":[57.08026,30.59446],"type":"Point"}
+}

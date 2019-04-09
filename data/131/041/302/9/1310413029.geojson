@@ -1,0 +1,73 @@
+{
+  "id": 1310413029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.8,32.06667,50.8,32.06667",
+    "geom:latitude":32.06667,
+    "geom:longitude":50.8,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kamar Siah",
+    "gn:country_code":"IR",
+    "gn:dem":2000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":67958,
+    "gn:latitude":32.06667,
+    "gn:longitude":50.8,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Kamar S\u012b\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u064e\u0645\u064e\u0631 \u0633\u064a\u0627\u0647"
+    ],
+    "name:und_x_variant":[
+        "Kamar S\u012b\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672319,
+        1108720435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":67958
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fbb607cf988facaf75c64c4ada207619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720435,
+            "locality_id":1310413029,
+            "region_id":85672319
+        }
+    ],
+    "wof:id":1310413029,
+    "wof:lastmodified":1537642858,
+    "wof:name":"Kamar Siah",
+    "wof:parent_id":1108720435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.8,
+    32.06667,
+    50.8,
+    32.06667
+],
+  "geometry": {"coordinates":[50.8,32.06667],"type":"Point"}
+}

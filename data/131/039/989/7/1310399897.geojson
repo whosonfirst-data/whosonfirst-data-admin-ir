@@ -1,0 +1,74 @@
+{
+  "id": 1310399897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.4763,28.7323,54.4763,28.7323",
+    "geom:latitude":28.7323,
+    "geom:longitude":54.4763,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sheykhabad",
+    "gn:country_code":"IR",
+    "gn:dem":1106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":391558,
+    "gn:latitude":28.7323,
+    "gn:longitude":54.4763,
+    "gn:modification_date":"2018-06-19",
+    "gn:name":"Sheykh\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u062e \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Sheykh\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108719939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":391558,
+        "wk:page":"Sheykhabad,_Fars"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"54c96ac38c793846b449e4a64dbc976f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719939,
+            "locality_id":1310399897,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1310399897,
+    "wof:lastmodified":1537646487,
+    "wof:name":"Sheykhabad",
+    "wof:parent_id":1108719939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.4763,
+    28.7323,
+    54.4763,
+    28.7323
+],
+  "geometry": {"coordinates":[54.4763,28.7323],"type":"Point"}
+}

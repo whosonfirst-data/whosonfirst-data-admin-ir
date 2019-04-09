@@ -1,0 +1,76 @@
+{
+  "id": 1226106143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.8642,35.1721,46.8642,35.1721",
+    "geom:latitude":35.1721,
+    "geom:longitude":46.8642,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Barz Ab",
+    "gn:country_code":"IR",
+    "gn:dem":1612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":141180,
+    "gn:latitude":35.1721,
+    "gn:longitude":46.8642,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Barz \u0100b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0632 \u0622\u0628"
+    ],
+    "name:und_x_variant":[
+        "Borz\u0101b",
+        "Barz\u0101o",
+        "Barz\u0101\u2019\u016b",
+        "Barz \u0100b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":141180
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bd4d386347167162a09f3f17bf83c3af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720379,
+            "locality_id":1226106143,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1226106143,
+    "wof:lastmodified":1537645952,
+    "wof:name":"Barz Ab",
+    "wof:parent_id":1108720379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.8642,
+    35.1721,
+    46.8642,
+    35.1721
+],
+  "geometry": {"coordinates":[46.8642,35.1721],"type":"Point"}
+}

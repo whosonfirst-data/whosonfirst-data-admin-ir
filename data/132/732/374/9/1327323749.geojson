@@ -1,0 +1,73 @@
+{
+  "id": 1327323749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.9076,37.9048,48.9076,37.9048",
+    "geom:latitude":37.9048,
+    "geom:longitude":48.9076,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Yuneseh Kari",
+    "gn:country_code":"IR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6743577,
+    "gn:latitude":37.9048,
+    "gn:longitude":48.9076,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Y\u016bneseh Kar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06cc\u0648\u0646\u0633\u0647 \u06a9\u0631\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Y\u016bneseh Kar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6743577
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d62f7b8972e4dc40d9cc4bf61a3c287a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720487,
+            "locality_id":1327323749,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1327323749,
+    "wof:lastmodified":1537647593,
+    "wof:name":"Yuneseh Kari",
+    "wof:parent_id":1108720487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.9076,
+    37.9048,
+    48.9076,
+    37.9048
+],
+  "geometry": {"coordinates":[48.9076,37.9048],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1242707521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.29036,31.85312,60.29036,31.85312",
+    "geom:latitude":31.85312,
+    "geom:longitude":60.29036,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Hoseynabad Sar Kal",
+    "gn:country_code":"IR",
+    "gn:dem":1503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7052614,
+    "gn:latitude":31.85312,
+    "gn:longitude":60.29036,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u1e28oseyn\u0101b\u0101d Sar Kal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0633\u06cc\u0646 \u0622\u0628\u0627\u062f \u0633\u0631 \u06a9\u0644"
+    ],
+    "name:fas_x_variant":[
+        "\u062d\u0633\u06cc\u0646 \u0622\u0628\u0627\u062f \u0627\u0628\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u1e28oseyn\u0101b\u0101d Sar Kal",
+        "\u1e28oseyn\u0101b\u0101d Abaleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108720259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7052614
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"77e66e3b21f1d36f346f3cd82fdda71b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720259,
+            "locality_id":1242707521,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1242707521,
+    "wof:lastmodified":1537647957,
+    "wof:name":"Hoseynabad Sar Kal",
+    "wof:parent_id":1108720259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.29036,
+    31.85312,
+    60.29036,
+    31.85312
+],
+  "geometry": {"coordinates":[60.29036,31.85312],"type":"Point"}
+}

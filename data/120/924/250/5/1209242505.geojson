@@ -1,0 +1,70 @@
+{
+  "id": 1209242505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.88047,34.73075,59.88047,34.73075",
+    "geom:latitude":34.73075,
+    "geom:longitude":59.88047,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Khorramabad",
+    "gn:country_code":"IR",
+    "gn:dem":1003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":29508,
+    "gn:latitude":34.73075,
+    "gn:longitude":59.88047,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Khorram\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Khorram\u0101b\u0101d"
+    ],
+    "name:fas_x_variant":[
+        "\u062e\u0631\u0645 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u062e\u0631\u0645 \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":29508
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c5eddb0f7113e449aefa89af175290e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209242505
+        }
+    ],
+    "wof:id":1209242505,
+    "wof:lastmodified":1537641648,
+    "wof:name":"Khorramabad",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.88047,
+    34.73075,
+    59.88047,
+    34.73075
+],
+  "geometry": {"coordinates":[59.88047,34.73075],"type":"Point"}
+}

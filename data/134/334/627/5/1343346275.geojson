@@ -1,0 +1,80 @@
+{
+  "id": 1343346275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.75815,37.19877,49.75815,37.19877",
+    "geom:latitude":37.19877,
+    "geom:longitude":49.75815,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kianbara",
+    "gn:country_code":"IR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7425533,
+    "gn:latitude":37.19877,
+    "gn:longitude":49.75815,
+    "gn:modification_date":"2016-03-11",
+    "gn:name":"K\u012b\u0101nbar\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Kasr\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0633\u0631\u06cc",
+        "\u06a9\u06cc\u0627\u0646\u0628\u0631\u0627",
+        "\u06a9\u06cc\u0627\u0633\u0631\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u06a9\u0633\u0631\u06cc",
+        "K\u012b\u0101nbar\u0101",
+        "K\u012b\u0101sar\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7425533
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8c8a0c42de25ede5adbc8f4588487805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720339,
+            "locality_id":1343346275,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1343346275,
+    "wof:lastmodified":1537648175,
+    "wof:name":"Kianbara",
+    "wof:parent_id":1108720339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.75815,
+    37.19877,
+    49.75815,
+    37.19877
+],
+  "geometry": {"coordinates":[49.75815,37.19877],"type":"Point"}
+}

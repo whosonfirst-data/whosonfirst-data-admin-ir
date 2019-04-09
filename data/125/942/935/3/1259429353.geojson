@@ -1,0 +1,77 @@
+{
+  "id": 1259429353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.6742,29.7577,56.6742,29.7577",
+    "geom:latitude":29.7577,
+    "geom:longitude":56.6742,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Narp",
+    "gn:country_code":"IR",
+    "gn:dem":2107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":122611,
+    "gn:latitude":29.7577,
+    "gn:longitude":56.6742,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"N\u0101rp",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0631\u067e"
+    ],
+    "name:fas_x_variant":[
+        "N\u0101rp"
+    ],
+    "name:und_x_variant":[
+        "Qal\u2018eh N\u0101rp",
+        "N\u0101rb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":122611
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e81f0077587b1b9cb2844b866711f3f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719879,
+            "locality_id":1259429353,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1259429353,
+    "wof:lastmodified":1537644076,
+    "wof:name":"Narp",
+    "wof:parent_id":1108719879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.6742,
+    29.7577,
+    56.6742,
+    29.7577
+],
+  "geometry": {"coordinates":[56.6742,29.7577],"type":"Point"}
+}

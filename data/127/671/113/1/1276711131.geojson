@@ -1,0 +1,67 @@
+{
+  "id": 1276711131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.89722,29.10611,57.89722,29.10611",
+    "geom:latitude":29.10611,
+    "geom:longitude":57.89722,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kahnu",
+    "gn:country_code":"IR",
+    "gn:dem":2035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":400550,
+    "gn:latitude":29.10611,
+    "gn:longitude":57.89722,
+    "gn:modification_date":"1996-11-01",
+    "gn:name":"Kahn\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400550
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"05288707ab63cdca6189cd2e6df30de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719861,
+            "locality_id":1276711131,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1276711131,
+    "wof:lastmodified":1536770190,
+    "wof:name":"Kahnu",
+    "wof:parent_id":1108719861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.89722,
+    29.10611,
+    57.89722,
+    29.10611
+],
+  "geometry": {"coordinates":[57.89722,29.10611],"type":"Point"}
+}

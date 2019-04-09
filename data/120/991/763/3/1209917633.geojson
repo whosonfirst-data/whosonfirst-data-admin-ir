@@ -1,0 +1,81 @@
+{
+  "id": 1209917633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.7525,36.9052,45.7525,36.9052",
+    "geom:latitude":36.9052,
+    "geom:longitude":45.7525,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Darlak",
+    "gn:country_code":"IR",
+    "gn:dem":1289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":137714,
+    "gn:latitude":36.9052,
+    "gn:longitude":45.7525,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"D\u0101rlak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0631\u0650\u0647 \u0644\u064e\u0643"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0627\u0631\u0644\u064e\u0643",
+        "\u062f\u0627\u0631\u0644\u06a9",
+        "D\u0101reh Lak",
+        "\u062f\u064e\u0631\u0650\u0651\u0647 \u0644\u064e\u0643",
+        "D\u0101rlak"
+    ],
+    "name:und_x_variant":[
+        "Darreh Lak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":137714,
+        "wk:page":"Dareh_Lak"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3c4496a57b2c2b3796f3d60a29384cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720193,
+            "locality_id":1209917633,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1209917633,
+    "wof:lastmodified":1537645605,
+    "wof:name":"Darlak",
+    "wof:parent_id":1108720193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.7525,
+    36.9052,
+    45.7525,
+    36.9052
+],
+  "geometry": {"coordinates":[45.7525,36.9052],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226263097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.30905,30.25956,51.30905,30.25956",
+    "geom:latitude":30.25956,
+    "geom:longitude":51.30905,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mal Hajji",
+    "gn:country_code":"IR",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8718168,
+    "gn:latitude":30.25956,
+    "gn:longitude":51.30905,
+    "gn:modification_date":"2018-06-06",
+    "gn:name":"M\u0101l \u1e28\u0101jj\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0644 \u062d\u0627\u062c\u06cc"
+    ],
+    "name:und_x_variant":[
+        "M\u0101l \u1e28\u0101jj\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8718168,
+        "wk:page":"Mal_Hajji"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f1b1e997ac421c044795ffd49f77b5be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720209,
+            "locality_id":1226263097,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1226263097,
+    "wof:lastmodified":1537648610,
+    "wof:name":"Mal Hajji",
+    "wof:parent_id":1108720209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.30905,
+    30.25956,
+    51.30905,
+    30.25956
+],
+  "geometry": {"coordinates":[51.30905,30.25956],"type":"Point"}
+}

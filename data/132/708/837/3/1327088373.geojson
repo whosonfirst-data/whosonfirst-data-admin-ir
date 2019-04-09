@@ -1,0 +1,83 @@
+{
+  "id": 1327088373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.1925,38.0366,46.1925,38.0366",
+    "geom:latitude":38.0366,
+    "geom:longitude":46.1925,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Akhmaqiyeh",
+    "gn:country_code":"IR",
+    "gn:dem":1430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":144357,
+    "gn:latitude":38.0366,
+    "gn:longitude":46.1925,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"\u0100khmaq\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u062e\u0645\u0627\u0642\u06cc\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0100kh M\u0101q\u0101yeh",
+        "\u0622\u062e\u0645\u0642\u06cc\u0647"
+    ],
+    "name:und_x_variant":[
+        "Ahmaghiyeh",
+        "Akhmeh Qayah",
+        "A\u1e29maqayeh",
+        "Ahmaq\u012beh",
+        "A\u1e29mqayah",
+        "Akhm\u0101q\u012byeh",
+        "\u0100khmaq\u012byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":144357
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6854d8ed41a53489e8a2e4095b762f62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720471,
+            "locality_id":1327088373,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1327088373,
+    "wof:lastmodified":1537646262,
+    "wof:name":"Akhmaqiyeh",
+    "wof:parent_id":1108720471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.1925,
+    38.0366,
+    46.1925,
+    38.0366
+],
+  "geometry": {"coordinates":[46.1925,38.0366],"type":"Point"}
+}

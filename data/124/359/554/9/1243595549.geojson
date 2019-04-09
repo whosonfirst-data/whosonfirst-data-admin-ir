@@ -1,0 +1,74 @@
+{
+  "id": 1243595549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.1284,39.2531,48.1284,39.2531",
+    "geom:latitude":39.2531,
+    "geom:longitude":48.1284,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Beyg Baghlu",
+    "gn:country_code":"IR",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":38226,
+    "gn:latitude":39.2531,
+    "gn:longitude":48.1284,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Beyg B\u0101ghl\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u064a\u06af \u0628\u0627\u063a\u0644\u0648"
+    ],
+    "name:fas_x_variant":[
+        "Beyg B\u0101ghl\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108719893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":38226,
+        "wk:page":"Beyg_Baghlu"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b431027db3798154c0ce2d46582ad623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719893,
+            "locality_id":1243595549,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1243595549,
+    "wof:lastmodified":1537642164,
+    "wof:name":"Beyg Baghlu",
+    "wof:parent_id":1108719893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.1284,
+    39.2531,
+    48.1284,
+    39.2531
+],
+  "geometry": {"coordinates":[48.1284,39.2531],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310448995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.9915,32.7179,52.9915,32.7179",
+    "geom:latitude":32.7179,
+    "geom:longitude":52.9915,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Hafezieh",
+    "gn:country_code":"IR",
+    "gn:dem":1882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":132462,
+    "gn:latitude":32.7179,
+    "gn:longitude":52.9915,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Hafezieh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0627\u0641\u0638"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28\u0101fez\u0327"
+    ],
+    "name:und_x_variant":[
+        "\u1e28\u0101fez\u0327\u012byeh",
+        "Hafezieh",
+        "H\u0101fiz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":132462
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"33f2049f24c76589fc38f72d6ee764fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720255,
+            "locality_id":1310448995,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1310448995,
+    "wof:lastmodified":1537645069,
+    "wof:name":"Hafezieh",
+    "wof:parent_id":1108720255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.9915,
+    32.7179,
+    52.9915,
+    32.7179
+],
+  "geometry": {"coordinates":[52.9915,32.7179],"type":"Point"}
+}

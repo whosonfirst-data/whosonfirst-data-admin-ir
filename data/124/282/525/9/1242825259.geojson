@@ -1,0 +1,80 @@
+{
+  "id": 1242825259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.4005,32.4715,52.4005,32.4715",
+    "geom:latitude":32.4715,
+    "geom:longitude":52.4005,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Sian",
+    "gn:country_code":"IR",
+    "gn:dem":1495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":418468,
+    "gn:latitude":32.4715,
+    "gn:longitude":52.4005,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u012b\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Si\u016bni",
+        "S\u012by\u0101n",
+        "S\u012by\u016bn\u012b",
+        "S\u012b\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Shi\u0101n",
+        "Sey\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108719977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":418468
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"10e30314b959c39ec809fccb83e64f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719977,
+            "locality_id":1242825259,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1242825259,
+    "wof:lastmodified":1537646720,
+    "wof:name":"Sian",
+    "wof:parent_id":1108719977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.4005,
+    32.4715,
+    52.4005,
+    32.4715
+],
+  "geometry": {"coordinates":[52.4005,32.4715],"type":"Point"}
+}

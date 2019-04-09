@@ -1,0 +1,79 @@
+{
+  "id": 1360168789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.20995,35.29391,49.20995,35.29391",
+    "geom:latitude":35.29391,
+    "geom:longitude":49.20995,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Pelikan",
+    "gn:country_code":"IR",
+    "gn:dem":1830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":35942,
+    "gn:latitude":35.29391,
+    "gn:longitude":49.20995,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Pel\u012bk\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0644\u0647 \u06a9\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u064e\u0644\u064e\u0643\u0627\u0646",
+        "P\u012bleh K\u0101n",
+        "\u067e\u0644\u06cc\u06a9\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Palak\u0101n",
+        "Pel\u012bk\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":35942
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a70af97daa2da459f3ec6e1d3d74a6e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720349,
+            "locality_id":1360168789,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1360168789,
+    "wof:lastmodified":1537641977,
+    "wof:name":"Pelikan",
+    "wof:parent_id":1108720349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.20995,
+    35.29391,
+    49.20995,
+    35.29391
+],
+  "geometry": {"coordinates":[49.20995,35.29391],"type":"Point"}
+}

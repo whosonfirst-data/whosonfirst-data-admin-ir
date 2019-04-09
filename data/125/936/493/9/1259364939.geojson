@@ -1,0 +1,75 @@
+{
+  "id": 1259364939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.65785,35.41289,47.65785,35.41289",
+    "geom:latitude":35.41289,
+    "geom:longitude":47.65785,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Mantesh",
+    "gn:country_code":"IR",
+    "gn:dem":1716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":124918,
+    "gn:latitude":35.41289,
+    "gn:longitude":47.65785,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Mantesh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u062a\u0634"
+    ],
+    "name:und_x_variant":[
+        "Mantash",
+        "Mantesh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":124918,
+        "wk:page":"Mantesh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8da2e843f94c4bb606b502d3a758cecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720325,
+            "locality_id":1259364939,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1259364939,
+    "wof:lastmodified":1537644297,
+    "wof:name":"Mantesh",
+    "wof:parent_id":1108720325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.65785,
+    35.41289000000001,
+    47.65785,
+    35.41289000000001
+],
+  "geometry": {"coordinates":[47.65785,35.41289000000001],"type":"Point"}
+}

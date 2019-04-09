@@ -1,0 +1,74 @@
+{
+  "id": 1259589065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.19806,28.22944,61.19806,28.22944",
+    "geom:latitude":28.22944,
+    "geom:longitude":61.19806,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mahmudabad",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1160348,
+    "gn:latitude":28.22944,
+    "gn:longitude":61.19806,
+    "gn:modification_date":"2011-04-18",
+    "gn:name":"Ma\u1e29m\u016bd\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Ma\u1e29m\u016bd\u0101b\u0101d"
+    ],
+    "name:und_x_variant":[
+        "Mahmood Abad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1160348
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ba1bc93a16bdbd5fc6e9cdd6989c44ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720131,
+            "locality_id":1259589065,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1259589065,
+    "wof:lastmodified":1537647036,
+    "wof:name":"Mahmudabad",
+    "wof:parent_id":1108720131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.19806,
+    28.22944,
+    61.19806,
+    28.22944
+],
+  "geometry": {"coordinates":[61.19806,28.22944],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1225972985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.09695,37.29778,59.09695,37.29778",
+    "geom:latitude":37.29778,
+    "geom:longitude":59.09695,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Qozloq",
+    "gn:country_code":"IR",
+    "gn:dem":740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":119124,
+    "gn:latitude":37.29778,
+    "gn:longitude":59.09695,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qozloq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0632\u0644\u0642"
+    ],
+    "name:und_x_variant":[
+        "K\u016bz\u0304\u016bkh",
+        "Kuzluk",
+        "Qozloq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108719941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":119124,
+        "wk:page":"Qozloq"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7ed8eb8e3105c2e1494340c1eb6f243f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719941,
+            "locality_id":1225972985,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1225972985,
+    "wof:lastmodified":1537643703,
+    "wof:name":"Qozloq",
+    "wof:parent_id":1108719941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.09695,
+    37.29778,
+    59.09695,
+    37.29778
+],
+  "geometry": {"coordinates":[59.09695,37.29778],"type":"Point"}
+}

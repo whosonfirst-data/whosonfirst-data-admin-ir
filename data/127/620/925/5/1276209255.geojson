@@ -1,0 +1,67 @@
+{
+  "id": 1276209255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.9,31.65,47.9,31.65",
+    "geom:latitude":31.65,
+    "geom:longitude":47.9,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Bargeh",
+    "gn:country_code":"IR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":42582,
+    "gn:latitude":31.65,
+    "gn:longitude":47.9,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bargeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":42582
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"df5287b4554fcadff64b94e45669ebbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719949,
+            "locality_id":1276209255,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1276209255,
+    "wof:lastmodified":1536945790,
+    "wof:name":"Bargeh",
+    "wof:parent_id":1108719949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.9,
+    31.65,
+    47.9,
+    31.65
+],
+  "geometry": {"coordinates":[47.9,31.65],"type":"Point"}
+}

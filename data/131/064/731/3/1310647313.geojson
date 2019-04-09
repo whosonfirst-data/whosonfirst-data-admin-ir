@@ -1,0 +1,77 @@
+{
+  "id": 1310647313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.7517,29.156,56.7517,29.156",
+    "geom:latitude":29.156,
+    "geom:longitude":56.7517,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Hojjatiyeh",
+    "gn:country_code":"IR",
+    "gn:dem":2157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390063,
+    "gn:latitude":29.156,
+    "gn:longitude":56.7517,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u1e28ojjat\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u062c\u0651\u062a\u06cc\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28an\u012byeh",
+        "\u1e28ojjat\u012byeh"
+    ],
+    "name:und_x_variant":[
+        "Ja\u1e29an\u012byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390063
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"24db69fed8c1ee30bca7527bae4040f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719851,
+            "locality_id":1310647313,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1310647313,
+    "wof:lastmodified":1537646472,
+    "wof:name":"Hojjatiyeh",
+    "wof:parent_id":1108719851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.7517,
+    29.156,
+    56.7517,
+    29.156
+],
+  "geometry": {"coordinates":[56.7517,29.156],"type":"Point"}
+}

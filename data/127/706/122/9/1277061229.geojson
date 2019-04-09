@@ -1,0 +1,77 @@
+{
+  "id": 1277061229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.81724,37.27786,49.81724,37.27786",
+    "geom:latitude":37.27786,
+    "geom:longitude":49.81724,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bala Mahalleh-ye Taromsar",
+    "gn:country_code":"IR",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11076036,
+    "gn:latitude":37.27786,
+    "gn:longitude":49.81724,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"B\u0101l\u0101 Ma\u1e29alleh-ye \u0162\u0101romsar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0644\u0627 \u0645\u062d\u0644\u0647 \u0637\u0627\u0631\u0645\u0633\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0637\u0627\u0631\u0645\u0633\u0631"
+    ],
+    "name:und_x_variant":[
+        "B\u0101l\u0101 Ma\u1e29alleh-ye \u0162\u0101romsar",
+        "\u0162\u0101romsar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11076036
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d489950999047aeecf1ba689ec447ee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720339,
+            "locality_id":1277061229,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1277061229,
+    "wof:lastmodified":1537648706,
+    "wof:name":"Bala Mahalleh-ye Taromsar",
+    "wof:parent_id":1108720339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.81724000000001,
+    37.27786,
+    49.81724000000001,
+    37.27786
+],
+  "geometry": {"coordinates":[49.81724000000001,37.27786],"type":"Point"}
+}

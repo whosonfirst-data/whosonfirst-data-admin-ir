@@ -1,0 +1,76 @@
+{
+  "id": 1293081581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.28051,27.43328,54.28051,27.43328",
+    "geom:latitude":27.43328,
+    "geom:longitude":54.28051,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Abgarm",
+    "gn:country_code":"IR",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7612459,
+    "gn:latitude":27.43328,
+    "gn:longitude":54.28051,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u0100bgarm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0100bgarm"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u0628\u06af\u0631\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u0622\u0628\u06af\u0631\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108719881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7612459
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8639207d385112ca2a6be74c2a226bd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719881,
+            "locality_id":1293081581,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1293081581,
+    "wof:lastmodified":1537648391,
+    "wof:name":"Abgarm",
+    "wof:parent_id":1108719881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.28051,
+    27.43328,
+    54.28051,
+    27.43328
+],
+  "geometry": {"coordinates":[54.28051,27.43328],"type":"Point"}
+}

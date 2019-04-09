@@ -1,0 +1,74 @@
+{
+  "id": 1310621287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.03333,27.68333,53.03333,27.68333",
+    "geom:latitude":27.68333,
+    "geom:longitude":53.03333,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Bowrneh",
+    "gn:country_code":"IR",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":68912,
+    "gn:latitude":27.68333,
+    "gn:longitude":53.03333,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Bowrneh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u064f\u0648\u0631\u0646\u0650\u0647"
+    ],
+    "name:und_x_variant":[
+        "Burneh",
+        "Bowrneh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":68912
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6a3fea0de7c5f418915b7c7aafadcadc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720181,
+            "locality_id":1310621287,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1310621287,
+    "wof:lastmodified":1537642895,
+    "wof:name":"Bowrneh",
+    "wof:parent_id":1108720181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.03333000000001,
+    27.68333,
+    53.03333000000001,
+    27.68333
+],
+  "geometry": {"coordinates":[53.03333000000001,27.68333],"type":"Point"}
+}

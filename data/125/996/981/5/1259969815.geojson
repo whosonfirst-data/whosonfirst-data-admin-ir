@@ -1,0 +1,79 @@
+{
+  "id": 1259969815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.8974,37.3771,48.8974,37.3771",
+    "geom:latitude":37.3771,
+    "geom:longitude":48.8974,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Sifineh-ye Posht",
+    "gn:country_code":"IR",
+    "gn:dem":1264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6741859,
+    "gn:latitude":37.3771,
+    "gn:longitude":48.8974,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"S\u012bf\u012bneh-ye Posht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u06cc\u0631\u0634\u0631"
+    ],
+    "name:fas_x_variant":[
+        "J\u012brshar",
+        "\u0633\u06cc\u0641\u06cc\u0646\u0647 \u067e\u0634\u062a",
+        "\u0633\u06cc\u0628 \u0628\u0646\u0647 \u067e\u0634\u062a"
+    ],
+    "name:und_x_variant":[
+        "S\u012bf\u012bneh-ye Posht",
+        "S\u012bb Boneh Posht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6741859
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2dfd0b24a7f51d1bf424b1628f0d8042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720225,
+            "locality_id":1259969815,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1259969815,
+    "wof:lastmodified":1537647577,
+    "wof:name":"Sifineh-ye Posht",
+    "wof:parent_id":1108720225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.8974,
+    37.3771,
+    48.8974,
+    37.3771
+],
+  "geometry": {"coordinates":[48.8974,37.3771],"type":"Point"}
+}

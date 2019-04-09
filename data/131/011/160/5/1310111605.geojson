@@ -1,0 +1,74 @@
+{
+  "id": 1310111605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.75723,25.2728,60.75723,25.2728",
+    "geom:latitude":25.2728,
+    "geom:longitude":60.75723,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ramin",
+    "gn:country_code":"IR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1113341,
+    "gn:latitude":25.2728,
+    "gn:longitude":60.75723,
+    "gn:modification_date":"2018-07-27",
+    "gn:name":"Ram\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u0645\u06cc\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Ram\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108719919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1113341,
+        "wk:page":"Ramin,_Sistan_and_Baluchestan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8d81dfdd6e0e2cfe4c3380c5fc23c6e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719919,
+            "locality_id":1310111605,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1310111605,
+    "wof:lastmodified":1537646849,
+    "wof:name":"Ramin",
+    "wof:parent_id":1108719919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.75723000000001,
+    25.2728,
+    60.75723000000001,
+    25.2728
+],
+  "geometry": {"coordinates":[60.75723000000001,25.2728],"type":"Point"}
+}

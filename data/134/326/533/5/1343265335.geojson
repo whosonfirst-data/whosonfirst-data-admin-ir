@@ -1,0 +1,74 @@
+{
+  "id": 1343265335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.8887,37.2506,44.8887,37.2506",
+    "geom:latitude":37.2506,
+    "geom:longitude":44.8887,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Golestaneh",
+    "gn:country_code":"IR",
+    "gn:dem":1492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":20832,
+    "gn:latitude":37.2506,
+    "gn:longitude":44.8887,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Golest\u0101neh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0644\u0633\u062a\u0627\u0646\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u064f\u0644\u0650\u0633\u062a\u0627\u0646\u0650\u0647",
+        "Golest\u0101neh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":20832
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"374138756948a20ceb2c59271c8433cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720289,
+            "locality_id":1343265335,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1343265335,
+    "wof:lastmodified":1537641034,
+    "wof:name":"Golestaneh",
+    "wof:parent_id":1108720289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.8887,
+    37.2506,
+    44.8887,
+    37.2506
+],
+  "geometry": {"coordinates":[44.8887,37.2506],"type":"Point"}
+}

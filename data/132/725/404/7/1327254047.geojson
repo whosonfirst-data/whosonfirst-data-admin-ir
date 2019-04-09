@@ -1,0 +1,74 @@
+{
+  "id": 1327254047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.5221,30.5027,52.5221,30.5027",
+    "geom:latitude":30.5027,
+    "geom:longitude":52.5221,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Shahr Ashub",
+    "gn:country_code":"IR",
+    "gn:dem":2146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6909723,
+    "gn:latitude":30.5027,
+    "gn:longitude":52.5221,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"Shahr \u0100sh\u016bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631 \u0622\u0634\u0648\u0628"
+    ],
+    "name:fas_x_variant":[
+        "Shahr \u0100sh\u016bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108719975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6909723,
+        "wk:page":"Shahr_Ashub"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3c99dc21ef2ce360203158c0e76e8161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719975,
+            "locality_id":1327254047,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1327254047,
+    "wof:lastmodified":1537647704,
+    "wof:name":"Shahr Ashub",
+    "wof:parent_id":1108719975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.5221,
+    30.5027,
+    52.5221,
+    30.5027
+],
+  "geometry": {"coordinates":[52.5221,30.5027],"type":"Point"}
+}

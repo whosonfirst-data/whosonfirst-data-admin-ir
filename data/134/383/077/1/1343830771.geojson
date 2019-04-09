@@ -1,0 +1,73 @@
+{
+  "id": 1343830771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.49101,32.12409,49.49101,32.12409",
+    "geom:latitude":32.12409,
+    "geom:longitude":49.49101,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Do Balutan",
+    "gn:country_code":"IR",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6661852,
+    "gn:latitude":32.12409,
+    "gn:longitude":49.49101,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Do Bal\u016b\u0163\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0648 \u0628\u0644\u0648\u0637\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Do Bal\u016b\u0163\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6661852
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4b5142f27412355bdb22bcaf53427986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720229,
+            "locality_id":1343830771,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1343830771,
+    "wof:lastmodified":1537647289,
+    "wof:name":"Do Balutan",
+    "wof:parent_id":1108720229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.49101,
+    32.12409,
+    49.49101,
+    32.12409
+],
+  "geometry": {"coordinates":[49.49101,32.12409],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276242907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.85,27.06667,58.85,27.06667",
+    "geom:latitude":27.06667,
+    "geom:longitude":58.85,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Chah Sahaq",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":68805,
+    "gn:latitude":27.06667,
+    "gn:longitude":58.85,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Ch\u0101h Sah\u0101q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Ch\u0101h Sah\u0101q"
+    ],
+    "name:und_x_variant":[
+        "Chah-e S\u016bhak",
+        "Ch\u0101h Suhak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":68805
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"526a76598e2cac32f7063cade2d57956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720029,
+            "locality_id":1276242907,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1276242907,
+    "wof:lastmodified":1537642890,
+    "wof:name":"Chah Sahaq",
+    "wof:parent_id":1108720029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.85,
+    27.06667,
+    58.85,
+    27.06667
+],
+  "geometry": {"coordinates":[58.85,27.06667],"type":"Point"}
+}

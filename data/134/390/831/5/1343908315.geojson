@@ -1,0 +1,77 @@
+{
+  "id": 1343908315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.19185,30.58055,56.19185,30.58055",
+    "geom:latitude":30.58055,
+    "geom:longitude":56.19185,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Davaran",
+    "gn:country_code":"IR",
+    "gn:dem":1905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":137131,
+    "gn:latitude":30.58055,
+    "gn:longitude":56.19185,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"D\u0101var\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "D\u0101var\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0627\u0648\u0631\u0627\u0646",
+        "D\u0101viran"
+    ],
+    "name:und_x_variant":[
+        "D\u0101viran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":137131
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8431a20b6a7ce7d01e683f87edc71f9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720329,
+            "locality_id":1343908315,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1343908315,
+    "wof:lastmodified":1537645549,
+    "wof:name":"Davaran",
+    "wof:parent_id":1108720329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.19185,
+    30.58055,
+    56.19185,
+    30.58055
+],
+  "geometry": {"coordinates":[56.19185,30.58055],"type":"Point"}
+}

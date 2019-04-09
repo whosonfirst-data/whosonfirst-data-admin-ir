@@ -1,0 +1,78 @@
+{
+  "id": 1226614195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.2179,33.8201,48.2179,33.8201",
+    "geom:latitude":33.8201,
+    "geom:longitude":48.2179,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Musaabad",
+    "gn:country_code":"IR",
+    "gn:dem":1553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6776712,
+    "gn:latitude":33.8201,
+    "gn:longitude":48.2179,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"M\u016bs\u00e1\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647 \u0633\u0641\u06cc\u062f \u0633\u0627\u0644\u06cc\u0627\u0646\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Deh-e Sef\u012bd S\u0101l\u012b\u0101neh",
+        "\u0645\u0648\u0633\u06cc \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "M\u016bs\u00e1\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6776712,
+        "wk:page":"Deh-e_Sefid_Salianeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5b627af47ab5bc5658f3055c8faf9ada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720411,
+            "locality_id":1226614195,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1226614195,
+    "wof:lastmodified":1537647677,
+    "wof:name":"Musaabad",
+    "wof:parent_id":1108720411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.2179,
+    33.8201,
+    48.2179,
+    33.8201
+],
+  "geometry": {"coordinates":[48.2179,33.8201],"type":"Point"}
+}

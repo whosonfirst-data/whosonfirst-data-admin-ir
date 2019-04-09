@@ -1,0 +1,79 @@
+{
+  "id": 1225972981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.1272,36.2468,60.1272,36.2468",
+    "geom:latitude":36.2468,
+    "geom:longitude":60.1272,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Mayamey",
+    "gn:country_code":"IR",
+    "gn:dem":1037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1160294,
+    "gn:latitude":36.2468,
+    "gn:longitude":60.1272,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"May\u0101mey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0627\u0645\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "May\u0101mey",
+        "Mey\u0101mey",
+        "Mai\u0101mai"
+    ],
+    "name:und_x_variant":[
+        "Mai\u0101mai",
+        "Mey\u0101mey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1160294
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e421652077c9f9c3f466b5d397320d92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720227,
+            "locality_id":1225972981,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1225972981,
+    "wof:lastmodified":1537647031,
+    "wof:name":"Mayamey",
+    "wof:parent_id":1108720227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.1272,
+    36.2468,
+    60.1272,
+    36.2468
+],
+  "geometry": {"coordinates":[60.1272,36.2468],"type":"Point"}
+}

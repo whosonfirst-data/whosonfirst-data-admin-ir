@@ -1,0 +1,77 @@
+{
+  "id": 1243554503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.90948,27.90001,61.90948,27.90001",
+    "geom:latitude":27.90001,
+    "geom:longitude":61.90948,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Surdar",
+    "gn:country_code":"IR",
+    "gn:dem":1623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8686407,
+    "gn:latitude":27.90001,
+    "gn:longitude":61.90948,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"S\u016brdar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0631\u062f\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u062a\u06af\u0648\u06af"
+    ],
+    "name:und_x_variant":[
+        "S\u016brdar",
+        "Patg\u016bg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8686407
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f0c2cefd1f25504ef97ed1c647645ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720131,
+            "locality_id":1243554503,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1243554503,
+    "wof:lastmodified":1537648602,
+    "wof:name":"Surdar",
+    "wof:parent_id":1108720131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.90948,
+    27.90001,
+    61.90948,
+    27.90001
+],
+  "geometry": {"coordinates":[61.90948,27.90001],"type":"Point"}
+}

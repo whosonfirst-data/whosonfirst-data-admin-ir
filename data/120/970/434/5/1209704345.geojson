@@ -1,0 +1,79 @@
+{
+  "id": 1209704345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.214,33.8748,46.214,33.8748",
+    "geom:latitude":33.8748,
+    "geom:longitude":46.214,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Shurabeh-ye Malek",
+    "gn:country_code":"IR",
+    "gn:dem":1091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5971,
+    "gn:latitude":33.8748,
+    "gn:longitude":46.214,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sh\u016br\u0101beh-ye Malek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u0631\u0627\u0628\u0647 \u0645\u0644\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0648\u0631\u0627\u0648\u0627",
+        "Sh\u016br\u0101beh Malek",
+        "Sh\u016br\u0101beh-ye Malek"
+    ],
+    "name:und_x_variant":[
+        "S\u016br\u0101v\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108720065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5971,
+        "wk:page":"Shurabeh-ye_Malek"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"32feecac76f4e9dfebddceaa527d0b2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720065,
+            "locality_id":1209704345,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1209704345,
+    "wof:lastmodified":1537640314,
+    "wof:name":"Shurabeh-ye Malek",
+    "wof:parent_id":1108720065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.214,
+    33.8748,
+    46.214,
+    33.8748
+],
+  "geometry": {"coordinates":[46.214,33.8748],"type":"Point"}
+}

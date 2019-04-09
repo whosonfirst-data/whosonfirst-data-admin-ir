@@ -1,0 +1,67 @@
+{
+  "id": 1260207201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.07139,26.35056,60.07139,26.35056",
+    "geom:latitude":26.35056,
+    "geom:longitude":60.07139,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bent",
+    "gn:country_code":"IR",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1336245,
+    "gn:latitude":26.35056,
+    "gn:longitude":60.07139,
+    "gn:modification_date":"1996-10-29",
+    "gn:name":"Bent",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1336245
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"54d37917254078fe0b9dbaa4ee75212d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720271,
+            "locality_id":1260207201,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1260207201,
+    "wof:lastmodified":1536814810,
+    "wof:name":"Bent",
+    "wof:parent_id":1108720271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.07139,
+    26.35056,
+    60.07139,
+    26.35056
+],
+  "geometry": {"coordinates":[60.07139,26.35056],"type":"Point"}
+}

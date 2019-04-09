@@ -1,0 +1,73 @@
+{
+  "id": 1310455307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.66667,36.2,52.66667,36.2",
+    "geom:latitude":36.2,
+    "geom:longitude":52.66667,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Da'i Sar",
+    "gn:country_code":"IR",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1380,
+    "gn:latitude":36.2,
+    "gn:longitude":52.66667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"D\u0101\u2019\u012b Sar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0626\u06cc \u0633\u064e\u0631"
+    ],
+    "name:fas_x_variant":[
+        "D\u0101\u2019\u012b Sar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1380
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0cf36116227f263883e1d32937b758e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719845,
+            "locality_id":1310455307,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1310455307,
+    "wof:lastmodified":1537640163,
+    "wof:name":"Da'i Sar",
+    "wof:parent_id":1108719845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.66667,
+    36.2,
+    52.66667,
+    36.2
+],
+  "geometry": {"coordinates":[52.66667,36.2],"type":"Point"}
+}

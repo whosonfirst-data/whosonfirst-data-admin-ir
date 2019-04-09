@@ -1,0 +1,80 @@
+{
+  "id": 1292933653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.49314,33.07805,59.49314,33.07805",
+    "geom:latitude":33.07805,
+    "geom:longitude":59.49314,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Mirzag",
+    "gn:country_code":"IR",
+    "gn:dem":2152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":123867,
+    "gn:latitude":33.07805,
+    "gn:longitude":59.49314,
+    "gn:modification_date":"2015-08-06",
+    "gn:name":"M\u012brzag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "M\u012brozk"
+    ],
+    "name:fas_x_variant":[
+        "M\u012br\u012bz",
+        "\u0645\u06cc\u0631\u06cc\u0632",
+        "\u0645\u06cc\u0631\u0632\u06af"
+    ],
+    "name:und_x_variant":[
+        "M\u012br\u012bz",
+        "\u0645\u06cc\u0631\u06cc\u0632",
+        "M\u012brzag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108719895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":123867
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5dfe034f2c30ac2092e6159cee354bb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719895,
+            "locality_id":1292933653,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1292933653,
+    "wof:lastmodified":1537644195,
+    "wof:name":"Mirzag",
+    "wof:parent_id":1108719895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.49314,
+    33.07805,
+    59.49314,
+    33.07805
+],
+  "geometry": {"coordinates":[59.49314,33.07805],"type":"Point"}
+}

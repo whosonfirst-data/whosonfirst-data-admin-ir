@@ -1,0 +1,76 @@
+{
+  "id": 1242856415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.10591,35.1476,47.10591,35.1476",
+    "geom:latitude":35.1476,
+    "geom:longitude":47.10591,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Narran",
+    "gn:country_code":"IR",
+    "gn:dem":1840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":122610,
+    "gn:latitude":35.1476,
+    "gn:longitude":47.10591,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Narr\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0631\u0651\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Narr\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Nar\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":122610
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d6f019a6e6d9b47076f358de70db25ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720379,
+            "locality_id":1242856415,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1242856415,
+    "wof:lastmodified":1537644075,
+    "wof:name":"Narran",
+    "wof:parent_id":1108720379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.10591,
+    35.1476,
+    47.10591,
+    35.1476
+],
+  "geometry": {"coordinates":[47.10591,35.1476],"type":"Point"}
+}

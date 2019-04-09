@@ -1,0 +1,77 @@
+{
+  "id": 1343700503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.96375,36.79303,54.96375,36.79303",
+    "geom:latitude":36.79303,
+    "geom:longitude":54.96375,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Afratakhteh-ye Bala",
+    "gn:country_code":"IR",
+    "gn:dem":1649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":39648,
+    "gn:latitude":36.79303,
+    "gn:longitude":54.96375,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"Afr\u0101takhteh-ye B\u0101l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Afr\u0101takhteh-ye B\u0101l\u0101"
+    ],
+    "name:fas_x_variant":[
+        "Afr\u0101takhteh-e B\u0101l\u0101",
+        "\u0627\u0641\u0631\u0627\u062a\u062e\u062a\u0647 \u0628\u0627\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u0627\u0641\u0631\u0627\u062a\u062e\u062a\u0647 \u0628\u0627\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108719799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":39648
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b323ea79b8b8dde93aad3d6ce1f73edc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719799,
+            "locality_id":1343700503,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1343700503,
+    "wof:lastmodified":1537642224,
+    "wof:name":"Afratakhteh-ye Bala",
+    "wof:parent_id":1108719799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.96375,
+    36.79303,
+    54.96375,
+    36.79303
+],
+  "geometry": {"coordinates":[54.96375,36.79303],"type":"Point"}
+}

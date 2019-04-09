@@ -1,0 +1,76 @@
+{
+  "id": 1293905919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.67042,30.84645,50.67042,30.84645",
+    "geom:latitude":30.84645,
+    "geom:longitude":50.67042,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Gurkhaneh",
+    "gn:country_code":"IR",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":45764,
+    "gn:latitude":30.84645,
+    "gn:longitude":50.67042,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"G\u016brkh\u0101neh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "G\u016brkh\u0101neh"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u0648\u0631\u062e\u0627\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u06af\u0648\u0631\u062e\u0627\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":45764
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"83450ffe7030542790f1851ba8a671bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1293905919,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1293905919,
+    "wof:lastmodified":1537642568,
+    "wof:name":"Gurkhaneh",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.67042,
+    30.84645,
+    50.67042,
+    30.84645
+],
+  "geometry": {"coordinates":[50.67042,30.84645],"type":"Point"}
+}

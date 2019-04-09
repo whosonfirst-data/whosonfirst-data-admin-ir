@@ -1,0 +1,70 @@
+{
+  "id": 1360255109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.04917,31.9,50.04917,31.9",
+    "geom:latitude":31.9,
+    "geom:longitude":50.04917,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Benaran",
+    "gn:country_code":"IR",
+    "gn:dem":766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":140883,
+    "gn:latitude":31.9,
+    "gn:longitude":50.04917,
+    "gn:modification_date":"2010-08-09",
+    "gn:name":"Benar\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Benar\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140883
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"256603721702bab79f52aa9729afd04f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720067,
+            "locality_id":1360255109,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1360255109,
+    "wof:lastmodified":1537645920,
+    "wof:name":"Benaran",
+    "wof:parent_id":1108720067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.04917,
+    31.9,
+    50.04917,
+    31.9
+],
+  "geometry": {"coordinates":[50.04917,31.9],"type":"Point"}
+}

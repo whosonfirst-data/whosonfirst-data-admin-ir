@@ -1,0 +1,73 @@
+{
+  "id": 1343917501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.5469,39.181,47.5469,39.181",
+    "geom:latitude":39.181,
+    "geom:longitude":47.5469,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Samid",
+    "gn:country_code":"IR",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":17341,
+    "gn:latitude":39.181,
+    "gn:longitude":47.5469,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sam\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0645\u064a\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Sam\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":17341
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"367c1f2e1d914059e5e1070a916ea06d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720021,
+            "locality_id":1343917501,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1343917501,
+    "wof:lastmodified":1537640945,
+    "wof:name":"Samid",
+    "wof:parent_id":1108720021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.5469,
+    39.181,
+    47.5469,
+    39.181
+],
+  "geometry": {"coordinates":[47.5469,39.181],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1242725253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.34697,32.65047,50.34697,32.65047",
+    "geom:latitude":32.65047,
+    "geom:longitude":50.34697,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Esfahanak-e Saki",
+    "gn:country_code":"IR",
+    "gn:dem":2385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":33215,
+    "gn:latitude":32.65047,
+    "gn:longitude":50.34697,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"E\u015ffah\u0101nak-e S\u0101k\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "E\u015ffah\u0101nak-e S\u0101k\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0635\u0641\u0647\u0627\u0646\u06a9 \u0633\u0627\u06a9\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0627\u0635\u0641\u0647\u0627\u0646\u06a9 \u0633\u0627\u06a9\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108719921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":33215,
+        "wk:page":"Esfahanak-e_Saki"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cc55c142eacb0424cbe52fb90a56c11d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719921,
+            "locality_id":1242725253,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1242725253,
+    "wof:lastmodified":1537641851,
+    "wof:name":"Esfahanak-e Saki",
+    "wof:parent_id":1108719921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.34697,
+    32.65047,
+    50.34697,
+    32.65047
+],
+  "geometry": {"coordinates":[50.34697,32.65047],"type":"Point"}
+}

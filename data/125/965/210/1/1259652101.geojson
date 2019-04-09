@@ -1,0 +1,81 @@
+{
+  "id": 1259652101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.19148,34.02614,48.19148,34.02614",
+    "geom:latitude":34.02614,
+    "geom:longitude":48.19148,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Afsaneh",
+    "gn:country_code":"IR",
+    "gn:dem":1956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":14328,
+    "gn:latitude":34.02614,
+    "gn:longitude":48.19148,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Afs\u0101neh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0641\u0633\u0627\u0646\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Alnes\u0101neh",
+        "Alefs\u0101neh",
+        "\u0627\u0644\u0646\u0633\u0627\u0646\u0647",
+        "\u0627\u0641\u0633\u0627\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0627\u0644\u0646\u0633\u0627\u0646\u0647",
+        "Afs\u0101neh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":14328,
+        "wk:page":"Alefsaneh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8e7244d895331447e81ea86e7a6728f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719959,
+            "locality_id":1259652101,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1259652101,
+    "wof:lastmodified":1537640804,
+    "wof:name":"Afsaneh",
+    "wof:parent_id":1108719959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.19148,
+    34.02614000000001,
+    48.19148,
+    34.02614000000001
+],
+  "geometry": {"coordinates":[48.19148,34.02614000000001],"type":"Point"}
+}

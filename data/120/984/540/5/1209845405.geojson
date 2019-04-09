@@ -1,0 +1,76 @@
+{
+  "id": 1209845405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.69669,31.88049,59.69669,31.88049",
+    "geom:latitude":31.88049,
+    "geom:longitude":59.69669,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Mesi Chah",
+    "gn:country_code":"IR",
+    "gn:dem":1901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":30117,
+    "gn:latitude":31.88049,
+    "gn:longitude":59.69669,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Mes\u012b Ch\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Ch\u0101h-e Mes\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0633\u06cc \u0686\u0627\u0647"
+    ],
+    "name:und_x_variant":[
+        "Mes\u012b Ch\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108720259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":30117
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8b31b619edd670ffc41fb8d209ec8d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720259,
+            "locality_id":1209845405,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1209845405,
+    "wof:lastmodified":1537641666,
+    "wof:name":"Mesi Chah",
+    "wof:parent_id":1108720259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.69669,
+    31.88049,
+    59.69669,
+    31.88049
+],
+  "geometry": {"coordinates":[59.69669,31.88049],"type":"Point"}
+}

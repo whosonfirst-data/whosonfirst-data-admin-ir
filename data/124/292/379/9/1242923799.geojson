@@ -1,0 +1,77 @@
+{
+  "id": 1242923799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.8756,28.8718,57.8756,28.8718",
+    "geom:latitude":28.8718,
+    "geom:longitude":57.8756,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Dar-e Dashk",
+    "gn:country_code":"IR",
+    "gn:dem":1744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":137836,
+    "gn:latitude":28.8718,
+    "gn:longitude":57.8756,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dar-e Dashk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0631 \u062f\u0634\u06a9"
+    ],
+    "name:und_x_variant":[
+        "Dardesk",
+        "Dar Dar",
+        "Dardez",
+        "Dar-e Desk",
+        "Dar-e Dashk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":137836
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"092297481f0c9c3ac2ff423507a96a50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720081,
+            "locality_id":1242923799,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1242923799,
+    "wof:lastmodified":1537645617,
+    "wof:name":"Dar-e Dashk",
+    "wof:parent_id":1108720081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.8756,
+    28.8718,
+    57.8756,
+    28.8718
+],
+  "geometry": {"coordinates":[57.8756,28.8718],"type":"Point"}
+}

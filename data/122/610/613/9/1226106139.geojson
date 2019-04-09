@@ -1,0 +1,73 @@
+{
+  "id": 1226106139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.6236,35.88909,47.6236,35.88909",
+    "geom:latitude":35.88909,
+    "geom:longitude":47.6236,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Takht-e Sofla",
+    "gn:country_code":"IR",
+    "gn:dem":1876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":435659,
+    "gn:latitude":35.88909,
+    "gn:longitude":47.6236,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Takht-e Sofl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u062e\u062a \u0633\u0641\u0644\u0649"
+    ],
+    "name:fas_x_variant":[
+        "Takht-e Sofl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108719889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":435659
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8eefa78172d216dfb8ee9d00c03d789f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719889,
+            "locality_id":1226106139,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1226106139,
+    "wof:lastmodified":1537646770,
+    "wof:name":"Takht-e Sofla",
+    "wof:parent_id":1108719889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.6236,
+    35.88909,
+    47.6236,
+    35.88909
+],
+  "geometry": {"coordinates":[47.6236,35.88909],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209161173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.8173,27.096,57.8173,27.096",
+    "geom:latitude":27.096,
+    "geom:longitude":57.8173,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Estij",
+    "gn:country_code":"IR",
+    "gn:dem":1043,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":48433,
+    "gn:latitude":27.096,
+    "gn:longitude":57.8173,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Est\u012bj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u06cc\u062c"
+    ],
+    "name:fas_x_variant":[
+        "Est\u012bch",
+        "Est\u012bj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":48433
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7821331894bba0e6805a64caadf081aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209161173
+        }
+    ],
+    "wof:id":1209161173,
+    "wof:lastmodified":1537642726,
+    "wof:name":"Estij",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.8173,
+    27.096,
+    57.8173,
+    27.096
+],
+  "geometry": {"coordinates":[57.8173,27.096],"type":"Point"}
+}

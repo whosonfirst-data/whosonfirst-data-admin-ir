@@ -1,0 +1,78 @@
+{
+  "id": 1343998211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.85594,36.4834,50.85594,36.4834",
+    "geom:latitude":36.4834,
+    "geom:longitude":50.85594,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Qazi Mahalleh",
+    "gn:country_code":"IR",
+    "gn:dem":1549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":119516,
+    "gn:latitude":36.4834,
+    "gn:longitude":50.85594,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Q\u0101\u1e95\u012b Ma\u1e29alleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0627\u0632\u06cc \u0645\u064e\u062d\u064e\u0644\u0650\u0651\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Q\u0101\u1e95\u012b Ma\u1e29alleh",
+        "\u0642\u0627\u0636\u06cc \u0645\u062d\u0644\u0651\u0647",
+        "Q\u0101z\u012b Ma\u1e29alleh"
+    ],
+    "name:und_x_variant":[
+        "K\u0101zi Mahalleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":119516
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e0c62664e320e265c5f0a4d34c40fecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720495,
+            "locality_id":1343998211,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1343998211,
+    "wof:lastmodified":1537643753,
+    "wof:name":"Qazi Mahalleh",
+    "wof:parent_id":1108720495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.85594,
+    36.4834,
+    50.85594,
+    36.4834
+],
+  "geometry": {"coordinates":[50.85594,36.4834],"type":"Point"}
+}

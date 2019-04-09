@@ -1,0 +1,80 @@
+{
+  "id": 1343402669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.6186,38.8897,47.6186,38.8897",
+    "geom:latitude":38.8897,
+    "geom:longitude":47.6186,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Dumuli",
+    "gn:country_code":"IR",
+    "gn:dem":975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":35760,
+    "gn:latitude":38.8897,
+    "gn:longitude":47.6186,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"D\u016bm\u016bl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0645\u0648\u0644\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u064f\u0645\u0648\u0644\u06cc",
+        "\u062f\u0648\u0645\u0648\u0644\u06cc",
+        "D\u016bm\u016bl\u016b",
+        "D\u016bm\u016bl\u012b"
+    ],
+    "name:und_x_variant":[
+        "Dom\u016bl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":35760,
+        "wk:page":"Dumuli"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a9fbd9e6d38f57b380846b053d8b4885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720021,
+            "locality_id":1343402669,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1343402669,
+    "wof:lastmodified":1537641968,
+    "wof:name":"Dumuli",
+    "wof:parent_id":1108720021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.6186,
+    38.8897,
+    47.6186,
+    38.8897
+],
+  "geometry": {"coordinates":[47.6186,38.8897],"type":"Point"}
+}

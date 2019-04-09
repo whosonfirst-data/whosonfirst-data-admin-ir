@@ -1,0 +1,74 @@
+{
+  "id": 1343451721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.49887,30.27023,51.49887,30.27023",
+    "geom:latitude":30.27023,
+    "geom:longitude":51.49887,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Tall-e Pir",
+    "gn:country_code":"IR",
+    "gn:dem":873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112709,
+    "gn:latitude":30.27023,
+    "gn:longitude":51.49887,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"Tall-e P\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0644 \u067e\u06cc\u0631"
+    ],
+    "name:und_x_variant":[
+        "Tall-e P\u012br",
+        "\u062a\u0644 \u067e\u06cc\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112709
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d7edca865df6d8185153996e5a75b37a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720209,
+            "locality_id":1343451721,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1343451721,
+    "wof:lastmodified":1537643115,
+    "wof:name":"Tall-e Pir",
+    "wof:parent_id":1108720209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.49887,
+    30.27023,
+    51.49887,
+    30.27023
+],
+  "geometry": {"coordinates":[51.49887,30.27023],"type":"Point"}
+}

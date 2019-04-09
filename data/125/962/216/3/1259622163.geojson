@@ -1,0 +1,73 @@
+{
+  "id": 1259622163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.85276,37.55133,54.85276,37.55133",
+    "geom:latitude":37.55133,
+    "geom:longitude":54.85276,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Ozbakabad",
+    "gn:country_code":"IR",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11133402,
+    "gn:latitude":37.55133,
+    "gn:longitude":54.85276,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Ozbak\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0632\u0628\u06a9 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Ozbak\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11133402
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7845b2c759e5af757e256fb742a3f12b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720039,
+            "locality_id":1259622163,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1259622163,
+    "wof:lastmodified":1537648724,
+    "wof:name":"Ozbakabad",
+    "wof:parent_id":1108720039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.85276,
+    37.55133,
+    54.85276,
+    37.55133
+],
+  "geometry": {"coordinates":[54.85276,37.55133],"type":"Point"}
+}

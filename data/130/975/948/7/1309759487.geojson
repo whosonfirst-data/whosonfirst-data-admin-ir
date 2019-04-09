@@ -1,0 +1,73 @@
+{
+  "id": 1309759487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.73311,36.21717,52.73311,36.21717",
+    "geom:latitude":36.21717,
+    "geom:longitude":52.73311,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Darzi Kola",
+    "gn:country_code":"IR",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11672,
+    "gn:latitude":36.21717,
+    "gn:longitude":52.73311,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Darz\u012b Kol\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0632\u06cc \u0643\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "Darz\u012b Kol\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11672
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"834e92e51e30df20b94c1e6e8d8ed009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720405,
+            "locality_id":1309759487,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1309759487,
+    "wof:lastmodified":1537640655,
+    "wof:name":"Darzi Kola",
+    "wof:parent_id":1108720405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.73311,
+    36.21717,
+    52.73311,
+    36.21717
+],
+  "geometry": {"coordinates":[52.73311,36.21717],"type":"Point"}
+}

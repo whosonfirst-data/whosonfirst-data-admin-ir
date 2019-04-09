@@ -1,0 +1,81 @@
+{
+  "id": 1326783905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.93203,36.04819,52.93203,36.04819",
+    "geom:latitude":36.04819,
+    "geom:longitude":52.93203,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Arat Bon",
+    "gn:country_code":"IR",
+    "gn:dem":1170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":143103,
+    "gn:latitude":36.04819,
+    "gn:longitude":52.93203,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ar\u0101t Bon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u064e\u0631\u0627\u062a\u064e\u0647\u0628\u064e\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0631\u0627\u062a \u0628\u0646",
+        "\u0643\u064e\u0645\u064e\u0646\u062f",
+        "Ar\u0101tahban",
+        "Ar\u0101t Bon"
+    ],
+    "name:und_x_variant":[
+        "Kamand",
+        "Ar\u0101t Bon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":143103,
+        "wk:page":"Arat_Bon"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ea5244e972cb43bacc28ed7f0c325750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720405,
+            "locality_id":1326783905,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1326783905,
+    "wof:lastmodified":1537646141,
+    "wof:name":"Arat Bon",
+    "wof:parent_id":1108720405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.93203000000001,
+    36.04819000000001,
+    52.93203000000001,
+    36.04819000000001
+],
+  "geometry": {"coordinates":[52.93203000000001,36.04819000000001],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343668883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.60965,31.55668,50.60965,31.55668",
+    "geom:latitude":31.55668,
+    "geom:longitude":50.60965,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bideleh",
+    "gn:country_code":"IR",
+    "gn:dem":1411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":145256,
+    "gn:latitude":31.55668,
+    "gn:longitude":50.60965,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"B\u012bdeleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0100b B\u012bdak"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u0628 \u0628\u064a\u062f\u0643",
+        "\u0628\u06cc\u062f\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0622\u0628 \u0628\u064a\u062f\u0643",
+        "B\u012bdeleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672319,
+        1108720189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145256
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8e618f47ad37d02e9a710345c93039e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720189,
+            "locality_id":1343668883,
+            "region_id":85672319
+        }
+    ],
+    "wof:id":1343668883,
+    "wof:lastmodified":1537646347,
+    "wof:name":"Bideleh",
+    "wof:parent_id":1108720189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.60965,
+    31.55668,
+    50.60965,
+    31.55668
+],
+  "geometry": {"coordinates":[50.60965,31.55668],"type":"Point"}
+}

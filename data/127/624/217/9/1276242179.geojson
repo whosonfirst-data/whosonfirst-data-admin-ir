@@ -1,0 +1,67 @@
+{
+  "id": 1276242179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.05222,36.68917,46.05222,36.68917",
+    "geom:latitude":36.68917,
+    "geom:longitude":46.05222,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Otamish",
+    "gn:country_code":"IR",
+    "gn:dem":1444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":401280,
+    "gn:latitude":36.68917,
+    "gn:longitude":46.05222,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Otam\u012bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108719915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401280
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9cb92cde99c4fa24a0a489a879591ddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719915,
+            "locality_id":1276242179,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1276242179,
+    "wof:lastmodified":1536900803,
+    "wof:name":"Otamish",
+    "wof:parent_id":1108719915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.05222,
+    36.68917,
+    46.05222,
+    36.68917
+],
+  "geometry": {"coordinates":[46.05222,36.68917],"type":"Point"}
+}

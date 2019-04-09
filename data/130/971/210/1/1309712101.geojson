@@ -1,0 +1,77 @@
+{
+  "id": 1309712101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.3593,30.8417,61.3593,30.8417",
+    "geom:latitude":30.8417,
+    "geom:longitude":61.3593,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tuti",
+    "gn:country_code":"IR",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1159343,
+    "gn:latitude":30.8417,
+    "gn:longitude":61.3593,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"\u0162\u016b\u0163\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0637\u0648\u0637\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0162\u016b\u0163\u012b",
+        "\u062a\u0648\u062a\u06cc"
+    ],
+    "name:und_x_variant":[
+        "T\u016bt\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1159343
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e75b1b5f0bb21fe5f2601ca23f330668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720513,
+            "locality_id":1309712101,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1309712101,
+    "wof:lastmodified":1537646963,
+    "wof:name":"Tuti",
+    "wof:parent_id":1108720513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.3593,
+    30.8417,
+    61.3593,
+    30.8417
+],
+  "geometry": {"coordinates":[61.3593,30.8417],"type":"Point"}
+}

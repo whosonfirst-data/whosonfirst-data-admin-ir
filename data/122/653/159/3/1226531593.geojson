@@ -1,0 +1,78 @@
+{
+  "id": 1226531593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.02546,35.1222,49.02546,35.1222",
+    "geom:latitude":35.1222,
+    "geom:longitude":49.02546,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Senaj",
+    "gn:country_code":"IR",
+    "gn:dem":1643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":117577,
+    "gn:latitude":35.1222,
+    "gn:longitude":49.02546,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Sen\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u0627\u062c"
+    ],
+    "name:fas_x_variant":[
+        "Sen\u0101j",
+        "San\u0101j"
+    ],
+    "name:und_x_variant":[
+        "Sin\u0101j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":117577,
+        "wk:page":"Sanaj"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cde95b3cd488703fce5d16db1e090ffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720047,
+            "locality_id":1226531593,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1226531593,
+    "wof:lastmodified":1537643557,
+    "wof:name":"Senaj",
+    "wof:parent_id":1108720047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.02546,
+    35.1222,
+    49.02546,
+    35.1222
+],
+  "geometry": {"coordinates":[49.02546,35.1222],"type":"Point"}
+}

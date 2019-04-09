@@ -1,0 +1,74 @@
+{
+  "id": 1343381613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.10577,28.66763,55.10577,28.66763",
+    "geom:latitude":28.66763,
+    "geom:longitude":55.10577,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Tiab",
+    "gn:country_code":"IR",
+    "gn:dem":1956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6980371,
+    "gn:latitude":28.66763,
+    "gn:longitude":55.10577,
+    "gn:modification_date":"2018-06-19",
+    "gn:name":"T\u012b\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0627\u0628"
+    ],
+    "name:fas_x_variant":[
+        "T\u012b\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108719939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6980371,
+        "wk:page":"Tiab,_Fars"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"520a64dd1afc842cb58dadf292ae5c7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719939,
+            "locality_id":1343381613,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1343381613,
+    "wof:lastmodified":1537647817,
+    "wof:name":"Tiab",
+    "wof:parent_id":1108719939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.10576999999999,
+    28.66763,
+    55.10576999999999,
+    28.66763
+],
+  "geometry": {"coordinates":[55.10576999999999,28.66763],"type":"Point"}
+}

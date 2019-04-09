@@ -1,0 +1,76 @@
+{
+  "id": 1226651771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.07595,27.56523,61.07595,27.56523",
+    "geom:latitude":27.56523,
+    "geom:longitude":61.07595,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bibah",
+    "gn:country_code":"IR",
+    "gn:dem":1222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1114921,
+    "gn:latitude":27.56523,
+    "gn:longitude":61.07595,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"B\u012bbah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0628\u0647"
+    ],
+    "name:fas_x_variant":[
+        "B\u012b Bah",
+        "B\u012bbah",
+        "\u0628\u06cc \u0628\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1114921,
+        "wk:page":"Bibah"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"074526cc89cc68db79f8c276c088fc0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720131,
+            "locality_id":1226651771,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1226651771,
+    "wof:lastmodified":1537646938,
+    "wof:name":"Bibah",
+    "wof:parent_id":1108720131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.07595,
+    27.56523,
+    61.07595,
+    27.56523
+],
+  "geometry": {"coordinates":[61.07595,27.56523],"type":"Point"}
+}

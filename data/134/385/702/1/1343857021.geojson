@@ -1,0 +1,76 @@
+{
+  "id": 1343857021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.85065,30.79561,50.85065,30.79561",
+    "geom:latitude":30.79561,
+    "geom:longitude":50.85065,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gorgid-e Sarqaryab",
+    "gn:country_code":"IR",
+    "gn:dem":1231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7490217,
+    "gn:latitude":30.79561,
+    "gn:longitude":50.85065,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Gorg\u012bd-e Sarq\u0101ry\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Gorg\u012bd-e Sarq\u0101ry\u0101b"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u0631\u06af\u06cc\u062f \u0633\u0631\u0642\u0627\u0631\u06cc\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u06af\u0631\u06af\u06cc\u062f \u0633\u0631\u0642\u0627\u0631\u06cc\u0627\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7490217
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d8c5b47967da01e283f5035047c8085a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1343857021,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1343857021,
+    "wof:lastmodified":1537648244,
+    "wof:name":"Gorgid-e Sarqaryab",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.85065,
+    30.79561,
+    50.85065,
+    30.79561
+],
+  "geometry": {"coordinates":[50.85065,30.79561],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209305317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.37889,30.42778,52.37889,30.42778",
+    "geom:latitude":30.42778,
+    "geom:longitude":52.37889,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kafehbar `Ali",
+    "gn:country_code":"IR",
+    "gn:dem":2158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":46940,
+    "gn:latitude":30.42778,
+    "gn:longitude":52.37889,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kafehbar \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Kafehbar \u2018Al\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":46940
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"17c532dd760c3823f05ef7ee8d15669a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209305317
+        }
+    ],
+    "wof:id":1209305317,
+    "wof:lastmodified":1537642647,
+    "wof:name":"Kafehbar `Ali",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.37889000000001,
+    30.42778,
+    52.37889000000001,
+    30.42778
+],
+  "geometry": {"coordinates":[52.37889000000001,30.42778],"type":"Point"}
+}

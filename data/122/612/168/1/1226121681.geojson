@@ -1,0 +1,74 @@
+{
+  "id": 1226121681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.81704,34.55418,45.81704,34.55418",
+    "geom:latitude":34.55418,
+    "geom:longitude":45.81704,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Mirmiru",
+    "gn:country_code":"IR",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":25463,
+    "gn:latitude":34.55418,
+    "gn:longitude":45.81704,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"M\u012brm\u012br\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0645\u064a\u0631\u0645\u064a\u0631\u0648"
+    ],
+    "name:fas_x_variant":[
+        "M\u012brm\u012br\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":25463,
+        "wk:page":"Mirmiru"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"da6605bed203e377f8af9438f2ec522a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720383,
+            "locality_id":1226121681,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1226121681,
+    "wof:lastmodified":1537641336,
+    "wof:name":"Mirmiru",
+    "wof:parent_id":1108720383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.81704000000001,
+    34.55418,
+    45.81704000000001,
+    34.55418
+],
+  "geometry": {"coordinates":[45.81704000000001,34.55418],"type":"Point"}
+}

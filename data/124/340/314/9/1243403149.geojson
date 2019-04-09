@@ -1,0 +1,74 @@
+{
+  "id": 1243403149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.95472,39.21833,47.95472,39.21833",
+    "geom:latitude":39.21833,
+    "geom:longitude":47.95472,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Shah Tappehsi",
+    "gn:country_code":"IR",
+    "gn:dem":811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388909,
+    "gn:latitude":39.21833,
+    "gn:longitude":47.95472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sh\u0101h Tappehsi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0647 \u062a\u064e\u067e\u064e\u0651\u0633\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Sh\u0101h Tappas\u012b",
+        "Sh\u0101h Tappehsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108719893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388909
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"986cffa1c9aa89f9f335216c89b9936f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719893,
+            "locality_id":1243403149,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1243403149,
+    "wof:lastmodified":1537646462,
+    "wof:name":"Shah Tappehsi",
+    "wof:parent_id":1108719893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.95472,
+    39.21833,
+    47.95472,
+    39.21833
+],
+  "geometry": {"coordinates":[47.95472,39.21833],"type":"Point"}
+}

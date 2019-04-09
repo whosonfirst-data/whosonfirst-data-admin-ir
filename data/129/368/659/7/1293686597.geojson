@@ -1,0 +1,74 @@
+{
+  "id": 1293686597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.49306,27.64417,62.49306,27.64417",
+    "geom:latitude":27.64417,
+    "geom:longitude":62.49306,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Senigan",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1159642,
+    "gn:latitude":27.64417,
+    "gn:longitude":62.49306,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sen\u012bgan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sen\u012bgan"
+    ],
+    "name:und_x_variant":[
+        "S\u012bng\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1159642
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2d2ccb3a1678a6c6c319c58a66321365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720389,
+            "locality_id":1293686597,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1293686597,
+    "wof:lastmodified":1537646982,
+    "wof:name":"Senigan",
+    "wof:parent_id":1108720389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.49306,
+    27.64417000000001,
+    62.49306,
+    27.64417000000001
+],
+  "geometry": {"coordinates":[62.49306,27.64417000000001],"type":"Point"}
+}

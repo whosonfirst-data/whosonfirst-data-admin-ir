@@ -1,0 +1,75 @@
+{
+  "id": 1259713373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.16667,34.43482,58.16667,34.43482",
+    "geom:latitude":34.43482,
+    "geom:longitude":58.16667,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Darzab",
+    "gn:country_code":"IR",
+    "gn:dem":1539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":30385,
+    "gn:latitude":34.43482,
+    "gn:longitude":58.16667,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Darz\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Darz\u0101b"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0631\u0632\u0627\u0628",
+        "Darz \u0100b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":30385,
+        "wk:page":"Darzab,_Iran"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3cc272464bab6eaba9895a57007ae4e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720037,
+            "locality_id":1259713373,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1259713373,
+    "wof:lastmodified":1537641674,
+    "wof:name":"Darzab",
+    "wof:parent_id":1108720037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.16667,
+    34.43482,
+    58.16667,
+    34.43482
+],
+  "geometry": {"coordinates":[58.16667,34.43482],"type":"Point"}
+}

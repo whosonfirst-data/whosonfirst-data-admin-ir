@@ -1,0 +1,84 @@
+{
+  "id": 1310357111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.60317,37.22871,55.60317,37.22871",
+    "geom:latitude":37.22871,
+    "geom:longitude":55.60317,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Farsian Faraug",
+    "gn:country_code":"IR",
+    "gn:dem":880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":134754,
+    "gn:latitude":37.22871,
+    "gn:longitude":55.60317,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Farsian Faraug",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0641\u0627\u0631\u0633\u064a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0641\u0627\u0631\u0633\u064a\u0651\u0627\u0646",
+        "\u0641\u0627\u0631\u0633\u0650\u064a\u0627\u0646",
+        "\u0641\u0627\u0631\u0633\u064a\u0627\u0646\u0650 \u0641\u064e\u0631\u064e\u0646\u06af",
+        "F\u0101rs\u012b\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Qal\u2018eh-i-F\u0101rsi\u0101n-i-Firang",
+        "F\u0101rs\u012b\u0101n-e Farang",
+        "P\u0101rsi\u0101n",
+        "F\u0101rsey\u0101n",
+        "F\u0101rs\u012by\u0101n",
+        "Farsian Faraug"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":134754
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"85fcdfc3b4645efa0b61dc7bd46e8cbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720245,
+            "locality_id":1310357111,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1310357111,
+    "wof:lastmodified":1537645303,
+    "wof:name":"Farsian Faraug",
+    "wof:parent_id":1108720245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.60317,
+    37.22871,
+    55.60317,
+    37.22871
+],
+  "geometry": {"coordinates":[55.60317,37.22871],"type":"Point"}
+}

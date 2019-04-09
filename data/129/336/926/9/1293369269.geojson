@@ -1,0 +1,75 @@
+{
+  "id": 1293369269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.7414,34.7306,46.7414,34.7306",
+    "geom:latitude":34.7306,
+    "geom:longitude":46.7414,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Gorgi Dar",
+    "gn:country_code":"IR",
+    "gn:dem":1566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":23877,
+    "gn:latitude":34.7306,
+    "gn:longitude":46.7414,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Gorg\u012b Dar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0631\u06af\u06cc \u062f\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Gorg\u012bdar",
+        "Gorg\u012b Dar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":23877,
+        "wk:page":"Gorgi_Dar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1e6de72f2f4585f9f9144e0a4dc03118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720345,
+            "locality_id":1293369269,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1293369269,
+    "wof:lastmodified":1537641241,
+    "wof:name":"Gorgi Dar",
+    "wof:parent_id":1108720345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.7414,
+    34.7306,
+    46.7414,
+    34.7306
+],
+  "geometry": {"coordinates":[46.7414,34.7306],"type":"Point"}
+}

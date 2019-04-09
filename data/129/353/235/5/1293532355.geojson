@@ -1,0 +1,73 @@
+{
+  "id": 1293532355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.44726,36.88668,54.44726,36.88668",
+    "geom:latitude":36.88668,
+    "geom:longitude":54.44726,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Sufiabad",
+    "gn:country_code":"IR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":39211,
+    "gn:latitude":36.88668,
+    "gn:longitude":54.44726,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"\u015e\u016bf\u012b\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0635\u0648\u0641\u06cc \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u015e\u016bf\u012b\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":39211
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"99733f9cb41f8b77a8c65bf4a53dc245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720041,
+            "locality_id":1293532355,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1293532355,
+    "wof:lastmodified":1537642201,
+    "wof:name":"Sufiabad",
+    "wof:parent_id":1108720041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.44726,
+    36.88668,
+    54.44726,
+    36.88668
+],
+  "geometry": {"coordinates":[54.44726,36.88668],"type":"Point"}
+}

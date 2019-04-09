@@ -1,0 +1,73 @@
+{
+  "id": 1326534337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.99743,31.14267,50.99743,31.14267",
+    "geom:latitude":31.14267,
+    "geom:longitude":50.99743,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Cheshmeh Rizak",
+    "gn:country_code":"IR",
+    "gn:dem":2379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8355880,
+    "gn:latitude":31.14267,
+    "gn:longitude":50.99743,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Cheshmeh R\u012bzak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0634\u0645\u0647 \u0631\u06cc\u0632\u0643"
+    ],
+    "name:und_x_variant":[
+        "Cheshmeh R\u012bzak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108719965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8355880
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5b98e13b5c20794e41bff7205571e349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719965,
+            "locality_id":1326534337,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1326534337,
+    "wof:lastmodified":1537648548,
+    "wof:name":"Cheshmeh Rizak",
+    "wof:parent_id":1108719965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.99743,
+    31.14267000000001,
+    50.99743,
+    31.14267000000001
+],
+  "geometry": {"coordinates":[50.99743,31.14267000000001],"type":"Point"}
+}

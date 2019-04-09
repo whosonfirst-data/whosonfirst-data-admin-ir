@@ -1,0 +1,73 @@
+{
+  "id": 1242635765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.4008,28.3255,51.4008,28.3255",
+    "geom:latitude":28.3255,
+    "geom:longitude":51.4008,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Gaz Deraz",
+    "gn:country_code":"IR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":6655300,
+    "gn:latitude":28.3255,
+    "gn:longitude":51.4008,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"Gaz Der\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0632 \u062f\u0631\u0627\u0632"
+    ],
+    "name:fas_x_variant":[
+        "Gaz Der\u0101z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108719953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6655300
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0619f9d407427422ebdaaa300368dc90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719953,
+            "locality_id":1242635765,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1242635765,
+    "wof:lastmodified":1537647250,
+    "wof:name":"Gaz Deraz",
+    "wof:parent_id":1108719953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.4008,
+    28.3255,
+    51.4008,
+    28.3255
+],
+  "geometry": {"coordinates":[51.4008,28.3255],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1260332713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.9988,34.0292,50.9988,34.0292",
+    "geom:latitude":34.0292,
+    "geom:longitude":50.9988,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Mehdiabad",
+    "gn:country_code":"IR",
+    "gn:dem":1976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":22174,
+    "gn:latitude":34.0292,
+    "gn:longitude":50.9988,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mehd\u012b\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0647\u062f\u06cc \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0644\u0647 \u062c\u0627\u0631",
+        "Mehd\u012b\u0101b\u0101d",
+        "Kaleh J\u0101r"
+    ],
+    "name:und_x_variant":[
+        "Kareh Ch\u0101r",
+        "\u0643\u064e\u0631\u0650\u0647 \u0686\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108719961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":22174
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"877da2d757ee6f3f3bb76ab46c6cca37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719961,
+            "locality_id":1260332713,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1260332713,
+    "wof:lastmodified":1537641114,
+    "wof:name":"Mehdiabad",
+    "wof:parent_id":1108719961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.9988,
+    34.0292,
+    50.9988,
+    34.0292
+],
+  "geometry": {"coordinates":[50.9988,34.0292],"type":"Point"}
+}

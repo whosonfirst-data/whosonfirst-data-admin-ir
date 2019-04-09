@@ -1,0 +1,73 @@
+{
+  "id": 1293766341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.0939,31.2341,49.0939,31.2341",
+    "geom:latitude":31.2341,
+    "geom:longitude":49.0939,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Beyuz",
+    "gn:country_code":"IR",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6648180,
+    "gn:latitude":31.2341,
+    "gn:longitude":49.0939,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Bey\u016b\u1e95",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0648\u0636"
+    ],
+    "name:fas_x_variant":[
+        "Bey\u016b\u1e95"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6648180
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"eede3f46081cfd8ee492b92dbcb84fe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719793,
+            "locality_id":1293766341,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1293766341,
+    "wof:lastmodified":1537647175,
+    "wof:name":"Beyuz",
+    "wof:parent_id":1108719793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.0939,
+    31.2341,
+    49.0939,
+    31.2341
+],
+  "geometry": {"coordinates":[49.0939,31.2341],"type":"Point"}
+}

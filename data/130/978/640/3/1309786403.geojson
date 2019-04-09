@@ -1,0 +1,77 @@
+{
+  "id": 1309786403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.3189,27.1353,53.3189,27.1353",
+    "geom:latitude":27.1353,
+    "geom:longitude":53.3189,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Konardan-e Shomali",
+    "gn:country_code":"IR",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6916280,
+    "gn:latitude":27.1353,
+    "gn:longitude":53.3189,
+    "gn:modification_date":"2013-09-10",
+    "gn:name":"Kon\u0101rd\u0101n-e Shom\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647\u0646\u0648 \u062f\u0645\u06cc\u062a\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Dehnow Dam\u012btar",
+        "\u06a9\u0646\u0627\u0631\u062f\u0627\u0646 \u0634\u0645\u0627\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Kon\u0101rd\u0101n-e Shom\u0101l\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6916280
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6c539852c7e793998d05bb4a816c2f01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720025,
+            "locality_id":1309786403,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1309786403,
+    "wof:lastmodified":1537647713,
+    "wof:name":"Konardan-e Shomali",
+    "wof:parent_id":1108720025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.3189,
+    27.1353,
+    53.3189,
+    27.1353
+],
+  "geometry": {"coordinates":[53.3189,27.1353],"type":"Point"}
+}

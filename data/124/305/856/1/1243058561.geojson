@@ -1,0 +1,76 @@
+{
+  "id": 1243058561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.31685,30.1554,51.31685,30.1554",
+    "geom:latitude":30.1554,
+    "geom:longitude":51.31685,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Sakht-e Farhad",
+    "gn:country_code":"IR",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":117783,
+    "gn:latitude":30.1554,
+    "gn:longitude":51.31685,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u0101kht-e Farh\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "S\u0101kht-e Farh\u0101d"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0627\u062e\u062a \u0641\u0631\u0647\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u0633\u0627\u062e\u062a \u0641\u0631\u0647\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":117783
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3d5661fdd5f45b04bbfa822cdf52af63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720209,
+            "locality_id":1243058561,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1243058561,
+    "wof:lastmodified":1537643576,
+    "wof:name":"Sakht-e Farhad",
+    "wof:parent_id":1108720209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.31685,
+    30.1554,
+    51.31685,
+    30.1554
+],
+  "geometry": {"coordinates":[51.31685,30.1554],"type":"Point"}
+}

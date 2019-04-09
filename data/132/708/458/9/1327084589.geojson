@@ -1,0 +1,79 @@
+{
+  "id": 1327084589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.31667,31.55,56.31667,31.55",
+    "geom:latitude":31.55,
+    "geom:longitude":56.31667,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Gazman",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":133689,
+    "gn:latitude":31.55,
+    "gn:longitude":56.31667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Gazm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u064e\u0632\u0645\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u0650\u0632\u0645\u0627\u0646",
+        "Gazm\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Gezm\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":133689,
+        "wk:page":"Gazman"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e596e04735290593332fb9ae86e25bc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720155,
+            "locality_id":1327084589,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1327084589,
+    "wof:lastmodified":1537645196,
+    "wof:name":"Gazman",
+    "wof:parent_id":1108720155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.31667,
+    31.55,
+    56.31667,
+    31.55
+],
+  "geometry": {"coordinates":[56.31667,31.55],"type":"Point"}
+}

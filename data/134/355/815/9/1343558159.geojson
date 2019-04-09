@@ -1,0 +1,73 @@
+{
+  "id": 1343558159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.86711,37.48192,48.86711,37.48192",
+    "geom:latitude":37.48192,
+    "geom:longitude":48.86711,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Balan Sar",
+    "gn:country_code":"IR",
+    "gn:dem":1551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6741898,
+    "gn:latitude":37.48192,
+    "gn:longitude":48.86711,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"B\u0101l\u0101n Sar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0644\u0627\u0646 \u0633\u0631"
+    ],
+    "name:fas_x_variant":[
+        "B\u0101l\u0101n Sar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6741898
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9455017c231560511d9e5478fa6e8859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720353,
+            "locality_id":1343558159,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1343558159,
+    "wof:lastmodified":1537647579,
+    "wof:name":"Balan Sar",
+    "wof:parent_id":1108720353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.86711,
+    37.48192,
+    48.86711,
+    37.48192
+],
+  "geometry": {"coordinates":[48.86711,37.48192],"type":"Point"}
+}

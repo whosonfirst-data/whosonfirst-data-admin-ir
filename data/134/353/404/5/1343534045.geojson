@@ -1,0 +1,79 @@
+{
+  "id": 1343534045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.82002,31.69127,49.82002,31.69127",
+    "geom:latitude":31.69127,
+    "geom:longitude":49.82002,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Par Surakh",
+    "gn:country_code":"IR",
+    "gn:dem":865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":121385,
+    "gn:latitude":31.69127,
+    "gn:longitude":49.82002,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Par S\u016br\u0101kh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Parreh S\u012bl\u0101"
+    ],
+    "name:fas_x_variant":[
+        "Parreh S\u016br\u0101kh",
+        "\u067e\u0631\u0647 \u0633\u0648\u0631\u0627\u062e",
+        "\u067e\u0631 \u0633\u0648\u0631\u0627\u062e"
+    ],
+    "name:und_x_variant":[
+        "\u067e\u0631\u0647 \u0633\u0648\u0631\u0627\u062e",
+        "Par S\u016br\u0101kh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":121385
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f74f877bda689ae81129bef26664e190",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719853,
+            "locality_id":1343534045,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1343534045,
+    "wof:lastmodified":1537643948,
+    "wof:name":"Par Surakh",
+    "wof:parent_id":1108719853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.82002,
+    31.69127000000001,
+    49.82002,
+    31.69127000000001
+],
+  "geometry": {"coordinates":[49.82002,31.69127000000001],"type":"Point"}
+}

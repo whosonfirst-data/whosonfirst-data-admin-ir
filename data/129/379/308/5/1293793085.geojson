@@ -1,0 +1,74 @@
+{
+  "id": 1293793085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.9943,37.384,44.9943,37.384",
+    "geom:latitude":37.384,
+    "geom:longitude":44.9943,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Gazanehkesh",
+    "gn:country_code":"IR",
+    "gn:dem":1471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":20855,
+    "gn:latitude":37.384,
+    "gn:longitude":44.9943,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Gazanehkesh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0632\u0646\u0647 \u06a9\u0634"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u064e\u0632\u064e\u0646\u0650\u0647\u0643\u0650\u0634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":20855,
+        "wk:page":"Gazanehkesh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"eaaa205ef0c43ef9dd0009f7e0d8dd56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720289,
+            "locality_id":1293793085,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1293793085,
+    "wof:lastmodified":1537641037,
+    "wof:name":"Gazanehkesh",
+    "wof:parent_id":1108720289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.9943,
+    37.384,
+    44.9943,
+    37.384
+],
+  "geometry": {"coordinates":[44.9943,37.384],"type":"Point"}
+}

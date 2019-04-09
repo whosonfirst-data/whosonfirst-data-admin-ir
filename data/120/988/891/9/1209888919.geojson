@@ -1,0 +1,82 @@
+{
+  "id": 1209888919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.60246,31.9564,49.60246,31.9564",
+    "geom:latitude":31.9564,
+    "geom:longitude":49.60246,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Belkars",
+    "gn:country_code":"IR",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":140343,
+    "gn:latitude":31.9564,
+    "gn:longitude":49.60246,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Belkars",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u06af\u0631\u0633"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0644\u06a9\u0631\u0633",
+        "\u0628\u0644\u06af\u0631\u0648\u0633"
+    ],
+    "name:und_x_variant":[
+        "Bolgores",
+        "Bolgoros",
+        "Belgares",
+        "\u0628\u0644\u06af\u0631\u0633",
+        "Belkars",
+        "Bolgor\u016bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140343
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"63742d50a619a4a6b834152b869da2aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720067,
+            "locality_id":1209888919,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1209888919,
+    "wof:lastmodified":1537645868,
+    "wof:name":"Belkars",
+    "wof:parent_id":1108720067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.60246,
+    31.9564,
+    49.60246,
+    31.9564
+],
+  "geometry": {"coordinates":[49.60246,31.9564],"type":"Point"}
+}

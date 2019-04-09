@@ -1,0 +1,73 @@
+{
+  "id": 1277124029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.9883,32.64033,50.9883,32.64033",
+    "geom:latitude":32.64033,
+    "geom:longitude":50.9883,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Feyzabad",
+    "gn:country_code":"IR",
+    "gn:dem":2140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8304697,
+    "gn:latitude":32.64033,
+    "gn:longitude":50.9883,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Fey\u1e95\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0641\u06cc\u0636 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Fey\u1e95\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8304697
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fba5d4b6787388f41a3d52ba852c7ff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720493,
+            "locality_id":1277124029,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1277124029,
+    "wof:lastmodified":1537648540,
+    "wof:name":"Feyzabad",
+    "wof:parent_id":1108720493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.9883,
+    32.64033,
+    50.9883,
+    32.64033
+],
+  "geometry": {"coordinates":[50.9883,32.64033],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259727827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.86667,36.55,52.86667,36.55",
+    "geom:latitude":36.55,
+    "geom:longitude":52.86667,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Laleh Koti",
+    "gn:country_code":"IR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11493,
+    "gn:latitude":36.55,
+    "gn:longitude":52.86667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"L\u0101leh Kot\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0644\u0650\u0647 \u0643\u064f\u062a\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "L\u0101leh Kot\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11493
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c98c26aa65a3a4d9dab361a2bae48156",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720309,
+            "locality_id":1259727827,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1259727827,
+    "wof:lastmodified":1537640639,
+    "wof:name":"Laleh Koti",
+    "wof:parent_id":1108720309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.86666999999999,
+    36.55,
+    52.86666999999999,
+    36.55
+],
+  "geometry": {"coordinates":[52.86666999999999,36.55],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343312893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.36667,33.25,52.36667,33.25",
+    "geom:latitude":33.25,
+    "geom:longitude":52.36667,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Bideshk-e Ardestan",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":140616,
+    "gn:latitude":33.25,
+    "gn:longitude":52.36667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"B\u012bdeshk-e Ardest\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "B\u012bdeshk-e Ardest\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Bidishk",
+        "B\u012bdeshk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108719825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140616
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e2befda401bda0e8760403b8b872a600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719825,
+            "locality_id":1343312893,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1343312893,
+    "wof:lastmodified":1537645894,
+    "wof:name":"Bideshk-e Ardestan",
+    "wof:parent_id":1108719825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.36667,
+    33.25,
+    52.36667,
+    33.25
+],
+  "geometry": {"coordinates":[52.36667,33.25],"type":"Point"}
+}

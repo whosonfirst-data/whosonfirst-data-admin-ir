@@ -1,0 +1,73 @@
+{
+  "id": 1293488959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.44297,32.34454,50.44297,32.34454",
+    "geom:latitude":32.34454,
+    "geom:longitude":50.44297,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Nasirabad",
+    "gn:country_code":"IR",
+    "gn:dem":2282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8305354,
+    "gn:latitude":32.34454,
+    "gn:longitude":50.44297,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Na\u015f\u012br\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0635\u06cc\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Na\u015f\u012br\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672319,
+        1108719997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8305354
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"14b34c685e7385d8a8c5f999a8f90aed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719997,
+            "locality_id":1293488959,
+            "region_id":85672319
+        }
+    ],
+    "wof:id":1293488959,
+    "wof:lastmodified":1537648542,
+    "wof:name":"Nasirabad",
+    "wof:parent_id":1108719997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.44297,
+    32.34454,
+    50.44297,
+    32.34454
+],
+  "geometry": {"coordinates":[50.44297,32.34454],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293047589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.29772,28.40047,56.29772,28.40047",
+    "geom:latitude":28.40047,
+    "geom:longitude":56.29772,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Sang-e Sefid",
+    "gn:country_code":"IR",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9072993,
+    "gn:latitude":28.40047,
+    "gn:longitude":56.29772,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Sang-e Sef\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u06af \u0633\u0641\u06cc\u062f"
+    ],
+    "name:und_x_variant":[
+        "Sang-e Sef\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9072993
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5459ceb2fbac0e9de95c63dde27ce996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719851,
+            "locality_id":1293047589,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1293047589,
+    "wof:lastmodified":1537648620,
+    "wof:name":"Sang-e Sefid",
+    "wof:parent_id":1108719851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.29772,
+    28.40047,
+    56.29772,
+    28.40047
+],
+  "geometry": {"coordinates":[56.29772,28.40047],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310411649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.7579,30.8375,61.7579,30.8375",
+    "geom:latitude":30.8375,
+    "geom:longitude":61.7579,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shotorak-e Sofla",
+    "gn:country_code":"IR",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6677769,
+    "gn:latitude":30.8375,
+    "gn:longitude":61.7579,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Shotorak-e Sofl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u062a\u0631\u06a9 \u0633\u0641\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Shotorak-e Sofl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6677769
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1c7392f9bd95543a865325cc07f79240",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720515,
+            "locality_id":1310411649,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1310411649,
+    "wof:lastmodified":1537647347,
+    "wof:name":"Shotorak-e Sofla",
+    "wof:parent_id":1108720515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.7579,
+    30.8375,
+    61.7579,
+    30.8375
+],
+  "geometry": {"coordinates":[61.7579,30.8375],"type":"Point"}
+}

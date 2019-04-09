@@ -1,0 +1,75 @@
+{
+  "id": 1243021695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.58792,36.58759,52.58792,36.58759",
+    "geom:latitude":36.58759,
+    "geom:longitude":52.58792,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Pa'in Qadi Kola",
+    "gn:country_code":"IR",
+    "gn:dem":-10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11346,
+    "gn:latitude":36.58759,
+    "gn:longitude":52.58792,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"P\u0101\u2019\u012bn Q\u0101d\u012b Kol\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0627\u062f\u06cc \u0643\u064f\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "Q\u0101d\u012b Kol\u0101",
+        "P\u0101\u2019\u012bn Q\u0101d\u012b Kol\u0101",
+        "\u067e\u0627\u06cc\u064a\u0646 \u0642\u0627\u062f\u06cc \u0643\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11346
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d4323e342d7e39b2b1689e85e8c80dfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719845,
+            "locality_id":1243021695,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1243021695,
+    "wof:lastmodified":1537640626,
+    "wof:name":"Pa'in Qadi Kola",
+    "wof:parent_id":1108719845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.58792,
+    36.58759000000001,
+    52.58792,
+    36.58759000000001
+],
+  "geometry": {"coordinates":[52.58792,36.58759000000001],"type":"Point"}
+}

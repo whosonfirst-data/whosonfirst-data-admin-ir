@@ -1,0 +1,76 @@
+{
+  "id": 1343938325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.06049,27.16888,57.06049,27.16888",
+    "geom:latitude":27.16888,
+    "geom:longitude":57.06049,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Pol Basreh",
+    "gn:country_code":"IR",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381605,
+    "gn:latitude":27.16888,
+    "gn:longitude":57.06049,
+    "gn:modification_date":"2014-01-14",
+    "gn:name":"Pol Ba\u015freh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0644 \u0628\u0635\u0631\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Pol Ba\u015freh"
+    ],
+    "name:und_x_variant":[
+        "Pol-e Ba\u015freh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381605
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ff6339d9b87fd3a460e8c74c3e76e8f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720243,
+            "locality_id":1343938325,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1343938325,
+    "wof:lastmodified":1537646371,
+    "wof:name":"Pol Basreh",
+    "wof:parent_id":1108720243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.06049,
+    27.16888,
+    57.06049,
+    27.16888
+],
+  "geometry": {"coordinates":[57.06049,27.16888],"type":"Point"}
+}

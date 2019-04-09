@@ -1,0 +1,80 @@
+{
+  "id": 1209509353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.50215,29.79972,52.50215,29.79972",
+    "geom:latitude":29.79972,
+    "geom:longitude":52.50215,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sadra, shiraz, iran",
+    "gn:country_code":"IR",
+    "gn:dem":1839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6653052,
+    "gn:latitude":29.79972,
+    "gn:longitude":52.50215,
+    "gn:modification_date":"2018-06-02",
+    "gn:name":"Sadra, shiraz, iran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sadra, Shiraz"
+    ],
+    "name:eng_x_variant":[
+        "Sadra Fars Iran"
+    ],
+    "name:fas_x_preferred":[
+        "\u0635\u062f\u0631\u0627 \u0634\u06cc\u0631\u0627\u0632"
+    ],
+    "name:fas_x_variant":[
+        "Sadra",
+        "Shahre sadra",
+        "\u0634\u0647\u0631 \u0635\u062f\u0631\u0627",
+        "Shahre Jadide Sadra",
+        "\u0634\u0647\u0631 \u062c\u062f\u06cc\u062f \u0635\u062f\u0631\u0627",
+        "Sadra shiraz",
+        "Sadra Fars Iran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6653052,
+        "wk:page":"Sadra,_Fars"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f30236f82f0317d1e46bcf28033ba221",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209509353
+        }
+    ],
+    "wof:id":1209509353,
+    "wof:lastmodified":1537647232,
+    "wof:name":"Sadra, shiraz, iran",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.50215,
+    29.79972,
+    52.50215,
+    29.79972
+],
+  "geometry": {"coordinates":[52.50215,29.79972],"type":"Point"}
+}

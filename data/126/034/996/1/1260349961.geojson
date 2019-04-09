@@ -1,0 +1,72 @@
+{
+  "id": 1260349961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.46167,27.85,57.46167,27.85",
+    "geom:latitude":27.85,
+    "geom:longitude":57.46167,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Gel",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":133652,
+    "gn:latitude":27.85,
+    "gn:longitude":57.46167,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Gel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sar Gel",
+        "Gel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":133652
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8ea382aaf4127f3f6f671189ee49eb39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720091,
+            "locality_id":1260349961,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1260349961,
+    "wof:lastmodified":1537645193,
+    "wof:name":"Gel",
+    "wof:parent_id":1108720091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.46167,
+    27.85,
+    57.46167,
+    27.85
+],
+  "geometry": {"coordinates":[57.46167,27.85],"type":"Point"}
+}

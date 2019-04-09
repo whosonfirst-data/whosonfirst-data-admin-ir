@@ -1,0 +1,80 @@
+{
+  "id": 1260239623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.7103,33.86117,48.7103,33.86117",
+    "geom:latitude":33.86117,
+    "geom:longitude":48.7103,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Zereshkeh",
+    "gn:country_code":"IR",
+    "gn:dem":1582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":111145,
+    "gn:latitude":33.86117,
+    "gn:longitude":48.7103,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Zereshkeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u0631\u0634\u06af\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0632\u0631\u0634\u06a9\u0647"
+    ],
+    "name:und_x_variant":[
+        "Zereshg\u0101h",
+        "Zarishkah",
+        "Zereshgeh",
+        "Zereshkeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":111145,
+        "wk:page":"Zereshgeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"307c1ea2f98f7338050fb9b6fe86d690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719905,
+            "locality_id":1260239623,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1260239623,
+    "wof:lastmodified":1537642949,
+    "wof:name":"Zereshkeh",
+    "wof:parent_id":1108719905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.7103,
+    33.86117,
+    48.7103,
+    33.86117
+],
+  "geometry": {"coordinates":[48.7103,33.86117],"type":"Point"}
+}

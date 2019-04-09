@@ -1,0 +1,76 @@
+{
+  "id": 1360029799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.2879,36.26473,53.2879,36.26473",
+    "geom:latitude":36.26473,
+    "geom:longitude":53.2879,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Aboksar",
+    "gn:country_code":"IR",
+    "gn:dem":923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":144958,
+    "gn:latitude":36.26473,
+    "gn:longitude":53.2879,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u0100boksar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0100boksar"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u0628\u0643\u0633\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u0622\u0628\u0643\u0633\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":144958
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"abd62faf4e6eb2ca69695a0b07c6751d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720401,
+            "locality_id":1360029799,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1360029799,
+    "wof:lastmodified":1537646319,
+    "wof:name":"Aboksar",
+    "wof:parent_id":1108720401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.2879,
+    36.26473,
+    53.2879,
+    36.26473
+],
+  "geometry": {"coordinates":[53.2879,36.26473],"type":"Point"}
+}

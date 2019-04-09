@@ -1,0 +1,77 @@
+{
+  "id": 1226000805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.3982,33.4056,48.3982,33.4056",
+    "geom:latitude":33.4056,
+    "geom:longitude":48.3982,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Naservand",
+    "gn:country_code":"IR",
+    "gn:dem":1229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":122568,
+    "gn:latitude":33.4056,
+    "gn:longitude":48.3982,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"N\u0101\u015fervand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "N\u0101\u015fervand"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0627\u0635\u0631\u0648\u0646\u062f"
+    ],
+    "name:und_x_variant":[
+        "Nausarw\u0101n",
+        "\u0646\u0627\u0635\u0631\u0648\u0646\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":122568
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"50b899ede366e6fdebb4a5db0ce15c3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720145,
+            "locality_id":1226000805,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1226000805,
+    "wof:lastmodified":1537644072,
+    "wof:name":"Naservand",
+    "wof:parent_id":1108720145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.3982,
+    33.4056,
+    48.3982,
+    33.4056
+],
+  "geometry": {"coordinates":[48.3982,33.4056],"type":"Point"}
+}

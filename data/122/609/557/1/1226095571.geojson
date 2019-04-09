@@ -1,0 +1,73 @@
+{
+  "id": 1226095571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.51731,36.51375,51.51731,36.51375",
+    "geom:latitude":36.51375,
+    "geom:longitude":51.51731,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Khaneh",
+    "gn:country_code":"IR",
+    "gn:dem":1079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7637123,
+    "gn:latitude":36.51375,
+    "gn:longitude":51.51731,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kh\u0101neh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Kh\u0101neh"
+    ],
+    "name:fas_x_variant":[
+        "\u062e\u0627\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7637123
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"11386c148b9eebf351ea09ec3308337c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720281,
+            "locality_id":1226095571,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1226095571,
+    "wof:lastmodified":1537648479,
+    "wof:name":"Khaneh",
+    "wof:parent_id":1108720281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.51731,
+    36.51375,
+    51.51731,
+    36.51375
+],
+  "geometry": {"coordinates":[51.51731,36.51375],"type":"Point"}
+}

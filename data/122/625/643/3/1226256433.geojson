@@ -1,0 +1,74 @@
+{
+  "id": 1226256433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.4936,36.6345,45.4936,36.6345",
+    "geom:latitude":36.6345,
+    "geom:longitude":45.4936,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sarhulan",
+    "gn:country_code":"IR",
+    "gn:dem":1684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6677166,
+    "gn:latitude":36.6345,
+    "gn:longitude":45.4936,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sarh\u016bl\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0647\u0648\u0644\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Sarh\u016bl\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6677166,
+        "wk:page":"Sarhulan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f9b519c6c54ea3eca8154b42f3e4c0db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720193,
+            "locality_id":1226256433,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1226256433,
+    "wof:lastmodified":1537647337,
+    "wof:name":"Sarhulan",
+    "wof:parent_id":1108720193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.4936,
+    36.6345,
+    45.4936,
+    36.6345
+],
+  "geometry": {"coordinates":[45.4936,36.6345],"type":"Point"}
+}

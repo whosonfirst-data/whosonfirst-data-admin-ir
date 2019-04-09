@@ -1,0 +1,76 @@
+{
+  "id": 1343291627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.5123,36.2177,59.5123,36.2177",
+    "geom:latitude":36.2177,
+    "geom:longitude":59.5123,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Shelgerd",
+    "gn:country_code":"IR",
+    "gn:dem":1306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":115594,
+    "gn:latitude":36.2177,
+    "gn:longitude":59.5123,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Shelgerd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0644\u06af\u0631\u062f"
+    ],
+    "name:und_x_variant":[
+        "Shalgerd",
+        "Shalgird",
+        "Shelgerd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":115594,
+        "wk:page":"Shelgerd"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"34f647e34ba870b54d3bdbfa4770a9ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720227,
+            "locality_id":1343291627,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1343291627,
+    "wof:lastmodified":1537643375,
+    "wof:name":"Shelgerd",
+    "wof:parent_id":1108720227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.5123,
+    36.2177,
+    59.5123,
+    36.2177
+],
+  "geometry": {"coordinates":[59.5123,36.2177],"type":"Point"}
+}

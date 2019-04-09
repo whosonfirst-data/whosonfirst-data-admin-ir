@@ -1,0 +1,73 @@
+{
+  "id": 1310276111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.1585,34.5702,46.1585,34.5702",
+    "geom:latitude":34.5702,
+    "geom:longitude":46.1585,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Qalkhani",
+    "gn:country_code":"IR",
+    "gn:dem":1954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":25402,
+    "gn:latitude":34.5702,
+    "gn:longitude":46.1585,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qalkh\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u062e\u0627\u0646\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Qalkh\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108719933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":25402
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"75292456db44fe86d9ce0656295d08c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719933,
+            "locality_id":1310276111,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1310276111,
+    "wof:lastmodified":1537641333,
+    "wof:name":"Qalkhani",
+    "wof:parent_id":1108719933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.1585,
+    34.5702,
+    46.1585,
+    34.5702
+],
+  "geometry": {"coordinates":[46.1585,34.5702],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360246099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.29398,31.52605,56.29398,31.52605",
+    "geom:latitude":31.52605,
+    "geom:longitude":56.29398,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Gandab",
+    "gn:country_code":"IR",
+    "gn:dem":2149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":38905,
+    "gn:latitude":31.52605,
+    "gn:longitude":56.29398,
+    "gn:modification_date":"2014-09-30",
+    "gn:name":"Gand\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Gand\u0101b"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u0646\u062f\u0627\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":38905
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"90c11220eb5690834588a3c4346b6654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720155,
+            "locality_id":1360246099,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1360246099,
+    "wof:lastmodified":1537642188,
+    "wof:name":"Gandab",
+    "wof:parent_id":1108720155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.29398000000001,
+    31.52605,
+    56.29398000000001,
+    31.52605
+],
+  "geometry": {"coordinates":[56.29398000000001,31.52605],"type":"Point"}
+}

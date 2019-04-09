@@ -1,0 +1,73 @@
+{
+  "id": 1242934493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.8698,33.2691,52.8698,33.2691",
+    "geom:latitude":33.2691,
+    "geom:longitude":52.8698,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Seh Biyeh Bichi",
+    "gn:country_code":"IR",
+    "gn:dem":1422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6915065,
+    "gn:latitude":33.2691,
+    "gn:longitude":52.8698,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Seh B\u012byeh B\u012bch\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0633\u0647 \u0628\u06cc\u0647 \u0628\u06cc\u0686\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Seh B\u012byeh B\u012bch\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108719825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6915065
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ecb290e80eb79c135df4e038883015e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719825,
+            "locality_id":1242934493,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1242934493,
+    "wof:lastmodified":1537647710,
+    "wof:name":"Seh Biyeh Bichi",
+    "wof:parent_id":1108719825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.8698,
+    33.2691,
+    52.8698,
+    33.2691
+],
+  "geometry": {"coordinates":[52.8698,33.2691],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209884883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.67384,29.1243,51.67384,29.1243",
+    "geom:latitude":29.1243,
+    "geom:longitude":51.67384,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kaftaru",
+    "gn:country_code":"IR",
+    "gn:dem":958,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8355583,
+    "gn:latitude":29.1243,
+    "gn:longitude":51.67384,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Kaft\u0101r\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0641\u062a\u0627\u0631\u0648"
+    ],
+    "name:und_x_variant":[
+        "Kaft\u0101r\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108719951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8355583,
+        "wk:page":"Kaftaru"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7dc665f16386166b5857c0005830cced",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719951,
+            "locality_id":1209884883,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1209884883,
+    "wof:lastmodified":1537648547,
+    "wof:name":"Kaftaru",
+    "wof:parent_id":1108719951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.67384000000001,
+    29.1243,
+    51.67384000000001,
+    29.1243
+],
+  "geometry": {"coordinates":[51.67384000000001,29.1243],"type":"Point"}
+}

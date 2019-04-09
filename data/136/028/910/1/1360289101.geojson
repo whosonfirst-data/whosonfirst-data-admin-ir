@@ -1,0 +1,74 @@
+{
+  "id": 1360289101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.2187,39.4127,44.2187,39.4127",
+    "geom:latitude":39.4127,
+    "geom:longitude":44.2187,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Javzar",
+    "gn:country_code":"IR",
+    "gn:dem":2339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":14112,
+    "gn:latitude":39.4127,
+    "gn:longitude":44.2187,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Javzar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u0648\u0632\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u062c\u064e\u0648\u0632\u064e\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108719923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":14112,
+        "wk:page":"Javzar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c63c50f71fc1a39c765083240bc6c950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719923,
+            "locality_id":1360289101,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1360289101,
+    "wof:lastmodified":1537640781,
+    "wof:name":"Javzar",
+    "wof:parent_id":1108719923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.2187,
+    39.4127,
+    44.2187,
+    39.4127
+],
+  "geometry": {"coordinates":[44.2187,39.4127],"type":"Point"}
+}

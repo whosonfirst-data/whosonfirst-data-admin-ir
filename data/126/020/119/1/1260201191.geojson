@@ -1,0 +1,75 @@
+{
+  "id": 1260201191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.15,37.8,48.15,37.8",
+    "geom:latitude":37.8,
+    "geom:longitude":48.15,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Ankejabad",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":2212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":69213,
+    "gn:latitude":37.8,
+    "gn:longitude":48.15,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"\u0100nkej\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0100nkej\u0101b\u0101d"
+    ],
+    "name:und_x_variant":[
+        "Enk\u012bj\u0101b\u0101d",
+        "Engij\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":69213
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e503eb35d841157b7d93cd47336d690d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720167,
+            "locality_id":1260201191,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1260201191,
+    "wof:lastmodified":1537642905,
+    "wof:name":"Ankejabad",
+    "wof:parent_id":1108720167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.15,
+    37.8,
+    48.15,
+    37.8
+],
+  "geometry": {"coordinates":[48.15,37.8],"type":"Point"}
+}

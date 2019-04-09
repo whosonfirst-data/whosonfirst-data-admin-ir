@@ -1,0 +1,76 @@
+{
+  "id": 1209261241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.3399,29.9289,57.3399,29.9289",
+    "geom:latitude":29.9289,
+    "geom:longitude":57.3399,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Rowghanu",
+    "gn:country_code":"IR",
+    "gn:dem":2357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":118287,
+    "gn:latitude":29.9289,
+    "gn:longitude":57.3399,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Rowghan\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u063a\u0646\u0648 \u0628\u0627\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "R\u016bghan\u016b\u2019\u012byeh",
+        "R\u016bghan\u016b\u2019\u012byeh-ye B\u0101l\u0101",
+        "Rowghan\u016b-ye B\u0101l\u0101",
+        "\u0631\u0648\u063a\u0646\u0648",
+        "\u0631\u0648\u063a\u0646\u0648\u0626\u064a\u0647"
+    ],
+    "name:und_x_variant":[
+        "Rowghan\u016b\u2019\u012byeh",
+        "Rowghan\u016b B\u0101l\u0101",
+        "Rowghan\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":118287
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"589ce68b0d70781efd9966fdd73d1151",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209261241
+        }
+    ],
+    "wof:id":1209261241,
+    "wof:lastmodified":1537643623,
+    "wof:name":"Rowghanu",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.3399,
+    29.9289,
+    57.3399,
+    29.9289
+],
+  "geometry": {"coordinates":[57.3399,29.9289],"type":"Point"}
+}

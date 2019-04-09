@@ -1,0 +1,68 @@
+{
+  "id": 1209167723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.97568,36.63165,53.97568,36.63165",
+    "geom:latitude":36.63165,
+    "geom:longitude":53.97568,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Kolkat",
+    "gn:country_code":"IR",
+    "gn:dem":1371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11025,
+    "gn:latitude":36.63165,
+    "gn:longitude":53.97568,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kolkat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0644\u0643\u062a"
+    ],
+    "name:und_x_variant":[
+        "\u0643\u0644\u0643\u062a",
+        "Kolkat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11025
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dd37b11ef7a880ce91df9c3f281c3210",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209167723
+        }
+    ],
+    "wof:id":1209167723,
+    "wof:lastmodified":1537640602,
+    "wof:name":"Kolkat",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.97568,
+    36.63165,
+    53.97568,
+    36.63165
+],
+  "geometry": {"coordinates":[53.97568,36.63165],"type":"Point"}
+}

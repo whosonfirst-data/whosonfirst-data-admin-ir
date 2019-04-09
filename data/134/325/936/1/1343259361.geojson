@@ -1,0 +1,73 @@
+{
+  "id": 1343259361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.92692,36.97208,49.92692,36.97208",
+    "geom:latitude":36.97208,
+    "geom:longitude":49.92692,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Bineh Kenar",
+    "gn:country_code":"IR",
+    "gn:dem":1230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":10528,
+    "gn:latitude":36.97208,
+    "gn:longitude":49.92692,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"B\u012bneh Ken\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0646\u0647 \u06a9\u0646\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "B\u012bneh Ken\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10528
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4c2e6956073ef2527c7c7b3ec93905b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720459,
+            "locality_id":1343259361,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1343259361,
+    "wof:lastmodified":1537640578,
+    "wof:name":"Bineh Kenar",
+    "wof:parent_id":1108720459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.92692,
+    36.97208,
+    49.92692,
+    36.97208
+],
+  "geometry": {"coordinates":[49.92692,36.97208],"type":"Point"}
+}

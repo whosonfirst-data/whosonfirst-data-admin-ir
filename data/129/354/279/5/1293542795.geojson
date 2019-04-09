@@ -1,0 +1,76 @@
+{
+  "id": 1293542795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.24814,36.31409,51.24814,36.31409",
+    "geom:latitude":36.31409,
+    "geom:longitude":51.24814,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Dozbon",
+    "gn:country_code":"IR",
+    "gn:dem":896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11441520,
+    "gn:latitude":36.31409,
+    "gn:longitude":51.24814,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Dozbon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0632\u0628\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0632\u062f\u0628\u0646"
+    ],
+    "name:und_x_variant":[
+        "Dozdbon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11441520
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"040a08d22432cc3941b15edf4a6346f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719925,
+            "locality_id":1293542795,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1293542795,
+    "wof:lastmodified":1537648779,
+    "wof:name":"Dozbon",
+    "wof:parent_id":1108719925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.24814,
+    36.31409,
+    51.24814,
+    36.31409
+],
+  "geometry": {"coordinates":[51.24814,36.31409],"type":"Point"}
+}

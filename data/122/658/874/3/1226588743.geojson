@@ -1,0 +1,78 @@
+{
+  "id": 1226588743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.64739,35.13844,49.64739,35.13844",
+    "geom:latitude":35.13844,
+    "geom:longitude":49.64739,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Fataq",
+    "gn:country_code":"IR",
+    "gn:dem":1687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":41761,
+    "gn:latitude":35.13844,
+    "gn:longitude":49.64739,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Fataq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0641\u0633\u062a\u0642"
+    ],
+    "name:fas_x_variant":[
+        "\u0641\u062a\u0642"
+    ],
+    "name:und_x_variant":[
+        "Fastaq",
+        "Fataq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":41761,
+        "wk:page":"Fastaq"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4152d0108e6ee98c5904062ba0fb265e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720407,
+            "locality_id":1226588743,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1226588743,
+    "wof:lastmodified":1537642355,
+    "wof:name":"Fataq",
+    "wof:parent_id":1108720407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.64739,
+    35.13844,
+    49.64739,
+    35.13844
+],
+  "geometry": {"coordinates":[49.64739,35.13844],"type":"Point"}
+}

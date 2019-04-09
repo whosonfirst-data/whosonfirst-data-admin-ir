@@ -1,0 +1,72 @@
+{
+  "id": 1209053821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.3051,33.25335,50.3051,33.25335",
+    "geom:latitude":33.25335,
+    "geom:longitude":50.3051,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Robat",
+    "gn:country_code":"IR",
+    "gn:dem":2150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7573882,
+    "gn:latitude":33.25335,
+    "gn:longitude":50.3051,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Rob\u0101\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Rob\u0101\u0163"
+    ],
+    "name:fas_x_variant":[
+        "\u0631\u0628\u0627\u0637",
+        "\u0645\u062d\u0644\u0647 \u0631\u0628\u0627\u0637"
+    ],
+    "name:und_x_variant":[
+        "\u0631\u0628\u0627\u0637",
+        "Ma\u1e29alleh-ye Rob\u0101\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7573882
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bb77950c128fe0c3cb2a61bada68e51b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209053821
+        }
+    ],
+    "wof:id":1209053821,
+    "wof:lastmodified":1537648369,
+    "wof:name":"Robat",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.3051,
+    33.25335,
+    50.3051,
+    33.25335
+],
+  "geometry": {"coordinates":[50.3051,33.25335],"type":"Point"}
+}

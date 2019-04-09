@@ -1,0 +1,76 @@
+{
+  "id": 1360208267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.32812,28.53845,61.32812,28.53845",
+    "geom:latitude":28.53845,
+    "geom:longitude":61.32812,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Nak Sadmani",
+    "gn:country_code":"IR",
+    "gn:dem":1518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1113957,
+    "gn:latitude":28.53845,
+    "gn:longitude":61.32812,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"N\u0101k \u015eadman\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u015eadman\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0627\u06a9 \u0635\u062f\u0645\u0646\u06cc"
+    ],
+    "name:und_x_variant":[
+        "N\u0101k \u015eadman\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1113957
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9d716275f5bfac2e6034cfd173ba5880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720131,
+            "locality_id":1360208267,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1360208267,
+    "wof:lastmodified":1537646882,
+    "wof:name":"Nak Sadmani",
+    "wof:parent_id":1108720131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.32812,
+    28.53845,
+    61.32812,
+    28.53845
+],
+  "geometry": {"coordinates":[61.32812,28.53845],"type":"Point"}
+}

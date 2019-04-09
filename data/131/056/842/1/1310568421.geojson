@@ -1,0 +1,73 @@
+{
+  "id": 1310568421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.5473,35.2819,51.5473,35.2819",
+    "geom:latitude":35.2819,
+    "geom:longitude":51.5473,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Neshatiyeh",
+    "gn:country_code":"IR",
+    "gn:dem":866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":32982,
+    "gn:latitude":35.2819,
+    "gn:longitude":51.5473,
+    "gn:modification_date":"2012-12-04",
+    "gn:name":"Nesh\u0101\u0163\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0634\u0627\u0637\u064a\u0651\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Nesh\u0101\u0163\u012byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672313,
+        1108720507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":32982
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1692104e63dce6db56a33879f31aab9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720507,
+            "locality_id":1310568421,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1310568421,
+    "wof:lastmodified":1537641834,
+    "wof:name":"Neshatiyeh",
+    "wof:parent_id":1108720507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.5473,
+    35.2819,
+    51.5473,
+    35.2819
+],
+  "geometry": {"coordinates":[51.5473,35.2819],"type":"Point"}
+}

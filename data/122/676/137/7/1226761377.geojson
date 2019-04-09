@@ -1,0 +1,74 @@
+{
+  "id": 1226761377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.4039,36.8776,46.4039,36.8776",
+    "geom:latitude":36.8776,
+    "geom:longitude":46.4039,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chaplujeh",
+    "gn:country_code":"IR",
+    "gn:dem":1361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3358,
+    "gn:latitude":36.8776,
+    "gn:longitude":46.4039,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Chapl\u016bjeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u067e\u0644\u0648\u062c\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Chapl\u016bjeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3358,
+        "wk:page":"Chaplujeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1541b7796c1d62c0e946d44d79d15853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720429,
+            "locality_id":1226761377,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1226761377,
+    "wof:lastmodified":1537640247,
+    "wof:name":"Chaplujeh",
+    "wof:parent_id":1108720429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.4039,
+    36.8776,
+    46.4039,
+    36.8776
+],
+  "geometry": {"coordinates":[46.4039,36.8776],"type":"Point"}
+}

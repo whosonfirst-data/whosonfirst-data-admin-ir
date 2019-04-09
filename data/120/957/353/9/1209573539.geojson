@@ -1,0 +1,64 @@
+{
+  "id": 1209573539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.65191,33.619,48.65191,33.619",
+    "geom:latitude":33.619,
+    "geom:longitude":48.65191,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Tappeh Khow",
+    "gn:country_code":"IR",
+    "gn:dem":1728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10349831,
+    "gn:latitude":33.619,
+    "gn:longitude":48.65191,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Tappeh Khow",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u067e\u0647 \u062e\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10349831
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"35fb2ee7112bfe18bfd4e0c0c7621c37",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209573539
+        }
+    ],
+    "wof:id":1209573539,
+    "wof:lastmodified":1537648679,
+    "wof:name":"Tappeh Khow",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.65191,
+    33.619,
+    48.65191,
+    33.619
+],
+  "geometry": {"coordinates":[48.65191,33.619],"type":"Point"}
+}

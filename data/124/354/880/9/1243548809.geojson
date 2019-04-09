@@ -1,0 +1,80 @@
+{
+  "id": 1243548809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.75485,35.37089,48.75485,35.37089",
+    "geom:latitude":35.37089,
+    "geom:longitude":48.75485,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Mazra`eh-ye Deymur",
+    "gn:country_code":"IR",
+    "gn:dem":1753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":124459,
+    "gn:latitude":35.37089,
+    "gn:longitude":48.75485,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Mazra\u2018eh-ye Deym\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0647 \u062f\u06cc\u0645\u0648\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u064a\u0645\u0648\u0631",
+        "Mazra\u2018eh-ye Deym\u016br",
+        "Deym\u016br"
+    ],
+    "name:und_x_variant":[
+        "Mazr\u2018a",
+        "Mazra\u2018eh-ye Deymowr",
+        "Mazra\u2018eh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":124459
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"06619a09e0d054291d6dfc12cbdd20c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720349,
+            "locality_id":1243548809,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1243548809,
+    "wof:lastmodified":1537644254,
+    "wof:name":"Mazra`eh-ye Deymur",
+    "wof:parent_id":1108720349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.75485,
+    35.37089,
+    48.75485,
+    35.37089
+],
+  "geometry": {"coordinates":[48.75485,35.37089],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1326658739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.99869,35.95815,60.99869,35.95815",
+    "geom:latitude":35.95815,
+    "geom:longitude":60.99869,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Nari",
+    "gn:country_code":"IR",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7319442,
+    "gn:latitude":35.95815,
+    "gn:longitude":60.99869,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"N\u0101r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "N\u0101r\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0627\u0631\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0646\u0627\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7319442
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a17aa10d65d1abc79e6396faa3b549b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720387,
+            "locality_id":1326658739,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1326658739,
+    "wof:lastmodified":1537648105,
+    "wof:name":"Nari",
+    "wof:parent_id":1108720387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.99869,
+    35.95815,
+    60.99869,
+    35.95815
+],
+  "geometry": {"coordinates":[60.99869,35.95815],"type":"Point"}
+}

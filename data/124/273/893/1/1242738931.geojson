@@ -1,0 +1,77 @@
+{
+  "id": 1242738931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.497,27.3319,57.497,27.3319",
+    "geom:latitude":27.3319,
+    "geom:longitude":57.497,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Deh Shahru",
+    "gn:country_code":"IR",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6654679,
+    "gn:latitude":27.3319,
+    "gn:longitude":57.497,
+    "gn:modification_date":"2014-01-15",
+    "gn:name":"Deh Shahr\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647 \u0634\u0647\u0631\u0648"
+    ],
+    "name:fas_x_variant":[
+        "Deh Shahr\u016b",
+        "\u062f\u0647 \u0634\u0647\u0631\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Deh Shahr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6654679
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6caf929e3ead6a1a935e278d701aa222",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720213,
+            "locality_id":1242738931,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1242738931,
+    "wof:lastmodified":1537647241,
+    "wof:name":"Deh Shahru",
+    "wof:parent_id":1108720213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.497,
+    27.3319,
+    57.497,
+    27.3319
+],
+  "geometry": {"coordinates":[57.497,27.3319],"type":"Point"}
+}

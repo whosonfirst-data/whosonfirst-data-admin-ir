@@ -1,0 +1,76 @@
+{
+  "id": 1243496685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.99522,31.78132,55.99522,31.78132",
+    "geom:latitude":31.78132,
+    "geom:longitude":55.99522,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Gazchin",
+    "gn:country_code":"IR",
+    "gn:dem":1856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7540126,
+    "gn:latitude":31.78132,
+    "gn:longitude":55.99522,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Gazch\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Gazch\u012bn"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u0632\u0686\u06cc\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u06af\u0632\u0686\u06cc\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108719849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7540126
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1b38fcbbab861e9e52e89ec3114c93b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719849,
+            "locality_id":1243496685,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1243496685,
+    "wof:lastmodified":1537648318,
+    "wof:name":"Gazchin",
+    "wof:parent_id":1108719849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.99522,
+    31.78132,
+    55.99522,
+    31.78132
+],
+  "geometry": {"coordinates":[55.99522,31.78132],"type":"Point"}
+}

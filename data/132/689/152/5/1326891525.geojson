@@ -1,0 +1,75 @@
+{
+  "id": 1326891525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.9122,29.096,57.9122,29.096",
+    "geom:latitude":29.096,
+    "geom:longitude":57.9122,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Bol Malek",
+    "gn:country_code":"IR",
+    "gn:dem":1960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":400557,
+    "gn:latitude":29.096,
+    "gn:longitude":57.9122,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bol Malek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0644 \u0645\u0644\u06a9"
+    ],
+    "name:und_x_variant":[
+        "Gol Malek",
+        "Bol Malek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400557,
+        "wk:page":"Gol_Malek,_Kerman"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1044262cd7b0e601f17e9f3983b48bd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719861,
+            "locality_id":1326891525,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1326891525,
+    "wof:lastmodified":1537646498,
+    "wof:name":"Bol Malek",
+    "wof:parent_id":1108719861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.9122,
+    29.096,
+    57.9122,
+    29.096
+],
+  "geometry": {"coordinates":[57.9122,29.096],"type":"Point"}
+}

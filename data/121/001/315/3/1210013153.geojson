@@ -1,0 +1,77 @@
+{
+  "id": 1210013153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.7283,28.91161,53.7283,28.91161",
+    "geom:latitude":28.91161,
+    "geom:longitude":53.7283,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ja`farabad-e Harom",
+    "gn:country_code":"IR",
+    "gn:dem":1317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11358997,
+    "gn:latitude":28.91161,
+    "gn:longitude":53.7283,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ja\u2018far\u0101b\u0101d-e H\u0101rom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u0639\u0641\u0631 \u0622\u0628\u0627\u062f \u0647\u0627\u0631\u0645"
+    ],
+    "name:fas_x_variant":[
+        "\u062c\u0639\u0641\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Ja\u2018far\u0101b\u0101d-e H\u0101rom",
+        "Ja\u2018far\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11358997
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"25f35694c334d0b97f0aa3b715678fbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720003,
+            "locality_id":1210013153,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1210013153,
+    "wof:lastmodified":1537648768,
+    "wof:name":"Ja`farabad-e Harom",
+    "wof:parent_id":1108720003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.7283,
+    28.91161,
+    53.7283,
+    28.91161
+],
+  "geometry": {"coordinates":[53.7283,28.91161],"type":"Point"}
+}

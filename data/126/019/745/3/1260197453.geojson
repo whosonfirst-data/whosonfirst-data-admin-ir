@@ -1,0 +1,74 @@
+{
+  "id": 1260197453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.3283,27.5754,57.3283,27.5754",
+    "geom:latitude":27.5754,
+    "geom:longitude":57.3283,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Samilan",
+    "gn:country_code":"IR",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6988242,
+    "gn:latitude":27.5754,
+    "gn:longitude":57.3283,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sam\u012bl\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0645\u06cc\u0644\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Sam\u012bl\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6988242,
+        "wk:page":"Samilan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"caf27ecd9b8965d68715d23f2d13cef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720357,
+            "locality_id":1260197453,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1260197453,
+    "wof:lastmodified":1537647870,
+    "wof:name":"Samilan",
+    "wof:parent_id":1108720357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.3283,
+    27.5754,
+    57.3283,
+    27.5754
+],
+  "geometry": {"coordinates":[57.3283,27.5754],"type":"Point"}
+}

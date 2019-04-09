@@ -1,0 +1,77 @@
+{
+  "id": 1343252085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.9054,37.20432,49.9054,37.20432",
+    "geom:latitude":37.20432,
+    "geom:longitude":49.9054,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Sereshkeh",
+    "gn:country_code":"IR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":116349,
+    "gn:latitude":37.20432,
+    "gn:longitude":49.9054,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"Sereshkeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0634\u06a9\u0647"
+    ],
+    "name:und_x_variant":[
+        "Sereshke",
+        "Sereshkeh",
+        "Sareshkeh",
+        "\u0633\u0631\u0634\u06a9\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":116349,
+        "wk:page":"Sareshkeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"597017fb207b0a3a481da71f210bd723",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720173,
+            "locality_id":1343252085,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1343252085,
+    "wof:lastmodified":1537643441,
+    "wof:name":"Sereshkeh",
+    "wof:parent_id":1108720173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.9054,
+    37.20432,
+    49.9054,
+    37.20432
+],
+  "geometry": {"coordinates":[49.9054,37.20432],"type":"Point"}
+}

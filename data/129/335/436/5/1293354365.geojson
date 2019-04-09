@@ -1,0 +1,73 @@
+{
+  "id": 1293354365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.91656,36.21746,47.91656,36.21746",
+    "geom:latitude":36.21746,
+    "geom:longitude":47.91656,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Gol Qeshlaq",
+    "gn:country_code":"IR",
+    "gn:dem":1485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":26862,
+    "gn:latitude":36.21746,
+    "gn:longitude":47.91656,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Gol Qeshl\u0101q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0644 \u0642\u0634\u0644\u0627\u0642"
+    ],
+    "name:fas_x_variant":[
+        "Gol Qeshl\u0101q"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108719889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":26862
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"25b5703429b5371ad9547d3459b051c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719889,
+            "locality_id":1293354365,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1293354365,
+    "wof:lastmodified":1537641424,
+    "wof:name":"Gol Qeshlaq",
+    "wof:parent_id":1108719889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.91656,
+    36.21746,
+    47.91656,
+    36.21746
+],
+  "geometry": {"coordinates":[47.91656,36.21746],"type":"Point"}
+}

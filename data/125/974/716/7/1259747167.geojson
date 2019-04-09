@@ -1,0 +1,77 @@
+{
+  "id": 1259747167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.07508,35.30775,47.07508,35.30775",
+    "geom:latitude":35.30775,
+    "geom:longitude":47.07508,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Barazan",
+    "gn:country_code":"IR",
+    "gn:dem":1533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":141402,
+    "gn:latitude":35.30775,
+    "gn:longitude":47.07508,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Bar\u0101z\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0627\u0632\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Bar\u0101z\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Bar\u0101z\u2019\u016b",
+        "Bar\u0101zau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":141402
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0ec63075d2e89d451dee0471f63338a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720379,
+            "locality_id":1259747167,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1259747167,
+    "wof:lastmodified":1537645974,
+    "wof:name":"Barazan",
+    "wof:parent_id":1108720379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.07508,
+    35.30775,
+    47.07508,
+    35.30775
+],
+  "geometry": {"coordinates":[47.07508,35.30775],"type":"Point"}
+}

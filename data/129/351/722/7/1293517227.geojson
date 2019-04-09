@@ -1,0 +1,74 @@
+{
+  "id": 1293517227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.7755,36.16295,58.7755,36.16295",
+    "geom:latitude":36.16295,
+    "geom:longitude":58.7755,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Anjidan",
+    "gn:country_code":"IR",
+    "gn:dem":1154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":30987,
+    "gn:latitude":36.16295,
+    "gn:longitude":58.7755,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Anj\u012bd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u062c\u06cc\u062f\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Anj\u012bd\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":30987,
+        "wk:page":"Anjidan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6c31ef2090027aba11a79d1249652bfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720279,
+            "locality_id":1293517227,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1293517227,
+    "wof:lastmodified":1537641690,
+    "wof:name":"Anjidan",
+    "wof:parent_id":1108720279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.7755,
+    36.16295,
+    58.7755,
+    36.16295
+],
+  "geometry": {"coordinates":[58.7755,36.16295],"type":"Point"}
+}

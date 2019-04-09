@@ -1,0 +1,74 @@
+{
+  "id": 1259693641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.9584,26.7482,57.9584,26.7482",
+    "geom:latitude":26.7482,
+    "geom:longitude":57.9584,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Irmish",
+    "gn:country_code":"IR",
+    "gn:dem":1144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6958620,
+    "gn:latitude":26.7482,
+    "gn:longitude":57.9584,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u012arm\u012bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0631\u0645\u06cc\u0634"
+    ],
+    "name:fas_x_variant":[
+        "\u012arm\u012bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6958620,
+        "wk:page":"Irmish"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e1e9aababfd231dd34a587762649ee4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720077,
+            "locality_id":1259693641,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1259693641,
+    "wof:lastmodified":1537647762,
+    "wof:name":"Irmish",
+    "wof:parent_id":1108720077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.9584,
+    26.7482,
+    57.9584,
+    26.7482
+],
+  "geometry": {"coordinates":[57.9584,26.7482],"type":"Point"}
+}

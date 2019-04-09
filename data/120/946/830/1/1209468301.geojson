@@ -1,0 +1,70 @@
+{
+  "id": 1209468301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.54388,36.43281,52.54388,36.43281",
+    "geom:latitude":36.43281,
+    "geom:longitude":52.54388,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Astaneh Sar",
+    "gn:country_code":"IR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1693,
+    "gn:latitude":36.43281,
+    "gn:longitude":52.54388,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u0100st\u0101neh Sar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0633\u062a\u0627\u0646\u0647 \u0633\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0100st\u0101neh Sar"
+    ],
+    "name:und_x_variant":[
+        "\u0622\u0633\u062a\u0627\u0646\u0650\u0647 \u0633\u064e\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1693
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b0e45e65c11553031af937c2f4371075",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209468301
+        }
+    ],
+    "wof:id":1209468301,
+    "wof:lastmodified":1537640182,
+    "wof:name":"Astaneh Sar",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.54388,
+    36.43281,
+    52.54388,
+    36.43281
+],
+  "geometry": {"coordinates":[52.54388,36.43281],"type":"Point"}
+}

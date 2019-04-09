@@ -1,0 +1,64 @@
+{
+  "id": 1209297155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.45333,31.93833,48.45333,31.93833",
+    "geom:latitude":31.93833,
+    "geom:longitude":48.45333,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"`Eyteh",
+    "gn:country_code":"IR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":42515,
+    "gn:latitude":31.93833,
+    "gn:longitude":48.45333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u2018Eyteh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u2018Eyteh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":42515
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"394962a37fdcf7ec0f5fd59df147ac7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209297155
+        }
+    ],
+    "wof:id":1209297155,
+    "wof:lastmodified":1537642412,
+    "wof:name":"`Eyteh",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.45333,
+    31.93833,
+    48.45333,
+    31.93833
+],
+  "geometry": {"coordinates":[48.45333,31.93833],"type":"Point"}
+}

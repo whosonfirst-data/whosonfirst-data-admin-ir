@@ -1,0 +1,74 @@
+{
+  "id": 1343708383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.8591,28.1072,57.8591,28.1072",
+    "geom:latitude":28.1072,
+    "geom:longitude":57.8591,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Deh Pish",
+    "gn:country_code":"IR",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":46281,
+    "gn:latitude":28.1072,
+    "gn:longitude":57.8591,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Deh P\u012bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647 \u067e\u06cc\u0634"
+    ],
+    "name:fas_x_variant":[
+        "Deh P\u012bsh-e B\u0101l\u0101",
+        "Deh P\u012bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":46281
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c6a1efba941fe8a2b28c2c09e2040bcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720091,
+            "locality_id":1343708383,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1343708383,
+    "wof:lastmodified":1537642604,
+    "wof:name":"Deh Pish",
+    "wof:parent_id":1108720091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.8591,
+    28.1072,
+    57.8591,
+    28.1072
+],
+  "geometry": {"coordinates":[57.8591,28.1072],"type":"Point"}
+}

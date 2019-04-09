@@ -1,0 +1,77 @@
+{
+  "id": 1327362357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.0425,35.9012,51.0425,35.9012",
+    "geom:latitude":35.9012,
+    "geom:longitude":51.0425,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Vineh",
+    "gn:country_code":"IR",
+    "gn:dem":1534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112002,
+    "gn:latitude":35.9012,
+    "gn:longitude":51.0425,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"V\u012bneh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u064a\u0646\u0647"
+    ],
+    "name:fas_x_variant":[
+        "V\u012bneh"
+    ],
+    "name:und_x_variant":[
+        "W\u012bneh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672415,
+        1108720105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112002,
+        "wk:page":"Vineh,_Alborz"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ed9fc41f0e498c8b30367083dcef7883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720105,
+            "locality_id":1327362357,
+            "region_id":85672415
+        }
+    ],
+    "wof:id":1327362357,
+    "wof:lastmodified":1537643035,
+    "wof:name":"Vineh",
+    "wof:parent_id":1108720105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.0425,
+    35.9012,
+    51.0425,
+    35.9012
+],
+  "geometry": {"coordinates":[51.0425,35.9012],"type":"Point"}
+}

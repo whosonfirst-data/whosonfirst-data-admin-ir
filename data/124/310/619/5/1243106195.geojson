@@ -1,0 +1,73 @@
+{
+  "id": 1243106195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.00266,37.03113,55.00266,37.03113",
+    "geom:latitude":37.03113,
+    "geom:longitude":55.00266,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Shahid Chamran",
+    "gn:country_code":"IR",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11139993,
+    "gn:latitude":37.03113,
+    "gn:longitude":55.00266,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Shah\u012bd Chamr\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u06cc\u062f \u0686\u0645\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Shah\u012bd Chamr\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11139993
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6b7f376992580d16e9059e0403bbc0ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720337,
+            "locality_id":1243106195,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1243106195,
+    "wof:lastmodified":1537648730,
+    "wof:name":"Shahid Chamran",
+    "wof:parent_id":1108720337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.00266,
+    37.03113,
+    55.00266,
+    37.03113
+],
+  "geometry": {"coordinates":[55.00266,37.03113],"type":"Point"}
+}

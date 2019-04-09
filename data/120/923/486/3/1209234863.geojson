@@ -1,0 +1,65 @@
+{
+  "id": 1209234863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.56667,29.76667,51.56667,29.76667",
+    "geom:latitude":29.76667,
+    "geom:longitude":51.56667,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Shapur",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":115460,
+    "gn:latitude":29.76667,
+    "gn:longitude":51.56667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"Sh\u0101p\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sh\u0101hp\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":115460
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9537a95193333ebe4c65892b2a3a9a02",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209234863
+        }
+    ],
+    "wof:id":1209234863,
+    "wof:lastmodified":1537643362,
+    "wof:name":"Shapur",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.56667,
+    29.76667,
+    51.56667,
+    29.76667
+],
+  "geometry": {"coordinates":[51.56667,29.76667],"type":"Point"}
+}

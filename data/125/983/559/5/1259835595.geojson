@@ -1,0 +1,77 @@
+{
+  "id": 1259835595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.16718,33.37342,49.16718,33.37342",
+    "geom:latitude":33.37342,
+    "geom:longitude":49.16718,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Saravand",
+    "gn:country_code":"IR",
+    "gn:dem":2037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":117239,
+    "gn:latitude":33.37342,
+    "gn:longitude":49.16718,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Sar\u0101vand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0627\u0648\u0646\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Sar\u0101vand"
+    ],
+    "name:und_x_variant":[
+        "Sar\u0101wand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":117239,
+        "wk:page":"Saravand"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"88bb0d78a3d4e37a7a58d19fcd7d1ab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719973,
+            "locality_id":1259835595,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1259835595,
+    "wof:lastmodified":1537643519,
+    "wof:name":"Saravand",
+    "wof:parent_id":1108719973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.16718,
+    33.37342,
+    49.16718,
+    33.37342
+],
+  "geometry": {"coordinates":[49.16718,33.37342],"type":"Point"}
+}

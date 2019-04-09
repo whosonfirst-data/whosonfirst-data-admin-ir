@@ -1,0 +1,79 @@
+{
+  "id": 1309994619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.7956,32.9563,47.7956,32.9563",
+    "geom:latitude":32.9563,
+    "geom:longitude":47.7956,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Irajabad",
+    "gn:country_code":"IR",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":42029,
+    "gn:latitude":32.9563,
+    "gn:longitude":47.7956,
+    "gn:modification_date":"2018-07-11",
+    "gn:name":"\u012araj\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u012araj\u0101b\u0101d"
+    ],
+    "name:fas_x_variant":[
+        "\u064a\u0631\u064e\u062c \u0622\u0628\u0627\u062f",
+        "\u0627\u064a\u0631\u062c \u0622\u0628\u0627\u062f",
+        "\u0634\u0647\u06cc\u062f \u0631\u062c\u0627\u06cc\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Shah\u012bd Raj\u0101\u2019\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108719947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":42029,
+        "wk:page":"Irajabad,_Ilam"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c9d73b31df85600287d2ace0f5dd8ad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719947,
+            "locality_id":1309994619,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1309994619,
+    "wof:lastmodified":1537642371,
+    "wof:name":"Irajabad",
+    "wof:parent_id":1108719947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.7956,
+    32.9563,
+    47.7956,
+    32.9563
+],
+  "geometry": {"coordinates":[47.7956,32.9563],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209168373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.1178,36.9802,47.1178,36.9802",
+    "geom:latitude":36.9802,
+    "geom:longitude":47.1178,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Qarah Saqar",
+    "gn:country_code":"IR",
+    "gn:dem":2200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":26500,
+    "gn:latitude":36.9802,
+    "gn:longitude":47.1178,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Qarah Saqar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u0647 \u0633\u0642\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0642\u0631\u0647 \u0635\u063a\u06cc\u0631"
+    ],
+    "name:und_x_variant":[
+        "Qareh Saqar",
+        "Qarah Saqar",
+        "Qarah \u015eagh\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":26500
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d7d5a275ae13d5c415619b1db5578f80",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209168373
+        }
+    ],
+    "wof:id":1209168373,
+    "wof:lastmodified":1537641399,
+    "wof:name":"Qarah Saqar",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.1178,
+    36.9802,
+    47.1178,
+    36.9802
+],
+  "geometry": {"coordinates":[47.1178,36.9802],"type":"Point"}
+}

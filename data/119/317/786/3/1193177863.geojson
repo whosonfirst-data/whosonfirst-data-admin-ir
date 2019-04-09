@@ -1,0 +1,79 @@
+{
+  "id": 1193177863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.58452,35.19565,49.58452,35.19565",
+    "geom:latitude":35.19565,
+    "geom:longitude":49.58452,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Panakeh Qal`eh",
+    "gn:country_code":"IR",
+    "gn:dem":1788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":41772,
+    "gn:latitude":35.19565,
+    "gn:longitude":49.58452,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Panakeh Qal\u2018eh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u064a\u0646\u06af\u06cc \u0642\u0644\u0639\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Yeng\u012b Qal\u2018eh",
+        "\u067e\u0646\u06a9\u0647 \u0642\u0644\u0639\u0647",
+        "\u064a\u0646\u06af\u0647 \u0642\u0644\u0639\u0647"
+    ],
+    "name:und_x_variant":[
+        "Panakeh Qal\u2018eh",
+        "Yengeh Qal\u2018eh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":41772
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a8ba79b57ae7a7b09157387042011ef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720407,
+            "locality_id":1193177863,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1193177863,
+    "wof:lastmodified":1537642356,
+    "wof:name":"Panakeh Qal`eh",
+    "wof:parent_id":1108720407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.58452,
+    35.19565,
+    49.58452,
+    35.19565
+],
+  "geometry": {"coordinates":[49.58452,35.19565],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326984249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.9017,38.4432,46.9017,38.4432",
+    "geom:latitude":38.4432,
+    "geom:longitude":46.9017,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Daylar",
+    "gn:country_code":"IR",
+    "gn:dem":1484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":35545,
+    "gn:latitude":38.4432,
+    "gn:longitude":46.9017,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"D\u0101yl\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u06cc\u0644\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "D\u0101yl\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108719791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":35545,
+        "wk:page":"Daylar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"186a8a0a6625c1e2fd99e5af36ad29ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719791,
+            "locality_id":1326984249,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1326984249,
+    "wof:lastmodified":1537641952,
+    "wof:name":"Daylar",
+    "wof:parent_id":1108719791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.9017,
+    38.4432,
+    46.9017,
+    38.4432
+],
+  "geometry": {"coordinates":[46.9017,38.4432],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1343996279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.6454,31.6688,53.6454,31.6688",
+    "geom:latitude":31.6688,
+    "geom:longitude":53.6454,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Malus",
+    "gn:country_code":"IR",
+    "gn:dem":2210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":125055,
+    "gn:latitude":31.6688,
+    "gn:longitude":53.6454,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mal\u016bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0648\u0633"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u064e\u062a\u0648\u0633",
+        "Mal\u016bs"
+    ],
+    "name:und_x_variant":[
+        "Mat\u016bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108720475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":125055
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"326daf5c57998f97a16696cb61c24b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720475,
+            "locality_id":1343996279,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1343996279,
+    "wof:lastmodified":1537644311,
+    "wof:name":"Malus",
+    "wof:parent_id":1108720475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.6454,
+    31.6688,
+    53.6454,
+    31.6688
+],
+  "geometry": {"coordinates":[53.6454,31.6688],"type":"Point"}
+}

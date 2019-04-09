@@ -1,0 +1,73 @@
+{
+  "id": 1243321679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.72877,33.86519,48.72877,33.86519",
+    "geom:latitude":33.86519,
+    "geom:longitude":48.72877,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Qal`eh Tazeh",
+    "gn:country_code":"IR",
+    "gn:dem":1531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":120417,
+    "gn:latitude":33.86519,
+    "gn:longitude":48.72877,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Qal\u2018eh T\u0101zeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0639\u0647 \u062a\u0627\u0632\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Qal\u2018eh T\u0101zeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":120417
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e9eae05c2a87eda9300025514c740a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719905,
+            "locality_id":1243321679,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1243321679,
+    "wof:lastmodified":1537643856,
+    "wof:name":"Qal`eh Tazeh",
+    "wof:parent_id":1108719905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.72877,
+    33.86519000000001,
+    48.72877,
+    33.86519000000001
+],
+  "geometry": {"coordinates":[48.72877,33.86519000000001],"type":"Point"}
+}

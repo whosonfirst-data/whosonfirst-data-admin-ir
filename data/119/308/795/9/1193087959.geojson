@@ -1,0 +1,76 @@
+{
+  "id": 1193087959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.81818,32.65688,51.81818,32.65688",
+    "geom:latitude":32.65688,
+    "geom:longitude":51.81818,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Gavart",
+    "gn:country_code":"IR",
+    "gn:dem":1554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":418832,
+    "gn:latitude":32.65688,
+    "gn:longitude":51.81818,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gavart",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0631\u062a"
+    ],
+    "name:und_x_variant":[
+        "\u06af\u0648\u0631\u062a",
+        "Qasr G\u0101vart",
+        "Qa\u015fr-e Gavart"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108719977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":418832,
+        "wk:page":"Gavart"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4994b458dbfbf9d2393dc579f2582a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719977,
+            "locality_id":1193087959,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1193087959,
+    "wof:lastmodified":1537646745,
+    "wof:name":"Gavart",
+    "wof:parent_id":1108719977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.81818,
+    32.65688,
+    51.81818,
+    32.65688
+],
+  "geometry": {"coordinates":[51.81818,32.65688],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1344110421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.28295,36.41272,51.28295,36.41272",
+    "geom:latitude":36.41272,
+    "geom:longitude":51.28295,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Mianak",
+    "gn:country_code":"IR",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7456991,
+    "gn:latitude":36.41272,
+    "gn:longitude":51.28295,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"M\u012b\u0101nak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "M\u012b\u0101nak"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u06cc\u0627\u0646\u06a9"
+    ],
+    "name:und_x_variant":[
+        "\u0645\u06cc\u0627\u0646\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7456991
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"43be607806f3c35a66982534cde1becf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719925,
+            "locality_id":1344110421,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1344110421,
+    "wof:lastmodified":1537648227,
+    "wof:name":"Mianak",
+    "wof:parent_id":1108719925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.28295,
+    36.41272,
+    51.28295,
+    36.41272
+],
+  "geometry": {"coordinates":[51.28295,36.41272],"type":"Point"}
+}

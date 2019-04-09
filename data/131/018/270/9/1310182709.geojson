@@ -1,0 +1,73 @@
+{
+  "id": 1310182709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.10157,27.10378,57.10157,27.10378",
+    "geom:latitude":27.10378,
+    "geom:longitude":57.10157,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Darreh Surakh",
+    "gn:country_code":"IR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6654865,
+    "gn:latitude":27.10378,
+    "gn:longitude":57.10157,
+    "gn:modification_date":"2014-01-15",
+    "gn:name":"Darreh S\u016br\u0101kh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0647 \u0633\u0648\u0631\u0627\u062e"
+    ],
+    "name:fas_x_variant":[
+        "Darreh S\u016br\u0101kh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6654865
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c273732f0d2f04ccf850a60d554357d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720243,
+            "locality_id":1310182709,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1310182709,
+    "wof:lastmodified":1537647249,
+    "wof:name":"Darreh Surakh",
+    "wof:parent_id":1108720243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.10157,
+    27.10378,
+    57.10157,
+    27.10378
+],
+  "geometry": {"coordinates":[57.10157,27.10378],"type":"Point"}
+}

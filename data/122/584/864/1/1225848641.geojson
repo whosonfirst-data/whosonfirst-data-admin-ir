@@ -1,0 +1,75 @@
+{
+  "id": 1225848641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.3155,37.2272,45.3155,37.2272",
+    "geom:latitude":37.2272,
+    "geom:longitude":45.3155,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Samartu",
+    "gn:country_code":"IR",
+    "gn:dem":1313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":17679,
+    "gn:latitude":37.2272,
+    "gn:longitude":45.3155,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u0304amart\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062b\u0645\u0631\u062a\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u062b\u064e\u0645\u064e\u0631\u062a\u0648",
+        "S\u0304amart\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":17679,
+        "wk:page":"Samartu"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2ed3db13b38822422e470a70b139d8b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720289,
+            "locality_id":1225848641,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1225848641,
+    "wof:lastmodified":1537640973,
+    "wof:name":"Samartu",
+    "wof:parent_id":1108720289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.3155,
+    37.2272,
+    45.3155,
+    37.2272
+],
+  "geometry": {"coordinates":[45.3155,37.2272],"type":"Point"}
+}

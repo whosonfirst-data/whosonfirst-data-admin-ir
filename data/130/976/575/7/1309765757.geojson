@@ -1,0 +1,74 @@
+{
+  "id": 1309765757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.35463,39.37961,48.35463,39.37961",
+    "geom:latitude":39.37961,
+    "geom:longitude":48.35463,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Bileh Savar",
+    "gn:country_code":"IR",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":140494,
+    "gn:latitude":39.37961,
+    "gn:longitude":48.35463,
+    "gn:modification_date":"2014-09-04",
+    "gn:name":"B\u012bleh Sav\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u064a\u0644\u0647 \u0633\u0648\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "B\u012bleh Sav\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108719893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140494,
+        "wk:page":"Bileh_Savar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4654066d3db4b3183ee187fb816f2625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719893,
+            "locality_id":1309765757,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1309765757,
+    "wof:lastmodified":1537645882,
+    "wof:name":"Bileh Savar",
+    "wof:parent_id":1108719893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.35463,
+    39.37961,
+    48.35463,
+    39.37961
+],
+  "geometry": {"coordinates":[48.35463,39.37961],"type":"Point"}
+}

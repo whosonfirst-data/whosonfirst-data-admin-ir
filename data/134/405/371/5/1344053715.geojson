@@ -1,0 +1,73 @@
+{
+  "id": 1344053715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.56119,29.66058,52.56119,29.66058",
+    "geom:latitude":29.66058,
+    "geom:longitude":52.56119,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zibashahr",
+    "gn:country_code":"IR",
+    "gn:dem":1727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6680562,
+    "gn:latitude":29.66058,
+    "gn:longitude":52.56119,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Z\u012bb\u0101shahr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u06cc\u0628\u0627\u0634\u0647\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Z\u012bb\u0101shahr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6680562
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ded782c820019ec4d3d4891f539c4398",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720447,
+            "locality_id":1344053715,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1344053715,
+    "wof:lastmodified":1537647358,
+    "wof:name":"Zibashahr",
+    "wof:parent_id":1108720447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.56119,
+    29.66058,
+    52.56119,
+    29.66058
+],
+  "geometry": {"coordinates":[52.56119,29.66058],"type":"Point"}
+}

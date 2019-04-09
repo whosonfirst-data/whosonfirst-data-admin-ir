@@ -1,0 +1,82 @@
+{
+  "id": 1243554527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.4452,31.0328,61.4452,31.0328",
+    "geom:latitude":31.0328,
+    "geom:longitude":61.4452,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Deh-e Sadeq",
+    "gn:country_code":"IR",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1159767,
+    "gn:latitude":31.0328,
+    "gn:longitude":61.4452,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Deh-e \u015e\u0101deq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Deh-e \u015e\u0101deq"
+    ],
+    "name:fas_x_variant":[
+        "\u0101deq",
+        "\u062f\u0647 \u0635\u0627\u062f\u0642",
+        "\u0635\u0627\u062f\u0642"
+    ],
+    "name:und_x_variant":[
+        "Sadegh",
+        "\u0101deq\u0101b\u0101d",
+        "Deh S\u0101deq",
+        "\u062f\u0647 \u0635\u0627\u062f\u0642",
+        "\u015e\u0101deq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1159767
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"256dd05da3de911021df40b770564946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720513,
+            "locality_id":1243554527,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1243554527,
+    "wof:lastmodified":1537646992,
+    "wof:name":"Deh-e Sadeq",
+    "wof:parent_id":1108720513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.4452,
+    31.0328,
+    61.4452,
+    31.0328
+],
+  "geometry": {"coordinates":[61.4452,31.0328],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1193107079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.67558,31.67346,49.67558,31.67346",
+    "geom:latitude":31.67346,
+    "geom:longitude":49.67558,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Nargesi",
+    "gn:country_code":"IR",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8355960,
+    "gn:latitude":31.67346,
+    "gn:longitude":49.67558,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Narges\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0646\u0631\u06af\u0633\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Narges\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8355960
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8bb8f08e9906de114047506b53a6799d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719853,
+            "locality_id":1193107079,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1193107079,
+    "wof:lastmodified":1537648549,
+    "wof:name":"Nargesi",
+    "wof:parent_id":1108719853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.67558,
+    31.67346,
+    49.67558,
+    31.67346
+],
+  "geometry": {"coordinates":[49.67558,31.67346],"type":"Point"}
+}

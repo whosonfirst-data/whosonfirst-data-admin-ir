@@ -1,0 +1,73 @@
+{
+  "id": 1293852397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.2467,33.735,47.2467,33.735",
+    "geom:latitude":33.735,
+    "geom:longitude":47.2467,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Sar Sangar",
+    "gn:country_code":"IR",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":28007,
+    "gn:latitude":33.735,
+    "gn:longitude":47.2467,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sar Sangar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u064e\u0631 \u0633\u064e\u0646\u06af\u064e\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0631\u0633\u0646\u06af\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108720453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":28007
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6a8d03cb38aef257add43fe50dfb6466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720453,
+            "locality_id":1293852397,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1293852397,
+    "wof:lastmodified":1537641499,
+    "wof:name":"Sar Sangar",
+    "wof:parent_id":1108720453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.2467,
+    33.735,
+    47.2467,
+    33.735
+],
+  "geometry": {"coordinates":[47.2467,33.735],"type":"Point"}
+}

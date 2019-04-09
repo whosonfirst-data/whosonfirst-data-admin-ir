@@ -1,0 +1,80 @@
+{
+  "id": 1260051855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.9546,35.6631,47.9546,35.6631",
+    "geom:latitude":35.6631,
+    "geom:longitude":47.9546,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Jebre'il",
+    "gn:country_code":"IR",
+    "gn:dem":1778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":130684,
+    "gn:latitude":35.6631,
+    "gn:longitude":47.9546,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Jebre\u2019\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u0628\u0631\u0626\u06cc\u0644"
+    ],
+    "name:fas_x_variant":[
+        "\u062c\u064e\u0628\u0631\u0627\u0626\u064a\u0644",
+        "\u062c\u0650\u0628\u0631\u0627\u0626\u064a\u0644",
+        "Jebre\u2019\u012bl"
+    ],
+    "name:und_x_variant":[
+        "Jebr\u0101\u2019\u012bl",
+        "J\u012bbr\u0101\u2018il",
+        "Jabr\u0101\u2019\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108719889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":130684
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"debf54447854a1430c17ba84b7df3275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719889,
+            "locality_id":1260051855,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1260051855,
+    "wof:lastmodified":1537644889,
+    "wof:name":"Jebre'il",
+    "wof:parent_id":1108719889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.9546,
+    35.6631,
+    47.9546,
+    35.6631
+],
+  "geometry": {"coordinates":[47.9546,35.6631],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1242581131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.1452,37.4335,45.1452,37.4335",
+    "geom:latitude":37.4335,
+    "geom:longitude":45.1452,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Qarahlar-e Gurkhaneh",
+    "gn:country_code":"IR",
+    "gn:dem":1317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":18559,
+    "gn:latitude":37.4335,
+    "gn:longitude":45.1452,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qarahlar-e G\u016brkh\u0101neh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u064e\u0631\u0627\u0644\u064e\u0631\u0650 \u0643\u0648\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0642\u0631\u0647 \u0644\u0631 \u06af\u0648\u0631\u062e\u0627\u0646\u0647",
+        "Qar\u0101lar-e K\u016bh",
+        "Qarahlar-e G\u016brkh\u0101neh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":18559,
+        "wk:page":"Qaralar-e_Kuh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"551d5156bf1019c5d8b47b15fc064715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720289,
+            "locality_id":1242581131,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1242581131,
+    "wof:lastmodified":1537641020,
+    "wof:name":"Qarahlar-e Gurkhaneh",
+    "wof:parent_id":1108720289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.1452,
+    37.4335,
+    45.1452,
+    37.4335
+],
+  "geometry": {"coordinates":[45.1452,37.4335],"type":"Point"}
+}

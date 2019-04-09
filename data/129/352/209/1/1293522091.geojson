@@ -1,0 +1,77 @@
+{
+  "id": 1293522091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.6491,30.8882,61.6491,30.8882",
+    "geom:latitude":30.8882,
+    "geom:longitude":61.6491,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tarquyeh",
+    "gn:country_code":"IR",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6677865,
+    "gn:latitude":30.8882,
+    "gn:longitude":61.6491,
+    "gn:modification_date":"2014-01-15",
+    "gn:name":"Tarq\u016byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0642\u0648\u06cc\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Tarq\u016byeh",
+        "\u062a\u0631\u0642\u0648\u0626\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Targ\u016b\u2019\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6677865
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dbd2a13d2ccb557bb3062f8829622607",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720515,
+            "locality_id":1293522091,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1293522091,
+    "wof:lastmodified":1537647350,
+    "wof:name":"Tarquyeh",
+    "wof:parent_id":1108720515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.6491,
+    30.8882,
+    61.6491,
+    30.8882
+],
+  "geometry": {"coordinates":[61.6491,30.8882],"type":"Point"}
+}

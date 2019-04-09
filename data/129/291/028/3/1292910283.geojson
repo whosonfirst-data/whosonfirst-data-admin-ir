@@ -1,0 +1,75 @@
+{
+  "id": 1292910283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.87737,31.70438,50.87737,31.70438",
+    "geom:latitude":31.70438,
+    "geom:longitude":50.87737,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kolkoleh",
+    "gn:country_code":"IR",
+    "gn:dem":1161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":126768,
+    "gn:latitude":31.70438,
+    "gn:longitude":50.87737,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Kolkoleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0644 \u0643\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0643\u0644 \u0643\u0644\u0647",
+        "Kolkoleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672319,
+        1108720435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":126768,
+        "wk:page":"Kol_Koleh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2908437129c3b8591f58ea9ba7b528f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720435,
+            "locality_id":1292910283,
+            "region_id":85672319
+        }
+    ],
+    "wof:id":1292910283,
+    "wof:lastmodified":1537644486,
+    "wof:name":"Kolkoleh",
+    "wof:parent_id":1108720435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.87737,
+    31.70438,
+    50.87737,
+    31.70438
+],
+  "geometry": {"coordinates":[50.87737,31.70438],"type":"Point"}
+}

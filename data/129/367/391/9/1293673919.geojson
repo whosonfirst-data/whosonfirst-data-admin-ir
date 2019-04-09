@@ -1,0 +1,76 @@
+{
+  "id": 1293673919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.03214,37.6173,49.03214,37.6173",
+    "geom:latitude":37.6173,
+    "geom:longitude":49.03214,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Khaliar",
+    "gn:country_code":"IR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":127169,
+    "gn:latitude":37.6173,
+    "gn:longitude":49.03214,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Kh\u0101l\u012b\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062e\u0627\u0644\u06cc\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Kh\u0101l\u012b\u0101r"
+    ],
+    "name:und_x_variant":[
+        "Kh\u016bl\u012b\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":127169
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dc49c45863754351106cc846ce220e1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720353,
+            "locality_id":1293673919,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1293673919,
+    "wof:lastmodified":1537644531,
+    "wof:name":"Khaliar",
+    "wof:parent_id":1108720353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.03214000000001,
+    37.6173,
+    49.03214000000001,
+    37.6173
+],
+  "geometry": {"coordinates":[49.03214000000001,37.6173],"type":"Point"}
+}

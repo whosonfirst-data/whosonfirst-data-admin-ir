@@ -1,0 +1,74 @@
+{
+  "id": 1225914123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.21667,30.45,48.21667,30.45",
+    "geom:latitude":30.45,
+    "geom:longitude":48.21667,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Damdaran",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":45038,
+    "gn:latitude":30.45,
+    "gn:longitude":48.21667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"D\u0101md\u0101r\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "D\u0101md\u0101r\u0101n"
+    ],
+    "name:und_x_variant":[
+        "G\u0101v M\u012bsh D\u0101r\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":45038
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"992bf287bd2c455ac14df9a1cb2f7a46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720151,
+            "locality_id":1225914123,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1225914123,
+    "wof:lastmodified":1537642517,
+    "wof:name":"Damdaran",
+    "wof:parent_id":1108720151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.21667,
+    30.45,
+    48.21667,
+    30.45
+],
+  "geometry": {"coordinates":[48.21667,30.45],"type":"Point"}
+}

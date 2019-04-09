@@ -1,0 +1,72 @@
+{
+  "id": 1243248293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.5025,37.17889,49.5025,37.17889",
+    "geom:latitude":37.17889,
+    "geom:longitude":49.5025,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Katkar",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":37389,
+    "gn:latitude":37.17889,
+    "gn:longitude":49.5025,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Katkar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kangar",
+        "Katkar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":37389
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d4f4885b8535b390553894175665ac87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720427,
+            "locality_id":1243248293,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1243248293,
+    "wof:lastmodified":1537642089,
+    "wof:name":"Katkar",
+    "wof:parent_id":1108720427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.5025,
+    37.17889,
+    49.5025,
+    37.17889
+],
+  "geometry": {"coordinates":[49.5025,37.17889],"type":"Point"}
+}

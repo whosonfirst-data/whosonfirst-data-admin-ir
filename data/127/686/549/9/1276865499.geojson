@@ -1,0 +1,81 @@
+{
+  "id": 1276865499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.6373,32.4124,47.6373,32.4124",
+    "geom:latitude":32.4124,
+    "geom:longitude":47.6373,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"`Eyn-e Khowsh",
+    "gn:country_code":"IR",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":135028,
+    "gn:latitude":32.4124,
+    "gn:longitude":47.6373,
+    "gn:modification_date":"2018-07-10",
+    "gn:name":"\u2018Eyn-e Khowsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0650\u064a\u0646 \u062e\u0648\u0634"
+    ],
+    "name:fas_x_variant":[
+        "\u0639\u06cc\u0646 \u062e\u0648\u0634",
+        "\u2018Eyn Khvosh"
+    ],
+    "name:und_x_variant":[
+        "Chashmeh Khush",
+        "\u2018Eyn-e Khowsh",
+        "Eyn Kh\u016bsh",
+        "\u2018Eyn-e Khvosh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108719957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":135028,
+        "wk:page":"Eyn_Khvosh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d79aa3871cd76961c5d9168d140960b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719957,
+            "locality_id":1276865499,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1276865499,
+    "wof:lastmodified":1537645329,
+    "wof:name":"`Eyn-e Khowsh",
+    "wof:parent_id":1108719957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.6373,
+    32.4124,
+    47.6373,
+    32.4124
+],
+  "geometry": {"coordinates":[47.6373,32.4124],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344266787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.3295,28.4747,55.3295,28.4747",
+    "geom:latitude":28.4747,
+    "geom:longitude":55.3295,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Qal`eh Damkan",
+    "gn:country_code":"IR",
+    "gn:dem":1590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6980039,
+    "gn:latitude":28.4747,
+    "gn:longitude":55.3295,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Qal\u2018eh Damkan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0639\u0647 \u062f\u0645 \u06a9\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Qal\u2018eh Damkan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108719939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6980039
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"eee8a18b270214c6f1c400c2fe0f7143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719939,
+            "locality_id":1344266787,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1344266787,
+    "wof:lastmodified":1537647809,
+    "wof:name":"Qal`eh Damkan",
+    "wof:parent_id":1108719939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.3295,
+    28.4747,
+    55.3295,
+    28.4747
+],
+  "geometry": {"coordinates":[55.3295,28.4747],"type":"Point"}
+}

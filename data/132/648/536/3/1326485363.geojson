@@ -1,0 +1,70 @@
+{
+  "id": 1326485363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.1695,35.437,53.1695,35.437",
+    "geom:latitude":35.437,
+    "geom:longitude":53.1695,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Senjedeh",
+    "gn:country_code":"IR",
+    "gn:dem":1146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":33851,
+    "gn:latitude":35.437,
+    "gn:longitude":53.1695,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Senjedeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062c\u062f\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672309,
+        1108720419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":33851
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"42e418c30c9930a2c314aa4cfbd8442a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720419,
+            "locality_id":1326485363,
+            "region_id":85672309
+        }
+    ],
+    "wof:id":1326485363,
+    "wof:lastmodified":1537641881,
+    "wof:name":"Senjedeh",
+    "wof:parent_id":1108720419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.1695,
+    35.437,
+    53.1695,
+    35.437
+],
+  "geometry": {"coordinates":[53.1695,35.437],"type":"Point"}
+}

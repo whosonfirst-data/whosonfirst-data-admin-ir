@@ -1,0 +1,73 @@
+{
+  "id": 1226448391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.395,31.0354,61.395,31.0354",
+    "geom:latitude":31.0354,
+    "geom:longitude":61.395,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shahrak-e Golkhani",
+    "gn:country_code":"IR",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6650898,
+    "gn:latitude":31.0354,
+    "gn:longitude":61.395,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Shahrak-e Golkh\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u06a9 \u06af\u0644\u062e\u0627\u0646\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Shahrak-e Golkh\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6650898
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8a7b2d7def9cc92490a294ba16ad6dad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720513,
+            "locality_id":1226448391,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1226448391,
+    "wof:lastmodified":1537647199,
+    "wof:name":"Shahrak-e Golkhani",
+    "wof:parent_id":1108720513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.395,
+    31.0354,
+    61.395,
+    31.0354
+],
+  "geometry": {"coordinates":[61.395,31.0354],"type":"Point"}
+}

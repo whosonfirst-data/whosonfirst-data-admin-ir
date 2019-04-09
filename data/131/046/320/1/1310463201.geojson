@@ -1,0 +1,79 @@
+{
+  "id": 1310463201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.53011,32.53682,51.53011,32.53682",
+    "geom:latitude":32.53682,
+    "geom:longitude":51.53011,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Mahalleh-ye Aghcheh Bodi",
+    "gn:country_code":"IR",
+    "gn:dem":1614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":418983,
+    "gn:latitude":32.53682,
+    "gn:longitude":51.53011,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Ma\u1e29alleh-ye \u0100ghcheh Bod\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0100ghcheh Bod\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u063a\u0686\u0647 \u0628\u062f\u06cc",
+        "\u0645\u062d\u0644\u0647 \u0622\u063a\u0686\u0647 \u0628\u062f\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0100ghcheh Bo",
+        "\u0622\u063a\u0686\u0647 \u0628\u062f\u06cc",
+        "Ma\u1e29alleh-ye \u0100ghcheh Bod\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108719989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":418983
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"34ceb602a1187a52eef6cd0adbffd001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719989,
+            "locality_id":1310463201,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1310463201,
+    "wof:lastmodified":1537646756,
+    "wof:name":"Mahalleh-ye Aghcheh Bodi",
+    "wof:parent_id":1108719989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.53011,
+    32.53682,
+    51.53011,
+    32.53682
+],
+  "geometry": {"coordinates":[51.53011,32.53682],"type":"Point"}
+}

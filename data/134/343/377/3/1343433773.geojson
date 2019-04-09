@@ -1,0 +1,74 @@
+{
+  "id": 1343433773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.21778,30.34556,48.21778,30.34556",
+    "geom:latitude":30.34556,
+    "geom:longitude":48.21778,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Raddeh-ye Alvaniyeh",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387920,
+    "gn:latitude":30.34556,
+    "gn:longitude":48.21778,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Raddeh-ye Alv\u0101n\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Raddeh-ye Alv\u0101n\u012byeh"
+    ],
+    "name:und_x_variant":[
+        "Alv\u0101n\u012byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387920
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"103dc2db06812ee746eb4ded48507238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720151,
+            "locality_id":1343433773,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1343433773,
+    "wof:lastmodified":1537646445,
+    "wof:name":"Raddeh-ye Alvaniyeh",
+    "wof:parent_id":1108720151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.21778,
+    30.34556,
+    48.21778,
+    30.34556
+],
+  "geometry": {"coordinates":[48.21778,30.34556],"type":"Point"}
+}

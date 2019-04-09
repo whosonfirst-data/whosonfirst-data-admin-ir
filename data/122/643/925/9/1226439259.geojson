@@ -1,0 +1,78 @@
+{
+  "id": 1226439259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.35648,36.72339,50.35648,36.72339",
+    "geom:latitude":36.72339,
+    "geom:longitude":50.35648,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Baltork",
+    "gn:country_code":"IR",
+    "gn:dem":1807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10505,
+    "gn:latitude":36.72339,
+    "gn:longitude":50.35648,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"Baltork",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u062a\u0631\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0627\u0644 \u062a\u0631\u06a9"
+    ],
+    "name:und_x_variant":[
+        "Beleh Tork",
+        "Baltork",
+        "B\u0101l Tark"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10505
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b4ab191118a6c840d948f1a501a11562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720365,
+            "locality_id":1226439259,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1226439259,
+    "wof:lastmodified":1537640576,
+    "wof:name":"Baltork",
+    "wof:parent_id":1108720365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.35648,
+    36.72339,
+    50.35648,
+    36.72339
+],
+  "geometry": {"coordinates":[50.35648,36.72339],"type":"Point"}
+}

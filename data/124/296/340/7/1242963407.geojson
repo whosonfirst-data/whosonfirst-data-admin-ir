@@ -1,0 +1,73 @@
+{
+  "id": 1242963407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.4142,37.0557,49.4142,37.0557",
+    "geom:latitude":37.0557,
+    "geom:longitude":49.4142,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Espid Khani",
+    "gn:country_code":"IR",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6757400,
+    "gn:latitude":37.0557,
+    "gn:longitude":49.4142,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Esp\u012bd Kh\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u067e\u06cc\u062f \u062e\u0627\u0646\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Esp\u012bd Kh\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6757400
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"63af92b133a8db60535a97226b3741a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720427,
+            "locality_id":1242963407,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1242963407,
+    "wof:lastmodified":1537647630,
+    "wof:name":"Espid Khani",
+    "wof:parent_id":1108720427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.4142,
+    37.0557,
+    49.4142,
+    37.0557
+],
+  "geometry": {"coordinates":[49.4142,37.0557],"type":"Point"}
+}

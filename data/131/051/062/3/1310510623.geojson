@@ -1,0 +1,76 @@
+{
+  "id": 1310510623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.1598,36.6193,45.1598,36.6193",
+    "geom:latitude":36.6193,
+    "geom:longitude":45.1598,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dilzeh",
+    "gn:country_code":"IR",
+    "gn:dem":1471,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3340,
+    "gn:latitude":36.6193,
+    "gn:longitude":45.1598,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"D\u012blzeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0644\u0632\u0647"
+    ],
+    "name:fas_x_variant":[
+        "V\u012blzeh",
+        "D\u012blzeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3340,
+        "wk:page":"Dilzeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6a11416a8f750d98d6ddd78f4cf9f010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720303,
+            "locality_id":1310510623,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1310510623,
+    "wof:lastmodified":1537640245,
+    "wof:name":"Dilzeh",
+    "wof:parent_id":1108720303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.1598,
+    36.6193,
+    45.1598,
+    36.6193
+],
+  "geometry": {"coordinates":[45.1598,36.6193],"type":"Point"}
+}

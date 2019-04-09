@@ -1,0 +1,79 @@
+{
+  "id": 1243221851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.8482,34.1926,47.8482,34.1926",
+    "geom:latitude":34.1926,
+    "geom:longitude":47.8482,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Cheshmeh Kabud",
+    "gn:country_code":"IR",
+    "gn:dem":1863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":138566,
+    "gn:latitude":34.1926,
+    "gn:longitude":47.8482,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cheshmeh Kab\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0650\u0634\u0645\u0650\u0647 \u0643\u064e\u0628\u0648\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u064e\u0634\u0645\u0650\u0647 \u0643\u064e\u0628\u0648\u062f",
+        "\u0686\u0634\u0645\u0647 \u06a9\u0628\u0648\u062f",
+        "Cheshmeh Kab\u016bd"
+    ],
+    "name:und_x_variant":[
+        "Chashma Kabud",
+        "Chashmeh Kab\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":138566
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"72f07431d4df45f93a8e10df6f60c731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719959,
+            "locality_id":1243221851,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1243221851,
+    "wof:lastmodified":1537645691,
+    "wof:name":"Cheshmeh Kabud",
+    "wof:parent_id":1108719959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.8482,
+    34.1926,
+    47.8482,
+    34.1926
+],
+  "geometry": {"coordinates":[47.8482,34.1926],"type":"Point"}
+}

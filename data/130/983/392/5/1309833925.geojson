@@ -1,0 +1,76 @@
+{
+  "id": 1309833925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.8068,36.2323,59.8068,36.2323",
+    "geom:latitude":36.2323,
+    "geom:longitude":59.8068,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"`Aliabad-e Pa'in",
+    "gn:country_code":"IR",
+    "gn:dem":926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6678684,
+    "gn:latitude":36.2323,
+    "gn:longitude":59.8068,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"\u2018Al\u012b\u0101b\u0101d-e P\u0101\u2019\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0639\u0644\u06cc \u0622\u0628\u0627\u062f \u067e\u0627\u0626\u06cc\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u2018Al\u012b\u0101b\u0101d-e P\u0101\u2019\u012bn"
+    ],
+    "name:und_x_variant":[
+        "\u2018Al\u012b\u0101b\u0101d-e P\u0101\u2019\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6678684
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2f28a38ca53f5f06c1a2327d6802c4b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720227,
+            "locality_id":1309833925,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1309833925,
+    "wof:lastmodified":1537647355,
+    "wof:name":"`Aliabad-e Pa'in",
+    "wof:parent_id":1108720227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.8068,
+    36.2323,
+    59.8068,
+    36.2323
+],
+  "geometry": {"coordinates":[59.8068,36.2323],"type":"Point"}
+}

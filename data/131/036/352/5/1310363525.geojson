@@ -1,0 +1,73 @@
+{
+  "id": 1310363525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.9457,33.1643,48.9457,33.1643",
+    "geom:latitude":33.1643,
+    "geom:longitude":48.9457,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Luneh Shahi",
+    "gn:country_code":"IR",
+    "gn:dem":1289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6738070,
+    "gn:latitude":33.1643,
+    "gn:longitude":48.9457,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"L\u016bneh Sh\u0101h\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0646\u0647 \u0634\u0627\u0647\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "L\u016bneh Sh\u0101h\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6738070
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"177a764bd10278063b0c7d70169ad46f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719803,
+            "locality_id":1310363525,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1310363525,
+    "wof:lastmodified":1537647559,
+    "wof:name":"Luneh Shahi",
+    "wof:parent_id":1108719803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.9457,
+    33.1643,
+    48.9457,
+    33.1643
+],
+  "geometry": {"coordinates":[48.9457,33.1643],"type":"Point"}
+}

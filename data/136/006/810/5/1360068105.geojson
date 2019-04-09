@@ -1,0 +1,78 @@
+{
+  "id": 1360068105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.39143,32.13548,49.39143,32.13548",
+    "geom:latitude":32.13548,
+    "geom:longitude":49.39143,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Bazkabad",
+    "gn:country_code":"IR",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":140994,
+    "gn:latitude":32.13548,
+    "gn:longitude":49.39143,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Bazk\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0632\u06af \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Bazg\u0101b\u0101d",
+        "\u0628\u0632\u06a9 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Bozorg\u0101b\u0101d",
+        "Bazk\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140994
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"27467457c14e0d69fa1a7dcc08cc1a24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720229,
+            "locality_id":1360068105,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1360068105,
+    "wof:lastmodified":1537645930,
+    "wof:name":"Bazkabad",
+    "wof:parent_id":1108720229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.39143,
+    32.13548,
+    49.39143,
+    32.13548
+],
+  "geometry": {"coordinates":[49.39143,32.13548],"type":"Point"}
+}

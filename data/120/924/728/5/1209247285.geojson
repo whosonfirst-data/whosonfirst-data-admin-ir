@@ -1,0 +1,72 @@
+{
+  "id": 1209247285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.77878,27.32021,60.77878,27.32021",
+    "geom:latitude":27.32021,
+    "geom:longitude":60.77878,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Qaderabad",
+    "gn:country_code":"IR",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1159937,
+    "gn:latitude":27.32021,
+    "gn:longitude":60.77878,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Q\u0101der\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0627\u062f\u0631\u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Q\u0101der\u0101b\u0101d",
+        "K\u0101dar\u0101b\u0101d"
+    ],
+    "name:und_x_variant":[
+        "Ghader Abad",
+        "K\u0101dar\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1159937
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0a3fed64255d62626abdfad7a102836c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209247285
+        }
+    ],
+    "wof:id":1209247285,
+    "wof:lastmodified":1537647004,
+    "wof:name":"Qaderabad",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.77878000000001,
+    27.32021,
+    60.77878000000001,
+    27.32021
+],
+  "geometry": {"coordinates":[60.77878000000001,27.32021],"type":"Point"}
+}

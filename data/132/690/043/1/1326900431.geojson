@@ -1,0 +1,74 @@
+{
+  "id": 1326900431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.07452,31.89931,48.07452,31.89931",
+    "geom:latitude":31.89931,
+    "geom:longitude":48.07452,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Maraghiyeh",
+    "gn:country_code":"IR",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":42324,
+    "gn:latitude":31.89931,
+    "gn:longitude":48.07452,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Mar\u0101gh\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Mar\u0101gh\u012byeh"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0631\u0627\u063a\u06cc\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":42324,
+        "wk:page":"Maraghiyeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8f4bf558a20018712fefd26ec52d8231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720455,
+            "locality_id":1326900431,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1326900431,
+    "wof:lastmodified":1537642394,
+    "wof:name":"Maraghiyeh",
+    "wof:parent_id":1108720455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.07452,
+    31.89931,
+    48.07452,
+    31.89931
+],
+  "geometry": {"coordinates":[48.07452,31.89931],"type":"Point"}
+}

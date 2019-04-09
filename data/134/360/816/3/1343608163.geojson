@@ -1,0 +1,75 @@
+{
+  "id": 1343608163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.64611,28.95361,57.64611,28.95361",
+    "geom:latitude":28.95361,
+    "geom:longitude":57.64611,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Sar Keyvan",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":400368,
+    "gn:latitude":28.95361,
+    "gn:longitude":57.64611,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sar Keyv\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sar Keyv\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Sar-e Keyv\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400368,
+        "wk:page":"Sar_Keyvan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5f8b0da16fd7d34b54ebe3bcb7565f44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720081,
+            "locality_id":1343608163,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1343608163,
+    "wof:lastmodified":1537646494,
+    "wof:name":"Sar Keyvan",
+    "wof:parent_id":1108720081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.64611,
+    28.95361,
+    57.64611,
+    28.95361
+],
+  "geometry": {"coordinates":[57.64611,28.95361],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309902625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.36667,36.78333,50.36667,36.78333",
+    "geom:latitude":36.78333,
+    "geom:longitude":50.36667,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Eshkar Sar",
+    "gn:country_code":"IR",
+    "gn:dem":2592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10412,
+    "gn:latitude":36.78333,
+    "gn:longitude":50.36667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Eshkar Sar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10412
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a30c9595d38f097d396a47ed9bb562bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720365,
+            "locality_id":1309902625,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1309902625,
+    "wof:lastmodified":1536791884,
+    "wof:name":"Eshkar Sar",
+    "wof:parent_id":1108720365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.36667,
+    36.78333,
+    50.36667,
+    36.78333
+],
+  "geometry": {"coordinates":[50.36667,36.78333],"type":"Point"}
+}

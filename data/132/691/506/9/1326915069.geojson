@@ -1,0 +1,77 @@
+{
+  "id": 1326915069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.57486,36.83396,49.57486,36.83396",
+    "geom:latitude":36.83396,
+    "geom:longitude":49.57486,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Makhshar",
+    "gn:country_code":"IR",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":125220,
+    "gn:latitude":36.83396,
+    "gn:longitude":49.57486,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Makhshar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u062e \u0634\u0631"
+    ],
+    "name:und_x_variant":[
+        "Mokhshar",
+        "Ma\u1e29char",
+        "Makhshar",
+        "\u0645\u062e \u0634\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":125220,
+        "wk:page":"Makhshar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"41682123fa4a5fede207864c5c092973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720361,
+            "locality_id":1326915069,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1326915069,
+    "wof:lastmodified":1537644328,
+    "wof:name":"Makhshar",
+    "wof:parent_id":1108720361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.57486,
+    36.83396,
+    49.57486,
+    36.83396
+],
+  "geometry": {"coordinates":[49.57486,36.83396],"type":"Point"}
+}

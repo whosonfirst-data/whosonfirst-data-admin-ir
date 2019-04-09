@@ -1,0 +1,78 @@
+{
+  "id": 1193122001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.6715,36.73647,49.6715,36.73647",
+    "geom:latitude":36.73647,
+    "geom:longitude":49.6715,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Valgeh Sar",
+    "gn:country_code":"IR",
+    "gn:dem":2019,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9851,
+    "gn:latitude":36.73647,
+    "gn:longitude":49.6715,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Valgeh Sar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06af\u0647 \u0633\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0631\u06af\u0647 \u0633\u0631"
+    ],
+    "name:und_x_variant":[
+        "Talakeh Sar",
+        "Valgeh Sar",
+        "Bargeh Sar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9851
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e87152495aba1fdc6c13d48f9d6f2043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720361,
+            "locality_id":1193122001,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1193122001,
+    "wof:lastmodified":1537640515,
+    "wof:name":"Valgeh Sar",
+    "wof:parent_id":1108720361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.6715,
+    36.73647,
+    49.6715,
+    36.73647
+],
+  "geometry": {"coordinates":[49.6715,36.73647],"type":"Point"}
+}

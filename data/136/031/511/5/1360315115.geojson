@@ -1,0 +1,80 @@
+{
+  "id": 1360315115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.7825,35.9078,50.7825,35.9078",
+    "geom:latitude":35.9078,
+    "geom:longitude":50.7825,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Seyfabad-e Khalemeh",
+    "gn:country_code":"IR",
+    "gn:dem":1339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":41863,
+    "gn:latitude":35.9078,
+    "gn:longitude":50.7825,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Seyf\u0101b\u0101d-e Kh\u0101lemeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0650\u064a\u0641\u0627\u0628\u0627\u062f\u0650 \u067e\u064f\u0644\u0650 \u0643\u064f\u0631\u062f\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Seyf\u0101b\u0101d-e Pol-e Kord\u0101n",
+        "Seyf\u0101b\u0101d",
+        "\u0633\u06cc\u0641 \u0622\u0628\u0627\u062f",
+        "\u0633\u06cc\u0641 \u0622\u0628\u0627\u062f \u062e\u0627\u0644\u0645\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0633\u06cc\u0641 \u0622\u0628\u0627\u062f",
+        "Seyf\u0101b\u0101d-e Kh\u0101lemeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672415,
+        1108720409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":41863
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e9524b643993dff2870ecbd14f843f86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720409,
+            "locality_id":1360315115,
+            "region_id":85672415
+        }
+    ],
+    "wof:id":1360315115,
+    "wof:lastmodified":1537642361,
+    "wof:name":"Seyfabad-e Khalemeh",
+    "wof:parent_id":1108720409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.7825,
+    35.9078,
+    50.7825,
+    35.9078
+],
+  "geometry": {"coordinates":[50.7825,35.9078],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1276363931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.56114,34.17375,58.56114,34.17375",
+    "geom:latitude":34.17375,
+    "geom:longitude":58.56114,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Senjedak",
+    "gn:country_code":"IR",
+    "gn:dem":1625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":30015,
+    "gn:latitude":34.17375,
+    "gn:longitude":58.56114,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Senjedak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062c\u062a\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0646\u062c\u062f\u06a9",
+        "\u0633\u0646\u062c\u0646\u06a9",
+        "\u0633\u0646\u062c\u062b\u06a9"
+    ],
+    "name:und_x_variant":[
+        "Senjetak",
+        "\u0633\u0646\u062c\u062a\u06a9",
+        "Senjedak",
+        "Senjenak",
+        "Senjesk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":30015
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e26c4de24094e24a61cf3f41ef6a893d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720037,
+            "locality_id":1276363931,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1276363931,
+    "wof:lastmodified":1537641662,
+    "wof:name":"Senjedak",
+    "wof:parent_id":1108720037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.56114,
+    34.17375,
+    58.56114,
+    34.17375
+],
+  "geometry": {"coordinates":[58.56114,34.17375],"type":"Point"}
+}

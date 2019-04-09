@@ -1,0 +1,73 @@
+{
+  "id": 1293547499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.97668,33.56462,46.97668,33.56462",
+    "geom:latitude":33.56462,
+    "geom:longitude":46.97668,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Meydan Gah",
+    "gn:country_code":"IR",
+    "gn:dem":1313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8333477,
+    "gn:latitude":33.56462,
+    "gn:longitude":46.97668,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Meyd\u0101n Gah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u064a\u062f\u0627\u0646 \u06af\u0647"
+    ],
+    "name:und_x_variant":[
+        "Meyd\u0101n Gah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8333477
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"33eec195aa1391eea6b6a36f2dc5fd99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720169,
+            "locality_id":1293547499,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1293547499,
+    "wof:lastmodified":1537648545,
+    "wof:name":"Meydan Gah",
+    "wof:parent_id":1108720169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.97668,
+    33.56462,
+    46.97668,
+    33.56462
+],
+  "geometry": {"coordinates":[46.97668,33.56462],"type":"Point"}
+}

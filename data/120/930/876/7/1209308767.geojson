@@ -1,0 +1,73 @@
+{
+  "id": 1209308767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.33382,30.39833,51.33382,30.39833",
+    "geom:latitude":30.39833,
+    "geom:longitude":51.33382,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Zirgar",
+    "gn:country_code":"IR",
+    "gn:dem":847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":46497,
+    "gn:latitude":30.39833,
+    "gn:longitude":51.33382,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"Z\u012brgar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Z\u012brgar"
+    ],
+    "name:fas_x_variant":[
+        "\u0632\u06cc\u0631\u06af\u0631",
+        "\u0632\u06cc\u0631\u06af\u0631\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u0632\u06cc\u0631\u06af\u0631",
+        "Z\u012brgard"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":46497,
+        "wk:page":"Zirgar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9f3b8833f3f363c616b9ba8b501b76a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209308767
+        }
+    ],
+    "wof:id":1209308767,
+    "wof:lastmodified":1537642613,
+    "wof:name":"Zirgar",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.33382,
+    30.39833,
+    51.33382,
+    30.39833
+],
+  "geometry": {"coordinates":[51.33382,30.39833],"type":"Point"}
+}

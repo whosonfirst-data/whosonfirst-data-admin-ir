@@ -1,0 +1,79 @@
+{
+  "id": 1310295009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.44389,37.0311,50.44389,37.0311",
+    "geom:latitude":37.0311,
+    "geom:longitude":50.44389,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Sadat Mahalleh",
+    "gn:country_code":"IR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":29017,
+    "gn:latitude":37.0311,
+    "gn:longitude":50.44389,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"S\u0101d\u0101t Ma\u1e29alleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sh\u0101h Mor\u0101d Ma\u1e29alleh"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u0627\u0647 \u0645\u0631\u0627\u062f \u0645\u062d\u0644\u0647",
+        "\u0633\u0627\u062f\u0627\u062a \u0645\u062d\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "Sh\u0101h Mor\u0101d Ma\u1e29alleh",
+        "\u0634\u0627\u0647 \u0645\u0631\u0627\u062f \u0645\u062d\u0644\u0647",
+        "S\u0101d\u0101t Ma\u1e29alleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":29017
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a4eed7af542a1cadc92d85ff1f2e52fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720365,
+            "locality_id":1310295009,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1310295009,
+    "wof:lastmodified":1537641601,
+    "wof:name":"Sadat Mahalleh",
+    "wof:parent_id":1108720365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.44389,
+    37.0311,
+    50.44389,
+    37.0311
+],
+  "geometry": {"coordinates":[50.44389,37.0311],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259539697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.59489,33.38331,48.59489,33.38331",
+    "geom:latitude":33.38331,
+    "geom:longitude":48.59489,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Karimabad",
+    "gn:country_code":"IR",
+    "gn:dem":1588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":32362,
+    "gn:latitude":33.38331,
+    "gn:longitude":48.59489,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Kar\u012bm\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u06cc\u0645 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Kar\u012bm\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":32362
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c2f6f56cf73c2de3292c7d9a752f04d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720145,
+            "locality_id":1259539697,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1259539697,
+    "wof:lastmodified":1537641787,
+    "wof:name":"Karimabad",
+    "wof:parent_id":1108720145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.59489,
+    33.38330999999999,
+    48.59489,
+    33.38330999999999
+],
+  "geometry": {"coordinates":[48.59489,33.38330999999999],"type":"Point"}
+}

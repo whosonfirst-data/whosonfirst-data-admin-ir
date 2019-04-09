@@ -1,0 +1,73 @@
+{
+  "id": 1210025613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.9639,38.6213,44.9639,38.6213",
+    "geom:latitude":38.6213,
+    "geom:longitude":44.9639,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Parchi",
+    "gn:country_code":"IR",
+    "gn:dem":1094,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":121463,
+    "gn:latitude":38.6213,
+    "gn:longitude":44.9639,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"P\u0101rch\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0631\u0686\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "P\u0101rch\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":121463
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"43bdb106d78c1aece29c4efafb7170d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720153,
+            "locality_id":1210025613,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1210025613,
+    "wof:lastmodified":1537643956,
+    "wof:name":"Parchi",
+    "wof:parent_id":1108720153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.9639,
+    38.6213,
+    44.9639,
+    38.6213
+],
+  "geometry": {"coordinates":[44.9639,38.6213],"type":"Point"}
+}

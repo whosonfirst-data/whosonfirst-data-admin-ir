@@ -1,0 +1,76 @@
+{
+  "id": 1327288893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.41273,35.16326,52.41273,35.16326",
+    "geom:latitude":35.16326,
+    "geom:longitude":52.41273,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Reshmeh",
+    "gn:country_code":"IR",
+    "gn:dem":836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":118595,
+    "gn:latitude":35.16326,
+    "gn:longitude":52.41273,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Reshmeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u0634\u0645\u0647"
+    ],
+    "name:und_x_variant":[
+        "Rashmeh",
+        "Rishmeh",
+        "Reshmeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672309,
+        1108720023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":118595,
+        "wk:page":"Reshmeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c0c7fe8fbc902f179389d940dcd3115d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720023,
+            "locality_id":1327288893,
+            "region_id":85672309
+        }
+    ],
+    "wof:id":1327288893,
+    "wof:lastmodified":1537643650,
+    "wof:name":"Reshmeh",
+    "wof:parent_id":1108720023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.41273,
+    35.16326,
+    52.41273,
+    35.16326
+],
+  "geometry": {"coordinates":[52.41273,35.16326],"type":"Point"}
+}

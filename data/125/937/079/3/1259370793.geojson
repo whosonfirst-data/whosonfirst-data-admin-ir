@@ -1,0 +1,77 @@
+{
+  "id": 1259370793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.40138,26.93306,57.40138,26.93306",
+    "geom:latitude":26.93306,
+    "geom:longitude":57.40138,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sharishak",
+    "gn:country_code":"IR",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6654608,
+    "gn:latitude":26.93306,
+    "gn:longitude":57.40138,
+    "gn:modification_date":"2013-11-12",
+    "gn:name":"Shar\u012bshak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0634\u0631\u06cc\u0634\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "Shar\u012bshak",
+        "\u0634\u0647\u0631\u0627\u0646\u062f\u06a9"
+    ],
+    "name:und_x_variant":[
+        "Shahr\u0101ndak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6654608
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6e55bd41539229ae5e6a552ec0a41887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720243,
+            "locality_id":1259370793,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1259370793,
+    "wof:lastmodified":1537647237,
+    "wof:name":"Sharishak",
+    "wof:parent_id":1108720243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.40138,
+    26.93306,
+    57.40138,
+    26.93306
+],
+  "geometry": {"coordinates":[57.40138,26.93306],"type":"Point"}
+}

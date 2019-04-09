@@ -1,0 +1,78 @@
+{
+  "id": 1276754935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.4462,28.5477,54.4462,28.5477",
+    "geom:latitude":28.5477,
+    "geom:longitude":54.4462,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Khalilabad",
+    "gn:country_code":"IR",
+    "gn:dem":1040,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6927262,
+    "gn:latitude":28.5477,
+    "gn:longitude":54.4462,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Khal\u012bl\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0643 \u062e\u0644\u06cc\u0644 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Shahrak-e Khal\u012bl\u0101b\u0101d",
+        "\u062e\u0644\u06cc\u0644 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Khal\u012bl\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6927262,
+        "wk:page":"Shahrak-e_Khalilabad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"06cda27c35d944eebd4008b7caff939d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720527,
+            "locality_id":1276754935,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1276754935,
+    "wof:lastmodified":1537647749,
+    "wof:name":"Khalilabad",
+    "wof:parent_id":1108720527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.4462,
+    28.5477,
+    54.4462,
+    28.5477
+],
+  "geometry": {"coordinates":[54.4462,28.5477],"type":"Point"}
+}

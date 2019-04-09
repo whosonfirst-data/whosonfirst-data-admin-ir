@@ -1,0 +1,77 @@
+{
+  "id": 1193269001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.0104,28.6512,53.0104,28.6512",
+    "geom:latitude":28.6512,
+    "geom:longitude":53.0104,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ab Sheykh",
+    "gn:country_code":"IR",
+    "gn:dem":1117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":385164,
+    "gn:latitude":28.6512,
+    "gn:longitude":53.0104,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100b Sheykh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0628 \u0634\u06cc\u062e"
+    ],
+    "name:fas_x_variant":[
+        "\u0100b Sheykh"
+    ],
+    "name:und_x_variant":[
+        "\u0100b-e Sheykh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385164,
+        "wk:page":"Ab_Sheykh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b378d8f0e22886f8787e8a3d95e39380",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720069,
+            "locality_id":1193269001,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1193269001,
+    "wof:lastmodified":1537646389,
+    "wof:name":"Ab Sheykh",
+    "wof:parent_id":1108720069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.0104,
+    28.6512,
+    53.0104,
+    28.6512
+],
+  "geometry": {"coordinates":[53.0104,28.6512],"type":"Point"}
+}

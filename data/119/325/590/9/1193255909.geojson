@@ -1,0 +1,76 @@
+{
+  "id": 1193255909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.3229,27.335,57.3229,27.335",
+    "geom:latitude":27.335,
+    "geom:longitude":57.3229,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mah Mandar",
+    "gn:country_code":"IR",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6654647,
+    "gn:latitude":27.335,
+    "gn:longitude":57.3229,
+    "gn:modification_date":"2014-01-15",
+    "gn:name":"Mah Mandar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0647 \u0645\u0646\u062f\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0647\u064a\u0646\u062f\u0631"
+    ],
+    "name:und_x_variant":[
+        "Mah\u012bndar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6654647
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a71f2738b18ff0178b7d61f5a1746ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720357,
+            "locality_id":1193255909,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1193255909,
+    "wof:lastmodified":1537647239,
+    "wof:name":"Mah Mandar",
+    "wof:parent_id":1108720357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.3229,
+    27.335,
+    57.3229,
+    27.335
+],
+  "geometry": {"coordinates":[57.3229,27.335],"type":"Point"}
+}

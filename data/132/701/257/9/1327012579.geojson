@@ -1,0 +1,67 @@
+{
+  "id": 1327012579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.4,32.73333,48.4,32.73333",
+    "geom:latitude":32.73333,
+    "geom:longitude":48.4,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kabutaran",
+    "gn:country_code":"IR",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10,
+    "gn:latitude":32.73333,
+    "gn:longitude":48.4,
+    "gn:modification_date":"1999-05-03",
+    "gn:name":"Kab\u016btar\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"302dc21e8f7e8018a1f9224c08d05c01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719811,
+            "locality_id":1327012579,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1327012579,
+    "wof:lastmodified":1536789532,
+    "wof:name":"Kabutaran",
+    "wof:parent_id":1108719811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.4,
+    32.73333,
+    48.4,
+    32.73333
+],
+  "geometry": {"coordinates":[48.4,32.73333],"type":"Point"}
+}

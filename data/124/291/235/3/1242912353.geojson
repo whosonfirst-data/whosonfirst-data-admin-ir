@@ -1,0 +1,77 @@
+{
+  "id": 1242912353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.94693,36.75567,48.94693,36.75567",
+    "geom:latitude":36.75567,
+    "geom:longitude":48.94693,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Shendestan",
+    "gn:country_code":"IR",
+    "gn:dem":1449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":115246,
+    "gn:latitude":36.75567,
+    "gn:longitude":48.94693,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Shendest\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0634\u0646\u062f\u0633\u062a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Shendest\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Shindist\u0101n",
+        "Shandestan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672361,
+        1108720483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":115246
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"248fdd4373c47a8b86cad19ea2b925a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720483,
+            "locality_id":1242912353,
+            "region_id":85672361
+        }
+    ],
+    "wof:id":1242912353,
+    "wof:lastmodified":1537643343,
+    "wof:name":"Shendestan",
+    "wof:parent_id":1108720483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.94693,
+    36.75567,
+    48.94693,
+    36.75567
+],
+  "geometry": {"coordinates":[48.94693,36.75567],"type":"Point"}
+}

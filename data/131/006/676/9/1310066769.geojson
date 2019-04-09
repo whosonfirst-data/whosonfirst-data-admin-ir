@@ -1,0 +1,73 @@
+{
+  "id": 1310066769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.59508,27.74828,58.59508,27.74828",
+    "geom:latitude":27.74828,
+    "geom:longitude":58.59508,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Shahidabad",
+    "gn:country_code":"IR",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9017560,
+    "gn:latitude":27.74828,
+    "gn:longitude":58.59508,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Shah\u012bd\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u064a\u062f \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Shah\u012bd\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9017560
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"691d50733d03969988a62ab3c8acbda3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720363,
+            "locality_id":1310066769,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1310066769,
+    "wof:lastmodified":1537648619,
+    "wof:name":"Shahidabad",
+    "wof:parent_id":1108720363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.59508,
+    27.74828,
+    58.59508,
+    27.74828
+],
+  "geometry": {"coordinates":[58.59508,27.74828],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226382793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.98255,36.13134,52.98255,36.13134",
+    "geom:latitude":36.13134,
+    "geom:longitude":52.98255,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Yarneh",
+    "gn:country_code":"IR",
+    "gn:dem":872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11191,
+    "gn:latitude":36.13134,
+    "gn:longitude":52.98255,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Y\u0101rneh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u064a\u0648\u0631\u0646\u0650\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Y\u016brneh",
+        "Y\u0101rneh",
+        "\u06cc\u0627\u0631\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11191
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4596d95f203483e4d5cee94f46eeaa97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720405,
+            "locality_id":1226382793,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1226382793,
+    "wof:lastmodified":1537640614,
+    "wof:name":"Yarneh",
+    "wof:parent_id":1108720405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.98255,
+    36.13134,
+    52.98255,
+    36.13134
+],
+  "geometry": {"coordinates":[52.98255,36.13134],"type":"Point"}
+}

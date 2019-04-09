@@ -1,0 +1,76 @@
+{
+  "id": 1243362511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.23209,30.92359,51.23209,30.92359",
+    "geom:latitude":30.92359,
+    "geom:longitude":51.23209,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Shahi",
+    "gn:country_code":"IR",
+    "gn:dem":2003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7490872,
+    "gn:latitude":30.92359,
+    "gn:longitude":51.23209,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Shah\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Shah\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u0647\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0634\u0647\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108719965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7490872
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4bd1782a09bb8c51410e92800df50e8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719965,
+            "locality_id":1243362511,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1243362511,
+    "wof:lastmodified":1537648264,
+    "wof:name":"Shahi",
+    "wof:parent_id":1108719965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.23209,
+    30.92359,
+    51.23209,
+    30.92359
+],
+  "geometry": {"coordinates":[51.23209,30.92359],"type":"Point"}
+}

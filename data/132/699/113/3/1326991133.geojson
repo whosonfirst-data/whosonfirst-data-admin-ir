@@ -1,0 +1,79 @@
+{
+  "id": 1326991133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.91223,29.63895,57.91223,29.63895",
+    "geom:latitude":29.63895,
+    "geom:longitude":57.91223,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Hormak",
+    "gn:country_code":"IR",
+    "gn:dem":1361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":131215,
+    "gn:latitude":29.63895,
+    "gn:longitude":57.91223,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"\u1e28ormak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u1e28ormak"
+    ],
+    "name:fas_x_variant":[
+        "\u062d\u0631\u0645\u06a9",
+        "Horm\u016bk"
+    ],
+    "name:und_x_variant":[
+        "Horm\u016bk",
+        "Hormak",
+        "\u062d\u0631\u0645\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":131215
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2f8a13a9e2cba89b5a211e7538d5e002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720115,
+            "locality_id":1326991133,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1326991133,
+    "wof:lastmodified":1537644943,
+    "wof:name":"Hormak",
+    "wof:parent_id":1108720115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.91223000000001,
+    29.63895,
+    57.91223000000001,
+    29.63895
+],
+  "geometry": {"coordinates":[57.91223000000001,29.63895],"type":"Point"}
+}

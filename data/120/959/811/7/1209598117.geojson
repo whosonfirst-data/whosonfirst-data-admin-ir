@@ -1,0 +1,68 @@
+{
+  "id": 1209598117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.85417,30.8775,49.85417,30.8775",
+    "geom:latitude":30.8775,
+    "geom:longitude":49.85417,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Sulaki",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":113869,
+    "gn:latitude":30.8775,
+    "gn:longitude":49.85417,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u016blak\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "S\u016blak\u012b"
+    ],
+    "name:und_x_variant":[
+        "Sowlak\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":113869
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7422781f9388a0f566a203e30feb73ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209598117
+        }
+    ],
+    "wof:id":1209598117,
+    "wof:lastmodified":1537643229,
+    "wof:name":"Sulaki",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.85417,
+    30.8775,
+    49.85417,
+    30.8775
+],
+  "geometry": {"coordinates":[49.85417,30.8775],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1242638413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.16715,31.50927,56.16715,31.50927",
+    "geom:latitude":31.50927,
+    "geom:longitude":56.16715,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Sablu'iyeh",
+    "gn:country_code":"IR",
+    "gn:dem":2298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":118090,
+    "gn:latitude":31.50927,
+    "gn:longitude":56.16715,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Sabl\u016b\u2019\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0628\u0644\u0648\u064a\u064a\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u062b\u0628\u0644\u0648\u0626\u06cc\u0647",
+        "Sabl\u016b\u2019\u012byeh",
+        "S\u0304abl\u016b\u2019\u012byeh",
+        "S\u0304ebl\u016b\u2019\u012byeh"
+    ],
+    "name:und_x_variant":[
+        "S\u0304ebl\u016b\u2019\u012byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":118090
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"22562f05c743dd75feed4eaf71aae42a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720155,
+            "locality_id":1242638413,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1242638413,
+    "wof:lastmodified":1537643602,
+    "wof:name":"Sablu'iyeh",
+    "wof:parent_id":1108720155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.16715,
+    31.50927,
+    56.16715,
+    31.50927
+],
+  "geometry": {"coordinates":[56.16715,31.50927],"type":"Point"}
+}

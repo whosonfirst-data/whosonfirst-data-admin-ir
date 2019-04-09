@@ -1,0 +1,77 @@
+{
+  "id": 1326998621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.2327,33.3335,47.2327,33.3335",
+    "geom:latitude":33.3335,
+    "geom:longitude":47.2327,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Banhar",
+    "gn:country_code":"IR",
+    "gn:dem":875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6719906,
+    "gn:latitude":33.3335,
+    "gn:longitude":47.2327,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Banhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631 \u062a\u0644\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0646\u0647\u0631"
+    ],
+    "name:und_x_variant":[
+        "Sar Taleh",
+        "Banhar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6719906
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c4967c2100a1db0123c8e02278c65baf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720169,
+            "locality_id":1326998621,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1326998621,
+    "wof:lastmodified":1537647486,
+    "wof:name":"Banhar",
+    "wof:parent_id":1108720169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.2327,
+    33.3335,
+    47.2327,
+    33.3335
+],
+  "geometry": {"coordinates":[47.2327,33.3335],"type":"Point"}
+}

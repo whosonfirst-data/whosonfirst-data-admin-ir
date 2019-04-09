@@ -1,0 +1,73 @@
+{
+  "id": 1259797309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.773,39.0816,44.773,39.0816",
+    "geom:latitude":39.0816,
+    "geom:longitude":44.773,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Arpalikh",
+    "gn:country_code":"IR",
+    "gn:dem":1751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":14188,
+    "gn:latitude":39.0816,
+    "gn:longitude":44.773,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u0100rp\u0101l\u012bkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u067e\u0627\u0644\u06cc\u062e"
+    ],
+    "name:fas_x_variant":[
+        "\u0100rp\u0101l\u012bkh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":14188
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1dfd0947d94164a4dcb4bab6b1d28a1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720203,
+            "locality_id":1259797309,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1259797309,
+    "wof:lastmodified":1537640790,
+    "wof:name":"Arpalikh",
+    "wof:parent_id":1108720203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.773,
+    39.0816,
+    44.773,
+    39.0816
+],
+  "geometry": {"coordinates":[44.773,39.0816],"type":"Point"}
+}

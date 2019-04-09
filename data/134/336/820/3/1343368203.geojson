@@ -1,0 +1,76 @@
+{
+  "id": 1343368203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.5567,38.0343,44.5567,38.0343",
+    "geom:latitude":38.0343,
+    "geom:longitude":44.5567,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Elyasi",
+    "gn:country_code":"IR",
+    "gn:dem":1644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":40564,
+    "gn:latitude":38.0343,
+    "gn:longitude":44.5567,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ely\u0101s\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Ely\u0101s\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0644\u06cc\u0627\u0633\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0627\u0644\u06cc\u0627\u0633\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":40564
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"67f6956ff8f8c56df826e865a52a8a29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720375,
+            "locality_id":1343368203,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1343368203,
+    "wof:lastmodified":1537642282,
+    "wof:name":"Elyasi",
+    "wof:parent_id":1108720375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.5567,
+    38.0343,
+    44.5567,
+    38.0343
+],
+  "geometry": {"coordinates":[44.5567,38.0343],"type":"Point"}
+}

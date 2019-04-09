@@ -1,0 +1,80 @@
+{
+  "id": 1225834433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.3416,34.8756,48.3416,34.8756",
+    "geom:latitude":34.8756,
+    "geom:longitude":48.3416,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Zagheh",
+    "gn:country_code":"IR",
+    "gn:dem":1859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":111634,
+    "gn:latitude":34.8756,
+    "gn:longitude":48.3416,
+    "gn:modification_date":"2018-06-28",
+    "gn:name":"Z\u0101gheh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u063a\u0650\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0632\u0627\u063a\u064e",
+        "Z\u0101gheh",
+        "\u0632\u0627\u063a\u0647"
+    ],
+    "name:und_x_variant":[
+        "Z\u0101gha",
+        "\u0632\u0627\u063a\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108719857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":111634,
+        "wk:page":"Zagheh,_Bahar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"934d1e258f99d15e31a4e68160a9fbe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719857,
+            "locality_id":1225834433,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1225834433,
+    "wof:lastmodified":1537642992,
+    "wof:name":"Zagheh",
+    "wof:parent_id":1108719857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.3416,
+    34.8756,
+    48.3416,
+    34.8756
+],
+  "geometry": {"coordinates":[48.3416,34.8756],"type":"Point"}
+}

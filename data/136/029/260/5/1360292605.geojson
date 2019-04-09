@@ -1,0 +1,79 @@
+{
+  "id": 1360292605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.18508,32.33498,50.18508,32.33498",
+    "geom:latitude":32.33498,
+    "geom:longitude":50.18508,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Mar Borreh",
+    "gn:country_code":"IR",
+    "gn:dem":2309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":124842,
+    "gn:latitude":32.33498,
+    "gn:longitude":50.18508,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"M\u0101r Borreh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "M\u0101rbareh"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0627\u0631\u0628\u064e\u0631\u0650\u0647",
+        "M\u0101r Borreh",
+        "\u0645\u0627\u0631 \u0628\u0631\u0647"
+    ],
+    "name:und_x_variant":[
+        "M\u0101r Borreh",
+        "\u0645\u0627\u0631 \u0628\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672319,
+        1108720171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":124842
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fa5cedc7a81968f12626119688b82744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720171,
+            "locality_id":1360292605,
+            "region_id":85672319
+        }
+    ],
+    "wof:id":1360292605,
+    "wof:lastmodified":1537644291,
+    "wof:name":"Mar Borreh",
+    "wof:parent_id":1108720171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.18508,
+    32.33498,
+    50.18508,
+    32.33498
+],
+  "geometry": {"coordinates":[50.18508,32.33498],"type":"Point"}
+}

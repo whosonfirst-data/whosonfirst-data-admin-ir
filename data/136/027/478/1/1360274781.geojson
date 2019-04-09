@@ -1,0 +1,76 @@
+{
+  "id": 1360274781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.33018,34.56628,48.33018,34.56628",
+    "geom:latitude":34.56628,
+    "geom:longitude":48.33018,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Chalab",
+    "gn:country_code":"IR",
+    "gn:dem":1843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":139323,
+    "gn:latitude":34.56628,
+    "gn:longitude":48.33018,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ch\u0101l\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Ch\u0101l\u0101b"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u0627\u0644\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u0686\u0627\u0644\u0627\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":139323
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3b6df696d50e1588ec311419a230b069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720505,
+            "locality_id":1360274781,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1360274781,
+    "wof:lastmodified":1537645765,
+    "wof:name":"Chalab",
+    "wof:parent_id":1108720505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.33018,
+    34.56628,
+    48.33018,
+    34.56628
+],
+  "geometry": {"coordinates":[48.33018,34.56628],"type":"Point"}
+}

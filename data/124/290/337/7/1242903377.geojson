@@ -1,0 +1,74 @@
+{
+  "id": 1242903377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.03306,37.41284,59.03306,37.41284",
+    "geom:latitude":37.41284,
+    "geom:longitude":59.03306,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Sadat",
+    "gn:country_code":"IR",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":26028,
+    "gn:latitude":37.41284,
+    "gn:longitude":59.03306,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u0101d\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u062f\u0627\u062a"
+    ],
+    "name:fas_x_variant":[
+        "S\u0101d\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108719941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":26028,
+        "wk:page":"Sadat,_Razavi_Khorasan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9d307360286980ebeba1151050d4f29c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719941,
+            "locality_id":1242903377,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1242903377,
+    "wof:lastmodified":1537641367,
+    "wof:name":"Sadat",
+    "wof:parent_id":1108719941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.03306,
+    37.41284,
+    59.03306,
+    37.41284
+],
+  "geometry": {"coordinates":[59.03306,37.41284],"type":"Point"}
+}

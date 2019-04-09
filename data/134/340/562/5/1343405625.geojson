@@ -1,0 +1,73 @@
+{
+  "id": 1343405625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.51544,36.58204,52.51544,36.58204",
+    "geom:latitude":36.58204,
+    "geom:longitude":52.51544,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Ziar Kola",
+    "gn:country_code":"IR",
+    "gn:dem":-8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11185,
+    "gn:latitude":36.58204,
+    "gn:longitude":52.51544,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Z\u012b\u0101r Kol\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u064a\u0627\u0631 \u0643\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "Z\u012b\u0101r Kol\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11185
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f20e5fc90eb7eff3fe468cf5cad38a4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719807,
+            "locality_id":1343405625,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1343405625,
+    "wof:lastmodified":1537640614,
+    "wof:name":"Ziar Kola",
+    "wof:parent_id":1108719807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.51544000000001,
+    36.58204,
+    52.51544000000001,
+    36.58204
+],
+  "geometry": {"coordinates":[52.51544000000001,36.58204],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1226088587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.4372,30.3624,55.4372,30.3624",
+    "geom:latitude":30.3624,
+    "geom:longitude":55.4372,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Estahu'iyeh",
+    "gn:country_code":"IR",
+    "gn:dem":2234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":135093,
+    "gn:latitude":30.3624,
+    "gn:longitude":55.4372,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"Est\u0101h\u016b\u2019\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0647\u0648\u0626\u06cc\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Est\u0101h\u016b\u2019\u012byeh",
+        "\u0627\u0633\u0637\u0627\u0647\u0648\u064a\u06cc\u0647"
+    ],
+    "name:und_x_variant":[
+        "Ost\u0101h\u016b\u2019\u012byeh",
+        "Est\u0101kh\u016b\u2019\u012byeh",
+        "Es\u0163\u0101h\u016b\u2019\u012byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":135093
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e989763f3cedc4838d9736380ea0a181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720329,
+            "locality_id":1226088587,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1226088587,
+    "wof:lastmodified":1537645338,
+    "wof:name":"Estahu'iyeh",
+    "wof:parent_id":1108720329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.4372,
+    30.3624,
+    55.4372,
+    30.3624
+],
+  "geometry": {"coordinates":[55.4372,30.3624],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1210002717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.3826,34.3242,47.3826,34.3242",
+    "geom:latitude":34.3242,
+    "geom:longitude":47.3826,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Deh-e Kabud",
+    "gn:country_code":"IR",
+    "gn:dem":1289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":23977,
+    "gn:latitude":34.3242,
+    "gn:longitude":47.3826,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Deh-e Kab\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647 \u06a9\u0628\u0648\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Deh Kab\u016bd",
+        "Deh-e Kab\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":23977
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3b753491be969c71b0eb01abf92d0eb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720117,
+            "locality_id":1210002717,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1210002717,
+    "wof:lastmodified":1537641249,
+    "wof:name":"Deh-e Kabud",
+    "wof:parent_id":1108720117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.3826,
+    34.3242,
+    47.3826,
+    34.3242
+],
+  "geometry": {"coordinates":[47.3826,34.3242],"type":"Point"}
+}

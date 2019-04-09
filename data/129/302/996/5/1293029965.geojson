@@ -1,0 +1,74 @@
+{
+  "id": 1293029965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.80877,37.17935,58.80877,37.17935",
+    "geom:latitude":37.17935,
+    "geom:longitude":58.80877,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Kordkanlu",
+    "gn:country_code":"IR",
+    "gn:dem":1582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":26098,
+    "gn:latitude":37.17935,
+    "gn:longitude":58.80877,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kordk\u0101nl\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u062f\u06a9\u0627\u0646\u0644\u0648"
+    ],
+    "name:fas_x_variant":[
+        "Kordk\u0101nl\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":26098,
+        "wk:page":"Kordkanlu"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d014597e27d5fe3d3d0cd60a7a1af86d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720327,
+            "locality_id":1293029965,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1293029965,
+    "wof:lastmodified":1537641371,
+    "wof:name":"Kordkanlu",
+    "wof:parent_id":1108720327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.80877,
+    37.17935,
+    58.80877,
+    37.17935
+],
+  "geometry": {"coordinates":[58.80877,37.17935],"type":"Point"}
+}

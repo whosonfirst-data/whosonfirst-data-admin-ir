@@ -1,0 +1,79 @@
+{
+  "id": 1226128521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.1242,34.2429,47.1242,34.2429",
+    "geom:latitude":34.2429,
+    "geom:longitude":47.1242,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Bala Gabri",
+    "gn:country_code":"IR",
+    "gn:dem":1539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":141826,
+    "gn:latitude":34.2429,
+    "gn:longitude":47.1242,
+    "gn:modification_date":"2015-11-07",
+    "gn:name":"B\u0101l\u0101 Gabr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0644\u0627 \u06af\u06cc\u0631\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "B\u0101l\u0101 Gabr\u012b",
+        "B\u0101l\u0101 G\u012br\u012b",
+        "\u0628\u0627\u0644\u0627 \u06af\u0628\u0631\u06cc"
+    ],
+    "name:und_x_variant":[
+        "B\u0101l\u0101 Kobr\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":141826,
+        "wk:page":"Bala_Gabri"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dc299775320b6a7e1fe796ad6c649e53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720117,
+            "locality_id":1226128521,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1226128521,
+    "wof:lastmodified":1537646013,
+    "wof:name":"Bala Gabri",
+    "wof:parent_id":1108720117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.1242,
+    34.2429,
+    47.1242,
+    34.2429
+],
+  "geometry": {"coordinates":[47.1242,34.2429],"type":"Point"}
+}

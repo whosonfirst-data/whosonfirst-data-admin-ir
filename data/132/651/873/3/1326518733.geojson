@@ -1,0 +1,73 @@
+{
+  "id": 1326518733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.30587,33.20434,47.30587,33.20434",
+    "geom:latitude":33.20434,
+    "geom:longitude":47.30587,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Qal`eh Tasmeh",
+    "gn:country_code":"IR",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":27259,
+    "gn:latitude":33.20434,
+    "gn:longitude":47.30587,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Qal\u2018eh Tasmeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0639\u0647 \u062a\u0633\u0645\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Qal\u2018eh Tasmeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108719947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":27259
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6f7ea2e9f73d9b9fced0dacfe1d884a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719947,
+            "locality_id":1326518733,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1326518733,
+    "wof:lastmodified":1537641455,
+    "wof:name":"Qal`eh Tasmeh",
+    "wof:parent_id":1108719947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.30587,
+    33.20434,
+    47.30587,
+    33.20434
+],
+  "geometry": {"coordinates":[47.30587,33.20434],"type":"Point"}
+}

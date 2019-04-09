@@ -1,0 +1,78 @@
+{
+  "id": 1343507861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.84949,31.25231,56.84949,31.25231",
+    "geom:latitude":31.25231,
+    "geom:longitude":56.84949,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Dehuj",
+    "gn:country_code":"IR",
+    "gn:dem":1157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":136453,
+    "gn:latitude":31.25231,
+    "gn:longitude":56.84949,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Deh\u016bj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647\u0648\u062c"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0650\u0647 \u0647\u0648\u062c",
+        "Deh\u016bj",
+        "Deh H\u016bj"
+    ],
+    "name:und_x_variant":[
+        "Deh H\u016bj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":136453
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"751e803f6a34313142066e75de1a5882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720347,
+            "locality_id":1343507861,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1343507861,
+    "wof:lastmodified":1537645472,
+    "wof:name":"Dehuj",
+    "wof:parent_id":1108720347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.84949,
+    31.25231,
+    56.84949,
+    31.25231
+],
+  "geometry": {"coordinates":[56.84949,31.25231],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1243345459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.2624,35.2526,46.2624,35.2526",
+    "geom:latitude":35.2526,
+    "geom:longitude":46.2624,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Uraman Takht",
+    "gn:country_code":"IR",
+    "gn:dem":1445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":121741,
+    "gn:latitude":35.2526,
+    "gn:longitude":46.2624,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"\u016ar\u0101m\u0101n Takht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0631\u0627\u0645\u0627\u0646 \u062a\u062e\u062a"
+    ],
+    "name:fas_x_variant":[
+        "\u016ar\u0101m\u0101n Takht"
+    ],
+    "name:und_x_variant":[
+        "Owr\u0101m\u0101n Shahr",
+        "\u016ar\u0101m\u0101n",
+        "Owr\u0101m\u0101n",
+        "Shehr-i-Avr\u014dman",
+        "Ooraman Takht",
+        "Avrom\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":121741,
+        "wk:page":"Uraman_Takht"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a11684182b334a3cac1f04ca850bc3b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720403,
+            "locality_id":1243345459,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1243345459,
+    "wof:lastmodified":1537643982,
+    "wof:name":"Uraman Takht",
+    "wof:parent_id":1108720403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.2624,
+    35.2526,
+    46.2624,
+    35.2526
+],
+  "geometry": {"coordinates":[46.2624,35.2526],"type":"Point"}
+}

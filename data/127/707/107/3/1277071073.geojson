@@ -1,0 +1,73 @@
+{
+  "id": 1277071073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.0081,28.9721,54.0081,28.9721",
+    "geom:latitude":28.9721,
+    "geom:longitude":54.0081,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Bast-e Baleki",
+    "gn:country_code":"IR",
+    "gn:dem":1437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6927313,
+    "gn:latitude":28.9721,
+    "gn:longitude":54.0081,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Bas\u0163-e Balek\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0628\u0633\u0637 \u0628\u0644\u06a9\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Bas\u0163-e Balek\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6927313
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"38df3eeba3ba60b2964e08ccbc34feea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720003,
+            "locality_id":1277071073,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1277071073,
+    "wof:lastmodified":1537647749,
+    "wof:name":"Bast-e Baleki",
+    "wof:parent_id":1108720003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.0081,
+    28.9721,
+    54.0081,
+    28.9721
+],
+  "geometry": {"coordinates":[54.0081,28.9721],"type":"Point"}
+}

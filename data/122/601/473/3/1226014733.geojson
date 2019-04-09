@@ -1,0 +1,84 @@
+{
+  "id": 1226014733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.87027,31.16246,48.87027,31.16246",
+    "geom:latitude":31.16246,
+    "geom:longitude":48.87027,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Barborgeh",
+    "gn:country_code":"IR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":140398,
+    "gn:latitude":31.16246,
+    "gn:longitude":48.87027,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Barborgeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Beg\u2018\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u06af\u0639\u0627\u0646",
+        "\u0628\u0631\u0628\u0631\u06af\u0647"
+    ],
+    "name:und_x_variant":[
+        "Bog\u2018\u0101n",
+        "Beg\u2019an",
+        "\u0628\u06af\u0639\u0627\u0646",
+        "Barborgeh",
+        "Berb\u0101geh",
+        "Barb\u016bqeh",
+        "Barb\u016bgeh",
+        "\u0628\u0631\u0628\u0648\u06af\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140398
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5e1a706a6d8ecfa4b90b4650c17dc937",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719793,
+            "locality_id":1226014733,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1226014733,
+    "wof:lastmodified":1537645873,
+    "wof:name":"Barborgeh",
+    "wof:parent_id":1108719793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.87027,
+    31.16246,
+    48.87027,
+    31.16246
+],
+  "geometry": {"coordinates":[48.87027,31.16246],"type":"Point"}
+}

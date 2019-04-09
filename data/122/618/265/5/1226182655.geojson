@@ -1,0 +1,76 @@
+{
+  "id": 1226182655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.63306,36.45789,52.63306,36.45789",
+    "geom:latitude":36.45789,
+    "geom:longitude":52.63306,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Duneh Sar",
+    "gn:country_code":"IR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":385101,
+    "gn:latitude":36.45789,
+    "gn:longitude":52.63306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"D\u016bneh Sar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0646\u0647 \u0633\u0631"
+    ],
+    "name:fas_x_variant":[
+        "D\u016bneh Sar"
+    ],
+    "name:und_x_variant":[
+        "\u062f\u0648\u0646\u0650\u0647 \u0633\u064e\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385101
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"32d15025254692c438bb60b2b9a4ac18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719845,
+            "locality_id":1226182655,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1226182655,
+    "wof:lastmodified":1537646384,
+    "wof:name":"Duneh Sar",
+    "wof:parent_id":1108719845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.63306,
+    36.45789,
+    52.63306,
+    36.45789
+],
+  "geometry": {"coordinates":[52.63306,36.45789],"type":"Point"}
+}

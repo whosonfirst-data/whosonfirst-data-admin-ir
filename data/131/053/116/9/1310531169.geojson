@@ -1,0 +1,83 @@
+{
+  "id": 1310531169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.19097,32.79684,59.19097,32.79684",
+    "geom:latitude":32.79684,
+    "geom:longitude":59.19097,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Nasrabad",
+    "gn:country_code":"IR",
+    "gn:dem":2042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":122518,
+    "gn:latitude":32.79684,
+    "gn:longitude":59.19097,
+    "gn:modification_date":"2015-08-06",
+    "gn:name":"Na\u015fr\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Na\u015fr\u0101b\u0101d"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0635\u0631 \u0622\u0628\u0627\u062f",
+        "N\u0101\u015fer\u0101b\u0101d",
+        "\u0633\u0645\u0648"
+    ],
+    "name:und_x_variant":[
+        "Nasr Abad Shahabad",
+        "N\u0101\u015fer\u0101b\u0101d",
+        "\u0646\u0635\u0631 \u0622\u0628\u0627\u062f",
+        "S\u012bmu",
+        "Sam\u016b",
+        "Samoo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108719895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":122518
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dbd65cec2e249bd2d69345626db193c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719895,
+            "locality_id":1310531169,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1310531169,
+    "wof:lastmodified":1537644067,
+    "wof:name":"Nasrabad",
+    "wof:parent_id":1108719895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.19096999999999,
+    32.79684,
+    59.19096999999999,
+    32.79684
+],
+  "geometry": {"coordinates":[59.19096999999999,32.79684],"type":"Point"}
+}

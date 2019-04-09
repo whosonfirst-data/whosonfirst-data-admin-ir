@@ -1,0 +1,74 @@
+{
+  "id": 1193246999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.49289,33.49922,49.49289,33.49922",
+    "geom:latitude":33.49922,
+    "geom:longitude":49.49289,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Tombak",
+    "gn:country_code":"IR",
+    "gn:dem":1880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":31973,
+    "gn:latitude":33.49922,
+    "gn:longitude":49.49289,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Tombak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0645\u0628\u06a9"
+    ],
+    "name:und_x_variant":[
+        "Tanbak",
+        "Tombak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":31973
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c012a36fbd1c985c71f0168d05ee81b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719843,
+            "locality_id":1193246999,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1193246999,
+    "wof:lastmodified":1537641747,
+    "wof:name":"Tombak",
+    "wof:parent_id":1108719843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.49289,
+    33.49922,
+    49.49289,
+    33.49922
+],
+  "geometry": {"coordinates":[49.49289,33.49922],"type":"Point"}
+}

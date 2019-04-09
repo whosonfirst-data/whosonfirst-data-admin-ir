@@ -1,0 +1,71 @@
+{
+  "id": 1209303151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.4358,33.7865,47.4358,33.7865",
+    "geom:latitude":33.7865,
+    "geom:longitude":47.4358,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Tirandazgeh",
+    "gn:country_code":"IR",
+    "gn:dem":1069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6720439,
+    "gn:latitude":33.7865,
+    "gn:longitude":47.4358,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"T\u012br\u0101nd\u0101zgeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0644\u0642\u0646\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28alqan\u0101",
+        "\u062a\u06cc\u0631\u0627\u0646\u062f\u0627\u0632\u06af\u0647"
+    ],
+    "name:und_x_variant":[
+        "T\u012br\u0101nd\u0101zgeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6720439
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"70703d9a9b6af36aaf4a979fa7e5ae1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209303151
+        }
+    ],
+    "wof:id":1209303151,
+    "wof:lastmodified":1537647496,
+    "wof:name":"Tirandazgeh",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.4358,
+    33.7865,
+    47.4358,
+    33.7865
+],
+  "geometry": {"coordinates":[47.4358,33.7865],"type":"Point"}
+}

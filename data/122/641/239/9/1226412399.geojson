@@ -1,0 +1,78 @@
+{
+  "id": 1226412399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.3237,32.1825,49.3237,32.1825",
+    "geom:latitude":32.1825,
+    "geom:longitude":49.3237,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Dah Hajji",
+    "gn:country_code":"IR",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7318597,
+    "gn:latitude":32.1825,
+    "gn:longitude":49.3237,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Dah \u1e28\u0101jj\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Ch\u012btak-e K\u016bchak"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u06cc\u062a\u06a9 \u06a9\u0648\u0686\u06a9",
+        "\u062f\u0647 \u062d\u0627\u062c\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0686\u06cc\u062a\u06a9 \u06a9\u0648\u0686\u06a9",
+        "Dah \u1e28\u0101jj\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7318597
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c35ab6c75014acd875eb9fa54578d73e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720229,
+            "locality_id":1226412399,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1226412399,
+    "wof:lastmodified":1537648100,
+    "wof:name":"Dah Hajji",
+    "wof:parent_id":1108720229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.3237,
+    32.1825,
+    49.3237,
+    32.1825
+],
+  "geometry": {"coordinates":[49.3237,32.1825],"type":"Point"}
+}

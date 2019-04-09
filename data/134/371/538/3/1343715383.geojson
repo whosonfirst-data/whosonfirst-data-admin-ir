@@ -1,0 +1,74 @@
+{
+  "id": 1343715383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.8783,36.34094,52.8783,36.34094",
+    "geom:latitude":36.34094,
+    "geom:longitude":52.8783,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Andar Koli",
+    "gn:country_code":"IR",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11089,
+    "gn:latitude":36.34094,
+    "gn:longitude":52.8783,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"And\u0101r Kol\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u062f\u0627\u0631 \u0643\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "And\u0101r Kol\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11089,
+        "wk:page":"Andar_Koli"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e572768d7749fef529d0f1b9be9be6c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720405,
+            "locality_id":1343715383,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1343715383,
+    "wof:lastmodified":1537640608,
+    "wof:name":"Andar Koli",
+    "wof:parent_id":1108720405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.8783,
+    36.34094,
+    52.8783,
+    36.34094
+],
+  "geometry": {"coordinates":[52.8783,36.34094],"type":"Point"}
+}

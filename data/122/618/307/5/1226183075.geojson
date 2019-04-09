@@ -1,0 +1,77 @@
+{
+  "id": 1226183075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.94338,34.91999,49.94338,34.91999",
+    "geom:latitude":34.91999,
+    "geom:longitude":49.94338,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Vaymand",
+    "gn:country_code":"IR",
+    "gn:dem":1658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112086,
+    "gn:latitude":34.91999,
+    "gn:longitude":49.94338,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"V\u0101ymand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u06cc\u0645\u0646\u062f"
+    ],
+    "name:fas_x_variant":[
+        "V\u0101ymand"
+    ],
+    "name:und_x_variant":[
+        "Wem\u0101nd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112086,
+        "wk:page":"Vaymand"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"30972870373b69cf534a0beb31711de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720473,
+            "locality_id":1226183075,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1226183075,
+    "wof:lastmodified":1537643046,
+    "wof:name":"Vaymand",
+    "wof:parent_id":1108720473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.94338,
+    34.91999000000001,
+    49.94338,
+    34.91999000000001
+],
+  "geometry": {"coordinates":[49.94338,34.91999000000001],"type":"Point"}
+}

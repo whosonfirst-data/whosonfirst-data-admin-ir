@@ -1,0 +1,73 @@
+{
+  "id": 1276477377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.39703,31.00666,61.39703,31.00666",
+    "geom:latitude":31.00666,
+    "geom:longitude":61.39703,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Molla Shir",
+    "gn:country_code":"IR",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6650897,
+    "gn:latitude":31.00666,
+    "gn:longitude":61.39703,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Moll\u0101 Sh\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0627 \u0634\u06cc\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Moll\u0101 Sh\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6650897
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ab4b5fcdab58b9303b11ec02a5b945f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720513,
+            "locality_id":1276477377,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1276477377,
+    "wof:lastmodified":1537647199,
+    "wof:name":"Molla Shir",
+    "wof:parent_id":1108720513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.39703000000001,
+    31.00666,
+    61.39703000000001,
+    31.00666
+],
+  "geometry": {"coordinates":[61.39703000000001,31.00666],"type":"Point"}
+}

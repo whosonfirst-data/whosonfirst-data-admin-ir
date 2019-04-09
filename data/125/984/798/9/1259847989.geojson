@@ -1,0 +1,74 @@
+{
+  "id": 1259847989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.58333,34.0,47.58333,34.0",
+    "geom:latitude":34.0,
+    "geom:longitude":47.58333,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Almaskhan",
+    "gn:country_code":"IR",
+    "gn:dem":1585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":25046,
+    "gn:latitude":34.0,
+    "gn:longitude":47.58333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Alm\u0101skh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u064e\u0644\u0645\u0627\u0633\u062e\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Alm\u0101skh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":25046,
+        "wk:page":"Almaskhan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5e8d78f6146ae987b05c2f5ec9589f2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719959,
+            "locality_id":1259847989,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1259847989,
+    "wof:lastmodified":1537641307,
+    "wof:name":"Almaskhan",
+    "wof:parent_id":1108719959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.58333,
+    34.0,
+    47.58333,
+    34.0
+],
+  "geometry": {"coordinates":[47.58333,34.0],"type":"Point"}
+}

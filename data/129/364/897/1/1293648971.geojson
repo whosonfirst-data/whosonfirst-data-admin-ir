@@ -1,0 +1,74 @@
+{
+  "id": 1293648971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.5607,38.9742,47.5607,38.9742",
+    "geom:latitude":38.9742,
+    "geom:longitude":47.5607,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Bal Daghi",
+    "gn:country_code":"IR",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":13669,
+    "gn:latitude":38.9742,
+    "gn:longitude":47.5607,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"B\u0101l D\u0101gh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0644 \u062f\u0627\u063a\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "B\u0101l D\u0101gh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108719791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13669,
+        "wk:page":"Bal_Daghi"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2f42093702e7037b280c7c05efa6e576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719791,
+            "locality_id":1293648971,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1293648971,
+    "wof:lastmodified":1537640736,
+    "wof:name":"Bal Daghi",
+    "wof:parent_id":1108719791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.5607,
+    38.9742,
+    47.5607,
+    38.9742
+],
+  "geometry": {"coordinates":[47.5607,38.9742],"type":"Point"}
+}

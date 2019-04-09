@@ -1,0 +1,80 @@
+{
+  "id": 1226489569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.26738,33.43486,50.26738,33.43486",
+    "geom:latitude":33.43486,
+    "geom:longitude":50.26738,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ablulan",
+    "gn:country_code":"IR",
+    "gn:dem":1829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":144981,
+    "gn:latitude":33.43486,
+    "gn:longitude":50.26738,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Abl\u016bl\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0100bl\u016bl\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "Abl\u016bl\u0101n",
+        "\u0627\u0628\u0644\u0648\u0644\u0627\u0646",
+        "\u0645\u062d\u0644\u0647 \u0627\u0628\u0644\u0648\u0644\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Abloolan",
+        "\u0627\u0628\u0644\u0648\u0644\u0627\u0646",
+        "Ma\u1e29alleh-ye Abl\u016bl\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":144981
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"00504c609dbd73ede9322de2193a6c7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720033,
+            "locality_id":1226489569,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1226489569,
+    "wof:lastmodified":1537646321,
+    "wof:name":"Ablulan",
+    "wof:parent_id":1108720033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.26738,
+    33.43486,
+    50.26738,
+    33.43486
+],
+  "geometry": {"coordinates":[50.26738,33.43486],"type":"Point"}
+}

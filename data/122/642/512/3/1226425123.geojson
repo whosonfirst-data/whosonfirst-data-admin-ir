@@ -1,0 +1,77 @@
+{
+  "id": 1226425123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.31935,32.77245,48.31935,32.77245",
+    "geom:latitude":32.77245,
+    "geom:longitude":48.31935,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Parya Takab",
+    "gn:country_code":"IR",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11020440,
+    "gn:latitude":32.77245,
+    "gn:longitude":48.31935,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"P\u0101ry\u0101 Tak\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0631\u06cc\u0627 \u062a\u06a9\u0627\u0628"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u0627\u0647 \u0631\u0627\u0647 \u06af\u067e"
+    ],
+    "name:und_x_variant":[
+        "P\u0101ry\u0101 Tak\u0101b",
+        "P\u0101h R\u0101h Gap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11020440
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a883efe907985c1befb25b3865f247c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719811,
+            "locality_id":1226425123,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1226425123,
+    "wof:lastmodified":1537648694,
+    "wof:name":"Parya Takab",
+    "wof:parent_id":1108719811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.31935,
+    32.77245,
+    48.31935,
+    32.77245
+],
+  "geometry": {"coordinates":[48.31935,32.77245],"type":"Point"}
+}

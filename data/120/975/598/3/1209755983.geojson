@@ -1,0 +1,76 @@
+{
+  "id": 1209755983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.50935,36.42156,52.50935,36.42156",
+    "geom:latitude":36.42156,
+    "geom:longitude":52.50935,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Rekaj Kola",
+    "gn:country_code":"IR",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11325,
+    "gn:latitude":36.42156,
+    "gn:longitude":52.50935,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Rek\u0101j Kol\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u0643\u0627\u062c \u0643\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "Rek\u0101j Kol\u0101"
+    ],
+    "name:und_x_variant":[
+        "\u0631\u0650\u0643\u0627\u062c \u0643\u064f\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11325
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ff0c867b5933ec5edf866cb17901bdc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719845,
+            "locality_id":1209755983,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1209755983,
+    "wof:lastmodified":1537640624,
+    "wof:name":"Rekaj Kola",
+    "wof:parent_id":1108719845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.50935,
+    36.42156,
+    52.50935,
+    36.42156
+],
+  "geometry": {"coordinates":[52.50935,36.42156],"type":"Point"}
+}

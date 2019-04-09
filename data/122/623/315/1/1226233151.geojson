@@ -1,0 +1,80 @@
+{
+  "id": 1226233151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.1203,30.5774,53.1203,30.5774",
+    "geom:latitude":30.5774,
+    "geom:longitude":53.1203,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Mahalleh-ye Khorrami Safashahr",
+    "gn:country_code":"IR",
+    "gn:dem":2211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":127326,
+    "gn:latitude":30.5774,
+    "gn:longitude":53.1203,
+    "gn:modification_date":"2014-09-30",
+    "gn:name":"Ma\u1e29alleh-ye Khorram\u012b \u015eaf\u0101shahr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0631\u0651\u0645\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Khorram\u012b",
+        "\u0645\u062d\u0644\u0647 \u062e\u0631\u0645\u06cc \u0635\u0641\u0627\u0634\u0647\u0631"
+    ],
+    "name:und_x_variant":[
+        "Khurrami",
+        "Khowrahm\u012b",
+        "Korram\u012b",
+        "Ma\u1e29alleh-ye Khorram\u012b \u015eaf\u0101shahr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":127326
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4c5012f08d5db2f1c01918fbb673d8cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720147,
+            "locality_id":1226233151,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1226233151,
+    "wof:lastmodified":1537644548,
+    "wof:name":"Mahalleh-ye Khorrami Safashahr",
+    "wof:parent_id":1108720147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.1203,
+    30.5774,
+    53.1203,
+    30.5774
+],
+  "geometry": {"coordinates":[53.1203,30.5774],"type":"Point"}
+}

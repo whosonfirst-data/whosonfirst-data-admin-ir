@@ -1,0 +1,76 @@
+{
+  "id": 1259553383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.02457,31.95764,50.02457,31.95764",
+    "geom:latitude":31.95764,
+    "geom:longitude":50.02457,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Biran",
+    "gn:country_code":"IR",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7566029,
+    "gn:latitude":31.95764,
+    "gn:longitude":50.02457,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"B\u012br\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "B\u012br\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u06cc\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0628\u06cc\u0631\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7566029
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1b7129fb98971771fc2540751f8046f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720067,
+            "locality_id":1259553383,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1259553383,
+    "wof:lastmodified":1537648359,
+    "wof:name":"Biran",
+    "wof:parent_id":1108720067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.02457,
+    31.95764,
+    50.02457,
+    31.95764
+],
+  "geometry": {"coordinates":[50.02457,31.95764],"type":"Point"}
+}

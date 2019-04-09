@@ -1,0 +1,75 @@
+{
+  "id": 1309888487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.635,30.735,48.635,30.735",
+    "geom:latitude":30.735,
+    "geom:longitude":48.635,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Abu Sholug",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":144819,
+    "gn:latitude":30.735,
+    "gn:longitude":48.635,
+    "gn:modification_date":"2010-08-09",
+    "gn:name":"Ab\u016b Shol\u016bg",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Ab\u016b Shol\u016bg"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b Chal\u0101k",
+        "Ab\u016b Shal\u016bk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":144819
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e4c59c7775024d17130de39f682a06aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720425,
+            "locality_id":1309888487,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1309888487,
+    "wof:lastmodified":1537646306,
+    "wof:name":"Abu Sholug",
+    "wof:parent_id":1108720425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.635,
+    30.735,
+    48.635,
+    30.735
+],
+  "geometry": {"coordinates":[48.635,30.735],"type":"Point"}
+}

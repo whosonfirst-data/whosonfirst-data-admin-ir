@@ -1,0 +1,75 @@
+{
+  "id": 1243524545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.0275,31.8975,50.0275,31.8975",
+    "geom:latitude":31.8975,
+    "geom:longitude":50.0275,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Pol-e Abdugh",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":120958,
+    "gn:latitude":31.8975,
+    "gn:longitude":50.0275,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Pol-e \u0100bd\u016bgh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Pol-e \u0100bd\u016bgh"
+    ],
+    "name:und_x_variant":[
+        "Pol \u0100bd\u016bgh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":120958,
+        "wk:page":"Pol-e_Abdugh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"79b30d4b1ab2b274e29ff6340e9740df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720067,
+            "locality_id":1243524545,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1243524545,
+    "wof:lastmodified":1537643907,
+    "wof:name":"Pol-e Abdugh",
+    "wof:parent_id":1108720067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.0275,
+    31.8975,
+    50.0275,
+    31.8975
+],
+  "geometry": {"coordinates":[50.0275,31.8975],"type":"Point"}
+}

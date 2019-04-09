@@ -1,0 +1,78 @@
+{
+  "id": 1243545331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.19562,27.51146,54.19562,27.51146",
+    "geom:latitude":27.51146,
+    "geom:longitude":54.19562,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Zarvan",
+    "gn:country_code":"IR",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":111222,
+    "gn:latitude":27.51146,
+    "gn:longitude":54.19562,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Zarv\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u0631\u0648\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Zarav\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Zarv\u0101n",
+        "Zarun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":111222,
+        "wk:page":"Zaravan,_Fars"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a7df4a9619678c00e650e183825fc7a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720185,
+            "locality_id":1243545331,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1243545331,
+    "wof:lastmodified":1537642957,
+    "wof:name":"Zarvan",
+    "wof:parent_id":1108720185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.19562,
+    27.51146,
+    54.19562,
+    27.51146
+],
+  "geometry": {"coordinates":[54.19562,27.51146],"type":"Point"}
+}

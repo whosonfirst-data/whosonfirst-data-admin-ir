@@ -1,0 +1,74 @@
+{
+  "id": 1343534063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.4999,31.1602,48.4999,31.1602",
+    "geom:latitude":31.1602,
+    "geom:longitude":48.4999,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tarfayeh",
+    "gn:country_code":"IR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6687781,
+    "gn:latitude":31.1602,
+    "gn:longitude":48.4999,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u0162arf\u0101yeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0637\u0631\u0641\u0627\u064a\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0162arf\u0101yeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6687781,
+        "wk:page":"Tarfayeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ad72dc5d37a6832ecbd533c30341f2d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719793,
+            "locality_id":1343534063,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1343534063,
+    "wof:lastmodified":1537647404,
+    "wof:name":"Tarfayeh",
+    "wof:parent_id":1108719793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.4999,
+    31.1602,
+    48.4999,
+    31.1602
+],
+  "geometry": {"coordinates":[48.4999,31.1602],"type":"Point"}
+}

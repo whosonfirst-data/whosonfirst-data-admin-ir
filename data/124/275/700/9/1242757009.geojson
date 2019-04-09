@@ -1,0 +1,73 @@
+{
+  "id": 1242757009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.4345,34.7459,47.4345,34.7459",
+    "geom:latitude":34.7459,
+    "geom:longitude":47.4345,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"A'inalah",
+    "gn:country_code":"IR",
+    "gn:dem":1683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":24193,
+    "gn:latitude":34.7459,
+    "gn:longitude":47.4345,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"\u0100\u2019\u012bnalah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0626\u06cc\u0646\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0100\u2019\u012bnalah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":24193
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"11e9e4b4fb06f63fe8a2925b6fba6e52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720463,
+            "locality_id":1242757009,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1242757009,
+    "wof:lastmodified":1537641266,
+    "wof:name":"A'inalah",
+    "wof:parent_id":1108720463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.4345,
+    34.7459,
+    47.4345,
+    34.7459
+],
+  "geometry": {"coordinates":[47.4345,34.7459],"type":"Point"}
+}

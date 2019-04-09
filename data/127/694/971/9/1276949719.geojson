@@ -1,0 +1,81 @@
+{
+  "id": 1276949719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.01438,35.55205,46.01438,35.55205",
+    "geom:latitude":35.55205,
+    "geom:longitude":46.01438,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Qolanjeh",
+    "gn:country_code":"IR",
+    "gn:dem":1443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3074,
+    "gn:latitude":35.55205,
+    "gn:longitude":46.01438,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Qol\u0101njeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u0627\u0646\u062c\u0627\u0646"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u064f\u0644\u064e\u0646\u062c\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Qolanj\u0101n",
+        "\u0642\u0644\u0627\u0646\u062c\u0647"
+    ],
+    "name:und_x_variant":[
+        "Qal\u0101nj\u0101n",
+        "Qol\u0101njeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3074
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c83d82cd6a0f269b59fb69ef005f1c59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720221,
+            "locality_id":1276949719,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1276949719,
+    "wof:lastmodified":1537640226,
+    "wof:name":"Qolanjeh",
+    "wof:parent_id":1108720221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.01438,
+    35.55205,
+    46.01438,
+    35.55205
+],
+  "geometry": {"coordinates":[46.01438,35.55205],"type":"Point"}
+}

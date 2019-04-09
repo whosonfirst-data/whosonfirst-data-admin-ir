@@ -1,0 +1,74 @@
+{
+  "id": 1259539685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.03333,33.4,48.03333,33.4",
+    "geom:latitude":33.4,
+    "geom:longitude":48.03333,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Shengeh Dul",
+    "gn:country_code":"IR",
+    "gn:dem":1151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":115242,
+    "gn:latitude":33.4,
+    "gn:longitude":48.03333,
+    "gn:modification_date":"2010-08-09",
+    "gn:name":"Shengeh D\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0650\u0646\u06af\u0650\u0647 \u062f\u0648\u0644"
+    ],
+    "name:und_x_variant":[
+        "Shengeh D\u016bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":115242,
+        "wk:page":"Shengeh_Dul"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"202942ad425d59a534f35abe6b348e6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720307,
+            "locality_id":1259539685,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1259539685,
+    "wof:lastmodified":1537643343,
+    "wof:name":"Shengeh Dul",
+    "wof:parent_id":1108720307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.03333,
+    33.4,
+    48.03333,
+    33.4
+],
+  "geometry": {"coordinates":[48.03333,33.4],"type":"Point"}
+}

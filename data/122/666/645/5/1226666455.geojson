@@ -1,0 +1,67 @@
+{
+  "id": 1226666455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.97583,29.85389,51.97583,29.85389",
+    "geom:latitude":29.85389,
+    "geom:longitude":51.97583,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kolahak",
+    "gn:country_code":"IR",
+    "gn:dem":2296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":44028,
+    "gn:latitude":29.85389,
+    "gn:longitude":51.97583,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kolahak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":44028
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7f02ccd2e7074a9fcee5328f4d8ea63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720209,
+            "locality_id":1226666455,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1226666455,
+    "wof:lastmodified":1536828732,
+    "wof:name":"Kolahak",
+    "wof:parent_id":1108720209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.97583,
+    29.85389,
+    51.97583,
+    29.85389
+],
+  "geometry": {"coordinates":[51.97583,29.85389],"type":"Point"}
+}

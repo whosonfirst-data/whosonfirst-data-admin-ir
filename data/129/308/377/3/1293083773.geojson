@@ -1,0 +1,73 @@
+{
+  "id": 1293083773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.0178,30.6716,50.0178,30.6716",
+    "geom:latitude":30.6716,
+    "geom:longitude":50.0178,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Chal Qefar",
+    "gn:country_code":"IR",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6729540,
+    "gn:latitude":30.6716,
+    "gn:longitude":50.0178,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ch\u0101l Qef\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0644 \u0642\u0641\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Ch\u0101l Qef\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6729540
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"931d696f3d27c98f25c3a02e74588b73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719885,
+            "locality_id":1293083773,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1293083773,
+    "wof:lastmodified":1537647537,
+    "wof:name":"Chal Qefar",
+    "wof:parent_id":1108719885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.0178,
+    30.6716,
+    50.0178,
+    30.6716
+],
+  "geometry": {"coordinates":[50.0178,30.6716],"type":"Point"}
+}

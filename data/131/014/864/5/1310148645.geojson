@@ -1,0 +1,78 @@
+{
+  "id": 1310148645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.4176,37.39283,55.4176,37.39283",
+    "geom:latitude":37.39283,
+    "geom:longitude":55.4176,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Hemmatabad",
+    "gn:country_code":"IR",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171914,
+    "gn:latitude":37.39283,
+    "gn:longitude":55.4176,
+    "gn:modification_date":"2018-05-14",
+    "gn:name":"Hemmat\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0647\u0645\u062a \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0647\u0645\u062a \u0622\u0628\u0627\u062f \u0633\u06cc\u0633\u062a\u0627\u0646\u06cc\u0647\u0627"
+    ],
+    "name:und_x_variant":[
+        "Hemmat\u0101b\u0101d",
+        "Hemmat\u0101b\u0101d S\u012bst\u0101n\u012bh\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171914,
+        "wk:page":"Hemmatabad-e_Sistaniha"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"78fe9649bd8d0ab3999d8f8c6d0efada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720093,
+            "locality_id":1310148645,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1310148645,
+    "wof:lastmodified":1537648735,
+    "wof:name":"Hemmatabad",
+    "wof:parent_id":1108720093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.4176,
+    37.39283,
+    55.4176,
+    37.39283
+],
+  "geometry": {"coordinates":[55.4176,37.39283],"type":"Point"}
+}

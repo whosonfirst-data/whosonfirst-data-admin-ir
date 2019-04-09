@@ -1,0 +1,82 @@
+{
+  "id": 1343684207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.18585,30.33892,51.18585,30.33892",
+    "geom:latitude":30.33892,
+    "geom:longitude":51.18585,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kateh",
+    "gn:country_code":"IR",
+    "gn:dem":772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":128406,
+    "gn:latitude":30.33892,
+    "gn:longitude":51.18585,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kateh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0643\u064e\u062a\u0650\u0647 \u0628\u0627\u0634\u062a"
+    ],
+    "name:fas_x_variant":[
+        "\u0643\u064e\u062a\u0650\u0651\u0647",
+        "\u0633\u0627\u062f\u0627\u062a\u0650 \u0627\u064e\u0646\u0627",
+        "\u0643\u062a\u0647"
+    ],
+    "name:und_x_variant":[
+        "S\u0101d\u0101t-e An\u0101",
+        "Katteh",
+        "Kateh B\u0101sht",
+        "\u0643\u062a\u0647",
+        "Kateh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":128406
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f3753e03eef9cbb4bbd3e6bd6ef33a53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720015,
+            "locality_id":1343684207,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1343684207,
+    "wof:lastmodified":1537644660,
+    "wof:name":"Kateh",
+    "wof:parent_id":1108720015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.18585,
+    30.33892,
+    51.18585,
+    30.33892
+],
+  "geometry": {"coordinates":[51.18585,30.33892],"type":"Point"}
+}

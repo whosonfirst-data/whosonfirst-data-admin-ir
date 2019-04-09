@@ -1,0 +1,75 @@
+{
+  "id": 1209798203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.18333,32.35,48.18333,32.35",
+    "geom:latitude":32.35,
+    "geom:longitude":48.18333,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Chichali Do",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":138430,
+    "gn:latitude":32.35,
+    "gn:longitude":48.18333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ch\u012bch\u0101l\u012b Do",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Ch\u012bch\u0101l\u012b Do"
+    ],
+    "name:und_x_variant":[
+        "Ch\u012bch\u0101l\u012b B\u0101le",
+        "Chichali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":138430
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2571f46504c2ce604ddd097b74a5e2df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719811,
+            "locality_id":1209798203,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1209798203,
+    "wof:lastmodified":1537645677,
+    "wof:name":"Chichali Do",
+    "wof:parent_id":1108719811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.18333,
+    32.35,
+    48.18333,
+    32.35
+],
+  "geometry": {"coordinates":[48.18333,32.35],"type":"Point"}
+}

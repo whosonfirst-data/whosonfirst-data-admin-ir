@@ -1,0 +1,75 @@
+{
+  "id": 1226271229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.32688,37.35758,58.32688,37.35758",
+    "geom:latitude":37.35758,
+    "geom:longitude":58.32688,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Qareh Cheh",
+    "gn:country_code":"IR",
+    "gn:dem":1384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":119865,
+    "gn:latitude":37.35758,
+    "gn:longitude":58.32688,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Qareh Cheh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u0647 \u0686\u0647"
+    ],
+    "name:und_x_variant":[
+        "Daracheh",
+        "Qareh Cheh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":119865,
+        "wk:page":"Qareh_Cheh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c2268c90898b5acf2b523c9501809412",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720327,
+            "locality_id":1226271229,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1226271229,
+    "wof:lastmodified":1537643793,
+    "wof:name":"Qareh Cheh",
+    "wof:parent_id":1108720327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.32688,
+    37.35758,
+    58.32688,
+    37.35758
+],
+  "geometry": {"coordinates":[58.32688,37.35758],"type":"Point"}
+}

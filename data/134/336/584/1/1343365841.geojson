@@ -1,0 +1,78 @@
+{
+  "id": 1343365841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.47028,31.64222,50.47028,31.64222",
+    "geom:latitude":31.64222,
+    "geom:longitude":50.47028,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kabusi",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":129887,
+    "gn:latitude":31.64222,
+    "gn:longitude":50.47028,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kab\u016bs\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Kab\u016bs\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u0643\u064f\u0628\u0648\u0633\u06cc",
+        "\u0643\u064e\u0628\u0648\u0633\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Kob\u016bs\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672319,
+        1108719821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":129887
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"036a772af20682e118c5e97326a5d821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719821,
+            "locality_id":1343365841,
+            "region_id":85672319
+        }
+    ],
+    "wof:id":1343365841,
+    "wof:lastmodified":1537644805,
+    "wof:name":"Kabusi",
+    "wof:parent_id":1108719821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.47028,
+    31.64222,
+    50.47028,
+    31.64222
+],
+  "geometry": {"coordinates":[50.47028,31.64222],"type":"Point"}
+}

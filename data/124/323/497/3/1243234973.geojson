@@ -1,0 +1,74 @@
+{
+  "id": 1243234973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.96686,34.52186,45.96686,34.52186",
+    "geom:latitude":34.52186,
+    "geom:longitude":45.96686,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Yaran",
+    "gn:country_code":"IR",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":111865,
+    "gn:latitude":34.52186,
+    "gn:longitude":45.96686,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Y\u0101r\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u064a\u0627\u0631\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Y\u0101r\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108719933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":111865,
+        "wk:page":"Yaran"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a2549e62f71e6df69e23e9636ca1dbb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719933,
+            "locality_id":1243234973,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1243234973,
+    "wof:lastmodified":1537643020,
+    "wof:name":"Yaran",
+    "wof:parent_id":1108719933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.96686,
+    34.52186,
+    45.96686,
+    34.52186
+],
+  "geometry": {"coordinates":[45.96686,34.52186],"type":"Point"}
+}

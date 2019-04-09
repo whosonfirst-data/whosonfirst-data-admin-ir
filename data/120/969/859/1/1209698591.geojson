@@ -1,0 +1,77 @@
+{
+  "id": 1209698591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.52951,31.44686,49.52951,31.44686",
+    "geom:latitude":31.44686,
+    "geom:longitude":49.52951,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Haftkel",
+    "gn:country_code":"IR",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":132428,
+    "gn:latitude":31.44686,
+    "gn:longitude":49.52951,
+    "gn:modification_date":"2014-09-04",
+    "gn:name":"Haftkel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0647\u0641\u062a\u06af\u0644"
+    ],
+    "name:fas_x_variant":[
+        "\u0647\u0641\u062a\u06a9\u0644"
+    ],
+    "name:und_x_variant":[
+        "Haftgel",
+        "\u0647\u0641\u062a\u06af\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":132428
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"eae2be5d7c11622ab3c65894480f2233",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720331,
+            "locality_id":1209698591,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1209698591,
+    "wof:lastmodified":1537645066,
+    "wof:name":"Haftkel",
+    "wof:parent_id":1108720331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.52951,
+    31.44686,
+    49.52951,
+    31.44686
+],
+  "geometry": {"coordinates":[49.52951,31.44686],"type":"Point"}
+}

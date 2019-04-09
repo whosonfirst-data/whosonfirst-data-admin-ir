@@ -1,0 +1,77 @@
+{
+  "id": 1226828167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.3838,35.0058,46.3838,35.0058",
+    "geom:latitude":35.0058,
+    "geom:longitude":46.3838,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Nosmeh",
+    "gn:country_code":"IR",
+    "gn:dem":1534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2967,
+    "gn:latitude":35.0058,
+    "gn:longitude":46.3838,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Nosmeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Nosmeh-ye Sofl\u00e1"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0633\u0645\u0647"
+    ],
+    "name:und_x_variant":[
+        "Nasheh",
+        "Nosmeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2967
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8bec061a6e5a254615da365a38b36312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720301,
+            "locality_id":1226828167,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1226828167,
+    "wof:lastmodified":1537640221,
+    "wof:name":"Nosmeh",
+    "wof:parent_id":1108720301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.3838,
+    35.0058,
+    46.3838,
+    35.0058
+],
+  "geometry": {"coordinates":[46.3838,35.0058],"type":"Point"}
+}

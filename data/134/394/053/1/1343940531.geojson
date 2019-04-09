@@ -1,0 +1,73 @@
+{
+  "id": 1343940531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.65019,31.22233,48.65019,31.22233",
+    "geom:latitude":31.22233,
+    "geom:longitude":48.65019,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Harsheh",
+    "gn:country_code":"IR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":131963,
+    "gn:latitude":31.22233,
+    "gn:longitude":48.65019,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Harsheh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u062f\u06cc \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "H\u0101d\u012b\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":131963
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e1d45d3a84b4685ad358d8e5ad67064a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719793,
+            "locality_id":1343940531,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1343940531,
+    "wof:lastmodified":1537645019,
+    "wof:name":"Harsheh",
+    "wof:parent_id":1108719793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.65019,
+    31.22233,
+    48.65019,
+    31.22233
+],
+  "geometry": {"coordinates":[48.65019,31.22233],"type":"Point"}
+}

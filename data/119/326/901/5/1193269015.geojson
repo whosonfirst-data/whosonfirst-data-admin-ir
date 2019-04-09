@@ -1,0 +1,77 @@
+{
+  "id": 1193269015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.97882,29.24691,51.97882,29.24691",
+    "geom:latitude":29.24691,
+    "geom:longitude":51.97882,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Jereh",
+    "gn:country_code":"IR",
+    "gn:dem":790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":130165,
+    "gn:latitude":29.24691,
+    "gn:longitude":51.97882,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Jereh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u0631\u0647"
+    ],
+    "name:und_x_variant":[
+        "Gereh",
+        "Jireh",
+        "Jereh",
+        "\u062c\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":130165,
+        "wk:page":"Jereh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b67699ce83d925051cc8820cbda252a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720113,
+            "locality_id":1193269015,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1193269015,
+    "wof:lastmodified":1537644839,
+    "wof:name":"Jereh",
+    "wof:parent_id":1108720113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.97882,
+    29.24691,
+    51.97882,
+    29.24691
+],
+  "geometry": {"coordinates":[51.97882,29.24691],"type":"Point"}
+}

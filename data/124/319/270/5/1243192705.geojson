@@ -1,0 +1,78 @@
+{
+  "id": 1243192705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.4696,27.9705,53.4696,27.9705",
+    "geom:latitude":27.9705,
+    "geom:longitude":53.4696,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Dasht-e Bikhuy",
+    "gn:country_code":"IR",
+    "gn:dem":733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6917610,
+    "gn:latitude":27.9705,
+    "gn:longitude":53.4696,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Dasht-e B\u012bkh\u016by",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062f\u0634\u062a \u0628\u06cc\u062e\u0648\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Dasht B\u012bkhvoy",
+        "\u0628\u06cc\u062e\u0648\u06cc\u0647 \u0639\u0644\u06cc\u0627"
+    ],
+    "name:und_x_variant":[
+        "Dasht-e B\u012bkh\u016by",
+        "B\u012bkh\u016byeh \u2018Oly\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6917610
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"612b4431b8d29a58756b465b030fb3ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720141,
+            "locality_id":1243192705,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1243192705,
+    "wof:lastmodified":1537647718,
+    "wof:name":"Dasht-e Bikhuy",
+    "wof:parent_id":1108720141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.4696,
+    27.9705,
+    53.4696,
+    27.9705
+],
+  "geometry": {"coordinates":[53.4696,27.9705],"type":"Point"}
+}

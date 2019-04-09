@@ -1,0 +1,73 @@
+{
+  "id": 1360202635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.3072,28.9231,61.3072,28.9231",
+    "geom:latitude":28.9231,
+    "geom:longitude":61.3072,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Siah Jak",
+    "gn:country_code":"IR",
+    "gn:dem":1185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7010045,
+    "gn:latitude":28.9231,
+    "gn:longitude":61.3072,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"S\u012b\u0101h J\u0101k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0627\u0647 \u062c\u0627\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "S\u012b\u0101h J\u0101k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7010045
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b6bb39f5c1991dbbc44fceda2c7fa19b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720517,
+            "locality_id":1360202635,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1360202635,
+    "wof:lastmodified":1537647894,
+    "wof:name":"Siah Jak",
+    "wof:parent_id":1108720517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.3072,
+    28.9231,
+    61.3072,
+    28.9231
+],
+  "geometry": {"coordinates":[61.3072,28.9231],"type":"Point"}
+}

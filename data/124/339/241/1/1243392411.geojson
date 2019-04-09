@@ -1,0 +1,79 @@
+{
+  "id": 1243392411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.3104,35.6234,50.3104,35.6234",
+    "geom:latitude":35.6234,
+    "geom:longitude":50.3104,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Eypak",
+    "gn:country_code":"IR",
+    "gn:dem":1633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":135363,
+    "gn:latitude":35.6234,
+    "gn:longitude":50.3104,
+    "gn:modification_date":"2014-02-06",
+    "gn:name":"Eypak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u064a\u067e\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "\u012apak"
+    ],
+    "name:und_x_variant":[
+        "\u0100ypak",
+        "Ep\u012bk",
+        "Eypak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672415,
+        1108720105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":135363,
+        "wk:page":"Eypak"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f8eda7c1713dedddaadb0ee227c69361",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720105,
+            "locality_id":1243392411,
+            "region_id":85672415
+        }
+    ],
+    "wof:id":1243392411,
+    "wof:lastmodified":1537645367,
+    "wof:name":"Eypak",
+    "wof:parent_id":1108720105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.3104,
+    35.6234,
+    50.3104,
+    35.6234
+],
+  "geometry": {"coordinates":[50.3104,35.6234],"type":"Point"}
+}

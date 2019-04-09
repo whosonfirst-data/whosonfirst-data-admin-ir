@@ -1,0 +1,74 @@
+{
+  "id": 1226306901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.1659,36.1609,47.1659,36.1609",
+    "geom:latitude":36.1609,
+    "geom:longitude":47.1659,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Papaleh",
+    "gn:country_code":"IR",
+    "gn:dem":1922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":121501,
+    "gn:latitude":36.1609,
+    "gn:longitude":47.1659,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"P\u0101p\u0101leh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u067e\u0627\u0644\u0647"
+    ],
+    "name:fas_x_variant":[
+        "P\u0101p\u0101leh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108719971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":121501,
+        "wk:page":"Papaleh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"683777ae1a896dd36e7b28935e957d51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719971,
+            "locality_id":1226306901,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1226306901,
+    "wof:lastmodified":1537643960,
+    "wof:name":"Papaleh",
+    "wof:parent_id":1108719971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.1659,
+    36.1609,
+    47.1659,
+    36.1609
+],
+  "geometry": {"coordinates":[47.1659,36.1609],"type":"Point"}
+}

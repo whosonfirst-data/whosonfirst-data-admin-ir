@@ -1,0 +1,73 @@
+{
+  "id": 1226051851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.13333,37.66667,45.13333,37.66667",
+    "geom:latitude":37.66667,
+    "geom:longitude":45.13333,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Behisafar",
+    "gn:country_code":"IR",
+    "gn:dem":1286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":18130,
+    "gn:latitude":37.66667,
+    "gn:longitude":45.13333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Beh\u012b\u015fafar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Beh\u012b\u015fafar"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0650\u0647\u064a\u0635\u064e\u0641\u064e\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":18130
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3ee529fc6ed5b474e4dfbfa70250942a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720289,
+            "locality_id":1226051851,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1226051851,
+    "wof:lastmodified":1537641005,
+    "wof:name":"Behisafar",
+    "wof:parent_id":1108720289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.13333,
+    37.66667,
+    45.13333,
+    37.66667
+],
+  "geometry": {"coordinates":[45.13333,37.66667],"type":"Point"}
+}

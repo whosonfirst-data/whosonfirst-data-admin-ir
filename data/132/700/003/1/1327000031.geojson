@@ -1,0 +1,74 @@
+{
+  "id": 1327000031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.43221,31.50048,48.43221,31.50048",
+    "geom:latitude":31.50048,
+    "geom:longitude":48.43221,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Seyyed Fazel",
+    "gn:country_code":"IR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":42215,
+    "gn:latitude":31.50048,
+    "gn:longitude":48.43221,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Seyyed F\u0101\u1e95el",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Seyyed F\u0101\u1e95el"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u06cc\u062f \u0641\u0627\u0636\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":42215,
+        "wk:page":"Seyyed_Fazel"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ca9cd59f0b7533e0e2310b2c6f8350c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719949,
+            "locality_id":1327000031,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1327000031,
+    "wof:lastmodified":1537642384,
+    "wof:name":"Seyyed Fazel",
+    "wof:parent_id":1108719949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.43221,
+    31.50048,
+    48.43221,
+    31.50048
+],
+  "geometry": {"coordinates":[48.43221,31.50048],"type":"Point"}
+}

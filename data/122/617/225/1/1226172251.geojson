@@ -1,0 +1,76 @@
+{
+  "id": 1226172251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.55347,35.91712,57.55347,35.91712",
+    "geom:latitude":35.91712,
+    "geom:longitude":57.55347,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Darqadam",
+    "gn:country_code":"IR",
+    "gn:dem":1413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":137681,
+    "gn:latitude":35.91712,
+    "gn:longitude":57.55347,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Darqadam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0642\u062f\u0645"
+    ],
+    "name:und_x_variant":[
+        "Rowfekeh",
+        "Dar Qadam",
+        "Darqadam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":137681,
+        "wk:page":"Darqadam"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2a22f474e28ebd70fce1abdd6ca1e072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720367,
+            "locality_id":1226172251,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1226172251,
+    "wof:lastmodified":1537645602,
+    "wof:name":"Darqadam",
+    "wof:parent_id":1108720367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.55347,
+    35.91712000000001,
+    57.55347,
+    35.91712000000001
+],
+  "geometry": {"coordinates":[57.55347,35.91712000000001],"type":"Point"}
+}

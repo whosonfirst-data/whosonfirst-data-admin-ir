@@ -1,0 +1,81 @@
+{
+  "id": 1226086255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.23922,36.42562,52.23922,36.42562",
+    "geom:latitude":36.42562,
+    "geom:longitude":52.23922,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ham Safa",
+    "gn:country_code":"IR",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8001,
+    "gn:latitude":36.42562,
+    "gn:longitude":52.23922,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ham \u015eaf\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0647\u0645 \u0635\u0641\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u062d\u064e\u0635\u0648\u0627",
+        "\u062d\u0635\u0651\u0641\u0627",
+        "\u1e28a\u015f\u015faf\u0101"
+    ],
+    "name:und_x_variant":[
+        "\u1e28a\u015fv\u0101",
+        "Ham \u015eaf\u0101",
+        "\u1e28a\u015f\u015faf\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001,
+        "wk:page":"Hamsafa"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"171d96815b2735bdf9829609827b0980",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720283,
+            "locality_id":1226086255,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1226086255,
+    "wof:lastmodified":1537640409,
+    "wof:name":"Ham Safa",
+    "wof:parent_id":1108720283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.23922,
+    36.42562,
+    52.23922,
+    36.42562
+],
+  "geometry": {"coordinates":[52.23922,36.42562],"type":"Point"}
+}

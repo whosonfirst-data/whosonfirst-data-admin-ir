@@ -1,0 +1,76 @@
+{
+  "id": 1309934857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.5301,36.01,59.5301,36.01",
+    "geom:latitude":36.01,
+    "geom:longitude":59.5301,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Gonbad Deraz",
+    "gn:country_code":"IR",
+    "gn:dem":1403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":132943,
+    "gn:latitude":36.01,
+    "gn:longitude":59.5301,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Gonbad Der\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0646\u0628\u062f \u062f\u0631\u0627\u0632"
+    ],
+    "name:fas_x_variant":[
+        "Gonbad Der\u0101z"
+    ],
+    "name:und_x_variant":[
+        "Gonbad-e Der\u0101z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":132943
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f3cfc686c284dc669f9af25f0af27b70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720227,
+            "locality_id":1309934857,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1309934857,
+    "wof:lastmodified":1537645121,
+    "wof:name":"Gonbad Deraz",
+    "wof:parent_id":1108720227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.5301,
+    36.01,
+    59.5301,
+    36.01
+],
+  "geometry": {"coordinates":[59.5301,36.01],"type":"Point"}
+}

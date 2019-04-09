@@ -1,0 +1,83 @@
+{
+  "id": 1260020893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.8526,38.5922,45.8526,38.5922",
+    "geom:latitude":38.5922,
+    "geom:longitude":45.8526,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Zonuzaq",
+    "gn:country_code":"IR",
+    "gn:dem":1890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110919,
+    "gn:latitude":38.5922,
+    "gn:longitude":45.8526,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Zon\u016bzaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u064e\u0646\u064f\u0651\u0632\u064e\u063a"
+    ],
+    "name:fas_x_variant":[
+        "\u0632\u0646\u0648\u0632\u0642",
+        "\u0632\u064f\u0646\u0648\u0632\u064e\u0642",
+        "Zon\u016bzaq",
+        "\u0632\u064f\u0646\u0648\u0632\u0627\u062e"
+    ],
+    "name:und_x_variant":[
+        "Zanoozagh",
+        "Zunuzakh",
+        "Zunusakh",
+        "Zon\u016bz\u0101kh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110919,
+        "wk:page":"Zonuzaq"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"94536620087dfab3d750e06ad0ca7e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720219,
+            "locality_id":1260020893,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1260020893,
+    "wof:lastmodified":1537642927,
+    "wof:name":"Zonuzaq",
+    "wof:parent_id":1108720219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.8526,
+    38.5922,
+    45.8526,
+    38.5922
+],
+  "geometry": {"coordinates":[45.8526,38.5922],"type":"Point"}
+}

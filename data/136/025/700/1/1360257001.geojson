@@ -1,0 +1,77 @@
+{
+  "id": 1360257001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.97092,35.88983,46.97092,35.88983",
+    "geom:latitude":35.88983,
+    "geom:longitude":46.97092,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dabagh",
+    "gn:country_code":"IR",
+    "gn:dem":1955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4112,
+    "gn:latitude":35.88983,
+    "gn:longitude":46.97092,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dab\u0101gh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Dab\u0101gh"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0628\u0627\u063a"
+    ],
+    "name:und_x_variant":[
+        "\u062f\u0628\u0627\u063a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108719971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4112,
+        "wk:page":"Dabagh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"776803014ef2a90ade9cc20c219b559e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719971,
+            "locality_id":1360257001,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1360257001,
+    "wof:lastmodified":1537640289,
+    "wof:name":"Dabagh",
+    "wof:parent_id":1108719971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.97092,
+    35.88983,
+    46.97092,
+    35.88983
+],
+  "geometry": {"coordinates":[46.97092,35.88983],"type":"Point"}
+}

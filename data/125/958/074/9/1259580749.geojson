@@ -1,0 +1,73 @@
+{
+  "id": 1259580749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.92622,36.99438,49.92622,36.99438",
+    "geom:latitude":36.99438,
+    "geom:longitude":49.92622,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Pashakuh",
+    "gn:country_code":"IR",
+    "gn:dem":873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8184576,
+    "gn:latitude":36.99438,
+    "gn:longitude":49.92622,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Pash\u0101k\u016bh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u067e\u0634\u0627\u06a9\u0648\u0647"
+    ],
+    "name:und_x_variant":[
+        "Pash\u0101k\u016bh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8184576
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"89e62d3826629ca6c5005dda9cc84608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720459,
+            "locality_id":1259580749,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1259580749,
+    "wof:lastmodified":1537648528,
+    "wof:name":"Pashakuh",
+    "wof:parent_id":1108720459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.92622,
+    36.99438,
+    49.92622,
+    36.99438
+],
+  "geometry": {"coordinates":[49.92622,36.99438],"type":"Point"}
+}

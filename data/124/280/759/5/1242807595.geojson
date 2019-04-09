@@ -1,0 +1,73 @@
+{
+  "id": 1242807595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.19099,37.17849,58.19099,37.17849",
+    "geom:latitude":37.17849,
+    "geom:longitude":58.19099,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Soleymanabad",
+    "gn:country_code":"IR",
+    "gn:dem":1263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":114148,
+    "gn:latitude":37.17849,
+    "gn:longitude":58.19099,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Soleym\u0101n\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Soleym\u0101n\u0101b\u0101d"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0644\u06cc\u0645\u0627\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672401,
+        1108720001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":114148
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d88671116a781fbc51c87223bb24a5a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720001,
+            "locality_id":1242807595,
+            "region_id":85672401
+        }
+    ],
+    "wof:id":1242807595,
+    "wof:lastmodified":1537643252,
+    "wof:name":"Soleymanabad",
+    "wof:parent_id":1108720001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.19099,
+    37.17849,
+    58.19099,
+    37.17849
+],
+  "geometry": {"coordinates":[58.19099,37.17849],"type":"Point"}
+}

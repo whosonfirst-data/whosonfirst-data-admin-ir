@@ -1,0 +1,78 @@
+{
+  "id": 1243323125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.1212,39.0486,48.1212,39.0486",
+    "geom:latitude":39.0486,
+    "geom:longitude":48.1212,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Ilkhchih-ye Pa'in",
+    "gn:country_code":"IR",
+    "gn:dem":812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389004,
+    "gn:latitude":39.0486,
+    "gn:longitude":48.1212,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u012alkhch\u012bh-ye P\u0101\u2019\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0644\u062e\u0686\u06cc\u0647 \u067e\u0627\u0626\u06cc\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u012alkhch\u012b-ye Sofl\u00e1",
+        "\u012alkhch\u012bh-ye P\u0101\u2019\u012bn"
+    ],
+    "name:und_x_variant":[
+        "\u012alchi-ye Sofl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389004,
+        "wk:page":"Ilkhchi-ye_Sofla"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"69f40237e250a9fa4a99b0a08ce574c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720021,
+            "locality_id":1243323125,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1243323125,
+    "wof:lastmodified":1537646464,
+    "wof:name":"Ilkhchih-ye Pa'in",
+    "wof:parent_id":1108720021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.1212,
+    39.0486,
+    48.1212,
+    39.0486
+],
+  "geometry": {"coordinates":[48.1212,39.0486],"type":"Point"}
+}

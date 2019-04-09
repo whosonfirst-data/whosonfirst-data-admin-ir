@@ -1,0 +1,77 @@
+{
+  "id": 1276688045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.42825,33.22432,59.42825,33.22432",
+    "geom:latitude":33.22432,
+    "geom:longitude":59.42825,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Asa",
+    "gn:country_code":"IR",
+    "gn:dem":1990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":142694,
+    "gn:latitude":33.22432,
+    "gn:longitude":59.42825,
+    "gn:modification_date":"2015-08-06",
+    "gn:name":"Asa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Asow\u2019"
+    ],
+    "name:fas_x_variant":[
+        "\u0100s\u016b",
+        "\u0622\u0633\u0648"
+    ],
+    "name:und_x_variant":[
+        "\u0622\u0633\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108719895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":142694
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4902085d89a83cd6e2e466eda64294cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719895,
+            "locality_id":1276688045,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1276688045,
+    "wof:lastmodified":1537646098,
+    "wof:name":"Asa",
+    "wof:parent_id":1108719895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.42825,
+    33.22432,
+    59.42825,
+    33.22432
+],
+  "geometry": {"coordinates":[59.42825,33.22432],"type":"Point"}
+}

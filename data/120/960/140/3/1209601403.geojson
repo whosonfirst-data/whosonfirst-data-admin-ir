@@ -1,0 +1,70 @@
+{
+  "id": 1209601403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.0925,34.0544,46.0925,34.0544",
+    "geom:latitude":34.0544,
+    "geom:longitude":46.0925,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Cheshmeh Pahn Rashid",
+    "gn:country_code":"IR",
+    "gn:dem":1111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":25957,
+    "gn:latitude":34.0544,
+    "gn:longitude":46.0925,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Cheshmeh Pahn Rash\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0634\u0645\u0647 \u067e\u0647\u0646 \u0631\u0634\u06cc\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Cheshmeh Pahn Rash\u012bd"
+    ],
+    "name:und_x_variant":[
+        "Cheshmeh Pahn Rash\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":25957
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e9c5a8bb58814aa6c3b12daab59b2bcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209601403
+        }
+    ],
+    "wof:id":1209601403,
+    "wof:lastmodified":1537641362,
+    "wof:name":"Cheshmeh Pahn Rashid",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.0925,
+    34.0544,
+    46.0925,
+    34.0544
+],
+  "geometry": {"coordinates":[46.0925,34.0544],"type":"Point"}
+}

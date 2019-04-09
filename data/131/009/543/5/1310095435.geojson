@@ -1,0 +1,75 @@
+{
+  "id": 1310095435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.1809,37.3201,49.1809,37.3201",
+    "geom:latitude":37.3201,
+    "geom:longitude":49.1809,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Posht Mokh",
+    "gn:country_code":"IR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6758109,
+    "gn:latitude":37.3201,
+    "gn:longitude":49.1809,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Posht Mokh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0634\u062a \u0645\u062e"
+    ],
+    "name:und_x_variant":[
+        "Posht Mekh",
+        "Posht Mokh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6758109,
+        "wk:page":"Posht_Mekh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"17a02698f55eac6906282fe7689a73cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720465,
+            "locality_id":1310095435,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1310095435,
+    "wof:lastmodified":1537647663,
+    "wof:name":"Posht Mokh",
+    "wof:parent_id":1108720465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.1809,
+    37.3201,
+    49.1809,
+    37.3201
+],
+  "geometry": {"coordinates":[49.1809,37.3201],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343611817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.13167,30.88278,56.13167,30.88278",
+    "geom:latitude":30.88278,
+    "geom:longitude":56.13167,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Golestan",
+    "gn:country_code":"IR",
+    "gn:dem":1455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":133152,
+    "gn:latitude":30.88278,
+    "gn:longitude":56.13167,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Golest\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Golest\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":133152
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"55212eba25d071d4a6a32fb0d75d0493",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720523,
+            "locality_id":1343611817,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1343611817,
+    "wof:lastmodified":1537645144,
+    "wof:name":"Golestan",
+    "wof:parent_id":1108720523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.13166999999999,
+    30.88278,
+    56.13166999999999,
+    30.88278
+],
+  "geometry": {"coordinates":[56.13166999999999,30.88278],"type":"Point"}
+}

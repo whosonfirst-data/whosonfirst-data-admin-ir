@@ -1,0 +1,80 @@
+{
+  "id": 1209754549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.78231,35.72429,48.78231,35.72429",
+    "geom:latitude":35.72429,
+    "geom:longitude":48.78231,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Aghcheh Lujeh",
+    "gn:country_code":"IR",
+    "gn:dem":2072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":36129,
+    "gn:latitude":35.72429,
+    "gn:longitude":48.78231,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"\u0100ghcheh L\u016bjeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0622\u063a\u0686\u0647 \u0644\u0648\u0686\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0100qcholujah",
+        "\u0100ghcheh L\u016bcheh",
+        "\u0622\u063a\u0686\u0647 \u0644\u0648\u062c\u0647",
+        "\u0622\u0642\u0686\u0647 \u0644\u0648\u0686\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0100ghcheh L\u016bjeh",
+        "\u0100qcheh L\u016bcheh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":36129
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"53fae037495ac46ba783546a56f2b8bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720349,
+            "locality_id":1209754549,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1209754549,
+    "wof:lastmodified":1537641986,
+    "wof:name":"Aghcheh Lujeh",
+    "wof:parent_id":1108720349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.78231,
+    35.72429,
+    48.78231,
+    35.72429
+],
+  "geometry": {"coordinates":[48.78231,35.72429],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1259465731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.42337,31.94195,48.42337,31.94195",
+    "geom:latitude":31.94195,
+    "geom:longitude":48.42337,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Seyyed Hoseyn-e Ahmadi",
+    "gn:country_code":"IR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6687838,
+    "gn:latitude":31.94195,
+    "gn:longitude":48.42337,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Seyyed \u1e28oseyn-e A\u1e29mad\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0651\u062f \u062d\u0633\u06cc\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Seyyed \u1e28oseyn",
+        "\u0633\u06cc\u062f \u062d\u0633\u06cc\u0646 \u0627\u062d\u0645\u062f\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Seyyed \u1e28oseyn",
+        "Seyyed \u1e28oseyn-e A\u1e29mad\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6687838
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7df51a54debb05d914f141ccc68cb947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720455,
+            "locality_id":1259465731,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1259465731,
+    "wof:lastmodified":1537647407,
+    "wof:name":"Seyyed Hoseyn-e Ahmadi",
+    "wof:parent_id":1108720455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.42337,
+    31.94195,
+    48.42337,
+    31.94195
+],
+  "geometry": {"coordinates":[48.42337,31.94195],"type":"Point"}
+}

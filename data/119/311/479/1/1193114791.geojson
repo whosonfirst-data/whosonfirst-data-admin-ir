@@ -1,0 +1,80 @@
+{
+  "id": 1193114791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.90892,27.1027,56.90892,27.1027",
+    "geom:latitude":27.1027,
+    "geom:longitude":56.90892,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Paziarat",
+    "gn:country_code":"IR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6654504,
+    "gn:latitude":27.1027,
+    "gn:longitude":56.90892,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"P\u0101z\u012b\u0101rat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0632\u063a \u067e\u0627\u0632\u06cc\u0627\u0631\u062a"
+    ],
+    "name:fas_x_variant":[
+        "M\u0101zekh-e Vasa\u0163",
+        "\u0645\u0627\u0632\u062e \u0648\u0633\u0637",
+        "M\u0101zegh-e P\u0101z\u012b\u0101rat",
+        "\u067e\u0627\u0632\u06cc\u0627\u0631\u062a"
+    ],
+    "name:und_x_variant":[
+        "P\u0101z\u012b\u0101rat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6654504,
+        "wk:page":"Paziarat"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1e860e9f9b5545b15ba8708f9857a407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720243,
+            "locality_id":1193114791,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1193114791,
+    "wof:lastmodified":1537647235,
+    "wof:name":"Paziarat",
+    "wof:parent_id":1108720243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.90892,
+    27.1027,
+    56.90892,
+    27.1027
+],
+  "geometry": {"coordinates":[56.90892,27.1027],"type":"Point"}
+}

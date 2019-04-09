@@ -1,0 +1,67 @@
+{
+  "id": 1276830305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.06556,29.15528,57.06556,29.15528",
+    "geom:latitude":29.15528,
+    "geom:longitude":57.06556,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Seghork",
+    "gn:country_code":"IR",
+    "gn:dem":2274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390697,
+    "gn:latitude":29.15528,
+    "gn:longitude":57.06556,
+    "gn:modification_date":"1996-04-24",
+    "gn:name":"Seghork",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390697
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9a56226da015e86ac2e77eebce223d60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719851,
+            "locality_id":1276830305,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1276830305,
+    "wof:lastmodified":1536607300,
+    "wof:name":"Seghork",
+    "wof:parent_id":1108719851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.06556,
+    29.15528,
+    57.06556,
+    29.15528
+],
+  "geometry": {"coordinates":[57.06556,29.15528],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293477819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.0856,26.9085,57.0856,26.9085",
+    "geom:latitude":26.9085,
+    "geom:longitude":57.0856,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Dahikan",
+    "gn:country_code":"IR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":138126,
+    "gn:latitude":26.9085,
+    "gn:longitude":57.0856,
+    "gn:modification_date":"2013-11-07",
+    "gn:name":"D\u0101h\u012bkan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0647\u06cc \u0643\u0646\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0627\u0647\u06cc \u06a9\u0646",
+        "D\u0101h\u012b Kand",
+        "D\u0101h\u012bkan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":138126
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e2b8047ec39941ddad8569f0a76db09e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720243,
+            "locality_id":1293477819,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1293477819,
+    "wof:lastmodified":1537645645,
+    "wof:name":"Dahikan",
+    "wof:parent_id":1108720243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.0856,
+    26.9085,
+    57.0856,
+    26.9085
+],
+  "geometry": {"coordinates":[57.0856,26.9085],"type":"Point"}
+}

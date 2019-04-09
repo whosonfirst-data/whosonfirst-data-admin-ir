@@ -1,0 +1,74 @@
+{
+  "id": 1327290209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.4848,29.2469,51.4848,29.2469",
+    "geom:latitude":29.2469,
+    "geom:longitude":51.4848,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Fariab",
+    "gn:country_code":"IR",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6651705,
+    "gn:latitude":29.2469,
+    "gn:longitude":51.4848,
+    "gn:modification_date":"2018-05-31",
+    "gn:name":"F\u0101r\u012b\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0641\u0627\u0631\u06cc\u0627\u0628"
+    ],
+    "name:fas_x_variant":[
+        "F\u0101r\u012b\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108719951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6651705,
+        "wk:page":"Faryab,_Deyr"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d54bc1f42672ca3d3e24c1be69557756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719951,
+            "locality_id":1327290209,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1327290209,
+    "wof:lastmodified":1537647226,
+    "wof:name":"Fariab",
+    "wof:parent_id":1108719951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.4848,
+    29.2469,
+    51.4848,
+    29.2469
+],
+  "geometry": {"coordinates":[51.4848,29.2469],"type":"Point"}
+}

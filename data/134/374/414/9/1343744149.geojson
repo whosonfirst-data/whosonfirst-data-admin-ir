@@ -1,0 +1,76 @@
+{
+  "id": 1343744149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.87888,34.978,47.87888,34.978",
+    "geom:latitude":34.978,
+    "geom:longitude":47.87888,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Shirvaneh",
+    "gn:country_code":"IR",
+    "gn:dem":2016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":114926,
+    "gn:latitude":34.978,
+    "gn:longitude":47.87888,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Sh\u012brv\u0101neh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0631\u0648\u0627\u0646\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Sh\u012brv\u0101neh"
+    ],
+    "name:und_x_variant":[
+        "Shirwaneh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":114926
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6843891b058b87241e904200a54330ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720325,
+            "locality_id":1343744149,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1343744149,
+    "wof:lastmodified":1537643312,
+    "wof:name":"Shirvaneh",
+    "wof:parent_id":1108720325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.87888,
+    34.978,
+    47.87888,
+    34.978
+],
+  "geometry": {"coordinates":[47.87888,34.978],"type":"Point"}
+}

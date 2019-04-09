@@ -1,0 +1,77 @@
+{
+  "id": 1243154805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.71355,32.39881,49.71355,32.39881",
+    "geom:latitude":32.39881,
+    "geom:longitude":49.71355,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Gachi",
+    "gn:country_code":"IR",
+    "gn:dem":1149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":134376,
+    "gn:latitude":32.39881,
+    "gn:longitude":49.71355,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Gach\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Goch\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u0686\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Gach\u012b",
+        "\u06af\u0686\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":134376
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2096eabeba67cfffcd1f2f509b464e2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720229,
+            "locality_id":1243154805,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1243154805,
+    "wof:lastmodified":1537645265,
+    "wof:name":"Gachi",
+    "wof:parent_id":1108720229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.71355,
+    32.39881,
+    49.71355,
+    32.39881
+],
+  "geometry": {"coordinates":[49.71355,32.39881],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1193098135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.4777,27.2652,57.4777,27.2652",
+    "geom:latitude":27.2652,
+    "geom:longitude":57.4777,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Chahar Shahi",
+    "gn:country_code":"IR",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6654683,
+    "gn:latitude":27.2652,
+    "gn:longitude":57.4777,
+    "gn:modification_date":"2014-01-15",
+    "gn:name":"Chah\u0101r Sh\u0101h\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0647\u0627\u0631 \u0634\u0627\u0647\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Chah\u0101r Sh\u0101h\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6654683
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"845c50729e8b9bbbc663909022c9c02d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720213,
+            "locality_id":1193098135,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1193098135,
+    "wof:lastmodified":1537647241,
+    "wof:name":"Chahar Shahi",
+    "wof:parent_id":1108720213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.4777,
+    27.2652,
+    57.4777,
+    27.2652
+],
+  "geometry": {"coordinates":[57.4777,27.2652],"type":"Point"}
+}

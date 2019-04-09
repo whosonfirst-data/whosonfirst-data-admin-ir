@@ -1,0 +1,78 @@
+{
+  "id": 1193225275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.0961,32.6442,53.0961,32.6442",
+    "geom:latitude":32.6442,
+    "geom:longitude":53.0961,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Baz Bandeh",
+    "gn:country_code":"IR",
+    "gn:dem":1821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112078,
+    "gn:latitude":32.6442,
+    "gn:longitude":53.0961,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"B\u0101z Bandeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0632 \u0628\u0646\u062f\u0647"
+    ],
+    "name:fas_x_variant":[
+        "B\u0101zb\u0101n Deh",
+        "B\u0101z Bandeh"
+    ],
+    "name:und_x_variant":[
+        "W\u0101zbandeh",
+        "V\u0101z Bandeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112078
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2d861ad1e54a48fd4c1d477735f2236f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720255,
+            "locality_id":1193225275,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1193225275,
+    "wof:lastmodified":1537643045,
+    "wof:name":"Baz Bandeh",
+    "wof:parent_id":1108720255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.0961,
+    32.6442,
+    53.0961,
+    32.6442
+],
+  "geometry": {"coordinates":[53.0961,32.6442],"type":"Point"}
+}

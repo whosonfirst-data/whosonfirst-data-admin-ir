@@ -1,0 +1,75 @@
+{
+  "id": 1293253225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.94917,28.81861,57.94917,28.81861",
+    "geom:latitude":28.81861,
+    "geom:longitude":57.94917,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Khvod Kharan",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":2163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":400334,
+    "gn:latitude":28.81861,
+    "gn:longitude":57.94917,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Khvod Kh\u0101r\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Khvod Kh\u0101r\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Khor Khor\u0101n",
+        "Khvod Khv\u0101r\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400334
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0b1d4836c69a483bea308276225ac490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720081,
+            "locality_id":1293253225,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1293253225,
+    "wof:lastmodified":1537646493,
+    "wof:name":"Khvod Kharan",
+    "wof:parent_id":1108720081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.94917,
+    28.81861,
+    57.94917,
+    28.81861
+],
+  "geometry": {"coordinates":[57.94917,28.81861],"type":"Point"}
+}

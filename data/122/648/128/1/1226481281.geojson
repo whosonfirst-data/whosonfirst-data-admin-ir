@@ -1,0 +1,77 @@
+{
+  "id": 1226481281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.1441,36.7614,49.1441,36.7614",
+    "geom:latitude":36.7614,
+    "geom:longitude":49.1441,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Kashkeh Var",
+    "gn:country_code":"IR",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":41280,
+    "gn:latitude":36.7614,
+    "gn:longitude":49.1441,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Kashkeh Var",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0634\u0643\u0648\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0634\u06a9\u0647 \u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Kashkevar",
+        "Kashkeh Var"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108720315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":41280
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2099e6e4b7d8ea688f3925916278b745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720315,
+            "locality_id":1226481281,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1226481281,
+    "wof:lastmodified":1537642329,
+    "wof:name":"Kashkeh Var",
+    "wof:parent_id":1108720315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.1441,
+    36.7614,
+    49.1441,
+    36.7614
+],
+  "geometry": {"coordinates":[49.1441,36.7614],"type":"Point"}
+}

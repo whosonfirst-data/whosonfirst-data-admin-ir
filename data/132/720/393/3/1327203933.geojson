@@ -1,0 +1,73 @@
+{
+  "id": 1327203933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.61195,32.30771,48.61195,32.30771",
+    "geom:latitude":32.30771,
+    "geom:longitude":48.61195,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Sar Bisheh",
+    "gn:country_code":"IR",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":117205,
+    "gn:latitude":32.30771,
+    "gn:longitude":48.61195,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Sar B\u012bsheh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631 \u0628\u06cc\u0634\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Sar B\u012bsheh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":117205
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f2365831e9a3e2a6b0b5827e4a08c03b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719969,
+            "locality_id":1327203933,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1327203933,
+    "wof:lastmodified":1537643516,
+    "wof:name":"Sar Bisheh",
+    "wof:parent_id":1108719969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.61195,
+    32.30771,
+    48.61195,
+    32.30771
+],
+  "geometry": {"coordinates":[48.61195,32.30771],"type":"Point"}
+}

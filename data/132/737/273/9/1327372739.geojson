@@ -1,0 +1,79 @@
+{
+  "id": 1327372739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.93264,36.01277,48.93264,36.01277",
+    "geom:latitude":36.01277,
+    "geom:longitude":48.93264,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Goli",
+    "gn:country_code":"IR",
+    "gn:dem":2046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":133093,
+    "gn:latitude":36.01277,
+    "gn:longitude":48.93264,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Gol\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Goll\u012b"
+    ],
+    "name:und_x_variant":[
+        "Kal\u012b",
+        "Gali",
+        "Kallu",
+        "Gol\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672361,
+        1108719787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":133093
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"99b4732915d5dfe150279b90d1f06d49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719787,
+            "locality_id":1327372739,
+            "region_id":85672361
+        }
+    ],
+    "wof:id":1327372739,
+    "wof:lastmodified":1537645139,
+    "wof:name":"Goli",
+    "wof:parent_id":1108719787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.93264,
+    36.01277,
+    48.93264,
+    36.01277
+],
+  "geometry": {"coordinates":[48.93264,36.01277],"type":"Point"}
+}

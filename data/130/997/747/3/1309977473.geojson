@@ -1,0 +1,80 @@
+{
+  "id": 1309977473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.2595,33.8485,47.2595,33.8485",
+    "geom:latitude":33.8485,
+    "geom:longitude":47.2595,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Anarak-e Sevvom",
+    "gn:country_code":"IR",
+    "gn:dem":1337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":28557,
+    "gn:latitude":33.8485,
+    "gn:longitude":47.2595,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"An\u0101rak-e Sevvom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u0627\u0631\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "An\u0101rak-e \u2018Oly\u0101",
+        "An\u0101rak",
+        "\u0627\u0646\u0627\u0631\u06a9 \u0633\u0648\u0645",
+        "\u0627\u0646\u0627\u0631\u06a9 \u0633\u0641\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "An\u0101rak-e Sevvom",
+        "An\u0101rak-e Sofl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":28557
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"37d0f1aa051b639b158626dfcbd76a71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720117,
+            "locality_id":1309977473,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1309977473,
+    "wof:lastmodified":1537641552,
+    "wof:name":"Anarak-e Sevvom",
+    "wof:parent_id":1108720117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.2595,
+    33.8485,
+    47.2595,
+    33.8485
+],
+  "geometry": {"coordinates":[47.2595,33.8485],"type":"Point"}
+}

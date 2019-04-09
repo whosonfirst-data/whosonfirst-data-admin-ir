@@ -1,0 +1,79 @@
+{
+  "id": 1293242675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.9663,28.4313,56.9663,28.4313",
+    "geom:latitude":28.4313,
+    "geom:longitude":56.9663,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Shoghar Ku",
+    "gn:country_code":"IR",
+    "gn:dem":1830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6986579,
+    "gn:latitude":28.4313,
+    "gn:longitude":56.9663,
+    "gn:modification_date":"2014-04-07",
+    "gn:name":"Shogh\u0101r K\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u063a\u0627\u0631 \u06a9\u0648\u06cc\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Shogh\u0101r K\u016byeh",
+        "\u0634\u063a\u0627\u0631 \u06a9\u0648",
+        "\u0634\u063a\u0627\u0644 \u06a9\u0648\u0647"
+    ],
+    "name:und_x_variant":[
+        "Shogh\u0101r K\u016b",
+        "Shogh\u0101l K\u016bh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6986579
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4f8d3be4719b809aa545c266f8b0ac80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719851,
+            "locality_id":1293242675,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1293242675,
+    "wof:lastmodified":1537647857,
+    "wof:name":"Shoghar Ku",
+    "wof:parent_id":1108719851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.9663,
+    28.4313,
+    56.9663,
+    28.4313
+],
+  "geometry": {"coordinates":[56.9663,28.4313],"type":"Point"}
+}

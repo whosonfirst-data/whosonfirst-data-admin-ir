@@ -1,0 +1,74 @@
+{
+  "id": 1226088611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.7325,28.4247,57.7325,28.4247",
+    "geom:latitude":28.4247,
+    "geom:longitude":57.7325,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Ab Garm",
+    "gn:country_code":"IR",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":400104,
+    "gn:latitude":28.4247,
+    "gn:longitude":57.7325,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100b Garm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0628 \u06af\u0631\u0645"
+    ],
+    "name:fas_x_variant":[
+        "\u0100b Garm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400104,
+        "wk:page":"Ab_Garm,_Hoseynabad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6303b88861ec8e177a64edecf7d63b14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719809,
+            "locality_id":1226088611,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1226088611,
+    "wof:lastmodified":1537646489,
+    "wof:name":"Ab Garm",
+    "wof:parent_id":1108719809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.7325,
+    28.4247,
+    57.7325,
+    28.4247
+],
+  "geometry": {"coordinates":[57.7325,28.4247],"type":"Point"}
+}

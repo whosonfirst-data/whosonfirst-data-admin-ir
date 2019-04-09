@@ -1,0 +1,73 @@
+{
+  "id": 1193012599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.6391,28.6555,54.6391,28.6555",
+    "geom:latitude":28.6555,
+    "geom:longitude":54.6391,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Qal`eh Eram",
+    "gn:country_code":"IR",
+    "gn:dem":1119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6976831,
+    "gn:latitude":28.6555,
+    "gn:longitude":54.6391,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Qal\u2018eh Eram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0639\u0647 \u0627\u0631\u0645"
+    ],
+    "name:fas_x_variant":[
+        "Qal\u2018eh Eram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108719939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6976831
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8297f092f34d982407ace78db2019467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719939,
+            "locality_id":1193012599,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1193012599,
+    "wof:lastmodified":1537647798,
+    "wof:name":"Qal`eh Eram",
+    "wof:parent_id":1108719939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.6391,
+    28.6555,
+    54.6391,
+    28.6555
+],
+  "geometry": {"coordinates":[54.6391,28.6555],"type":"Point"}
+}

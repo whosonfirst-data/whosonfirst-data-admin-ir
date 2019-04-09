@@ -1,0 +1,73 @@
+{
+  "id": 1310356247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.00665,33.70405,52.00665,33.70405",
+    "geom:latitude":33.70405,
+    "geom:longitude":52.00665,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Rahmatabad",
+    "gn:country_code":"IR",
+    "gn:dem":986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8608601,
+    "gn:latitude":33.70405,
+    "gn:longitude":52.00665,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Ra\u1e29mat\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u062d\u0645\u062a \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Ra\u1e29mat\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8608601
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"71e8a01b5f4019a17e1bd722a017814a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720267,
+            "locality_id":1310356247,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1310356247,
+    "wof:lastmodified":1537648592,
+    "wof:name":"Rahmatabad",
+    "wof:parent_id":1108720267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.00665,
+    33.70405,
+    52.00665,
+    33.70405
+],
+  "geometry": {"coordinates":[52.00665,33.70405],"type":"Point"}
+}

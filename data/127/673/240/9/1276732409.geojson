@@ -1,0 +1,76 @@
+{
+  "id": 1276732409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.3016,30.98526,49.3016,30.98526",
+    "geom:latitude":30.98526,
+    "geom:longitude":49.3016,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Hasayyef",
+    "gn:country_code":"IR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6648092,
+    "gn:latitude":30.98526,
+    "gn:longitude":49.3016,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ha\u015fayyef",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0635\u06cc\u0641"
+    ],
+    "name:fas_x_variant":[
+        "Ha\u015fayyef",
+        "\u2018Oseyf",
+        "\u1e28a\u015f\u012bf",
+        "\u0639\u0633\u06cc\u0641"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6648092
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8906dae32c33e91368d1fde65fe2ba9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720335,
+            "locality_id":1276732409,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1276732409,
+    "wof:lastmodified":1537647173,
+    "wof:name":"Hasayyef",
+    "wof:parent_id":1108720335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.3016,
+    30.98526,
+    49.3016,
+    30.98526
+],
+  "geometry": {"coordinates":[49.3016,30.98526],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276872173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.96667,25.71667,59.96667,25.71667",
+    "geom:latitude":25.71667,
+    "geom:longitude":59.96667,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kalag",
+    "gn:country_code":"IR",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":43117,
+    "gn:latitude":25.71667,
+    "gn:longitude":59.96667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kalag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":43117
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b2253735b3c848d5d2b7cb6980957950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720163,
+            "locality_id":1276872173,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1276872173,
+    "wof:lastmodified":1537049392,
+    "wof:name":"Kalag",
+    "wof:parent_id":1108720163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.96666999999999,
+    25.71667,
+    59.96666999999999,
+    25.71667
+],
+  "geometry": {"coordinates":[59.96666999999999,25.71667],"type":"Point"}
+}

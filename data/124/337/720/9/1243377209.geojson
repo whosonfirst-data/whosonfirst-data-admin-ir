@@ -1,0 +1,67 @@
+{
+  "id": 1243377209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.1475,36.94306,46.1475,36.94306",
+    "geom:latitude":36.94306,
+    "geom:longitude":46.1475,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Qareh Veran",
+    "gn:country_code":"IR",
+    "gn:dem":1299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":119733,
+    "gn:latitude":36.94306,
+    "gn:longitude":46.1475,
+    "gn:modification_date":"2011-02-07",
+    "gn:name":"Qareh Veran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":119733
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ad6c8157d124326ee83ec330a2e20ecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720241,
+            "locality_id":1243377209,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1243377209,
+    "wof:lastmodified":1536905560,
+    "wof:name":"Qareh Veran",
+    "wof:parent_id":1108720241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.1475,
+    36.94306,
+    46.1475,
+    36.94306
+],
+  "geometry": {"coordinates":[46.1475,36.94306],"type":"Point"}
+}

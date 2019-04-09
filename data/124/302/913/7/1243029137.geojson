@@ -1,0 +1,79 @@
+{
+  "id": 1243029137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.04146,29.22088,57.04146,29.22088",
+    "geom:latitude":29.22088,
+    "geom:longitude":57.04146,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Razinu'iyeh",
+    "gn:country_code":"IR",
+    "gn:dem":2045,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":42647,
+    "gn:latitude":29.22088,
+    "gn:longitude":57.04146,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Raz\u012bn\u016b\u2019\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Razen\u016b\u2019\u012byeh"
+    ],
+    "name:fas_x_variant":[
+        "Raz\u012bn\u016b\u2019\u012byeh",
+        "\u0631\u0632\u06cc\u0646\u0648\u0626\u06cc\u0647",
+        "\u0631\u0636\u0646\u0648\u064a\u06cc\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0631\u0632\u06cc\u0646\u0648\u0626\u06cc\u0647",
+        "Ra\u1e95en\u016b\u2019\u012byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":42647
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"025171b56296ab9f4bedcbbadf7cbd93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719851,
+            "locality_id":1243029137,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1243029137,
+    "wof:lastmodified":1537642418,
+    "wof:name":"Razinu'iyeh",
+    "wof:parent_id":1108719851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.04146,
+    29.22088,
+    57.04146,
+    29.22088
+],
+  "geometry": {"coordinates":[57.04146,29.22088],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310175309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.06667,31.73333,49.06667,31.73333",
+    "geom:latitude":31.73333,
+    "geom:longitude":49.06667,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Kharan-e Sofla",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":127820,
+    "gn:latitude":31.73333,
+    "gn:longitude":49.06667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Khar\u0101n-e Sofl\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Khar\u0101n-e Sofl\u0101"
+    ],
+    "name:und_x_variant":[
+        "Khar\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":127820
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"97abe0323ba289430ad92bcfe07d222f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720457,
+            "locality_id":1310175309,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1310175309,
+    "wof:lastmodified":1537644597,
+    "wof:name":"Kharan-e Sofla",
+    "wof:parent_id":1108720457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.06667,
+    31.73333,
+    49.06667,
+    31.73333
+],
+  "geometry": {"coordinates":[49.06667,31.73333],"type":"Point"}
+}

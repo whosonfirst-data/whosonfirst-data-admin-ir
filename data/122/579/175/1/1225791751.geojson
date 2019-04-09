@@ -1,0 +1,74 @@
+{
+  "id": 1225791751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.3432,28.9344,55.3432,28.9344",
+    "geom:latitude":28.9344,
+    "geom:longitude":55.3432,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Chah Sangari",
+    "gn:country_code":"IR",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6980233,
+    "gn:latitude":28.9344,
+    "gn:longitude":55.3432,
+    "gn:modification_date":"2013-11-12",
+    "gn:name":"Ch\u0101h Sangar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0647 \u0633\u0646\u06af\u0631\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Ch\u0101h Sangar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6980233,
+        "wk:page":"Chah_Sangari"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"935bc527685a18cff7b185f5a4bdf75f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720461,
+            "locality_id":1225791751,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1225791751,
+    "wof:lastmodified":1537647812,
+    "wof:name":"Chah Sangari",
+    "wof:parent_id":1108720461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.3432,
+    28.9344,
+    55.3432,
+    28.9344
+],
+  "geometry": {"coordinates":[55.3432,28.9344],"type":"Point"}
+}

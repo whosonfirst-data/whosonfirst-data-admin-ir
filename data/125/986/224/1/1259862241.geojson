@@ -1,0 +1,77 @@
+{
+  "id": 1259862241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.38273,30.87921,49.38273,30.87921",
+    "geom:latitude":30.87921,
+    "geom:longitude":49.38273,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Sin",
+    "gn:country_code":"IR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":114307,
+    "gn:latitude":30.87921,
+    "gn:longitude":49.38273,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"S\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u06cc\u0646"
+    ],
+    "name:und_x_variant":[
+        "S\u012bn",
+        "Sen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":114307
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3c91503232e7df83da568e246154e2b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720335,
+            "locality_id":1259862241,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1259862241,
+    "wof:lastmodified":1537643266,
+    "wof:name":"Sin",
+    "wof:parent_id":1108720335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.38273,
+    30.87921,
+    49.38273,
+    30.87921
+],
+  "geometry": {"coordinates":[49.38273,30.87921],"type":"Point"}
+}

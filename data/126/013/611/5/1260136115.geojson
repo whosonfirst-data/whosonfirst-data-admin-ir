@@ -1,0 +1,73 @@
+{
+  "id": 1260136115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.62197,33.06849,49.62197,33.06849",
+    "geom:latitude":33.06849,
+    "geom:longitude":49.62197,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Deh-e Kohneh",
+    "gn:country_code":"IR",
+    "gn:dem":2244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7543052,
+    "gn:latitude":33.06849,
+    "gn:longitude":49.62197,
+    "gn:modification_date":"2017-11-09",
+    "gn:name":"Deh-e Kohneh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062f\u0647 \u06a9\u0647\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u062f\u0647 \u06a9\u0647\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7543052
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"21aa1d448c20f21ba4b7f42a0095b376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719803,
+            "locality_id":1260136115,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1260136115,
+    "wof:lastmodified":1537648331,
+    "wof:name":"Deh-e Kohneh",
+    "wof:parent_id":1108719803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.62197000000001,
+    33.06849,
+    49.62197000000001,
+    33.06849
+],
+  "geometry": {"coordinates":[49.62197000000001,33.06849],"type":"Point"}
+}

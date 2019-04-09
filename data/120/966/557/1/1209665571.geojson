@@ -1,0 +1,67 @@
+{
+  "id": 1209665571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.1305,30.3384,55.1305,30.3384",
+    "geom:latitude":30.3384,
+    "geom:longitude":55.1305,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Havangu",
+    "gn:country_code":"IR",
+    "gn:dem":2217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028504,
+    "gn:latitude":30.3384,
+    "gn:longitude":55.1305,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Havang\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0646\u06af\u0648"
+    ],
+    "name:fas_x_variant":[
+        "Havang\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028504
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cb2f2a44fc36a3eacb0398edacc9a3b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209665571
+        }
+    ],
+    "wof:id":1209665571,
+    "wof:lastmodified":1537647911,
+    "wof:name":"Havangu",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.1305,
+    30.3384,
+    55.1305,
+    30.3384
+],
+  "geometry": {"coordinates":[55.1305,30.3384],"type":"Point"}
+}

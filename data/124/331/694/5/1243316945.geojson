@@ -1,0 +1,73 @@
+{
+  "id": 1243316945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.68333,36.35,52.68333,36.35",
+    "geom:latitude":36.35,
+    "geom:longitude":52.68333,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Rud Bar",
+    "gn:country_code":"IR",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11323,
+    "gn:latitude":36.35,
+    "gn:longitude":52.68333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"R\u016bd B\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u062f \u0628\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "R\u016bd B\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11323
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4d93366a283f9b1ab98b0848b5d54681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719845,
+            "locality_id":1243316945,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1243316945,
+    "wof:lastmodified":1537640624,
+    "wof:name":"Rud Bar",
+    "wof:parent_id":1108719845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.68333000000001,
+    36.35,
+    52.68333000000001,
+    36.35
+],
+  "geometry": {"coordinates":[52.68333000000001,36.35],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1193029657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.8437,37.9424,44.8437,37.9424",
+    "geom:latitude":37.9424,
+    "geom:longitude":44.8437,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Qahraman",
+    "gn:country_code":"IR",
+    "gn:dem":1850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":21037,
+    "gn:latitude":37.9424,
+    "gn:longitude":44.8437,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qahram\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u064e\u0647\u0631\u064e\u0645\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0642\u0647\u0631\u0645\u0627\u0646",
+        "Qahram\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":21037
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ae3c527b5ef2284e70e6c8f70f821f8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720289,
+            "locality_id":1193029657,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1193029657,
+    "wof:lastmodified":1537641058,
+    "wof:name":"Qahraman",
+    "wof:parent_id":1108720289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.8437,
+    37.9424,
+    44.8437,
+    37.9424
+],
+  "geometry": {"coordinates":[44.8437,37.9424],"type":"Point"}
+}

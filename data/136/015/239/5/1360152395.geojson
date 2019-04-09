@@ -1,0 +1,75 @@
+{
+  "id": 1360152395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.47645,36.02857,53.47645,36.02857",
+    "geom:latitude":36.02857,
+    "geom:longitude":53.47645,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"Mahdishahr (undefined)",
+    "gn:asciiname":"Kavard",
+    "gn:country_code":"IR",
+    "gn:dem":1715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11039,
+    "gn:latitude":36.02857,
+    "gn:longitude":53.47645,
+    "gn:modification_date":"2014-01-02",
+    "gn:name":"K\u0101vard",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0627\u0648\u0631\u062f"
+    ],
+    "name:fas_x_variant":[
+        "K\u0101vard"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672309,
+        1108720419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11039,
+        "wk:page":"Kavard"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a2af3093f0fce25212c1402f3cdbdc6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720419,
+            "locality_id":1360152395,
+            "region_id":85672309
+        }
+    ],
+    "wof:id":1360152395,
+    "wof:lastmodified":1537640603,
+    "wof:name":"Kavard",
+    "wof:parent_id":1108720419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.47645,
+    36.02857,
+    53.47645,
+    36.02857
+],
+  "geometry": {"coordinates":[53.47645,36.02857],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243607575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.76101,36.85584,50.76101,36.85584",
+    "geom:latitude":36.85584,
+    "geom:longitude":50.76101,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Nur od Din Mahalleh",
+    "gn:country_code":"IR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7784973,
+    "gn:latitude":36.85584,
+    "gn:longitude":50.76101,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"N\u016br od D\u012bn Ma\u1e29alleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "N\u016br od D\u012bn Ma\u1e29alleh"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0648\u0631\u0627\u0644\u062f\u06cc\u0646 \u0645\u062d\u0644\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7784973
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0699bf1848cd9f0f231309da7fccc814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720495,
+            "locality_id":1243607575,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1243607575,
+    "wof:lastmodified":1537648496,
+    "wof:name":"Nur od Din Mahalleh",
+    "wof:parent_id":1108720495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.76101,
+    36.85584,
+    50.76101,
+    36.85584
+],
+  "geometry": {"coordinates":[50.76101,36.85584],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209688707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.4328,32.3296,49.4328,32.3296",
+    "geom:latitude":32.3296,
+    "geom:longitude":49.4328,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Boneh Parlak",
+    "gn:country_code":"IR",
+    "gn:dem":738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":120348,
+    "gn:latitude":32.3296,
+    "gn:longitude":49.4328,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Boneh P\u0101rlak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Qal\u2018eh-ye Del\u012b",
+        "Del\u012b",
+        "\u0628\u0646\u0647 \u067e\u0627\u0631\u0644\u06a9"
+    ],
+    "name:und_x_variant":[
+        "Qal\u2018eh-i-Dilli",
+        "Boneh P\u0101rlak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":120348
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d76597ef3b858b15a77934ddc90bf927",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209688707
+        }
+    ],
+    "wof:id":1209688707,
+    "wof:lastmodified":1537643848,
+    "wof:name":"Boneh Parlak",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.4328,
+    32.3296,
+    49.4328,
+    32.3296
+],
+  "geometry": {"coordinates":[49.4328,32.3296],"type":"Point"}
+}

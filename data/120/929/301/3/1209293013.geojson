@@ -1,0 +1,64 @@
+{
+  "id": 1209293013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.0635,32.786,47.0635,32.786",
+    "geom:latitude":32.786,
+    "geom:longitude":47.0635,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Sofreh",
+    "gn:country_code":"IR",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6719766,
+    "gn:latitude":32.786,
+    "gn:longitude":47.0635,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sofreh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0641\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6719766
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"781a4d62807b1c0248a7663f4ecab6b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209293013
+        }
+    ],
+    "wof:id":1209293013,
+    "wof:lastmodified":1537647483,
+    "wof:name":"Sofreh",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.0635,
+    32.786,
+    47.0635,
+    32.786
+],
+  "geometry": {"coordinates":[47.0635,32.786],"type":"Point"}
+}

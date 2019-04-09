@@ -1,0 +1,77 @@
+{
+  "id": 1360307839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.45,30.8,51.45,30.8",
+    "geom:latitude":30.8,
+    "geom:longitude":51.45,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Nureh",
+    "gn:country_code":"IR",
+    "gn:dem":1788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":67264,
+    "gn:latitude":30.8,
+    "gn:longitude":51.45,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"N\u016breh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0631\u0650\u0647"
+    ],
+    "name:fas_x_variant":[
+        "N\u016breh"
+    ],
+    "name:und_x_variant":[
+        "Nura",
+        "Nurr\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108719965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":67264
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"befa8df561e7da5c22fbef212911984a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719965,
+            "locality_id":1360307839,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1360307839,
+    "wof:lastmodified":1537642832,
+    "wof:name":"Nureh",
+    "wof:parent_id":1108719965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.45,
+    30.8,
+    51.45,
+    30.8
+],
+  "geometry": {"coordinates":[51.45,30.8],"type":"Point"}
+}

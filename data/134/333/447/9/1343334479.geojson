@@ -1,0 +1,83 @@
+{
+  "id": 1343334479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.81552,32.04551,48.81552,32.04551",
+    "geom:latitude":32.04551,
+    "geom:longitude":48.81552,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Malaki",
+    "gn:country_code":"IR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":119706,
+    "gn:latitude":32.04551,
+    "gn:longitude":48.81552,
+    "gn:modification_date":"2015-11-07",
+    "gn:name":"Malak\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0646\u0647 \u0645\u0644\u06a9\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Qerqereh-ye Malak\u012b",
+        "Bonah-ye Malak\u012b",
+        "\u0645\u0644\u06a9\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Qorqore",
+        "Qarqareh-ye Mehd\u012b",
+        "Qarqareh",
+        "Malak\u012b",
+        "\u0642\u0631\u0642\u0631\u0647 \u0645\u0644\u06a9\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":119706,
+        "wk:page":"Qerqereh-ye_Malaki"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0e8fa4ecd9c6cf89a1319abdf4f06d1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720457,
+            "locality_id":1343334479,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1343334479,
+    "wof:lastmodified":1537643772,
+    "wof:name":"Malaki",
+    "wof:parent_id":1108720457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.81552,
+    32.04551,
+    48.81552,
+    32.04551
+],
+  "geometry": {"coordinates":[48.81552,32.04551],"type":"Point"}
+}

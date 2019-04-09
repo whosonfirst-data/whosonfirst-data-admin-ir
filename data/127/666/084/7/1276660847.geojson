@@ -1,0 +1,74 @@
+{
+  "id": 1276660847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.2019,36.5252,47.2019,36.5252",
+    "geom:latitude":36.5252,
+    "geom:longitude":47.2019,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Qarah Naz",
+    "gn:country_code":"IR",
+    "gn:dem":2046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":26504,
+    "gn:latitude":36.5252,
+    "gn:longitude":47.2019,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Qarah N\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u0647 \u0646\u0627\u0632"
+    ],
+    "name:fas_x_variant":[
+        "Qareh N\u0101z",
+        "Qarah N\u0101z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":26504
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9a2f478acbbb97b6a067f74e019017e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720477,
+            "locality_id":1276660847,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1276660847,
+    "wof:lastmodified":1537641399,
+    "wof:name":"Qarah Naz",
+    "wof:parent_id":1108720477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.2019,
+    36.5252,
+    47.2019,
+    36.5252
+],
+  "geometry": {"coordinates":[47.2019,36.5252],"type":"Point"}
+}

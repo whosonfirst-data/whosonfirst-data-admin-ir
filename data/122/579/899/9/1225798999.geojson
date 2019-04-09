@@ -1,0 +1,83 @@
+{
+  "id": 1225798999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.2671,35.1311,50.2671,35.1311",
+    "geom:latitude":35.1311,
+    "geom:longitude":50.2671,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Siljerd",
+    "gn:country_code":"IR",
+    "gn:dem":1531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":114327,
+    "gn:latitude":35.1311,
+    "gn:longitude":50.2671,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"S\u012bljerd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0644\u06cc \u062c\u0631\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u064a\u0644\u064a\u062c\u0631\u062f",
+        "S\u012bl\u012bjerd",
+        "Sh\u012bl\u012bjerd",
+        "\u0633\u064a\u0644\u062c\u0631\u062f"
+    ],
+    "name:und_x_variant":[
+        "Sel\u012b Jerd",
+        "S\u012bl\u012b Gerd",
+        "S\u012bl\u012bg\u012brd",
+        "S\u012bljerd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":114327,
+        "wk:page":"Selijerd"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fcb8970b420ad2abf9884a765e017481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720407,
+            "locality_id":1225798999,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1225798999,
+    "wof:lastmodified":1537643269,
+    "wof:name":"Siljerd",
+    "wof:parent_id":1108720407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.2671,
+    35.1311,
+    50.2671,
+    35.1311
+],
+  "geometry": {"coordinates":[50.2671,35.1311],"type":"Point"}
+}

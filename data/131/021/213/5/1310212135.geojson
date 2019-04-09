@@ -1,0 +1,80 @@
+{
+  "id": 1310212135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.06192,32.19419,50.06192,32.19419",
+    "geom:latitude":32.19419,
+    "geom:longitude":50.06192,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Hoseynabad",
+    "gn:country_code":"IR",
+    "gn:dem":1587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":124811,
+    "gn:latitude":32.19419,
+    "gn:longitude":50.06192,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28oseyn\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u1e28oseyn\u0101b\u0101d"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u064e\u0631\u063a\u0634\u0627\u0647",
+        "\u0645\u064e\u0631\u063a\u0650 \u0634\u0627\u0647",
+        "\u062d\u0633\u064a\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Margh-e Sh\u0101h",
+        "Marghsh\u0101h",
+        "\u062d\u0633\u064a\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672319,
+        1108720171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":124811
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1959987637af4ec3716d706674832ad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720171,
+            "locality_id":1310212135,
+            "region_id":85672319
+        }
+    ],
+    "wof:id":1310212135,
+    "wof:lastmodified":1537644288,
+    "wof:name":"Hoseynabad",
+    "wof:parent_id":1108720171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.06192,
+    32.19419,
+    50.06192,
+    32.19419
+],
+  "geometry": {"coordinates":[50.06192,32.19419],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1243012567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.60282,36.48207,52.60282,36.48207",
+    "geom:latitude":36.48207,
+    "geom:longitude":52.60282,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Khorasan Mahalleh",
+    "gn:country_code":"IR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11032,
+    "gn:latitude":36.48207,
+    "gn:longitude":52.60282,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Khor\u0101s\u0101n Ma\u1e29alleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0631\u0627\u0633\u0627\u0646 \u0645\u062d\u0644\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Khor\u0101s\u0101n Ma\u1e29alleh"
+    ],
+    "name:und_x_variant":[
+        "\u062e\u064f\u0631\u0627\u0633\u0627\u0646 \u0645\u064e\u062d\u064e\u0644\u0650\u0651\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11032,
+        "wk:page":"Khorasan_Mahalleh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2c1a7f1527b23abf88b41e76792cc14b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719845,
+            "locality_id":1243012567,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1243012567,
+    "wof:lastmodified":1537640603,
+    "wof:name":"Khorasan Mahalleh",
+    "wof:parent_id":1108719845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.60282,
+    36.48207,
+    52.60282,
+    36.48207
+],
+  "geometry": {"coordinates":[52.60282,36.48207],"type":"Point"}
+}

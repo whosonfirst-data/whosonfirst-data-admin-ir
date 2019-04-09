@@ -1,0 +1,74 @@
+{
+  "id": 1260315467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.85526,35.50297,59.85526,35.50297",
+    "geom:latitude":35.50297,
+    "geom:longitude":59.85526,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Lukhi",
+    "gn:country_code":"IR",
+    "gn:dem":1795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":34129,
+    "gn:latitude":35.50297,
+    "gn:longitude":59.85526,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"L\u016bkh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u062e\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "L\u016bkh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108719995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":34129,
+        "wk:page":"Lukhi,_Qalandarabad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1efff9a2514fbeedf22508d97a324dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719995,
+            "locality_id":1260315467,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1260315467,
+    "wof:lastmodified":1537641897,
+    "wof:name":"Lukhi",
+    "wof:parent_id":1108719995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.85526,
+    35.50297,
+    59.85526,
+    35.50297
+],
+  "geometry": {"coordinates":[59.85526,35.50297],"type":"Point"}
+}

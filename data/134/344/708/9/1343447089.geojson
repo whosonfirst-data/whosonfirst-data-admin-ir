@@ -1,0 +1,74 @@
+{
+  "id": 1343447089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.2126,34.3711,46.2126,34.3711",
+    "geom:latitude":34.3711,
+    "geom:longitude":46.2126,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Risani",
+    "gn:country_code":"IR",
+    "gn:dem":1632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":25765,
+    "gn:latitude":34.3711,
+    "gn:longitude":46.2126,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"R\u012bsan\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0633\u0627\u0646\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "R\u012bsan\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108719933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":25765,
+        "wk:page":"Risani"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"70c952cd7f2f3a4cf31a62407671e3c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719933,
+            "locality_id":1343447089,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1343447089,
+    "wof:lastmodified":1537641348,
+    "wof:name":"Risani",
+    "wof:parent_id":1108719933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.2126,
+    34.3711,
+    46.2126,
+    34.3711
+],
+  "geometry": {"coordinates":[46.2126,34.3711],"type":"Point"}
+}

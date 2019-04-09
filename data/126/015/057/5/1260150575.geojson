@@ -1,0 +1,74 @@
+{
+  "id": 1260150575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.2401,30.33946,48.2401,30.33946",
+    "geom:latitude":30.33946,
+    "geom:longitude":48.2401,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Ra's-e Jonubi",
+    "gn:country_code":"IR",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":44931,
+    "gn:latitude":30.33946,
+    "gn:longitude":48.2401,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Ra\u2019s-e Jon\u016bb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u0623\u0633 \u062c\u0646\u0648\u0628\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Raddeh-ye \u2018\u0100mer\u012b",
+        "Ra\u2019s-e Jon\u016bb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":44931
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"77c1ef52b572144f34f10c857538dcb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720151,
+            "locality_id":1260150575,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1260150575,
+    "wof:lastmodified":1537642509,
+    "wof:name":"Ra's-e Jonubi",
+    "wof:parent_id":1108720151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.2401,
+    30.33946,
+    48.2401,
+    30.33946
+],
+  "geometry": {"coordinates":[48.2401,30.33946],"type":"Point"}
+}

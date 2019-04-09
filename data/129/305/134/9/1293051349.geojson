@@ -1,0 +1,75 @@
+{
+  "id": 1293051349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.00028,27.91944,58.00028,27.91944",
+    "geom:latitude":27.91944,
+    "geom:longitude":58.00028,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Taradeh",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":113129,
+    "gn:latitude":27.91944,
+    "gn:longitude":58.00028,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u0162ar\u0101deh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0162ar\u0101deh"
+    ],
+    "name:und_x_variant":[
+        "\u0162arr\u0101deh",
+        "Taradeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":113129
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d1e3e71c6b1befbef09c1fdfdeed918a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720363,
+            "locality_id":1293051349,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1293051349,
+    "wof:lastmodified":1537643160,
+    "wof:name":"Taradeh",
+    "wof:parent_id":1108720363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.00028,
+    27.91944,
+    58.00028,
+    27.91944
+],
+  "geometry": {"coordinates":[58.00028,27.91944],"type":"Point"}
+}

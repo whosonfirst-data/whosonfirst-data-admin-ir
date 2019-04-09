@@ -1,0 +1,73 @@
+{
+  "id": 1226615765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.31814,30.33582,48.31814,30.33582",
+    "geom:latitude":30.33582,
+    "geom:longitude":48.31814,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Deh-e Samera",
+    "gn:country_code":"IR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6687552,
+    "gn:latitude":30.33582,
+    "gn:longitude":48.31814,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Deh-e \u015e\u0101mer\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647 \u0635\u0627\u0645\u0631\u0627"
+    ],
+    "name:und_x_variant":[
+        "Deh-e \u015e\u0101mer\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6687552
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"43f10d45e1ad534b73ccff9c2a95a2f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719777,
+            "locality_id":1226615765,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1226615765,
+    "wof:lastmodified":1537647397,
+    "wof:name":"Deh-e Samera",
+    "wof:parent_id":1108719777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.31814,
+    30.33582,
+    48.31814,
+    30.33582
+],
+  "geometry": {"coordinates":[48.31814,30.33582],"type":"Point"}
+}

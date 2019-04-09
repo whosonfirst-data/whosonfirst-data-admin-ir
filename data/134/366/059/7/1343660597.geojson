@@ -1,0 +1,81 @@
+{
+  "id": 1343660597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.73459,30.79812,50.73459,30.79812",
+    "geom:latitude":30.79812,
+    "geom:longitude":50.73459,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Mujer",
+    "gn:country_code":"IR",
+    "gn:dem":812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":123105,
+    "gn:latitude":30.79812,
+    "gn:longitude":50.73459,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"M\u016bjer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u062c\u064e\u0631\u0645\u0650 \u0633\u064e\u0631\u0627\u0628"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0648\u062c\u0650\u0631\u062f",
+        "M\u016bjarm-e Sar\u0101b",
+        "M\u016bjer",
+        "\u0645\u0648\u062c\u0631"
+    ],
+    "name:und_x_variant":[
+        "M\u016bjerd",
+        "M\u016bjer",
+        "\u0645\u0648\u062c\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":123105
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5ef3b7019ee6eabc42a7c8bd31f55b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1343660597,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1343660597,
+    "wof:lastmodified":1537644122,
+    "wof:name":"Mujer",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.73459,
+    30.79812,
+    50.73459,
+    30.79812
+],
+  "geometry": {"coordinates":[50.73459,30.79812],"type":"Point"}
+}

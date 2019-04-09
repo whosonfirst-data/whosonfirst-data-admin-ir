@@ -1,0 +1,73 @@
+{
+  "id": 1260169935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.1457,33.9134,46.1457,33.9134",
+    "geom:latitude":33.9134,
+    "geom:longitude":46.1457,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sartang-e Sofla",
+    "gn:country_code":"IR",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6204,
+    "gn:latitude":33.9134,
+    "gn:longitude":46.1457,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sartang-e Sofl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u062a\u0646\u06af \u0633\u0641\u0644\u0649"
+    ],
+    "name:fas_x_variant":[
+        "Sartang-e Sofl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108720065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6204
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6626413adc0d5d27048f4f723c8069ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720065,
+            "locality_id":1260169935,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1260169935,
+    "wof:lastmodified":1537640324,
+    "wof:name":"Sartang-e Sofla",
+    "wof:parent_id":1108720065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.1457,
+    33.9134,
+    46.1457,
+    33.9134
+],
+  "geometry": {"coordinates":[46.1457,33.9134],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327087793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.25,36.31667,51.25,36.31667",
+    "geom:latitude":36.31667,
+    "geom:longitude":51.25,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Qal`eh Gardan",
+    "gn:country_code":"IR",
+    "gn:dem":1025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643,
+    "gn:latitude":36.31667,
+    "gn:longitude":51.25,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qal\u2018eh Gardan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u064e\u0644\u0639\u0650\u0647 \u06af\u064e\u0631\u062f\u064e\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Qal\u2018eh Gardan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"25dd45c7ac568ae2f70fd000a46d9ebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719925,
+            "locality_id":1327087793,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1327087793,
+    "wof:lastmodified":1537640444,
+    "wof:name":"Qal`eh Gardan",
+    "wof:parent_id":1108719925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.25,
+    36.31667,
+    51.25,
+    36.31667
+],
+  "geometry": {"coordinates":[51.25,36.31667],"type":"Point"}
+}

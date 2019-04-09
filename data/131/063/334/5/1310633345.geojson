@@ -1,0 +1,73 @@
+{
+  "id": 1310633345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.08599,26.33245,59.08599,26.33245",
+    "geom:latitude":26.33245,
+    "geom:longitude":59.08599,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kahirzeh",
+    "gn:country_code":"IR",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9101712,
+    "gn:latitude":26.33245,
+    "gn:longitude":59.08599,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Kah\u012brzeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0647\u06cc\u0631\u0632\u0647"
+    ],
+    "name:und_x_variant":[
+        "Kah\u012brzeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9101712
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"435c0c55c6e5e9e075fcc6eedf99322e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720271,
+            "locality_id":1310633345,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1310633345,
+    "wof:lastmodified":1537648631,
+    "wof:name":"Kahirzeh",
+    "wof:parent_id":1108720271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.08599,
+    26.33245,
+    59.08599,
+    26.33245
+],
+  "geometry": {"coordinates":[59.08599,26.33245],"type":"Point"}
+}

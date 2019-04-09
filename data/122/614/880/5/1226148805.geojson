@@ -1,0 +1,73 @@
+{
+  "id": 1226148805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.80347,27.59988,60.80347,27.59988",
+    "geom:latitude":27.59988,
+    "geom:longitude":60.80347,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Gur Mardow",
+    "gn:country_code":"IR",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7042059,
+    "gn:latitude":27.59988,
+    "gn:longitude":60.80347,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"G\u016br Mardow",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0631 \u0645\u0631\u062f\u0648"
+    ],
+    "name:fas_x_variant":[
+        "G\u016br Mardow"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7042059
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"abb26676f4f8abfbc520bb07bb343905",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720131,
+            "locality_id":1226148805,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1226148805,
+    "wof:lastmodified":1537647930,
+    "wof:name":"Gur Mardow",
+    "wof:parent_id":1108720131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.80347,
+    27.59988,
+    60.80347,
+    27.59988
+],
+  "geometry": {"coordinates":[60.80347,27.59988],"type":"Point"}
+}

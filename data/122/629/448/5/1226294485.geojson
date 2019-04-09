@@ -1,0 +1,79 @@
+{
+  "id": 1226294485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.86457,36.93836,54.86457,36.93836",
+    "geom:latitude":36.93836,
+    "geom:longitude":54.86457,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Savar Kalat",
+    "gn:country_code":"IR",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5248,
+    "gn:latitude":36.93836,
+    "gn:longitude":54.86457,
+    "gn:modification_date":"2018-05-11",
+    "gn:name":"S\u0101var Kal\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Y\u0101var Kal\u0101teh"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0627\u0648\u0631 \u06a9\u0644\u0627\u062a",
+        "\u0633\u0627\u0648\u0631 \u0643\u0644\u0627\u062a\u0647"
+    ],
+    "name:und_x_variant":[
+        "S\u0101var Kal\u0101t",
+        "S\u0101var Kal\u0101teh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108719799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5248,
+        "wk:page":"Savar_Kalateh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"59d2de2e6f401c44b862ef75e3ab7d70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719799,
+            "locality_id":1226294485,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1226294485,
+    "wof:lastmodified":1537640294,
+    "wof:name":"Savar Kalat",
+    "wof:parent_id":1108719799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.86456999999999,
+    36.93836,
+    54.86456999999999,
+    36.93836
+],
+  "geometry": {"coordinates":[54.86456999999999,36.93836],"type":"Point"}
+}

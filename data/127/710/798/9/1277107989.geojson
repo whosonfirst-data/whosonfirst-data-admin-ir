@@ -1,0 +1,76 @@
+{
+  "id": 1277107989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.66363,31.03558,50.66363,31.03558",
+    "geom:latitude":31.03558,
+    "geom:longitude":50.66363,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tang Gah",
+    "gn:country_code":"IR",
+    "gn:dem":1050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7529564,
+    "gn:latitude":31.03558,
+    "gn:longitude":50.66363,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Tang G\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Tang G\u0101h"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0646\u06af \u06af\u0627\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u062a\u0646\u06af \u06af\u0627\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7529564
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b7c9f98c74f1b06f8417565824631c0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1277107989,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1277107989,
+    "wof:lastmodified":1537648303,
+    "wof:name":"Tang Gah",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.66363,
+    31.03558,
+    50.66363,
+    31.03558
+],
+  "geometry": {"coordinates":[50.66363,31.03558],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1309706987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.02784,35.1169,49.02784,35.1169",
+    "geom:latitude":35.1169,
+    "geom:longitude":49.02784,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Taveh",
+    "gn:country_code":"IR",
+    "gn:dem":1637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":113032,
+    "gn:latitude":35.1169,
+    "gn:longitude":49.02784,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"\u0162\u0101veh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0637\u0627\u0648\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0162\u0101veh",
+        "\u062a\u0627\u0648\u0647"
+    ],
+    "name:und_x_variant":[
+        "T\u0101weh",
+        "T\u0101veh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":113032,
+        "wk:page":"Taveh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"13642b3dc7a363cd31843a3637b1086a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720047,
+            "locality_id":1309706987,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1309706987,
+    "wof:lastmodified":1537643150,
+    "wof:name":"Taveh",
+    "wof:parent_id":1108720047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.02784000000001,
+    35.1169,
+    49.02784000000001,
+    35.1169
+],
+  "geometry": {"coordinates":[49.02784000000001,35.1169],"type":"Point"}
+}

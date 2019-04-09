@@ -1,0 +1,73 @@
+{
+  "id": 1310309603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.77922,31.00274,50.77922,31.00274",
+    "geom:latitude":31.00274,
+    "geom:longitude":50.77922,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Deh-e `Ali",
+    "gn:country_code":"IR",
+    "gn:dem":1314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11265562,
+    "gn:latitude":31.00274,
+    "gn:longitude":50.77922,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Deh-e \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647 \u0639\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Deh-e \u2018Al\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108719911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11265562
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bf9517a8d39e5daf474d3d3e04f2d537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719911,
+            "locality_id":1310309603,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1310309603,
+    "wof:lastmodified":1537648760,
+    "wof:name":"Deh-e `Ali",
+    "wof:parent_id":1108719911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.77922,
+    31.00274000000001,
+    50.77922,
+    31.00274000000001
+],
+  "geometry": {"coordinates":[50.77922,31.00274000000001],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1243415579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.96733,32.88083,49.96733,32.88083",
+    "geom:latitude":32.88083,
+    "geom:longitude":49.96733,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Khersanak",
+    "gn:country_code":"IR",
+    "gn:dem":2513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":127603,
+    "gn:latitude":32.88083,
+    "gn:longitude":49.96733,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Khers\u0101nak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Khers\u0101nak M\u016bg\u016b\u2019\u012b"
+    ],
+    "name:fas_x_variant":[
+        "Khers\u0101nak",
+        "\u062e\u0631\u0633\u0627\u0646\u06a9",
+        "\u062e\u0648\u0634 \u0628\u0647\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Khers\u0101nak",
+        "\u062e\u0631\u0633\u0627\u0646\u06a9",
+        "Khowsh Bah\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":127603
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bf6fc4c7f7162e02557cc90421e3bcfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720007,
+            "locality_id":1243415579,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1243415579,
+    "wof:lastmodified":1537644576,
+    "wof:name":"Khersanak",
+    "wof:parent_id":1108720007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.96733,
+    32.88083,
+    49.96733,
+    32.88083
+],
+  "geometry": {"coordinates":[49.96733,32.88083],"type":"Point"}
+}

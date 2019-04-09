@@ -1,0 +1,74 @@
+{
+  "id": 1277080077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.2392,26.241,60.2392,26.241",
+    "geom:latitude":26.241,
+    "geom:longitude":60.2392,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pey Bishak",
+    "gn:country_code":"IR",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1114631,
+    "gn:latitude":26.241,
+    "gn:longitude":60.2392,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Pey B\u012bshak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u06cc \u0628\u06cc\u0634\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "P\u012br B\u012bshak",
+        "Pey B\u012bshak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1114631
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dd23f9500170de44f92460a822235ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720271,
+            "locality_id":1277080077,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1277080077,
+    "wof:lastmodified":1537646923,
+    "wof:name":"Pey Bishak",
+    "wof:parent_id":1108720271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.2392,
+    26.241,
+    60.2392,
+    26.241
+],
+  "geometry": {"coordinates":[60.2392,26.241],"type":"Point"}
+}

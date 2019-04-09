@@ -1,0 +1,70 @@
+{
+  "id": 1243267481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.63333,38.45,44.63333,38.45",
+    "geom:latitude":38.45,
+    "geom:longitude":44.63333,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kafarchin",
+    "gn:country_code":"IR",
+    "gn:dem":2084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":40522,
+    "gn:latitude":38.45,
+    "gn:longitude":44.63333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kafarch\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Kafarch\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":40522
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e680094748bdd8dc77e1fc22fe57533d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720153,
+            "locality_id":1243267481,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1243267481,
+    "wof:lastmodified":1537642279,
+    "wof:name":"Kafarchin",
+    "wof:parent_id":1108720153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.63333,
+    38.45,
+    44.63333,
+    38.45
+],
+  "geometry": {"coordinates":[44.63333,38.45],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343661761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.74483,31.17521,61.74483,31.17521",
+    "geom:latitude":31.17521,
+    "geom:longitude":61.74483,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"`Alikhan",
+    "gn:country_code":"IR",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6651443,
+    "gn:latitude":31.17521,
+    "gn:longitude":61.74483,
+    "gn:modification_date":"2013-10-09",
+    "gn:name":"\u2018Al\u012bkh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0639\u0644\u06cc\u062e\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u2018Al\u012bkh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6651443
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a84f9965d3d1e4f3baf42e6eb77bdc55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720513,
+            "locality_id":1343661761,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1343661761,
+    "wof:lastmodified":1537647216,
+    "wof:name":"`Alikhan",
+    "wof:parent_id":1108720513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.74483000000001,
+    31.17521,
+    61.74483000000001,
+    31.17521
+],
+  "geometry": {"coordinates":[61.74483000000001,31.17521],"type":"Point"}
+}

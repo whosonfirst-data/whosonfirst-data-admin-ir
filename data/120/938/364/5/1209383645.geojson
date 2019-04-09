@@ -1,0 +1,72 @@
+{
+  "id": 1209383645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.6391,27.3967,52.6391,27.3967",
+    "geom:latitude":27.3967,
+    "geom:longitude":52.6391,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Haleh-ye Jonubi",
+    "gn:country_code":"IR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":132181,
+    "gn:latitude":27.3967,
+    "gn:longitude":52.6391,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"H\u0101leh-ye Jon\u016bb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0644\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0647\u0627\u0644\u0647 \u062c\u0646\u0648\u0628\u06cc",
+        "H\u0101leh",
+        "H\u0101leh-ye Jon\u016bb\u012b"
+    ],
+    "name:und_x_variant":[
+        "H\u0101lleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":132181
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ab2e4c08a1a0667106f799d3a1ad5cb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209383645
+        }
+    ],
+    "wof:id":1209383645,
+    "wof:lastmodified":1537645039,
+    "wof:name":"Haleh-ye Jonubi",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.6391,
+    27.3967,
+    52.6391,
+    27.3967
+],
+  "geometry": {"coordinates":[52.6391,27.3967],"type":"Point"}
+}

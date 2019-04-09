@@ -1,0 +1,82 @@
+{
+  "id": 890450033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.57011,34.79049,48.57011,34.79049",
+    "geom:latitude":34.79049,
+    "geom:longitude":48.57011,
+    "gn:country":"IR",
+    "gn:fcode":"PPLH",
+    "gn:pop":514102,
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Azad Shahr"
+    ],
+    "name:fas_x_preferred":[
+        "\u0100z\u0101dshahr"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u0632\u0627\u062f\u0634\u0647\u0631"
+    ],
+    "name:unk_x_variant":[
+        "\u0622\u0632\u0627\u062f\u0634\u0647\u0631"
+    ],
+    "qs:name":"\u0100z\u0101dshahr",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"11",
+    "src:population":"geonames",
+    "wd:latitude":"37.08694444",
+    "wd:longitude":"55.17388889",
+    "wd:wordcount":121,
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":14256,
+        "gp:id":2254664,
+        "qs:id":79604,
+        "wk:page":"Azadshahr"
+    },
+    "wof:country":"IR",
+    "wof:created":1469052721,
+    "wof:geomhash":"ed8aeed1492a8aa8938f93d35155cf71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720047,
+            "locality_id":890450033,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":890450033,
+    "wof:lastmodified":1527792965,
+    "wof:name":"\u0100z\u0101dshahr",
+    "wof:parent_id":1108720047,
+    "wof:placetype":"locality",
+    "wof:population":514102,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.57011,
+    34.79049,
+    48.57011,
+    34.79049
+],
+  "geometry": {"coordinates":[48.57011,34.79049],"type":"Point"}
+}

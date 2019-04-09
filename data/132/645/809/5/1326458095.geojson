@@ -1,0 +1,73 @@
+{
+  "id": 1326458095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.88917,37.14628,57.88917,37.14628",
+    "geom:latitude":37.14628,
+    "geom:longitude":57.88917,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Amiranlu",
+    "gn:country_code":"IR",
+    "gn:dem":1876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":143578,
+    "gn:latitude":37.14628,
+    "gn:longitude":57.88917,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Am\u012br\u0101nl\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Am\u012br\u0101nl\u016b"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0645\u06cc\u0631\u0627\u0646\u0644\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672401,
+        1108720451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":143578
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"27bc2b6adf717ae1ff33ee005668bee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720451,
+            "locality_id":1326458095,
+            "region_id":85672401
+        }
+    ],
+    "wof:id":1326458095,
+    "wof:lastmodified":1537646190,
+    "wof:name":"Amiranlu",
+    "wof:parent_id":1108720451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.88916999999999,
+    37.14628,
+    57.88916999999999,
+    37.14628
+],
+  "geometry": {"coordinates":[57.88916999999999,37.14628],"type":"Point"}
+}

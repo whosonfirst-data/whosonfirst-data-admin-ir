@@ -1,0 +1,77 @@
+{
+  "id": 1310287045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.51716,35.41459,47.51716,35.41459",
+    "geom:latitude":35.41459,
+    "geom:longitude":47.51716,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Niyaz",
+    "gn:country_code":"IR",
+    "gn:dem":1794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":122227,
+    "gn:latitude":35.41459,
+    "gn:longitude":47.51716,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"N\u012by\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0627\u0632"
+    ],
+    "name:fas_x_variant":[
+        "N\u012b\u0101z"
+    ],
+    "name:und_x_variant":[
+        "N\u012by\u0101z",
+        "Ney\u0101z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":122227
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"65417263138702987959c48c2a5542fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720325,
+            "locality_id":1310287045,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1310287045,
+    "wof:lastmodified":1537644038,
+    "wof:name":"Niyaz",
+    "wof:parent_id":1108720325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.51716,
+    35.41459000000001,
+    47.51716,
+    35.41459000000001
+],
+  "geometry": {"coordinates":[47.51716,35.41459000000001],"type":"Point"}
+}

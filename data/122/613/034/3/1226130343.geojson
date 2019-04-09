@@ -1,0 +1,73 @@
+{
+  "id": 1226130343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.77083,27.135,55.77083,27.135",
+    "geom:latitude":27.135,
+    "geom:longitude":55.77083,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mogh Saleh",
+    "gn:country_code":"IR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":47948,
+    "gn:latitude":27.135,
+    "gn:longitude":55.77083,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mogh \u015e\u0101le\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u064f\u063a \u0635\u0627\u0644\u0650\u062d"
+    ],
+    "name:fas_x_variant":[
+        "Mogh \u015e\u0101le\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108719863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":47948
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"943bdd7b0031c63aff244950746eec33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719863,
+            "locality_id":1226130343,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1226130343,
+    "wof:lastmodified":1537642696,
+    "wof:name":"Mogh Saleh",
+    "wof:parent_id":1108719863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.77083,
+    27.135,
+    55.77083,
+    27.135
+],
+  "geometry": {"coordinates":[55.77083,27.135],"type":"Point"}
+}

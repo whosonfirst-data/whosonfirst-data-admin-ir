@@ -1,0 +1,74 @@
+{
+  "id": 1327059721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.09146,31.99796,59.09146,31.99796",
+    "geom:latitude":31.99796,
+    "geom:longitude":59.09146,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Akbariyeh",
+    "gn:country_code":"IR",
+    "gn:dem":1383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":30123,
+    "gn:latitude":31.99796,
+    "gn:longitude":59.09146,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Akbar\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u06a9\u0628\u0631\u06cc\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Akbar\u012byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108719895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":30123,
+        "wk:page":"Akbariyeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6a94f0e0cf79b8321d2803334ae3190d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719895,
+            "locality_id":1327059721,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1327059721,
+    "wof:lastmodified":1537641667,
+    "wof:name":"Akbariyeh",
+    "wof:parent_id":1108719895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.09146,
+    31.99796,
+    59.09146,
+    31.99796
+],
+  "geometry": {"coordinates":[59.09146,31.99796],"type":"Point"}
+}

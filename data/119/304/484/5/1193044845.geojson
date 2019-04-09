@@ -1,0 +1,83 @@
+{
+  "id": 1193044845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.44304,32.97493,59.44304,32.97493",
+    "geom:latitude":32.97493,
+    "geom:longitude":59.44304,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Rabiyan",
+    "gn:country_code":"IR",
+    "gn:dem":1847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":119012,
+    "gn:latitude":32.97493,
+    "gn:longitude":59.44304,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Rab\u012by\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Rab\u012b\u2018\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "Rab\u012b\u0101n",
+        "\u0631\u0628\u064a\u0627\u0646",
+        "Rabey\u0101n",
+        "\u0631\u0628\u064a\u06cc\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Rab\u012b\u0101n",
+        "Rabey\u0101n",
+        "\u0631\u0628\u064a\u0627\u0646",
+        "Rab\u012by\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108719895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":119012,
+        "wk:page":"Rabian"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dad20f6a4bf88b17879081cde8a8d3ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719895,
+            "locality_id":1193044845,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1193044845,
+    "wof:lastmodified":1537643690,
+    "wof:name":"Rabiyan",
+    "wof:parent_id":1108719895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.44304,
+    32.97493,
+    59.44304,
+    32.97493
+],
+  "geometry": {"coordinates":[59.44304,32.97493],"type":"Point"}
+}

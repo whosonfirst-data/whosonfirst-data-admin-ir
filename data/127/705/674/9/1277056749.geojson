@@ -1,0 +1,77 @@
+{
+  "id": 1277056749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.1331,26.4827,57.1331,26.4827",
+    "geom:latitude":26.4827,
+    "geom:longitude":57.1331,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mishi",
+    "gn:country_code":"IR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":123809,
+    "gn:latitude":26.4827,
+    "gn:longitude":57.1331,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"M\u012bsh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u064a\u0634\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "M\u012bsh\u012b"
+    ],
+    "name:und_x_variant":[
+        "Mishni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":123809,
+        "wk:page":"Mishi"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e88261cd909cb93b52d77a996d5f3bca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720243,
+            "locality_id":1277056749,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1277056749,
+    "wof:lastmodified":1537644190,
+    "wof:name":"Mishi",
+    "wof:parent_id":1108720243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.1331,
+    26.4827,
+    57.1331,
+    26.4827
+],
+  "geometry": {"coordinates":[57.1331,26.4827],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242976645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.84361,29.09722,59.84361,29.09722",
+    "geom:latitude":29.09722,
+    "geom:longitude":59.84361,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Afzalabad",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":144710,
+    "gn:latitude":29.09722,
+    "gn:longitude":59.84361,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Af\u1e95al\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Af\u1e95al\u0101b\u0101d"
+    ],
+    "name:und_x_variant":[
+        "Afzal\u0101p"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":144710
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f6ca95067a828ca3849e3d7f7b571b98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720517,
+            "locality_id":1242976645,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1242976645,
+    "wof:lastmodified":1537646294,
+    "wof:name":"Afzalabad",
+    "wof:parent_id":1108720517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.84361,
+    29.09722,
+    59.84361,
+    29.09722
+],
+  "geometry": {"coordinates":[59.84361,29.09722],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276704737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.1843,36.28228,52.1843,36.28228",
+    "geom:latitude":36.28228,
+    "geom:longitude":52.1843,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Khatib Mahalleh",
+    "gn:country_code":"IR",
+    "gn:dem":2025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11421657,
+    "gn:latitude":36.28228,
+    "gn:longitude":52.1843,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Kha\u0163\u012bb Ma\u1e29alleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0637\u06cc\u0628 \u0645\u062d\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "Kha\u0163\u012bb Ma\u1e29alleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11421657
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f15f19e8ea5b72a527b07a347b09113d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719807,
+            "locality_id":1276704737,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1276704737,
+    "wof:lastmodified":1537648776,
+    "wof:name":"Khatib Mahalleh",
+    "wof:parent_id":1108719807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.1843,
+    36.28228,
+    52.1843,
+    36.28228
+],
+  "geometry": {"coordinates":[52.1843,36.28228],"type":"Point"}
+}

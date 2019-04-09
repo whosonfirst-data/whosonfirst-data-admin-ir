@@ -1,0 +1,78 @@
+{
+  "id": 1193014733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.47242,30.67486,50.47242,30.67486",
+    "geom:latitude":30.67486,
+    "geom:longitude":50.47242,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Senugan",
+    "gn:country_code":"IR",
+    "gn:dem":851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":117443,
+    "gn:latitude":30.67486,
+    "gn:longitude":50.47242,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"\u015een\u016bg\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0635\u0646\u0648\u06af\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Sen\u0101g\u016bn",
+        "\u015een\u016bg\u0101n",
+        "\u0633\u0646\u06af\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Sang\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":117443
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6c5f8308c5714765583088dbb792bcfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1193014733,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1193014733,
+    "wof:lastmodified":1537643545,
+    "wof:name":"Senugan",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.47242,
+    30.67486,
+    50.47242,
+    30.67486
+],
+  "geometry": {"coordinates":[50.47242,30.67486],"type":"Point"}
+}

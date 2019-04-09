@@ -1,0 +1,73 @@
+{
+  "id": 1276599475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.86732,27.74716,58.86732,27.74716",
+    "geom:latitude":27.74716,
+    "geom:longitude":58.86732,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mokhtarabad",
+    "gn:country_code":"IR",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":9017520,
+    "gn:latitude":27.74716,
+    "gn:longitude":58.86732,
+    "gn:modification_date":"2014-05-02",
+    "gn:name":"Mokht\u0101r\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u062d\u062a\u0627\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Mokht\u0101r\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9017520
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5cb4ec2b178e133db29bbfeb5126aba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720363,
+            "locality_id":1276599475,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1276599475,
+    "wof:lastmodified":1537648619,
+    "wof:name":"Mokhtarabad",
+    "wof:parent_id":1108720363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.86731999999999,
+    27.74716,
+    58.86731999999999,
+    27.74716
+],
+  "geometry": {"coordinates":[58.86731999999999,27.74716],"type":"Point"}
+}

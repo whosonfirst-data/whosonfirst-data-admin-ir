@@ -1,0 +1,67 @@
+{
+  "id": 1309684965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.9,30.63333,48.9,30.63333",
+    "geom:latitude":30.63333,
+    "geom:longitude":48.9,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Roveysheh",
+    "gn:country_code":"IR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":12667,
+    "gn:latitude":30.63333,
+    "gn:longitude":48.9,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Roveysheh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12667
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2f0f49e42705d15695d96dbdd7bea2b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720425,
+            "locality_id":1309684965,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1309684965,
+    "wof:lastmodified":1536605478,
+    "wof:name":"Roveysheh",
+    "wof:parent_id":1108720425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.9,
+    30.63333,
+    48.9,
+    30.63333
+],
+  "geometry": {"coordinates":[48.9,30.63333],"type":"Point"}
+}

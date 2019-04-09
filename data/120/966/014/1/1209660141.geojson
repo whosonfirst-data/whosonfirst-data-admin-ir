@@ -1,0 +1,68 @@
+{
+  "id": 1209660141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.72027,33.98585,49.72027,33.98585",
+    "geom:latitude":33.98585,
+    "geom:longitude":49.72027,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Khowrzan-e Sofla",
+    "gn:country_code":"IR",
+    "gn:dem":2188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7516521,
+    "gn:latitude":33.98585,
+    "gn:longitude":49.72027,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Khowrzan-e Sofl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0631\u0632\u0646 \u0633\u0641\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Khowrzan-e Sofl\u00e1",
+        "\u062e\u0648\u0631\u0632\u0646 \u0633\u0641\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7516521
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"27d6f73142a88f6116bac4686cc10a1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209660141
+        }
+    ],
+    "wof:id":1209660141,
+    "wof:lastmodified":1537648282,
+    "wof:name":"Khowrzan-e Sofla",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.72027,
+    33.98585,
+    49.72027,
+    33.98585
+],
+  "geometry": {"coordinates":[49.72027,33.98585],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293229615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.00333,34.545,60.00333,34.545",
+    "geom:latitude":34.545,
+    "geom:longitude":60.00333,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Khvajeh",
+    "gn:country_code":"IR",
+    "gn:dem":1122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1160543,
+    "gn:latitude":34.545,
+    "gn:longitude":60.00333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Khv\u0101jeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Khv\u0101jeh"
+    ],
+    "name:und_x_variant":[
+        "Khvojehvard",
+        "Kh\u0101jeh",
+        "Khv\u0101jehy\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1160543,
+        "wk:page":"Khajeh,_Razavi_Khorasan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"da4b99f7630017799b397cda190de691",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720119,
+            "locality_id":1293229615,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1293229615,
+    "wof:lastmodified":1537647050,
+    "wof:name":"Khvajeh",
+    "wof:parent_id":1108720119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.00333000000001,
+    34.545,
+    60.00333000000001,
+    34.545
+],
+  "geometry": {"coordinates":[60.00333000000001,34.545],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343246819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.08379,37.09123,50.08379,37.09123",
+    "geom:latitude":37.09123,
+    "geom:longitude":50.08379,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Mollaz Gavar",
+    "gn:country_code":"IR",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":28739,
+    "gn:latitude":37.09123,
+    "gn:longitude":50.08379,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Moll\u0101z Gav\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Moll\u0101z Gav\u0101bar"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0648\u0644\u0627\u0632 \u06af\u0648\u0627\u0628\u0631",
+        "\u0645\u0644\u0627\u0632 \u06af\u0648\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u0645\u0648\u0644\u0627\u0632 \u06af\u0648\u0627\u0628\u0631",
+        "Moll\u0101z Gav\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":28739
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4a0dd79d2a8329047baf44a9f42b23f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720183,
+            "locality_id":1343246819,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1343246819,
+    "wof:lastmodified":1537641571,
+    "wof:name":"Mollaz Gavar",
+    "wof:parent_id":1108720183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.08379,
+    37.09123,
+    50.08379,
+    37.09123
+],
+  "geometry": {"coordinates":[50.08379,37.09123],"type":"Point"}
+}

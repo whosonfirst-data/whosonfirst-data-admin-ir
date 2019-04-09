@@ -1,0 +1,83 @@
+{
+  "id": 1226777353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.44486,32.27857,59.44486,32.27857",
+    "geom:latitude":32.27857,
+    "geom:longitude":59.44486,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Hashtugan",
+    "gn:country_code":"IR",
+    "gn:dem":2083,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":125057,
+    "gn:latitude":32.27857,
+    "gn:longitude":59.44486,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Hasht\u016bg\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Hasht\u016bg\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u0647\u0634\u062a\u0648\u06af\u0627\u0646",
+        "Mal\u016bq\u0101n",
+        "Mal\u016bghan"
+    ],
+    "name:und_x_variant":[
+        "Malooghan",
+        "Mal\u016bq\u0101n",
+        "Mal\u016bghan",
+        "Malughau",
+        "\u0647\u0634\u062a\u0648\u06af\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108720259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":125057,
+        "wk:page":"Hashtugan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1c6378fcfcb73ce66a718628c787ea43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720259,
+            "locality_id":1226777353,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1226777353,
+    "wof:lastmodified":1537644311,
+    "wof:name":"Hashtugan",
+    "wof:parent_id":1108720259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.44486,
+    32.27857,
+    59.44486,
+    32.27857
+],
+  "geometry": {"coordinates":[59.44486,32.27857],"type":"Point"}
+}

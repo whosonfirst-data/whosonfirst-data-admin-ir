@@ -1,0 +1,81 @@
+{
+  "id": 1343826575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.3382,29.935,50.3382,29.935",
+    "geom:latitude":29.935,
+    "geom:longitude":50.3382,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Mal Sanan",
+    "gn:country_code":"IR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":125069,
+    "gn:latitude":29.935,
+    "gn:longitude":50.3382,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"M\u0101l San\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0644 \u0633\u0646\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0627\u0644 \u0633\u0650\u0646\u0627\u0646",
+        "\u0645\u0627\u0644 \u0633\u064e\u0646\u0650\u0647",
+        "M\u0101l San\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Mala-i-Sana",
+        "M\u0101l Saneh",
+        "M\u0101l Sen\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108719967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":125069,
+        "wk:page":"Mal_Sanan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"eeb45c28b9413947958500a92032f23a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719967,
+            "locality_id":1343826575,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1343826575,
+    "wof:lastmodified":1537644312,
+    "wof:name":"Mal Sanan",
+    "wof:parent_id":1108719967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.3382,
+    29.935,
+    50.3382,
+    29.935
+],
+  "geometry": {"coordinates":[50.3382,29.935],"type":"Point"}
+}

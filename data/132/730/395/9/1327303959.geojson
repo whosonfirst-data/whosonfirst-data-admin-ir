@@ -1,0 +1,73 @@
+{
+  "id": 1327303959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.2014,32.4467,49.2014,32.4467",
+    "geom:latitude":32.4467,
+    "geom:longitude":49.2014,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Anbar Sefid",
+    "gn:country_code":"IR",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6661981,
+    "gn:latitude":32.4467,
+    "gn:longitude":49.2014,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u0100nb\u0101r Sef\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u0628\u0627\u0631 \u0633\u0641\u06cc\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0100nb\u0101r Sef\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6661981
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fc36eb7217d8e603523761fadd98ebf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720177,
+            "locality_id":1327303959,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1327303959,
+    "wof:lastmodified":1537647295,
+    "wof:name":"Anbar Sefid",
+    "wof:parent_id":1108720177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.2014,
+    32.4467,
+    49.2014,
+    32.4467
+],
+  "geometry": {"coordinates":[49.2014,32.4467],"type":"Point"}
+}

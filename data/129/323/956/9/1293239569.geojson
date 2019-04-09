@@ -1,0 +1,75 @@
+{
+  "id": 1293239569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.42583,32.505,51.42583,32.505",
+    "geom:latitude":32.505,
+    "geom:longitude":51.42583,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Bagh-e Vahsh",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":418946,
+    "gn:latitude":32.505,
+    "gn:longitude":51.42583,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"B\u0101gh-e Va\u1e29sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "B\u0101gh-e Va\u1e29sh"
+    ],
+    "name:und_x_variant":[
+        "B\u0101gh-e Vo\u1e29\u016bsh",
+        "B\u0101gh-i-Vahsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":418946
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"591cab36ffe3e871ae4ef69ab7ef9d14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720261,
+            "locality_id":1293239569,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1293239569,
+    "wof:lastmodified":1537646753,
+    "wof:name":"Bagh-e Vahsh",
+    "wof:parent_id":1108720261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.42583,
+    32.505,
+    51.42583,
+    32.505
+],
+  "geometry": {"coordinates":[51.42583,32.505],"type":"Point"}
+}

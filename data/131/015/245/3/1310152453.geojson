@@ -1,0 +1,74 @@
+{
+  "id": 1310152453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.9015,28.9185,55.9015,28.9185",
+    "geom:latitude":28.9185,
+    "geom:longitude":55.9015,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Dasht Zar",
+    "gn:country_code":"IR",
+    "gn:dem":1732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6983899,
+    "gn:latitude":28.9185,
+    "gn:longitude":55.9015,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Dasht Zar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0639\u0647 \u062e\u0645"
+    ],
+    "name:fas_x_variant":[
+        "Qal\u2018eh Kham",
+        "\u062f\u0634\u062a \u0632\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6983899
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4a5073aa03373989710b985bb56cbd63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720461,
+            "locality_id":1310152453,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1310152453,
+    "wof:lastmodified":1537647831,
+    "wof:name":"Dasht Zar",
+    "wof:parent_id":1108720461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.9015,
+    28.9185,
+    55.9015,
+    28.9185
+],
+  "geometry": {"coordinates":[55.9015,28.9185],"type":"Point"}
+}

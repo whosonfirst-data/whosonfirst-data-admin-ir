@@ -1,0 +1,77 @@
+{
+  "id": 1293934421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.33229,33.52573,50.33229,33.52573",
+    "geom:latitude":33.52573,
+    "geom:longitude":50.33229,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Khakeh",
+    "gn:country_code":"IR",
+    "gn:dem":1777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":13823,
+    "gn:latitude":33.52573,
+    "gn:longitude":50.33229,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kh\u0101keh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Kh\u0101keh"
+    ],
+    "name:fas_x_variant":[
+        "\u062e\u0627\u06a9\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u062e\u0627\u06a9\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13823,
+        "wk:page":"Khakeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"574655b7d62e07a814739f21243a863b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720033,
+            "locality_id":1293934421,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1293934421,
+    "wof:lastmodified":1537640749,
+    "wof:name":"Khakeh",
+    "wof:parent_id":1108720033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.33229,
+    33.52573,
+    50.33229,
+    33.52573
+],
+  "geometry": {"coordinates":[50.33229,33.52573],"type":"Point"}
+}

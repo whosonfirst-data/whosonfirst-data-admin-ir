@@ -1,0 +1,74 @@
+{
+  "id": 1343765611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.6659,39.0383,44.6659,39.0383",
+    "geom:latitude":39.0383,
+    "geom:longitude":44.6659,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Dash Kasan",
+    "gn:country_code":"IR",
+    "gn:dem":1997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":14087,
+    "gn:latitude":39.0383,
+    "gn:longitude":44.6659,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"D\u0101sh Kasan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0634 \u06a9\u0633\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0627\u0634 \u0643\u064e\u0633\u064e\u0646",
+        "D\u0101sh Kasan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108719923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":14087
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b6dfd1fbaa613bcdb45c645cba7e5d02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719923,
+            "locality_id":1343765611,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1343765611,
+    "wof:lastmodified":1537640779,
+    "wof:name":"Dash Kasan",
+    "wof:parent_id":1108719923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.6659,
+    39.0383,
+    44.6659,
+    39.0383
+],
+  "geometry": {"coordinates":[44.6659,39.0383],"type":"Point"}
+}

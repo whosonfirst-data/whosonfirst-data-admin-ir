@@ -1,0 +1,73 @@
+{
+  "id": 1343489185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.33,33.92944,58.33,33.92944",
+    "geom:latitude":33.92944,
+    "geom:longitude":58.33,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Chah-e Ghafur",
+    "gn:country_code":"IR",
+    "gn:dem":1365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":29419,
+    "gn:latitude":33.92944,
+    "gn:longitude":58.33,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ch\u0101h-e Ghaf\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Ch\u0101h-e Ghaf\u016br"
+    ],
+    "name:und_x_variant":[
+        "Sherkat-e Es\u0304n\u00e1 \u2018Ashar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108720005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":29419
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"45979d9886bd06b85722d4fe3693fad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720005,
+            "locality_id":1343489185,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1343489185,
+    "wof:lastmodified":1537641643,
+    "wof:name":"Chah-e Ghafur",
+    "wof:parent_id":1108720005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.33,
+    33.92944,
+    58.33,
+    33.92944
+],
+  "geometry": {"coordinates":[58.33,33.92944],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276438405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.1487,28.3193,55.1487,28.3193",
+    "geom:latitude":28.3193,
+    "geom:longitude":55.1487,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Malekabad",
+    "gn:country_code":"IR",
+    "gn:dem":912,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6980176,
+    "gn:latitude":28.3193,
+    "gn:longitude":55.1487,
+    "gn:modification_date":"2018-06-19",
+    "gn:name":"Malek\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u06a9 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Malek\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108719939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6980176,
+        "wk:page":"Malekabad,_Forg"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9279da01f648802ee11a0db557ed4da4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719939,
+            "locality_id":1276438405,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1276438405,
+    "wof:lastmodified":1537647810,
+    "wof:name":"Malekabad",
+    "wof:parent_id":1108719939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.1487,
+    28.3193,
+    55.1487,
+    28.3193
+],
+  "geometry": {"coordinates":[55.1487,28.3193],"type":"Point"}
+}

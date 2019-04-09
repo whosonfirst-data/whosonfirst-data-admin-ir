@@ -1,0 +1,78 @@
+{
+  "id": 1326524315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.46528,28.48541,54.46528,28.48541",
+    "geom:latitude":28.48541,
+    "geom:longitude":54.46528,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Sakhteman-e Amini",
+    "gn:country_code":"IR",
+    "gn:dem":1017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":45309,
+    "gn:latitude":28.48541,
+    "gn:longitude":54.46528,
+    "gn:modification_date":"2016-11-13",
+    "gn:name":"S\u0101khtem\u0101n-e Am\u012bn\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Am\u012bn\u0101b\u0101d"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0627\u062e\u062a\u0645\u0627\u0646 \u0627\u0645\u06cc\u0646\u06cc",
+        "\u0641\u0631\u0651\u062c \u0628\u06cc\u06af\u06cc"
+    ],
+    "name:und_x_variant":[
+        "S\u0101khtem\u0101n-e Am\u012bn\u012b",
+        "Faraj Beyg\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":45309
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"61317b00381e9a522ff9f0ebcb2fecd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720527,
+            "locality_id":1326524315,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1326524315,
+    "wof:lastmodified":1537642535,
+    "wof:name":"Sakhteman-e Amini",
+    "wof:parent_id":1108720527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.46528000000001,
+    28.48541,
+    54.46528000000001,
+    28.48541
+],
+  "geometry": {"coordinates":[54.46528000000001,28.48541],"type":"Point"}
+}

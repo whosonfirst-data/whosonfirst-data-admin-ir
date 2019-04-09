@@ -1,0 +1,75 @@
+{
+  "id": 1209514163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.79348,30.62108,50.79348,30.62108",
+    "geom:latitude":30.62108,
+    "geom:longitude":50.79348,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Mowg",
+    "gn:country_code":"IR",
+    "gn:dem":955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":123165,
+    "gn:latitude":30.62108,
+    "gn:longitude":50.79348,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mowg",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u06af\u0650\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u064f\u0648\u06af\u0631",
+        "M\u016bger",
+        "\u0645\u0648\u06af"
+    ],
+    "name:und_x_variant":[
+        "Mowgr",
+        "Mowg",
+        "\u0645\u0648\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":123165,
+        "wk:page":"Mowg"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fbd1b3caef59b89c9fb2206e754b9056",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209514163
+        }
+    ],
+    "wof:id":1209514163,
+    "wof:lastmodified":1537644128,
+    "wof:name":"Mowg",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.79348,
+    30.62108,
+    50.79348,
+    30.62108
+],
+  "geometry": {"coordinates":[50.79348,30.62108],"type":"Point"}
+}

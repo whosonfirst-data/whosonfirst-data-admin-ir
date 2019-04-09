@@ -1,0 +1,67 @@
+{
+  "id": 1310448349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.76556,27.46389,57.76556,27.46389",
+    "geom:latitude":27.46389,
+    "geom:longitude":57.76556,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Zar",
+    "gn:country_code":"IR",
+    "gn:dem":995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":111437,
+    "gn:latitude":27.46389,
+    "gn:longitude":57.76556,
+    "gn:modification_date":"1996-12-10",
+    "gn:name":"Zar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":111437
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4ce51262479eee00bc468c9199d55f4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720029,
+            "locality_id":1310448349,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1310448349,
+    "wof:lastmodified":1536998680,
+    "wof:name":"Zar",
+    "wof:parent_id":1108720029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.76556,
+    27.46389000000001,
+    57.76556,
+    27.46389000000001
+],
+  "geometry": {"coordinates":[57.76556,27.46389000000001],"type":"Point"}
+}

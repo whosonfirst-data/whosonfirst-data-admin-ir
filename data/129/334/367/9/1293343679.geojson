@@ -1,0 +1,74 @@
+{
+  "id": 1293343679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.92363,36.48776,53.92363,36.48776",
+    "geom:latitude":36.48776,
+    "geom:longitude":53.92363,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Lend",
+    "gn:country_code":"IR",
+    "gn:dem":1747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":385408,
+    "gn:latitude":36.48776,
+    "gn:longitude":53.92363,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0646\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u0644\u0646\u062f",
+        "Lend"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385408
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"26fc6d4e79935f2dda7b2d908dd3d5fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719887,
+            "locality_id":1293343679,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1293343679,
+    "wof:lastmodified":1537646412,
+    "wof:name":"Lend",
+    "wof:parent_id":1108719887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.92363,
+    36.48776,
+    53.92363,
+    36.48776
+],
+  "geometry": {"coordinates":[53.92363,36.48776],"type":"Point"}
+}

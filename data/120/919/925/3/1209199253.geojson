@@ -1,0 +1,65 @@
+{
+  "id": 1209199253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.90509,37.1369,49.90509,37.1369",
+    "geom:latitude":37.1369,
+    "geom:longitude":49.90509,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Ezbaram",
+    "gn:country_code":"IR",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":29332,
+    "gn:latitude":37.1369,
+    "gn:longitude":49.90509,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"Ezbaram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0632\u0628\u0631\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":29332,
+        "wk:page":"Ezbaram"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5f82641286ad00263fe0d3d05f32bd5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209199253
+        }
+    ],
+    "wof:id":1209199253,
+    "wof:lastmodified":1537641636,
+    "wof:name":"Ezbaram",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.90509,
+    37.1369,
+    49.90509,
+    37.1369
+],
+  "geometry": {"coordinates":[49.90509,37.1369],"type":"Point"}
+}

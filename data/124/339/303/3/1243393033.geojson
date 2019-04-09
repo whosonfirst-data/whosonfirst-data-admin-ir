@@ -1,0 +1,74 @@
+{
+  "id": 1243393033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.4894,36.4161,59.4894,36.4161",
+    "geom:latitude":36.4161,
+    "geom:longitude":59.4894,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Dustabad",
+    "gn:country_code":"IR",
+    "gn:dem":1027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6678242,
+    "gn:latitude":36.4161,
+    "gn:longitude":59.4894,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"D\u016bst\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0633\u062a \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "D\u016bst\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6678242,
+        "wk:page":"Dustabad,_Mashhad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b233e4def6d25e227452b648d4afdf47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720227,
+            "locality_id":1243393033,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1243393033,
+    "wof:lastmodified":1537647354,
+    "wof:name":"Dustabad",
+    "wof:parent_id":1108720227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.4894,
+    36.4161,
+    59.4894,
+    36.4161
+],
+  "geometry": {"coordinates":[59.4894,36.4161],"type":"Point"}
+}

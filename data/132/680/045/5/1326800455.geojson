@@ -1,0 +1,73 @@
+{
+  "id": 1326800455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.11625,32.25011,48.11625,32.25011",
+    "geom:latitude":32.25011,
+    "geom:longitude":48.11625,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Boneh-ye Mohammad",
+    "gn:country_code":"IR",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":240,
+    "gn:latitude":32.25011,
+    "gn:longitude":48.11625,
+    "gn:modification_date":"2016-01-06",
+    "gn:name":"Boneh-ye Mo\u1e29ammad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Boneh-ye Mo\u1e29ammad"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0646\u0647 \u0645\u062d\u0645\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":240
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"36bf7d73b3cb4a91c90a0e4251875bd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720455,
+            "locality_id":1326800455,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1326800455,
+    "wof:lastmodified":1537640127,
+    "wof:name":"Boneh-ye Mohammad",
+    "wof:parent_id":1108720455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.11625,
+    32.25011,
+    48.11625,
+    32.25011
+],
+  "geometry": {"coordinates":[48.11625,32.25011],"type":"Point"}
+}

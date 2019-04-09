@@ -1,0 +1,78 @@
+{
+  "id": 1243314283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.71806,31.81861,51.71806,31.81861",
+    "geom:latitude":31.81861,
+    "geom:longitude":51.71806,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Tarqan",
+    "gn:country_code":"IR",
+    "gn:dem":2241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":66437,
+    "gn:latitude":31.81861,
+    "gn:longitude":51.71806,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Tarq\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u064e\u0631\u0642\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u064e\u0631\u063a\u064e\u0646",
+        "Tarq\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Targhan",
+        "Takun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":66437
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f59734060f78ed9964e9d50f9717d2eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720417,
+            "locality_id":1243314283,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1243314283,
+    "wof:lastmodified":1537642805,
+    "wof:name":"Tarqan",
+    "wof:parent_id":1108720417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.71806,
+    31.81861,
+    51.71806,
+    31.81861
+],
+  "geometry": {"coordinates":[51.71806,31.81861],"type":"Point"}
+}

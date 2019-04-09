@@ -1,0 +1,77 @@
+{
+  "id": 1344197591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.54208,36.62348,52.54208,36.62348",
+    "geom:latitude":36.62348,
+    "geom:longitude":52.54208,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ferem",
+    "gn:country_code":"IR",
+    "gn:dem":-15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":385484,
+    "gn:latitude":36.62348,
+    "gn:longitude":52.54208,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ferem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0645"
+    ],
+    "name:fas_x_variant":[
+        "\u0641\u064e\u0631\u064e\u0645"
+    ],
+    "name:und_x_variant":[
+        "Faram",
+        "Ferem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385484
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"533bdb55a4536fcecd843c31a5359b98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719847,
+            "locality_id":1344197591,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1344197591,
+    "wof:lastmodified":1537646417,
+    "wof:name":"Ferem",
+    "wof:parent_id":1108719847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.54208000000001,
+    36.62348,
+    52.54208000000001,
+    36.62348
+],
+  "geometry": {"coordinates":[52.54208000000001,36.62348],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1226831757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.6369,30.1615,49.6369,30.1615",
+    "geom:latitude":30.1615,
+    "geom:longitude":49.6369,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Badrani",
+    "gn:country_code":"IR",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":140965,
+    "gn:latitude":30.1615,
+    "gn:longitude":49.6369,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Badr\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0628\u062f\u0631\u0627\u0646\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Badr\u0101n\u012b"
+    ],
+    "name:und_x_variant":[
+        "Bedr\u0101n\u012b",
+        "Bedr\u0101\u2019\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140965
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3f07afad8cf73b6676170545d3cb7c6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720057,
+            "locality_id":1226831757,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1226831757,
+    "wof:lastmodified":1537645927,
+    "wof:name":"Badrani",
+    "wof:parent_id":1108720057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.6369,
+    30.1615,
+    49.6369,
+    30.1615
+],
+  "geometry": {"coordinates":[49.6369,30.1615],"type":"Point"}
+}

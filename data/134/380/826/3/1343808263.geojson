@@ -1,0 +1,76 @@
+{
+  "id": 1343808263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.6508,30.8378,56.6508,30.8378",
+    "geom:latitude":30.8378,
+    "geom:longitude":56.6508,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Shahrak-e Shahid Beheshti",
+    "gn:country_code":"IR",
+    "gn:dem":1916,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7626079,
+    "gn:latitude":30.8378,
+    "gn:longitude":56.6508,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Shahrak-e Shah\u012bd Behesht\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Shahrak-e Shah\u012bd Behesht\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u0647\u0631\u06a9 \u0634\u0647\u06cc\u062f \u0628\u0647\u0634\u062a\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0634\u0647\u0631\u06a9 \u0634\u0647\u06cc\u062f \u0628\u0647\u0634\u062a\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626079
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e56aa13d29fa111e5b187dcfc50373aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720523,
+            "locality_id":1343808263,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1343808263,
+    "wof:lastmodified":1537648471,
+    "wof:name":"Shahrak-e Shahid Beheshti",
+    "wof:parent_id":1108720523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.6508,
+    30.8378,
+    56.6508,
+    30.8378
+],
+  "geometry": {"coordinates":[56.6508,30.8378],"type":"Point"}
+}

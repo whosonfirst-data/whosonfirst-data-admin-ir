@@ -1,0 +1,79 @@
+{
+  "id": 1293662063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.63372,31.85025,48.63372,31.85025",
+    "geom:latitude":31.85025,
+    "geom:longitude":48.63372,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ahrar-e Yek",
+    "gn:country_code":"IR",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11526718,
+    "gn:latitude":31.85025,
+    "gn:longitude":48.63372,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"A\u1e29r\u0101r-e Yek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u062d\u0631\u0627\u0631 \u06cc\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u062d\u0631\u0627\u0631",
+        "\u06a9\u0627\u0638\u0645 \u062d\u06cc\u062f\u0631"
+    ],
+    "name:und_x_variant":[
+        "A\u1e29r\u0101r-e Yek",
+        "A\u1e29r\u0101r",
+        "K\u0101z\u0327em \u1e28eydar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11526718
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5cebda3061921b4280600fa6791365fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720455,
+            "locality_id":1293662063,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1293662063,
+    "wof:lastmodified":1537648790,
+    "wof:name":"Ahrar-e Yek",
+    "wof:parent_id":1108720455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.63372,
+    31.85025,
+    48.63372,
+    31.85025
+],
+  "geometry": {"coordinates":[48.63372,31.85025],"type":"Point"}
+}

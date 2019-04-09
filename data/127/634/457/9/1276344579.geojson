@@ -1,0 +1,76 @@
+{
+  "id": 1276344579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.7788,39.5739,44.7788,39.5739",
+    "geom:latitude":39.5739,
+    "geom:longitude":44.7788,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kharz",
+    "gn:country_code":"IR",
+    "gn:dem":798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":14094,
+    "gn:latitude":39.5739,
+    "gn:longitude":44.7788,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kharz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u064e\u0631\u0632"
+    ],
+    "name:fas_x_variant":[
+        "\u062e\u0631\u0632"
+    ],
+    "name:und_x_variant":[
+        "\u062e\u0631\u0632"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":14094
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"38473929c78f2ee7f12c4b7e8b90bd91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720203,
+            "locality_id":1276344579,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1276344579,
+    "wof:lastmodified":1537640779,
+    "wof:name":"Kharz",
+    "wof:parent_id":1108720203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.7788,
+    39.5739,
+    44.7788,
+    39.5739
+],
+  "geometry": {"coordinates":[44.7788,39.5739],"type":"Point"}
+}

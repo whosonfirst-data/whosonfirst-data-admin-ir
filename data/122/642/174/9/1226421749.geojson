@@ -1,0 +1,74 @@
+{
+  "id": 1226421749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.35444,34.72639,46.35444,34.72639",
+    "geom:latitude":34.72639,
+    "geom:longitude":46.35444,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Sianab",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":114387,
+    "gn:latitude":34.72639,
+    "gn:longitude":46.35444,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u012b\u0101n\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "S\u012b\u0101n\u0101b"
+    ],
+    "name:und_x_variant":[
+        "S\u012by\u0101n\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":114387
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f3dbdad9cfb1d798c2ae773e2b28a9df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720079,
+            "locality_id":1226421749,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1226421749,
+    "wof:lastmodified":1537643275,
+    "wof:name":"Sianab",
+    "wof:parent_id":1108720079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.35444,
+    34.72639,
+    46.35444,
+    34.72639
+],
+  "geometry": {"coordinates":[46.35444,34.72639],"type":"Point"}
+}

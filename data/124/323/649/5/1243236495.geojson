@@ -1,0 +1,80 @@
+{
+  "id": 1243236495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.60733,32.15341,48.60733,32.15341",
+    "geom:latitude":32.15341,
+    "geom:longitude":48.60733,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Samandi-ye `Olya",
+    "gn:country_code":"IR",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":244,
+    "gn:latitude":32.15341,
+    "gn:longitude":48.60733,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Samand\u012b-ye \u2018Oly\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Boneh-ye \u2018Abdoll\u0101h"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0645\u0646\u062f\u06cc \u0639\u0644\u06cc\u0627",
+        "\u0633\u0645\u0646\u062f\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Samand\u012b-ye \u2018Oly\u0101",
+        "Samand\u012b-ye Sol\u0163\u0101n",
+        "Samand\u012b Sol\u0163\u0101n",
+        "Samand\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":244
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f21d8e6788ed87fb514be3120aad69f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720043,
+            "locality_id":1243236495,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1243236495,
+    "wof:lastmodified":1537640127,
+    "wof:name":"Samandi-ye `Olya",
+    "wof:parent_id":1108720043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.60733,
+    32.15341,
+    48.60733,
+    32.15341
+],
+  "geometry": {"coordinates":[48.60733,32.15341],"type":"Point"}
+}

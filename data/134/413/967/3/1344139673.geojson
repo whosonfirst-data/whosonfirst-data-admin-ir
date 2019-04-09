@@ -1,0 +1,67 @@
+{
+  "id": 1344139673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.14778,31.73444,50.14778,31.73444",
+    "geom:latitude":31.73444,
+    "geom:longitude":50.14778,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Sar Darreh",
+    "gn:country_code":"IR",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":14789,
+    "gn:latitude":31.73444,
+    "gn:longitude":50.14778,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sar Darreh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":14789
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"006298e938e75e605906d22645355d62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720067,
+            "locality_id":1344139673,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1344139673,
+    "wof:lastmodified":1536761585,
+    "wof:name":"Sar Darreh",
+    "wof:parent_id":1108720067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.14778,
+    31.73444000000001,
+    50.14778,
+    31.73444000000001
+],
+  "geometry": {"coordinates":[50.14778,31.73444000000001],"type":"Point"}
+}

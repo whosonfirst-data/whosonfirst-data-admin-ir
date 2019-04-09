@@ -1,0 +1,73 @@
+{
+  "id": 1243592823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.88211,37.77094,55.88211,37.77094",
+    "geom:latitude":37.77094,
+    "geom:longitude":55.88211,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Baba Shamalek",
+    "gn:country_code":"IR",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7111063,
+    "gn:latitude":37.77094,
+    "gn:longitude":55.88211,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"B\u0101b\u0101 Shamalek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0628\u0627 \u0634\u0645\u0644\u0643"
+    ],
+    "name:fas_x_variant":[
+        "B\u0101b\u0101 Shamalek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7111063
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"eed7b63e396ea750b2b2e916693bcfce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720093,
+            "locality_id":1243592823,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1243592823,
+    "wof:lastmodified":1537648095,
+    "wof:name":"Baba Shamalek",
+    "wof:parent_id":1108720093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.88211,
+    37.77094,
+    55.88211,
+    37.77094
+],
+  "geometry": {"coordinates":[55.88211,37.77094],"type":"Point"}
+}

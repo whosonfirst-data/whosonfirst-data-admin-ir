@@ -1,0 +1,78 @@
+{
+  "id": 1260290473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.1,25.65,61.1,25.65",
+    "geom:latitude":25.65,
+    "geom:longitude":61.1,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Keshak",
+    "gn:country_code":"IR",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1158925,
+    "gn:latitude":25.65,
+    "gn:longitude":61.1,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Kesh\u0101k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0650\u0634\u0627\u0643"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0650\u0633\u062d\u0627\u0642",
+        "Kesh\u0101k"
+    ],
+    "name:und_x_variant":[
+        "Ish\u0101q",
+        "Es\u1e29\u0101q"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108719919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1158925
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"796e9927e6962da7c4034d18b593a42b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719919,
+            "locality_id":1260290473,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1260290473,
+    "wof:lastmodified":1537646949,
+    "wof:name":"Keshak",
+    "wof:parent_id":1108719919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.1,
+    25.65,
+    61.1,
+    25.65
+],
+  "geometry": {"coordinates":[61.1,25.65],"type":"Point"}
+}

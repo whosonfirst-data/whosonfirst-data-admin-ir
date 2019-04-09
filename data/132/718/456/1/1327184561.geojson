@@ -1,0 +1,73 @@
+{
+  "id": 1327184561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.9507,28.73,58.9507,28.73",
+    "geom:latitude":28.73,
+    "geom:longitude":58.9507,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Rezvaniyeh",
+    "gn:country_code":"IR",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6920401,
+    "gn:latitude":28.73,
+    "gn:longitude":58.9507,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Re\u1e95v\u0101n\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u0636\u0648\u0627\u0646\u06cc\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Re\u1e95v\u0101n\u012byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6920401
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cdafe0b9acf0d6f075a362b4e4211f81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719861,
+            "locality_id":1327184561,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1327184561,
+    "wof:lastmodified":1537647724,
+    "wof:name":"Rezvaniyeh",
+    "wof:parent_id":1108719861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.9507,
+    28.73,
+    58.9507,
+    28.73
+],
+  "geometry": {"coordinates":[58.9507,28.73],"type":"Point"}
+}

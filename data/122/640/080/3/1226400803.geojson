@@ -1,0 +1,73 @@
+{
+  "id": 1226400803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.18388,28.86713,51.18388,28.86713",
+    "geom:latitude":28.86713,
+    "geom:longitude":51.18388,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Bakhshu",
+    "gn:country_code":"IR",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8529238,
+    "gn:latitude":28.86713,
+    "gn:longitude":51.18388,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Bakhsh\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634\u0648"
+    ],
+    "name:und_x_variant":[
+        "Bakhsh\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108720481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8529238
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bec2814034b9cfe8df3bdc4f69994876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720481,
+            "locality_id":1226400803,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1226400803,
+    "wof:lastmodified":1537648573,
+    "wof:name":"Bakhshu",
+    "wof:parent_id":1108720481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.18388,
+    28.86713,
+    51.18388,
+    28.86713
+],
+  "geometry": {"coordinates":[51.18388,28.86713],"type":"Point"}
+}

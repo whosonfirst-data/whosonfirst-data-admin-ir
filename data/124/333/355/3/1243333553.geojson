@@ -1,0 +1,74 @@
+{
+  "id": 1243333553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.20796,30.35151,48.20796,30.35151",
+    "geom:latitude":30.35151,
+    "geom:longitude":48.20796,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Maqate`",
+    "gn:country_code":"IR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":44980,
+    "gn:latitude":30.35151,
+    "gn:longitude":48.20796,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Maq\u0101\u0163e\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639"
+    ],
+    "name:fas_x_variant":[
+        "Maq\u0101\u0163\u012b\u2018",
+        "Maq\u0101\u0163e\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":44980
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ec9f353d7c7548a0c11b81da93dea0b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720151,
+            "locality_id":1243333553,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1243333553,
+    "wof:lastmodified":1537642513,
+    "wof:name":"Maqate`",
+    "wof:parent_id":1108720151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.20796,
+    30.35151,
+    48.20796,
+    30.35151
+],
+  "geometry": {"coordinates":[48.20796,30.35151],"type":"Point"}
+}

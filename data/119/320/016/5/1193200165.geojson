@@ -1,0 +1,74 @@
+{
+  "id": 1193200165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.32043,36.4414,52.32043,36.4414",
+    "geom:latitude":36.4414,
+    "geom:longitude":52.32043,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Suteh Kola",
+    "gn:country_code":"IR",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7804,
+    "gn:latitude":36.4414,
+    "gn:longitude":52.32043,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u016bteh Kol\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u062a\u0647 \u0643\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "S\u016bteh Kol\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7804,
+        "wk:page":"Suteh_Kola"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"295a568fcd80fbcf44baa53681cd3b91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719807,
+            "locality_id":1193200165,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1193200165,
+    "wof:lastmodified":1537640389,
+    "wof:name":"Suteh Kola",
+    "wof:parent_id":1108719807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.32043,
+    36.4414,
+    52.32043,
+    36.4414
+],
+  "geometry": {"coordinates":[52.32043,36.4414],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243273315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.9159,37.2648,44.9159,37.2648",
+    "geom:latitude":37.2648,
+    "geom:longitude":44.9159,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Mansurabad",
+    "gn:country_code":"IR",
+    "gn:dem":1485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":20828,
+    "gn:latitude":37.2648,
+    "gn:longitude":44.9159,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Man\u015f\u016br\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u064e\u0646\u0635\u0648\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0646\u0635\u0648\u0631 \u0622\u0628\u0627\u062f",
+        "Man\u015f\u016br\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":20828
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3f0fe85f5437cb909c87fb71181416dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720289,
+            "locality_id":1243273315,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1243273315,
+    "wof:lastmodified":1537641034,
+    "wof:name":"Mansurabad",
+    "wof:parent_id":1108720289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.9159,
+    37.2648,
+    44.9159,
+    37.2648
+],
+  "geometry": {"coordinates":[44.9159,37.2648],"type":"Point"}
+}

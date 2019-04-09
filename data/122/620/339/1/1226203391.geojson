@@ -1,0 +1,82 @@
+{
+  "id": 1226203391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.73013,30.93601,56.73013,30.93601",
+    "geom:latitude":30.93601,
+    "geom:longitude":56.73013,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Bab Nadan",
+    "gn:country_code":"IR",
+    "gn:dem":1986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":137699,
+    "gn:latitude":30.93601,
+    "gn:longitude":56.73013,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"B\u0101b Nad\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Darnad\u016b\u2019\u012byeh"
+    ],
+    "name:fas_x_variant":[
+        "B\u0101b Nad\u0101n",
+        "\u0628\u0627\u0628 \u0646\u062f\u0627\u0646",
+        "Dar Ned\u016b",
+        "Dar-e Ned\u016b"
+    ],
+    "name:und_x_variant":[
+        "Dar-e Ned\u016b",
+        "Dar Ned\u016b",
+        "\u0628\u0627\u0628 \u0646\u062f\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":137699,
+        "wk:page":"Bab_Nadan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7e85728c356a0bf6d080e0780468edfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720523,
+            "locality_id":1226203391,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1226203391,
+    "wof:lastmodified":1537645604,
+    "wof:name":"Bab Nadan",
+    "wof:parent_id":1108720523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.73013,
+    30.93601,
+    56.73013,
+    30.93601
+],
+  "geometry": {"coordinates":[56.73013,30.93601],"type":"Point"}
+}

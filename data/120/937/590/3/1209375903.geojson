@@ -1,0 +1,77 @@
+{
+  "id": 1209375903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.33216,29.2359,57.33216,29.2359",
+    "geom:latitude":29.2359,
+    "geom:longitude":57.33216,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Darb-e Behesht",
+    "gn:country_code":"IR",
+    "gn:dem":2633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":137850,
+    "gn:latitude":29.2359,
+    "gn:longitude":57.33216,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Darb-e Behesht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0628 \u0645\u0632\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Darb-e Maz\u0101r",
+        "\u062f\u0631\u0628 \u0628\u0647\u0634\u062a"
+    ],
+    "name:und_x_variant":[
+        "S\u0101rd\u016b\u012byeh",
+        "Dar-i-Maz\u0101r",
+        "Darbmaz\u0101r",
+        "Darb-e Behesht",
+        "\u062f\u0631\u0628 \u0628\u0647\u0634\u062a",
+        "Dar Maz\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":137850,
+        "wk:page":"Darb-e_Behesht"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a268f4518b6979d88c929d45daa7c2f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209375903
+        }
+    ],
+    "wof:id":1209375903,
+    "wof:lastmodified":1537645619,
+    "wof:name":"Darb-e Behesht",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.33216,
+    29.2359,
+    57.33216,
+    29.2359
+],
+  "geometry": {"coordinates":[57.33216,29.2359],"type":"Point"}
+}

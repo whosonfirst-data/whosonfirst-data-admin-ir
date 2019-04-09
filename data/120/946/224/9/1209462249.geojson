@@ -1,0 +1,70 @@
+{
+  "id": 1209462249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.42908,31.25697,51.42908,31.25697",
+    "geom:latitude":31.25697,
+    "geom:longitude":51.42908,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Il-e Tayebi",
+    "gn:country_code":"IR",
+    "gn:dem":2418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7509789,
+    "gn:latitude":31.25697,
+    "gn:longitude":51.42908,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u012al-e \u0162ayeb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u012al-e \u0162ayeb\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u06cc\u0644 \u0637\u06cc\u0628\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0627\u06cc\u0644 \u0637\u06cc\u0628\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7509789
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ce46cc31bd8fafca2d8a2398f6c39bf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209462249
+        }
+    ],
+    "wof:id":1209462249,
+    "wof:lastmodified":1537648274,
+    "wof:name":"Il-e Tayebi",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.42908,
+    31.25697000000001,
+    51.42908,
+    31.25697000000001
+],
+  "geometry": {"coordinates":[51.42908,31.25697000000001],"type":"Point"}
+}

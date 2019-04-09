@@ -1,0 +1,76 @@
+{
+  "id": 1276349371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.3124,39.2116,44.3124,39.2116",
+    "geom:latitude":39.2116,
+    "geom:longitude":44.3124,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Sazoghli",
+    "gn:country_code":"IR",
+    "gn:dem":2088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":14068,
+    "gn:latitude":39.2116,
+    "gn:longitude":44.3124,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u0101zoghli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0632\u0627\u063a\u064f\u0644"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0627\u0632\u0627\u063a\u0644\u06cc",
+        "S\u0101z\u0101ghol",
+        "S\u0101zoghli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108719923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":14068,
+        "wk:page":"Sazaghol"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"01b6c5d2a043cb3a18bfdd16b15c07d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719923,
+            "locality_id":1276349371,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1276349371,
+    "wof:lastmodified":1537640776,
+    "wof:name":"Sazoghli",
+    "wof:parent_id":1108719923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.3124,
+    39.2116,
+    44.3124,
+    39.2116
+],
+  "geometry": {"coordinates":[44.3124,39.2116],"type":"Point"}
+}

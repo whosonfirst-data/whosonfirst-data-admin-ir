@@ -1,0 +1,77 @@
+{
+  "id": 1343414945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.4186,34.3504,49.4186,34.3504",
+    "geom:latitude":34.3504,
+    "geom:longitude":49.4186,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Gomiz",
+    "gn:country_code":"IR",
+    "gn:dem":2165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":132965,
+    "gn:latitude":34.3504,
+    "gn:longitude":49.4186,
+    "gn:modification_date":"2012-10-06",
+    "gn:name":"Gom\u012bz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0645\u064a\u0632"
+    ],
+    "name:fas_x_variant":[
+        "Gom\u012bz"
+    ],
+    "name:und_x_variant":[
+        "Kom\u012bz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":132965,
+        "wk:page":"Gomiz"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f9c561bc2d3edb9dd05f6ddf3508f5d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720443,
+            "locality_id":1343414945,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1343414945,
+    "wof:lastmodified":1537645123,
+    "wof:name":"Gomiz",
+    "wof:parent_id":1108720443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.4186,
+    34.3504,
+    49.4186,
+    34.3504
+],
+  "geometry": {"coordinates":[49.4186,34.3504],"type":"Point"}
+}

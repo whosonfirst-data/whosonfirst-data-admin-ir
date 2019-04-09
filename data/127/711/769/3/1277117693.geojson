@@ -1,0 +1,82 @@
+{
+  "id": 1277117693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.8326,38.39967,46.8326,38.39967",
+    "geom:latitude":38.39967,
+    "geom:longitude":46.8326,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Gureh Daraq",
+    "gn:country_code":"IR",
+    "gn:dem":1683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":132725,
+    "gn:latitude":38.39967,
+    "gn:longitude":46.8326,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"G\u016breh Daraq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "G\u016breh Daraq"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u0648\u0631\u0647 \u062f\u0631\u0642",
+        "\u06a9\u0648\u0631\u0647 \u062f\u0631\u0642"
+    ],
+    "name:und_x_variant":[
+        "Kerdarreh",
+        "Gowreh Daraq",
+        "K\u016bh Darreh",
+        "Kerdere",
+        "K\u016breh Daraq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108719791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":132725,
+        "wk:page":"Kureh_Daraq"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"12f1b9a2504eee0aabce3e6d8c2a3146",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719791,
+            "locality_id":1277117693,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1277117693,
+    "wof:lastmodified":1537645099,
+    "wof:name":"Gureh Daraq",
+    "wof:parent_id":1108719791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.8326,
+    38.39967,
+    46.8326,
+    38.39967
+],
+  "geometry": {"coordinates":[46.8326,38.39967],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260242719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.41798,27.79045,58.41798,27.79045",
+    "geom:latitude":27.79045,
+    "geom:longitude":58.41798,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Chah Dasht",
+    "gn:country_code":"IR",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7088052,
+    "gn:latitude":27.79045,
+    "gn:longitude":58.41798,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Ch\u0101h Dasht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0647 \u062f\u0634\u062a"
+    ],
+    "name:fas_x_variant":[
+        "Ch\u0101h Dasht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7088052
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"91869151e838242c188043732f6d11f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720363,
+            "locality_id":1260242719,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1260242719,
+    "wof:lastmodified":1537648039,
+    "wof:name":"Chah Dasht",
+    "wof:parent_id":1108720363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.41798000000001,
+    27.79045,
+    58.41798000000001,
+    27.79045
+],
+  "geometry": {"coordinates":[58.41798000000001,27.79045],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226481065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.32486,36.8418,54.32486,36.8418",
+    "geom:latitude":36.8418,
+    "geom:longitude":54.32486,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Varsan",
+    "gn:country_code":"IR",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":39145,
+    "gn:latitude":36.8418,
+    "gn:longitude":54.32486,
+    "gn:modification_date":"2018-05-13",
+    "gn:name":"Varsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u0633\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0648\u0631\u0633\u0646",
+        "Varsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":39145,
+        "wk:page":"Varsan,_Golestan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"69943b76f68b9c8e09b5a8287b758faf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720041,
+            "locality_id":1226481065,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1226481065,
+    "wof:lastmodified":1537642195,
+    "wof:name":"Varsan",
+    "wof:parent_id":1108720041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.32486,
+    36.8418,
+    54.32486,
+    36.8418
+],
+  "geometry": {"coordinates":[54.32486,36.8418],"type":"Point"}
+}

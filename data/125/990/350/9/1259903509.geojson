@@ -1,0 +1,76 @@
+{
+  "id": 1259903509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.79518,26.81145,62.79518,26.81145",
+    "geom:latitude":26.81145,
+    "geom:longitude":62.79518,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jomeyli",
+    "gn:country_code":"IR",
+    "gn:dem":1303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1114565,
+    "gn:latitude":26.81145,
+    "gn:longitude":62.79518,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Jomeyl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u0645\u06cc\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Jomeyl\u012b"
+    ],
+    "name:und_x_variant":[
+        "Jabm\u012bl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1114565
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"771e90a2344f319fac1e85ca0fb6d547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720389,
+            "locality_id":1259903509,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1259903509,
+    "wof:lastmodified":1537646919,
+    "wof:name":"Jomeyli",
+    "wof:parent_id":1108720389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.79518,
+    26.81145,
+    62.79518,
+    26.81145
+],
+  "geometry": {"coordinates":[62.79518,26.81145],"type":"Point"}
+}

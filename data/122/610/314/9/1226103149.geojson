@@ -1,0 +1,73 @@
+{
+  "id": 1226103149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.80986,28.617,56.80986,28.617",
+    "geom:latitude":28.617,
+    "geom:longitude":56.80986,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Sefid Mur",
+    "gn:country_code":"IR",
+    "gn:dem":1944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6986767,
+    "gn:latitude":28.617,
+    "gn:longitude":56.80986,
+    "gn:modification_date":"2015-04-09",
+    "gn:name":"Sef\u012bd M\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0633\u0641\u06cc\u062f \u0645\u0648\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Sef\u012bd M\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6986767
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"277fb82bbd68c05111e369b4e6d7d80a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719851,
+            "locality_id":1226103149,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1226103149,
+    "wof:lastmodified":1537647863,
+    "wof:name":"Sefid Mur",
+    "wof:parent_id":1108719851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.80986,
+    28.617,
+    56.80986,
+    28.617
+],
+  "geometry": {"coordinates":[56.80986,28.617],"type":"Point"}
+}

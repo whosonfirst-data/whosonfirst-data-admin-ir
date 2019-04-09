@@ -1,0 +1,76 @@
+{
+  "id": 1225850757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.28333,26.68333,59.28333,26.68333",
+    "geom:latitude":26.68333,
+    "geom:longitude":59.28333,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kohneh Ab",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":67754,
+    "gn:latitude":26.68333,
+    "gn:longitude":59.28333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kohneh \u0100b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Kohneh \u0100b"
+    ],
+    "name:und_x_variant":[
+        "Kh\u0101n \u0100bl",
+        "Kohan \u0100b",
+        "Kh\u0101n \u0100bi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":67754
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"28d4cddf14aed0b7dbb80d5400c3903f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720271,
+            "locality_id":1225850757,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1225850757,
+    "wof:lastmodified":1537642852,
+    "wof:name":"Kohneh Ab",
+    "wof:parent_id":1108720271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.28333000000001,
+    26.68333,
+    59.28333000000001,
+    26.68333
+],
+  "geometry": {"coordinates":[59.28333000000001,26.68333],"type":"Point"}
+}

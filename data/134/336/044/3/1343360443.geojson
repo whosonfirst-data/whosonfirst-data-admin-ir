@@ -1,0 +1,76 @@
+{
+  "id": 1343360443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.20076,31.5816,51.20076,31.5816",
+    "geom:latitude":31.5816,
+    "geom:longitude":51.20076,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dehkhoda",
+    "gn:country_code":"IR",
+    "gn:dem":1875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7510192,
+    "gn:latitude":31.5816,
+    "gn:longitude":51.20076,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dehkhod\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Dehkhod\u0101"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0647\u062e\u062f\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u062f\u0647\u062e\u062f\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672319,
+        1108719903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7510192
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"661057b34223988b8e90df171b794155",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719903,
+            "locality_id":1343360443,
+            "region_id":85672319
+        }
+    ],
+    "wof:id":1343360443,
+    "wof:lastmodified":1537648280,
+    "wof:name":"Dehkhoda",
+    "wof:parent_id":1108719903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.20076,
+    31.5816,
+    51.20076,
+    31.5816
+],
+  "geometry": {"coordinates":[51.20076,31.5816],"type":"Point"}
+}

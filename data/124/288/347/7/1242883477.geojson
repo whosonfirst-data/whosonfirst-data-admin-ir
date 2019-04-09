@@ -1,0 +1,77 @@
+{
+  "id": 1242883477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.55395,36.45497,46.55395,36.45497",
+    "geom:latitude":36.45497,
+    "geom:longitude":46.55395,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Beyg Towli-ye `Olya",
+    "gn:country_code":"IR",
+    "gn:dem":1551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":26995,
+    "gn:latitude":36.45497,
+    "gn:longitude":46.55395,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Beyg Towl\u012b-ye \u2018Oly\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u06af\u062a\u0648\u0644\u06cc \u0639\u0644\u06cc\u0627"
+    ],
+    "name:fas_x_variant":[
+        "Beygt\u016bl\u012b-ye \u2018Oly\u0101",
+        "\u0628\u06cc\u06af \u062a\u0648\u0644\u06cc \u0639\u0644\u06cc\u0627"
+    ],
+    "name:und_x_variant":[
+        "Beyg Towl\u012b-ye \u2018Oly\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":26995
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d777995502739ae77525df7b9c0acd34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720429,
+            "locality_id":1242883477,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1242883477,
+    "wof:lastmodified":1537641432,
+    "wof:name":"Beyg Towli-ye `Olya",
+    "wof:parent_id":1108720429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.55395,
+    36.45497,
+    46.55395,
+    36.45497
+],
+  "geometry": {"coordinates":[46.55395,36.45497],"type":"Point"}
+}

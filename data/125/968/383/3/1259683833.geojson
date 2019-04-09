@@ -1,0 +1,77 @@
+{
+  "id": 1259683833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.00202,27.55063,61.00202,27.55063",
+    "geom:latitude":27.55063,
+    "geom:longitude":61.00202,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kahurug",
+    "gn:country_code":"IR",
+    "gn:dem":1179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7050002,
+    "gn:latitude":27.55063,
+    "gn:longitude":61.00202,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Kah\u016br\u016bg",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0647\u0648\u0631\u0648\u06af"
+    ],
+    "name:fas_x_variant":[
+        "Kah\u016br\u016bg",
+        "\u06af\u0647\u0648\u0631\u06a9"
+    ],
+    "name:und_x_variant":[
+        "Gah\u016brak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7050002
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5fef5b913d322a08cef8939bdc890044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720131,
+            "locality_id":1259683833,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1259683833,
+    "wof:lastmodified":1537647944,
+    "wof:name":"Kahurug",
+    "wof:parent_id":1108720131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.00202,
+    27.55063,
+    61.00202,
+    27.55063
+],
+  "geometry": {"coordinates":[61.00202,27.55063],"type":"Point"}
+}

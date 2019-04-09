@@ -1,0 +1,74 @@
+{
+  "id": 1243062107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.35777,30.9091,52.35777,30.9091",
+    "geom:latitude":30.9091,
+    "geom:longitude":52.35777,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Badaki",
+    "gn:country_code":"IR",
+    "gn:dem":2335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":142338,
+    "gn:latitude":30.9091,
+    "gn:longitude":52.35777,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"B\u0101dak\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062f\u06a9\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "B\u0101dak\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108719975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":142338,
+        "wk:page":"Badaki,_Eqlid"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"31ad32aca124dfa53503b14ae3dfec91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719975,
+            "locality_id":1243062107,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1243062107,
+    "wof:lastmodified":1537646061,
+    "wof:name":"Badaki",
+    "wof:parent_id":1108719975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.35777,
+    30.9091,
+    52.35777,
+    30.9091
+],
+  "geometry": {"coordinates":[52.35777,30.9091],"type":"Point"}
+}

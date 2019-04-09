@@ -1,0 +1,80 @@
+{
+  "id": 1259482031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.27879,30.71718,51.27879,30.71718",
+    "geom:latitude":30.71718,
+    "geom:longitude":51.27879,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Deh Bozorg-e Pereshgaft",
+    "gn:country_code":"IR",
+    "gn:dem":1755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":47102,
+    "gn:latitude":30.71718,
+    "gn:longitude":51.27879,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Deh Bozorg-e Pereshgaft",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0650\u0647 \u0628\u064f\u0632\u064f\u0631\u06af\u0650 \u067e\u0650\u0631\u0650\u0634\u0650\u0643\u064e\u0641\u062a"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0650\u0647 \u06af\u064e\u067e\u0648",
+        "\u062f\u0647 \u0628\u0632\u0631\u06af \u067e\u0631\u0634\u06af\u0641\u062a"
+    ],
+    "name:und_x_variant":[
+        "Deh Gap\u016b",
+        "Deh Bozorg-e Pereshgaft",
+        "\u062f\u0647 \u0628\u0632\u0631\u06af \u067e\u0631\u0634\u06af\u0641\u062a",
+        "Deh Bozorg-e Pereshekaft"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108719911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":47102
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f53cc5daa51976405a8f6f8b0389eb39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719911,
+            "locality_id":1259482031,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1259482031,
+    "wof:lastmodified":1537642660,
+    "wof:name":"Deh Bozorg-e Pereshgaft",
+    "wof:parent_id":1108719911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.27879,
+    30.71718,
+    51.27879,
+    30.71718
+],
+  "geometry": {"coordinates":[51.27879,30.71718],"type":"Point"}
+}

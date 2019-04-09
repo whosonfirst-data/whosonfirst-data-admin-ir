@@ -1,0 +1,73 @@
+{
+  "id": 1226645923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.41705,26.74874,61.41705,26.74874",
+    "geom:latitude":26.74874,
+    "geom:longitude":61.41705,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pir",
+    "gn:country_code":"IR",
+    "gn:dem":1172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1159996,
+    "gn:latitude":26.74874,
+    "gn:longitude":61.41705,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"P\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u064a\u0631"
+    ],
+    "name:fas_x_variant":[
+        "P\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1159996
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dde9f0ff5c8a3d12dc37014a654fb812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720393,
+            "locality_id":1226645923,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1226645923,
+    "wof:lastmodified":1537647009,
+    "wof:name":"Pir",
+    "wof:parent_id":1108720393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.41705,
+    26.74874,
+    61.41705,
+    26.74874
+],
+  "geometry": {"coordinates":[61.41705,26.74874],"type":"Point"}
+}

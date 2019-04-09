@@ -1,0 +1,77 @@
+{
+  "id": 1260338659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.2014,30.474,55.2014,30.474",
+    "geom:latitude":30.474,
+    "geom:longitude":55.2014,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Howdian",
+    "gn:country_code":"IR",
+    "gn:dem":2346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":405299,
+    "gn:latitude":30.474,
+    "gn:longitude":55.2014,
+    "gn:modification_date":"2013-05-09",
+    "gn:name":"\u1e28owd\u012b\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0648\u0631\u06cc\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28\u016br\u012b\u0101n",
+        "\u062d\u0648\u062f\u06cc\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u1e28owd\u012b\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":405299
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7a4a1e9fac086835dc3b14a8964b9224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720433,
+            "locality_id":1260338659,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1260338659,
+    "wof:lastmodified":1537646592,
+    "wof:name":"Howdian",
+    "wof:parent_id":1108720433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.2014,
+    30.474,
+    55.2014,
+    30.474
+],
+  "geometry": {"coordinates":[55.2014,30.474],"type":"Point"}
+}

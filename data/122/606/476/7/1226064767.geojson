@@ -1,0 +1,74 @@
+{
+  "id": 1226064767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.7564,37.7702,48.7564,37.7702",
+    "geom:latitude":37.7702,
+    "geom:longitude":48.7564,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Vali Khaleh",
+    "gn:country_code":"IR",
+    "gn:dem":868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":416930,
+    "gn:latitude":37.7702,
+    "gn:longitude":48.7564,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Val\u012b Kh\u0101leh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06cc \u062e\u0627\u0644\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Van\u012b Kh\u0101leh",
+        "Val\u012b Kh\u0101leh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416930
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5695a385c4639dbdb2a6b0f1dbe9fcb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720487,
+            "locality_id":1226064767,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1226064767,
+    "wof:lastmodified":1537646688,
+    "wof:name":"Vali Khaleh",
+    "wof:parent_id":1108720487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.7564,
+    37.7702,
+    48.7564,
+    37.7702
+],
+  "geometry": {"coordinates":[48.7564,37.7702],"type":"Point"}
+}

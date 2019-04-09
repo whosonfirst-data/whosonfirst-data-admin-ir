@@ -1,0 +1,77 @@
+{
+  "id": 1343381595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.618,31.1454,52.618,31.1454",
+    "geom:latitude":31.1454,
+    "geom:longitude":52.618,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Seydan",
+    "gn:country_code":"IR",
+    "gn:dem":2027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":116221,
+    "gn:latitude":31.1454,
+    "gn:longitude":52.618,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Seyd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u062f\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Seyd\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Said\u0101n",
+        "Seyyed\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108719779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":116221
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"75910541e5be8ddf01b8765e97a69fb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719779,
+            "locality_id":1343381595,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1343381595,
+    "wof:lastmodified":1537643428,
+    "wof:name":"Seydan",
+    "wof:parent_id":1108719779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.618,
+    31.1454,
+    52.618,
+    31.1454
+],
+  "geometry": {"coordinates":[52.618,31.1454],"type":"Point"}
+}

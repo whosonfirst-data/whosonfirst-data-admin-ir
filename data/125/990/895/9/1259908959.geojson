@@ -1,0 +1,75 @@
+{
+  "id": 1259908959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.09019,32.32641,60.09019,32.32641",
+    "geom:latitude":32.32641,
+    "geom:longitude":60.09019,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Bahamarz",
+    "gn:country_code":"IR",
+    "gn:dem":1508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1112035,
+    "gn:latitude":32.32641,
+    "gn:longitude":60.09019,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bah\u0101marz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0647\u0627\u0645\u0631\u0632"
+    ],
+    "name:fas_x_variant":[
+        "B\u0101marz",
+        "Bah\u0101marz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108720397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1112035,
+        "wk:page":"Bahamarz"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f7693a860da0d8fa3ea56dca7dc15e51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720397,
+            "locality_id":1259908959,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1259908959,
+    "wof:lastmodified":1537646785,
+    "wof:name":"Bahamarz",
+    "wof:parent_id":1108720397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.09019,
+    32.32641,
+    60.09019,
+    32.32641
+],
+  "geometry": {"coordinates":[60.09019,32.32641],"type":"Point"}
+}

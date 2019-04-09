@@ -1,0 +1,76 @@
+{
+  "id": 1277119155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.57675,36.51519,49.57675,36.51519",
+    "geom:latitude":36.51519,
+    "geom:longitude":49.57675,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Asbak",
+    "gn:country_code":"IR",
+    "gn:dem":1448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":142848,
+    "gn:latitude":36.51519,
+    "gn:longitude":49.57675,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Asbak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u0628\u06a9"
+    ],
+    "name:und_x_variant":[
+        "Aspak",
+        "\u0627\u0633\u0628\u06a9",
+        "Asbak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108720315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":142848,
+        "wk:page":"Asbak"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1a1005a7d28a33bf4833ad90605dad60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720315,
+            "locality_id":1277119155,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1277119155,
+    "wof:lastmodified":1537646115,
+    "wof:name":"Asbak",
+    "wof:parent_id":1108720315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.57675,
+    36.51519,
+    49.57675,
+    36.51519
+],
+  "geometry": {"coordinates":[49.57675,36.51519],"type":"Point"}
+}

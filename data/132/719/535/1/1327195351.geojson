@@ -1,0 +1,77 @@
+{
+  "id": 1327195351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.27056,32.4925,52.27056,32.4925",
+    "geom:latitude":32.4925,
+    "geom:longitude":52.27056,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Shah Tur",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":418487,
+    "gn:latitude":32.4925,
+    "gn:longitude":52.27056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sh\u0101h T\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sh\u0101h T\u016br"
+    ],
+    "name:und_x_variant":[
+        "Sh\u0101t\u016br",
+        "Sh\u0101h N\u016br",
+        "Sh\u0101h Tal",
+        "Sh\u0101h Tall"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108719977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":418487
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"679496c67b60d6329bb68f4cc4157278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719977,
+            "locality_id":1327195351,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1327195351,
+    "wof:lastmodified":1537646721,
+    "wof:name":"Shah Tur",
+    "wof:parent_id":1108719977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.27056,
+    32.4925,
+    52.27056,
+    32.4925
+],
+  "geometry": {"coordinates":[52.27056,32.4925],"type":"Point"}
+}

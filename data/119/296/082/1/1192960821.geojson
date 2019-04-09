@@ -1,0 +1,76 @@
+{
+  "id": 1192960821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.58895,35.65007,49.58895,35.65007",
+    "geom:latitude":35.65007,
+    "geom:longitude":49.58895,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Razak",
+    "gn:country_code":"IR",
+    "gn:dem":2054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":118686,
+    "gn:latitude":35.65007,
+    "gn:longitude":49.58895,
+    "gn:modification_date":"2018-07-13",
+    "gn:name":"Razak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u0632\u0643"
+    ],
+    "name:und_x_variant":[
+        "R\u012bzaq",
+        "R\u012bzak",
+        "Razak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108719913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":118686,
+        "wk:page":"Razak,_Qazvin"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4c2febf762677ab693f3c25c0f8056f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719913,
+            "locality_id":1192960821,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1192960821,
+    "wof:lastmodified":1537643661,
+    "wof:name":"Razak",
+    "wof:parent_id":1108719913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.58895,
+    35.65007,
+    49.58895,
+    35.65007
+],
+  "geometry": {"coordinates":[49.58895,35.65007],"type":"Point"}
+}

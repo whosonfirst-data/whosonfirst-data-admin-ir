@@ -1,0 +1,81 @@
+{
+  "id": 1310243225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.1975,32.02139,54.1975,32.02139",
+    "geom:latitude":32.02139,
+    "geom:longitude":54.1975,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Rezvanshahr",
+    "gn:country_code":"IR",
+    "gn:dem":1166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":125236,
+    "gn:latitude":32.02139,
+    "gn:longitude":54.1975,
+    "gn:modification_date":"2013-11-07",
+    "gn:name":"Re\u1e95v\u0101nshahr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u062c\u0648\u0645\u0631\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Maj\u016bmerd",
+        "\u0631\u0636\u0648\u0627\u0646\u0634\u0647\u0631"
+    ],
+    "name:und_x_variant":[
+        "Moj Marit",
+        "Maj\u016b Mard",
+        "Mowj M\u0101r\u012bt",
+        "Majoomard",
+        "Re\u1e95v\u0101nshahr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108720369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":125236
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9ee10eba16e2aeb49535cc95ed7c94b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720369,
+            "locality_id":1310243225,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1310243225,
+    "wof:lastmodified":1537644330,
+    "wof:name":"Rezvanshahr",
+    "wof:parent_id":1108720369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.1975,
+    32.02139,
+    54.1975,
+    32.02139
+],
+  "geometry": {"coordinates":[54.1975,32.02139],"type":"Point"}
+}

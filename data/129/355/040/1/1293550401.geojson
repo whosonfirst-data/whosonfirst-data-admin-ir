@@ -1,0 +1,80 @@
+{
+  "id": 1293550401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.74001,29.79931,55.74001,29.79931",
+    "geom:latitude":29.79931,
+    "geom:longitude":55.74001,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Gohu'iyeh",
+    "gn:country_code":"IR",
+    "gn:dem":2084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":43426,
+    "gn:latitude":29.79931,
+    "gn:longitude":55.74001,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Goh\u016b\u2019\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Koh\u016b\u2019\u012byeh"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0647\u0648\u0626\u064a\u0647",
+        "K\u016bheh",
+        "\u06af\u0647\u0648\u0626\u064a\u0647"
+    ],
+    "name:und_x_variant":[
+        "K\u016bheh",
+        "\u06a9\u0647\u0648\u0626\u064a\u0647",
+        "Goh\u016b\u2019\u012byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":43426
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5836cb711848319f9abad888e845825d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720461,
+            "locality_id":1293550401,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1293550401,
+    "wof:lastmodified":1537642452,
+    "wof:name":"Gohu'iyeh",
+    "wof:parent_id":1108720461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.74001,
+    29.79931,
+    55.74001,
+    29.79931
+],
+  "geometry": {"coordinates":[55.74001,29.79931],"type":"Point"}
+}

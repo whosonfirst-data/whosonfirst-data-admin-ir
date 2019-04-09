@@ -1,0 +1,73 @@
+{
+  "id": 1193160621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.33343,27.33856,62.33343,27.33856",
+    "geom:latitude":27.33856,
+    "geom:longitude":62.33343,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kalleh-ye Jahlad",
+    "gn:country_code":"IR",
+    "gn:dem":1155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11038885,
+    "gn:latitude":27.33856,
+    "gn:longitude":62.33343,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Kalleh-ye Jahl\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0644\u0647 \u062c\u0647\u0644\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Kalleh-ye Jahl\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11038885
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f65503d2f102ae4c0c60e36c88f616e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720389,
+            "locality_id":1193160621,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1193160621,
+    "wof:lastmodified":1537648700,
+    "wof:name":"Kalleh-ye Jahlad",
+    "wof:parent_id":1108720389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.33343000000001,
+    27.33856,
+    62.33343000000001,
+    27.33856
+],
+  "geometry": {"coordinates":[62.33343000000001,27.33856],"type":"Point"}
+}

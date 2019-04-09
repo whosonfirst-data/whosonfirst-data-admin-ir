@@ -1,0 +1,76 @@
+{
+  "id": 1343234003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.9731,35.1837,46.9731,35.1837",
+    "geom:latitude":35.1837,
+    "geom:longitude":46.9731,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Chenareh",
+    "gn:country_code":"IR",
+    "gn:dem":1411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":138725,
+    "gn:latitude":35.1837,
+    "gn:longitude":46.9731,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Chen\u0101reh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0646\u0627\u0631\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Chen\u0101reh"
+    ],
+    "name:und_x_variant":[
+        "Ch\u012bnareh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":138725
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"64c73a6e0df290fd01d8a17b37640ad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720379,
+            "locality_id":1343234003,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1343234003,
+    "wof:lastmodified":1537645707,
+    "wof:name":"Chenareh",
+    "wof:parent_id":1108720379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.9731,
+    35.1837,
+    46.9731,
+    35.1837
+],
+  "geometry": {"coordinates":[46.9731,35.1837],"type":"Point"}
+}

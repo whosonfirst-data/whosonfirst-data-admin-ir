@@ -1,0 +1,80 @@
+{
+  "id": 1310295805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.8334,30.3712,53.8334,30.3712",
+    "geom:latitude":30.3712,
+    "geom:longitude":53.8334,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Sarvestan",
+    "gn:country_code":"IR",
+    "gn:dem":1962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":116723,
+    "gn:latitude":30.3712,
+    "gn:longitude":53.8334,
+    "gn:modification_date":"2018-06-05",
+    "gn:name":"Sarvest\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0648\u0633\u062a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u064e\u0631\u0648\u064a\u0633\u062a\u0627\u0646",
+        "\u0633\u064e\u0644\u0648\u0650\u0633\u062a\u0627\u0646",
+        "Sarvest\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Salvest\u0101n",
+        "Sarv\u012bst\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108719883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":116723,
+        "wk:page":"Sarvestan,_Bavanat"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4ed469061e1e7e02559ad3cec20231fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719883,
+            "locality_id":1310295805,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1310295805,
+    "wof:lastmodified":1537643470,
+    "wof:name":"Sarvestan",
+    "wof:parent_id":1108719883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.8334,
+    30.3712,
+    53.8334,
+    30.3712
+],
+  "geometry": {"coordinates":[53.8334,30.3712],"type":"Point"}
+}

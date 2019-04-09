@@ -1,0 +1,75 @@
+{
+  "id": 1326512085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.08631,35.10001,47.08631,35.10001",
+    "geom:latitude":35.10001,
+    "geom:longitude":47.08631,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Hovanleh",
+    "gn:country_code":"IR",
+    "gn:dem":1783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3748,
+    "gn:latitude":35.10001,
+    "gn:longitude":47.08631,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Hov\u0101nleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Hov\u0101nleh"
+    ],
+    "name:fas_x_variant":[
+        "H\u016boll\u0101h",
+        "\u0647\u0648\u0627\u0646\u0644\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3748,
+        "wk:page":"Hovanleh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e8103b4d65de44e800a912563f08d4e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720379,
+            "locality_id":1326512085,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1326512085,
+    "wof:lastmodified":1537640272,
+    "wof:name":"Hovanleh",
+    "wof:parent_id":1108720379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.08631,
+    35.10001,
+    47.08631,
+    35.10001
+],
+  "geometry": {"coordinates":[47.08631,35.10001],"type":"Point"}
+}

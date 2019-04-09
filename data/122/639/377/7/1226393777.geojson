@@ -1,0 +1,78 @@
+{
+  "id": 1226393777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.81705,36.00605,49.81705,36.00605",
+    "geom:latitude":36.00605,
+    "geom:longitude":49.81705,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Hoseynabad",
+    "gn:country_code":"IR",
+    "gn:dem":1237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":131823,
+    "gn:latitude":36.00605,
+    "gn:longitude":49.81705,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"\u1e28oseyn\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0633\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28asan\u0101b\u0101d",
+        "\u062d\u0633\u06cc\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Khasanabad",
+        "\u1e28oseyn\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108720479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":131823
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a6df0f2b139db1b31c12be0449101a00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720479,
+            "locality_id":1226393777,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1226393777,
+    "wof:lastmodified":1537645007,
+    "wof:name":"Hoseynabad",
+    "wof:parent_id":1108720479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.81705,
+    36.00605,
+    49.81705,
+    36.00605
+],
+  "geometry": {"coordinates":[49.81705,36.00605],"type":"Point"}
+}

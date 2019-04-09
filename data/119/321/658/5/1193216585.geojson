@@ -1,0 +1,78 @@
+{
+  "id": 1193216585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.51039,36.55259,49.51039,36.55259",
+    "geom:latitude":36.55259,
+    "geom:longitude":49.51039,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Ganjeh Khaneh",
+    "gn:country_code":"IR",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7431593,
+    "gn:latitude":36.55259,
+    "gn:longitude":49.51039,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Ganjeh Kh\u0101neh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Ganjeh Kh\u0101neh"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u0646\u062c\u0647 \u062e\u0627\u0646\u0647",
+        "\u06af\u0646\u062c\u0647 \u062e\u0627\u0631\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u06af\u0646\u062c\u0647 \u062e\u0627\u0646\u0647",
+        "Ganjeh Kh\u0101reh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108720315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7431593
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"33953c58216f9f31b54048b62ca86e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720315,
+            "locality_id":1193216585,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1193216585,
+    "wof:lastmodified":1537648192,
+    "wof:name":"Ganjeh Khaneh",
+    "wof:parent_id":1108720315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.51039,
+    36.55259,
+    49.51039,
+    36.55259
+],
+  "geometry": {"coordinates":[49.51039,36.55259],"type":"Point"}
+}

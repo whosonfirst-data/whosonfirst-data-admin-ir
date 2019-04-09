@@ -1,0 +1,67 @@
+{
+  "id": 1277126891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.21667,30.73333,57.21667,30.73333",
+    "geom:latitude":30.73333,
+    "geom:longitude":57.21667,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Adur",
+    "gn:country_code":"IR",
+    "gn:dem":2301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":144749,
+    "gn:latitude":30.73333,
+    "gn:longitude":57.21667,
+    "gn:modification_date":"1994-02-10",
+    "gn:name":"\u0100d\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":144749
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8fba102f0653e35783cc8b3de97a35bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720347,
+            "locality_id":1277126891,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1277126891,
+    "wof:lastmodified":1536704420,
+    "wof:name":"Adur",
+    "wof:parent_id":1108720347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.21666999999999,
+    30.73333,
+    57.21666999999999,
+    30.73333
+],
+  "geometry": {"coordinates":[57.21666999999999,30.73333],"type":"Point"}
+}

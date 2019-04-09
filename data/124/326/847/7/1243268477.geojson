@@ -1,0 +1,73 @@
+{
+  "id": 1243268477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.63584,31.05209,50.63584,31.05209",
+    "geom:latitude":31.05209,
+    "geom:longitude":50.63584,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Deh-e Kuhmur",
+    "gn:country_code":"IR",
+    "gn:dem":1313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":15056,
+    "gn:latitude":31.05209,
+    "gn:longitude":50.63584,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Deh-e K\u016bhm\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Deh-e K\u016bhm\u016br"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0647 \u06a9\u0648\u0647 \u0645\u0648\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":15056
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b1234736c0db234893b5530b9fdb59d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1243268477,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1243268477,
+    "wof:lastmodified":1537640871,
+    "wof:name":"Deh-e Kuhmur",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.63584,
+    31.05209,
+    50.63584,
+    31.05209
+],
+  "geometry": {"coordinates":[50.63584,31.05209],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276923197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.1907,32.2743,51.1907,32.2743",
+    "geom:latitude":32.2743,
+    "geom:longitude":51.1907,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Hardank",
+    "gn:country_code":"IR",
+    "gn:dem":2000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":418804,
+    "gn:latitude":32.2743,
+    "gn:longitude":51.1907,
+    "gn:modification_date":"2018-07-23",
+    "gn:name":"H\u0101rdank",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0631\u062f\u0646\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "H\u0101rdang",
+        "H\u0101rdank"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":418804,
+        "wk:page":"Hardang,_Iran"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"433d968c38fcd9e4988253ebf01c0aa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720187,
+            "locality_id":1276923197,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1276923197,
+    "wof:lastmodified":1537646743,
+    "wof:name":"Hardank",
+    "wof:parent_id":1108720187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.1907,
+    32.2743,
+    51.1907,
+    32.2743
+],
+  "geometry": {"coordinates":[51.1907,32.2743],"type":"Point"}
+}

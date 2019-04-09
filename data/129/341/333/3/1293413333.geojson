@@ -1,0 +1,75 @@
+{
+  "id": 1293413333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.7686,30.9371,61.7686,30.9371",
+    "geom:latitude":30.9371,
+    "geom:longitude":61.7686,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Deh-e Gazmeh",
+    "gn:country_code":"IR",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1161161,
+    "gn:latitude":30.9371,
+    "gn:longitude":61.7686,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Deh-e Gazmeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062f\u0647 \u06af\u0632\u0645\u0647"
+    ],
+    "name:und_x_variant":[
+        "Gazmeh",
+        "Deh-e Gaz\u012bm\u0101r",
+        "Deh-e Gazmeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1161161
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f0d08b31716d65736617123cc27380e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720515,
+            "locality_id":1293413333,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1293413333,
+    "wof:lastmodified":1537647098,
+    "wof:name":"Deh-e Gazmeh",
+    "wof:parent_id":1108720515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.7686,
+    30.9371,
+    61.7686,
+    30.9371
+],
+  "geometry": {"coordinates":[61.7686,30.9371],"type":"Point"}
+}

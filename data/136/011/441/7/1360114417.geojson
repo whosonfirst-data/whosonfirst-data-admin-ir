@@ -1,0 +1,77 @@
+{
+  "id": 1360114417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.66691,36.65258,59.66691,36.65258",
+    "geom:latitude":36.65258,
+    "geom:longitude":59.66691,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Kardeh",
+    "gn:country_code":"IR",
+    "gn:dem":1308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":128692,
+    "gn:latitude":36.65258,
+    "gn:longitude":59.66691,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"K\u0101rdeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0631\u062f\u0647"
+    ],
+    "name:fas_x_variant":[
+        "K\u0101rdeh"
+    ],
+    "name:und_x_variant":[
+        "Chah\u0101r Deh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":128692,
+        "wk:page":"Kardeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9f8d3fc51a70d9ca0f113ea08a6577bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720227,
+            "locality_id":1360114417,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1360114417,
+    "wof:lastmodified":1537644688,
+    "wof:name":"Kardeh",
+    "wof:parent_id":1108720227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.66691,
+    36.65258,
+    59.66691,
+    36.65258
+],
+  "geometry": {"coordinates":[59.66691,36.65258],"type":"Point"}
+}

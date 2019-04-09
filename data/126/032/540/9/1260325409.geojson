@@ -1,0 +1,79 @@
+{
+  "id": 1260325409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.94,31.4678,53.94,31.4678",
+    "geom:latitude":31.4678,
+    "geom:longitude":53.94,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Heydarabad",
+    "gn:country_code":"IR",
+    "gn:dem":2267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":403929,
+    "gn:latitude":31.4678,
+    "gn:longitude":53.94,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u1e28eydar\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u064a\u062f\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0647\u0650\u064a\u062f\u064e\u0631 \u0622\u0628\u0627\u062f",
+        "\u0628\u0627\u063a\u0650 \u0633\u064f\u0647\u0631\u0627\u0628",
+        "\u1e28eydar\u0101b\u0101d"
+    ],
+    "name:und_x_variant":[
+        "B\u0101gh-e Sohr\u0101b",
+        "Heydar\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108720475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":403929
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b2cc4b1c2e9968beea05b9b40c8bc58e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720475,
+            "locality_id":1260325409,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1260325409,
+    "wof:lastmodified":1537646555,
+    "wof:name":"Heydarabad",
+    "wof:parent_id":1108720475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.94,
+    31.4678,
+    53.94,
+    31.4678
+],
+  "geometry": {"coordinates":[53.94,31.4678],"type":"Point"}
+}

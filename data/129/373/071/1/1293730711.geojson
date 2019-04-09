@@ -1,0 +1,73 @@
+{
+  "id": 1293730711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.495,27.3243,57.495,27.3243",
+    "geom:latitude":27.3243,
+    "geom:longitude":57.495,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Rowzeh-ye Haram",
+    "gn:country_code":"IR",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6654678,
+    "gn:latitude":27.3243,
+    "gn:longitude":57.495,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Row\u1e95eh-ye \u1e28aram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0636\u0647 \u062d\u0631\u0645"
+    ],
+    "name:fas_x_variant":[
+        "Row\u1e95eh-ye \u1e28aram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6654678
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3f1491a3e144f35f9998f83f00412b73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720213,
+            "locality_id":1293730711,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1293730711,
+    "wof:lastmodified":1537647240,
+    "wof:name":"Rowzeh-ye Haram",
+    "wof:parent_id":1108720213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.495,
+    27.3243,
+    57.495,
+    27.3243
+],
+  "geometry": {"coordinates":[57.495,27.3243],"type":"Point"}
+}

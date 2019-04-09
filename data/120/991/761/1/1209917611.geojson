@@ -1,0 +1,74 @@
+{
+  "id": 1209917611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.63696,36.77936,46.63696,36.77936",
+    "geom:latitude":36.77936,
+    "geom:longitude":46.63696,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Maqbul",
+    "gn:country_code":"IR",
+    "gn:dem":1645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":26641,
+    "gn:latitude":36.77936,
+    "gn:longitude":46.63696,
+    "gn:modification_date":"2016-01-06",
+    "gn:name":"Maqb\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0642\u0628\u0648\u0644"
+    ],
+    "name:fas_x_variant":[
+        "Maqb\u016bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":26641,
+        "wk:page":"Maqbul"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f7b97a1a2efaedfb4b9be088e14ef1a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720429,
+            "locality_id":1209917611,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1209917611,
+    "wof:lastmodified":1537641409,
+    "wof:name":"Maqbul",
+    "wof:parent_id":1108720429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.63696,
+    36.77936,
+    46.63696,
+    36.77936
+],
+  "geometry": {"coordinates":[46.63696,36.77936],"type":"Point"}
+}

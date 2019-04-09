@@ -1,0 +1,76 @@
+{
+  "id": 1293852661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.50526,29.20889,51.50526,29.20889",
+    "geom:latitude":29.20889,
+    "geom:longitude":51.50526,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Talkhab",
+    "gn:country_code":"IR",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7449839,
+    "gn:latitude":29.20889,
+    "gn:longitude":51.50526,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Talkh\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Talkh\u0101b"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0644\u062e\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u062a\u0644\u062e\u0627\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108719951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7449839
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cbc08d8a26478e82628d097e4a97eda1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719951,
+            "locality_id":1293852661,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1293852661,
+    "wof:lastmodified":1537648205,
+    "wof:name":"Talkhab",
+    "wof:parent_id":1108719951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.50526,
+    29.20889,
+    51.50526,
+    29.20889
+],
+  "geometry": {"coordinates":[51.50526,29.20889],"type":"Point"}
+}

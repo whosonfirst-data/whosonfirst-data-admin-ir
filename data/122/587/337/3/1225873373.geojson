@@ -1,0 +1,78 @@
+{
+  "id": 1225873373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.6468,32.2403,59.6468,32.2403",
+    "geom:latitude":32.2403,
+    "geom:longitude":59.6468,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Fereydun",
+    "gn:country_code":"IR",
+    "gn:dem":1874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":134606,
+    "gn:latitude":32.2403,
+    "gn:longitude":59.6468,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Fereyd\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u06cc\u062f\u0648\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Fereyd\u016bn"
+    ],
+    "name:und_x_variant":[
+        "Far\u012bd\u016bn",
+        "Fereydon",
+        "Faridoon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108720259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":134606
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"12cb8b6cc226fabcc306876d4853772b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720259,
+            "locality_id":1225873373,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1225873373,
+    "wof:lastmodified":1537645288,
+    "wof:name":"Fereydun",
+    "wof:parent_id":1108720259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.6468,
+    32.2403,
+    59.6468,
+    32.2403
+],
+  "geometry": {"coordinates":[59.6468,32.2403],"type":"Point"}
+}

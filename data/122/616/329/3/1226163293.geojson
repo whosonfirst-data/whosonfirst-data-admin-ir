@@ -1,0 +1,77 @@
+{
+  "id": 1226163293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.4169,30.0473,52.4169,30.0473",
+    "geom:latitude":30.0473,
+    "geom:longitude":52.4169,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Gervan",
+    "gn:country_code":"IR",
+    "gn:dem":1618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":47006,
+    "gn:latitude":30.0473,
+    "gn:longitude":52.4169,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Gerv\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Garrev\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "Gerv\u0101n",
+        "\u06af\u0631\u0648\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u06af\u0631\u0648\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":47006
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"472e7ed89a56ca2302f40f4e72ce21f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720421,
+            "locality_id":1226163293,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1226163293,
+    "wof:lastmodified":1537642653,
+    "wof:name":"Gervan",
+    "wof:parent_id":1108720421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.4169,
+    30.0473,
+    52.4169,
+    30.0473
+],
+  "geometry": {"coordinates":[52.4169,30.0473],"type":"Point"}
+}

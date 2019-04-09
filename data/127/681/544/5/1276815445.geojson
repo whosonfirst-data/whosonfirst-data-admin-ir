@@ -1,0 +1,67 @@
+{
+  "id": 1276815445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.5,33.01667,51.5,33.01667",
+    "geom:latitude":33.01667,
+    "geom:longitude":51.5,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Gardaneh",
+    "gn:country_code":"IR",
+    "gn:dem":1642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9004,
+    "gn:latitude":33.01667,
+    "gn:longitude":51.5,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Gardaneh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108719901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9004
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"defced991d6757374e5c6e98adeafdca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719901,
+            "locality_id":1276815445,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1276815445,
+    "wof:lastmodified":1536628215,
+    "wof:name":"Gardaneh",
+    "wof:parent_id":1108719901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.5,
+    33.01667,
+    51.5,
+    33.01667
+],
+  "geometry": {"coordinates":[51.5,33.01667],"type":"Point"}
+}

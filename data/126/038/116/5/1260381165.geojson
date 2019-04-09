@@ -1,0 +1,80 @@
+{
+  "id": 1260381165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.0858,37.08145,50.0858,37.08145",
+    "geom:latitude":37.08145,
+    "geom:longitude":50.0858,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Behpesi Bagh",
+    "gn:country_code":"IR",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":140923,
+    "gn:latitude":37.08145,
+    "gn:longitude":50.0858,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Behpes\u012b B\u0101gh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Behpes\u012b B\u0101gh"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0647\u067e\u0633\u06cc \u0628\u0627\u063a",
+        "\u0628\u0647\u067e\u0633 \u0628\u0627\u063a"
+    ],
+    "name:und_x_variant":[
+        "Pay-ye Pas B\u0101gh",
+        "Behpas\u012b B\u0101gh",
+        "\u0628\u0647\u067e\u0633\u06cc \u0628\u0627\u063a",
+        "Behpes B\u0101gh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140923
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fbebb563213b62d88acd746702320206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720183,
+            "locality_id":1260381165,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1260381165,
+    "wof:lastmodified":1537645923,
+    "wof:name":"Behpesi Bagh",
+    "wof:parent_id":1108720183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.0858,
+    37.08145,
+    50.0858,
+    37.08145
+],
+  "geometry": {"coordinates":[50.0858,37.08145],"type":"Point"}
+}

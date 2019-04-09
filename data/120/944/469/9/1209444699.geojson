@@ -1,0 +1,73 @@
+{
+  "id": 1209444699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.32881,35.87389,60.32881,35.87389",
+    "geom:latitude":35.87389,
+    "geom:longitude":60.32881,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Buteh Gaz",
+    "gn:country_code":"IR",
+    "gn:dem":1067,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1161602,
+    "gn:latitude":35.87389,
+    "gn:longitude":60.32881,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"B\u016bteh Gaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u062a\u0647 \u06af\u0632"
+    ],
+    "name:fas_x_variant":[
+        "B\u016bteh Gaz"
+    ],
+    "name:und_x_variant":[
+        "B\u016bta Gaz",
+        "Botteh Gaz",
+        "B\u016bteh K\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1161602,
+        "wk:page":"Buteh_Gaz,_Mashhad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7d1cf36bd8137bfd56a865c42e140891",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209444699
+        }
+    ],
+    "wof:id":1209444699,
+    "wof:lastmodified":1537647131,
+    "wof:name":"Buteh Gaz",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.32881,
+    35.87389,
+    60.32881,
+    35.87389
+],
+  "geometry": {"coordinates":[60.32881,35.87389],"type":"Point"}
+}

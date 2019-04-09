@@ -1,0 +1,76 @@
+{
+  "id": 1310405735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.3,27.16778,62.3,27.16778",
+    "geom:latitude":27.16778,
+    "geom:longitude":62.3,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Nusti",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1160150,
+    "gn:latitude":27.16778,
+    "gn:longitude":62.3,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"N\u016bst\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "N\u016bst\u012b"
+    ],
+    "name:und_x_variant":[
+        "Nar\u0101st\u012b",
+        "Nawast\u012b",
+        "N\u0101v\u0101sti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1160150
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0d5007ff29529ebc967f4d3f18f999b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720389,
+            "locality_id":1310405735,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1310405735,
+    "wof:lastmodified":1537647021,
+    "wof:name":"Nusti",
+    "wof:parent_id":1108720389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.3,
+    27.16778,
+    62.3,
+    27.16778
+],
+  "geometry": {"coordinates":[62.3,27.16778],"type":"Point"}
+}

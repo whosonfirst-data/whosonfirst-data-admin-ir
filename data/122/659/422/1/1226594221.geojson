@@ -1,0 +1,77 @@
+{
+  "id": 1226594221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.526,29.4458,55.526,29.4458",
+    "geom:latitude":29.4458,
+    "geom:longitude":55.526,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Shahrabad",
+    "gn:country_code":"IR",
+    "gn:dem":1700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":115448,
+    "gn:latitude":29.4458,
+    "gn:longitude":55.526,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Shahr\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Sharr\u0101b\u0101d",
+        "Shahr\u0101b\u0101d"
+    ],
+    "name:und_x_variant":[
+        "Shar\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":115448
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"418a3ecd5531fc781b5ca39360ffabb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720461,
+            "locality_id":1226594221,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1226594221,
+    "wof:lastmodified":1537643361,
+    "wof:name":"Shahrabad",
+    "wof:parent_id":1108720461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.526,
+    29.4458,
+    55.526,
+    29.4458
+],
+  "geometry": {"coordinates":[55.526,29.4458],"type":"Point"}
+}

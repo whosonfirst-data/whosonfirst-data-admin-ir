@@ -1,0 +1,76 @@
+{
+  "id": 1360133565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.3665,38.313,48.3665,38.313",
+    "geom:latitude":38.313,
+    "geom:longitude":48.3665,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Gilandeh",
+    "gn:country_code":"IR",
+    "gn:dem":1315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":133347,
+    "gn:latitude":38.313,
+    "gn:longitude":48.3665,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"G\u012bl\u0101ndeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u064a\u0644\u0627\u0646\u062f\u0647"
+    ],
+    "name:fas_x_variant":[
+        "G\u012bl\u0101n Deh",
+        "\u06af\u064a\u0644\u0627\u0646 \u062f\u0650\u0647",
+        "G\u012bl\u0101ndeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108719823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":133347,
+        "wk:page":"Gilan_Deh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ab98e41c615dd4c314b42602193bbfcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719823,
+            "locality_id":1360133565,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1360133565,
+    "wof:lastmodified":1537645162,
+    "wof:name":"Gilandeh",
+    "wof:parent_id":1108719823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.3665,
+    38.313,
+    48.3665,
+    38.313
+],
+  "geometry": {"coordinates":[48.3665,38.313],"type":"Point"}
+}

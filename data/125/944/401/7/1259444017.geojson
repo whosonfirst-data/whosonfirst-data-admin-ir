@@ -1,0 +1,67 @@
+{
+  "id": 1259444017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.40833,29.05028,58.40833,29.05028",
+    "geom:latitude":29.05028,
+    "geom:longitude":58.40833,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Masjed Papoli",
+    "gn:country_code":"IR",
+    "gn:dem":991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":400481,
+    "gn:latitude":29.05028,
+    "gn:longitude":58.40833,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Masjed P\u0101pol\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400481
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9bc84082c0476b53a0306e96f453d3ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719861,
+            "locality_id":1259444017,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1259444017,
+    "wof:lastmodified":1536916184,
+    "wof:name":"Masjed Papoli",
+    "wof:parent_id":1108719861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.40833000000001,
+    29.05028,
+    58.40833000000001,
+    29.05028
+],
+  "geometry": {"coordinates":[58.40833000000001,29.05028],"type":"Point"}
+}

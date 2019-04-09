@@ -1,0 +1,80 @@
+{
+  "id": 1310189995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.19155,36.76951,50.19155,36.76951",
+    "geom:latitude":36.76951,
+    "geom:longitude":50.19155,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Lizdin",
+    "gn:country_code":"IR",
+    "gn:dem":1648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10321,
+    "gn:latitude":36.76951,
+    "gn:longitude":50.19155,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"L\u012bzd\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u012azbon"
+    ],
+    "name:fas_x_variant":[
+        "\u0644\u064a\u0632\u062f\u06cc\u0646",
+        "\u0627\u0632\u062f\u06cc\u0646",
+        "\u0627\u064a\u0632\u062f\u06cc\u0646"
+    ],
+    "name:und_x_variant":[
+        "L\u012bzd\u012bn",
+        "Azd\u012bn",
+        "\u012azd\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10321
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ba880348d82e27d60b4bf94590a7ee9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720365,
+            "locality_id":1310189995,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1310189995,
+    "wof:lastmodified":1537640560,
+    "wof:name":"Lizdin",
+    "wof:parent_id":1108720365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.19155,
+    36.76951,
+    50.19155,
+    36.76951
+],
+  "geometry": {"coordinates":[50.19155,36.76951],"type":"Point"}
+}

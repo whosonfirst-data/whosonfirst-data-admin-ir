@@ -1,0 +1,73 @@
+{
+  "id": 1343952345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.933,29.7065,52.933,29.7065",
+    "geom:latitude":29.7065,
+    "geom:longitude":52.933,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Narem Qazi",
+    "gn:country_code":"IR",
+    "gn:dem":1578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6680509,
+    "gn:latitude":29.7065,
+    "gn:longitude":52.933,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"N\u0101rem Q\u0101\u1e95\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0631\u0645 \u0642\u0627\u0636\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "N\u0101rem Q\u0101\u1e95\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6680509
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a9facdd9832b138261a67c488b99dbee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720447,
+            "locality_id":1343952345,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1343952345,
+    "wof:lastmodified":1537647358,
+    "wof:name":"Narem Qazi",
+    "wof:parent_id":1108720447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.933,
+    29.7065,
+    52.933,
+    29.7065
+],
+  "geometry": {"coordinates":[52.933,29.7065],"type":"Point"}
+}

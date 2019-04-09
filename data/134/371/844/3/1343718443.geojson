@@ -1,0 +1,73 @@
+{
+  "id": 1343718443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.32473,35.59509,52.32473,35.59509",
+    "geom:latitude":35.59509,
+    "geom:longitude":52.32473,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Derakht-e Bid",
+    "gn:country_code":"IR",
+    "gn:dem":2058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":32680,
+    "gn:latitude":35.59509,
+    "gn:longitude":52.32473,
+    "gn:modification_date":"2013-01-09",
+    "gn:name":"Derakht-e B\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u062e\u062a \u0628\u064a\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Derakht-e B\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672313,
+        1108719935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":32680
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"78ecb89683136ebb4b23bdeb2e0d3b0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719935,
+            "locality_id":1343718443,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1343718443,
+    "wof:lastmodified":1537641812,
+    "wof:name":"Derakht-e Bid",
+    "wof:parent_id":1108719935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.32473,
+    35.59509,
+    52.32473,
+    35.59509
+],
+  "geometry": {"coordinates":[52.32473,35.59509],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293618137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.04501,35.99087,61.04501,35.99087",
+    "geom:latitude":35.99087,
+    "geom:longitude":61.04501,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Pas Kamar",
+    "gn:country_code":"IR",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1112895,
+    "gn:latitude":35.99087,
+    "gn:longitude":61.04501,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Pas Kamar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0633 \u06a9\u0645\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u067e\u0633 \u06a9\u0645\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1112895,
+        "wk:page":"Pas_Kamar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a35cb0ea7ce66bf999e38af04c2f7a3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720387,
+            "locality_id":1293618137,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1293618137,
+    "wof:lastmodified":1537646822,
+    "wof:name":"Pas Kamar",
+    "wof:parent_id":1108720387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.04501,
+    35.99087,
+    61.04501,
+    35.99087
+],
+  "geometry": {"coordinates":[61.04501,35.99087],"type":"Point"}
+}

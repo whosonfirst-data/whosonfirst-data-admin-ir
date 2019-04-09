@@ -1,0 +1,73 @@
+{
+  "id": 1327221725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.7437,27.6446,56.7437,27.6446",
+    "geom:latitude":27.6446,
+    "geom:longitude":56.7437,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Pishashki",
+    "gn:country_code":"IR",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":120983,
+    "gn:latitude":27.6446,
+    "gn:longitude":56.7437,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"P\u012bshashk\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0634\u0634\u06a9\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "P\u012bshashk\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108719863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":120983
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0772fae9d58218e984b54f2bbd9b405f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719863,
+            "locality_id":1327221725,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1327221725,
+    "wof:lastmodified":1537643908,
+    "wof:name":"Pishashki",
+    "wof:parent_id":1108719863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.7437,
+    27.6446,
+    56.7437,
+    27.6446
+],
+  "geometry": {"coordinates":[56.7437,27.6446],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242628635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.621,32.2984,53.621,32.2984",
+    "geom:latitude":32.2984,
+    "geom:longitude":53.621,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Pineh Kuh",
+    "gn:country_code":"IR",
+    "gn:dem":1857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":403198,
+    "gn:latitude":32.2984,
+    "gn:longitude":53.621,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"P\u012bneh K\u016bh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u064a\u0646\u0647 \u0643\u0648\u0647"
+    ],
+    "name:fas_x_variant":[
+        "P\u012bneh K\u016bh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108719817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":403198,
+        "wk:page":"Pineh_Kuh,_Yazd"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"745852bf557e5b71fbceb18cce7fadc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719817,
+            "locality_id":1242628635,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1242628635,
+    "wof:lastmodified":1537646546,
+    "wof:name":"Pineh Kuh",
+    "wof:parent_id":1108719817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.621,
+    32.2984,
+    53.621,
+    32.2984
+],
+  "geometry": {"coordinates":[53.621,32.2984],"type":"Point"}
+}

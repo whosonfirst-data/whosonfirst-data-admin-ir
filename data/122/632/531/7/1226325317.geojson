@@ -1,0 +1,77 @@
+{
+  "id": 1226325317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.1233,32.1154,49.1233,32.1154",
+    "geom:latitude":32.1154,
+    "geom:longitude":49.1233,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Rakeh",
+    "gn:country_code":"IR",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":118859,
+    "gn:latitude":32.1154,
+    "gn:longitude":49.1233,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"R\u0101keh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u06a9\u0647"
+    ],
+    "name:fas_x_variant":[
+        "R\u0101keh"
+    ],
+    "name:und_x_variant":[
+        "Rakbeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":118859,
+        "wk:page":"Rakeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e2ad86eee8642ef5e48da2743a588084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720229,
+            "locality_id":1226325317,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1226325317,
+    "wof:lastmodified":1537643678,
+    "wof:name":"Rakeh",
+    "wof:parent_id":1108720229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.1233,
+    32.1154,
+    49.1233,
+    32.1154
+],
+  "geometry": {"coordinates":[49.1233,32.1154],"type":"Point"}
+}

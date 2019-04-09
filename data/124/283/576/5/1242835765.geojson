@@ -1,0 +1,77 @@
+{
+  "id": 1242835765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.65215,30.9472,51.65215,30.9472",
+    "geom:latitude":30.9472,
+    "geom:longitude":51.65215,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Bideh",
+    "gn:country_code":"IR",
+    "gn:dem":2256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":140640,
+    "gn:latitude":30.9472,
+    "gn:longitude":51.65215,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"B\u012bdeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "B\u012bdeh"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u06cc\u062f\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0628\u06cc\u062f\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140640,
+        "wk:page":"Bideh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"be025759f9a1a811e8d0e67d1ff26f60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720415,
+            "locality_id":1242835765,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1242835765,
+    "wof:lastmodified":1537645896,
+    "wof:name":"Bideh",
+    "wof:parent_id":1108720415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.65215,
+    30.9472,
+    51.65215,
+    30.9472
+],
+  "geometry": {"coordinates":[51.65215,30.9472],"type":"Point"}
+}

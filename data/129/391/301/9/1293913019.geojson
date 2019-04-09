@@ -1,0 +1,74 @@
+{
+  "id": 1293913019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.56827,35.99544,50.56827,35.99544",
+    "geom:latitude":35.99544,
+    "geom:longitude":50.56827,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Meskinabad",
+    "gn:country_code":"IR",
+    "gn:dem":1196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":41471,
+    "gn:latitude":35.99544,
+    "gn:longitude":50.56827,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Mesk\u012bn\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0633\u0643\u064a\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Mesk\u012bn\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672415,
+        1108720409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":41471,
+        "wk:page":"Meskinabad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6769656a9505390424ef6aa067ec5591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720409,
+            "locality_id":1293913019,
+            "region_id":85672415
+        }
+    ],
+    "wof:id":1293913019,
+    "wof:lastmodified":1537642333,
+    "wof:name":"Meskinabad",
+    "wof:parent_id":1108720409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.56827,
+    35.99544,
+    50.56827,
+    35.99544
+],
+  "geometry": {"coordinates":[50.56827,35.99544],"type":"Point"}
+}

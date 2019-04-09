@@ -1,0 +1,73 @@
+{
+  "id": 1326871597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.8596,38.9767,47.8596,38.9767",
+    "geom:latitude":38.9767,
+    "geom:longitude":47.8596,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Darreh Gahlu",
+    "gn:country_code":"IR",
+    "gn:dem":1101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":13637,
+    "gn:latitude":38.9767,
+    "gn:longitude":47.8596,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Darreh G\u0101hl\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0647 \u06af\u0627\u0647\u0644\u0648"
+    ],
+    "name:fas_x_variant":[
+        "Darreh G\u0101hl\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13637
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3744a3726e2999b33a9b2c8102a4664d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720021,
+            "locality_id":1326871597,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1326871597,
+    "wof:lastmodified":1537640733,
+    "wof:name":"Darreh Gahlu",
+    "wof:parent_id":1108720021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.8596,
+    38.9767,
+    47.8596,
+    38.9767
+],
+  "geometry": {"coordinates":[47.8596,38.9767],"type":"Point"}
+}

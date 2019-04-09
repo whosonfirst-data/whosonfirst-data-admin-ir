@@ -1,0 +1,74 @@
+{
+  "id": 1360113355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.78923,37.22374,57.78923,37.22374",
+    "geom:latitude":37.22374,
+    "geom:longitude":57.78923,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Borzowli",
+    "gn:country_code":"IR",
+    "gn:dem":1761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":401086,
+    "gn:latitude":37.22374,
+    "gn:longitude":57.78923,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Borzowl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Borzol\u012b"
+    ],
+    "name:fas_x_variant":[
+        "Borzowl\u012b",
+        "\u0628\u0631\u0632\u0648\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672401,
+        1108720451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401086
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ebedbfb085d52680d07f97bcbee266ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720451,
+            "locality_id":1360113355,
+            "region_id":85672401
+        }
+    ],
+    "wof:id":1360113355,
+    "wof:lastmodified":1537646515,
+    "wof:name":"Borzowli",
+    "wof:parent_id":1108720451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.78923,
+    37.22374,
+    57.78923,
+    37.22374
+],
+  "geometry": {"coordinates":[57.78923,37.22374],"type":"Point"}
+}

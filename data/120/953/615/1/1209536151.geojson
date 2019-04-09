@@ -1,0 +1,70 @@
+{
+  "id": 1209536151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.48089,30.07572,51.48089,30.07572",
+    "geom:latitude":30.07572,
+    "geom:longitude":51.48089,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Tol-e Heydari",
+    "gn:country_code":"IR",
+    "gn:dem":970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112718,
+    "gn:latitude":30.07572,
+    "gn:longitude":51.48089,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Tol-e \u1e28eydar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Tol-e \u1e28eydar\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0644 \u062d\u06cc\u062f\u0631\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u062a\u0644 \u062d\u06cc\u062f\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112718
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b44156fb9b851800c73e575ccf9dedca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209536151
+        }
+    ],
+    "wof:id":1209536151,
+    "wof:lastmodified":1537643116,
+    "wof:name":"Tol-e Heydari",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.48089,
+    30.07572,
+    51.48089,
+    30.07572
+],
+  "geometry": {"coordinates":[51.48089,30.07572],"type":"Point"}
+}

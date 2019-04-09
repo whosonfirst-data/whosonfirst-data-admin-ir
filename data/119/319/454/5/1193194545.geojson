@@ -1,0 +1,73 @@
+{
+  "id": 1193194545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.37995,36.85819,54.37995,36.85819",
+    "geom:latitude":36.85819,
+    "geom:longitude":54.37995,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Lamalang-e Sharqi",
+    "gn:country_code":"IR",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11077783,
+    "gn:latitude":36.85819,
+    "gn:longitude":54.37995,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"L\u0101malang-e Sharq\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0645\u0644\u0646\u06af \u0634\u0631\u0642\u06cc"
+    ],
+    "name:und_x_variant":[
+        "L\u0101malang-e Sharq\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11077783
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"78aa4f3a9e21e840a91980b0f91bc0c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720041,
+            "locality_id":1193194545,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1193194545,
+    "wof:lastmodified":1537648718,
+    "wof:name":"Lamalang-e Sharqi",
+    "wof:parent_id":1108720041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.37995,
+    36.85819,
+    54.37995,
+    36.85819
+],
+  "geometry": {"coordinates":[54.37995,36.85819],"type":"Point"}
+}

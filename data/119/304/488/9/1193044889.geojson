@@ -1,0 +1,74 @@
+{
+  "id": 1193044889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.43152,33.61286,60.43152,33.61286",
+    "geom:latitude":33.61286,
+    "geom:longitude":60.43152,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Barenjegan",
+    "gn:country_code":"IR",
+    "gn:dem":704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7060678,
+    "gn:latitude":33.61286,
+    "gn:longitude":60.43152,
+    "gn:modification_date":"2018-05-28",
+    "gn:name":"B\u0101renjeg\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0631\u0646\u062c\u06af\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "B\u0101renjeg\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108720313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7060678,
+        "wk:page":"Barenjegan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"55bf9432f3f3d3359dbb76eae599f4e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720313,
+            "locality_id":1193044889,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1193044889,
+    "wof:lastmodified":1537647972,
+    "wof:name":"Barenjegan",
+    "wof:parent_id":1108720313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.43151999999999,
+    33.61286,
+    60.43151999999999,
+    33.61286
+],
+  "geometry": {"coordinates":[60.43151999999999,33.61286],"type":"Point"}
+}

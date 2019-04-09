@@ -1,0 +1,73 @@
+{
+  "id": 1243317971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.40103,35.88763,51.40103,35.88763",
+    "geom:latitude":35.88763,
+    "geom:longitude":51.40103,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Towchal Hotel",
+    "gn:country_code":"IR",
+    "gn:dem":3581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":320,
+    "gn:latitude":35.88763,
+    "gn:longitude":51.40103,
+    "gn:modification_date":"2013-01-24",
+    "gn:name":"Towch\u0101l Hotel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u064f\u0648\u0686\u0627\u0644 \u064a\u0633\u062a\u06af\u0627\u0647\u0650"
+    ],
+    "name:fas_x_variant":[
+        "Towch\u0101l \u012astg\u0101h-e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672313,
+        1108720491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":320
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"04f39ea536e8466a469c418b051b42f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720491,
+            "locality_id":1243317971,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1243317971,
+    "wof:lastmodified":1537640131,
+    "wof:name":"Towchal Hotel",
+    "wof:parent_id":1108720491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.40103,
+    35.88763,
+    51.40103,
+    35.88763
+],
+  "geometry": {"coordinates":[51.40103,35.88763],"type":"Point"}
+}

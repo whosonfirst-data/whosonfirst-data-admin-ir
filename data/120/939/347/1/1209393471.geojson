@@ -1,0 +1,64 @@
+{
+  "id": 1209393471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.2959,32.9153,47.2959,32.9153",
+    "geom:latitude":32.9153,
+    "geom:longitude":47.2959,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Fens",
+    "gn:country_code":"IR",
+    "gn:dem":1858,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6719731,
+    "gn:latitude":32.9153,
+    "gn:longitude":47.2959,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Fens",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0641\u0646\u0633"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6719731
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2c44c2cf22c97677d85f3ab8a842f52f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209393471
+        }
+    ],
+    "wof:id":1209393471,
+    "wof:lastmodified":1537647482,
+    "wof:name":"Fens",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.2959,
+    32.9153,
+    47.2959,
+    32.9153
+],
+  "geometry": {"coordinates":[47.2959,32.9153],"type":"Point"}
+}

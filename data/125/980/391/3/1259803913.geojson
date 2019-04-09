@@ -1,0 +1,78 @@
+{
+  "id": 1259803913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.8404,31.0359,52.8404,31.0359",
+    "geom:latitude":31.0359,
+    "geom:longitude":52.8404,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Surmaq",
+    "gn:country_code":"IR",
+    "gn:dem":1890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":113712,
+    "gn:latitude":31.0359,
+    "gn:longitude":52.8404,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u016brmaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0631\u0645\u0642"
+    ],
+    "name:fas_x_variant":[
+        "S\u016brmaq"
+    ],
+    "name:und_x_variant":[
+        "S\u016brmak",
+        "Soormagh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108719779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":113712,
+        "wk:page":"Surmaq"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"403d0ebfeea1ac81e04b0156533f54df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719779,
+            "locality_id":1259803913,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1259803913,
+    "wof:lastmodified":1537643213,
+    "wof:name":"Surmaq",
+    "wof:parent_id":1108719779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.8404,
+    31.0359,
+    52.8404,
+    31.0359
+],
+  "geometry": {"coordinates":[52.8404,31.0359],"type":"Point"}
+}

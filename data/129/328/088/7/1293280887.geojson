@@ -1,0 +1,77 @@
+{
+  "id": 1293280887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.0425,32.8159,47.0425,32.8159",
+    "geom:latitude":32.8159,
+    "geom:longitude":47.0425,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Chenaleh",
+    "gn:country_code":"IR",
+    "gn:dem":779,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9356,
+    "gn:latitude":32.8159,
+    "gn:longitude":47.0425,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"Chen\u0101leh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Cham N\u012bleh"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u064e\u0645 \u0646\u064a\u0644\u0650\u0647",
+        "\u0686\u0646\u0627\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "Chen\u0101leh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108719957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9356
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"259787681da5263a1f92e516f4c16f8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719957,
+            "locality_id":1293280887,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1293280887,
+    "wof:lastmodified":1537640474,
+    "wof:name":"Chenaleh",
+    "wof:parent_id":1108719957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.0425,
+    32.8159,
+    47.0425,
+    32.8159
+],
+  "geometry": {"coordinates":[47.0425,32.8159],"type":"Point"}
+}

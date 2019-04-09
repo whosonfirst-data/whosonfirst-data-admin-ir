@@ -1,0 +1,74 @@
+{
+  "id": 1326720621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.2699,37.2446,49.2699,37.2446",
+    "geom:latitude":37.2446,
+    "geom:longitude":49.2699,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Shir-e Tar",
+    "gn:country_code":"IR",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416811,
+    "gn:latitude":37.2446,
+    "gn:longitude":49.2699,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sh\u012br-e Tar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0631 \u062a\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Sh\u012br-e Tar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416811,
+        "wk:page":"Shir-e_Tar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8de1c1e57f744365d18d4799dd4087f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720013,
+            "locality_id":1326720621,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1326720621,
+    "wof:lastmodified":1537646676,
+    "wof:name":"Shir-e Tar",
+    "wof:parent_id":1108720013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.2699,
+    37.2446,
+    49.2699,
+    37.2446
+],
+  "geometry": {"coordinates":[49.2699,37.2446],"type":"Point"}
+}

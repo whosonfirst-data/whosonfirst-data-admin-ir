@@ -1,0 +1,73 @@
+{
+  "id": 1360038779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.96667,36.45,52.96667,36.45",
+    "geom:latitude":36.45,
+    "geom:longitude":52.96667,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Anarak Tisi",
+    "gn:country_code":"IR",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1615,
+    "gn:latitude":36.45,
+    "gn:longitude":52.96667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"An\u0101rak T\u012bs\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u064e\u0646\u0627\u0631\u064e\u0643 \u062a\u064a\u0633\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "An\u0101rak T\u012bs\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1615
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6be91a9e7c6d571dc85010f3f46cbd0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720309,
+            "locality_id":1360038779,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1360038779,
+    "wof:lastmodified":1537640176,
+    "wof:name":"Anarak Tisi",
+    "wof:parent_id":1108720309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.96666999999999,
+    36.45,
+    52.96666999999999,
+    36.45
+],
+  "geometry": {"coordinates":[52.96666999999999,36.45],"type":"Point"}
+}

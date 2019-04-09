@@ -1,0 +1,70 @@
+{
+  "id": 1193025193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.58472,38.44111,44.58472,38.44111",
+    "geom:latitude":38.44111,
+    "geom:longitude":44.58472,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zeri",
+    "gn:country_code":"IR",
+    "gn:dem":2184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":401172,
+    "gn:latitude":38.44111,
+    "gn:longitude":44.58472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zer\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Zer\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401172
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"698ec6fae2d3463dac56ce160baf628a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720153,
+            "locality_id":1193025193,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1193025193,
+    "wof:lastmodified":1537646520,
+    "wof:name":"Zeri",
+    "wof:parent_id":1108720153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.58472,
+    38.44111,
+    44.58472,
+    38.44111
+],
+  "geometry": {"coordinates":[44.58472,38.44111],"type":"Point"}
+}

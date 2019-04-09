@@ -1,0 +1,76 @@
+{
+  "id": 1243064657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.13354,37.40058,49.13354,37.40058",
+    "geom:latitude":37.40058,
+    "geom:longitude":49.13354,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Pashkam",
+    "gn:country_code":"IR",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6758040,
+    "gn:latitude":37.40058,
+    "gn:longitude":49.13354,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"P\u0101shkam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0634\u06a9\u0645"
+    ],
+    "name:fas_x_variant":[
+        "P\u0101shkam"
+    ],
+    "name:und_x_variant":[
+        "P\u0101shkam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6758040
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a22a1eb63193dbc07934319054c8a539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720225,
+            "locality_id":1243064657,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1243064657,
+    "wof:lastmodified":1537647659,
+    "wof:name":"Pashkam",
+    "wof:parent_id":1108720225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.13354,
+    37.40058,
+    49.13354,
+    37.40058
+],
+  "geometry": {"coordinates":[49.13354,37.40058],"type":"Point"}
+}

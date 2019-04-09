@@ -1,0 +1,73 @@
+{
+  "id": 1276300559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.84934,33.14324,47.84934,33.14324",
+    "geom:latitude":33.14324,
+    "geom:longitude":47.84934,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Bardbaran",
+    "gn:country_code":"IR",
+    "gn:dem":892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8264085,
+    "gn:latitude":33.14324,
+    "gn:longitude":47.84934,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Bardbar\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u062f\u0628\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Bardbar\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8264085
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"43a0f6125543bb2341c0a9a11de210ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720307,
+            "locality_id":1276300559,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1276300559,
+    "wof:lastmodified":1537648534,
+    "wof:name":"Bardbaran",
+    "wof:parent_id":1108720307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.84934000000001,
+    33.14324000000001,
+    47.84934000000001,
+    33.14324000000001
+],
+  "geometry": {"coordinates":[47.84934000000001,33.14324000000001],"type":"Point"}
+}

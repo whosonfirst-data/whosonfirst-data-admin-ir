@@ -1,0 +1,76 @@
+{
+  "id": 1327385271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.26667,34.66724,57.26667,34.66724",
+    "geom:latitude":34.66724,
+    "geom:longitude":57.26667,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Gazu",
+    "gn:country_code":"IR",
+    "gn:dem":1187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":30374,
+    "gn:latitude":34.66724,
+    "gn:longitude":57.26667,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Gaz\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Gaz\u016b"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u0632\u0648"
+    ],
+    "name:und_x_variant":[
+        "\u06af\u0632\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108720469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":30374
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9ad207405ab0869ac7d793458b4bd645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720469,
+            "locality_id":1327385271,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1327385271,
+    "wof:lastmodified":1537641674,
+    "wof:name":"Gazu",
+    "wof:parent_id":1108720469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.26667,
+    34.66724,
+    57.26667,
+    34.66724
+],
+  "geometry": {"coordinates":[57.26667,34.66724],"type":"Point"}
+}

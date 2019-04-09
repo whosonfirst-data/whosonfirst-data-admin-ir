@@ -1,0 +1,73 @@
+{
+  "id": 1293617697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.2413,32.2645,59.2413,32.2645",
+    "geom:latitude":32.2645,
+    "geom:longitude":59.2413,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Lakhi",
+    "gn:country_code":"IR",
+    "gn:dem":1653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10352571,
+    "gn:latitude":32.2645,
+    "gn:longitude":59.2413,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"L\u0101kh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u062e\u06cc"
+    ],
+    "name:und_x_variant":[
+        "L\u0101kh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108719895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10352571
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"205fa89bf33a40158766f241aa7bb19e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719895,
+            "locality_id":1293617697,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1293617697,
+    "wof:lastmodified":1537648681,
+    "wof:name":"Lakhi",
+    "wof:parent_id":1108719895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.2413,
+    32.2645,
+    59.2413,
+    32.2645
+],
+  "geometry": {"coordinates":[59.2413,32.2645],"type":"Point"}
+}

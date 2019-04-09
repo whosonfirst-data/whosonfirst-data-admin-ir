@@ -1,0 +1,74 @@
+{
+  "id": 1193078297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.62366,38.66208,47.62366,38.66208",
+    "geom:latitude":38.66208,
+    "geom:longitude":47.62366,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Borjelu",
+    "gn:country_code":"IR",
+    "gn:dem":1012,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":13661,
+    "gn:latitude":38.66208,
+    "gn:longitude":47.62366,
+    "gn:modification_date":"2018-05-17",
+    "gn:name":"Borjel\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u062c\u0644\u0648"
+    ],
+    "name:fas_x_variant":[
+        "Borjel\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13661,
+        "wk:page":"Borjelu,_Meshgin_Shahr"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"afa9a06056fcb4b88134aff4dddf8c2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720237,
+            "locality_id":1193078297,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1193078297,
+    "wof:lastmodified":1537640736,
+    "wof:name":"Borjelu",
+    "wof:parent_id":1108720237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.62366,
+    38.66208,
+    47.62366,
+    38.66208
+],
+  "geometry": {"coordinates":[47.62366,38.66208],"type":"Point"}
+}

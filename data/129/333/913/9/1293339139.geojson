@@ -1,0 +1,76 @@
+{
+  "id": 1293339139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.3679,38.1211,48.3679,38.1211",
+    "geom:latitude":38.1211,
+    "geom:longitude":48.3679,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Kuzah Topraqi",
+    "gn:country_code":"IR",
+    "gn:dem":1392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":37871,
+    "gn:latitude":38.1211,
+    "gn:longitude":48.3679,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"K\u016bzah Topr\u0101q\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0648\u0632\u064e\u0647 \u062a\u064f\u0631\u067e\u0627\u0642\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0643\u0648\u0632\u0647 \u062a\u067e\u0631\u0627\u0642\u06cc",
+        "K\u016bzah Torp\u0101q\u012b",
+        "K\u016bzah Topr\u0101q\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108719823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":37871,
+        "wk:page":"Kuzah_Topraqi"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cc1a8e4edbb2e758b7c1815e16a17dd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719823,
+            "locality_id":1293339139,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1293339139,
+    "wof:lastmodified":1537642133,
+    "wof:name":"Kuzah Topraqi",
+    "wof:parent_id":1108719823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.3679,
+    38.1211,
+    48.3679,
+    38.1211
+],
+  "geometry": {"coordinates":[48.3679,38.1211],"type":"Point"}
+}

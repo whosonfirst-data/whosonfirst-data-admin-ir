@@ -1,0 +1,77 @@
+{
+  "id": 1226769451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.26554,36.93936,50.26554,36.93936",
+    "geom:latitude":36.93936,
+    "geom:longitude":50.26554,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Si Jareh",
+    "gn:country_code":"IR",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9952,
+    "gn:latitude":36.93936,
+    "gn:longitude":50.26554,
+    "gn:modification_date":"2014-04-05",
+    "gn:name":"S\u012b J\u0101reh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Saj\u0101reh"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u06cc \u062c\u0627\u0631\u0647"
+    ],
+    "name:und_x_variant":[
+        "S\u012b J\u0101reh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9952,
+        "wk:page":"Sijareh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"581d139e9bd2d4abefb2d71642d6323b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720365,
+            "locality_id":1226769451,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1226769451,
+    "wof:lastmodified":1537640524,
+    "wof:name":"Si Jareh",
+    "wof:parent_id":1108720365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.26554,
+    36.93936,
+    50.26554,
+    36.93936
+],
+  "geometry": {"coordinates":[50.26554,36.93936],"type":"Point"}
+}

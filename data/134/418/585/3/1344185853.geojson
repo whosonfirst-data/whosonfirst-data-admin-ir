@@ -1,0 +1,76 @@
+{
+  "id": 1344185853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.71778,36.27333,59.71778,36.27333",
+    "geom:latitude":36.27333,
+    "geom:longitude":59.71778,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Sakhteman",
+    "gn:country_code":"IR",
+    "gn:dem":947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":117776,
+    "gn:latitude":36.27333,
+    "gn:longitude":59.71778,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u0101khtem\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "S\u0101khtem\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Qal\u2018eh S\u0101khteman",
+        "Kh\u012b\u0101b\u0101n",
+        "S\u0101khtem\u0101n Kh\u012b\u0101b\u0101n",
+        "Sakhtemane Khiyaban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":117776
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d384fa0b1f9c964bfe34c51ad34c6e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720227,
+            "locality_id":1344185853,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1344185853,
+    "wof:lastmodified":1537643576,
+    "wof:name":"Sakhteman",
+    "wof:parent_id":1108720227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.71778000000001,
+    36.27333,
+    59.71778000000001,
+    36.27333
+],
+  "geometry": {"coordinates":[59.71778000000001,36.27333],"type":"Point"}
+}

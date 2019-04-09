@@ -1,0 +1,80 @@
+{
+  "id": 1243233661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.58257,31.99417,49.58257,31.99417",
+    "geom:latitude":31.99417,
+    "geom:longitude":49.58257,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Yegali",
+    "gn:country_code":"IR",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7550258,
+    "gn:latitude":31.99417,
+    "gn:longitude":49.58257,
+    "gn:modification_date":"2017-11-09",
+    "gn:name":"Yeg\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Yeg\u0101\u2018\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u06cc\u06af\u0627\u0626\u06cc",
+        "\u06cc\u06af\u0627\u0644\u06cc",
+        "\u06cc\u06af\u0627\u0648\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u06cc\u06af\u0627\u0626\u06cc",
+        "Yeg\u0101l\u012b",
+        "Yeg\u0101v\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7550258
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c3094bc854eb6f3581a8e7ad45db582d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720067,
+            "locality_id":1243233661,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1243233661,
+    "wof:lastmodified":1537648352,
+    "wof:name":"Yegali",
+    "wof:parent_id":1108720067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.58257,
+    31.99417,
+    49.58257,
+    31.99417
+],
+  "geometry": {"coordinates":[49.58257,31.99417],"type":"Point"}
+}

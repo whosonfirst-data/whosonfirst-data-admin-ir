@@ -1,0 +1,81 @@
+{
+  "id": 1360123315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.21229,37.21219,55.21229,37.21219",
+    "geom:latitude":37.21219,
+    "geom:longitude":55.21229,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Kuchak Olum",
+    "gn:country_code":"IR",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":39949,
+    "gn:latitude":37.21219,
+    "gn:longitude":55.21229,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"K\u016bchak Ol\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "K\u016bchek"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0648\u0686\u06a9",
+        "\u0643\u0648\u0686\u06a9 \u0627\u0644\u0648\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u0643\u0648\u0686\u06a9 \u0627\u0644\u0648\u0645",
+        "\u06a9\u0648\u0686\u06a9",
+        "K\u016bchak Ol\u016bm",
+        "K\u016bchak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":39949,
+        "wk:page":"Kuchek_Olum"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5d55cd85cadeb7a4b48db3968902e3af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720039,
+            "locality_id":1360123315,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1360123315,
+    "wof:lastmodified":1537642238,
+    "wof:name":"Kuchak Olum",
+    "wof:parent_id":1108720039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.21229,
+    37.21219,
+    55.21229,
+    37.21219
+],
+  "geometry": {"coordinates":[55.21229,37.21219],"type":"Point"}
+}

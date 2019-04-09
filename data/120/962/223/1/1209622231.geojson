@@ -1,0 +1,71 @@
+{
+  "id": 1209622231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.81818,32.21123,50.81818,32.21123",
+    "geom:latitude":32.21123,
+    "geom:longitude":50.81818,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Sirak",
+    "gn:country_code":"IR",
+    "gn:dem":2032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":114281,
+    "gn:latitude":32.21123,
+    "gn:longitude":50.81818,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u012brak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "S\u012brak"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u064a\u0631\u0643"
+    ],
+    "name:und_x_variant":[
+        "Sirk",
+        "\u0633\u064a\u0631\u0643"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":114281
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"399e8dd2f781d886683a0ff03af359b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209622231
+        }
+    ],
+    "wof:id":1209622231,
+    "wof:lastmodified":1537643264,
+    "wof:name":"Sirak",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.81818,
+    32.21123,
+    50.81818,
+    32.21123
+],
+  "geometry": {"coordinates":[50.81818,32.21123],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209870673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.42664,35.82822,51.42664,35.82822",
+    "geom:latitude":35.82822,
+    "geom:longitude":51.42664,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Darband sq",
+    "gn:country_code":"IR",
+    "gn:dem":1797,
+    "gn:elevation":"1807.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8449647,
+    "gn:latitude":35.82822,
+    "gn:longitude":51.42664,
+    "gn:modification_date":"2013-01-28",
+    "gn:name":"Darband sq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u062f\u0627\u0646 \u0645\u062c\u0633\u0645\u0647 \u062f\u0631\u0628\u0646\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672313,
+        1108720445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8449647
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4e3306e5e9239e99605d85700ba84770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720445,
+            "locality_id":1209870673,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1209870673,
+    "wof:lastmodified":1537648563,
+    "wof:name":"Darband sq",
+    "wof:parent_id":1108720445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.42664,
+    35.82822,
+    51.42664,
+    35.82822
+],
+  "geometry": {"coordinates":[51.42664,35.82822],"type":"Point"}
+}

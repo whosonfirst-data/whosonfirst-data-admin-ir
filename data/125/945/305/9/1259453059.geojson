@@ -1,0 +1,70 @@
+{
+  "id": 1259453059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.88333,32.9,48.88333,32.9",
+    "geom:latitude":32.9,
+    "geom:longitude":48.88333,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Filof",
+    "gn:country_code":"IR",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":36604,
+    "gn:latitude":32.9,
+    "gn:longitude":48.88333,
+    "gn:modification_date":"2016-01-06",
+    "gn:name":"F\u012blof",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "F\u012blof"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":36604
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"91153ee8f71e266d571a3a2bc0d245c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719803,
+            "locality_id":1259453059,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1259453059,
+    "wof:lastmodified":1537642021,
+    "wof:name":"Filof",
+    "wof:parent_id":1108719803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.88333,
+    32.9,
+    48.88333,
+    32.9
+],
+  "geometry": {"coordinates":[48.88333,32.9],"type":"Point"}
+}

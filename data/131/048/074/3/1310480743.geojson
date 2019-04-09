@@ -1,0 +1,77 @@
+{
+  "id": 1310480743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.1026,35.0758,46.1026,35.0758",
+    "geom:latitude":35.0758,
+    "geom:longitude":46.1026,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Zhaleh Qobad Beyk",
+    "gn:country_code":"IR",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":435528,
+    "gn:latitude":35.0758,
+    "gn:longitude":46.1026,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Zh\u0101leh Qob\u0101d Beyk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0698\u0627\u0644\u0647 \u0642\u0628\u0627\u062f \u0628\u06cc\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "Zh\u0101leh Qob\u0101d Beyk",
+        "\u0698\u0627\u0644\u0647 \u0642\u0628\u0627\u062f \u0628\u06cc\u06af"
+    ],
+    "name:und_x_variant":[
+        "Zh\u0101leh Qob\u0101d Beyg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":435528
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9ea1a2e4b38425be42eae296ea450f15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720301,
+            "locality_id":1310480743,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1310480743,
+    "wof:lastmodified":1537646765,
+    "wof:name":"Zhaleh Qobad Beyk",
+    "wof:parent_id":1108720301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.1026,
+    35.0758,
+    46.1026,
+    35.0758
+],
+  "geometry": {"coordinates":[46.1026,35.0758],"type":"Point"}
+}

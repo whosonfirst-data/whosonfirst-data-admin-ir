@@ -1,0 +1,79 @@
+{
+  "id": 1343334467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.0727,30.6704,50.0727,30.6704",
+    "geom:latitude":30.6704,
+    "geom:longitude":50.0727,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Mahi Bas",
+    "gn:country_code":"IR",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":45705,
+    "gn:latitude":30.6704,
+    "gn:longitude":50.0727,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"M\u0101h\u012b Bas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0647\u06cc \u0628\u0633"
+    ],
+    "name:fas_x_variant":[
+        "M\u0101h\u012b Bas",
+        "\u0645\u0627\u06cc \u0628\u0633",
+        "\u0645\u06cc \u0628\u0633"
+    ],
+    "name:und_x_variant":[
+        "M\u0101y Bas",
+        "Mey Bas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":45705
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2e08e289c26bf0f5b7384f3ff60820e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719885,
+            "locality_id":1343334467,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1343334467,
+    "wof:lastmodified":1537642562,
+    "wof:name":"Mahi Bas",
+    "wof:parent_id":1108719885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.0727,
+    30.6704,
+    50.0727,
+    30.6704
+],
+  "geometry": {"coordinates":[50.0727,30.6704],"type":"Point"}
+}

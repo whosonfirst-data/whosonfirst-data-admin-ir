@@ -1,0 +1,76 @@
+{
+  "id": 1344255839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.69508,31.30464,50.69508,31.30464",
+    "geom:latitude":31.30464,
+    "geom:longitude":50.69508,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ab Yeki",
+    "gn:country_code":"IR",
+    "gn:dem":2202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7529745,
+    "gn:latitude":31.30464,
+    "gn:longitude":50.69508,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u0100b Yek\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0100b Yek\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u0628 \u06cc\u06a9\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0622\u0628 \u06cc\u06a9\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108719911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7529745
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bbca94159b2c19ba9d7f78b9dd7d86d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719911,
+            "locality_id":1344255839,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1344255839,
+    "wof:lastmodified":1537648311,
+    "wof:name":"Ab Yeki",
+    "wof:parent_id":1108719911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.69508,
+    31.30464000000001,
+    50.69508,
+    31.30464000000001
+],
+  "geometry": {"coordinates":[50.69508,31.30464000000001],"type":"Point"}
+}

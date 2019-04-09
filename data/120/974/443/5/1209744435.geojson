@@ -1,0 +1,67 @@
+{
+  "id": 1209744435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.97333,32.87,59.97333,32.87",
+    "geom:latitude":32.87,
+    "geom:longitude":59.97333,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Bowrg",
+    "gn:country_code":"IR",
+    "gn:dem":1659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":21740,
+    "gn:latitude":32.87,
+    "gn:longitude":59.97333,
+    "gn:modification_date":"2011-02-07",
+    "gn:name":"Bowrg",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108719943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":21740
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dd8fc619f0a4fa1fae75f47a369db277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719943,
+            "locality_id":1209744435,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1209744435,
+    "wof:lastmodified":1536395652,
+    "wof:name":"Bowrg",
+    "wof:parent_id":1108719943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.97333,
+    32.87,
+    59.97333,
+    32.87
+],
+  "geometry": {"coordinates":[59.97333,32.87],"type":"Point"}
+}

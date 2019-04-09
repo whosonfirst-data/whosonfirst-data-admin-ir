@@ -1,0 +1,73 @@
+{
+  "id": 1327128565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.234,35.6479,48.234,35.6479",
+    "geom:latitude":35.6479,
+    "geom:longitude":48.234,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Taqiabad",
+    "gn:country_code":"IR",
+    "gn:dem":1684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":35836,
+    "gn:latitude":35.6479,
+    "gn:longitude":48.234,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Taq\u012b\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062a\u0642\u06cc \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Taq\u012b\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":35836
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4d00d36492b17e7b459a18a5669eeb89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720087,
+            "locality_id":1327128565,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1327128565,
+    "wof:lastmodified":1537641973,
+    "wof:name":"Taqiabad",
+    "wof:parent_id":1108720087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.234,
+    35.6479,
+    48.234,
+    35.6479
+],
+  "geometry": {"coordinates":[48.234,35.6479],"type":"Point"}
+}

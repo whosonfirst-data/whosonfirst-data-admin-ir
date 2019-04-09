@@ -1,0 +1,76 @@
+{
+  "id": 1226694307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.62652,36.87785,50.62652,36.87785",
+    "geom:latitude":36.87785,
+    "geom:longitude":50.62652,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Halu Sara",
+    "gn:country_code":"IR",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7625437,
+    "gn:latitude":36.87785,
+    "gn:longitude":50.62652,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Hal\u016b Sar\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Hal\u016b Sar\u0101"
+    ],
+    "name:fas_x_variant":[
+        "\u0647\u0644\u0648 \u0633\u0631\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u0647\u0644\u0648 \u0633\u0631\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7625437
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1e9ba6f1b2633a46c2592136f83205ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720333,
+            "locality_id":1226694307,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1226694307,
+    "wof:lastmodified":1537648461,
+    "wof:name":"Halu Sara",
+    "wof:parent_id":1108720333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.62652,
+    36.87785,
+    50.62652,
+    36.87785
+],
+  "geometry": {"coordinates":[50.62652,36.87785],"type":"Point"}
+}

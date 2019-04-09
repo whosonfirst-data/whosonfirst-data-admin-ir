@@ -1,0 +1,69 @@
+{
+  "id": 1209094135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.96575,27.00604,54.96575,27.00604",
+    "geom:latitude":27.00604,
+    "geom:longitude":54.96575,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Podol",
+    "gn:country_code":"IR",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":120965,
+    "gn:latitude":27.00604,
+    "gn:longitude":54.96575,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Podol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u062f\u0644"
+    ],
+    "name:und_x_variant":[
+        "\u067e\u062f\u0644",
+        "Podol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":120965,
+        "wk:page":"Podol"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9471f04c717be6517ddbd07ef436353a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209094135
+        }
+    ],
+    "wof:id":1209094135,
+    "wof:lastmodified":1537643907,
+    "wof:name":"Podol",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.96575,
+    27.00604,
+    54.96575,
+    27.00604
+],
+  "geometry": {"coordinates":[54.96575,27.00604],"type":"Point"}
+}

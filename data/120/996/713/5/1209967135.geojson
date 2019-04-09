@@ -1,0 +1,73 @@
+{
+  "id": 1209967135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.5686,29.8445,56.5686,29.8445",
+    "geom:latitude":29.8445,
+    "geom:longitude":56.5686,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Mehmanshahr",
+    "gn:country_code":"IR",
+    "gn:dem":2119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7022645,
+    "gn:latitude":29.8445,
+    "gn:longitude":56.5686,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Mehm\u0101nshahr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0647\u0645\u0627\u0646\u0634\u0647\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Mehm\u0101nshahr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7022645
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e7460e0a472868131f76a52cfe719215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719879,
+            "locality_id":1209967135,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1209967135,
+    "wof:lastmodified":1537647900,
+    "wof:name":"Mehmanshahr",
+    "wof:parent_id":1108719879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.5686,
+    29.8445,
+    56.5686,
+    29.8445
+],
+  "geometry": {"coordinates":[56.5686,29.8445],"type":"Point"}
+}

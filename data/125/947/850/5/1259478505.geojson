@@ -1,0 +1,78 @@
+{
+  "id": 1259478505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.62199,37.32971,49.62199,37.32971",
+    "geom:latitude":37.32971,
+    "geom:longitude":49.62199,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Ducheh Paybast",
+    "gn:country_code":"IR",
+    "gn:dem":-15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":29064,
+    "gn:latitude":37.32971,
+    "gn:longitude":49.62199,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"D\u016bcheh P\u0101ybast",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "D\u016bcheh P\u0101yehbast"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0648\u0686\u0647 \u067e\u0627\u06cc \u0628\u0633\u062a",
+        "\u062a\u0648\u0686\u0647 \u067e\u0627\u06cc\u0647 \u0628\u0633\u062a"
+    ],
+    "name:und_x_variant":[
+        "D\u016bcheh P\u0101ybast",
+        "T\u016bcheh P\u0101yeh Bast"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":29064
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4de6a2bbf96ab23afac94d6ae0497a05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720339,
+            "locality_id":1259478505,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1259478505,
+    "wof:lastmodified":1537641607,
+    "wof:name":"Ducheh Paybast",
+    "wof:parent_id":1108720339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.62199,
+    37.32971,
+    49.62199,
+    37.32971
+],
+  "geometry": {"coordinates":[49.62199,37.32971],"type":"Point"}
+}

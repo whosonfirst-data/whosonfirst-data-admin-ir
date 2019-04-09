@@ -1,0 +1,73 @@
+{
+  "id": 1242591339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.2661,36.5241,45.2661,36.5241",
+    "geom:latitude":36.5241,
+    "geom:longitude":45.2661,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tirkesh-e Bala",
+    "gn:country_code":"IR",
+    "gn:dem":1424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6677112,
+    "gn:latitude":36.5241,
+    "gn:longitude":45.2661,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"T\u012brkesh-e B\u0101l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0631\u06a9\u0634 \u0628\u0627\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "T\u012brkesh-e B\u0101l\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6677112
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dc1a7d39a9cd59d8569452adb89d9af1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720303,
+            "locality_id":1242591339,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1242591339,
+    "wof:lastmodified":1537647335,
+    "wof:name":"Tirkesh-e Bala",
+    "wof:parent_id":1108720303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.2661,
+    36.5241,
+    45.2661,
+    36.5241
+],
+  "geometry": {"coordinates":[45.2661,36.5241],"type":"Point"}
+}

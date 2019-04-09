@@ -1,0 +1,68 @@
+{
+  "id": 1310178031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.00361,31.45583,50.00361,31.45583",
+    "geom:latitude":31.45583,
+    "geom:longitude":50.00361,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Gonbad",
+    "gn:country_code":"IR",
+    "gn:dem":861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":15003,
+    "gn:latitude":31.45583,
+    "gn:longitude":50.00361,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Gonbad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":15003,
+        "wk:page":"Gonbad%2C_Khuzestan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fa85955abeb1c20988db587dc88a64af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719853,
+            "locality_id":1310178031,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1310178031,
+    "wof:lastmodified":1537565425,
+    "wof:name":"Gonbad",
+    "wof:parent_id":1108719853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.00361,
+    31.45583,
+    50.00361,
+    31.45583
+],
+  "geometry": {"coordinates":[50.00361,31.45583],"type":"Point"}
+}

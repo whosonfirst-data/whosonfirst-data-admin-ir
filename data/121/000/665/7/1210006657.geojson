@@ -1,0 +1,78 @@
+{
+  "id": 1210006657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.4702,37.151,49.4702,37.151",
+    "geom:latitude":37.151,
+    "geom:longitude":49.4702,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Vaneh Sar",
+    "gn:country_code":"IR",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6757558,
+    "gn:latitude":37.151,
+    "gn:longitude":49.4702,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Vaneh Sar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0626\u06cc\u0646 \u0645\u062d\u0644\u0647 \u062e\u0631\u0637\u0648\u0645"
+    ],
+    "name:fas_x_variant":[
+        "P\u0101\u2018\u012bn Ma\u1e29alleh-ye Khor\u0163\u016bm",
+        "\u0648\u0646\u0647 \u0633\u0631"
+    ],
+    "name:und_x_variant":[
+        "P\u0101\u2018\u012bn Ma\u1e29alleh-ye Khor\u0163\u016bm",
+        "Vaneh Sar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6757558
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bc3651d9b02f295d06574f0561492a7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720427,
+            "locality_id":1210006657,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1210006657,
+    "wof:lastmodified":1537647635,
+    "wof:name":"Vaneh Sar",
+    "wof:parent_id":1108720427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.4702,
+    37.151,
+    49.4702,
+    37.151
+],
+  "geometry": {"coordinates":[49.4702,37.151],"type":"Point"}
+}

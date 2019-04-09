@@ -1,0 +1,75 @@
+{
+  "id": 1277011473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.19526,36.20026,61.19526,36.20026",
+    "geom:latitude":36.20026,
+    "geom:longitude":61.19526,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Sangar",
+    "gn:country_code":"IR",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1159726,
+    "gn:latitude":36.20026,
+    "gn:longitude":61.19526,
+    "gn:modification_date":"2013-08-04",
+    "gn:name":"Sangar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u06af\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u0633\u0646\u06af\u0631",
+        "Senger"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1159726,
+        "wk:page":"Sangar%2C_Razavi_Khorasan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7122bcff3ad13733bcdf6c3b9695593a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720387,
+            "locality_id":1277011473,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1277011473,
+    "wof:lastmodified":1537646988,
+    "wof:name":"Sangar",
+    "wof:parent_id":1108720387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.19526,
+    36.20026,
+    61.19526,
+    36.20026
+],
+  "geometry": {"coordinates":[61.19526,36.20026],"type":"Point"}
+}

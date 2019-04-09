@@ -1,0 +1,73 @@
+{
+  "id": 1326821061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.5418,28.9,52.5418,28.9",
+    "geom:latitude":28.9,
+    "geom:longitude":52.5418,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ateshkadeh",
+    "gn:country_code":"IR",
+    "gn:dem":1357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390474,
+    "gn:latitude":28.9,
+    "gn:longitude":52.5418,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100teshkadeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u062a\u0634\u06a9\u062f\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0100teshkadeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390474
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"700d2a3253edcaada2ca9a67087fc058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720009,
+            "locality_id":1326821061,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1326821061,
+    "wof:lastmodified":1537646478,
+    "wof:name":"Ateshkadeh",
+    "wof:parent_id":1108720009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.5418,
+    28.9,
+    52.5418,
+    28.9
+],
+  "geometry": {"coordinates":[52.5418,28.9],"type":"Point"}
+}

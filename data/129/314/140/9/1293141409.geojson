@@ -1,0 +1,81 @@
+{
+  "id": 1293141409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.2746,35.0531,50.2746,35.0531",
+    "geom:latitude":35.0531,
+    "geom:longitude":50.2746,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Sheqanliq",
+    "gn:country_code":"IR",
+    "gn:dem":1183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":117410,
+    "gn:latitude":35.0531,
+    "gn:longitude":50.2746,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Sheq\u0101nl\u012bq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0642\u0627\u0646\u0644\u064a\u0642"
+    ],
+    "name:fas_x_variant":[
+        "Seq\u0101nl\u012bq",
+        "\u0634\u0642\u0627\u0646\u0644\u064a\u0642"
+    ],
+    "name:und_x_variant":[
+        "Soq\u0101nl\u012bq",
+        "S\u0101q\u0101nl\u016bq",
+        "Saq\u0101nl\u012bq",
+        "Sheq\u0101nl\u012bq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":117410,
+        "wk:page":"Seqanliq"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9f6a2f134849de00cc235ee98d2bf84a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720407,
+            "locality_id":1293141409,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1293141409,
+    "wof:lastmodified":1537643540,
+    "wof:name":"Sheqanliq",
+    "wof:parent_id":1108720407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.2746,
+    35.0531,
+    50.2746,
+    35.0531
+],
+  "geometry": {"coordinates":[50.2746,35.0531],"type":"Point"}
+}

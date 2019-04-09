@@ -1,0 +1,81 @@
+{
+  "id": 1276818673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.51009,31.03778,56.51009,31.03778",
+    "geom:latitude":31.03778,
+    "geom:longitude":56.51009,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Hangaru",
+    "gn:country_code":"IR",
+    "gn:dem":2104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":132041,
+    "gn:latitude":31.03778,
+    "gn:longitude":56.51009,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Hangar\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0647\u0646\u062c\u0631\u0648\u0626\u064a\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0647\u0646\u06af\u0631\u0648",
+        "Hanjar\u016byeh",
+        "\u0647\u0646\u062c\u0631\u0648\u06cc\u0647",
+        "Hanjar\u016b\u2019\u012byeh",
+        "Hangar\u016b",
+        "\u0647\u0646\u062c\u0631\u0648\u064a\u064a\u0647"
+    ],
+    "name:und_x_variant":[
+        "Hangar\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":132041
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dc766b6ecb1daf6254c1e9f78c739158",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720155,
+            "locality_id":1276818673,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1276818673,
+    "wof:lastmodified":1537645027,
+    "wof:name":"Hangaru",
+    "wof:parent_id":1108720155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.51009000000001,
+    31.03778,
+    56.51009000000001,
+    31.03778
+],
+  "geometry": {"coordinates":[56.51009000000001,31.03778],"type":"Point"}
+}

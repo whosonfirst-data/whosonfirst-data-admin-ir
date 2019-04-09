@@ -1,0 +1,73 @@
+{
+  "id": 1293755583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.00789,35.5155,46.00789,35.5155",
+    "geom:latitude":35.5155,
+    "geom:longitude":46.00789,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kani Chenar",
+    "gn:country_code":"IR",
+    "gn:dem":1312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3069,
+    "gn:latitude":35.5155,
+    "gn:longitude":46.00789,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"K\u0101n\u012b Chen\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0643\u0627\u0646\u06cc \u0686\u0646\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "K\u0101n\u012b Chen\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3069
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"01e348fe3ce9f0a1584334ee33922568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720221,
+            "locality_id":1293755583,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1293755583,
+    "wof:lastmodified":1537640226,
+    "wof:name":"Kani Chenar",
+    "wof:parent_id":1108720221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.00789,
+    35.5155,
+    46.00789,
+    35.5155
+],
+  "geometry": {"coordinates":[46.00789,35.5155],"type":"Point"}
+}

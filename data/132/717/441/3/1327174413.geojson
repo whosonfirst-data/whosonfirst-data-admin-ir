@@ -1,0 +1,77 @@
+{
+  "id": 1327174413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.36231,36.40156,53.36231,36.40156",
+    "geom:latitude":36.40156,
+    "geom:longitude":53.36231,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Akhvord",
+    "gn:country_code":"IR",
+    "gn:dem":809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":11786,
+    "gn:latitude":36.40156,
+    "gn:longitude":53.36231,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"\u0100khvord",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0100khvord"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u062e\u0648\u0631\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u0622\u062e\u0648\u0631\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11786,
+        "wk:page":"Akhvord"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"445116fbe95b22ab720a0edd3c681fbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720401,
+            "locality_id":1327174413,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1327174413,
+    "wof:lastmodified":1537640666,
+    "wof:name":"Akhvord",
+    "wof:parent_id":1108720401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.36231,
+    36.40156,
+    53.36231,
+    36.40156
+],
+  "geometry": {"coordinates":[53.36231,36.40156],"type":"Point"}
+}

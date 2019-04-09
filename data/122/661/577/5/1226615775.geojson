@@ -1,0 +1,78 @@
+{
+  "id": 1226615775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.96256,31.6217,49.96256,31.6217",
+    "geom:latitude":31.6217,
+    "geom:longitude":49.96256,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Tenbi",
+    "gn:country_code":"IR",
+    "gn:dem":1040,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112905,
+    "gn:latitude":31.6217,
+    "gn:longitude":49.96256,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Tenb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Tenb\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0646\u0628\u06cc",
+        "\u062a\u0645\u0628\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u062a\u0646\u0628\u06cc",
+        "Tamb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112905
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7a04fe20a3ed51318bba73832e8202af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719853,
+            "locality_id":1226615775,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1226615775,
+    "wof:lastmodified":1537643134,
+    "wof:name":"Tenbi",
+    "wof:parent_id":1108719853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.96256,
+    31.6217,
+    49.96256,
+    31.6217
+],
+  "geometry": {"coordinates":[49.96256,31.6217],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293336915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.37167,29.71083,56.37167,29.71083",
+    "geom:latitude":29.71083,
+    "geom:longitude":56.37167,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Aghreh",
+    "gn:country_code":"IR",
+    "gn:dem":2938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":43603,
+    "gn:latitude":29.71083,
+    "gn:longitude":56.37167,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Aghreh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":43603
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"34ab6354444ea9efd746186ef38af3e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720461,
+            "locality_id":1293336915,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1293336915,
+    "wof:lastmodified":1537003408,
+    "wof:name":"Aghreh",
+    "wof:parent_id":1108720461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.37167,
+    29.71083,
+    56.37167,
+    29.71083
+],
+  "geometry": {"coordinates":[56.37167,29.71083],"type":"Point"}
+}

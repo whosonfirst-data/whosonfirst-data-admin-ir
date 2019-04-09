@@ -1,0 +1,73 @@
+{
+  "id": 1310075611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.0936,30.4635,48.0936,30.4635",
+    "geom:latitude":30.4635,
+    "geom:longitude":48.0936,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Sa`idan",
+    "gn:country_code":"IR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":44928,
+    "gn:latitude":30.4635,
+    "gn:longitude":48.0936,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sa\u2018\u012bd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0633\u0639\u06cc\u062f\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Sa\u2018\u012bd\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":44928
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2ddfd30ec892bc282e1100902beecc98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720151,
+            "locality_id":1310075611,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1310075611,
+    "wof:lastmodified":1537642509,
+    "wof:name":"Sa`idan",
+    "wof:parent_id":1108720151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.0936,
+    30.4635,
+    48.0936,
+    30.4635
+],
+  "geometry": {"coordinates":[48.0936,30.4635],"type":"Point"}
+}

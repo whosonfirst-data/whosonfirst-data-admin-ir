@@ -1,0 +1,76 @@
+{
+  "id": 1310474693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.56588,31.2482,48.56588,31.2482",
+    "geom:latitude":31.2482,
+    "geom:longitude":48.56588,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Zurabad",
+    "gn:country_code":"IR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7416819,
+    "gn:latitude":31.2482,
+    "gn:longitude":48.56588,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Z\u016br\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Z\u016br\u0101b\u0101d"
+    ],
+    "name:fas_x_variant":[
+        "\u0632\u0648\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u0632\u0648\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7416819
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d0b34cec2a0ad118ef41ecfdf8ef0fe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719793,
+            "locality_id":1310474693,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1310474693,
+    "wof:lastmodified":1537648172,
+    "wof:name":"Zurabad",
+    "wof:parent_id":1108719793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.56588,
+    31.2482,
+    48.56588,
+    31.2482
+],
+  "geometry": {"coordinates":[48.56588,31.2482],"type":"Point"}
+}

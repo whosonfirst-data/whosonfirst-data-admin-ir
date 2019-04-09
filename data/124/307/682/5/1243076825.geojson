@@ -1,0 +1,77 @@
+{
+  "id": 1243076825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.7877,37.4992,44.7877,37.4992",
+    "geom:latitude":37.4992,
+    "geom:longitude":44.7877,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Tuli",
+    "gn:country_code":"IR",
+    "gn:dem":1774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":20879,
+    "gn:latitude":37.4992,
+    "gn:longitude":44.7877,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"T\u016bl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "T\u016bl\u012b",
+        "\u062a\u064e\u0644\u0648"
+    ],
+    "name:und_x_variant":[
+        "Tal\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":20879
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ce520cfa09ba13e73bed1a76a4d62dc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720289,
+            "locality_id":1243076825,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1243076825,
+    "wof:lastmodified":1537641040,
+    "wof:name":"Tuli",
+    "wof:parent_id":1108720289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.7877,
+    37.4992,
+    44.7877,
+    37.4992
+],
+  "geometry": {"coordinates":[44.7877,37.4992],"type":"Point"}
+}

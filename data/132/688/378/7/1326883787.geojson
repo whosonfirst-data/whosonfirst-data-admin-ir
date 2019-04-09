@@ -1,0 +1,73 @@
+{
+  "id": 1326883787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.06667,36.1,53.06667,36.1",
+    "geom:latitude":36.1,
+    "geom:longitude":53.06667,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Kelach Khvastan",
+    "gn:country_code":"IR",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11543,
+    "gn:latitude":36.1,
+    "gn:longitude":53.06667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kelach Khv\u0101st\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0650\u0644\u064e\u0686 \u062e\u0648\u0627\u0633\u062a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Kelach Khv\u0101st\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11543
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"eff3da126e9961e523ef43c4bcfd28b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720405,
+            "locality_id":1326883787,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1326883787,
+    "wof:lastmodified":1537640643,
+    "wof:name":"Kelach Khvastan",
+    "wof:parent_id":1108720405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.06667,
+    36.1,
+    53.06667,
+    36.1
+],
+  "geometry": {"coordinates":[53.06667,36.1],"type":"Point"}
+}

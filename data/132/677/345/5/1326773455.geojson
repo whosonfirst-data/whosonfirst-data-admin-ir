@@ -1,0 +1,76 @@
+{
+  "id": 1326773455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.78409,37.50528,54.78409,37.50528",
+    "geom:latitude":37.50528,
+    "geom:longitude":54.78409,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Daneshmand",
+    "gn:country_code":"IR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":137983,
+    "gn:latitude":37.50528,
+    "gn:longitude":54.78409,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"D\u0101neshmand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "D\u0101neshmand"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0627\u0646\u0634\u0645\u0646\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u062f\u0627\u0646\u0634\u0645\u0646\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":137983
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"afcc456594fe164e59fcbcc691ebf7b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720039,
+            "locality_id":1326773455,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1326773455,
+    "wof:lastmodified":1537645632,
+    "wof:name":"Daneshmand",
+    "wof:parent_id":1108720039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.78409,
+    37.50528,
+    54.78409,
+    37.50528
+],
+  "geometry": {"coordinates":[54.78409,37.50528],"type":"Point"}
+}

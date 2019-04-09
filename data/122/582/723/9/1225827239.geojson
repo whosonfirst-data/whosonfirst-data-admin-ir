@@ -1,0 +1,73 @@
+{
+  "id": 1225827239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.77252,36.2496,46.77252,36.2496",
+    "geom:latitude":36.2496,
+    "geom:longitude":46.77252,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ashab",
+    "gn:country_code":"IR",
+    "gn:dem":1868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11008026,
+    "gn:latitude":36.2496,
+    "gn:longitude":46.77252,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"A\u015f\u1e29\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0627\u0635\u062d\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "A\u015f\u1e29\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11008026
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1ee4748f89bdcac5a18a240722a41738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720381,
+            "locality_id":1225827239,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1225827239,
+    "wof:lastmodified":1537648690,
+    "wof:name":"Ashab",
+    "wof:parent_id":1108720381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.77252,
+    36.2496,
+    46.77252,
+    36.2496
+],
+  "geometry": {"coordinates":[46.77252,36.2496],"type":"Point"}
+}

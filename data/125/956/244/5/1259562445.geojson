@@ -1,0 +1,74 @@
+{
+  "id": 1259562445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.5672,34.1915,46.5672,34.1915",
+    "geom:latitude":34.1915,
+    "geom:longitude":46.5672,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Barah Sileh",
+    "gn:country_code":"IR",
+    "gn:dem":1510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":24124,
+    "gn:latitude":34.1915,
+    "gn:longitude":46.5672,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Barah S\u012bleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0647 \u0633\u06cc\u0644\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Barah S\u012bleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108719983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":24124,
+        "wk:page":"Barah_Sileh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fd6a1915537a65753ab54d3911747072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719983,
+            "locality_id":1259562445,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1259562445,
+    "wof:lastmodified":1537641260,
+    "wof:name":"Barah Sileh",
+    "wof:parent_id":1108719983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.5672,
+    34.1915,
+    46.5672,
+    34.1915
+],
+  "geometry": {"coordinates":[46.5672,34.1915],"type":"Point"}
+}

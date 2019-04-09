@@ -1,0 +1,73 @@
+{
+  "id": 1242627771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.9206,27.8944,57.9206,27.8944",
+    "geom:latitude":27.8944,
+    "geom:longitude":57.9206,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Rig-e Bahram",
+    "gn:country_code":"IR",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6961514,
+    "gn:latitude":27.8944,
+    "gn:longitude":57.9206,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"R\u012bg-e Bahr\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u06af \u0628\u0647\u0631\u0627\u0645"
+    ],
+    "name:fas_x_variant":[
+        "R\u012bg-e Bahr\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6961514
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1159cf05f77ed361e382ae452807e52b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720363,
+            "locality_id":1242627771,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1242627771,
+    "wof:lastmodified":1537647776,
+    "wof:name":"Rig-e Bahram",
+    "wof:parent_id":1108720363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.9206,
+    27.8944,
+    57.9206,
+    27.8944
+],
+  "geometry": {"coordinates":[57.9206,27.8944],"type":"Point"}
+}

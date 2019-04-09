@@ -1,0 +1,74 @@
+{
+  "id": 1276378903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.8181,37.2685,46.8181,37.2685",
+    "geom:latitude":37.2685,
+    "geom:longitude":46.8181,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Aq Bolagh",
+    "gn:country_code":"IR",
+    "gn:dem":1878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":22886,
+    "gn:latitude":37.2685,
+    "gn:longitude":46.8181,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"\u0100q Bol\u0101gh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0642 \u0628\u0644\u0627\u063a"
+    ],
+    "name:und_x_variant":[
+        "\u0100q Bol\u0101gh",
+        "\u0622\u0642 \u0628\u0644\u0627\u063a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":22886
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2f425a97b89af7d58390a43d886f6bb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720055,
+            "locality_id":1276378903,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1276378903,
+    "wof:lastmodified":1537641175,
+    "wof:name":"Aq Bolagh",
+    "wof:parent_id":1108720055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.8181,
+    37.2685,
+    46.8181,
+    37.2685
+],
+  "geometry": {"coordinates":[46.8181,37.2685],"type":"Point"}
+}

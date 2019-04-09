@@ -1,0 +1,80 @@
+{
+  "id": 1226130353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.43874,27.33181,54.43874,27.33181",
+    "geom:latitude":27.33181,
+    "geom:longitude":54.43874,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Sheykh Hozur",
+    "gn:country_code":"IR",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":115155,
+    "gn:latitude":27.33181,
+    "gn:longitude":54.43874,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sheykh \u1e28o\u1e95\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0650\u064a\u062e \u0621\u064f\u0632\u0648\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Sheykh \u2019oz\u016br",
+        "Sheykh \u1e28o\u1e95\u016br",
+        "\u0634\u06cc\u062e \u062d\u0636\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Sheikh Hozoor",
+        "\u0634\u06cc\u062e \u062d\u0636\u0648\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108719881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":115155,
+        "wk:page":"Sheykh_Hozur"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ceaa7b757e34adead348a2fbcfc57ffb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719881,
+            "locality_id":1226130353,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1226130353,
+    "wof:lastmodified":1537643334,
+    "wof:name":"Sheykh Hozur",
+    "wof:parent_id":1108719881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.43874,
+    27.33181,
+    54.43874,
+    27.33181
+],
+  "geometry": {"coordinates":[54.43874,27.33181],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1260144295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.8554,36.34766,46.8554,36.34766",
+    "geom:latitude":36.34766,
+    "geom:longitude":46.8554,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Mir Seyyed",
+    "gn:country_code":"IR",
+    "gn:dem":1762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":26663,
+    "gn:latitude":36.34766,
+    "gn:longitude":46.8554,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"M\u012br Seyyed",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0631 \u0633\u06cc\u062f"
+    ],
+    "name:fas_x_variant":[
+        "M\u012br Seyyed",
+        "\u0645\u06cc\u0631 \u0633\u0639\u06cc\u062f"
+    ],
+    "name:und_x_variant":[
+        "M\u012br Sa\u2018\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":26663
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f50a824c51aaf9f2113e94baae07fbe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720381,
+            "locality_id":1260144295,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1260144295,
+    "wof:lastmodified":1537641411,
+    "wof:name":"Mir Seyyed",
+    "wof:parent_id":1108720381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.8554,
+    36.34766,
+    46.8554,
+    36.34766
+],
+  "geometry": {"coordinates":[46.8554,36.34766],"type":"Point"}
+}

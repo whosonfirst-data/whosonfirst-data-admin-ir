@@ -1,0 +1,70 @@
+{
+  "id": 1209987719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.30389,35.00528,46.30389,35.00528",
+    "geom:latitude":35.00528,
+    "geom:longitude":46.30389,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Virash",
+    "gn:country_code":"IR",
+    "gn:dem":2061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2972,
+    "gn:latitude":35.00528,
+    "gn:longitude":46.30389,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"V\u012br\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "V\u012br\u0101sh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2972
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8d7fc78f0c867b2a9c089a6bd61997af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720301,
+            "locality_id":1209987719,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1209987719,
+    "wof:lastmodified":1537640221,
+    "wof:name":"Virash",
+    "wof:parent_id":1108720301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.30389,
+    35.00528,
+    46.30389,
+    35.00528
+],
+  "geometry": {"coordinates":[46.30389,35.00528],"type":"Point"}
+}

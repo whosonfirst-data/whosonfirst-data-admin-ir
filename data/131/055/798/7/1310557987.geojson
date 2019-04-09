@@ -1,0 +1,77 @@
+{
+  "id": 1310557987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.30777,35.79904,52.30777,35.79904",
+    "geom:latitude":35.79904,
+    "geom:longitude":52.30777,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Zarman",
+    "gn:country_code":"IR",
+    "gn:dem":2744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":111283,
+    "gn:latitude":35.79904,
+    "gn:longitude":52.30777,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Zarm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u0631\u0645\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Zarm\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Zarmun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672313,
+        1108720011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":111283,
+        "wk:page":"Zarman"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c25100a8e81590bc9708ea8f74a679a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720011,
+            "locality_id":1310557987,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1310557987,
+    "wof:lastmodified":1537642963,
+    "wof:name":"Zarman",
+    "wof:parent_id":1108720011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.30777,
+    35.79904000000001,
+    52.30777,
+    35.79904000000001
+],
+  "geometry": {"coordinates":[52.30777,35.79904000000001],"type":"Point"}
+}

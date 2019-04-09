@@ -1,0 +1,77 @@
+{
+  "id": 1326583093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.63522,36.15267,51.63522,36.15267",
+    "geom:latitude":36.15267,
+    "geom:longitude":51.63522,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Pichdeh",
+    "gn:country_code":"IR",
+    "gn:dem":2570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7871,
+    "gn:latitude":36.15267,
+    "gn:longitude":51.63522,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"P\u012bchdeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0686\u062f\u0647"
+    ],
+    "name:fas_x_variant":[
+        "P\u012bchdeh",
+        "\u067e\u06cc\u0698\u062f\u0647"
+    ],
+    "name:und_x_variant":[
+        "P\u012bzhdeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7871
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a0a745ef9357ff06b6a8449f98f58a47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720283,
+            "locality_id":1326583093,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1326583093,
+    "wof:lastmodified":1537640395,
+    "wof:name":"Pichdeh",
+    "wof:parent_id":1108720283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.63522,
+    36.15267,
+    51.63522,
+    36.15267
+],
+  "geometry": {"coordinates":[51.63522,36.15267],"type":"Point"}
+}

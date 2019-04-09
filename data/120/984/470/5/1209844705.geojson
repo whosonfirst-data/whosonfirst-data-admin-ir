@@ -1,0 +1,73 @@
+{
+  "id": 1209844705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.989,36.1764,59.989,36.1764",
+    "geom:latitude":36.1764,
+    "geom:longitude":59.989,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Khan Nayeb",
+    "gn:country_code":"IR",
+    "gn:dem":871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":31178,
+    "gn:latitude":36.1764,
+    "gn:longitude":59.989,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kh\u0101n N\u0101yeb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062e\u0627\u0646 \u0646\u0627\u06cc\u0628"
+    ],
+    "name:fas_x_variant":[
+        "Kh\u0101n N\u0101yeb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":31178
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8a5372ae6f5b915a59fbac0d6913f0a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720227,
+            "locality_id":1209844705,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1209844705,
+    "wof:lastmodified":1537641701,
+    "wof:name":"Khan Nayeb",
+    "wof:parent_id":1108720227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.989,
+    36.1764,
+    59.989,
+    36.1764
+],
+  "geometry": {"coordinates":[59.989,36.1764],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310442841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.0143,38.4025,47.0143,38.4025",
+    "geom:latitude":38.4025,
+    "geom:longitude":47.0143,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Gorji",
+    "gn:country_code":"IR",
+    "gn:dem":1522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6689636,
+    "gn:latitude":38.4025,
+    "gn:longitude":47.0143,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Gorj\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0631\u062c\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Gorj\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108719791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6689636
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6a6ec141cd65fc729717d49ce02cd2d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719791,
+            "locality_id":1310442841,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1310442841,
+    "wof:lastmodified":1537647434,
+    "wof:name":"Gorji",
+    "wof:parent_id":1108719791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.0143,
+    38.4025,
+    47.0143,
+    38.4025
+],
+  "geometry": {"coordinates":[47.0143,38.4025],"type":"Point"}
+}

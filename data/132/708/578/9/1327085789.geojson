@@ -1,0 +1,80 @@
+{
+  "id": 1327085789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.13308,35.76452,49.13308,35.76452",
+    "geom:latitude":35.76452,
+    "geom:longitude":49.13308,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Qameshlu",
+    "gn:country_code":"IR",
+    "gn:dem":1694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":120058,
+    "gn:latitude":35.76452,
+    "gn:longitude":49.13308,
+    "gn:modification_date":"2018-07-13",
+    "gn:name":"Qameshl\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0645\u0634\u0644\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0642\u064e\u0645\u064a\u0634\u0644\u0648",
+        "\u06af\u064e\u0645\u064a\u0634\u0644\u0648",
+        "Qameshl\u016b"
+    ],
+    "name:und_x_variant":[
+        "Gam\u012bshl\u016b",
+        "Qam\u012bshl\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108719913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":120058,
+        "wk:page":"Qameshlu,_Qazvin"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"877253cac038a1ac808d2e583bf2a04a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719913,
+            "locality_id":1327085789,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1327085789,
+    "wof:lastmodified":1537643815,
+    "wof:name":"Qameshlu",
+    "wof:parent_id":1108719913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.13308,
+    35.76452000000001,
+    49.13308,
+    35.76452000000001
+],
+  "geometry": {"coordinates":[49.13308,35.76452000000001],"type":"Point"}
+}

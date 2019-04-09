@@ -1,0 +1,80 @@
+{
+  "id": 1343751847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.31735,36.95833,50.31735,36.95833",
+    "geom:latitude":36.95833,
+    "geom:longitude":50.31735,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Gazi Guyeh",
+    "gn:country_code":"IR",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10114,
+    "gn:latitude":36.95833,
+    "gn:longitude":50.31735,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"G\u0101\u1e95\u012b G\u016byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "M\u0101z\u012bg\u016byeh"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0627\u0632\u06cc\u06af\u0648\u06cc\u0647",
+        "\u0642\u0627\u0636\u06cc \u06af\u0648\u06cc\u0647",
+        "\u0645\u0627\u0632\u06cc \u06af\u0648\u0627\u0628\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u0645\u0627\u0632\u06cc\u06af\u0648\u06cc\u0647",
+        "G\u0101\u1e95\u012b G\u016byeh",
+        "M\u0101z\u012b Gav\u0101bor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10114
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e48212f72b4b792e39b3ca30d041c902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720365,
+            "locality_id":1343751847,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1343751847,
+    "wof:lastmodified":1537640540,
+    "wof:name":"Gazi Guyeh",
+    "wof:parent_id":1108720365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.31735,
+    36.95833,
+    50.31735,
+    36.95833
+],
+  "geometry": {"coordinates":[50.31735,36.95833],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1260261319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.0893,33.4548,46.0893,33.4548",
+    "geom:latitude":33.4548,
+    "geom:longitude":46.0893,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Darikvan",
+    "gn:country_code":"IR",
+    "gn:dem":482,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6122,
+    "gn:latitude":33.4548,
+    "gn:longitude":46.0893,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"D\u0101r\u012bkv\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0631\u064a\u0643\u0648\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0627\u0631\u06cc\u06a9\u0648\u0627\u0646",
+        "D\u0101r\u012bkv\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108720231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6122
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"db35a8c90bec471315753d9ae1bd17f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720231,
+            "locality_id":1260261319,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1260261319,
+    "wof:lastmodified":1537640320,
+    "wof:name":"Darikvan",
+    "wof:parent_id":1108720231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.0893,
+    33.4548,
+    46.0893,
+    33.4548
+],
+  "geometry": {"coordinates":[46.0893,33.4548],"type":"Point"}
+}

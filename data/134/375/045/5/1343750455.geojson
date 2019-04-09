@@ -1,0 +1,76 @@
+{
+  "id": 1343750455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.65049,32.21418,47.65049,32.21418",
+    "geom:latitude":32.21418,
+    "geom:longitude":47.65049,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Havi",
+    "gn:country_code":"IR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":9384,
+    "gn:latitude":32.21418,
+    "gn:longitude":47.65049,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"\u1e28\u0101v\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u1e28\u0101v\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u062d\u0627\u0648\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u062d\u0627\u0648\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108719957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9384
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4b54ed0e487e5fc6d5dc37014f2dc560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719957,
+            "locality_id":1343750455,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1343750455,
+    "wof:lastmodified":1537640476,
+    "wof:name":"Havi",
+    "wof:parent_id":1108719957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.65049000000001,
+    32.21418,
+    47.65049000000001,
+    32.21418
+],
+  "geometry": {"coordinates":[47.65049000000001,32.21418],"type":"Point"}
+}

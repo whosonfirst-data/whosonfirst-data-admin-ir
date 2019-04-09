@@ -1,0 +1,76 @@
+{
+  "id": 1360058201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.28661,31.65328,50.28661,31.65328",
+    "geom:latitude":31.65328,
+    "geom:longitude":50.28661,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Ab Surakh",
+    "gn:country_code":"IR",
+    "gn:dem":1739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":14585,
+    "gn:latitude":31.65328,
+    "gn:longitude":50.28661,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u0100b S\u016br\u0101kh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0100b S\u016br\u0101kh"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u0628 \u0633\u0648\u0631\u0627\u062e"
+    ],
+    "name:und_x_variant":[
+        "\u0622\u0628 \u0633\u0648\u0631\u0627\u062e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":14585
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dfcf8d42eb8a349422e0e349ecd2032c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720067,
+            "locality_id":1360058201,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1360058201,
+    "wof:lastmodified":1537640830,
+    "wof:name":"Ab Surakh",
+    "wof:parent_id":1108720067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.28661,
+    31.65328,
+    50.28661,
+    31.65328
+],
+  "geometry": {"coordinates":[50.28661,31.65328],"type":"Point"}
+}

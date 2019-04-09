@@ -1,0 +1,74 @@
+{
+  "id": 1343551953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.5188,29.8865,52.5188,29.8865",
+    "geom:latitude":29.8865,
+    "geom:longitude":52.5188,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Hezar",
+    "gn:country_code":"IR",
+    "gn:dem":1628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":131368,
+    "gn:latitude":29.8865,
+    "gn:longitude":52.5188,
+    "gn:modification_date":"2018-06-02",
+    "gn:name":"Hez\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0647\u0632\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Hez\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":131368,
+        "wk:page":"Hezar,_Iran"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bdd0c2c88ba2ef8821d785d705d3f119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720421,
+            "locality_id":1343551953,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1343551953,
+    "wof:lastmodified":1537644959,
+    "wof:name":"Hezar",
+    "wof:parent_id":1108720421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.5188,
+    29.8865,
+    52.5188,
+    29.8865
+],
+  "geometry": {"coordinates":[52.5188,29.8865],"type":"Point"}
+}

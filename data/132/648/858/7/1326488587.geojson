@@ -1,0 +1,79 @@
+{
+  "id": 1326488587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.5883,33.4898,48.5883,33.4898",
+    "geom:latitude":33.4898,
+    "geom:longitude":48.5883,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Kherreh Siah",
+    "gn:country_code":"IR",
+    "gn:dem":1672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":127723,
+    "gn:latitude":33.4898,
+    "gn:longitude":48.5883,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Kherreh S\u012b\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u064e\u0631\u0650\u0651\u0647 \u0633\u064a\u0627\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u062e\u0631\u0647 \u0633\u064a\u0627\u0647",
+        "Kherreh S\u012b\u0101h"
+    ],
+    "name:und_x_variant":[
+        "Kharreh Sey\u0101h",
+        "Kharreh S\u012b\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":127723,
+        "wk:page":"Kherreh_Siah"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dd364b2612d83f875157572a8c6e7c5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720145,
+            "locality_id":1326488587,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1326488587,
+    "wof:lastmodified":1537644587,
+    "wof:name":"Kherreh Siah",
+    "wof:parent_id":1108720145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.5883,
+    33.4898,
+    48.5883,
+    33.4898
+],
+  "geometry": {"coordinates":[48.5883,33.4898],"type":"Point"}
+}

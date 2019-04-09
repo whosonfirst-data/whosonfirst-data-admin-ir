@@ -1,0 +1,73 @@
+{
+  "id": 1242999813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.81201,33.6407,58.81201,33.6407",
+    "geom:latitude":33.6407,
+    "geom:longitude":58.81201,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Hashemiyeh",
+    "gn:country_code":"IR",
+    "gn:dem":1386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11190967,
+    "gn:latitude":33.6407,
+    "gn:longitude":58.81201,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"H\u0101shem\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0634\u0645\u06cc\u0647"
+    ],
+    "name:und_x_variant":[
+        "H\u0101shem\u012byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108720313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11190967
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"60fdba3c9dad86d3b98ecc3ae82b8e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720313,
+            "locality_id":1242999813,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1242999813,
+    "wof:lastmodified":1537648743,
+    "wof:name":"Hashemiyeh",
+    "wof:parent_id":1108720313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.81201,
+    33.6407,
+    58.81201,
+    33.6407
+],
+  "geometry": {"coordinates":[58.81201,33.6407],"type":"Point"}
+}

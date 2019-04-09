@@ -1,0 +1,73 @@
+{
+  "id": 1209928717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.58333,38.21667,48.58333,38.21667",
+    "geom:latitude":38.21667,
+    "geom:longitude":48.58333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Tappeh Mar",
+    "gn:country_code":"IR",
+    "gn:dem":1376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":37657,
+    "gn:latitude":38.21667,
+    "gn:longitude":48.58333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Tappeh M\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u064e\u067e\u0650\u0651\u0647 \u0645\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Tappeh M\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":37657
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0314910e95836bbf5e573f580612ef02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720263,
+            "locality_id":1209928717,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1209928717,
+    "wof:lastmodified":1537642116,
+    "wof:name":"Tappeh Mar",
+    "wof:parent_id":1108720263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.58333,
+    38.21667,
+    48.58333,
+    38.21667
+],
+  "geometry": {"coordinates":[48.58333,38.21667],"type":"Point"}
+}

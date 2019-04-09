@@ -1,0 +1,78 @@
+{
+  "id": 1209845425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.5263,36.21111,58.5263,36.21111",
+    "geom:latitude":36.21111,
+    "geom:longitude":58.5263,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Robat",
+    "gn:country_code":"IR",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":118369,
+    "gn:latitude":36.21111,
+    "gn:longitude":58.5263,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Rob\u0101\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u0628\u0627\u0637"
+    ],
+    "name:fas_x_variant":[
+        "Rob\u0101\u0163",
+        "\u0631\u0628\u0627\u0637\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Rob\u0101\u0163\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":118369,
+        "wk:page":"Robati,_Iran"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"24e5406eb6b1c8a0cb33b4b8cc9a7683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720279,
+            "locality_id":1209845425,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1209845425,
+    "wof:lastmodified":1537643632,
+    "wof:name":"Robat",
+    "wof:parent_id":1108720279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.5263,
+    36.21111,
+    58.5263,
+    36.21111
+],
+  "geometry": {"coordinates":[58.5263,36.21111],"type":"Point"}
+}

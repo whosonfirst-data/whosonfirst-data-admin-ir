@@ -1,0 +1,73 @@
+{
+  "id": 1209762305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.76915,30.34681,55.76915,30.34681",
+    "geom:latitude":30.34681,
+    "geom:longitude":55.76915,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Dasht-e Kazeh Zirboreh",
+    "gn:country_code":"IR",
+    "gn:dem":1602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8608436,
+    "gn:latitude":30.34681,
+    "gn:longitude":55.76915,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"Dasht-e K\u0101zeh Z\u012brboreh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0634\u062a \u06a9\u0627\u0632\u0647 \u0632\u064a\u0631\u0628\u0631\u0647"
+    ],
+    "name:und_x_variant":[
+        "Dasht-e K\u0101zeh Z\u012brboreh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8608436
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c5de2c87a857396e7b90864bd68c9c7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720329,
+            "locality_id":1209762305,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1209762305,
+    "wof:lastmodified":1537648591,
+    "wof:name":"Dasht-e Kazeh Zirboreh",
+    "wof:parent_id":1108720329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.76915,
+    30.34681,
+    55.76915,
+    30.34681
+],
+  "geometry": {"coordinates":[55.76915,30.34681],"type":"Point"}
+}

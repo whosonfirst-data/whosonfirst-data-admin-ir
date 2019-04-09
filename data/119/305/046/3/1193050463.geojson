@@ -1,0 +1,76 @@
+{
+  "id": 1193050463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.1489,25.7247,60.1489,25.7247",
+    "geom:latitude":25.7247,
+    "geom:longitude":60.1489,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guzar",
+    "gn:country_code":"IR",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1161192,
+    "gn:latitude":25.7247,
+    "gn:longitude":60.1489,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"G\u016bzar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0632\u0631"
+    ],
+    "name:fas_x_variant":[
+        "G\u016bzar"
+    ],
+    "name:und_x_variant":[
+        "Gavan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1161192
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5923f4e44f18b4d4d94627f4beeefbef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720163,
+            "locality_id":1193050463,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1193050463,
+    "wof:lastmodified":1537647100,
+    "wof:name":"Guzar",
+    "wof:parent_id":1108720163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.1489,
+    25.7247,
+    60.1489,
+    25.7247
+],
+  "geometry": {"coordinates":[60.1489,25.7247],"type":"Point"}
+}

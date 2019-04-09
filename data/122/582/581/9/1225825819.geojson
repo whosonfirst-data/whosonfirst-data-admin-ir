@@ -1,0 +1,75 @@
+{
+  "id": 1225825819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.7448,27.232,55.7448,27.232",
+    "geom:latitude":27.232,
+    "geom:longitude":55.7448,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Nimeh Kar",
+    "gn:country_code":"IR",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":122191,
+    "gn:latitude":27.232,
+    "gn:longitude":55.7448,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"N\u012bmeh K\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u064a\u0645\u0647 \u0643\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "N\u012bmehk\u0101r",
+        "\u0646\u064a\u0645\u0650\u0647\u0643\u0627\u0631",
+        "N\u012bmeh K\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":122191
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d053b02988d57e2882f2265f39c2fea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720127,
+            "locality_id":1225825819,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1225825819,
+    "wof:lastmodified":1537644035,
+    "wof:name":"Nimeh Kar",
+    "wof:parent_id":1108720127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.7448,
+    27.232,
+    55.7448,
+    27.232
+],
+  "geometry": {"coordinates":[55.7448,27.232],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226776281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.35,36.18333,60.35,36.18333",
+    "geom:latitude":36.18333,
+    "geom:longitude":60.35,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Kolu",
+    "gn:country_code":"IR",
+    "gn:dem":918,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1160502,
+    "gn:latitude":36.18333,
+    "gn:longitude":60.35,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kol\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Kol\u016b"
+    ],
+    "name:und_x_variant":[
+        "Gol\u016b",
+        "Gulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1160502
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c9f425139a2a1f7e93b69b300b4a6954",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720227,
+            "locality_id":1226776281,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1226776281,
+    "wof:lastmodified":1537647048,
+    "wof:name":"Kolu",
+    "wof:parent_id":1108720227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.35,
+    36.18333,
+    60.35,
+    36.18333
+],
+  "geometry": {"coordinates":[60.35,36.18333],"type":"Point"}
+}

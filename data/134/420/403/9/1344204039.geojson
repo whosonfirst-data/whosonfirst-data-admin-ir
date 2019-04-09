@@ -1,0 +1,73 @@
+{
+  "id": 1344204039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.85809,30.44548,57.85809,30.44548",
+    "geom:latitude":30.44548,
+    "geom:longitude":57.85809,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Hojjatabad",
+    "gn:country_code":"IR",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":131296,
+    "gn:latitude":30.44548,
+    "gn:longitude":57.85809,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28ojjat\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u062c\u0651\u062a \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28ojjat\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":131296
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6b33c1aea732cb0ea4e9ace3f159b0a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720115,
+            "locality_id":1344204039,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1344204039,
+    "wof:lastmodified":1537644952,
+    "wof:name":"Hojjatabad",
+    "wof:parent_id":1108720115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.85809,
+    30.44548,
+    57.85809,
+    30.44548
+],
+  "geometry": {"coordinates":[57.85809,30.44548],"type":"Point"}
+}

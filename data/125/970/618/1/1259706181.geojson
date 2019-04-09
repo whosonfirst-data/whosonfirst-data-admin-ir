@@ -1,0 +1,77 @@
+{
+  "id": 1259706181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.32785,31.22079,50.32785,31.22079",
+    "geom:latitude":31.22079,
+    "geom:longitude":50.32785,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Rudayek",
+    "gn:country_code":"IR",
+    "gn:dem":1595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7860947,
+    "gn:latitude":31.22079,
+    "gn:longitude":50.32785,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"R\u016bd\u0101yek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Tang K\u016bshak"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0646\u06af \u06a9\u0648\u0634\u06a9",
+        "\u0631\u0648\u062f\u0627\u064a\u06a9"
+    ],
+    "name:und_x_variant":[
+        "R\u016bd\u0101yek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7860947
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"aa493d796dc0e954dd07c16bdbac7d7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1259706181,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1259706181,
+    "wof:lastmodified":1537648508,
+    "wof:name":"Rudayek",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.32785,
+    31.22079,
+    50.32785,
+    31.22079
+],
+  "geometry": {"coordinates":[50.32785,31.22079],"type":"Point"}
+}

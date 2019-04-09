@@ -1,0 +1,78 @@
+{
+  "id": 1243348251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.27983,37.0731,50.27983,37.0731",
+    "geom:latitude":37.0731,
+    "geom:longitude":50.27983,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Saraydasht",
+    "gn:country_code":"IR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":29006,
+    "gn:latitude":37.0731,
+    "gn:longitude":50.27983,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Sar\u0101ydasht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sar\u0101ydasht"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0631\u0627\u06cc\u062f\u0634\u062a",
+        "Sar\u0101bdasht"
+    ],
+    "name:und_x_variant":[
+        "Sar\u0101bdasht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":29006,
+        "wk:page":"Saraydasht"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"51e4d5fc17e4d3e911d97d8f4e14e1c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720365,
+            "locality_id":1243348251,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1243348251,
+    "wof:lastmodified":1537641600,
+    "wof:name":"Saraydasht",
+    "wof:parent_id":1108720365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.27983,
+    37.0731,
+    50.27983,
+    37.0731
+],
+  "geometry": {"coordinates":[50.27983,37.0731],"type":"Point"}
+}

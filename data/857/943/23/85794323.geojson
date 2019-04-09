@@ -1,0 +1,106 @@
+{
+  "id": 85794323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":27862232.103019,
+    "geom:bbox":"-8.474042,51.904048,-8.474042,51.904048",
+    "geom:latitude":51.904048,
+    "geom:longitude":-8.474042,
+    "gn:latitude":51.91806,
+    "gn:longitude":-8.47056,
+    "iso:country":"IR",
+    "lbl:latitude":51.904048,
+    "lbl:longitude":-8.474042,
+    "mps:latitude":51.922639,
+    "mps:longitude":-8.459714,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Millfield"
+    ],
+    "name:unk_x_variant":[
+        "Millfield"
+    ],
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":0,
+    "qs:gn_namadm1":"M",
+    "qs:gn_name":"Millfield",
+    "qs:local_max":991,
+    "qs:local_sum":991,
+    "qs:localhoods":1,
+    "qs:name":"Millfield",
+    "qs:name_adm0":"Ireland",
+    "qs:name_adm1":"Cork",
+    "qs:name_lau":"The Glen B",
+    "qs:name_local":"The Glen B",
+    "qs:photo_max":150,
+    "qs:photo_sum":991,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":75,
+    "qs:woe_adm0":23424803,
+    "qs:woe_adm1":2345252,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":20071850,
+    "qs:woe_local":20071850,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191581,
+        101751727,
+        85633241,
+        85684945
+    ],
+    "wof:breaches":[
+        85794191
+    ],
+    "wof:concordances":{
+        "gn:id":2962618,
+        "gp:id":561688,
+        "qs:id":901640
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e79f136fbca9849fc096edf418f7d11b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101751727,
+            "neighbourhood_id":85794323,
+            "region_id":85684945
+        }
+    ],
+    "wof:id":85794323,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531861469,
+    "wof:name":"Millfield",
+    "wof:parent_id":101751727,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -8.474042,
+    51.904048,
+    -8.474042,
+    51.904048
+],
+  "geometry": {"coordinates":[-8.474042,51.904048],"type":"Point"}
+}

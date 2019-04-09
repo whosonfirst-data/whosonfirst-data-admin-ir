@@ -1,0 +1,73 @@
+{
+  "id": 1276606821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.51709,36.57604,52.51709,36.57604",
+    "geom:latitude":36.57604,
+    "geom:longitude":52.51709,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kasegar Mahalleh",
+    "gn:country_code":"IR",
+    "gn:dem":-9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7641940,
+    "gn:latitude":36.57604,
+    "gn:longitude":52.51709,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"K\u0101segar Ma\u1e29alleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "K\u0101segar Ma\u1e29alleh"
+    ],
+    "name:fas_x_variant":[
+        "\u0643\u0627\u0633\u06af\u0631 \u0645\u062d\u0644\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7641940
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a14913292d22698871d3a757a15b061c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719807,
+            "locality_id":1276606821,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1276606821,
+    "wof:lastmodified":1537648484,
+    "wof:name":"Kasegar Mahalleh",
+    "wof:parent_id":1108719807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.51709,
+    36.57604,
+    52.51709,
+    36.57604
+],
+  "geometry": {"coordinates":[52.51709,36.57604],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1326972625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.6675,36.1445,49.6675,36.1445",
+    "geom:latitude":36.1445,
+    "geom:longitude":49.6675,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Ashegh Hesar",
+    "gn:country_code":"IR",
+    "gn:dem":1386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":142794,
+    "gn:latitude":36.1445,
+    "gn:longitude":49.6675,
+    "gn:modification_date":"2018-07-17",
+    "gn:name":"Ashegh Hesar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0639\u0627\u0634\u0642 \u062d\u0635\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u2018\u0100sheq \u1e28e\u015f\u0101r"
+    ],
+    "name:und_x_variant":[
+        "\u0100sheykh \u1e28e\u015f\u0101r",
+        "Asak-Gisar",
+        "Asak His\u0101r",
+        "Ashegh Hesar",
+        "Asak \u1e28e\u015f\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108720479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":142794,
+        "wk:page":"Asheq_Hesar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"87ea8f30a9611ef1b165065077e1807a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720479,
+            "locality_id":1326972625,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1326972625,
+    "wof:lastmodified":1537646109,
+    "wof:name":"Ashegh Hesar",
+    "wof:parent_id":1108720479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.6675,
+    36.1445,
+    49.6675,
+    36.1445
+],
+  "geometry": {"coordinates":[49.6675,36.1445],"type":"Point"}
+}

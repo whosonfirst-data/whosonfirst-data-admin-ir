@@ -1,0 +1,76 @@
+{
+  "id": 1225983001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.64322,36.54228,49.64322,36.54228",
+    "geom:latitude":36.54228,
+    "geom:longitude":49.64322,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Chal Quch",
+    "gn:country_code":"IR",
+    "gn:dem":1374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7431639,
+    "gn:latitude":36.54228,
+    "gn:longitude":49.64322,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ch\u0101l Q\u016bch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Ch\u0101l Q\u016bch"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u0627\u0644 \u0642\u0648\u0686"
+    ],
+    "name:und_x_variant":[
+        "\u0686\u0627\u0644 \u0642\u0648\u0686"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108720315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7431639
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3948fb02e9ea4b851058b21ec40a0083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720315,
+            "locality_id":1225983001,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1225983001,
+    "wof:lastmodified":1537648194,
+    "wof:name":"Chal Quch",
+    "wof:parent_id":1108720315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.64322,
+    36.54228,
+    49.64322,
+    36.54228
+],
+  "geometry": {"coordinates":[49.64322,36.54228],"type":"Point"}
+}

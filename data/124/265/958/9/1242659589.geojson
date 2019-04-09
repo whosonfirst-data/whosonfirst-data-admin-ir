@@ -1,0 +1,74 @@
+{
+  "id": 1242659589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.97441,35.30167,47.97441,35.30167",
+    "geom:latitude":35.30167,
+    "geom:longitude":47.97441,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Malujeh",
+    "gn:country_code":"IR",
+    "gn:dem":1885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":125062,
+    "gn:latitude":35.30167,
+    "gn:longitude":47.97441,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"M\u0101l\u016bjeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0644\u0648\u062c\u0647"
+    ],
+    "name:fas_x_variant":[
+        "M\u0101l\u016bjeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":125062,
+        "wk:page":"Malujeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"23a99bcd11747d03eabfdfb3dc82e82f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720325,
+            "locality_id":1242659589,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1242659589,
+    "wof:lastmodified":1537644312,
+    "wof:name":"Malujeh",
+    "wof:parent_id":1108720325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.97441,
+    35.30167,
+    47.97441,
+    35.30167
+],
+  "geometry": {"coordinates":[47.97441,35.30167],"type":"Point"}
+}

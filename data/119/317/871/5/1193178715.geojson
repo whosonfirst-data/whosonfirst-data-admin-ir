@@ -1,0 +1,76 @@
+{
+  "id": 1193178715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.89901,37.33761,48.89901,37.33761",
+    "geom:latitude":37.33761,
+    "geom:longitude":48.89901,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Sarkum",
+    "gn:country_code":"IR",
+    "gn:dem":1565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6741845,
+    "gn:latitude":37.33761,
+    "gn:longitude":48.89901,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Sark\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u06a9\u0648\u0645"
+    ],
+    "name:fas_x_variant":[
+        "Sar K\u016bm"
+    ],
+    "name:und_x_variant":[
+        "Sark\u016bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6741845
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a7e5d2352d984df1668f4e1b7108c8c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720013,
+            "locality_id":1193178715,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1193178715,
+    "wof:lastmodified":1537647576,
+    "wof:name":"Sarkum",
+    "wof:parent_id":1108720013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.89901,
+    37.33761,
+    48.89901,
+    37.33761
+],
+  "geometry": {"coordinates":[48.89901,37.33761],"type":"Point"}
+}

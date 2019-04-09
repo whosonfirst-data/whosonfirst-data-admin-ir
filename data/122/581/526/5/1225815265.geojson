@@ -1,0 +1,80 @@
+{
+  "id": 1225815265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.28566,32.63198,48.28566,32.63198",
+    "geom:latitude":32.63198,
+    "geom:longitude":48.28566,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Golkhaneh",
+    "gn:country_code":"IR",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":115930,
+    "gn:latitude":32.63198,
+    "gn:longitude":48.28566,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Golkh\u0101neh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Golkh\u0101neh"
+    ],
+    "name:fas_x_variant":[
+        "Gol Kh\u0101neh",
+        "\u06af\u0644\u062e\u0627\u0646\u0647",
+        "\u0642\u0627\u0633\u0645 \u0634\u0627\u0647 \u062d\u0633\u06cc\u0646"
+    ],
+    "name:und_x_variant":[
+        "Sh\u0101h \u1e28oseyn",
+        "\u06af\u0644\u062e\u0627\u0646\u0647",
+        "Q\u0101sem Sh\u0101h \u1e28oseyn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":115930
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c8facbae56b17745851489c5b084bfa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719811,
+            "locality_id":1225815265,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1225815265,
+    "wof:lastmodified":1537643403,
+    "wof:name":"Golkhaneh",
+    "wof:parent_id":1108719811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.28566,
+    32.63198,
+    48.28566,
+    32.63198
+],
+  "geometry": {"coordinates":[48.28566,32.63198],"type":"Point"}
+}

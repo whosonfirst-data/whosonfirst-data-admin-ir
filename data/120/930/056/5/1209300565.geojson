@@ -1,0 +1,72 @@
+{
+  "id": 1209300565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.88027,34.40879,45.88027,34.40879",
+    "geom:latitude":34.40879,
+    "geom:longitude":45.88027,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Mashganar",
+    "gn:country_code":"IR",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":25805,
+    "gn:latitude":34.40879,
+    "gn:longitude":45.88027,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mashgan\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0634\u06af\u0646\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Meshken\u0101r",
+        "Mashgan\u0101r"
+    ],
+    "name:und_x_variant":[
+        "Mashgan\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":25805,
+        "wk:page":"Meshkenar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"23b31e3973c0e548a62bedc8c1b1ded3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209300565
+        }
+    ],
+    "wof:id":1209300565,
+    "wof:lastmodified":1537641351,
+    "wof:name":"Mashganar",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.88027,
+    34.40879,
+    45.88027,
+    34.40879
+],
+  "geometry": {"coordinates":[45.88027,34.40879],"type":"Point"}
+}

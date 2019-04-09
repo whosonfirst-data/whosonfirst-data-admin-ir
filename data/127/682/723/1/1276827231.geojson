@@ -1,0 +1,76 @@
+{
+  "id": 1276827231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.7769,33.5003,48.7769,33.5003",
+    "geom:latitude":33.5003,
+    "geom:longitude":48.7769,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Pa Tappeh",
+    "gn:country_code":"IR",
+    "gn:dem":1801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":32260,
+    "gn:latitude":33.5003,
+    "gn:longitude":48.7769,
+    "gn:modification_date":"2015-07-02",
+    "gn:name":"P\u0101 Tappeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "P\u0101y Tappeh-ye \u2018Eyvon\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u0627 \u062a\u067e\u0647"
+    ],
+    "name:und_x_variant":[
+        "P\u0101 Tappeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":32260
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"96d96dd8132c56ac1714b45e687aaf51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720145,
+            "locality_id":1276827231,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1276827231,
+    "wof:lastmodified":1537641776,
+    "wof:name":"Pa Tappeh",
+    "wof:parent_id":1108720145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.7769,
+    33.5003,
+    48.7769,
+    33.5003
+],
+  "geometry": {"coordinates":[48.7769,33.5003],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226221405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.1785,34.6325,47.1785,34.6325",
+    "geom:latitude":34.6325,
+    "geom:longitude":47.1785,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Ruhollah",
+    "gn:country_code":"IR",
+    "gn:dem":1552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":23510,
+    "gn:latitude":34.6325,
+    "gn:longitude":47.1785,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"R\u016b\u1e29oll\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u062d \u0627\u0644\u0644\u0647"
+    ],
+    "name:fas_x_variant":[
+        "R\u016b\u1e29oll\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":23510
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c16d0b8d5fe96237272abff3c861d735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720117,
+            "locality_id":1226221405,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1226221405,
+    "wof:lastmodified":1537641212,
+    "wof:name":"Ruhollah",
+    "wof:parent_id":1108720117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.1785,
+    34.6325,
+    47.1785,
+    34.6325
+],
+  "geometry": {"coordinates":[47.1785,34.6325],"type":"Point"}
+}

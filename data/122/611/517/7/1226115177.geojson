@@ -1,0 +1,77 @@
+{
+  "id": 1226115177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.8393,32.1676,47.8393,32.1676",
+    "geom:latitude":32.1676,
+    "geom:longitude":47.8393,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Sheykh Qandi",
+    "gn:country_code":"IR",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":115106,
+    "gn:latitude":32.1676,
+    "gn:longitude":47.8393,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"Sheykh Qand\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u062e \u0642\u0646\u062f\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Sheykh Qand\u012b",
+        "\u0634\u06cc\u062e \u0635\u0627\u0644\u062d \u0642\u0646\u062f\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Sheykh \u015e\u0101leh Qand\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108719957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":115106
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2fdcba4326da000b52c75adec018e2ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719957,
+            "locality_id":1226115177,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1226115177,
+    "wof:lastmodified":1537643329,
+    "wof:name":"Sheykh Qandi",
+    "wof:parent_id":1108719957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.8393,
+    32.1676,
+    47.8393,
+    32.1676
+],
+  "geometry": {"coordinates":[47.8393,32.1676],"type":"Point"}
+}

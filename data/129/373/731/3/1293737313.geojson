@@ -1,0 +1,76 @@
+{
+  "id": 1293737313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.45464,36.63194,50.45464,36.63194",
+    "geom:latitude":36.63194,
+    "geom:longitude":50.45464,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kalayeh",
+    "gn:country_code":"IR",
+    "gn:dem":2134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7620887,
+    "gn:latitude":36.63194,
+    "gn:longitude":50.45464,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kal\u0101yeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Kal\u0101yeh"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0644\u0627\u06cc\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u06a9\u0644\u0627\u06cc\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7620887
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"13bc58fa82df90c2c1971a0c7bfa6d21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720333,
+            "locality_id":1293737313,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1293737313,
+    "wof:lastmodified":1537648412,
+    "wof:name":"Kalayeh",
+    "wof:parent_id":1108720333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.45464000000001,
+    36.63194,
+    50.45464000000001,
+    36.63194
+],
+  "geometry": {"coordinates":[50.45464000000001,36.63194],"type":"Point"}
+}

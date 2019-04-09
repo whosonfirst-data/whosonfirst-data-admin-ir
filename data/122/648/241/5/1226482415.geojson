@@ -1,0 +1,80 @@
+{
+  "id": 1226482415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.80322,36.85035,50.80322,36.85035",
+    "geom:latitude":36.85035,
+    "geom:longitude":50.80322,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Shirud",
+    "gn:country_code":"IR",
+    "gn:dem":-18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":114242,
+    "gn:latitude":36.85035,
+    "gn:longitude":50.80322,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"Sh\u012br\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u064a\u0631\u0648\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Sh\u012brr\u016bd",
+        "\u0634\u064a\u0631\u0631\u0648\u062f",
+        "\u067e\u0627\u0626\u064a\u0646 \u0634\u064a\u0631\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "Sh\u012br\u016bd",
+        "S\u012br\u016bd",
+        "P\u0101\u2019\u012bn Sh\u012br\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":114242
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4a4ae0d79846f0966ac47fb5a33f17f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720495,
+            "locality_id":1226482415,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1226482415,
+    "wof:lastmodified":1537643261,
+    "wof:name":"Shirud",
+    "wof:parent_id":1108720495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.80322,
+    36.85035,
+    50.80322,
+    36.85035
+],
+  "geometry": {"coordinates":[50.80322,36.85035],"type":"Point"}
+}

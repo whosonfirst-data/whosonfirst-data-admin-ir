@@ -1,0 +1,77 @@
+{
+  "id": 1293678431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.2055,34.98602,49.2055,34.98602",
+    "geom:latitude":34.98602,
+    "geom:longitude":49.2055,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tamachi",
+    "gn:country_code":"IR",
+    "gn:dem":1713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":401712,
+    "gn:latitude":34.98602,
+    "gn:longitude":49.2055,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"\u0162amach\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0637\u0645\u0686\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0162amach\u012b"
+    ],
+    "name:und_x_variant":[
+        "\u0162ameh Ch\u012b",
+        "Tamch\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401712
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d83583362b99ed055af0475490916c46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720047,
+            "locality_id":1293678431,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1293678431,
+    "wof:lastmodified":1537646533,
+    "wof:name":"Tamachi",
+    "wof:parent_id":1108720047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.2055,
+    34.98602,
+    49.2055,
+    34.98602
+],
+  "geometry": {"coordinates":[49.2055,34.98602],"type":"Point"}
+}

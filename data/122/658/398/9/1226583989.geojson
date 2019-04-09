@@ -1,0 +1,76 @@
+{
+  "id": 1226583989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.01676,36.52554,53.01676,36.52554",
+    "geom:latitude":36.52554,
+    "geom:longitude":53.01676,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Rud Posht",
+    "gn:country_code":"IR",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":385313,
+    "gn:latitude":36.52554,
+    "gn:longitude":53.01676,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"R\u016bd Posht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "R\u016bd Posht"
+    ],
+    "name:fas_x_variant":[
+        "\u0631\u0648\u062f \u067e\u0634\u062a"
+    ],
+    "name:und_x_variant":[
+        "\u0631\u0648\u062f \u067e\u0634\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385313
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"34d27d7c1717e4f2547b5e76643f5fd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720401,
+            "locality_id":1226583989,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1226583989,
+    "wof:lastmodified":1537646404,
+    "wof:name":"Rud Posht",
+    "wof:parent_id":1108720401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.01676,
+    36.52554,
+    53.01676,
+    36.52554
+],
+  "geometry": {"coordinates":[53.01676,36.52554],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1343481629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.73517,30.11326,51.73517,30.11326",
+    "geom:latitude":30.11326,
+    "geom:longitude":51.73517,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Boland",
+    "gn:country_code":"IR",
+    "gn:dem":1337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":140357,
+    "gn:latitude":30.11326,
+    "gn:longitude":51.73517,
+    "gn:modification_date":"2018-06-06",
+    "gn:name":"Boland",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Boland\u016b"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0644\u0646\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u0628\u0644\u0646\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140357,
+        "wk:page":"Bolandu,_Fars"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3a5da021d3669db93980f73b6058ae5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720209,
+            "locality_id":1343481629,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1343481629,
+    "wof:lastmodified":1537645869,
+    "wof:name":"Boland",
+    "wof:parent_id":1108720209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.73517,
+    30.11326,
+    51.73517,
+    30.11326
+],
+  "geometry": {"coordinates":[51.73517,30.11326],"type":"Point"}
+}

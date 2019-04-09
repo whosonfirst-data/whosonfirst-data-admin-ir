@@ -1,0 +1,76 @@
+{
+  "id": 1226171203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.21465,36.55213,58.21465,36.55213",
+    "geom:latitude":36.55213,
+    "geom:longitude":58.21465,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Deh Now",
+    "gn:country_code":"IR",
+    "gn:dem":1416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":136594,
+    "gn:latitude":36.55213,
+    "gn:longitude":58.21465,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Deh Now",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647\u0646\u0648"
+    ],
+    "name:und_x_variant":[
+        "Deh-i-Nau",
+        "Deh Now",
+        "\u062f\u0647\u0646\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":136594,
+        "wk:page":"Deh_Now,_Khoshab"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0677c4aaa3b223fd62d2ca4ba178bd4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720367,
+            "locality_id":1226171203,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1226171203,
+    "wof:lastmodified":1537645491,
+    "wof:name":"Deh Now",
+    "wof:parent_id":1108720367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.21465,
+    36.55213,
+    58.21465,
+    36.55213
+],
+  "geometry": {"coordinates":[58.21465,36.55213],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343858179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.01667,26.01667,61.01667,26.01667",
+    "geom:latitude":26.01667,
+    "geom:longitude":61.01667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sheykh Kalag",
+    "gn:country_code":"IR",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1159559,
+    "gn:latitude":26.01667,
+    "gn:longitude":61.01667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sheykh Kalag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108719919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1159559
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"98420b58236f8fca98514f29c9ad62c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719919,
+            "locality_id":1343858179,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1343858179,
+    "wof:lastmodified":1536669878,
+    "wof:name":"Sheykh Kalag",
+    "wof:parent_id":1108719919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.01667,
+    26.01667,
+    61.01667,
+    26.01667
+],
+  "geometry": {"coordinates":[61.01667,26.01667],"type":"Point"}
+}

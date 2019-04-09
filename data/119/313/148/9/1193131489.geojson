@@ -1,0 +1,73 @@
+{
+  "id": 1193131489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.7142,27.8127,52.7142,27.8127",
+    "geom:latitude":27.8127,
+    "geom:longitude":52.7142,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Chameh Gorgi",
+    "gn:country_code":"IR",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6906497,
+    "gn:latitude":27.8127,
+    "gn:longitude":52.7142,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Chameh Gorg\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0645\u0647 \u06af\u0631\u06af\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Chameh Gorg\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6906497
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f89622afcbe25ed36551c0d548e5d6a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720181,
+            "locality_id":1193131489,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1193131489,
+    "wof:lastmodified":1537647700,
+    "wof:name":"Chameh Gorgi",
+    "wof:parent_id":1108720181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.7142,
+    27.8127,
+    52.7142,
+    27.8127
+],
+  "geometry": {"coordinates":[52.7142,27.8127],"type":"Point"}
+}

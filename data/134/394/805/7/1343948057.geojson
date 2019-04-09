@@ -1,0 +1,73 @@
+{
+  "id": 1343948057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.78225,37.47816,48.78225,37.47816",
+    "geom:latitude":37.47816,
+    "geom:longitude":48.78225,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Gireyli Gus",
+    "gn:country_code":"IR",
+    "gn:dem":1664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11014192,
+    "gn:latitude":37.47816,
+    "gn:longitude":48.78225,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"G\u012breyl\u012b G\u016bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u06cc\u0631\u06cc\u0644\u06cc \u06af\u0648\u0633"
+    ],
+    "name:und_x_variant":[
+        "G\u012breyl\u012b G\u016bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11014192
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7a94ec3b31bef08466d9aff335ed38a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720353,
+            "locality_id":1343948057,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1343948057,
+    "wof:lastmodified":1537648691,
+    "wof:name":"Gireyli Gus",
+    "wof:parent_id":1108720353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.78225,
+    37.47816,
+    48.78225,
+    37.47816
+],
+  "geometry": {"coordinates":[48.78225,37.47816],"type":"Point"}
+}

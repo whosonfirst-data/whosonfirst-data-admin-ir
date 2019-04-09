@@ -1,0 +1,77 @@
+{
+  "id": 1326821035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.50321,28.56814,53.50321,28.56814",
+    "geom:latitude":28.56814,
+    "geom:longitude":53.50321,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Jovin",
+    "gn:country_code":"IR",
+    "gn:dem":1011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":129935,
+    "gn:latitude":28.56814,
+    "gn:longitude":53.50321,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Jov\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u0648\u06cc\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "J\u016by\u0101n",
+        "\u062c\u0648\u06cc\u0646"
+    ],
+    "name:und_x_variant":[
+        "Jov\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":129935
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3b7babc629e88d4a91ca030540e07ab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720069,
+            "locality_id":1326821035,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1326821035,
+    "wof:lastmodified":1537644811,
+    "wof:name":"Jovin",
+    "wof:parent_id":1108720069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.50321,
+    28.56814,
+    53.50321,
+    28.56814
+],
+  "geometry": {"coordinates":[53.50321,28.56814],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1259924797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.35005,33.68486,49.35005,33.68486",
+    "geom:latitude":33.68486,
+    "geom:longitude":49.35005,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Rusta-ye Fasli-ye Khalaj-e Sofla",
+    "gn:country_code":"IR",
+    "gn:dem":2021,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":128089,
+    "gn:latitude":33.68486,
+    "gn:longitude":49.35005,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"R\u016bst\u0101-ye Fa\u015fl\u012b-ye Khalaj-e Sofl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0644\u062c \u0633\u0641\u0644\u0649"
+    ],
+    "name:fas_x_variant":[
+        "\u062e\u0644\u062c \u067e\u0627\u0626\u064a\u0646",
+        "Khalaj-e Sofl\u00e1",
+        "Khalaj-e P\u0101\u2019\u012bn",
+        "\u0631\u0648\u0633\u062a\u0627\u06cc \u0641\u0635\u0644\u06cc \u062e\u0644\u062c \u0633\u0641\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Kalaj",
+        "Khalach",
+        "Khalaj",
+        "R\u016bst\u0101-ye Fa\u015fl\u012b-ye Khalaj-e Sofl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":128089
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"613c7496fd984316e8ea0a0567e81100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720443,
+            "locality_id":1259924797,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1259924797,
+    "wof:lastmodified":1537644627,
+    "wof:name":"Rusta-ye Fasli-ye Khalaj-e Sofla",
+    "wof:parent_id":1108720443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.35005,
+    33.68486,
+    49.35005,
+    33.68486
+],
+  "geometry": {"coordinates":[49.35005,33.68486],"type":"Point"}
+}

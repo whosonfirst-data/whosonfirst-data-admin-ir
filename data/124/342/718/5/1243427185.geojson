@@ -1,0 +1,81 @@
+{
+  "id": 1243427185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.23789,32.16151,48.23789,32.16151",
+    "geom:latitude":32.16151,
+    "geom:longitude":48.23789,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Omm-e Kolsum",
+    "gn:country_code":"IR",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":36475,
+    "gn:latitude":32.16151,
+    "gn:longitude":48.23789,
+    "gn:modification_date":"2016-01-06",
+    "gn:name":"Omm-e Kols\u0304\u016bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0645 \u06a9\u0644\u062b\u0648\u0645"
+    ],
+    "name:fas_x_variant":[
+        "Kows\u0304ar",
+        "Omm-e Kols\u0304\u016bm",
+        "\u0628\u0646\u0647 \u0633\u062e\u06cc",
+        "\u0633\u062e\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Omm-e Kols\u016bm",
+        "Boneh Sakh\u012b",
+        "Sakh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":36475
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"29d96c9be3b61f591d315315e7ec6b91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720455,
+            "locality_id":1243427185,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1243427185,
+    "wof:lastmodified":1537642012,
+    "wof:name":"Omm-e Kolsum",
+    "wof:parent_id":1108720455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.23789,
+    32.16151,
+    48.23789,
+    32.16151
+],
+  "geometry": {"coordinates":[48.23789,32.16151],"type":"Point"}
+}

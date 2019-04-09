@@ -1,0 +1,73 @@
+{
+  "id": 1260135021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.48422,35.25428,52.48422,35.25428",
+    "geom:latitude":35.25428,
+    "geom:longitude":52.48422,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Sar Asiab",
+    "gn:country_code":"IR",
+    "gn:dem":886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":32925,
+    "gn:latitude":35.25428,
+    "gn:longitude":52.48422,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sar \u0100s\u012b\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631 \u0622\u0633\u064a\u0627\u0628"
+    ],
+    "name:fas_x_variant":[
+        "Sar \u0100s\u012b\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672309,
+        1108720023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":32925
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bee1c17ad80e25938ecab3efb77428b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720023,
+            "locality_id":1260135021,
+            "region_id":85672309
+        }
+    ],
+    "wof:id":1260135021,
+    "wof:lastmodified":1537641830,
+    "wof:name":"Sar Asiab",
+    "wof:parent_id":1108720023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.48421999999999,
+    35.25428,
+    52.48421999999999,
+    35.25428
+],
+  "geometry": {"coordinates":[52.48421999999999,35.25428],"type":"Point"}
+}

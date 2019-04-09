@@ -1,0 +1,79 @@
+{
+  "id": 1309716647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.36425,30.76882,51.36425,30.76882",
+    "geom:latitude":30.76882,
+    "geom:longitude":51.36425,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Mahur Sabz",
+    "gn:country_code":"IR",
+    "gn:dem":1735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":123261,
+    "gn:latitude":30.76882,
+    "gn:longitude":51.36425,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"M\u0101h\u016br Sabz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "M\u0101h\u016br Sabz"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0627\u0647\u0648\u0631 \u0633\u0628\u0632",
+        "\u0645\u0631 \u0633\u0628\u0632"
+    ],
+    "name:und_x_variant":[
+        "\u0645\u0631 \u0633\u0628\u0632",
+        "\u0645\u0627\u0647\u0648\u0631 \u0633\u0628\u0632",
+        "Mor Sabz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108719965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":123261
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f0e8cca5e716f49efe6ab1e4b96ccdb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719965,
+            "locality_id":1309716647,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1309716647,
+    "wof:lastmodified":1537644138,
+    "wof:name":"Mahur Sabz",
+    "wof:parent_id":1108719965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.36425,
+    30.76882,
+    51.36425,
+    30.76882
+],
+  "geometry": {"coordinates":[51.36425,30.76882],"type":"Point"}
+}

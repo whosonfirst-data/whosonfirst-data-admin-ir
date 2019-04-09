@@ -1,0 +1,70 @@
+{
+  "id": 1293447977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.18333,33.4,47.18333,33.4",
+    "geom:latitude":33.4,
+    "geom:longitude":47.18333,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Garkhashab-e Sofla",
+    "gn:country_code":"IR",
+    "gn:dem":911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":28292,
+    "gn:latitude":33.4,
+    "gn:longitude":47.18333,
+    "gn:modification_date":"2006-08-20",
+    "gn:name":"Garkhash\u0101b-e Sofl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u064e\u0631\u062e\u064e\u0634\u0627\u0628\u0650 \u0633\u064f\u0641\u0644\u064e\u0649"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":28292
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"10e9bf279ba94749fe4d750b66479098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720169,
+            "locality_id":1293447977,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1293447977,
+    "wof:lastmodified":1537641527,
+    "wof:name":"Garkhashab-e Sofla",
+    "wof:parent_id":1108720169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.18333,
+    33.4,
+    47.18333,
+    33.4
+],
+  "geometry": {"coordinates":[47.18333,33.4],"type":"Point"}
+}

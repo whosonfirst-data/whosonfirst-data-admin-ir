@@ -1,0 +1,74 @@
+{
+  "id": 1343842761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.14963,37.07249,50.14963,37.07249",
+    "geom:latitude":37.07249,
+    "geom:longitude":50.14963,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Bili Langeh",
+    "gn:country_code":"IR",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":29234,
+    "gn:latitude":37.07249,
+    "gn:longitude":50.14963,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"B\u012bl\u012b Langeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "B\u012bl\u012b Langeh"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u06cc\u0644\u06cc \u0644\u0646\u06af\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108719805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":29234,
+        "wk:page":"Bili_Langeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"720fcd90283eff5f25370c9e8cd1be05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719805,
+            "locality_id":1343842761,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1343842761,
+    "wof:lastmodified":1537641626,
+    "wof:name":"Bili Langeh",
+    "wof:parent_id":1108719805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.14963,
+    37.07249,
+    50.14963,
+    37.07249
+],
+  "geometry": {"coordinates":[50.14963,37.07249],"type":"Point"}
+}

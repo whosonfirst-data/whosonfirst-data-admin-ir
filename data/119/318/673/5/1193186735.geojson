@@ -1,0 +1,79 @@
+{
+  "id": 1193186735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.35314,36.325,53.35314,36.325",
+    "geom:latitude":36.325,
+    "geom:longitude":53.35314,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Khal Kheyl",
+    "gn:country_code":"IR",
+    "gn:dem":775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":385508,
+    "gn:latitude":36.325,
+    "gn:longitude":53.35314,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Kh\u0101l Kheyl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0627\u0644\u0650 \u062e\u064a\u0644"
+    ],
+    "name:fas_x_variant":[
+        "\u062e\u0627\u0644 \u062e\u064a\u0644",
+        "Kh\u0101l Kheyl"
+    ],
+    "name:und_x_variant":[
+        "Kh\u0101l-e Kh\u012bl",
+        "\u062e\u0627\u0644 \u062e\u064a\u0644",
+        "Kh\u0101l Kheyl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385508
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"90d02f9f81151bb8cecc482c2dd8a083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720401,
+            "locality_id":1193186735,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1193186735,
+    "wof:lastmodified":1537646419,
+    "wof:name":"Khal Kheyl",
+    "wof:parent_id":1108720401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.35314,
+    36.325,
+    53.35314,
+    36.325
+],
+  "geometry": {"coordinates":[53.35314,36.325],"type":"Point"}
+}

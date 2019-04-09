@@ -1,0 +1,74 @@
+{
+  "id": 1276410027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.2259,32.84965,49.2259,32.84965",
+    "geom:latitude":32.84965,
+    "geom:longitude":49.2259,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Kul Terk",
+    "gn:country_code":"IR",
+    "gn:dem":857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":36494,
+    "gn:latitude":32.84965,
+    "gn:longitude":49.2259,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"K\u016bl Terk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "K\u016bl Terk"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0648\u0644 \u062a\u0631\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":36494,
+        "wk:page":"Kul_Terk"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"72b367572bcade0f01367e91e53a3668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719969,
+            "locality_id":1276410027,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1276410027,
+    "wof:lastmodified":1537642013,
+    "wof:name":"Kul Terk",
+    "wof:parent_id":1108719969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.2259,
+    32.84965,
+    49.2259,
+    32.84965
+],
+  "geometry": {"coordinates":[49.2259,32.84965],"type":"Point"}
+}

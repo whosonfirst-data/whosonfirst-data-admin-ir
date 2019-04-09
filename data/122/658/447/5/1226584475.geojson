@@ -1,0 +1,78 @@
+{
+  "id": 1226584475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.11405,34.83133,50.11405,34.83133",
+    "geom:latitude":34.83133,
+    "geom:longitude":50.11405,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Dizaj",
+    "gn:country_code":"IR",
+    "gn:dem":1641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":136118,
+    "gn:latitude":34.83133,
+    "gn:longitude":50.11405,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"D\u012bzaj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u064a\u0632\u064e\u0643"
+    ],
+    "name:fas_x_variant":[
+        "D\u012bzaj",
+        "\u062f\u064a\u0632\u062c"
+    ],
+    "name:und_x_variant":[
+        "D\u012bzak",
+        "\u062f\u064a\u0632\u062c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":136118
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a5bb9a355f3cc151eece82cb2a6491f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720473,
+            "locality_id":1226584475,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1226584475,
+    "wof:lastmodified":1537645441,
+    "wof:name":"Dizaj",
+    "wof:parent_id":1108720473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.11405,
+    34.83133,
+    50.11405,
+    34.83133
+],
+  "geometry": {"coordinates":[50.11405,34.83133],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226700371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.3303,30.4803,55.3303,30.4803",
+    "geom:latitude":30.4803,
+    "geom:longitude":55.3303,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Bagh Boneh",
+    "gn:country_code":"IR",
+    "gn:dem":2180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028375,
+    "gn:latitude":30.4803,
+    "gn:longitude":55.3303,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"B\u0101gh Boneh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u063a \u0628\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "B\u0101gh Boneh",
+        "B\u0101gh Bennah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028375,
+        "wk:page":"Bagh_Bennah"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"758f0c096bed2cc6466fa43593db4313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720433,
+            "locality_id":1226700371,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1226700371,
+    "wof:lastmodified":1537647906,
+    "wof:name":"Bagh Boneh",
+    "wof:parent_id":1108720433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.3303,
+    30.4803,
+    55.3303,
+    30.4803
+],
+  "geometry": {"coordinates":[55.3303,30.4803],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260040873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.69319,28.35326,58.69319,28.35326",
+    "geom:latitude":28.35326,
+    "geom:longitude":58.69319,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Katagari",
+    "gn:country_code":"IR",
+    "gn:dem":1187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9112027,
+    "gn:latitude":28.35326,
+    "gn:longitude":58.69319,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"K\u0101t\u0101gar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u062a\u0627\u06af\u0631\u06cc"
+    ],
+    "name:und_x_variant":[
+        "K\u0101t\u0101gar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9112027
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bb9958daa27199a80698be714aea008e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719861,
+            "locality_id":1260040873,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1260040873,
+    "wof:lastmodified":1537648634,
+    "wof:name":"Katagari",
+    "wof:parent_id":1108719861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.69319,
+    28.35326,
+    58.69319,
+    28.35326
+],
+  "geometry": {"coordinates":[58.69319,28.35326],"type":"Point"}
+}

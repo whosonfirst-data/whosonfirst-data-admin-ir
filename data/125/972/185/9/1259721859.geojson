@@ -1,0 +1,73 @@
+{
+  "id": 1259721859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.38389,31.83444,54.38389,31.83444",
+    "geom:latitude":31.83444,
+    "geom:longitude":54.38389,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Zanbil",
+    "gn:country_code":"IR",
+    "gn:dem":1248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":401801,
+    "gn:latitude":31.83444,
+    "gn:longitude":54.38389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zanb\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u064e\u0646\u0628\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Zanb\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108720511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401801
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8ada0dece931229f7f668b129c5f4dc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720511,
+            "locality_id":1259721859,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1259721859,
+    "wof:lastmodified":1537646533,
+    "wof:name":"Zanbil",
+    "wof:parent_id":1108720511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.38389,
+    31.83444,
+    54.38389,
+    31.83444
+],
+  "geometry": {"coordinates":[54.38389,31.83444],"type":"Point"}
+}

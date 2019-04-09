@@ -1,0 +1,67 @@
+{
+  "id": 1226436665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.53917,29.49944,51.53917,29.49944",
+    "geom:latitude":29.49944,
+    "geom:longitude":51.53917,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Pir Mohlat",
+    "gn:country_code":"IR",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":121032,
+    "gn:latitude":29.49944,
+    "gn:longitude":51.53917,
+    "gn:modification_date":"2001-04-17",
+    "gn:name":"P\u012br Mohlat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":121032
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c0b1b735c2ac7988e4a79599a62112ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720113,
+            "locality_id":1226436665,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1226436665,
+    "wof:lastmodified":1536658708,
+    "wof:name":"Pir Mohlat",
+    "wof:parent_id":1108720113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.53917,
+    29.49944,
+    51.53917,
+    29.49944
+],
+  "geometry": {"coordinates":[51.53917,29.49944],"type":"Point"}
+}

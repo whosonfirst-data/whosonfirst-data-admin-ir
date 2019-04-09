@@ -1,0 +1,78 @@
+{
+  "id": 1193222471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.73482,36.5706,52.73482,36.5706",
+    "geom:latitude":36.5706,
+    "geom:longitude":52.73482,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ramtet",
+    "gn:country_code":"IR",
+    "gn:dem":-8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":385085,
+    "gn:latitude":36.5706,
+    "gn:longitude":52.73482,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ramtet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u064e\u0645\u0646\u0650\u062a"
+    ],
+    "name:fas_x_variant":[
+        "\u0631\u0645\u062a\u062a"
+    ],
+    "name:und_x_variant":[
+        "Ramnet",
+        "Ramtet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385085,
+        "wk:page":"Ramnet"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"55cb96ddb60c0826a67c65b1fcd67677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719845,
+            "locality_id":1193222471,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1193222471,
+    "wof:lastmodified":1537646382,
+    "wof:name":"Ramtet",
+    "wof:parent_id":1108719845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.73481999999999,
+    36.5706,
+    52.73481999999999,
+    36.5706
+],
+  "geometry": {"coordinates":[52.73481999999999,36.5706],"type":"Point"}
+}

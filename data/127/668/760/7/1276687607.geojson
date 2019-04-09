@@ -1,0 +1,74 @@
+{
+  "id": 1276687607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.54451,36.39521,58.54451,36.39521",
+    "geom:latitude":36.39521,
+    "geom:longitude":58.54451,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Vaziriyeh",
+    "gn:country_code":"IR",
+    "gn:dem":1294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":31531,
+    "gn:latitude":36.39521,
+    "gn:longitude":58.54451,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Vaz\u012br\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0632\u06cc\u0631\u06cc\u0651\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Vaz\u012br\u012byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":31531,
+        "wk:page":"Vaziriyeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b00c24d3230cd839851abe29aefba347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720279,
+            "locality_id":1276687607,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1276687607,
+    "wof:lastmodified":1537641723,
+    "wof:name":"Vaziriyeh",
+    "wof:parent_id":1108720279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.54451,
+    36.39521,
+    58.54451,
+    36.39521
+],
+  "geometry": {"coordinates":[58.54451,36.39521],"type":"Point"}
+}

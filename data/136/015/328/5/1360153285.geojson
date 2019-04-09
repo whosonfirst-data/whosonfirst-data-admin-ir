@@ -1,0 +1,81 @@
+{
+  "id": 1360153285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.09379,34.08459,48.09379,34.08459",
+    "geom:latitude":34.08459,
+    "geom:longitude":48.09379,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Pirmorad",
+    "gn:country_code":"IR",
+    "gn:dem":1824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":126786,
+    "gn:latitude":34.08459,
+    "gn:longitude":48.09379,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"P\u012brmor\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0644\u0647 \u062c\u0648\u0628"
+    ],
+    "name:fas_x_variant":[
+        "Kaleh J\u016bb",
+        "\u067e\u06cc\u0631\u0645\u0631\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Koleh J\u016bb",
+        "Kaleh J\u016by",
+        "Kalleh Joo",
+        "Kaleh J\u016bv\u012b",
+        "P\u012brmor\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":126786
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"31ee54498f4bfee1bfa5301efe1aa841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719959,
+            "locality_id":1360153285,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1360153285,
+    "wof:lastmodified":1537644488,
+    "wof:name":"Pirmorad",
+    "wof:parent_id":1108719959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.09379000000001,
+    34.08459000000001,
+    48.09379000000001,
+    34.08459000000001
+],
+  "geometry": {"coordinates":[48.09379000000001,34.08459000000001],"type":"Point"}
+}

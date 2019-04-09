@@ -1,0 +1,74 @@
+{
+  "id": 1310301565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.0788,27.465,53.0788,27.465",
+    "geom:latitude":27.465,
+    "geom:longitude":53.0788,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Mir Maleki",
+    "gn:country_code":"IR",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":123858,
+    "gn:latitude":27.465,
+    "gn:longitude":53.0788,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"M\u012br Malek\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0631 \u0645\u0644\u06a9\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "M\u012br Malek\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":123858,
+        "wk:page":"Mir_Maleki"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9ceac8832ae2c2bb73b865e4743de2d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720253,
+            "locality_id":1310301565,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1310301565,
+    "wof:lastmodified":1537644194,
+    "wof:name":"Mir Maleki",
+    "wof:parent_id":1108720253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.0788,
+    27.465,
+    53.0788,
+    27.465
+],
+  "geometry": {"coordinates":[53.0788,27.465],"type":"Point"}
+}

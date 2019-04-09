@@ -1,0 +1,70 @@
+{
+  "id": 1243598943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.75,34.7,49.75,34.7",
+    "geom:latitude":34.7,
+    "geom:longitude":49.75,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Lir",
+    "gn:country_code":"IR",
+    "gn:dem":2134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":22041,
+    "gn:latitude":34.7,
+    "gn:longitude":49.75,
+    "gn:modification_date":"2006-08-20",
+    "gn:name":"L\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u064a\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":22041
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7c31795b30894ff1bdd95487f5ce4e5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720473,
+            "locality_id":1243598943,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1243598943,
+    "wof:lastmodified":1537641104,
+    "wof:name":"Lir",
+    "wof:parent_id":1108720473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.75,
+    34.7,
+    49.75,
+    34.7
+],
+  "geometry": {"coordinates":[49.75,34.7],"type":"Point"}
+}

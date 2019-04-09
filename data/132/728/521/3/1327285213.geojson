@@ -1,0 +1,73 @@
+{
+  "id": 1327285213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.7938,31.7341,53.7938,31.7341",
+    "geom:latitude":31.7341,
+    "geom:longitude":53.7938,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Badamak",
+    "gn:country_code":"IR",
+    "gn:dem":2513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7047332,
+    "gn:latitude":31.7341,
+    "gn:longitude":53.7938,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"B\u0101d\u0101mak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062f\u0627\u0645\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "B\u0101d\u0101mak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108720475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7047332
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3c5578b1c436bed5a99f80d0552e9918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720475,
+            "locality_id":1327285213,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1327285213,
+    "wof:lastmodified":1537647933,
+    "wof:name":"Badamak",
+    "wof:parent_id":1108720475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.7938,
+    31.7341,
+    53.7938,
+    31.7341
+],
+  "geometry": {"coordinates":[53.7938,31.7341],"type":"Point"}
+}

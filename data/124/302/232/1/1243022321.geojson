@@ -1,0 +1,73 @@
+{
+  "id": 1243022321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.17639,39.00861,47.17639,39.00861",
+    "geom:latitude":39.00861,
+    "geom:longitude":47.17639,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Par Talu",
+    "gn:country_code":"IR",
+    "gn:dem":1263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":121375,
+    "gn:latitude":39.00861,
+    "gn:longitude":47.17639,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Par Tal\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u064e\u0631 \u062a\u064e\u0644\u0648"
+    ],
+    "name:fas_x_variant":[
+        "Par Tal\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":121375
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e6cea378ed2dc4fd5d5a28bc2999feff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720097,
+            "locality_id":1243022321,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1243022321,
+    "wof:lastmodified":1537643947,
+    "wof:name":"Par Talu",
+    "wof:parent_id":1108720097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.17639000000001,
+    39.00861,
+    47.17639000000001,
+    39.00861
+],
+  "geometry": {"coordinates":[47.17639000000001,39.00861],"type":"Point"}
+}

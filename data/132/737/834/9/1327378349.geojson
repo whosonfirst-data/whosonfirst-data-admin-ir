@@ -1,0 +1,79 @@
+{
+  "id": 1327378349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.20172,36.07165,53.20172,36.07165",
+    "geom:latitude":36.07165,
+    "geom:longitude":53.20172,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Darzi Kola",
+    "gn:country_code":"IR",
+    "gn:dem":1197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":385303,
+    "gn:latitude":36.07165,
+    "gn:longitude":53.20172,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Darz\u012b Kol\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0632\u06cc \u0643\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u064e\u0631\u0632\u06cc \u0643\u0648\u0644\u0627",
+        "\u062f\u064e\u0631\u0632\u06cc \u0643\u064e\u0644\u0627",
+        "Darz\u012b Kol\u0101"
+    ],
+    "name:und_x_variant":[
+        "Darz\u012b Kal\u0101",
+        "Darz\u012b K\u016bl\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385303
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"709a6f88e4d89ee6fbf0106b0dee7d32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720401,
+            "locality_id":1327378349,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1327378349,
+    "wof:lastmodified":1537646403,
+    "wof:name":"Darzi Kola",
+    "wof:parent_id":1108720401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.20172,
+    36.07165,
+    53.20172,
+    36.07165
+],
+  "geometry": {"coordinates":[53.20172,36.07165],"type":"Point"}
+}

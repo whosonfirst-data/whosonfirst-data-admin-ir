@@ -1,0 +1,74 @@
+{
+  "id": 1310115055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.62222,36.84115,46.62222,36.84115",
+    "geom:latitude":36.84115,
+    "geom:longitude":46.62222,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Alaguz",
+    "gn:country_code":"IR",
+    "gn:dem":1780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":27115,
+    "gn:latitude":36.84115,
+    "gn:longitude":46.62222,
+    "gn:modification_date":"2016-01-06",
+    "gn:name":"\u0100l\u0101g\u016bz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0644\u0627\u06af\u0648\u0632"
+    ],
+    "name:fas_x_variant":[
+        "\u0100l\u0101g\u016bz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":27115,
+        "wk:page":"Alaguz"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fe8358970046fc1782d4c138759cecb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720429,
+            "locality_id":1310115055,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1310115055,
+    "wof:lastmodified":1537641440,
+    "wof:name":"Alaguz",
+    "wof:parent_id":1108720429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.62222,
+    36.84115,
+    46.62222,
+    36.84115
+],
+  "geometry": {"coordinates":[46.62222,36.84115],"type":"Point"}
+}

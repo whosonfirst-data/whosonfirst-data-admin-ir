@@ -1,0 +1,80 @@
+{
+  "id": 1310541365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.05546,36.02656,53.05546,36.02656",
+    "geom:latitude":36.02656,
+    "geom:longitude":53.05546,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Pit Sara",
+    "gn:country_code":"IR",
+    "gn:dem":918,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":385292,
+    "gn:latitude":36.02656,
+    "gn:longitude":53.05546,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"P\u012bt Sar\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u064a\u062a \u0633\u0631\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u064a\u062a \u0633\u0648\u0631\u0650\u0647",
+        "\u067e\u064a\u062a\u0633\u064e\u0631\u0650\u0647",
+        "P\u012bt Sar\u0101"
+    ],
+    "name:und_x_variant":[
+        "P\u012bt S\u016breh",
+        "P\u012btsareh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385292,
+        "wk:page":"Pit_Sara"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4c7e080ea46fcc50ceb01058efa68724",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720405,
+            "locality_id":1310541365,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1310541365,
+    "wof:lastmodified":1537646401,
+    "wof:name":"Pit Sara",
+    "wof:parent_id":1108720405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.05546,
+    36.02656,
+    53.05546,
+    36.02656
+],
+  "geometry": {"coordinates":[53.05546,36.02656],"type":"Point"}
+}

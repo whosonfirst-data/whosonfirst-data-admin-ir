@@ -1,0 +1,76 @@
+{
+  "id": 1327025233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.02792,36.94083,50.02792,36.94083",
+    "geom:latitude":36.94083,
+    "geom:longitude":50.02792,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lapan",
+    "gn:country_code":"IR",
+    "gn:dem":1809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7621816,
+    "gn:latitude":36.94083,
+    "gn:longitude":50.02792,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"L\u0101p\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "L\u0101p\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u0644\u0627\u067e\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0644\u0627\u067e\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108719805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7621816
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"52a41ac11761d18c15b463493c2bef2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719805,
+            "locality_id":1327025233,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1327025233,
+    "wof:lastmodified":1537648417,
+    "wof:name":"Lapan",
+    "wof:parent_id":1108719805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.02792,
+    36.94083,
+    50.02792,
+    36.94083
+],
+  "geometry": {"coordinates":[50.02792,36.94083],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1360175511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.8691,27.7153,52.8691,27.7153",
+    "geom:latitude":27.7153,
+    "geom:longitude":52.8691,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Anjirband",
+    "gn:country_code":"IR",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6906453,
+    "gn:latitude":27.7153,
+    "gn:longitude":52.8691,
+    "gn:modification_date":"2018-06-24",
+    "gn:name":"Anj\u012brband",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u062c\u06cc\u0631\u0628\u0646\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Anj\u012brband"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6906453,
+        "wk:page":"Anjirband"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5cce67b22fd0a61b207bec796141c51c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720181,
+            "locality_id":1360175511,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1360175511,
+    "wof:lastmodified":1537647699,
+    "wof:name":"Anjirband",
+    "wof:parent_id":1108720181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.8691,
+    27.7153,
+    52.8691,
+    27.7153
+],
+  "geometry": {"coordinates":[52.8691,27.7153],"type":"Point"}
+}

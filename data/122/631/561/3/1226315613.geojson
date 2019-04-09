@@ -1,0 +1,74 @@
+{
+  "id": 1226315613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.333,30.43879,50.333,30.43879",
+    "geom:latitude":30.43879,
+    "geom:longitude":50.333,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Seh Konar",
+    "gn:country_code":"IR",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":116452,
+    "gn:latitude":30.43879,
+    "gn:longitude":50.333,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Seh Kon\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0647 \u06a9\u0646\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Seh Kon\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":116452,
+        "wk:page":"Seh_Konar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dd0a31d675cd4e3a6e5a50565257b8af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719885,
+            "locality_id":1226315613,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1226315613,
+    "wof:lastmodified":1537643451,
+    "wof:name":"Seh Konar",
+    "wof:parent_id":1108719885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.333,
+    30.43879,
+    50.333,
+    30.43879
+],
+  "geometry": {"coordinates":[50.333,30.43879],"type":"Point"}
+}

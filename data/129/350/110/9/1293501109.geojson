@@ -1,0 +1,77 @@
+{
+  "id": 1293501109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.6548,36.88819,46.6548,36.88819",
+    "geom:latitude":36.88819,
+    "geom:longitude":46.6548,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Qinarjeh",
+    "gn:country_code":"IR",
+    "gn:dem":1952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":26585,
+    "gn:latitude":36.88819,
+    "gn:longitude":46.6548,
+    "gn:modification_date":"2016-01-06",
+    "gn:name":"Q\u012bnarjeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0646\u0628\u0631\u062c\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Q\u012bnarjeh",
+        "\u0642\u06cc\u0646\u0631\u062c\u0647"
+    ],
+    "name:und_x_variant":[
+        "Qanbarjeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":26585
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ce8365990b4ef80b7fe13765e1c9ea9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720429,
+            "locality_id":1293501109,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1293501109,
+    "wof:lastmodified":1537641405,
+    "wof:name":"Qinarjeh",
+    "wof:parent_id":1108720429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.6548,
+    36.88819,
+    46.6548,
+    36.88819
+],
+  "geometry": {"coordinates":[46.6548,36.88819],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243167377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.8197,37.45325,48.8197,37.45325",
+    "geom:latitude":37.45325,
+    "geom:longitude":48.8197,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Razastan",
+    "gn:country_code":"IR",
+    "gn:dem":1568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11014200,
+    "gn:latitude":37.45325,
+    "gn:longitude":48.8197,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Raz\u0101st\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u0632\u0627\u0633\u062a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Raz\u0101st\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11014200
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dd8add66787b0a786eb9ba189cf6c6ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720353,
+            "locality_id":1243167377,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1243167377,
+    "wof:lastmodified":1537648691,
+    "wof:name":"Razastan",
+    "wof:parent_id":1108720353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.8197,
+    37.45325,
+    48.8197,
+    37.45325
+],
+  "geometry": {"coordinates":[48.8197,37.45325],"type":"Point"}
+}

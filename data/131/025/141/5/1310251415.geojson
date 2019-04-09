@@ -1,0 +1,74 @@
+{
+  "id": 1310251415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.5431,29.4741,55.5431,29.4741",
+    "geom:latitude":29.4741,
+    "geom:longitude":55.5431,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Firuzeh",
+    "gn:country_code":"IR",
+    "gn:dem":1707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":134474,
+    "gn:latitude":29.4741,
+    "gn:longitude":55.5431,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"F\u012br\u016bzeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0641\u06cc\u0631\u0648\u0632\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Tolombeh-ye F\u012br\u016bzeh",
+        "F\u012br\u016bzeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":134474
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7980ec8dd83b3260972441d081e7fc49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720461,
+            "locality_id":1310251415,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1310251415,
+    "wof:lastmodified":1537645274,
+    "wof:name":"Firuzeh",
+    "wof:parent_id":1108720461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.5431,
+    29.4741,
+    55.5431,
+    29.4741
+],
+  "geometry": {"coordinates":[55.5431,29.4741],"type":"Point"}
+}

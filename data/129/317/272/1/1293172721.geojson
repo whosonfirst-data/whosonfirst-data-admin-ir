@@ -1,0 +1,76 @@
+{
+  "id": 1293172721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.148,35.3743,46.148,35.3743",
+    "geom:latitude":35.3743,
+    "geom:longitude":46.148,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Dezli",
+    "gn:country_code":"IR",
+    "gn:dem":1386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":136244,
+    "gn:latitude":35.3743,
+    "gn:longitude":46.148,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Dezl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0632\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Dezl\u012b"
+    ],
+    "name:und_x_variant":[
+        "Dizleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":136244
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e3f0afaa31c867758bbcfd67b1e65581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720403,
+            "locality_id":1293172721,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1293172721,
+    "wof:lastmodified":1537645454,
+    "wof:name":"Dezli",
+    "wof:parent_id":1108720403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.148,
+    35.3743,
+    46.148,
+    35.3743
+],
+  "geometry": {"coordinates":[46.148,35.3743],"type":"Point"}
+}

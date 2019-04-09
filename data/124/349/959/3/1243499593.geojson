@@ -1,0 +1,80 @@
+{
+  "id": 1243499593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.00215,37.43227,48.00215,37.43227",
+    "geom:latitude":37.43227,
+    "geom:longitude":48.00215,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Baranqar",
+    "gn:country_code":"IR",
+    "gn:dem":1639,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2233,
+    "gn:latitude":37.43227,
+    "gn:longitude":48.00215,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Bar\u0101nq\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06cc\u0627\u0631\u0627\u0646 \u0642\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Bar\u0101nq\u0101r",
+        "Y\u0101r\u0101n Q\u0101r",
+        "\u0628\u0631\u0627\u0646\u0642\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "B\u0101r\u0101nq\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2233,
+        "wk:page":"Baranqar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7b4a5a0dc9f74b1cb3993401b51ca7d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720247,
+            "locality_id":1243499593,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1243499593,
+    "wof:lastmodified":1537640213,
+    "wof:name":"Baranqar",
+    "wof:parent_id":1108720247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.00215,
+    37.43227,
+    48.00215,
+    37.43227
+],
+  "geometry": {"coordinates":[48.00215,37.43227],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226800941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.33631,37.94014,55.33631,37.94014",
+    "geom:latitude":37.94014,
+    "geom:longitude":55.33631,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Qorban Qelich",
+    "gn:country_code":"IR",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":39963,
+    "gn:latitude":37.94014,
+    "gn:longitude":55.33631,
+    "gn:modification_date":"2015-01-06",
+    "gn:name":"Qorb\u0101n Qel\u012bch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Qorb\u0101n Qel\u012bch"
+    ],
+    "name:fas_x_variant":[
+        "\u0642\u0631\u0628\u0627\u0646 \u0642\u0644\u064a\u0686",
+        "\u0642\u0631\u0628\u0627\u0646 \u0642\u0644\u064a\u0686 \u0645\u0644\u0644"
+    ],
+    "name:und_x_variant":[
+        "\u0642\u0631\u0628\u0627\u0646 \u0642\u0644\u064a\u0686",
+        "Qorb\u0101n Qel\u012bch-e Melal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":39963
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e2e10abc969277aa1e742bdf8cc25f71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720039,
+            "locality_id":1226800941,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1226800941,
+    "wof:lastmodified":1537642239,
+    "wof:name":"Qorban Qelich",
+    "wof:parent_id":1108720039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.33631,
+    37.94014,
+    55.33631,
+    37.94014
+],
+  "geometry": {"coordinates":[55.33631,37.94014],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327418611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.9188,37.7845,48.9188,37.7845",
+    "geom:latitude":37.7845,
+    "geom:longitude":48.9188,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Torsh Abuzad",
+    "gn:country_code":"IR",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6743610,
+    "gn:latitude":37.7845,
+    "gn:longitude":48.9188,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Torsh Ab\u016bzad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0634 \u0627\u0628\u0648\u0632\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Torsh Ab\u016bzad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6743610
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ded3f1bb04a4a8d8a98f45011ac0e23f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720487,
+            "locality_id":1327418611,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1327418611,
+    "wof:lastmodified":1537647594,
+    "wof:name":"Torsh Abuzad",
+    "wof:parent_id":1108720487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.9188,
+    37.7845,
+    48.9188,
+    37.7845
+],
+  "geometry": {"coordinates":[48.9188,37.7845],"type":"Point"}
+}

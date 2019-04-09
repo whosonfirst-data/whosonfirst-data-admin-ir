@@ -1,0 +1,80 @@
+{
+  "id": 1326777191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.3702,29.3295,56.3702,29.3295",
+    "geom:latitude":29.3295,
+    "geom:longitude":56.3702,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Banaabad-e Pa'in",
+    "gn:country_code":"IR",
+    "gn:dem":2334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":140281,
+    "gn:latitude":29.3295,
+    "gn:longitude":56.3702,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ban\u0101\u0101b\u0101d-e P\u0101\u2019\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Baneh\u0101b\u0101d-e B\u0101l\u0101"
+    ],
+    "name:fas_x_variant":[
+        "Ban\u0101\u0101b\u0101d-e P\u0101\u2019\u012bn",
+        "\u0628\u0646\u0627 \u0622\u0628\u0627\u062f \u067e\u0627\u0626\u06cc\u0646"
+    ],
+    "name:und_x_variant":[
+        "Boneh\u0101b\u0101d-e Sofl\u00e1",
+        "Boneh\u0101b\u0101d-e P\u0101\u2019\u012bn",
+        "Ban\u0101\u0101b\u0101d Sofl\u00e1",
+        "\u0628\u0646\u0627 \u0622\u0628\u0627\u062f \u067e\u0627\u0626\u06cc\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140281
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"328adef0ff0c328c94cd7da9f8f1c3c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719851,
+            "locality_id":1326777191,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1326777191,
+    "wof:lastmodified":1537645861,
+    "wof:name":"Banaabad-e Pa'in",
+    "wof:parent_id":1108719851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.3702,
+    29.3295,
+    56.3702,
+    29.3295
+],
+  "geometry": {"coordinates":[56.3702,29.3295],"type":"Point"}
+}

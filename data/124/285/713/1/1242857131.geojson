@@ -1,0 +1,77 @@
+{
+  "id": 1242857131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.83855,30.90086,49.83855,30.90086",
+    "geom:latitude":30.90086,
+    "geom:longitude":49.83855,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Qaryeh-ye Vali",
+    "gn:country_code":"IR",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":45824,
+    "gn:latitude":30.90086,
+    "gn:longitude":49.83855,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Qaryeh-ye Val\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u06cc\u0647 \u0648\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Deh Val\u012b",
+        "Qaryeh-ye Val\u012b"
+    ],
+    "name:und_x_variant":[
+        "Far\u012bdval\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":45824
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4a912fae1fa33ef2871a997d8d21ce21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720285,
+            "locality_id":1242857131,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1242857131,
+    "wof:lastmodified":1537642574,
+    "wof:name":"Qaryeh-ye Vali",
+    "wof:parent_id":1108720285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.83855,
+    30.90086,
+    49.83855,
+    30.90086
+],
+  "geometry": {"coordinates":[49.83855,30.90086],"type":"Point"}
+}

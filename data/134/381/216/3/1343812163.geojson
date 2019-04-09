@@ -1,0 +1,73 @@
+{
+  "id": 1343812163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.1854,39.023,47.1854,39.023",
+    "geom:latitude":39.023,
+    "geom:longitude":47.1854,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Khan Kandi",
+    "gn:country_code":"IR",
+    "gn:dem":1086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":17385,
+    "gn:latitude":39.023,
+    "gn:longitude":47.1854,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kh\u0101n Kand\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0627\u0646 \u0643\u0646\u062f\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Kh\u0101n Kand\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":17385
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d43382a885ed13002e01c940ed07aa4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720097,
+            "locality_id":1343812163,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1343812163,
+    "wof:lastmodified":1537640948,
+    "wof:name":"Khan Kandi",
+    "wof:parent_id":1108720097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.1854,
+    39.023,
+    47.1854,
+    39.023
+],
+  "geometry": {"coordinates":[47.1854,39.023],"type":"Point"}
+}

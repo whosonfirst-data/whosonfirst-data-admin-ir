@@ -1,0 +1,75 @@
+{
+  "id": 1260038299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.26312,29.86296,50.26312,29.86296",
+    "geom:latitude":29.86296,
+    "geom:longitude":50.26312,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Hisar",
+    "gn:country_code":"IR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":131505,
+    "gn:latitude":29.86296,
+    "gn:longitude":50.26312,
+    "gn:modification_date":"2018-05-30",
+    "gn:name":"Hisar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0635\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28a\u015f\u0101r",
+        "\u1e28e\u015f\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108719967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":131505,
+        "wk:page":"Hesar,_Bushehr"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"362faac965f14cb5dc6ead5342e82d2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719967,
+            "locality_id":1260038299,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1260038299,
+    "wof:lastmodified":1537644974,
+    "wof:name":"Hisar",
+    "wof:parent_id":1108719967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.26312,
+    29.86296,
+    50.26312,
+    29.86296
+],
+  "geometry": {"coordinates":[50.26312,29.86296],"type":"Point"}
+}

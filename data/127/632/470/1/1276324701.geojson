@@ -1,0 +1,74 @@
+{
+  "id": 1276324701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.28261,30.71706,53.28261,30.71706",
+    "geom:latitude":30.71706,
+    "geom:longitude":53.28261,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Gushti",
+    "gn:country_code":"IR",
+    "gn:dem":2363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":132522,
+    "gn:latitude":30.71706,
+    "gn:longitude":53.28261,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"G\u016bsht\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "G\u016bsht\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u0648\u0634\u062a\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":132522,
+        "wk:page":"Gushti"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0ccef7bece4c446afc829ceea315c42c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720147,
+            "locality_id":1276324701,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1276324701,
+    "wof:lastmodified":1537645075,
+    "wof:name":"Gushti",
+    "wof:parent_id":1108720147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.28261,
+    30.71706,
+    53.28261,
+    30.71706
+],
+  "geometry": {"coordinates":[53.28261,30.71706],"type":"Point"}
+}

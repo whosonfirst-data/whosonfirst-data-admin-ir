@@ -1,0 +1,73 @@
+{
+  "id": 1327053691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.5609,31.1426,61.5609,31.1426",
+    "geom:latitude":31.1426,
+    "geom:longitude":61.5609,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Barichi",
+    "gn:country_code":"IR",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6651300,
+    "gn:latitude":31.1426,
+    "gn:longitude":61.5609,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Bar\u012bch\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u06cc\u0686\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Bar\u012bch\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6651300
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1bbd2bd0e62fd83627f898e11d16f9bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720513,
+            "locality_id":1327053691,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1327053691,
+    "wof:lastmodified":1537647207,
+    "wof:name":"Barichi",
+    "wof:parent_id":1108720513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.5609,
+    31.1426,
+    61.5609,
+    31.1426
+],
+  "geometry": {"coordinates":[61.5609,31.1426],"type":"Point"}
+}

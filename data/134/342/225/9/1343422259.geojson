@@ -1,0 +1,67 @@
+{
+  "id": 1343422259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.05,33.85,51.05,33.85",
+    "geom:latitude":33.85,
+    "geom:longitude":51.05,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ebijak",
+    "gn:country_code":"IR",
+    "gn:dem":2282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9008,
+    "gn:latitude":33.85,
+    "gn:longitude":51.05,
+    "gn:modification_date":"1998-09-18",
+    "gn:name":"Eb\u012bjak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9008
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"79c7af12fa84a495a0e27fc379d9bdd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720109,
+            "locality_id":1343422259,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1343422259,
+    "wof:lastmodified":1536801552,
+    "wof:name":"Ebijak",
+    "wof:parent_id":1108720109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.05,
+    33.85,
+    51.05,
+    33.85
+],
+  "geometry": {"coordinates":[51.05,33.85],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1242765557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.6018,27.8299,56.6018,27.8299",
+    "geom:latitude":27.8299,
+    "geom:longitude":56.6018,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Abshur",
+    "gn:country_code":"IR",
+    "gn:dem":1139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":142743,
+    "gn:latitude":27.8299,
+    "gn:longitude":56.6018,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u0100bsh\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0634\u0648\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u0628\u0634\u0648\u0631",
+        "\u0100sh\u016br",
+        "\u0100bsh\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108719863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":142743
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"826f31aefba82c5d4d16ead835fdd82c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719863,
+            "locality_id":1242765557,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1242765557,
+    "wof:lastmodified":1537646103,
+    "wof:name":"Abshur",
+    "wof:parent_id":1108719863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.6018,
+    27.8299,
+    56.6018,
+    27.8299
+],
+  "geometry": {"coordinates":[56.6018,27.8299],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343233997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.47377,36.48801,47.47377,36.48801",
+    "geom:latitude":36.48801,
+    "geom:longitude":47.47377,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Shahrak-e Halab",
+    "gn:country_code":"IR",
+    "gn:dem":1978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11403752,
+    "gn:latitude":36.48801,
+    "gn:longitude":47.47377,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Shahrak-e \u1e28alab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u06a9 \u062d\u0644\u0628"
+    ],
+    "name:und_x_variant":[
+        "Shahrak-e \u1e28alab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672361,
+        1108720201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11403752
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e0ac83945cb8cb8693d09fd2ecdf9e86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720201,
+            "locality_id":1343233997,
+            "region_id":85672361
+        }
+    ],
+    "wof:id":1343233997,
+    "wof:lastmodified":1537648774,
+    "wof:name":"Shahrak-e Halab",
+    "wof:parent_id":1108720201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.47377,
+    36.48801,
+    47.47377,
+    36.48801
+],
+  "geometry": {"coordinates":[47.47377,36.48801],"type":"Point"}
+}

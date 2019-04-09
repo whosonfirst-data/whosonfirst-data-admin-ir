@@ -1,0 +1,78 @@
+{
+  "id": 1292989447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.36716,32.57559,47.36716,32.57559",
+    "geom:latitude":32.57559,
+    "geom:longitude":47.36716,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Marzabad",
+    "gn:country_code":"IR",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":9381,
+    "gn:latitude":32.57559,
+    "gn:longitude":47.36716,
+    "gn:modification_date":"2018-07-10",
+    "gn:name":"Marz\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Marz\u0101b\u0101d"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0631\u0632 \u0622\u0628\u0627\u062f",
+        "\u0643\u0650\u0634\u0627\u0648\u064e\u0631\u0632\u0626 \u0645\u064e\u0631\u0632 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Kesh\u0101varz\u012b-ye Marz\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108719957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9381,
+        "wk:page":"Marzabad,_Ilam"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"26a555add773d601813a287e21bc8f39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719957,
+            "locality_id":1292989447,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1292989447,
+    "wof:lastmodified":1537640476,
+    "wof:name":"Marzabad",
+    "wof:parent_id":1108719957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.36716,
+    32.57559000000001,
+    47.36716,
+    32.57559000000001
+],
+  "geometry": {"coordinates":[47.36716,32.57559000000001],"type":"Point"}
+}

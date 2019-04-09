@@ -1,0 +1,73 @@
+{
+  "id": 1242891937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.4,31.51667,50.4,31.51667",
+    "geom:latitude":31.51667,
+    "geom:longitude":50.4,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Barz Shovar",
+    "gn:country_code":"IR",
+    "gn:dem":961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":69029,
+    "gn:latitude":31.51667,
+    "gn:longitude":50.4,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"B\u0101rz Shov\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0631\u0632 \u0634\u064f\u0648\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "B\u0101rz Shov\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672319,
+        1108720189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":69029
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4031d0c67f65b404120eb5faf8ff7bf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720189,
+            "locality_id":1242891937,
+            "region_id":85672319
+        }
+    ],
+    "wof:id":1242891937,
+    "wof:lastmodified":1537642898,
+    "wof:name":"Barz Shovar",
+    "wof:parent_id":1108720189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.4,
+    31.51667,
+    50.4,
+    31.51667
+],
+  "geometry": {"coordinates":[50.4,31.51667],"type":"Point"}
+}

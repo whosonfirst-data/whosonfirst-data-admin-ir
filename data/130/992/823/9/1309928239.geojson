@@ -1,0 +1,80 @@
+{
+  "id": 1309928239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.08333,30.35,51.08333,30.35",
+    "geom:latitude":30.35,
+    "geom:longitude":51.08333,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Huravak",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":130912,
+    "gn:latitude":30.35,
+    "gn:longitude":51.08333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"H\u016bravak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0631\u064e\u0648\u064e\u0643"
+    ],
+    "name:fas_x_variant":[
+        "\u062d\u064f\u0631\u064f\u0648\u064e\u0643",
+        "\u0647\u064f\u0648\u0631\u0648\u064e\u0643",
+        "H\u016bravak"
+    ],
+    "name:und_x_variant":[
+        "Howrvak",
+        "\u1e28orovak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":130912
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"336c7a697b925ab9c4a86b62b0fb1eb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720015,
+            "locality_id":1309928239,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1309928239,
+    "wof:lastmodified":1537644912,
+    "wof:name":"Huravak",
+    "wof:parent_id":1108720015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.08333,
+    30.35,
+    51.08333,
+    30.35
+],
+  "geometry": {"coordinates":[51.08333,30.35],"type":"Point"}
+}

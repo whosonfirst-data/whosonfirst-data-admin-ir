@@ -1,0 +1,73 @@
+{
+  "id": 1343908869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.7078,32.792,52.7078,32.792",
+    "geom:latitude":32.792,
+    "geom:longitude":52.7078,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Mehrabad",
+    "gn:country_code":"IR",
+    "gn:dem":2306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":124312,
+    "gn:latitude":32.792,
+    "gn:longitude":52.7078,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mehr\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0647\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Mehr\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108719977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":124312
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"881a788b5bb2db34951b4356f79bbf04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719977,
+            "locality_id":1343908869,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1343908869,
+    "wof:lastmodified":1537644240,
+    "wof:name":"Mehrabad",
+    "wof:parent_id":1108719977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.7078,
+    32.792,
+    52.7078,
+    32.792
+],
+  "geometry": {"coordinates":[52.7078,32.792],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209712155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.6165,28.3008,52.6165,28.3008",
+    "geom:latitude":28.3008,
+    "geom:longitude":52.6165,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Tang-e Kish",
+    "gn:country_code":"IR",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":113319,
+    "gn:latitude":28.3008,
+    "gn:longitude":52.6165,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Tang-e K\u012bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0646\u06af \u06a9\u06cc\u0634"
+    ],
+    "name:fas_x_variant":[
+        "Tang-e K\u012bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":113319,
+        "wk:page":"Tang-e_Kish"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"04cec63f3e12aa6e17d1b6685cc5c93a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720319,
+            "locality_id":1209712155,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1209712155,
+    "wof:lastmodified":1537643179,
+    "wof:name":"Tang-e Kish",
+    "wof:parent_id":1108720319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.6165,
+    28.3008,
+    52.6165,
+    28.3008
+],
+  "geometry": {"coordinates":[52.6165,28.3008],"type":"Point"}
+}

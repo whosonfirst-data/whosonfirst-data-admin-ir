@@ -1,0 +1,77 @@
+{
+  "id": 1327002803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.95829,31.55141,49.95829,31.55141",
+    "geom:latitude":31.55141,
+    "geom:longitude":49.95829,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Lalab",
+    "gn:country_code":"IR",
+    "gn:dem":866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":125966,
+    "gn:latitude":31.55141,
+    "gn:longitude":49.95829,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"L\u0101lab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "L\u0101lab"
+    ],
+    "name:fas_x_variant":[
+        "\u0644\u0627\u0644\u0628"
+    ],
+    "name:und_x_variant":[
+        "L\u0101lob",
+        "\u0644\u0627\u0644\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":125966
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"99325fdcee8ce092d52b84f05a18cf52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719853,
+            "locality_id":1327002803,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1327002803,
+    "wof:lastmodified":1537644402,
+    "wof:name":"Lalab",
+    "wof:parent_id":1108719853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.95829000000001,
+    31.55141,
+    49.95829000000001,
+    31.55141
+],
+  "geometry": {"coordinates":[49.95829000000001,31.55141],"type":"Point"}
+}

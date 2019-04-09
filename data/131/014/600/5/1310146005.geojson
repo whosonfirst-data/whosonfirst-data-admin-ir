@@ -1,0 +1,73 @@
+{
+  "id": 1310146005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.87135,36.55227,51.87135,36.55227",
+    "geom:latitude":36.55227,
+    "geom:longitude":51.87135,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Pasha Kola",
+    "gn:country_code":"IR",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8655,
+    "gn:latitude":36.55227,
+    "gn:longitude":51.87135,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"P\u0101sh\u0101 Kol\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0634\u0627 \u0643\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "P\u0101sh\u0101 Kol\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8655
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5035492b86225f0dec0a40dcac52c36a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720281,
+            "locality_id":1310146005,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1310146005,
+    "wof:lastmodified":1537640445,
+    "wof:name":"Pasha Kola",
+    "wof:parent_id":1108720281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.87135,
+    36.55227,
+    51.87135,
+    36.55227
+],
+  "geometry": {"coordinates":[51.87135,36.55227],"type":"Point"}
+}

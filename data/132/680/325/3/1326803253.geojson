@@ -1,0 +1,77 @@
+{
+  "id": 1326803253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.50727,31.95867,48.50727,31.95867",
+    "geom:latitude":31.95867,
+    "geom:longitude":48.50727,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Seyyed Ahmad",
+    "gn:country_code":"IR",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6649442,
+    "gn:latitude":31.95867,
+    "gn:longitude":48.50727,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Seyyed A\u1e29mad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0642\u0632\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Qaz\u012b",
+        "\u0633\u06cc\u062f \u0627\u062d\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "Seyyed A\u1e29mad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6649442
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f98a2706c2466e71707c2a031d9873cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720455,
+            "locality_id":1326803253,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1326803253,
+    "wof:lastmodified":1537647186,
+    "wof:name":"Seyyed Ahmad",
+    "wof:parent_id":1108720455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.50727,
+    31.95867,
+    48.50727,
+    31.95867
+],
+  "geometry": {"coordinates":[48.50727,31.95867],"type":"Point"}
+}

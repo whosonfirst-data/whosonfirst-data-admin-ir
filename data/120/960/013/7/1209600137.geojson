@@ -1,0 +1,73 @@
+{
+  "id": 1209600137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.2031,36.76635,50.2031,36.76635",
+    "geom:latitude":36.76635,
+    "geom:longitude":50.2031,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ra'isan",
+    "gn:country_code":"IR",
+    "gn:dem":1578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7621921,
+    "gn:latitude":36.76635,
+    "gn:longitude":50.2031,
+    "gn:modification_date":"2018-06-15",
+    "gn:name":"Ra\u2019\u012bsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "R\u012bsan"
+    ],
+    "name:fas_x_variant":[
+        "\u0631\u06cc\u0633\u0646",
+        "\u0631\u0626\u06cc\u0633\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0631\u06cc\u0633\u0646",
+        "Ra\u2019\u012bsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7621921,
+        "wk:page":"Risan,_Iran"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1045f1a3cc27ce7a319389e1b6bf8e12",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209600137
+        }
+    ],
+    "wof:id":1209600137,
+    "wof:lastmodified":1537648426,
+    "wof:name":"Ra'isan",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.2031,
+    36.76635,
+    50.2031,
+    36.76635
+],
+  "geometry": {"coordinates":[50.2031,36.76635],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226487553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.1675,39.02,47.1675,39.02",
+    "geom:latitude":39.02,
+    "geom:longitude":47.1675,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Pir Kuri",
+    "gn:country_code":"IR",
+    "gn:dem":1186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":17438,
+    "gn:latitude":39.02,
+    "gn:longitude":47.1675,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"P\u012br K\u016br\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u064a\u0631\u06af\u0648\u0631\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u064a\u0631\u06a9\u0648\u0631\u06cc",
+        "P\u012brg\u016br\u012b",
+        "P\u012br K\u016br\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":17438
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ec4f723dc450fef30a9ba2b997560f3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720097,
+            "locality_id":1226487553,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1226487553,
+    "wof:lastmodified":1537640953,
+    "wof:name":"Pir Kuri",
+    "wof:parent_id":1108720097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.1675,
+    39.02,
+    47.1675,
+    39.02
+],
+  "geometry": {"coordinates":[47.1675,39.02],"type":"Point"}
+}

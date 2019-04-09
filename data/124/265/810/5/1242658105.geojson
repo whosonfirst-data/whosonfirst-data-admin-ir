@@ -1,0 +1,79 @@
+{
+  "id": 1242658105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.79391,25.66103,57.79391,25.66103",
+    "geom:latitude":25.66103,
+    "geom:longitude":57.79391,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Turan",
+    "gn:country_code":"IR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":125564,
+    "gn:latitude":25.66103,
+    "gn:longitude":57.79391,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"T\u016br\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0631\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "L\u016br\u0101n",
+        "T\u016br\u0101n"
+    ],
+    "name:und_x_variant":[
+        "T\u016br\u0101n",
+        "Lor\u0101n",
+        "Looran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":125564
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7e2b230ac5093a0e643262cf98a01451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720077,
+            "locality_id":1242658105,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1242658105,
+    "wof:lastmodified":1537644361,
+    "wof:name":"Turan",
+    "wof:parent_id":1108720077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.79391,
+    25.66103,
+    57.79391,
+    25.66103
+],
+  "geometry": {"coordinates":[57.79391,25.66103],"type":"Point"}
+}

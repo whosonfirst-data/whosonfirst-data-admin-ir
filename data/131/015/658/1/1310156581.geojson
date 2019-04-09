@@ -1,0 +1,67 @@
+{
+  "id": 1310156581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.51667,32.43333,51.51667,32.43333",
+    "geom:latitude":32.43333,
+    "geom:longitude":51.51667,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Yanhar",
+    "gn:country_code":"IR",
+    "gn:dem":1762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":418434,
+    "gn:latitude":32.43333,
+    "gn:longitude":51.51667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yanhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":418434
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"378932fc7db5d99826e866e9e786b5d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720249,
+            "locality_id":1310156581,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1310156581,
+    "wof:lastmodified":1536923696,
+    "wof:name":"Yanhar",
+    "wof:parent_id":1108720249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.51667,
+    32.43333,
+    51.51667,
+    32.43333
+],
+  "geometry": {"coordinates":[51.51667,32.43333],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1226790021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.37583,34.91924,50.37583,34.91924",
+    "geom:latitude":34.91924,
+    "geom:longitude":50.37583,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Dalestan",
+    "gn:country_code":"IR",
+    "gn:dem":984,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":22115,
+    "gn:latitude":34.91924,
+    "gn:longitude":50.37583,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"D\u0101lest\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "D\u0101lest\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0627\u0644\u0633\u062a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u062f\u0627\u0644\u0633\u062a\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":22115,
+        "wk:page":"Dalestan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2ad55f47ab3f6c759f4035a821bb1286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720407,
+            "locality_id":1226790021,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1226790021,
+    "wof:lastmodified":1537641109,
+    "wof:name":"Dalestan",
+    "wof:parent_id":1108720407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.37583,
+    34.91924,
+    50.37583,
+    34.91924
+],
+  "geometry": {"coordinates":[50.37583,34.91924],"type":"Point"}
+}

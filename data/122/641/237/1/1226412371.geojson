@@ -1,0 +1,76 @@
+{
+  "id": 1226412371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.82196,31.77922,48.82196,31.77922",
+    "geom:latitude":31.77922,
+    "geom:longitude":48.82196,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"`Abdoli",
+    "gn:country_code":"IR",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":145198,
+    "gn:latitude":31.77922,
+    "gn:longitude":48.82196,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"\u2018Abdol\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0639\u0628\u062f\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u2018Abdol\u012b"
+    ],
+    "name:und_x_variant":[
+        "\u2018Abdel\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145198
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"94b423414fe5a9baeae186183eafd636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720457,
+            "locality_id":1226412371,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1226412371,
+    "wof:lastmodified":1537646342,
+    "wof:name":"`Abdoli",
+    "wof:parent_id":1108720457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.82196,
+    31.77922,
+    48.82196,
+    31.77922
+],
+  "geometry": {"coordinates":[48.82196,31.77922],"type":"Point"}
+}

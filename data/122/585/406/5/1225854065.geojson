@@ -1,0 +1,78 @@
+{
+  "id": 1225854065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.9071,39.309,44.9071,39.309",
+    "geom:latitude":39.309,
+    "geom:longitude":44.9071,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"`Eshqabad",
+    "gn:country_code":"IR",
+    "gn:dem":866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":401265,
+    "gn:latitude":39.309,
+    "gn:longitude":44.9071,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Eshq\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0650\u0633\u0645\u0627\u0639\u064a\u0644 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0639\u0634\u0642 \u0622\u0628\u0627\u062f",
+        "\u2018Eshq\u0101b\u0101d",
+        "\u0639\u0650\u0634\u0642 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Esm\u0101\u2018\u012bl\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401265
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"362633e899d3726e72b944cbc411177d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720203,
+            "locality_id":1225854065,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1225854065,
+    "wof:lastmodified":1537646525,
+    "wof:name":"`Eshqabad",
+    "wof:parent_id":1108720203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.9071,
+    39.309,
+    44.9071,
+    39.309
+],
+  "geometry": {"coordinates":[44.9071,39.309],"type":"Point"}
+}

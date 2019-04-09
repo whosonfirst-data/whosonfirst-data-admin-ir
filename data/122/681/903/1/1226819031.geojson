@@ -1,0 +1,78 @@
+{
+  "id": 1226819031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.2851,31.35767,48.2851,31.35767",
+    "geom:latitude":31.35767,
+    "geom:longitude":48.2851,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Harba'iyeh",
+    "gn:country_code":"IR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":42494,
+    "gn:latitude":31.35767,
+    "gn:longitude":48.2851,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"\u1e28arb\u0101\u2019\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u1e28ay\u0101n\u012byeh-ye Sharq\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u062d\u0631\u0628\u0627\u0626\u06cc\u0647",
+        "\u062d\u0631\u0628\u0627\u0628\u0647 \u0634\u0644\u0627\u06af\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u1e28arb\u0101\u2019\u012byeh",
+        "\u1e28arb\u0101beh-ye Shal\u0101geh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":42494
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"37e4bf09751cadaf36405fa9a52941c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719949,
+            "locality_id":1226819031,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1226819031,
+    "wof:lastmodified":1537642410,
+    "wof:name":"Harba'iyeh",
+    "wof:parent_id":1108719949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.2851,
+    31.35767,
+    48.2851,
+    31.35767
+],
+  "geometry": {"coordinates":[48.2851,31.35767],"type":"Point"}
+}

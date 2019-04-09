@@ -1,0 +1,67 @@
+{
+  "id": 1209059711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.38915,36.45317,53.38915,36.45317",
+    "geom:latitude":36.45317,
+    "geom:longitude":53.38915,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Varmi",
+    "gn:country_code":"IR",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":112145,
+    "gn:latitude":36.45317,
+    "gn:longitude":53.38915,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"V\u0101rm\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0631\u0645\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "V\u0101rm\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112145
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0fa19e8baf7538d45340ba8bcf6fb675",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209059711
+        }
+    ],
+    "wof:id":1209059711,
+    "wof:lastmodified":1537643053,
+    "wof:name":"Varmi",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.38915,
+    36.45317,
+    53.38915,
+    36.45317
+],
+  "geometry": {"coordinates":[53.38915,36.45317],"type":"Point"}
+}

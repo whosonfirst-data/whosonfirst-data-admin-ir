@@ -1,0 +1,76 @@
+{
+  "id": 1260228023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.08139,33.40611,50.08139,33.40611",
+    "geom:latitude":33.40611,
+    "geom:longitude":50.08139,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Akhteh Khvan",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":2003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":144352,
+    "gn:latitude":33.40611,
+    "gn:longitude":50.08139,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Akhteh Khv\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Akhteh Khv\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Akhtekh\u0101n",
+        "Akhtav\u0101n",
+        "Akhtir\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":144352
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a8ad3f982e284fce3cab03549f7a55ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720033,
+            "locality_id":1260228023,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1260228023,
+    "wof:lastmodified":1537646261,
+    "wof:name":"Akhteh Khvan",
+    "wof:parent_id":1108720033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.08139,
+    33.40611,
+    50.08139,
+    33.40611
+],
+  "geometry": {"coordinates":[50.08139,33.40611],"type":"Point"}
+}

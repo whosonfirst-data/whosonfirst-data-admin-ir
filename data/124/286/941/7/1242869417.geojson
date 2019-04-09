@@ -1,0 +1,73 @@
+{
+  "id": 1242869417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.97297,37.31311,48.97297,37.31311",
+    "geom:latitude":37.31311,
+    "geom:longitude":48.97297,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tofang Saz",
+    "gn:country_code":"IR",
+    "gn:dem":1340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416581,
+    "gn:latitude":37.31311,
+    "gn:longitude":48.97297,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Tofang S\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0641\u0646\u06af \u0633\u0627\u0632"
+    ],
+    "name:fas_x_variant":[
+        "Tofang S\u0101z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416581
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"87cfcb4170ba1a8928ca028a1c91fbe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720013,
+            "locality_id":1242869417,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1242869417,
+    "wof:lastmodified":1537646655,
+    "wof:name":"Tofang Saz",
+    "wof:parent_id":1108720013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.97297,
+    37.31311,
+    48.97297,
+    37.31311
+],
+  "geometry": {"coordinates":[48.97297,37.31311],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344144833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.73083,27.78449,55.73083,27.78449",
+    "geom:latitude":27.78449,
+    "geom:longitude":55.73083,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Sheykh Mobarak",
+    "gn:country_code":"IR",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6981262,
+    "gn:latitude":27.78449,
+    "gn:longitude":55.73083,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Sheykh Mob\u0101rak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u062e \u0645\u0628\u0627\u0631\u0643"
+    ],
+    "name:fas_x_variant":[
+        "Sheykh Mob\u0101rak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108719863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6981262
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3d12d9853ad2b741b0d045fcfff92969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719863,
+            "locality_id":1344144833,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1344144833,
+    "wof:lastmodified":1537647828,
+    "wof:name":"Sheykh Mobarak",
+    "wof:parent_id":1108719863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.73083000000001,
+    27.78449,
+    55.73083000000001,
+    27.78449
+],
+  "geometry": {"coordinates":[55.73083000000001,27.78449],"type":"Point"}
+}

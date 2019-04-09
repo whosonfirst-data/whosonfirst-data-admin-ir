@@ -1,0 +1,74 @@
+{
+  "id": 1343702825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.27083,38.6375,46.27083,38.6375",
+    "geom:latitude":38.6375,
+    "geom:longitude":46.27083,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Qesmati",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388547,
+    "gn:latitude":38.6375,
+    "gn:longitude":46.27083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qesmat\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Qesmat\u012b"
+    ],
+    "name:und_x_variant":[
+        "Qeymati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388547
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b809e35e30bc07b054263bb3146f04f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720509,
+            "locality_id":1343702825,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1343702825,
+    "wof:lastmodified":1537646451,
+    "wof:name":"Qesmati",
+    "wof:parent_id":1108720509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.27083,
+    38.6375,
+    46.27083,
+    38.6375
+],
+  "geometry": {"coordinates":[46.27083,38.6375],"type":"Point"}
+}

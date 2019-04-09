@@ -1,0 +1,81 @@
+{
+  "id": 1259778683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.37833,37.24372,49.37833,37.24372",
+    "geom:latitude":37.24372,
+    "geom:longitude":49.37833,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Mahalleh-ye Khamsar",
+    "gn:country_code":"IR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":123450,
+    "gn:latitude":37.24372,
+    "gn:longitude":49.37833,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Ma\u1e29alleh-ye Khamsar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u062e \u0633\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u062d\u0644\u0647 \u062e\u0645\u0633\u0631"
+    ],
+    "name:und_x_variant":[
+        "Mokhsar",
+        "Mahser",
+        "Makhser",
+        "Makhsar",
+        "Ma\u1e29alleh-ye Khamsar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":123450,
+        "wk:page":"Makhsar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3a9644d929462f4aae3f02b4a84aa48e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720013,
+            "locality_id":1259778683,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1259778683,
+    "wof:lastmodified":1537644156,
+    "wof:name":"Mahalleh-ye Khamsar",
+    "wof:parent_id":1108720013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.37833,
+    37.24372,
+    49.37833,
+    37.24372
+],
+  "geometry": {"coordinates":[49.37833,37.24372],"type":"Point"}
+}

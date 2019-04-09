@@ -1,0 +1,77 @@
+{
+  "id": 1260008119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.99064,36.42512,57.99064,36.42512",
+    "geom:latitude":36.42512,
+    "geom:longitude":57.99064,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Khowshab",
+    "gn:country_code":"IR",
+    "gn:dem":1187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7197,
+    "gn:latitude":36.42512,
+    "gn:longitude":57.99064,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Khowsh\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Khowsh\u0101b"
+    ],
+    "name:fas_x_variant":[
+        "Kh\u016bsh\u0101b",
+        "\u062e\u0648\u0634\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u062e\u0648\u0634\u0627\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7197
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c242f563a41ce344533c0bd49de4c36c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720367,
+            "locality_id":1260008119,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1260008119,
+    "wof:lastmodified":1537640360,
+    "wof:name":"Khowshab",
+    "wof:parent_id":1108720367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.99064,
+    36.42512,
+    57.99064,
+    36.42512
+],
+  "geometry": {"coordinates":[57.99064,36.42512],"type":"Point"}
+}

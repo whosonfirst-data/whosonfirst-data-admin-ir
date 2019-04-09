@@ -1,0 +1,76 @@
+{
+  "id": 1209961901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.39918,38.94446,47.39918,38.94446",
+    "geom:latitude":38.94446,
+    "geom:longitude":47.39918,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Kargas",
+    "gn:country_code":"IR",
+    "gn:dem":1592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":13248,
+    "gn:latitude":38.94446,
+    "gn:longitude":47.39918,
+    "gn:modification_date":"2018-05-19",
+    "gn:name":"Kargas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u06af\u0633"
+    ],
+    "name:und_x_variant":[
+        "Kargasar",
+        "Karkas",
+        "Kargas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108719791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13248,
+        "wk:page":"Kargas"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"34b308f23cfc1232019dd8f280c2176c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719791,
+            "locality_id":1209961901,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1209961901,
+    "wof:lastmodified":1537640691,
+    "wof:name":"Kargas",
+    "wof:parent_id":1108719791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.39918,
+    38.94446,
+    47.39918,
+    38.94446
+],
+  "geometry": {"coordinates":[47.39918,38.94446],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1276876133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.275,39.3399,44.275,39.3399",
+    "geom:latitude":39.3399,
+    "geom:longitude":44.275,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Keshtar",
+    "gn:country_code":"IR",
+    "gn:dem":1644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":13979,
+    "gn:latitude":39.3399,
+    "gn:longitude":44.275,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kesht\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0650\u0634\u062a\u0627\u0632"
+    ],
+    "name:fas_x_variant":[
+        "Kesht\u0101r",
+        "Kesht\u0101z",
+        "\u06a9\u0634\u062a\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u06a9\u0634\u062a\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108719923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13979,
+        "wk:page":"Keshtaz"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"977820837d8511eb1293098a408e869b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719923,
+            "locality_id":1276876133,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1276876133,
+    "wof:lastmodified":1537640766,
+    "wof:name":"Keshtar",
+    "wof:parent_id":1108719923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.275,
+    39.3399,
+    44.275,
+    39.3399
+],
+  "geometry": {"coordinates":[44.275,39.3399],"type":"Point"}
+}

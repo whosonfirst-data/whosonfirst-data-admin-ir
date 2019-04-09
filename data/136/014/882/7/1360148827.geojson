@@ -1,0 +1,73 @@
+{
+  "id": 1360148827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.99402,35.1332,46.99402,35.1332",
+    "geom:latitude":35.1332,
+    "geom:longitude":46.99402,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mahalleh-ye Tazehabad",
+    "gn:country_code":"IR",
+    "gn:dem":1450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8376330,
+    "gn:latitude":35.1332,
+    "gn:longitude":46.99402,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Ma\u1e29alleh-ye T\u0101zeh\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u062d\u0644\u0647 \u062a\u0627\u0632\u0647 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29alleh-ye T\u0101zeh\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8376330
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"19615d128cde0e0a2587de4bd925d6df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720379,
+            "locality_id":1360148827,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1360148827,
+    "wof:lastmodified":1537648552,
+    "wof:name":"Mahalleh-ye Tazehabad",
+    "wof:parent_id":1108720379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.99402,
+    35.1332,
+    46.99402,
+    35.1332
+],
+  "geometry": {"coordinates":[46.99402,35.1332],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209700565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.9675,37.4496,48.9675,37.4496",
+    "geom:latitude":37.4496,
+    "geom:longitude":48.9675,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Khal Akhvar",
+    "gn:country_code":"IR",
+    "gn:dem":930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6741924,
+    "gn:latitude":37.4496,
+    "gn:longitude":48.9675,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kh\u0101l Akhv\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0627\u0644 \u0627\u062e\u0648\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Kh\u0101l Akhv\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6741924
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ce7ed2f6cba2345b4fb15d352858801c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720225,
+            "locality_id":1209700565,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1209700565,
+    "wof:lastmodified":1537647580,
+    "wof:name":"Khal Akhvar",
+    "wof:parent_id":1108720225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.9675,
+    37.4496,
+    48.9675,
+    37.4496
+],
+  "geometry": {"coordinates":[48.9675,37.4496],"type":"Point"}
+}

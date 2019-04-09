@@ -1,0 +1,73 @@
+{
+  "id": 1293768499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.98167,37.23556,48.98167,37.23556",
+    "geom:latitude":37.23556,
+    "geom:longitude":48.98167,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Titi Parga",
+    "gn:country_code":"IR",
+    "gn:dem":1572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":36911,
+    "gn:latitude":37.23556,
+    "gn:longitude":48.98167,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"T\u012bt\u012b P\u0101rg\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u064a\u062a\u06cc \u067e\u0627\u0631\u06af\u0627"
+    ],
+    "name:fas_x_variant":[
+        "T\u012bt\u012b P\u0101rg\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":36911
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f8b436a1563489ba682f705365aa6a4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720013,
+            "locality_id":1293768499,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1293768499,
+    "wof:lastmodified":1537642045,
+    "wof:name":"Titi Parga",
+    "wof:parent_id":1108720013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.98167,
+    37.23556,
+    48.98167,
+    37.23556
+],
+  "geometry": {"coordinates":[48.98167,37.23556],"type":"Point"}
+}

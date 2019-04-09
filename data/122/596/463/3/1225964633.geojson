@@ -1,0 +1,77 @@
+{
+  "id": 1225964633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.145,28.9619,54.145,28.9619",
+    "geom:latitude":28.9619,
+    "geom:longitude":54.145,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Soleymaniyeh",
+    "gn:country_code":"IR",
+    "gn:dem":1420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6927347,
+    "gn:latitude":28.9619,
+    "gn:longitude":54.145,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Soleym\u0101n\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0634\u06af\u0641\u062a \u0633\u06cc\u0627\u0647 \u0639\u0628\u0627\u0633 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Eshgaft S\u012b\u0101h-e \u2018Abb\u0101s\u0101b\u0101d",
+        "\u0633\u0644\u06cc\u0645\u0627\u0646\u06cc\u0647"
+    ],
+    "name:und_x_variant":[
+        "Soleym\u0101n\u012byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6927347
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"70f3cd83c0a86657d859d7c1216e69b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720003,
+            "locality_id":1225964633,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1225964633,
+    "wof:lastmodified":1537647749,
+    "wof:name":"Soleymaniyeh",
+    "wof:parent_id":1108720003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.145,
+    28.9619,
+    54.145,
+    28.9619
+],
+  "geometry": {"coordinates":[54.145,28.9619],"type":"Point"}
+}

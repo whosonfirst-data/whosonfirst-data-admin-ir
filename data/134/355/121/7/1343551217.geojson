@@ -1,0 +1,73 @@
+{
+  "id": 1343551217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.72871,36.89635,49.72871,36.89635",
+    "geom:latitude":36.89635,
+    "geom:longitude":49.72871,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Eshtanayeb",
+    "gn:country_code":"IR",
+    "gn:dem":2060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7432009,
+    "gn:latitude":36.89635,
+    "gn:longitude":49.72871,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Eshtanayeb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0634\u062a\u0646\u06cc\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u0627\u0634\u062a\u0646\u06cc\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7432009
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3f2e698f053680ef06e4fe0fcef784bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720361,
+            "locality_id":1343551217,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1343551217,
+    "wof:lastmodified":1537648204,
+    "wof:name":"Eshtanayeb",
+    "wof:parent_id":1108720361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.72871,
+    36.89635,
+    49.72871,
+    36.89635
+],
+  "geometry": {"coordinates":[49.72871,36.89635],"type":"Point"}
+}

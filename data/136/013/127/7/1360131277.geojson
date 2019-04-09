@@ -1,0 +1,73 @@
+{
+  "id": 1360131277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.5612,27.9462,57.5612,27.9462",
+    "geom:latitude":27.9462,
+    "geom:longitude":57.5612,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Chah Morid",
+    "gn:country_code":"IR",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6961588,
+    "gn:latitude":27.9462,
+    "gn:longitude":57.5612,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Ch\u0101h Mor\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0647 \u0645\u0631\u06cc\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Ch\u0101h Mor\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6961588
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"509fe3cd4147c0cbcb6969ceffbf368a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720091,
+            "locality_id":1360131277,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1360131277,
+    "wof:lastmodified":1537647780,
+    "wof:name":"Chah Morid",
+    "wof:parent_id":1108720091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.5612,
+    27.9462,
+    57.5612,
+    27.9462
+],
+  "geometry": {"coordinates":[57.5612,27.9462],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1225844863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.31568,28.29507,61.31568,28.29507",
+    "geom:latitude":28.29507,
+    "geom:longitude":61.31568,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Roknabad",
+    "gn:country_code":"IR",
+    "gn:dem":1381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":1113747,
+    "gn:latitude":28.29507,
+    "gn:longitude":61.31568,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Rokn\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u06a9\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Rokn\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1113747
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3bbf1840c858239d2ab4087bb8dcdda7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720131,
+            "locality_id":1225844863,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1225844863,
+    "wof:lastmodified":1537646871,
+    "wof:name":"Roknabad",
+    "wof:parent_id":1108720131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.31568000000001,
+    28.29507000000001,
+    61.31568000000001,
+    28.29507000000001
+],
+  "geometry": {"coordinates":[61.31568000000001,28.29507000000001],"type":"Point"}
+}

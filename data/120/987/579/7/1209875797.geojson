@@ -1,0 +1,77 @@
+{
+  "id": 1209875797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.1092,39.3872,48.1092,39.3872",
+    "geom:latitude":39.3872,
+    "geom:longitude":48.1092,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Hajj Baba Khan",
+    "gn:country_code":"IR",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":38251,
+    "gn:latitude":39.3872,
+    "gn:longitude":48.1092,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28\u0101jj B\u0101b\u0101 Kh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0627\u062c \u0628\u0627\u0628\u0627 \u062e\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u062d\u0627\u062c \u0628\u0627\u0628\u0627\u062e\u0627\u0646",
+        "\u1e28\u0101jj B\u0101b\u0101 Kh\u0101n"
+    ],
+    "name:und_x_variant":[
+        "\u1e28\u0101j B\u0101b\u0101kh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108719893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":38251
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f5f70f86ac996a0c52f450be548cabbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719893,
+            "locality_id":1209875797,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1209875797,
+    "wof:lastmodified":1537642167,
+    "wof:name":"Hajj Baba Khan",
+    "wof:parent_id":1108719893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.1092,
+    39.3872,
+    48.1092,
+    39.3872
+],
+  "geometry": {"coordinates":[48.1092,39.3872],"type":"Point"}
+}

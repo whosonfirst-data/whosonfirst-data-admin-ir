@@ -1,0 +1,76 @@
+{
+  "id": 1326634655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.58031,31.04013,50.58031,31.04013",
+    "geom:latitude":31.04013,
+    "geom:longitude":50.58031,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Sorkhun",
+    "gn:country_code":"IR",
+    "gn:dem":961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":14726,
+    "gn:latitude":31.04013,
+    "gn:longitude":50.58031,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sorkh\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sorkh\u016bn"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0631\u062e\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0633\u0631\u062e\u0648\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":14726
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"88e66dc4da550c02dba61110ed40ad72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1326634655,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1326634655,
+    "wof:lastmodified":1537640840,
+    "wof:name":"Sorkhun",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.58031,
+    31.04013,
+    50.58031,
+    31.04013
+],
+  "geometry": {"coordinates":[50.58031,31.04013],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243313653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.0415,28.57318,58.0415,28.57318",
+    "geom:latitude":28.57318,
+    "geom:longitude":58.0415,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Amirabad",
+    "gn:country_code":"IR",
+    "gn:dem":1257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9130213,
+    "gn:latitude":28.57318,
+    "gn:longitude":58.0415,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Am\u012br\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u064a\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Am\u012br\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9130213
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"786062c77bd85e38774022b4bd849b1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719809,
+            "locality_id":1243313653,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1243313653,
+    "wof:lastmodified":1537648639,
+    "wof:name":"Amirabad",
+    "wof:parent_id":1108719809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.0415,
+    28.57318,
+    58.0415,
+    28.57318
+],
+  "geometry": {"coordinates":[58.0415,28.57318],"type":"Point"}
+}

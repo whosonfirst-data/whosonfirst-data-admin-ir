@@ -1,0 +1,77 @@
+{
+  "id": 1259969807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.4285,36.90143,49.4285,36.90143",
+    "geom:latitude":36.90143,
+    "geom:longitude":49.4285,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Jowgin",
+    "gn:country_code":"IR",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":41306,
+    "gn:latitude":36.90143,
+    "gn:longitude":49.4285,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Jowg\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u0648\u06a9\u06cc\u0646"
+    ],
+    "name:fas_x_variant":[
+        "J\u016bk\u012bn",
+        "\u062c\u0648\u06af\u06cc\u0646"
+    ],
+    "name:und_x_variant":[
+        "Jowg\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":41306
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"62bb4114948d57fef654dd62ea402519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720361,
+            "locality_id":1259969807,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1259969807,
+    "wof:lastmodified":1537642331,
+    "wof:name":"Jowgin",
+    "wof:parent_id":1108720361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.4285,
+    36.90143,
+    49.4285,
+    36.90143
+],
+  "geometry": {"coordinates":[49.4285,36.90143],"type":"Point"}
+}

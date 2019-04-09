@@ -1,0 +1,73 @@
+{
+  "id": 1309762171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.2139,33.8555,48.2139,33.8555",
+    "geom:latitude":33.8555,
+    "geom:longitude":48.2139,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Musaabad",
+    "gn:country_code":"IR",
+    "gn:dem":1579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":32293,
+    "gn:latitude":33.8555,
+    "gn:longitude":48.2139,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"M\u016bs\u00e1\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0633\u06cc \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "M\u016bs\u00e1\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":32293
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6f54986751b10d845274f9f4e8865c0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720411,
+            "locality_id":1309762171,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1309762171,
+    "wof:lastmodified":1537641780,
+    "wof:name":"Musaabad",
+    "wof:parent_id":1108720411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.2139,
+    33.8555,
+    48.2139,
+    33.8555
+],
+  "geometry": {"coordinates":[48.2139,33.8555],"type":"Point"}
+}

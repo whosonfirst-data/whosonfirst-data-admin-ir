@@ -1,0 +1,75 @@
+{
+  "id": 1225989779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.7685,37.6716,47.7685,37.6716",
+    "geom:latitude":37.6716,
+    "geom:longitude":47.7685,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Zazen Kesh",
+    "gn:country_code":"IR",
+    "gn:dem":1792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":22199,
+    "gn:latitude":37.6716,
+    "gn:longitude":47.7685,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Zazen Kesh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u0632\u0646 \u06a9\u0634"
+    ],
+    "name:und_x_variant":[
+        "Zaren Kesh",
+        "Zazen Kesh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":22199,
+        "wk:page":"Zaren_Kesh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9501b82a17db1be7fdbbc143acfaaef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720247,
+            "locality_id":1225989779,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1225989779,
+    "wof:lastmodified":1537641116,
+    "wof:name":"Zazen Kesh",
+    "wof:parent_id":1108720247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.7685,
+    37.6716,
+    47.7685,
+    37.6716
+],
+  "geometry": {"coordinates":[47.7685,37.6716],"type":"Point"}
+}

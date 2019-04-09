@@ -1,0 +1,82 @@
+{
+  "id": 1209863191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.41282,31.64238,51.41282,31.64238",
+    "geom:latitude":31.64238,
+    "geom:longitude":51.41282,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Kezen-e Bala",
+    "gn:country_code":"IR",
+    "gn:dem":2211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402299,
+    "gn:latitude":31.64238,
+    "gn:longitude":51.41282,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kezen-e B\u0101l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Kezen-e B\u0101l\u0101"
+    ],
+    "name:fas_x_variant":[
+        "Najaf\u0101b\u0101d",
+        "Kezen B\u0101l\u0101",
+        "\u06a9\u0632\u0646 \u0628\u0627\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Gezen-e B\u0101l\u0101",
+        "Gazan",
+        "\u06a9\u0632\u0646 \u0628\u0627\u0644\u0627",
+        "Kezen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402299,
+        "wk:page":"Kezen"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7dd7be7ad48293ea63e6bb0be400cd0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720415,
+            "locality_id":1209863191,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1209863191,
+    "wof:lastmodified":1537646539,
+    "wof:name":"Kezen-e Bala",
+    "wof:parent_id":1108720415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.41282,
+    31.64238,
+    51.41282,
+    31.64238
+],
+  "geometry": {"coordinates":[51.41282,31.64238],"type":"Point"}
+}

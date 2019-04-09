@@ -1,0 +1,73 @@
+{
+  "id": 1243158289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.83351,34.53949,45.83351,34.53949",
+    "geom:latitude":34.53949,
+    "geom:longitude":45.83351,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Emam Hasan",
+    "gn:country_code":"IR",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":25565,
+    "gn:latitude":34.53949,
+    "gn:longitude":45.83351,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Em\u0101m \u1e28asan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0627\u0645 \u062d\u0633\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Em\u0101m \u1e28asan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":25565
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bbd55241d3ea6ba2103207ed10c9e54e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720383,
+            "locality_id":1243158289,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1243158289,
+    "wof:lastmodified":1537641339,
+    "wof:name":"Emam Hasan",
+    "wof:parent_id":1108720383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.83351,
+    34.53949,
+    45.83351,
+    34.53949
+],
+  "geometry": {"coordinates":[45.83351,34.53949],"type":"Point"}
+}

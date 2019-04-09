@@ -1,0 +1,75 @@
+{
+  "id": 1260034885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.25849,35.89635,53.25849,35.89635",
+    "geom:latitude":35.89635,
+    "geom:longitude":53.25849,
+    "gn:admin1_code":"25.0",
+    "gn:admin2_code":"Mahdishahr (undefined)",
+    "gn:asciiname":"Chashm",
+    "gn:country_code":"IR",
+    "gn:dem":2152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":403244,
+    "gn:latitude":35.89635,
+    "gn:longitude":53.25849,
+    "gn:modification_date":"2013-12-31",
+    "gn:name":"Ch\u0101shm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0634\u0645"
+    ],
+    "name:fas_x_variant":[
+        "Ch\u0101shm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672309,
+        1108720419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":403244,
+        "wk:page":"Chashm"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b68a7075c29f677ff2bfa1bd2b9da4ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720419,
+            "locality_id":1260034885,
+            "region_id":85672309
+        }
+    ],
+    "wof:id":1260034885,
+    "wof:lastmodified":1537646547,
+    "wof:name":"Chashm",
+    "wof:parent_id":1108720419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.25849,
+    35.89635,
+    53.25849,
+    35.89635
+],
+  "geometry": {"coordinates":[53.25849,35.89635],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293098705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.43333,25.76667,61.43333,25.76667",
+    "geom:latitude":25.76667,
+    "geom:longitude":61.43333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gabulani",
+    "gn:country_code":"IR",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1113434,
+    "gn:latitude":25.76667,
+    "gn:longitude":61.43333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Gab\u016bl\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Gab\u016bl\u0101n\u012b"
+    ],
+    "name:und_x_variant":[
+        "Ay\u016bb B\u0101z\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108719919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1113434
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"313d969235f6554078d8458b42a7fa76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719919,
+            "locality_id":1293098705,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1293098705,
+    "wof:lastmodified":1537646856,
+    "wof:name":"Gabulani",
+    "wof:parent_id":1108719919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.43333000000001,
+    25.76667,
+    61.43333000000001,
+    25.76667
+],
+  "geometry": {"coordinates":[61.43333000000001,25.76667],"type":"Point"}
+}

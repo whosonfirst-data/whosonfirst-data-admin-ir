@@ -1,0 +1,73 @@
+{
+  "id": 1360053227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.55,35.4,54.55,35.4",
+    "geom:latitude":35.4,
+    "geom:longitude":54.55,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"`Ali Shahabad",
+    "gn:country_code":"IR",
+    "gn:dem":1959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7091,
+    "gn:latitude":35.4,
+    "gn:longitude":54.55,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u2018Al\u012b Sh\u0101h\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0639\u064e\u0644\u06cc \u0634\u0627\u0647 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u2018Al\u012b Sh\u0101h\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672309,
+        1108719937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7091
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0cc976a4d1df78e5c9021d6ce067badd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719937,
+            "locality_id":1360053227,
+            "region_id":85672309
+        }
+    ],
+    "wof:id":1360053227,
+    "wof:lastmodified":1537640348,
+    "wof:name":"`Ali Shahabad",
+    "wof:parent_id":1108719937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.55,
+    35.4,
+    54.55,
+    35.4
+],
+  "geometry": {"coordinates":[54.55,35.4],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276660841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.3592,36.9933,45.3592,36.9933",
+    "geom:latitude":36.9933,
+    "geom:longitude":45.3592,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lavashlu",
+    "gn:country_code":"IR",
+    "gn:dem":1318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6677073,
+    "gn:latitude":36.9933,
+    "gn:longitude":45.3592,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Lav\u0101shl\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0627\u0634\u0644\u0648"
+    ],
+    "name:fas_x_variant":[
+        "Lav\u0101shl\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6677073,
+        "wk:page":"Lavashlu"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ba0e9050eb4db3be94725813e89d31f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720265,
+            "locality_id":1276660841,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1276660841,
+    "wof:lastmodified":1537647333,
+    "wof:name":"Lavashlu",
+    "wof:parent_id":1108720265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.3592,
+    36.9933,
+    45.3592,
+    36.9933
+],
+  "geometry": {"coordinates":[45.3592,36.9933],"type":"Point"}
+}

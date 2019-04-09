@@ -1,0 +1,82 @@
+{
+  "id": 1226000811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.8403,33.3151,47.8403,33.3151",
+    "geom:latitude":33.3151,
+    "geom:longitude":47.8403,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Zurantel",
+    "gn:country_code":"IR",
+    "gn:dem":783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110872,
+    "gn:latitude":33.3151,
+    "gn:longitude":47.8403,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Z\u016br\u0101ntel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u064f\u0651\u0631\u064e\u0646\u062a\u0650\u0644"
+    ],
+    "name:fas_x_variant":[
+        "Z\u016br\u0101ntel",
+        "Z\u016br\u0101n Tall",
+        "\u0632\u0648\u0631\u0627\u0646\u062a\u0644",
+        "\u0643\u064e\u0644\u0650\u0643\u0650 \u0632\u0648\u0631\u0627\u0646\u062a\u0650\u0644"
+    ],
+    "name:und_x_variant":[
+        "Zoorantel",
+        "Z\u016br\u0101n Tal",
+        "Kalek-e Z\u016br\u0101ntel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110872,
+        "wk:page":"Zuran_Tall"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"36eb761dc519f77c207c54a7760a1ae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720307,
+            "locality_id":1226000811,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1226000811,
+    "wof:lastmodified":1537642922,
+    "wof:name":"Zurantel",
+    "wof:parent_id":1108720307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.8403,
+    33.3151,
+    47.8403,
+    33.3151
+],
+  "geometry": {"coordinates":[47.8403,33.3151],"type":"Point"}
+}

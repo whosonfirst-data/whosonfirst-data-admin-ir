@@ -1,0 +1,79 @@
+{
+  "id": 1243353565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.10511,37.23224,49.10511,37.23224",
+    "geom:latitude":37.23224,
+    "geom:longitude":49.10511,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Mishkeh",
+    "gn:country_code":"IR",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":37352,
+    "gn:latitude":37.23224,
+    "gn:longitude":49.10511,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"M\u012bshkeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0634\u06a9\u0647"
+    ],
+    "name:fas_x_variant":[
+        "M\u012bshkeh",
+        "M\u012bsheh",
+        "\u0645\u06cc\u0634\u0647"
+    ],
+    "name:und_x_variant":[
+        "M\u012bsheh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":37352,
+        "wk:page":"Mishkeh,_Gilan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ea8ef3b82ab5d349744c136ea3be2606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720013,
+            "locality_id":1243353565,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1243353565,
+    "wof:lastmodified":1537642085,
+    "wof:name":"Mishkeh",
+    "wof:parent_id":1108720013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.10511,
+    37.23224,
+    49.10511,
+    37.23224
+],
+  "geometry": {"coordinates":[49.10511,37.23224],"type":"Point"}
+}

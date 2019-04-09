@@ -1,0 +1,80 @@
+{
+  "id": 1225849555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.54332,31.16327,50.54332,31.16327",
+    "geom:latitude":31.16327,
+    "geom:longitude":50.54332,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kun Mesi",
+    "gn:country_code":"IR",
+    "gn:dem":1179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":128852,
+    "gn:latitude":31.16327,
+    "gn:longitude":50.54332,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"K\u016bn Mes\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "K\u0101n-e Mes\u012b"
+    ],
+    "name:fas_x_variant":[
+        "K\u016bh Mes\u012b",
+        "\u0643\u0648\u0647 \u0645\u0633\u06cc",
+        "\u06a9\u0648\u0646 \u0645\u0633\u06cc"
+    ],
+    "name:und_x_variant":[
+        "K\u016bh Mes\u012b",
+        "\u0643\u0648\u0647 \u0645\u0633\u06cc",
+        "K\u016bn Mes\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":128852
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d5cb5a6c78d14d242f3e193cc135d887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1225849555,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1225849555,
+    "wof:lastmodified":1537644706,
+    "wof:name":"Kun Mesi",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.54332,
+    31.16327,
+    50.54332,
+    31.16327
+],
+  "geometry": {"coordinates":[50.54332,31.16327],"type":"Point"}
+}

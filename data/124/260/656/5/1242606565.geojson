@@ -1,0 +1,78 @@
+{
+  "id": 1242606565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.28214,35.57788,50.28214,35.57788",
+    "geom:latitude":35.57788,
+    "geom:longitude":50.28214,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Qanli Bolagh",
+    "gn:country_code":"IR",
+    "gn:dem":1570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":41553,
+    "gn:latitude":35.57788,
+    "gn:longitude":50.28214,
+    "gn:modification_date":"2014-02-06",
+    "gn:name":"Q\u0101nl\u012b Bol\u0101gh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0627\u0646\u0644\u0648 \u0628\u0644\u0627\u063a"
+    ],
+    "name:fas_x_variant":[
+        "Q\u0101nl\u016b Bol\u0101gh",
+        "\u0642\u0627\u0646\u0644\u06cc \u0628\u0644\u0627\u063a"
+    ],
+    "name:und_x_variant":[
+        "Q\u0101nl\u012b Bol\u0101gh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672415,
+        1108720105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":41553,
+        "wk:page":"Qanli_Bolagh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"60608605214d37b8a425c294494eda7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720105,
+            "locality_id":1242606565,
+            "region_id":85672415
+        }
+    ],
+    "wof:id":1242606565,
+    "wof:lastmodified":1537642339,
+    "wof:name":"Qanli Bolagh",
+    "wof:parent_id":1108720105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.28214000000001,
+    35.57788,
+    50.28214000000001,
+    35.57788
+],
+  "geometry": {"coordinates":[50.28214000000001,35.57788],"type":"Point"}
+}

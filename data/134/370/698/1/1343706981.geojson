@@ -1,0 +1,73 @@
+{
+  "id": 1343706981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.276,38.85196,46.276,38.85196",
+    "geom:latitude":38.85196,
+    "geom:longitude":46.276,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Danestan",
+    "gn:country_code":"IR",
+    "gn:dem":989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8661751,
+    "gn:latitude":38.85196,
+    "gn:longitude":46.276,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Danest\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0646\u0633\u062a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Danest\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8661751
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b5899c33e3c16aaca78d75c43d347104",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720083,
+            "locality_id":1343706981,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1343706981,
+    "wof:lastmodified":1537648598,
+    "wof:name":"Danestan",
+    "wof:parent_id":1108720083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.276,
+    38.85196,
+    46.276,
+    38.85196
+],
+  "geometry": {"coordinates":[46.276,38.85196],"type":"Point"}
+}

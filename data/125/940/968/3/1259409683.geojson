@@ -1,0 +1,79 @@
+{
+  "id": 1259409683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.00735,36.71765,59.00735,36.71765",
+    "geom:latitude":36.71765,
+    "geom:longitude":59.00735,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Sheykh Kanlu",
+    "gn:country_code":"IR",
+    "gn:dem":1173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":31778,
+    "gn:latitude":36.71765,
+    "gn:longitude":59.00735,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Sheykh K\u0101nl\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Shar\u012bf\u0101b\u0101d-e Sheykh Kh\u0101nl\u016b"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u06cc\u062e \u06a9\u0627\u0646\u0644\u0648",
+        "\u0634\u06cc\u062e \u062e\u0627\u0646\u0644\u0648"
+    ],
+    "name:und_x_variant":[
+        "Sheykh K\u0101nl\u016b",
+        "Sheykh Kh\u0101nl\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108719931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":31778,
+        "wk:page":"Sheykh_Khanlu"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c32249b4c6abb1157366c6c2112cc8df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719931,
+            "locality_id":1259409683,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1259409683,
+    "wof:lastmodified":1537641738,
+    "wof:name":"Sheykh Kanlu",
+    "wof:parent_id":1108719931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.00735,
+    36.71765,
+    59.00735,
+    36.71765
+],
+  "geometry": {"coordinates":[59.00735,36.71765],"type":"Point"}
+}

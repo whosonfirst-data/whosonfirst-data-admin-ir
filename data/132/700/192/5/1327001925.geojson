@@ -1,0 +1,82 @@
+{
+  "id": 1327001925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.6372,35.0272,46.6372,35.0272",
+    "geom:latitude":35.0272,
+    "geom:longitude":46.6372,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Yuzidar",
+    "gn:country_code":"IR",
+    "gn:dem":1373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":111672,
+    "gn:latitude":35.0272,
+    "gn:longitude":46.6372,
+    "gn:modification_date":"2012-10-06",
+    "gn:name":"Y\u016bz\u012bdar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u064a\u0648\u0632\u06cc \u062f\u064e\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0648\u064e\u0632\u0650\u0647 \u062f\u064e\u0631",
+        "\u06cc\u0648\u0632\u06cc\u062f\u0631",
+        "Y\u016bz\u012b Dar",
+        "Y\u016bz\u012bdar"
+    ],
+    "name:und_x_variant":[
+        "Wazeh Dar",
+        "Yowz\u012bdar",
+        "Vazeh Dar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":111672,
+        "wk:page":"Yuzidar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"21f2654dc6faa3c101c493131d9071b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720099,
+            "locality_id":1327001925,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1327001925,
+    "wof:lastmodified":1537642995,
+    "wof:name":"Yuzidar",
+    "wof:parent_id":1108720099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.6372,
+    35.0272,
+    46.6372,
+    35.0272
+],
+  "geometry": {"coordinates":[46.6372,35.0272],"type":"Point"}
+}

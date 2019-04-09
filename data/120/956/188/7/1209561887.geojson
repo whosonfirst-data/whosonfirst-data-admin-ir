@@ -1,0 +1,66 @@
+{
+  "id": 1209561887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.07389,29.78417,56.07389,29.78417",
+    "geom:latitude":29.78417,
+    "geom:longitude":56.07389,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Takyeh",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":2466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":113399,
+    "gn:latitude":29.78417,
+    "gn:longitude":56.07389,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Takyeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tekyeh",
+        "Takyeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":113399
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c9f8edb5fc9f6d3041c63fe34e70744b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209561887
+        }
+    ],
+    "wof:id":1209561887,
+    "wof:lastmodified":1537643187,
+    "wof:name":"Takyeh",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.07389000000001,
+    29.78417,
+    56.07389000000001,
+    29.78417
+],
+  "geometry": {"coordinates":[56.07389000000001,29.78417],"type":"Point"}
+}

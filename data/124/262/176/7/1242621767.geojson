@@ -1,0 +1,73 @@
+{
+  "id": 1242621767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.42986,36.49582,52.42986,36.49582",
+    "geom:latitude":36.49582,
+    "geom:longitude":52.42986,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kordi Kheyl",
+    "gn:country_code":"IR",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8735,
+    "gn:latitude":36.49582,
+    "gn:longitude":52.42986,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kord\u012b Kheyl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0631\u062f\u06cc \u062e\u064a\u0644"
+    ],
+    "name:fas_x_variant":[
+        "Kord\u012b Kheyl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8735
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a1f66476aa0e096dff4ec712b4553337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719807,
+            "locality_id":1242621767,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1242621767,
+    "wof:lastmodified":1537640451,
+    "wof:name":"Kordi Kheyl",
+    "wof:parent_id":1108719807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.42986,
+    36.49582,
+    52.42986,
+    36.49582
+],
+  "geometry": {"coordinates":[52.42986,36.49582],"type":"Point"}
+}

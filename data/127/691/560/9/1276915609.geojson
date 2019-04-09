@@ -1,0 +1,78 @@
+{
+  "id": 1276915609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.1005,36.07995,53.1005,36.07995",
+    "geom:latitude":36.07995,
+    "geom:longitude":53.1005,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Lamarz",
+    "gn:country_code":"IR",
+    "gn:dem":985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11010,
+    "gn:latitude":36.07995,
+    "gn:longitude":53.1005,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Lamarz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u064e\u0645\u0632\u0650\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0644\u0645\u0631\u0632"
+    ],
+    "name:und_x_variant":[
+        "Lamzer",
+        "Lamarz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11010,
+        "wk:page":"Lamzer"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c6217083780025fb107d92b450cbd64d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720405,
+            "locality_id":1276915609,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1276915609,
+    "wof:lastmodified":1537640601,
+    "wof:name":"Lamarz",
+    "wof:parent_id":1108720405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.1005,
+    36.07995,
+    53.1005,
+    36.07995
+],
+  "geometry": {"coordinates":[53.1005,36.07995],"type":"Point"}
+}

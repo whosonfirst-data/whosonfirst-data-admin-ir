@@ -1,0 +1,79 @@
+{
+  "id": 1242828407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.4316,38.0364,46.4316,38.0364",
+    "geom:latitude":38.0364,
+    "geom:longitude":46.4316,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Karkaj",
+    "gn:country_code":"IR",
+    "gn:dem":1647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":128665,
+    "gn:latitude":38.0364,
+    "gn:longitude":46.4316,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Karkaj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u06a9\u062c"
+    ],
+    "name:und_x_variant":[
+        "Kiarga",
+        "Kargeh",
+        "Gargaj",
+        "Karga",
+        "Kargaj",
+        "Karkaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":128665,
+        "wk:page":"Karkaj"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"31c243903f71312341f5f2e967eb96a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720471,
+            "locality_id":1242828407,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1242828407,
+    "wof:lastmodified":1537644685,
+    "wof:name":"Karkaj",
+    "wof:parent_id":1108720471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.4316,
+    38.0364,
+    46.4316,
+    38.0364
+],
+  "geometry": {"coordinates":[46.4316,38.0364],"type":"Point"}
+}

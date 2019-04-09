@@ -1,0 +1,81 @@
+{
+  "id": 1292990183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.04011,35.48186,49.04011,35.48186",
+    "geom:latitude":35.48186,
+    "geom:longitude":49.04011,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Darniyan",
+    "gn:country_code":"IR",
+    "gn:dem":1982,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":137695,
+    "gn:latitude":35.48186,
+    "gn:longitude":49.04011,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Darniyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0631\u0646\u06cc\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0648\u0631\u0646\u0650\u064a\u0627\u0646",
+        "\u062f\u064e\u0631\u0646\u064a\u0627\u0646",
+        "D\u016brn\u012b\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Darn\u012b\u0101n",
+        "D\u016brney\u0101n",
+        "Darniyan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":137695,
+        "wk:page":"Durnian"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8e17d06f91c3ff47c9d86f371f915d14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720349,
+            "locality_id":1292990183,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1292990183,
+    "wof:lastmodified":1537645603,
+    "wof:name":"Darniyan",
+    "wof:parent_id":1108720349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.04011,
+    35.48186,
+    49.04011,
+    35.48186
+],
+  "geometry": {"coordinates":[49.04011,35.48186],"type":"Point"}
+}

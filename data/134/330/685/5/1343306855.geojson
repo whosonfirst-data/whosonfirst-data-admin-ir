@@ -1,0 +1,75 @@
+{
+  "id": 1343306855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.79571,33.83126,49.79571,33.83126",
+    "geom:latitude":33.83126,
+    "geom:longitude":49.79571,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Gol Tappeh",
+    "gn:country_code":"IR",
+    "gn:dem":2372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":133022,
+    "gn:latitude":33.83126,
+    "gn:longitude":49.79571,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Gol Tappeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0644 \u062a\u067e\u0647"
+    ],
+    "name:und_x_variant":[
+        "Kul Tepe",
+        "Gol Tappeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":133022,
+        "wk:page":"Gol_Tappeh%2C_Markazi"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"512b7f67bea5bd2930596544702b3a3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720443,
+            "locality_id":1343306855,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1343306855,
+    "wof:lastmodified":1537645130,
+    "wof:name":"Gol Tappeh",
+    "wof:parent_id":1108720443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.79571,
+    33.83126,
+    49.79571,
+    33.83126
+],
+  "geometry": {"coordinates":[49.79571,33.83126],"type":"Point"}
+}

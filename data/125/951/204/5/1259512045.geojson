@@ -1,0 +1,78 @@
+{
+  "id": 1259512045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.89515,37.2992,56.89515,37.2992",
+    "geom:latitude":37.2992,
+    "geom:longitude":56.89515,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Tabar",
+    "gn:country_code":"IR",
+    "gn:dem":1382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":401103,
+    "gn:latitude":37.2992,
+    "gn:longitude":56.89515,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0162abar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0162abar"
+    ],
+    "name:fas_x_variant":[
+        "T\u012br",
+        "Tav\u0101r",
+        "\u0637\u0628\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u0637\u0628\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672401,
+        1108720073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401103
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cdf51acaacf0cbc6393dae1f32eb28e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720073,
+            "locality_id":1259512045,
+            "region_id":85672401
+        }
+    ],
+    "wof:id":1259512045,
+    "wof:lastmodified":1537646515,
+    "wof:name":"Tabar",
+    "wof:parent_id":1108720073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.89515,
+    37.2992,
+    56.89515,
+    37.2992
+],
+  "geometry": {"coordinates":[56.89515,37.2992],"type":"Point"}
+}

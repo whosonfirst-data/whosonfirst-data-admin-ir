@@ -1,0 +1,74 @@
+{
+  "id": 1343864127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.4935,30.8792,61.4935,30.8792",
+    "geom:latitude":30.8792,
+    "geom:longitude":61.4935,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dak Deh-e Mardeh",
+    "gn:country_code":"IR",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1114311,
+    "gn:latitude":30.8792,
+    "gn:longitude":61.4935,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dak Deh-e Mardeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u06a9 \u062f\u0647 \u0645\u0631\u062f\u0647"
+    ],
+    "name:und_x_variant":[
+        "Deh-e Mardeh",
+        "Dak Deh-e Mardeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1114311
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"81d5db38b1dc7c6b9811df159606f6fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720513,
+            "locality_id":1343864127,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1343864127,
+    "wof:lastmodified":1537646907,
+    "wof:name":"Dak Deh-e Mardeh",
+    "wof:parent_id":1108720513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.4935,
+    30.8792,
+    61.4935,
+    30.8792
+],
+  "geometry": {"coordinates":[61.4935,30.8792],"type":"Point"}
+}

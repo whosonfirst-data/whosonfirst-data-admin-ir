@@ -1,0 +1,79 @@
+{
+  "id": 1293383611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.1957,33.8956,46.1957,33.8956",
+    "geom:latitude":33.8956,
+    "geom:longitude":46.1957,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Shaleh Shuri",
+    "gn:country_code":"IR",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5978,
+    "gn:latitude":33.8956,
+    "gn:longitude":46.1957,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sh\u0101leh Sh\u016br\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0644\u0647 \u0634\u0648\u0631\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Sh\u0101leh Showr\u012b",
+        "\u0628\u064e\u0644\u0650\u0647 \u0634\u0648\u0631\u06cc",
+        "Sh\u0101leh Sh\u016br\u012b"
+    ],
+    "name:und_x_variant":[
+        "Baleh Sh\u016br\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108720065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5978,
+        "wk:page":"Shaleh_Shuri"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4da5cf981e5fbe3123fab544357eb6a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720065,
+            "locality_id":1293383611,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1293383611,
+    "wof:lastmodified":1537640314,
+    "wof:name":"Shaleh Shuri",
+    "wof:parent_id":1108720065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.1957,
+    33.8956,
+    46.1957,
+    33.8956
+],
+  "geometry": {"coordinates":[46.1957,33.8956],"type":"Point"}
+}

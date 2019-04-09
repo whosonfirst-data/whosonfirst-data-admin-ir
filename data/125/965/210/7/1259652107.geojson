@@ -1,0 +1,77 @@
+{
+  "id": 1259652107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.93183,33.35244,47.93183,33.35244",
+    "geom:latitude":33.35244,
+    "geom:longitude":47.93183,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Gavzardeh",
+    "gn:country_code":"IR",
+    "gn:dem":851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":28449,
+    "gn:latitude":33.35244,
+    "gn:longitude":47.93183,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"G\u0101vzardeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0645 \u06a9\u0628\u0648\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Cham Kab\u016bd",
+        "\u06af\u0627\u0648\u0632\u0631\u062f\u0647"
+    ],
+    "name:und_x_variant":[
+        "G\u0101vzardeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":28449
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fbea6ae9b7f29392771be35a5240d217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720307,
+            "locality_id":1259652107,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1259652107,
+    "wof:lastmodified":1537641542,
+    "wof:name":"Gavzardeh",
+    "wof:parent_id":1108720307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.93183,
+    33.35244,
+    47.93183,
+    33.35244
+],
+  "geometry": {"coordinates":[47.93183,33.35244],"type":"Point"}
+}

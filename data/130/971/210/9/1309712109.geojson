@@ -1,0 +1,67 @@
+{
+  "id": 1309712109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.29056,26.63583,61.29056,26.63583",
+    "geom:latitude":26.63583,
+    "geom:longitude":61.29056,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sulan",
+    "gn:country_code":"IR",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1336330,
+    "gn:latitude":26.63583,
+    "gn:longitude":61.29056,
+    "gn:modification_date":"1996-10-30",
+    "gn:name":"S\u016bl\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1336330
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0bbd1d32dd86aec61ab76c43575fef95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720393,
+            "locality_id":1309712109,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1309712109,
+    "wof:lastmodified":1537063384,
+    "wof:name":"Sulan",
+    "wof:parent_id":1108720393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.29056,
+    26.63583,
+    61.29056,
+    26.63583
+],
+  "geometry": {"coordinates":[61.29056,26.63583],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243029119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.2,28.6,58.2,28.6",
+    "geom:latitude":28.6,
+    "geom:longitude":58.2,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Deh Darak",
+    "gn:country_code":"IR",
+    "gn:dem":2829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":136995,
+    "gn:latitude":28.6,
+    "gn:longitude":58.2,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Deh Darak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":136995
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"23521bbf899492f62b1407059c3c6706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719809,
+            "locality_id":1243029119,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1243029119,
+    "wof:lastmodified":1536910577,
+    "wof:name":"Deh Darak",
+    "wof:parent_id":1108719809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.2,
+    28.6,
+    58.2,
+    28.6
+],
+  "geometry": {"coordinates":[58.2,28.6],"type":"Point"}
+}

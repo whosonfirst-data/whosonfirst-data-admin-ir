@@ -1,0 +1,78 @@
+{
+  "id": 1276748345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.1422,37.1297,49.1422,37.1297",
+    "geom:latitude":37.1297,
+    "geom:longitude":49.1422,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Baskamarvar",
+    "gn:country_code":"IR",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416657,
+    "gn:latitude":37.1297,
+    "gn:longitude":49.1422,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"B\u0101skamarv\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0633\u06a9\u0645\u0631\u0648\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "B\u0101skam R\u016bb\u0101r",
+        "B\u0101skamarv\u0101r",
+        "\u0628\u0627\u0633\u06a9\u0645\u0631\u0648\u062f\u0628\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "B\u0101skamr\u016bdb\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416657
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6d8c7bd2423995ea5c4f06b605c6b981",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720013,
+            "locality_id":1276748345,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1276748345,
+    "wof:lastmodified":1537646660,
+    "wof:name":"Baskamarvar",
+    "wof:parent_id":1108720013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.1422,
+    37.1297,
+    49.1422,
+    37.1297
+],
+  "geometry": {"coordinates":[49.1422,37.1297],"type":"Point"}
+}

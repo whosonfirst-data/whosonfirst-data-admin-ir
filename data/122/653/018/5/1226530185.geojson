@@ -1,0 +1,73 @@
+{
+  "id": 1226530185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.4085,26.9682,55.4085,26.9682",
+    "geom:latitude":26.9682,
+    "geom:longitude":55.4085,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Chah Deraz",
+    "gn:country_code":"IR",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6653858,
+    "gn:latitude":26.9682,
+    "gn:longitude":55.4085,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ch\u0101h Der\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0647 \u062f\u0631\u0627\u0632"
+    ],
+    "name:fas_x_variant":[
+        "Ch\u0101h Der\u0101z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108719869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6653858
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9b7fe248c389a172bf999d301371ad78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719869,
+            "locality_id":1226530185,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1226530185,
+    "wof:lastmodified":1537647232,
+    "wof:name":"Chah Deraz",
+    "wof:parent_id":1108719869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.4085,
+    26.9682,
+    55.4085,
+    26.9682
+],
+  "geometry": {"coordinates":[55.4085,26.9682],"type":"Point"}
+}

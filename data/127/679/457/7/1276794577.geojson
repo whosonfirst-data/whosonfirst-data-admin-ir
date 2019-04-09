@@ -1,0 +1,74 @@
+{
+  "id": 1276794577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.90623,35.93193,59.90623,35.93193",
+    "geom:latitude":35.93193,
+    "geom:longitude":59.90623,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Do Chahi",
+    "gn:country_code":"IR",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":34364,
+    "gn:latitude":35.93193,
+    "gn:longitude":59.90623,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Do Ch\u0101h\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062f\u0648 \u0686\u0627\u0647\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Z\u0304ech\u0101h\u012b",
+        "Do Ch\u0101h\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":34364
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2a6e46a875d0c82ca167efa3c5cce685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720227,
+            "locality_id":1276794577,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1276794577,
+    "wof:lastmodified":1537641914,
+    "wof:name":"Do Chahi",
+    "wof:parent_id":1108720227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.90623000000001,
+    35.93193,
+    59.90623000000001,
+    35.93193
+],
+  "geometry": {"coordinates":[59.90623000000001,35.93193],"type":"Point"}
+}

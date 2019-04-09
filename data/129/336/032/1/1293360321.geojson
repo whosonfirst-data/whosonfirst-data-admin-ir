@@ -1,0 +1,76 @@
+{
+  "id": 1293360321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.124,30.3296,50.124,30.3296",
+    "geom:latitude":30.3296,
+    "geom:longitude":50.124,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Shahri-ye Kohneh",
+    "gn:country_code":"IR",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":45635,
+    "gn:latitude":30.3296,
+    "gn:longitude":50.124,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Shahr\u012b-ye Kohneh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u06cc \u06a9\u0647\u0646\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Shahr\u012b-ye Kohneh"
+    ],
+    "name:und_x_variant":[
+        "Shahr Kohneh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":45635
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0a0be0fd32b66751735959ec7a2273b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719885,
+            "locality_id":1293360321,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1293360321,
+    "wof:lastmodified":1537642554,
+    "wof:name":"Shahri-ye Kohneh",
+    "wof:parent_id":1108719885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.124,
+    30.3296,
+    50.124,
+    30.3296
+],
+  "geometry": {"coordinates":[50.124,30.3296],"type":"Point"}
+}

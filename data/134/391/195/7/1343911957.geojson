@@ -1,0 +1,84 @@
+{
+  "id": 1343911957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.32602,38.59588,46.32602,38.59588",
+    "geom:latitude":38.59588,
+    "geom:longitude":46.32602,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Bishak",
+    "gn:country_code":"IR",
+    "gn:dem":1706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":140453,
+    "gn:latitude":38.59588,
+    "gn:longitude":46.32602,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"B\u012bshak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0650\u0634\u0627\u0643"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u06cc\u0634\u06a9",
+        "\u0648\u0650\u0634\u064e\u0643",
+        "B\u012bshak",
+        "\u0628\u0650\u0634 \u0627\u064e\u0634\u0643",
+        "\u0628\u064a\u0634\u064e\u0643"
+    ],
+    "name:und_x_variant":[
+        "Besh\u0101k",
+        "Bishak Dizmar",
+        "Besh Ashk",
+        "Veshak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140453,
+        "wk:page":"Bishak"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7ea56a253bc4dd0ee9d76d6f4914f22c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720509,
+            "locality_id":1343911957,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1343911957,
+    "wof:lastmodified":1537645878,
+    "wof:name":"Bishak",
+    "wof:parent_id":1108720509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.32602,
+    38.59588,
+    46.32602,
+    38.59588
+],
+  "geometry": {"coordinates":[46.32602,38.59588],"type":"Point"}
+}

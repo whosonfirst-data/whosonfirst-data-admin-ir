@@ -1,0 +1,78 @@
+{
+  "id": 1343443669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.75162,30.65554,49.75162,30.65554",
+    "geom:latitude":30.65554,
+    "geom:longitude":49.75162,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Havileh",
+    "gn:country_code":"IR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":130925,
+    "gn:latitude":30.65554,
+    "gn:longitude":49.75162,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"\u1e28av\u012bleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u06cc\u0644\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u062d\u0648\u06cc\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u1e28av\u012bleh",
+        "Hoveyleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":130925,
+        "wk:page":"Hoveyleh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d9709c2181f6e076df9ab9c4a8b78789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720285,
+            "locality_id":1343443669,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1343443669,
+    "wof:lastmodified":1537644914,
+    "wof:name":"Havileh",
+    "wof:parent_id":1108720285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.75162,
+    30.65554,
+    49.75162,
+    30.65554
+],
+  "geometry": {"coordinates":[49.75162,30.65554],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 102545695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.82805556,30.3375,50.82805556,30.3375",
+    "geom:latitude":30.3375,
+    "geom:longitude":50.828056,
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "oa:elevation_ft":"2414",
+    "oa:type":"medium_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424851,
+        "planet_id":1,
+        "state_id":2345771
+    },
+    "wof:belongsto":[
+        85632361,
+        85672283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12513722,
+        "iata:code":"GCH",
+        "icao:code":"OIAH",
+        "oa:id":"5133",
+        "wd:id":"Q15221241"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"392c005060dae812cbb3fed958590d88",
+    "wof:hierarchy":[
+        {
+            "campus_id":102545695,
+            "country_id":85632361,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":102545695,
+    "wof:lastmodified":1543856641,
+    "wof:name":"Gach Saran Airport",
+    "wof:parent_id":85672283,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    50.82805556,
+    30.3375,
+    50.82805556,
+    30.3375
+],
+  "geometry": {"coordinates":[50.82805556,30.3375],"type":"Point"}
+}

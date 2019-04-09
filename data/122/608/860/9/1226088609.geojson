@@ -1,0 +1,73 @@
+{
+  "id": 1226088609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.07604,30.44266,55.07604,30.44266",
+    "geom:latitude":30.44266,
+    "geom:longitude":55.07604,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Mehr-e Pa'in",
+    "gn:country_code":"IR",
+    "gn:dem":2387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":49265,
+    "gn:latitude":30.44266,
+    "gn:longitude":55.07604,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Mehr-e P\u0101\u2019\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Mehr-e P\u0101\u2019\u012bn"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0647\u0631 \u067e\u0627\u0626\u064a\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":49265
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"eff1376c5d3894ed014fc5055c0572ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720433,
+            "locality_id":1226088609,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1226088609,
+    "wof:lastmodified":1537642778,
+    "wof:name":"Mehr-e Pa'in",
+    "wof:parent_id":1108720433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.07604,
+    30.44266,
+    55.07604,
+    30.44266
+],
+  "geometry": {"coordinates":[55.07604,30.44266],"type":"Point"}
+}

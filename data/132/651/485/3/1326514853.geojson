@@ -1,0 +1,76 @@
+{
+  "id": 1326514853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.74887,36.96688,49.74887,36.96688",
+    "geom:latitude":36.96688,
+    "geom:longitude":49.74887,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Fiab",
+    "gn:country_code":"IR",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7431997,
+    "gn:latitude":36.96688,
+    "gn:longitude":49.74887,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"F\u012b\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "F\u012b\u0101b"
+    ],
+    "name:fas_x_variant":[
+        "\u0641\u06cc\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u0641\u06cc\u0627\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7431997
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"90c5029e5e04cfc1b57a6af2c3af63e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720459,
+            "locality_id":1326514853,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1326514853,
+    "wof:lastmodified":1537648203,
+    "wof:name":"Fiab",
+    "wof:parent_id":1108720459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.74887,
+    36.96688,
+    49.74887,
+    36.96688
+],
+  "geometry": {"coordinates":[49.74887,36.96688],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1226632251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.85265,34.8772,47.85265,34.8772",
+    "geom:latitude":34.8772,
+    "geom:longitude":47.85265,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Chah Qar",
+    "gn:country_code":"IR",
+    "gn:dem":2026,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":24659,
+    "gn:latitude":34.8772,
+    "gn:longitude":47.85265,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Ch\u0101h Qar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0642\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Ch\u0101qer",
+        "\u0686\u0627\u0647 \u0642\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ch\u0101h Qar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":24659
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"04754513f8206bc4747a20feded6b0c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720463,
+            "locality_id":1226632251,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1226632251,
+    "wof:lastmodified":1537641283,
+    "wof:name":"Chah Qar",
+    "wof:parent_id":1108720463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.85265,
+    34.8772,
+    47.85265,
+    34.8772
+],
+  "geometry": {"coordinates":[47.85265,34.8772],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226026797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.78267,35.10519,47.78267,35.10519",
+    "geom:latitude":35.10519,
+    "geom:longitude":47.78267,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sartipabad",
+    "gn:country_code":"IR",
+    "gn:dem":2132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3626,
+    "gn:latitude":35.10519,
+    "gn:longitude":47.78267,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Sart\u012bp\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u062a\u06cc\u067e \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Sart\u012bp\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3626
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0683b14c0ad041756caf8d5e6b4fec75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720325,
+            "locality_id":1226026797,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1226026797,
+    "wof:lastmodified":1537640267,
+    "wof:name":"Sartipabad",
+    "wof:parent_id":1108720325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.78267,
+    35.10519,
+    47.78267,
+    35.10519
+],
+  "geometry": {"coordinates":[47.78267,35.10519],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260176109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.4356,29.9568,52.4356,29.9568",
+    "geom:latitude":29.9568,
+    "geom:longitude":52.4356,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Seh Tolan",
+    "gn:country_code":"IR",
+    "gn:dem":1603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":43954,
+    "gn:latitude":29.9568,
+    "gn:longitude":52.4356,
+    "gn:modification_date":"2018-06-03",
+    "gn:name":"Seh Tol\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0647 \u062a\u0644\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Seh Tol\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":43954,
+        "wk:page":"Seh_Tolan,_Sepidan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ba343399377f5f9a871058d373926593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720421,
+            "locality_id":1260176109,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1260176109,
+    "wof:lastmodified":1537642474,
+    "wof:name":"Seh Tolan",
+    "wof:parent_id":1108720421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.4356,
+    29.9568,
+    52.4356,
+    29.9568
+],
+  "geometry": {"coordinates":[52.4356,29.9568],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360006145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.75949,28.79689,53.75949,28.79689",
+    "geom:latitude":28.79689,
+    "geom:longitude":53.75949,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Fedeshkuyeh",
+    "gn:country_code":"IR",
+    "gn:dem":1222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":134624,
+    "gn:latitude":28.79689,
+    "gn:longitude":53.75949,
+    "gn:modification_date":"2016-12-10",
+    "gn:name":"Fedeshk\u016byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Fedeshk\u016byeh"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u062f\u0634\u06a9\u0648\u06cc\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":134624
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f546f68a70f190a8f2cedb478d7da226",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720003,
+            "locality_id":1360006145,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1360006145,
+    "wof:lastmodified":1537557880,
+    "wof:name":"Fedeshkuyeh",
+    "wof:parent_id":1108720003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.75949,
+    28.79689,
+    53.75949,
+    28.79689
+],
+  "geometry": {"coordinates":[53.75949,28.79689],"type":"Point"}
+}

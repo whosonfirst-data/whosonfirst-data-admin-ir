@@ -1,0 +1,71 @@
+{
+  "id": 1209875799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.15485,37.59286,48.15485,37.59286",
+    "geom:latitude":37.59286,
+    "geom:longitude":48.15485,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Zand",
+    "gn:country_code":"IR",
+    "gn:dem":1627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":111503,
+    "gn:latitude":37.59286,
+    "gn:longitude":48.15485,
+    "gn:modification_date":"2018-05-16",
+    "gn:name":"Zand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u0646\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":111503,
+        "wk:page":"Zand,_Ardabil"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"00f4f6868072820e723d62b27ddf32fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720167,
+            "locality_id":1209875799,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1209875799,
+    "wof:lastmodified":1537642979,
+    "wof:name":"Zand",
+    "wof:parent_id":1108720167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.15485,
+    37.59286,
+    48.15485,
+    37.59286
+],
+  "geometry": {"coordinates":[48.15485,37.59286],"type":"Point"}
+}

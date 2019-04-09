@@ -1,0 +1,77 @@
+{
+  "id": 1242783683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.08948,26.67917,59.08948,26.67917",
+    "geom:latitude":26.67917,
+    "geom:longitude":59.08948,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Birmin",
+    "gn:country_code":"IR",
+    "gn:dem":711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":140461,
+    "gn:latitude":26.67917,
+    "gn:longitude":59.08948,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"B\u012brm\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0631\u0645\u06cc\u0646"
+    ],
+    "name:fas_x_variant":[
+        "B\u012brm\u012bn",
+        "Berm\u012bn"
+    ],
+    "name:und_x_variant":[
+        "Berm\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140461
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b3a4ed6a3920959d5fd091d67d2a10fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720271,
+            "locality_id":1242783683,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1242783683,
+    "wof:lastmodified":1537645879,
+    "wof:name":"Birmin",
+    "wof:parent_id":1108720271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.08948,
+    26.67917000000001,
+    59.08948,
+    26.67917000000001
+],
+  "geometry": {"coordinates":[59.08948,26.67917000000001],"type":"Point"}
+}

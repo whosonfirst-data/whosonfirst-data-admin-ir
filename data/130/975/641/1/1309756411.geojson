@@ -1,0 +1,67 @@
+{
+  "id": 1309756411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.93083,31.19611,57.93083,31.19611",
+    "geom:latitude":31.19611,
+    "geom:longitude":57.93083,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Tabasin",
+    "gn:country_code":"IR",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":113656,
+    "gn:latitude":31.19611,
+    "gn:longitude":57.93083,
+    "gn:modification_date":"1996-12-10",
+    "gn:name":"Tab\u0101s\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":113656
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6721cb0247be6ab953361573ecabd8ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720115,
+            "locality_id":1309756411,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1309756411,
+    "wof:lastmodified":1537001673,
+    "wof:name":"Tabasin",
+    "wof:parent_id":1108720115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.93083000000001,
+    31.19611,
+    57.93083000000001,
+    31.19611
+],
+  "geometry": {"coordinates":[57.93083000000001,31.19611],"type":"Point"}
+}

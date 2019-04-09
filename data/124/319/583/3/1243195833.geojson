@@ -1,0 +1,78 @@
+{
+  "id": 1243195833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.6896,28.547,60.6896,28.547",
+    "geom:latitude":28.547,
+    "geom:longitude":60.6896,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sazink",
+    "gn:country_code":"IR",
+    "gn:dem":1604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1159667,
+    "gn:latitude":28.547,
+    "gn:longitude":60.6896,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u0101z\u012bnk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0632\u06cc\u0646\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "S\u0101z\u012bnak",
+        "S\u0101z\u012bnk",
+        "S\u0101zn\u012bk"
+    ],
+    "name:und_x_variant":[
+        "S\u0101zn\u012bk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1159667
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3a971196a95ffcdfc8ce4153bd91c6e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720131,
+            "locality_id":1243195833,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1243195833,
+    "wof:lastmodified":1537646984,
+    "wof:name":"Sazink",
+    "wof:parent_id":1108720131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.6896,
+    28.547,
+    60.6896,
+    28.547
+],
+  "geometry": {"coordinates":[60.6896,28.547],"type":"Point"}
+}

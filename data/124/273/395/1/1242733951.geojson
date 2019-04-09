@@ -1,0 +1,73 @@
+{
+  "id": 1242733951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.9412,33.4779,47.9412,33.4779",
+    "geom:latitude":33.4779,
+    "geom:longitude":47.9412,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Shahid Bahonar",
+    "gn:country_code":"IR",
+    "gn:dem":938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6723652,
+    "gn:latitude":33.4779,
+    "gn:longitude":47.9412,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Shah\u012bd B\u0101honar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u06cc\u062f \u0628\u0627\u0647\u0646\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Shah\u012bd B\u0101honar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6723652
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0669a316826a7bd4b6eaea39b51c91aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720145,
+            "locality_id":1242733951,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1242733951,
+    "wof:lastmodified":1537647508,
+    "wof:name":"Shahid Bahonar",
+    "wof:parent_id":1108720145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.9412,
+    33.4779,
+    47.9412,
+    33.4779
+],
+  "geometry": {"coordinates":[47.9412,33.4779],"type":"Point"}
+}

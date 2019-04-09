@@ -1,0 +1,75 @@
+{
+  "id": 1343430923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.40083,31.12333,48.40083,31.12333",
+    "geom:latitude":31.12333,
+    "geom:longitude":48.40083,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Farsiat",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":134753,
+    "gn:latitude":31.12333,
+    "gn:longitude":48.40083,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"F\u0101rs\u012b\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "F\u0101rs\u012b\u0101t"
+    ],
+    "name:und_x_variant":[
+        "Fars\u012byeh",
+        "Farsiy\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":134753
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f9dc84dfba8812f92215cfb4106d9b27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719793,
+            "locality_id":1343430923,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1343430923,
+    "wof:lastmodified":1537645303,
+    "wof:name":"Farsiat",
+    "wof:parent_id":1108719793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.40083,
+    31.12333,
+    48.40083,
+    31.12333
+],
+  "geometry": {"coordinates":[48.40083,31.12333],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1276687613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.14545,36.29515,58.14545,36.29515",
+    "geom:latitude":36.29515,
+    "geom:longitude":58.14545,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Ruki",
+    "gn:country_code":"IR",
+    "gn:dem":1376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7149,
+    "gn:latitude":36.29515,
+    "gn:longitude":58.14545,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"R\u016bk\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "R\u016bk\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u0631\u0648\u06a9\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0631\u0648\u06a9\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7149,
+        "wk:page":"Ruki,_Iran"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6df03524f965b62aaaf1b04c153b0c02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720367,
+            "locality_id":1276687613,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1276687613,
+    "wof:lastmodified":1537640355,
+    "wof:name":"Ruki",
+    "wof:parent_id":1108720367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.14545,
+    36.29515,
+    58.14545,
+    36.29515
+],
+  "geometry": {"coordinates":[58.14545,36.29515],"type":"Point"}
+}

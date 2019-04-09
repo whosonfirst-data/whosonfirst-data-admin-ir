@@ -1,0 +1,79 @@
+{
+  "id": 1259849491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.61667,31.25583,48.61667,31.25583",
+    "geom:latitude":31.25583,
+    "geom:longitude":48.61667,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Jongiyeh",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":130366,
+    "gn:latitude":31.25583,
+    "gn:longitude":48.61667,
+    "gn:modification_date":"2013-05-05",
+    "gn:name":"Jong\u012byeh",
+    "gn:population":4183,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Jong\u012byeh"
+    ],
+    "name:und_x_variant":[
+        "Jang\u012byeh",
+        "Jangeyeh"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":130366,
+        "wk:page":"Jongiyeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a341456a5848ef3cfce303e60b5e87ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719793,
+            "locality_id":1259849491,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1259849491,
+    "wof:lastmodified":1537644859,
+    "wof:name":"Jongiyeh",
+    "wof:parent_id":1108719793,
+    "wof:placetype":"locality",
+    "wof:population":4183,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.61667,
+    31.25583,
+    48.61667,
+    31.25583
+],
+  "geometry": {"coordinates":[48.61667,31.25583],"type":"Point"}
+}

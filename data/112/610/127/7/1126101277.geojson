@@ -1,0 +1,93 @@
+{
+  "id": 1126101277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.4407,35.7622,51.4407,35.7622",
+    "geom:latitude":35.7622,
+    "geom:longitude":51.4407,
+    "gn:gn_country":"IR",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"IR",
+    "lbl:latitude":35.7622,
+    "lbl:longitude":51.4407,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"IR",
+    "qs_pg:gn_country":"IR",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":137107,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"D\u0101v\u016bd\u012byeh",
+    "qs_pg:name_adm0":"Iran",
+    "qs_pg:name_adm1":"Tehran",
+    "qs_pg:photos":200,
+    "qs_pg:photos_1k":41,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":200,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":41373,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424851,
+    "qs_pg:woe_id":2224067,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424851,
+    "woe:name_adm0":"Iran",
+    "woe:name_adm1":"Tehran",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85672313,
+        102191569,
+        85632361,
+        1108720491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":137107,
+        "gp:id":2224067,
+        "qs_pg:id":41373
+    },
+    "wof:country":"IR",
+    "wof:created":1497316096,
+    "wof:geomhash":"2337c7a450f42ba70696e6a0d79ab74a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720491,
+            "locality_id":-1,
+            "neighbourhood_id":1126101277,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1126101277,
+    "wof:lastmodified":1534379347,
+    "wof:name":"D\u0101v\u016bd\u012byeh",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[
+        85903739
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.4407,
+    35.7622,
+    51.4407,
+    35.7622
+],
+  "geometry": {"coordinates":[51.4407,35.7622],"type":"Point"}
+}

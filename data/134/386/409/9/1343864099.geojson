@@ -1,0 +1,73 @@
+{
+  "id": 1343864099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.41615,28.75089,60.41615,28.75089",
+    "geom:latitude":28.75089,
+    "geom:longitude":60.41615,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Surna'i",
+    "gn:country_code":"IR",
+    "gn:dem":1494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7091376,
+    "gn:latitude":28.75089,
+    "gn:longitude":60.41615,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"S\u016brn\u0101\u2019\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0631\u0646\u0627\u0626\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "S\u016brn\u0101\u2019\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7091376
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fabedf2da4c915aa1b98d4d7e79d1ff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720517,
+            "locality_id":1343864099,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1343864099,
+    "wof:lastmodified":1537648045,
+    "wof:name":"Surna'i",
+    "wof:parent_id":1108720517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.41615,
+    28.75089,
+    60.41615,
+    28.75089
+],
+  "geometry": {"coordinates":[60.41615,28.75089],"type":"Point"}
+}

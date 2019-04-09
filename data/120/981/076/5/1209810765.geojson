@@ -1,0 +1,73 @@
+{
+  "id": 1209810765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.7651,37.4603,48.7651,37.4603",
+    "geom:latitude":37.4603,
+    "geom:longitude":48.7651,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Charan",
+    "gn:country_code":"IR",
+    "gn:dem":2080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6741791,
+    "gn:latitude":37.4603,
+    "gn:longitude":48.7651,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ch\u0101r\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0631\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Ch\u0101r\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6741791
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ac018dd31cbb98883b45fae8494c3ada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720353,
+            "locality_id":1209810765,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1209810765,
+    "wof:lastmodified":1537647573,
+    "wof:name":"Charan",
+    "wof:parent_id":1108720353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.7651,
+    37.4603,
+    48.7651,
+    37.4603
+],
+  "geometry": {"coordinates":[48.7651,37.4603],"type":"Point"}
+}

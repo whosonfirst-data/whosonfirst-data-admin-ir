@@ -1,0 +1,71 @@
+{
+  "id": 1209579503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.8739,35.8621,45.8739,35.8621",
+    "geom:latitude":35.8621,
+    "geom:longitude":45.8739,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kolahvel",
+    "gn:country_code":"IR",
+    "gn:dem":1604,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3152,
+    "gn:latitude":35.8621,
+    "gn:longitude":45.8739,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kol\u0101hvel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u064f\u0644\u0627\u0647 \u062f\u0648\u0644"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0644\u0627\u0647 \u0648\u0644",
+        "Kol\u0101h D\u016bl",
+        "Kol\u0101hvel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3152,
+        "wk:page":"Kolah_Dul"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0435d5a1d2f468633f14b247cb74d83b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209579503
+        }
+    ],
+    "wof:id":1209579503,
+    "wof:lastmodified":1537640231,
+    "wof:name":"Kolahvel",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.8739,
+    35.8621,
+    45.8739,
+    35.8621
+],
+  "geometry": {"coordinates":[45.8739,35.8621],"type":"Point"}
+}

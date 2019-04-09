@@ -1,0 +1,73 @@
+{
+  "id": 1209803305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.50261,27.24443,55.50261,27.24443",
+    "geom:latitude":27.24443,
+    "geom:longitude":55.50261,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Barkeh-ye Soltan",
+    "gn:country_code":"IR",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8559209,
+    "gn:latitude":27.24443,
+    "gn:longitude":55.50261,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Barkeh-ye Sol\u0163\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u06a9\u0647 \u0633\u0644\u0637\u0646"
+    ],
+    "name:und_x_variant":[
+        "Barkeh-ye Sol\u0163\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8559209
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"33966a895cf13b3efe9fe42283516161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720127,
+            "locality_id":1209803305,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1209803305,
+    "wof:lastmodified":1537648585,
+    "wof:name":"Barkeh-ye Soltan",
+    "wof:parent_id":1108720127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.50261,
+    27.24443,
+    55.50261,
+    27.24443
+],
+  "geometry": {"coordinates":[55.50261,27.24443],"type":"Point"}
+}

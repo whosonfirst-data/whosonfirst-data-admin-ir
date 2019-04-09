@@ -1,0 +1,80 @@
+{
+  "id": 1226101745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.5046,38.3804,47.5046,38.3804",
+    "geom:latitude":38.3804,
+    "geom:longitude":47.5046,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Manjiqchi",
+    "gn:country_code":"IR",
+    "gn:dem":1129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":13200,
+    "gn:latitude":38.3804,
+    "gn:longitude":47.5046,
+    "gn:modification_date":"2015-07-02",
+    "gn:name":"Manj\u012bqch\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u064f\u0646\u062c\u0648\u0642\u0686\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Monj\u016bqch\u012b",
+        "\u0645\u0646\u062c\u06cc\u0642 \u0686\u06cc",
+        "\u06af\u0644\u0633\u062a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Manj\u012bqch\u012b",
+        "Golest\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13200,
+        "wk:page":"Monjuqchi"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bdee13c5184d7a96c43d57a6d57eda4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720237,
+            "locality_id":1226101745,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1226101745,
+    "wof:lastmodified":1537640687,
+    "wof:name":"Manjiqchi",
+    "wof:parent_id":1108720237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.5046,
+    38.3804,
+    47.5046,
+    38.3804
+],
+  "geometry": {"coordinates":[47.5046,38.3804],"type":"Point"}
+}

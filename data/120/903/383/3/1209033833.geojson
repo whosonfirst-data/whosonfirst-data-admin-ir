@@ -1,0 +1,70 @@
+{
+  "id": 1209033833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.41845,34.23498,59.41845,34.23498",
+    "geom:latitude":34.23498,
+    "geom:longitude":59.41845,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Chah-e Masileh",
+    "gn:country_code":"IR",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":29586,
+    "gn:latitude":34.23498,
+    "gn:longitude":59.41845,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ch\u0101h-e Mas\u012bleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Ch\u0101h-e Mas\u012bleh"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u0627\u0647 \u0645\u0633\u06cc\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0686\u0627\u0647 \u0645\u0633\u06cc\u0644\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":29586
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"17b9feaf0b610b5b3aa4f4eaac6d6eec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209033833
+        }
+    ],
+    "wof:id":1209033833,
+    "wof:lastmodified":1537641653,
+    "wof:name":"Chah-e Masileh",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.41845,
+    34.23498,
+    59.41845,
+    34.23498
+],
+  "geometry": {"coordinates":[59.41845,34.23498],"type":"Point"}
+}

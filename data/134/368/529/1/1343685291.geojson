@@ -1,0 +1,74 @@
+{
+  "id": 1343685291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.83852,27.41277,60.83852,27.41277",
+    "geom:latitude":27.41277,
+    "geom:longitude":60.83852,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Marabad",
+    "gn:country_code":"IR",
+    "gn:dem":771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1160313,
+    "gn:latitude":27.41277,
+    "gn:longitude":60.83852,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mar\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Mar\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1160313,
+        "wk:page":"Marabad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f9bfa6d876e589f3cbe1f137931d5ed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720063,
+            "locality_id":1343685291,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1343685291,
+    "wof:lastmodified":1537647033,
+    "wof:name":"Marabad",
+    "wof:parent_id":1108720063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.83852,
+    27.41277,
+    60.83852,
+    27.41277
+],
+  "geometry": {"coordinates":[60.83852,27.41277],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1225813787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.9772,33.5176,47.9772,33.5176",
+    "geom:latitude":33.5176,
+    "geom:longitude":47.9772,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Farzali",
+    "gn:country_code":"IR",
+    "gn:dem":985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":27349,
+    "gn:latitude":33.5176,
+    "gn:longitude":47.9772,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Far\u1e95\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0636\u0627\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Far\u1e95 \u2018Al\u012b",
+        "Far\u1e95\u0101l\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":27349
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9a7e58a942f12bc37317b450db371801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720145,
+            "locality_id":1225813787,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1225813787,
+    "wof:lastmodified":1537641466,
+    "wof:name":"Farzali",
+    "wof:parent_id":1108720145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.9772,
+    33.5176,
+    47.9772,
+    33.5176
+],
+  "geometry": {"coordinates":[47.9772,33.5176],"type":"Point"}
+}

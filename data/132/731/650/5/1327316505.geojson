@@ -1,0 +1,73 @@
+{
+  "id": 1327316505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.20519,30.36737,48.20519,30.36737",
+    "geom:latitude":30.36737,
+    "geom:longitude":48.20519,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Za'er Musa",
+    "gn:country_code":"IR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6687683,
+    "gn:latitude":30.36737,
+    "gn:longitude":48.20519,
+    "gn:modification_date":"2014-07-09",
+    "gn:name":"Z\u0101\u2019er M\u016bs\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u0626\u0631 \u0645\u0648\u0633\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Z\u0101\u2019er M\u016bs\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6687683
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4818910c82c0b025693fc647f0cc3707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720151,
+            "locality_id":1327316505,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1327316505,
+    "wof:lastmodified":1537647399,
+    "wof:name":"Za'er Musa",
+    "wof:parent_id":1108720151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.20519,
+    30.36737,
+    48.20519,
+    30.36737
+],
+  "geometry": {"coordinates":[48.20519,30.36737],"type":"Point"}
+}

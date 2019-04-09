@@ -1,0 +1,77 @@
+{
+  "id": 1209753771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.79602,34.21404,56.79602,34.21404",
+    "geom:latitude":34.21404,
+    "geom:longitude":56.79602,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Sharom",
+    "gn:country_code":"IR",
+    "gn:dem":904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":30837,
+    "gn:latitude":34.21404,
+    "gn:longitude":56.79602,
+    "gn:modification_date":"2015-01-06",
+    "gn:name":"Sh\u0101rom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Sh\u0101rom"
+    ],
+    "name:fas_x_variant":[
+        "Sh\u0101r",
+        "\u0634\u0627\u0631\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u0634\u0627\u0631\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108720469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":30837
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e0cd605b89b07d2d9d2ba0eab50acccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720469,
+            "locality_id":1209753771,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1209753771,
+    "wof:lastmodified":1537641682,
+    "wof:name":"Sharom",
+    "wof:parent_id":1108720469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.79602,
+    34.21404,
+    56.79602,
+    34.21404
+],
+  "geometry": {"coordinates":[56.79602,34.21404],"type":"Point"}
+}

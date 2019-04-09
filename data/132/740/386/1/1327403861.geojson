@@ -1,0 +1,79 @@
+{
+  "id": 1327403861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.28343,30.79841,49.28343,30.79841",
+    "geom:latitude":30.79841,
+    "geom:longitude":49.28343,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Hadid",
+    "gn:country_code":"IR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":132473,
+    "gn:latitude":30.79841,
+    "gn:longitude":49.28343,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"\u1e28ad\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u062f\u06cc\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28em\u0101yat",
+        "\u1e28edeyd",
+        "\u1e28ad\u012bd"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ad\u012bd",
+        "Hamayat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":132473
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"983712e4219e023bdb7950b6cc807fcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719871,
+            "locality_id":1327403861,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1327403861,
+    "wof:lastmodified":1537645070,
+    "wof:name":"Hadid",
+    "wof:parent_id":1108719871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.28343,
+    30.79841,
+    49.28343,
+    30.79841
+],
+  "geometry": {"coordinates":[49.28343,30.79841],"type":"Point"}
+}

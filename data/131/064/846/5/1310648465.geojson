@@ -1,0 +1,83 @@
+{
+  "id": 1310648465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.588,35.9055,51.588,35.9055",
+    "geom:latitude":35.9055,
+    "geom:longitude":51.588,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ammameh",
+    "gn:country_code":"IR",
+    "gn:dem":2194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":404711,
+    "gn:latitude":35.9055,
+    "gn:longitude":51.588,
+    "gn:modification_date":"2013-09-09",
+    "gn:name":"Amm\u0101meh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0650\u0645\u0627\u0645\u0650\u06c0 \u067e\u0627\u0626\u064a\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0645\u0627\u0645\u0647 \u0628\u0627\u0644\u0627",
+        "\u0627\u0645\u0627\u0645\u0647 \u062f\u0647 \u0628\u0627\u0644\u0627",
+        "Em\u0101meh-ye P\u0101\u2019\u012bn",
+        "Amm\u0101meh-ye Deh-e B\u0101l\u0101",
+        "\u0627\u0645\u0627\u0645\u0647"
+    ],
+    "name:und_x_variant":[
+        "Amm\u0101meh-e B\u0101l\u0101",
+        "Amm\u0101meh",
+        "Amm\u0101meh-ye B\u0101l\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672313,
+        1108720445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":404711,
+        "wk:page":"Ammameh-e_Bala"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7ccb7fd2031e1ce40d439b1a6a55e756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720445,
+            "locality_id":1310648465,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1310648465,
+    "wof:lastmodified":1537646576,
+    "wof:name":"Ammameh",
+    "wof:parent_id":1108720445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.588,
+    35.9055,
+    51.588,
+    35.9055
+],
+  "geometry": {"coordinates":[51.588,35.9055],"type":"Point"}
+}

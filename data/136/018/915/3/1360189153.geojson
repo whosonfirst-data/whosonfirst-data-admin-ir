@@ -1,0 +1,79 @@
+{
+  "id": 1360189153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.58595,30.57498,50.58595,30.57498",
+    "geom:latitude":30.57498,
+    "geom:longitude":50.58595,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Duk",
+    "gn:country_code":"IR",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":121688,
+    "gn:latitude":30.57498,
+    "gn:longitude":50.58595,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"D\u016bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "D\u016bk"
+    ],
+    "name:fas_x_variant":[
+        "P\u0101yd\u016bk",
+        "\u062f\u0648\u0643"
+    ],
+    "name:und_x_variant":[
+        "P\u0101d\u016bk",
+        "\u062f\u0648\u0643"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":121688,
+        "wk:page":"Paduk"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"61b4136c4d7c4fcb5dae0b6c278d9252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720015,
+            "locality_id":1360189153,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1360189153,
+    "wof:lastmodified":1537643975,
+    "wof:name":"Duk",
+    "wof:parent_id":1108720015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.58595,
+    30.57498,
+    50.58595,
+    30.57498
+],
+  "geometry": {"coordinates":[50.58595,30.57498],"type":"Point"}
+}

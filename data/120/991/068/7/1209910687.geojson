@@ -1,0 +1,71 @@
+{
+  "id": 1209910687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.2464,27.3165,53.2464,27.3165",
+    "geom:latitude":27.3165,
+    "geom:longitude":53.2464,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kherreh",
+    "gn:country_code":"IR",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":48735,
+    "gn:latitude":27.3165,
+    "gn:longitude":53.2464,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Kherreh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":48735,
+        "wk:page":"Kherreh%2C_Fars"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"88452a68b7e345e9d59086c9a94acc50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720181,
+            "locality_id":1209910687,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1209910687,
+    "wof:lastmodified":1537642746,
+    "wof:name":"Kherreh",
+    "wof:parent_id":1108720181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.2464,
+    27.3165,
+    53.2464,
+    27.3165
+],
+  "geometry": {"coordinates":[53.2464,27.3165],"type":"Point"}
+}

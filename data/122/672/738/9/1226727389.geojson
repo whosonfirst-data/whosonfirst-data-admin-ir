@@ -1,0 +1,79 @@
+{
+  "id": 1226727389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.8209,27.2897,52.8209,27.2897",
+    "geom:latitude":27.2897,
+    "geom:longitude":52.8209,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Tonbu-ye Jonubi",
+    "gn:country_code":"IR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112666,
+    "gn:latitude":27.2897,
+    "gn:longitude":52.8209,
+    "gn:modification_date":"2013-08-04",
+    "gn:name":"Tonb\u016b-ye Jon\u016bb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0645\u0628\u0648 \u062c\u0646\u0648\u0628\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Tomb\u016b Jon\u016bb\u012b",
+        "\u062a\u0646\u0628\u0648 \u062c\u0646\u0648\u0628\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Tomb\u016b Jan\u016bb\u012b",
+        "Tonb\u016b-ye Jon\u016bb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112666,
+        "wk:page":"Tombu_Jonubi"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1a82d6575ba5d47ccc9fb4fddc745214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720025,
+            "locality_id":1226727389,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1226727389,
+    "wof:lastmodified":1537643111,
+    "wof:name":"Tonbu-ye Jonubi",
+    "wof:parent_id":1108720025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.8209,
+    27.2897,
+    52.8209,
+    27.2897
+],
+  "geometry": {"coordinates":[52.8209,27.2897],"type":"Point"}
+}

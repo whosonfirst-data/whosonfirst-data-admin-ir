@@ -1,0 +1,81 @@
+{
+  "id": 1343848159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.91044,37.16159,49.91044,37.16159",
+    "geom:latitude":37.16159,
+    "geom:longitude":49.91044,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Malfejan",
+    "gn:country_code":"IR",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":67602,
+    "gn:latitude":37.16159,
+    "gn:longitude":49.91044,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"M\u0101lfej\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "M\u0101lfej\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "M\u0101lfej\u0101n-e B\u0101l\u0101",
+        "\u0645\u0627\u0644\u0641\u062c\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Murufudzhan",
+        "M\u0101laf J\u0101n",
+        "M\u0101lfaj\u0101h",
+        "\u0645\u0627\u0644\u0641\u062c\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":67602,
+        "wk:page":"Malfejan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"722275fd179fd17bf433c50489311ddf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720459,
+            "locality_id":1343848159,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1343848159,
+    "wof:lastmodified":1537642847,
+    "wof:name":"Malfejan",
+    "wof:parent_id":1108720459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.91044,
+    37.16159,
+    49.91044,
+    37.16159
+],
+  "geometry": {"coordinates":[49.91044,37.16159],"type":"Point"}
+}

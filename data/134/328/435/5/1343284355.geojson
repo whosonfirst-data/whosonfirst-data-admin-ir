@@ -1,0 +1,74 @@
+{
+  "id": 1343284355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.21685,30.99482,51.21685,30.99482",
+    "geom:latitude":30.99482,
+    "geom:longitude":51.21685,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Tomanak",
+    "gn:country_code":"IR",
+    "gn:dem":1512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":46518,
+    "gn:latitude":30.99482,
+    "gn:longitude":51.21685,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Tomanak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0645\u0646\u06a9"
+    ],
+    "name:und_x_variant":[
+        "\u062a\u0645\u0646\u06a9",
+        "Tomanak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108719965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":46518
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"74152fa6546340fdc7da133178fdd10d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719965,
+            "locality_id":1343284355,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1343284355,
+    "wof:lastmodified":1537642615,
+    "wof:name":"Tomanak",
+    "wof:parent_id":1108719965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.21685,
+    30.99482,
+    51.21685,
+    30.99482
+],
+  "geometry": {"coordinates":[51.21685,30.99482],"type":"Point"}
+}

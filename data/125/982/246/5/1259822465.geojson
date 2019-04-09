@@ -1,0 +1,80 @@
+{
+  "id": 1259822465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.12881,36.12116,48.12881,36.12116",
+    "geom:latitude":36.12116,
+    "geom:longitude":48.12881,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Jahanshahlu",
+    "gn:country_code":"IR",
+    "gn:dem":1443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":113591,
+    "gn:latitude":36.12116,
+    "gn:longitude":48.12881,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Jah\u0101nsh\u0101hl\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u064e\u0647\u0627\u0646\u0634\u0627\u0647\u0644\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0637\u0627\u0647\u0631\u0644\u0648",
+        "\u062c\u0647\u0627\u0646\u0634\u0627\u0647 \u0644\u0648",
+        "Jah\u0101nsh\u0101hl\u016b"
+    ],
+    "name:und_x_variant":[
+        "Dzhakhanshakhlu",
+        "\u0162\u0101herl\u016b",
+        "Jeh\u0101nsh\u0101hlu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672361,
+        1108720059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":113591
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2959cb130edd7c4db5d3aa8b0a45035d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720059,
+            "locality_id":1259822465,
+            "region_id":85672361
+        }
+    ],
+    "wof:id":1259822465,
+    "wof:lastmodified":1537643202,
+    "wof:name":"Jahanshahlu",
+    "wof:parent_id":1108720059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.12881,
+    36.12116,
+    48.12881,
+    36.12116
+],
+  "geometry": {"coordinates":[48.12881,36.12116],"type":"Point"}
+}

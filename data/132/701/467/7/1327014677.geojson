@@ -1,0 +1,76 @@
+{
+  "id": 1327014677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.0479,37.3613,49.0479,37.3613",
+    "geom:latitude":37.3613,
+    "geom:longitude":49.0479,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Kurbur",
+    "gn:country_code":"IR",
+    "gn:dem":745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6757956,
+    "gn:latitude":37.3613,
+    "gn:longitude":49.0479,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"K\u016brb\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0631\u0628\u0648\u0631"
+    ],
+    "name:fas_x_variant":[
+        "K\u016brb\u016br"
+    ],
+    "name:und_x_variant":[
+        "K\u016brb\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6757956
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ae6b64ac039b2ebe9992a6ff00a72d40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720225,
+            "locality_id":1327014677,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1327014677,
+    "wof:lastmodified":1537647653,
+    "wof:name":"Kurbur",
+    "wof:parent_id":1108720225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.0479,
+    37.3613,
+    49.0479,
+    37.3613
+],
+  "geometry": {"coordinates":[49.0479,37.3613],"type":"Point"}
+}

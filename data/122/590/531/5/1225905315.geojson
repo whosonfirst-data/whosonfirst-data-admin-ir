@@ -1,0 +1,76 @@
+{
+  "id": 1225905315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.3379,30.4583,55.3379,30.4583",
+    "geom:latitude":30.4583,
+    "geom:longitude":55.3379,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Darreh Bagh",
+    "gn:country_code":"IR",
+    "gn:dem":2268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":68625,
+    "gn:latitude":30.4583,
+    "gn:longitude":55.3379,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Darreh B\u0101gh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0651\u0647 \u0628\u0627\u063a"
+    ],
+    "name:fas_x_variant":[
+        "Darreh B\u0101gh"
+    ],
+    "name:und_x_variant":[
+        "Deh B\u0101gh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":68625
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"20c7ebb18b8def90481e860635b2c7b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720433,
+            "locality_id":1225905315,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1225905315,
+    "wof:lastmodified":1537642884,
+    "wof:name":"Darreh Bagh",
+    "wof:parent_id":1108720433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.3379,
+    30.4583,
+    55.3379,
+    30.4583
+],
+  "geometry": {"coordinates":[55.3379,30.4583],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1326826745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.22704,37.04022,49.22704,37.04022",
+    "geom:latitude":37.04022,
+    "geom:longitude":49.22704,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Suteh",
+    "gn:country_code":"IR",
+    "gn:dem":1631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6757910,
+    "gn:latitude":37.04022,
+    "gn:longitude":49.22704,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"S\u016bteh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u062a\u0647"
+    ],
+    "name:fas_x_variant":[
+        "S\u016bteh"
+    ],
+    "name:und_x_variant":[
+        "S\u016bteh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6757910
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c9441f5e94393a28f2728df1a98129ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720427,
+            "locality_id":1326826745,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1326826745,
+    "wof:lastmodified":1537647651,
+    "wof:name":"Suteh",
+    "wof:parent_id":1108720427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.22704,
+    37.04022,
+    49.22704,
+    37.04022
+],
+  "geometry": {"coordinates":[49.22704,37.04022],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1276976859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.93895,37.1573,49.93895,37.1573",
+    "geom:latitude":37.1573,
+    "geom:longitude":49.93895,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Bala Mahalleh-ye Tamushel",
+    "gn:country_code":"IR",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112729,
+    "gn:latitude":37.1573,
+    "gn:longitude":49.93895,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"B\u0101l\u0101 Ma\u1e29alleh-ye Tam\u016bshel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Tokhm-e Sh\u0101l"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u062e\u0645 \u0634\u0627\u0644",
+        "\u0628\u0627\u0644\u0627 \u0645\u062d\u0644\u0647 \u062a\u0645\u0648\u0634\u0644",
+        "\u0628\u0627\u0644\u0627 \u062a\u0645\u0648\u0634\u0644"
+    ],
+    "name:und_x_variant":[
+        "Tokhmishal",
+        "Tokhm Shol",
+        "\u062a\u062e\u0645 \u0634\u0627\u0644",
+        "Tokhm-e Shal",
+        "B\u0101l\u0101 Ma\u1e29alleh-ye Tam\u016bshel",
+        "B\u0101l\u0101 Tam\u016bshel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112729
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d3b17ff7d790339b2ab1717e40917ca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720173,
+            "locality_id":1276976859,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1276976859,
+    "wof:lastmodified":1537643117,
+    "wof:name":"Bala Mahalleh-ye Tamushel",
+    "wof:parent_id":1108720173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.93895,
+    37.1573,
+    49.93895,
+    37.1573
+],
+  "geometry": {"coordinates":[49.93895,37.1573],"type":"Point"}
+}

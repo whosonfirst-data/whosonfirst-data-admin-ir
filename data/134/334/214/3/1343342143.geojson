@@ -1,0 +1,80 @@
+{
+  "id": 1343342143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.46622,25.78613,58.46622,25.78613",
+    "geom:latitude":25.78613,
+    "geom:longitude":58.46622,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Lireh'i",
+    "gn:country_code":"IR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":125699,
+    "gn:latitude":25.78613,
+    "gn:longitude":58.46622,
+    "gn:modification_date":"2018-07-06",
+    "gn:name":"L\u012breh\u2019\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u064a\u0631\u0650\u0647\u0626\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0644\u0650\u064a\u0631\u0650\u0647\u0626\u06cc",
+        "L\u012breh\u2019\u012b",
+        "\u0644\u06cc\u0631\u0647 \u0627\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Leyreh\u2019\u012b",
+        "\u0644\u06cc\u0631\u0647 \u0627\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":125699,
+        "wk:page":"Lirehi"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"17a5e56f0d158537c63b7604320c6fb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720077,
+            "locality_id":1343342143,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1343342143,
+    "wof:lastmodified":1537644376,
+    "wof:name":"Lireh'i",
+    "wof:parent_id":1108720077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.46621999999999,
+    25.78613,
+    58.46621999999999,
+    25.78613
+],
+  "geometry": {"coordinates":[58.46621999999999,25.78613],"type":"Point"}
+}

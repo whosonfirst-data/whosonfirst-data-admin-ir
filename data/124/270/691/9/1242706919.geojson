@@ -1,0 +1,80 @@
+{
+  "id": 1242706919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.82168,36.61394,56.82168,36.61394",
+    "geom:latitude":36.61394,
+    "geom:longitude":56.82168,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Manidar",
+    "gn:country_code":"IR",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":124974,
+    "gn:latitude":36.61394,
+    "gn:longitude":56.82168,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Man\u012bdar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Man\u012bdar"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0646\u06cc\u062f\u0631",
+        "Mon\u012bdar"
+    ],
+    "name:und_x_variant":[
+        "Mon\u012bdar",
+        "Manidir",
+        "\u0645\u0646\u06cc\u062f\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":124974,
+        "wk:page":"Manidar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9fa879ea1b342a0316715fc45363fc44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720367,
+            "locality_id":1242706919,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1242706919,
+    "wof:lastmodified":1537644302,
+    "wof:name":"Manidar",
+    "wof:parent_id":1108720367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.82168000000001,
+    36.61394,
+    56.82168000000001,
+    36.61394
+],
+  "geometry": {"coordinates":[56.82168000000001,36.61394],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1309732217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.86327,29.97382,51.86327,29.97382",
+    "geom:latitude":29.97382,
+    "geom:longitude":51.86327,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tir Taj",
+    "gn:country_code":"IR",
+    "gn:dem":1703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7449999,
+    "gn:latitude":29.97382,
+    "gn:longitude":51.86327,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"T\u012br T\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "T\u012br T\u0101j"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u06cc\u0631 \u062a\u0627\u062c"
+    ],
+    "name:und_x_variant":[
+        "\u062a\u06cc\u0631 \u062a\u0627\u062c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7449999
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c340d43f21ba44d514a9b4c2a76feaa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720209,
+            "locality_id":1309732217,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1309732217,
+    "wof:lastmodified":1537648210,
+    "wof:name":"Tir Taj",
+    "wof:parent_id":1108720209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.86327,
+    29.97382,
+    51.86327,
+    29.97382
+],
+  "geometry": {"coordinates":[51.86327,29.97382],"type":"Point"}
+}

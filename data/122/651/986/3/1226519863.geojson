@@ -1,0 +1,83 @@
+{
+  "id": 1226519863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.03,27.1205,53.03,27.1205",
+    "geom:latitude":27.1205,
+    "geom:longitude":53.03,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Postanu",
+    "gn:country_code":"IR",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":140014,
+    "gn:latitude":27.1205,
+    "gn:longitude":53.03,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Post\u0101n\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0633\u062a\u0627\u0646\u0648"
+    ],
+    "name:fas_x_variant":[
+        "Bost\u0101n\u016b",
+        "Post\u0101n\u016b",
+        "\u0628\u0646\u062f\u0631 \u0628\u0633\u062a\u0627\u0646\u0648"
+    ],
+    "name:und_x_variant":[
+        "Bastaneh",
+        "Bost\u0101neh",
+        "B\u016bst\u0101nu",
+        "Bustani",
+        "Bandar-e Bost\u0101n\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140014,
+        "wk:page":"Bandar-e_Bostanu"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d8aa3ed62fb1d24c1ac28b17dc49f420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720025,
+            "locality_id":1226519863,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1226519863,
+    "wof:lastmodified":1537645832,
+    "wof:name":"Postanu",
+    "wof:parent_id":1108720025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.03,
+    27.1205,
+    53.03,
+    27.1205
+],
+  "geometry": {"coordinates":[53.03,27.1205],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1226438305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.65273,34.76713,48.65273,34.76713",
+    "geom:latitude":34.76713,
+    "geom:longitude":48.65273,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Gerd Bolagh",
+    "gn:country_code":"IR",
+    "gn:dem":1973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":126593,
+    "gn:latitude":34.76713,
+    "gn:longitude":48.65273,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Gerd Bol\u0101gh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0643\u064f\u0631\u062f \u0628\u064f\u0644\u0627\u063a"
+    ],
+    "name:fas_x_variant":[
+        "Gerd Bol\u0101gh",
+        "Kord Bol\u0101gh",
+        "\u06af\u0631\u062f \u0628\u0644\u0627\u063a"
+    ],
+    "name:und_x_variant":[
+        "\u06af\u0631\u062f \u0628\u0644\u0627\u063a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":126593,
+        "wk:page":"Kord_Bolagh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"befa1afa664b8d156f7d96d99a0d57b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720047,
+            "locality_id":1226438305,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1226438305,
+    "wof:lastmodified":1537644466,
+    "wof:name":"Gerd Bolagh",
+    "wof:parent_id":1108720047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.65273,
+    34.76713,
+    48.65273,
+    34.76713
+],
+  "geometry": {"coordinates":[48.65273,34.76713],"type":"Point"}
+}

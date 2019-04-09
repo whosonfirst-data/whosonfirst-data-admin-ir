@@ -1,0 +1,73 @@
+{
+  "id": 1309862819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.51742,35.23416,52.51742,35.23416",
+    "geom:latitude":35.23416,
+    "geom:longitude":52.51742,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Qahremani",
+    "gn:country_code":"IR",
+    "gn:dem":848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7633620,
+    "gn:latitude":35.23416,
+    "gn:longitude":52.51742,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qahrem\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Qahrem\u0101n\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u0642\u0647\u0631\u0645\u0627\u0646\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672309,
+        1108720023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7633620
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b8c29fe24d30d07f7f8147f56b883e7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720023,
+            "locality_id":1309862819,
+            "region_id":85672309
+        }
+    ],
+    "wof:id":1309862819,
+    "wof:lastmodified":1537648476,
+    "wof:name":"Qahremani",
+    "wof:parent_id":1108720023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.51742,
+    35.23416,
+    52.51742,
+    35.23416
+],
+  "geometry": {"coordinates":[52.51742,35.23416],"type":"Point"}
+}

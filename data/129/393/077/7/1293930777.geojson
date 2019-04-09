@@ -1,0 +1,75 @@
+{
+  "id": 1293930777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.66667,33.48333,53.66667,33.48333",
+    "geom:latitude":33.48333,
+    "geom:longitude":53.66667,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Hajji Mehdi",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":132224,
+    "gn:latitude":33.48333,
+    "gn:longitude":53.66667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28\u0101jj\u012b Mehd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u1e28\u0101jj\u012b Mehd\u012b"
+    ],
+    "name:und_x_variant":[
+        "H\u0101ji Mihdi",
+        "\u1e28\u0101jj Mehd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":132224
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6bbadfc75c175c5fdb65079c7730b0aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720255,
+            "locality_id":1293930777,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1293930777,
+    "wof:lastmodified":1537645044,
+    "wof:name":"Hajji Mehdi",
+    "wof:parent_id":1108720255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.66667,
+    33.48333,
+    53.66667,
+    33.48333
+],
+  "geometry": {"coordinates":[53.66667,33.48333],"type":"Point"}
+}

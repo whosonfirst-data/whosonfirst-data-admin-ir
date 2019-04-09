@@ -1,0 +1,70 @@
+{
+  "id": 1343331695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.016,32.1624,49.016,32.1624",
+    "geom:latitude":32.1624,
+    "geom:longitude":49.016,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sartang",
+    "gn:country_code":"IR",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6661881,
+    "gn:latitude":32.1624,
+    "gn:longitude":49.016,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sartang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u062a\u0646\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6661881
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"caf6477d1d74f1b25242a14146e51e47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720229,
+            "locality_id":1343331695,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1343331695,
+    "wof:lastmodified":1537647290,
+    "wof:name":"Sartang",
+    "wof:parent_id":1108720229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.01600000000001,
+    32.1624,
+    49.01600000000001,
+    32.1624
+],
+  "geometry": {"coordinates":[49.01600000000001,32.1624],"type":"Point"}
+}

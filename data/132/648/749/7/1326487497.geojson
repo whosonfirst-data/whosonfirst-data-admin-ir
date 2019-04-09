@@ -1,0 +1,74 @@
+{
+  "id": 1326487497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.33333,36.05,54.33333,36.05",
+    "geom:latitude":36.05,
+    "geom:longitude":54.33333,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Zeylabad",
+    "gn:country_code":"IR",
+    "gn:dem":1076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":39237,
+    "gn:latitude":36.05,
+    "gn:longitude":54.33333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Z\u0304eyl\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0630\u0650\u064a\u0644 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Z\u0304eyl\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672309,
+        1108719937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":39237,
+        "wk:page":"Zeylabad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5361afa976db1635bc27aeba840ac092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719937,
+            "locality_id":1326487497,
+            "region_id":85672309
+        }
+    ],
+    "wof:id":1326487497,
+    "wof:lastmodified":1537642204,
+    "wof:name":"Zeylabad",
+    "wof:parent_id":1108719937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.33333,
+    36.05,
+    54.33333,
+    36.05
+],
+  "geometry": {"coordinates":[54.33333,36.05],"type":"Point"}
+}

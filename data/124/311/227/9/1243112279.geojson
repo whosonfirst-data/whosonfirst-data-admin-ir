@@ -1,0 +1,73 @@
+{
+  "id": 1243112279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.46667,36.81087,50.46667,36.81087",
+    "geom:latitude":36.81087,
+    "geom:longitude":50.46667,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Palham Dasht",
+    "gn:country_code":"IR",
+    "gn:dem":2483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10527,
+    "gn:latitude":36.81087,
+    "gn:longitude":50.46667,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"Palham Dasht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "B\u0101gh Dasht"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u0644\u0647\u0645 \u062f\u0634\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10527
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ea7de59985f21d9e553280511e4eb3b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720333,
+            "locality_id":1243112279,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1243112279,
+    "wof:lastmodified":1537640578,
+    "wof:name":"Palham Dasht",
+    "wof:parent_id":1108720333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.46667,
+    36.81087,
+    50.46667,
+    36.81087
+],
+  "geometry": {"coordinates":[50.46667,36.81087],"type":"Point"}
+}

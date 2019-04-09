@@ -1,0 +1,73 @@
+{
+  "id": 1209715449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.5139,27.1792,61.5139,27.1792",
+    "geom:latitude":27.1792,
+    "geom:longitude":61.5139,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Gurabak",
+    "gn:country_code":"IR",
+    "gn:dem":1327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6979411,
+    "gn:latitude":27.1792,
+    "gn:longitude":61.5139,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"G\u016br\u0101bak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0631\u0627\u0628\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "G\u016br\u0101bak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6979411
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fd27d2601ca455153ca66c0ce446262e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720389,
+            "locality_id":1209715449,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1209715449,
+    "wof:lastmodified":1537647805,
+    "wof:name":"Gurabak",
+    "wof:parent_id":1108720389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.5139,
+    27.1792,
+    61.5139,
+    27.1792
+],
+  "geometry": {"coordinates":[61.5139,27.1792],"type":"Point"}
+}

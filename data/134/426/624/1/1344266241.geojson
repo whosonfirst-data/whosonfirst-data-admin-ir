@@ -1,0 +1,77 @@
+{
+  "id": 1344266241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.3714,39.3083,44.3714,39.3083",
+    "geom:latitude":39.3083,
+    "geom:longitude":44.3714,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Parakhowdik",
+    "gn:country_code":"IR",
+    "gn:dem":1780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":14143,
+    "gn:latitude":39.3083,
+    "gn:longitude":44.3714,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Par\u0101khowd\u012bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u067e\u064e\u0631\u0627\u062e\u064f\u0648\u062f\u064a\u0643"
+    ],
+    "name:fas_x_variant":[
+        "Par\u0101khowd\u012bk",
+        "\u067e\u0631\u0627\u062e\u0648\u062f\u064a\u06a9"
+    ],
+    "name:und_x_variant":[
+        "\u067e\u0631\u0627\u062e\u0648\u062f\u064a\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":14143
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d1edbf6e1f95d9dac2c84ba0e31e88af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720203,
+            "locality_id":1344266241,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1344266241,
+    "wof:lastmodified":1537640785,
+    "wof:name":"Parakhowdik",
+    "wof:parent_id":1108720203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.3714,
+    39.3083,
+    44.3714,
+    39.3083
+],
+  "geometry": {"coordinates":[44.3714,39.3083],"type":"Point"}
+}

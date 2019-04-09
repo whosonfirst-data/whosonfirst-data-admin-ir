@@ -1,0 +1,76 @@
+{
+  "id": 1344229739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.86422,31.573,49.86422,31.573",
+    "geom:latitude":31.573,
+    "geom:longitude":49.86422,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Loran",
+    "gn:country_code":"IR",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":14447,
+    "gn:latitude":31.573,
+    "gn:longitude":49.86422,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Lor\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Lor\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u0644\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0644\u0631\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":14447
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"235c14ae346771e7d7c05bc4b2807cf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719853,
+            "locality_id":1344229739,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1344229739,
+    "wof:lastmodified":1537640816,
+    "wof:name":"Loran",
+    "wof:parent_id":1108719853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.86422,
+    31.573,
+    49.86422,
+    31.573
+],
+  "geometry": {"coordinates":[49.86422,31.573],"type":"Point"}
+}

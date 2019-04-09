@@ -1,0 +1,64 @@
+{
+  "id": 1209076057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.13,32.1932,49.13,32.1932",
+    "geom:latitude":32.1932,
+    "geom:longitude":49.13,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sarpar",
+    "gn:country_code":"IR",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6661902,
+    "gn:latitude":32.1932,
+    "gn:longitude":49.13,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sarpar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u067e\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6661902
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"94459361ee8367a379d5fd4acb49971c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209076057
+        }
+    ],
+    "wof:id":1209076057,
+    "wof:lastmodified":1537647291,
+    "wof:name":"Sarpar",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.13,
+    32.1932,
+    49.13,
+    32.1932
+],
+  "geometry": {"coordinates":[49.13,32.1932],"type":"Point"}
+}

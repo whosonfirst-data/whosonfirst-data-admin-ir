@@ -1,0 +1,77 @@
+{
+  "id": 1326815121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.07751,37.13438,50.07751,37.13438",
+    "geom:latitude":37.13438,
+    "geom:longitude":50.07751,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Kureh",
+    "gn:country_code":"IR",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":28856,
+    "gn:latitude":37.13438,
+    "gn:longitude":50.07751,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"K\u016breh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "K\u016breh"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0648\u0631\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u06a9\u0648\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":28856,
+        "wk:page":"Kureh,_Gilan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b337b47566a58b9b345f98a94f17f21a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720173,
+            "locality_id":1326815121,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1326815121,
+    "wof:lastmodified":1537641584,
+    "wof:name":"Kureh",
+    "wof:parent_id":1108720173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.07751,
+    37.13438,
+    50.07751,
+    37.13438
+],
+  "geometry": {"coordinates":[50.07751,37.13438],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327260553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.4839,35.9749,50.4839,35.9749",
+    "geom:latitude":35.9749,
+    "geom:longitude":50.4839,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Hasan Bakul",
+    "gn:country_code":"IR",
+    "gn:dem":1162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":41664,
+    "gn:latitude":35.9749,
+    "gn:longitude":50.4839,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28asan Bak\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062d\u0633\u0646 \u0628\u0643\u0648\u0644"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28asan Bak\u016bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672415,
+        1108720409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":41664,
+        "wk:page":"Hasan_Bakul"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"10cf79d232bdc8451b60a30ca7741e8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720409,
+            "locality_id":1327260553,
+            "region_id":85672415
+        }
+    ],
+    "wof:id":1327260553,
+    "wof:lastmodified":1537642347,
+    "wof:name":"Hasan Bakul",
+    "wof:parent_id":1108720409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.4839,
+    35.9749,
+    50.4839,
+    35.9749
+],
+  "geometry": {"coordinates":[50.4839,35.9749],"type":"Point"}
+}

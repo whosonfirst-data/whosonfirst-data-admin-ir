@@ -1,0 +1,73 @@
+{
+  "id": 1226808769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.8785,38.4944,47.8785,38.4944",
+    "geom:latitude":38.4944,
+    "geom:longitude":47.8785,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"`Aliabad",
+    "gn:country_code":"IR",
+    "gn:dem":1260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":35721,
+    "gn:latitude":38.4944,
+    "gn:longitude":47.8785,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u2018Al\u012b\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0639\u0644\u06cc \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u2018Al\u012b\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":35721
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2c1c040f15f411ad8ada87fee8fd6b8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720237,
+            "locality_id":1226808769,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1226808769,
+    "wof:lastmodified":1537641966,
+    "wof:name":"`Aliabad",
+    "wof:parent_id":1108720237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.8785,
+    38.4944,
+    47.8785,
+    38.4944
+],
+  "geometry": {"coordinates":[47.8785,38.4944],"type":"Point"}
+}

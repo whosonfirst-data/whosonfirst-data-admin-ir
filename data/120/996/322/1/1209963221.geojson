@@ -1,0 +1,73 @@
+{
+  "id": 1209963221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.31978,28.1856,57.31978,28.1856",
+    "geom:latitude":28.1856,
+    "geom:longitude":57.31978,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Lardabad",
+    "gn:country_code":"IR",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":10179272,
+    "gn:latitude":28.1856,
+    "gn:longitude":57.31978,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Lard\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0631\u062f \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Lard\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10179272
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b70d1ec4d45f1b0eafc72d5fc9b107a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720091,
+            "locality_id":1209963221,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1209963221,
+    "wof:lastmodified":1537648667,
+    "wof:name":"Lardabad",
+    "wof:parent_id":1108720091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.31978,
+    28.1856,
+    57.31978,
+    28.1856
+],
+  "geometry": {"coordinates":[57.31978,28.1856],"type":"Point"}
+}

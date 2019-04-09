@@ -1,0 +1,77 @@
+{
+  "id": 1259433655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.8698,32.743,52.8698,32.743",
+    "geom:latitude":32.743,
+    "geom:longitude":52.8698,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Nujuk",
+    "gn:country_code":"IR",
+    "gn:dem":2251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":405472,
+    "gn:latitude":32.743,
+    "gn:longitude":52.8698,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"N\u016bj\u016bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u062c\u0648\u0643"
+    ],
+    "name:fas_x_variant":[
+        "N\u016bj\u016bk"
+    ],
+    "name:und_x_variant":[
+        "Now J\u016bk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":405472,
+        "wk:page":"Nujuk"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b4abc93df2853d2c3ab5c55830b322ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720255,
+            "locality_id":1259433655,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1259433655,
+    "wof:lastmodified":1537646597,
+    "wof:name":"Nujuk",
+    "wof:parent_id":1108720255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.8698,
+    32.743,
+    52.8698,
+    32.743
+],
+  "geometry": {"coordinates":[52.8698,32.743],"type":"Point"}
+}

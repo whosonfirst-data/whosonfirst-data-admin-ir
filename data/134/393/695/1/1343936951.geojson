@@ -1,0 +1,74 @@
+{
+  "id": 1343936951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.66447,34.87179,47.66447,34.87179",
+    "geom:latitude":34.87179,
+    "geom:longitude":47.66447,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Dar Heydar",
+    "gn:country_code":"IR",
+    "gn:dem":1976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":24014,
+    "gn:latitude":34.87179,
+    "gn:longitude":47.66447,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"D\u0101r \u1e28eydar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0631 \u062d\u06cc\u062f\u0631"
+    ],
+    "name:fas_x_variant":[
+        "D\u0101r \u1e28eydar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":24014,
+        "wk:page":"Dar_Heydar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a5a5a6ef20cb9c0e82ab22acdfcdfe78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720463,
+            "locality_id":1343936951,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1343936951,
+    "wof:lastmodified":1537641251,
+    "wof:name":"Dar Heydar",
+    "wof:parent_id":1108720463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.66447,
+    34.87179,
+    47.66447,
+    34.87179
+],
+  "geometry": {"coordinates":[47.66447,34.87179],"type":"Point"}
+}

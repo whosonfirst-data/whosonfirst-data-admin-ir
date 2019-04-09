@@ -1,0 +1,74 @@
+{
+  "id": 1193181949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.99473,35.2133,49.99473,35.2133",
+    "geom:latitude":35.2133,
+    "geom:longitude":49.99473,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Torshak",
+    "gn:country_code":"IR",
+    "gn:dem":2004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":112604,
+    "gn:latitude":35.2133,
+    "gn:longitude":49.99473,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Torshak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0634\u0643"
+    ],
+    "name:und_x_variant":[
+        "Turshak",
+        "Torshak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112604
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"34ecffc11f5174acd980cb59e3f24379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720407,
+            "locality_id":1193181949,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1193181949,
+    "wof:lastmodified":1537643105,
+    "wof:name":"Torshak",
+    "wof:parent_id":1108720407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.99473,
+    35.2133,
+    49.99473,
+    35.2133
+],
+  "geometry": {"coordinates":[49.99473,35.2133],"type":"Point"}
+}

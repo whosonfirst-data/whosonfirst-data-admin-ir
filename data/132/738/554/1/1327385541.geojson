@@ -1,0 +1,79 @@
+{
+  "id": 1327385541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.4291,35.5563,49.4291,35.5563",
+    "geom:latitude":35.5563,
+    "geom:longitude":49.4291,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Mindak",
+    "gn:country_code":"IR",
+    "gn:dem":2238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":123933,
+    "gn:latitude":35.5563,
+    "gn:longitude":49.4291,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"M\u012bndak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0646\u062f\u0643"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0650\u0646\u064e\u0643",
+        "\u0645\u0646\u062f\u06a9",
+        "M\u012bndak"
+    ],
+    "name:und_x_variant":[
+        "Menak",
+        "Mendak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108719913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":123933
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1b497e0c96cf197056286af38bd57cc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719913,
+            "locality_id":1327385541,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1327385541,
+    "wof:lastmodified":1537644201,
+    "wof:name":"Mindak",
+    "wof:parent_id":1108719913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.4291,
+    35.5563,
+    49.4291,
+    35.5563
+],
+  "geometry": {"coordinates":[49.4291,35.5563],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326535649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.6401,26.5401,61.6401,26.5401",
+    "geom:latitude":26.5401,
+    "geom:longitude":61.6401,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bid Yabug",
+    "gn:country_code":"IR",
+    "gn:dem":1151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1114566,
+    "gn:latitude":26.5401,
+    "gn:longitude":61.6401,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"B\u012bd Yab\u016bg",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u062f \u06cc\u0628\u0648\u06af"
+    ],
+    "name:fas_x_variant":[
+        "B\u012bd\u012b Bak",
+        "B\u012bd Yab\u016bg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1114566
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7a12025e0c4505f63172b2b1b74c2c33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720393,
+            "locality_id":1326535649,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1326535649,
+    "wof:lastmodified":1537646919,
+    "wof:name":"Bid Yabug",
+    "wof:parent_id":1108720393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.6401,
+    26.5401,
+    61.6401,
+    26.5401
+],
+  "geometry": {"coordinates":[61.6401,26.5401],"type":"Point"}
+}

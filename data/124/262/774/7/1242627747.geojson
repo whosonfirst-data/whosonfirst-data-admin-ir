@@ -1,0 +1,73 @@
+{
+  "id": 1242627747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.6818,29.0091,57.6818,29.0091",
+    "geom:latitude":29.0091,
+    "geom:longitude":57.6818,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Bahrami",
+    "gn:country_code":"IR",
+    "gn:dem":2354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6927062,
+    "gn:latitude":29.0091,
+    "gn:longitude":57.6818,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Bahr\u0101m\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0628\u0647\u0631\u0627\u0645\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Bahr\u0101m\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6927062
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"22fc7efb26521d2929cead93d99f5350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720081,
+            "locality_id":1242627747,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1242627747,
+    "wof:lastmodified":1537647744,
+    "wof:name":"Bahrami",
+    "wof:parent_id":1108720081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.6818,
+    29.0091,
+    57.6818,
+    29.0091
+],
+  "geometry": {"coordinates":[57.6818,29.0091],"type":"Point"}
+}

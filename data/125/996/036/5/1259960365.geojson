@@ -1,0 +1,73 @@
+{
+  "id": 1259960365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.1994,27.7775,57.1994,27.7775",
+    "geom:latitude":27.7775,
+    "geom:longitude":57.1994,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Qanbarabad",
+    "gn:country_code":"IR",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":48277,
+    "gn:latitude":27.7775,
+    "gn:longitude":57.1994,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qanbar\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0646\u0628\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Qanbar\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":48277
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7da74bae3b190d484fe3244805b08efc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720357,
+            "locality_id":1259960365,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1259960365,
+    "wof:lastmodified":1537642715,
+    "wof:name":"Qanbarabad",
+    "wof:parent_id":1108720357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.1994,
+    27.7775,
+    57.1994,
+    27.7775
+],
+  "geometry": {"coordinates":[57.1994,27.7775],"type":"Point"}
+}

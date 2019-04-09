@@ -1,0 +1,82 @@
+{
+  "id": 1242746783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.45818,29.05879,51.45818,29.05879",
+    "geom:latitude":29.05879,
+    "geom:longitude":51.45818,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Malek Mardeh",
+    "gn:country_code":"IR",
+    "gn:dem":749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110969,
+    "gn:latitude":29.05879,
+    "gn:longitude":51.45818,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Malek Mardeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u064a\u0631 \u0645\u064e\u0644\u0650\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0631 \u0645\u0644\u0647",
+        "Z\u012br Maleh",
+        "\u0632\u064a\u0631\u0645\u064f\u0644\u0650\u0647",
+        "\u0645\u0644\u06a9 \u0645\u0631\u062f\u0647"
+    ],
+    "name:und_x_variant":[
+        "Sar Maleh",
+        "Z\u012brmoleh",
+        "Malek Mardeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108719951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110969,
+        "wk:page":"Sar_Maleh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"eb32e2fd9cc2755b01d8891f764b6d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719951,
+            "locality_id":1242746783,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1242746783,
+    "wof:lastmodified":1537642932,
+    "wof:name":"Malek Mardeh",
+    "wof:parent_id":1108719951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.45818,
+    29.05879,
+    51.45818,
+    29.05879
+],
+  "geometry": {"coordinates":[51.45818,29.05879],"type":"Point"}
+}

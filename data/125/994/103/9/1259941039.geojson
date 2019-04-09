@@ -1,0 +1,67 @@
+{
+  "id": 1259941039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.45,29.15,57.45,29.15",
+    "geom:latitude":29.15,
+    "geom:longitude":57.45,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Punar",
+    "gn:country_code":"IR",
+    "gn:dem":2682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":67149,
+    "gn:latitude":29.15,
+    "gn:longitude":57.45,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Punar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":67149
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d5085802bf1dd190c87d4c3516a1a998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720081,
+            "locality_id":1259941039,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1259941039,
+    "wof:lastmodified":1536696621,
+    "wof:name":"Punar",
+    "wof:parent_id":1108720081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.45,
+    29.15,
+    57.45,
+    29.15
+],
+  "geometry": {"coordinates":[57.45,29.15],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343682251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.13,28.90778,54.13,28.90778",
+    "geom:latitude":28.90778,
+    "geom:longitude":54.13,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bagha",
+    "gn:country_code":"IR",
+    "gn:dem":1403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":142226,
+    "gn:latitude":28.90778,
+    "gn:longitude":54.13,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bagh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Bagh\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":142226
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"04bee15af222e187e9794b211d1b1d16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720003,
+            "locality_id":1343682251,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1343682251,
+    "wof:lastmodified":1537646051,
+    "wof:name":"Bagha",
+    "wof:parent_id":1108720003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.13,
+    28.90778,
+    54.13,
+    28.90778
+],
+  "geometry": {"coordinates":[54.13,28.90778],"type":"Point"}
+}

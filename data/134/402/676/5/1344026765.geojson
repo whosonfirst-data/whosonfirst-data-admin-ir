@@ -1,0 +1,73 @@
+{
+  "id": 1344026765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.48028,29.72694,50.48028,29.72694",
+    "geom:latitude":29.72694,
+    "geom:longitude":50.48028,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Kabkgiri",
+    "gn:country_code":"IR",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":129914,
+    "gn:latitude":29.72694,
+    "gn:longitude":50.48028,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kabkg\u012br\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u064e\u0628\u0643\u06af\u064a\u0631\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Kabkg\u012br\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108720027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":129914
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7e0003b4f000767703d192f6aab90a29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720027,
+            "locality_id":1344026765,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1344026765,
+    "wof:lastmodified":1537644808,
+    "wof:name":"Kabkgiri",
+    "wof:parent_id":1108720027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.48028,
+    29.72694000000001,
+    50.48028,
+    29.72694000000001
+],
+  "geometry": {"coordinates":[50.48028,29.72694000000001],"type":"Point"}
+}

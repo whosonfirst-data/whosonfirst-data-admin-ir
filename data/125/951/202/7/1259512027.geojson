@@ -1,0 +1,78 @@
+{
+  "id": 1259512027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.66689,35.51628,57.66689,35.51628",
+    "geom:latitude":35.51628,
+    "geom:longitude":57.66689,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Narijeh-ye Bala",
+    "gn:country_code":"IR",
+    "gn:dem":1396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7545846,
+    "gn:latitude":35.51628,
+    "gn:longitude":57.66689,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"N\u0101r\u012bjeh-ye B\u0101l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "N\u0101r\u012bjeh"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0627\u0631\u06cc\u062c\u0647",
+        "\u0646\u0627\u0631\u06cc\u062c\u0647 \u0628\u0627\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u0646\u0627\u0631\u06cc\u062c\u0647",
+        "N\u0101r\u012bjeh-ye B\u0101l\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108719877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7545846
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ff6bffb22f5727f6b94e795f229c0b5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719877,
+            "locality_id":1259512027,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1259512027,
+    "wof:lastmodified":1537648333,
+    "wof:name":"Narijeh-ye Bala",
+    "wof:parent_id":1108719877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.66689,
+    35.51628,
+    57.66689,
+    35.51628
+],
+  "geometry": {"coordinates":[57.66689,35.51628],"type":"Point"}
+}

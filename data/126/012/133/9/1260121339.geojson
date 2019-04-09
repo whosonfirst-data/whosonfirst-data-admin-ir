@@ -1,0 +1,75 @@
+{
+  "id": 1260121339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.39842,38.02359,47.39842,38.02359",
+    "geom:latitude":38.02359,
+    "geom:longitude":47.39842,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Angiz",
+    "gn:country_code":"IR",
+    "gn:dem":1936,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":13349,
+    "gn:latitude":38.02359,
+    "gn:longitude":47.39842,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"Ang\u012bz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u06af\u064a\u0632"
+    ],
+    "name:fas_x_variant":[
+        "Ang\u012bz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13349,
+        "wk:page":"Angiz"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e3819028d0321f0d71c5f1450e3c2cc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720385,
+            "locality_id":1260121339,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1260121339,
+    "wof:lastmodified":1537640701,
+    "wof:name":"Angiz",
+    "wof:parent_id":1108720385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.39842,
+    38.02359000000001,
+    47.39842,
+    38.02359000000001
+],
+  "geometry": {"coordinates":[47.39842,38.02359000000001],"type":"Point"}
+}

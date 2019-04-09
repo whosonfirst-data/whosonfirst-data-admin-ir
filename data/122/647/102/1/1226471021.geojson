@@ -1,0 +1,73 @@
+{
+  "id": 1226471021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.4963,36.4443,59.4963,36.4443",
+    "geom:latitude":36.4443,
+    "geom:longitude":59.4963,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Soltanabad",
+    "gn:country_code":"IR",
+    "gn:dem":1023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6678240,
+    "gn:latitude":36.4443,
+    "gn:longitude":59.4963,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sol\u0163\u0101n\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0633\u0644\u0637\u0627\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Sol\u0163\u0101n\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6678240
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"818dd2e28e03975117b32a011a9ce119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720227,
+            "locality_id":1226471021,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1226471021,
+    "wof:lastmodified":1537647354,
+    "wof:name":"Soltanabad",
+    "wof:parent_id":1108720227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.4963,
+    36.4443,
+    59.4963,
+    36.4443
+],
+  "geometry": {"coordinates":[59.4963,36.4443],"type":"Point"}
+}

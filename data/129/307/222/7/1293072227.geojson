@@ -1,0 +1,76 @@
+{
+  "id": 1293072227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.1787,34.22701,47.1787,34.22701",
+    "geom:latitude":34.22701,
+    "geom:longitude":47.1787,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Zangisheh",
+    "gn:country_code":"IR",
+    "gn:dem":1420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":24617,
+    "gn:latitude":34.22701,
+    "gn:longitude":47.1787,
+    "gn:modification_date":"2015-11-07",
+    "gn:name":"Zang\u012bsheh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Dazang\u012bsheh"
+    ],
+    "name:fas_x_variant":[
+        "\u0632\u0646\u06af\u06cc\u0634\u0647"
+    ],
+    "name:und_x_variant":[
+        "Zang\u012bsheh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":24617
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"be95cef75aba2f8dd61d1e260f546fc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720117,
+            "locality_id":1293072227,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1293072227,
+    "wof:lastmodified":1537641282,
+    "wof:name":"Zangisheh",
+    "wof:parent_id":1108720117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.1787,
+    34.22701,
+    47.1787,
+    34.22701
+],
+  "geometry": {"coordinates":[47.1787,34.22701],"type":"Point"}
+}

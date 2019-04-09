@@ -1,0 +1,74 @@
+{
+  "id": 1309787769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.037,35.5258,46.037,35.5258",
+    "geom:latitude":35.5258,
+    "geom:longitude":46.037,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dolabeh",
+    "gn:country_code":"IR",
+    "gn:dem":1471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":413957,
+    "gn:latitude":35.5258,
+    "gn:longitude":46.037,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Dolabeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062f\u064f\u0644\u064e\u0628\u0650\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0648\u0644\u0627\u0628\u06cc",
+        "D\u016bl\u0101b\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":413957
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"019cf43c733b4aa0ab17e98419eba6f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720221,
+            "locality_id":1309787769,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1309787769,
+    "wof:lastmodified":1537646646,
+    "wof:name":"Dolabeh",
+    "wof:parent_id":1108720221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.037,
+    35.5258,
+    46.037,
+    35.5258
+],
+  "geometry": {"coordinates":[46.037,35.5258],"type":"Point"}
+}

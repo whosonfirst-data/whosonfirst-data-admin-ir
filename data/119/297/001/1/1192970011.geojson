@@ -1,0 +1,83 @@
+{
+  "id": 1192970011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.46008,36.90108,54.46008,36.90108",
+    "geom:latitude":36.90108,
+    "geom:longitude":54.46008,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Fujerd",
+    "gn:country_code":"IR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5313,
+    "gn:latitude":36.90108,
+    "gn:longitude":54.46008,
+    "gn:modification_date":"2018-05-13",
+    "gn:name":"F\u016bjerd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "F\u016bjerd"
+    ],
+    "name:fas_x_variant":[
+        "Q\u016bjerd",
+        "\u0646\u0648\u062c\u0631\u062f",
+        "\u0641\u0648\u062c\u0631\u062f",
+        "\u0641\u0648\u062c\u0650\u0631\u062f"
+    ],
+    "name:und_x_variant":[
+        "Nowjerd",
+        "\u0646\u0648\u062c\u0631\u062f",
+        "Fujird",
+        "\u0641\u0648\u062c\u0631\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5313,
+        "wk:page":"Fujerd,_Golestan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1421e6b07e785013e17d8e055c367bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720041,
+            "locality_id":1192970011,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1192970011,
+    "wof:lastmodified":1537640297,
+    "wof:name":"Fujerd",
+    "wof:parent_id":1108720041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.46008000000001,
+    36.90108,
+    54.46008000000001,
+    36.90108
+],
+  "geometry": {"coordinates":[54.46008000000001,36.90108],"type":"Point"}
+}

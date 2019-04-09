@@ -1,0 +1,81 @@
+{
+  "id": 1360131283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.48778,29.53824,57.48778,29.53824",
+    "geom:latitude":29.53824,
+    "geom:longitude":57.48778,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Akbarabad-e Korch",
+    "gn:country_code":"IR",
+    "gn:dem":2135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":42809,
+    "gn:latitude":29.53824,
+    "gn:longitude":57.48778,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Akbar\u0101b\u0101d-e Korch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u06a9\u0628\u0631 \u0622\u0628\u0627\u062f \u06a9\u0631\u0686"
+    ],
+    "name:fas_x_variant":[
+        "Akbar\u0101b\u0101d-e Kord Sh\u0101h",
+        "Akbar\u0101b\u0101d-e Korch",
+        "Akbar\u0101b\u0101d-e Karach",
+        "\u0643\u0631\u0686"
+    ],
+    "name:und_x_variant":[
+        "Akbar",
+        "Korch",
+        "Khurcha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":42809
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7e2d664b70b46e6c86e8fe5405d7f87a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720115,
+            "locality_id":1360131283,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1360131283,
+    "wof:lastmodified":1537642428,
+    "wof:name":"Akbarabad-e Korch",
+    "wof:parent_id":1108720115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.48778000000001,
+    29.53824,
+    57.48778000000001,
+    29.53824
+],
+  "geometry": {"coordinates":[57.48778000000001,29.53824],"type":"Point"}
+}

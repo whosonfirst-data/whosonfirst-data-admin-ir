@@ -1,0 +1,73 @@
+{
+  "id": 1343827839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.4713,32.3528,48.4713,32.3528",
+    "geom:latitude":32.3528,
+    "geom:longitude":48.4713,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Shahrak-e Kaluli",
+    "gn:country_code":"IR",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6687930,
+    "gn:latitude":32.3528,
+    "gn:longitude":48.4713,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Shahrak-e Kal\u016bl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u06a9 \u06a9\u0644\u0648\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Shahrak-e Kal\u016bl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6687930
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5bc8e146587a4c5ff616a892f65ee34a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719969,
+            "locality_id":1343827839,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1343827839,
+    "wof:lastmodified":1537647412,
+    "wof:name":"Shahrak-e Kaluli",
+    "wof:parent_id":1108719969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.4713,
+    32.3528,
+    48.4713,
+    32.3528
+],
+  "geometry": {"coordinates":[48.4713,32.3528],"type":"Point"}
+}

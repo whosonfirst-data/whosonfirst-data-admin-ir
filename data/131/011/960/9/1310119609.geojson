@@ -1,0 +1,74 @@
+{
+  "id": 1310119609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.5201,36.5581,45.5201,36.5581",
+    "geom:latitude":36.5581,
+    "geom:longitude":45.5201,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Benguin",
+    "gn:country_code":"IR",
+    "gn:dem":1739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6686736,
+    "gn:latitude":36.5581,
+    "gn:longitude":45.5201,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Beng\u016b\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0646\u06af\u0648\u06cc\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Beng\u016b\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6686736,
+        "wk:page":"Benguin"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"84fbcabe3c4b6f029c1ad9ebb50a5f5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720193,
+            "locality_id":1310119609,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1310119609,
+    "wof:lastmodified":1537647392,
+    "wof:name":"Benguin",
+    "wof:parent_id":1108720193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.5201,
+    36.5581,
+    45.5201,
+    36.5581
+],
+  "geometry": {"coordinates":[45.5201,36.5581],"type":"Point"}
+}

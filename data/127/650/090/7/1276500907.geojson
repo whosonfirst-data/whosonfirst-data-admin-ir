@@ -1,0 +1,67 @@
+{
+  "id": 1276500907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.0833,35.7667,51.0833,35.7667",
+    "geom:latitude":35.7667,
+    "geom:longitude":51.0833,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Kazemabad",
+    "gn:country_code":"IR",
+    "gn:dem":1543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6951137,
+    "gn:latitude":35.7667,
+    "gn:longitude":51.0833,
+    "gn:modification_date":"2009-09-24",
+    "gn:name":"Kazemabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672313,
+        1108720491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6951137
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c18c17ffc12f7df73c8ac7218ecfb3e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720491,
+            "locality_id":1276500907,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1276500907,
+    "wof:lastmodified":1537049575,
+    "wof:name":"Kazemabad",
+    "wof:parent_id":1108720491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.0833,
+    35.7667,
+    51.0833,
+    35.7667
+],
+  "geometry": {"coordinates":[51.0833,35.7667],"type":"Point"}
+}

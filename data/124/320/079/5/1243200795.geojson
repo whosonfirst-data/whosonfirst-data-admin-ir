@@ -1,0 +1,73 @@
+{
+  "id": 1243200795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.13548,36.70379,59.13548,36.70379",
+    "geom:latitude":36.70379,
+    "geom:longitude":59.13548,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Nowruzabad",
+    "gn:country_code":"IR",
+    "gn:dem":1126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":31536,
+    "gn:latitude":36.70379,
+    "gn:longitude":59.13548,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Nowr\u016bz\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0631\u0648\u0632 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Nowr\u016bz\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108719931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":31536
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"72ee9334b252cff4235ce261f0b3dce6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719931,
+            "locality_id":1243200795,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1243200795,
+    "wof:lastmodified":1537641723,
+    "wof:name":"Nowruzabad",
+    "wof:parent_id":1108719931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.13548,
+    36.70379000000001,
+    59.13548,
+    36.70379000000001
+],
+  "geometry": {"coordinates":[59.13548,36.70379000000001],"type":"Point"}
+}

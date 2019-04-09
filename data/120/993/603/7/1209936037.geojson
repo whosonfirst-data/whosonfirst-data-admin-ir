@@ -1,0 +1,77 @@
+{
+  "id": 1209936037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.03219,37.004,50.03219,37.004",
+    "geom:latitude":37.004,
+    "geom:longitude":50.03219,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Liarud",
+    "gn:country_code":"IR",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":28772,
+    "gn:latitude":37.004,
+    "gn:longitude":50.03219,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"L\u012b\u0101r\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "L\u012b\u0101r\u016bd"
+    ],
+    "name:fas_x_variant":[
+        "\u0644\u06cc\u0627\u0631\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u0644\u06cc\u0627\u0631\u0648\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":28772,
+        "wk:page":"Liarud"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"82d48c3c7ba514cac0cb7f794edcf45b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720183,
+            "locality_id":1209936037,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1209936037,
+    "wof:lastmodified":1537641575,
+    "wof:name":"Liarud",
+    "wof:parent_id":1108720183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.03219,
+    37.004,
+    50.03219,
+    37.004
+],
+  "geometry": {"coordinates":[50.03219,37.004],"type":"Point"}
+}

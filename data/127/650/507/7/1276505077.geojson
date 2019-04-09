@@ -1,0 +1,81 @@
+{
+  "id": 1276505077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.2632,28.9836,51.2632,28.9836",
+    "geom:latitude":28.9836,
+    "geom:longitude":51.2632,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Ashir",
+    "gn:country_code":"IR",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":45574,
+    "gn:latitude":28.9836,
+    "gn:longitude":51.2632,
+    "gn:modification_date":"2018-05-29",
+    "gn:name":"\u0100sh\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0634\u0648\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0100sh\u016br",
+        "A\u1e29sh\u0101m-e \u0100sh\u016br",
+        "\u0627\u062d\u0634\u0627\u0645 \u0622\u0634\u0648\u0631",
+        "\u0622\u0634\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u0627\u062d\u0634\u0627\u0645 \u0622\u0634\u0648\u0631",
+        "\u0100sh\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108720481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":45574,
+        "wk:page":"Ashur,_Iran"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cf9d3e4d3cd93d2c6ce9761023744b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720481,
+            "locality_id":1276505077,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1276505077,
+    "wof:lastmodified":1537642547,
+    "wof:name":"Ashir",
+    "wof:parent_id":1108720481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.2632,
+    28.9836,
+    51.2632,
+    28.9836
+],
+  "geometry": {"coordinates":[51.2632,28.9836],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310359353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.59115,34.12095,49.59115,34.12095",
+    "geom:latitude":34.12095,
+    "geom:longitude":49.59115,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Darband",
+    "gn:country_code":"IR",
+    "gn:dem":1895,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":22113,
+    "gn:latitude":34.12095,
+    "gn:longitude":49.59115,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Darband",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0628\u0646\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0631\u0628\u0646\u062f \u0645\u0632\u0631\u06cc\u062c\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u062f\u0631\u0628\u0646\u062f",
+        "Darband",
+        "Darband-e Mazr\u012bjar\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":22113
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f577a6774e42824e05ed957be3ecc339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720443,
+            "locality_id":1310359353,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1310359353,
+    "wof:lastmodified":1537641109,
+    "wof:name":"Darband",
+    "wof:parent_id":1108720443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.59115,
+    34.12095,
+    49.59115,
+    34.12095
+],
+  "geometry": {"coordinates":[49.59115,34.12095],"type":"Point"}
+}

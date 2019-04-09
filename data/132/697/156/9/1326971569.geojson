@@ -1,0 +1,74 @@
+{
+  "id": 1326971569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.2836,38.9775,48.2836,38.9775",
+    "geom:latitude":38.9775,
+    "geom:longitude":48.2836,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Sheykh Lar",
+    "gn:country_code":"IR",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6689383,
+    "gn:latitude":38.9775,
+    "gn:longitude":48.2836,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sheykh Lar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u062e \u0644\u0631"
+    ],
+    "name:und_x_variant":[
+        "Sheykhlar",
+        "\u0634\u0650\u064a\u062e\u0644\u064e\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6689383
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"16490c5f0c5568d372868d08bb55d6a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720021,
+            "locality_id":1326971569,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1326971569,
+    "wof:lastmodified":1537647429,
+    "wof:name":"Sheykh Lar",
+    "wof:parent_id":1108720021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.2836,
+    38.9775,
+    48.2836,
+    38.9775
+],
+  "geometry": {"coordinates":[48.2836,38.9775],"type":"Point"}
+}

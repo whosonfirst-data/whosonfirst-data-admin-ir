@@ -1,0 +1,73 @@
+{
+  "id": 1310034629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.4136,33.30439,59.4136,33.30439",
+    "geom:latitude":33.30439,
+    "geom:longitude":59.4136,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Gazar",
+    "gn:country_code":"IR",
+    "gn:dem":1876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":133744,
+    "gn:latitude":33.30439,
+    "gn:longitude":59.4136,
+    "gn:modification_date":"2015-08-06",
+    "gn:name":"G\u0101z\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0627\u0632\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "G\u0101z\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108719895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":133744
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"550ae3738c3e1c6b1dd540de2ca3c7d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719895,
+            "locality_id":1310034629,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1310034629,
+    "wof:lastmodified":1537645202,
+    "wof:name":"Gazar",
+    "wof:parent_id":1108719895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.4136,
+    33.30439000000001,
+    59.4136,
+    33.30439000000001
+],
+  "geometry": {"coordinates":[59.4136,33.30439000000001],"type":"Point"}
+}

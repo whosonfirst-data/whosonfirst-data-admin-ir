@@ -1,0 +1,75 @@
+{
+  "id": 1209854093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.1242,36.276,50.1242,36.276",
+    "geom:latitude":36.276,
+    "geom:longitude":50.1242,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Kuraneh",
+    "gn:country_code":"IR",
+    "gn:dem":1351,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10191,
+    "gn:latitude":36.276,
+    "gn:longitude":50.1242,
+    "gn:modification_date":"2018-07-16",
+    "gn:name":"K\u016br\u0101neh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0648\u0631\u0627\u0646\u0647"
+    ],
+    "name:fas_x_variant":[
+        "K\u016br\u0101neh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108720315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10191,
+        "wk:page":"Kuraneh,_Qazvin"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"95998240da32358aa4a26a11ef4e0f39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720315,
+            "locality_id":1209854093,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1209854093,
+    "wof:lastmodified":1537640547,
+    "wof:name":"Kuraneh",
+    "wof:parent_id":1108720315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.1242,
+    36.276,
+    50.1242,
+    36.276
+],
+  "geometry": {"coordinates":[50.1242,36.276],"type":"Point"}
+}

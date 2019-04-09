@@ -1,0 +1,74 @@
+{
+  "id": 1225806149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.11667,30.15,55.11667,30.15",
+    "geom:latitude":30.15,
+    "geom:longitude":55.11667,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Mozaffarabad",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1867,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":123139,
+    "gn:latitude":30.15,
+    "gn:longitude":55.11667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Moz\u0327affar\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Moz\u0327affar\u0101b\u0101d"
+    ],
+    "name:und_x_variant":[
+        "Muzaffar\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":123139
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c644ae7f2e99179f091b0fa10b100eb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720433,
+            "locality_id":1225806149,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1225806149,
+    "wof:lastmodified":1537644125,
+    "wof:name":"Mozaffarabad",
+    "wof:parent_id":1108720433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.11666999999999,
+    30.15,
+    55.11666999999999,
+    30.15
+],
+  "geometry": {"coordinates":[55.11666999999999,30.15],"type":"Point"}
+}

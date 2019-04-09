@@ -1,0 +1,80 @@
+{
+  "id": 1360207119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.1066,31.12445,51.1066,31.12445",
+    "geom:latitude":31.12445,
+    "geom:longitude":51.1066,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Bar Eshgaft",
+    "gn:country_code":"IR",
+    "gn:dem":1829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":121079,
+    "gn:latitude":31.12445,
+    "gn:longitude":51.1066,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bar Eshgaft",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u064e\u0631\u0650\u0634\u0643\u064e\u0641\u062a"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u064a\u0631 \u0627\u0650\u0634\u0643\u064e\u0641\u062a",
+        "\u0628\u0631 \u0627\u0634\u06af\u0641\u062a"
+    ],
+    "name:und_x_variant":[
+        "P\u012br Eshkaft",
+        "Pareshkaft",
+        "Bar Eshgaft",
+        "\u0628\u0631 \u0627\u0634\u06af\u0641\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108719965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":121079
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d249ab511505742b005fda5332d0d0d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719965,
+            "locality_id":1360207119,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1360207119,
+    "wof:lastmodified":1537643916,
+    "wof:name":"Bar Eshgaft",
+    "wof:parent_id":1108719965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.1066,
+    31.12445,
+    51.1066,
+    31.12445
+],
+  "geometry": {"coordinates":[51.1066,31.12445],"type":"Point"}
+}

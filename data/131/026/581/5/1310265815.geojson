@@ -1,0 +1,73 @@
+{
+  "id": 1310265815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.77522,27.75221,58.77522,27.75221",
+    "geom:latitude":27.75221,
+    "geom:longitude":58.77522,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Chah-e Bid",
+    "gn:country_code":"IR",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":7052307,
+    "gn:latitude":27.75221,
+    "gn:longitude":58.77522,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"Ch\u0101h-e B\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0647 \u0628\u06cc\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Ch\u0101h-e B\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7052307
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5a00fcd96baaf86a353490acdb178bfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720363,
+            "locality_id":1310265815,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1310265815,
+    "wof:lastmodified":1537647947,
+    "wof:name":"Chah-e Bid",
+    "wof:parent_id":1108720363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.77522,
+    27.75221,
+    58.77522,
+    27.75221
+],
+  "geometry": {"coordinates":[58.77522,27.75221],"type":"Point"}
+}

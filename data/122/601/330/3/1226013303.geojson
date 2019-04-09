@@ -1,0 +1,73 @@
+{
+  "id": 1226013303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.04361,33.37861,48.04361,33.37861",
+    "geom:latitude":33.37861,
+    "geom:longitude":48.04361,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Dadeh Bigesh",
+    "gn:country_code":"IR",
+    "gn:dem":1163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":31937,
+    "gn:latitude":33.37861,
+    "gn:longitude":48.04361,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dadeh B\u012bgesh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u064e\u062f\u0650\u0647 \u0628\u064a\u06af\u0650\u0634"
+    ],
+    "name:fas_x_variant":[
+        "Dadeh B\u012bgesh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":31937
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b942d3fb69a61382f9a3e7f7092af4ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720307,
+            "locality_id":1226013303,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1226013303,
+    "wof:lastmodified":1537641744,
+    "wof:name":"Dadeh Bigesh",
+    "wof:parent_id":1108720307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.04361,
+    33.37860999999999,
+    48.04361,
+    33.37860999999999
+],
+  "geometry": {"coordinates":[48.04361,33.37860999999999],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293204119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.0068,37.6178,45.0068,37.6178",
+    "geom:latitude":37.6178,
+    "geom:longitude":45.0068,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kajin",
+    "gn:country_code":"IR",
+    "gn:dem":1373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":18030,
+    "gn:latitude":37.6178,
+    "gn:longitude":45.0068,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kaj\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u064e\u062c\u064a\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u062c\u06cc\u0646",
+        "Gaj\u012bn",
+        "Kaj\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":18030
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"78a0ca29e3bfd6c9fd2072c5e2a7c4f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720289,
+            "locality_id":1293204119,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1293204119,
+    "wof:lastmodified":1537640998,
+    "wof:name":"Kajin",
+    "wof:parent_id":1108720289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.0068,
+    37.6178,
+    45.0068,
+    37.6178
+],
+  "geometry": {"coordinates":[45.0068,37.6178],"type":"Point"}
+}

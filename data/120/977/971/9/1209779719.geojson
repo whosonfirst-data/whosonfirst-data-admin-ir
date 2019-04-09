@@ -1,0 +1,81 @@
+{
+  "id": 1209779719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.77463,35.9345,46.77463,35.9345",
+    "geom:latitude":35.9345,
+    "geom:longitude":46.77463,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Yapal",
+    "gn:country_code":"IR",
+    "gn:dem":2023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":111877,
+    "gn:latitude":35.9345,
+    "gn:longitude":46.77463,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Y\u0101pal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u064a\u0627\u067e\u0627\u0644"
+    ],
+    "name:fas_x_variant":[
+        "\u0648\u0627\u067e\u064e\u0644",
+        "Y\u0101pal",
+        "Y\u0101p\u0101l",
+        "\u06cc\u0627\u067e\u0644"
+    ],
+    "name:und_x_variant":[
+        "V\u0101pal",
+        "\u06cc\u0627\u067e\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108719971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":111877,
+        "wk:page":"Yapal"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d55e8fcb0249ef8ffdd0a7dec407a43a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719971,
+            "locality_id":1209779719,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1209779719,
+    "wof:lastmodified":1537643021,
+    "wof:name":"Yapal",
+    "wof:parent_id":1108719971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.77463,
+    35.9345,
+    46.77463,
+    35.9345
+],
+  "geometry": {"coordinates":[46.77463,35.9345],"type":"Point"}
+}

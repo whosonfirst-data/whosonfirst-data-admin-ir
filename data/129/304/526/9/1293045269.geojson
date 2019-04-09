@@ -1,0 +1,73 @@
+{
+  "id": 1293045269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.27396,35.90383,52.27396,35.90383",
+    "geom:latitude":35.90383,
+    "geom:longitude":52.27396,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Pishkuh",
+    "gn:country_code":"IR",
+    "gn:dem":2333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8441583,
+    "gn:latitude":35.90383,
+    "gn:longitude":52.27396,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"P\u012bshk\u016bh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u064a\u0634\u06a9\u0648\u0647"
+    ],
+    "name:und_x_variant":[
+        "P\u012bshk\u016bh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8441583
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"86679992259c4a25f7c6d475b93411d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719807,
+            "locality_id":1293045269,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1293045269,
+    "wof:lastmodified":1537648562,
+    "wof:name":"Pishkuh",
+    "wof:parent_id":1108719807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.27396,
+    35.90383,
+    52.27396,
+    35.90383
+],
+  "geometry": {"coordinates":[52.27396,35.90383],"type":"Point"}
+}

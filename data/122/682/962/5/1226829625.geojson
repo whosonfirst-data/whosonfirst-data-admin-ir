@@ -1,0 +1,73 @@
+{
+  "id": 1226829625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.09139,27.10833,57.09139,27.10833",
+    "geom:latitude":27.10833,
+    "geom:longitude":57.09139,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sheykhabad",
+    "gn:country_code":"IR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381563,
+    "gn:latitude":27.10833,
+    "gn:longitude":57.09139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sheykh\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0650\u064a\u062e \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Sheykh\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381563
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"10b3168dd65ec3736913590de1167b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720243,
+            "locality_id":1226829625,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1226829625,
+    "wof:lastmodified":1537646369,
+    "wof:name":"Sheykhabad",
+    "wof:parent_id":1108720243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.09139,
+    27.10833,
+    57.09139,
+    27.10833
+],
+  "geometry": {"coordinates":[57.09139,27.10833],"type":"Point"}
+}

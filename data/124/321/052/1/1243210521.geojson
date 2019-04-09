@@ -1,0 +1,75 @@
+{
+  "id": 1243210521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.9975,29.2605,56.9975,29.2605",
+    "geom:latitude":29.2605,
+    "geom:longitude":56.9975,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Dakhtak",
+    "gn:country_code":"IR",
+    "gn:dem":2198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":43554,
+    "gn:latitude":29.2605,
+    "gn:longitude":56.9975,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dakhtak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u062e\u062a\u06a9"
+    ],
+    "name:und_x_variant":[
+        "Daghtak",
+        "Dakhtak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":43554,
+        "wk:page":"Dakhtak"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"688f9606dad43f882965a81cdb2d2181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719851,
+            "locality_id":1243210521,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1243210521,
+    "wof:lastmodified":1537642458,
+    "wof:name":"Dakhtak",
+    "wof:parent_id":1108719851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.9975,
+    29.2605,
+    56.9975,
+    29.2605
+],
+  "geometry": {"coordinates":[56.9975,29.2605],"type":"Point"}
+}

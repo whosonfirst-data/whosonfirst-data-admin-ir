@@ -1,0 +1,73 @@
+{
+  "id": 1326569961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.55585,36.77646,50.55585,36.77646",
+    "geom:latitude":36.77646,
+    "geom:longitude":50.55585,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Hezarlat",
+    "gn:country_code":"IR",
+    "gn:dem":1147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10325,
+    "gn:latitude":36.77646,
+    "gn:longitude":50.55585,
+    "gn:modification_date":"2014-04-05",
+    "gn:name":"Hez\u0101rl\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0647\u0632\u0627\u0631\u0644\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "Hez\u0101rl\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10325
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a4f4af2dbd4d05f95c2cae2d5f63a1ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720333,
+            "locality_id":1326569961,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1326569961,
+    "wof:lastmodified":1537640560,
+    "wof:name":"Hezarlat",
+    "wof:parent_id":1108720333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.55585,
+    36.77646,
+    50.55585,
+    36.77646
+],
+  "geometry": {"coordinates":[50.55585,36.77646],"type":"Point"}
+}

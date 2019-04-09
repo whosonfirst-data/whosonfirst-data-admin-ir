@@ -1,0 +1,73 @@
+{
+  "id": 1226396857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.23404,35.57883,51.23404,35.57883",
+    "geom:latitude":35.57883,
+    "geom:longitude":51.23404,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Shahrak-e Qal`eh",
+    "gn:country_code":"IR",
+    "gn:dem":1084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8421348,
+    "gn:latitude":35.57883,
+    "gn:longitude":51.23404,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Shahrak-e Qal\u2018eh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u06a9 \u0642\u0644\u0639\u0647"
+    ],
+    "name:und_x_variant":[
+        "Shahrak-e Qal\u2018eh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672313,
+        1108719985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8421348
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d648e14f0f44e81798637640fc91eded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719985,
+            "locality_id":1226396857,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1226396857,
+    "wof:lastmodified":1537648559,
+    "wof:name":"Shahrak-e Qal`eh",
+    "wof:parent_id":1108719985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.23404,
+    35.57883,
+    51.23404,
+    35.57883
+],
+  "geometry": {"coordinates":[51.23404,35.57883],"type":"Point"}
+}

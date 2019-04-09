@@ -1,0 +1,77 @@
+{
+  "id": 1310541341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.92375,36.20235,51.92375,36.20235",
+    "geom:latitude":36.20235,
+    "geom:longitude":51.92375,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Valashid",
+    "gn:country_code":"IR",
+    "gn:dem":1923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112308,
+    "gn:latitude":36.20235,
+    "gn:longitude":51.92375,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Val\u0101sh\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u0627\u0634\u06cc\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0648\u064e\u0644\u0627\u0634\u0650\u062f",
+        "Val\u0101sh\u012bd"
+    ],
+    "name:und_x_variant":[
+        "Val\u0101shed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112308
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1040662a54d0e8a971dc8a41bc46925d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720283,
+            "locality_id":1310541341,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1310541341,
+    "wof:lastmodified":1537643071,
+    "wof:name":"Valashid",
+    "wof:parent_id":1108720283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.92375,
+    36.20235,
+    51.92375,
+    36.20235
+],
+  "geometry": {"coordinates":[51.92375,36.20235],"type":"Point"}
+}

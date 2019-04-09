@@ -1,0 +1,73 @@
+{
+  "id": 1259733703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.7932,28.5805,56.7932,28.5805",
+    "geom:latitude":28.5805,
+    "geom:longitude":56.7932,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Showqabad",
+    "gn:country_code":"IR",
+    "gn:dem":1990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":389961,
+    "gn:latitude":28.5805,
+    "gn:longitude":56.7932,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Showq\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u06a9\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Showq\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389961
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f3797efd4b2e3706f1235f1450985407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719851,
+            "locality_id":1259733703,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1259733703,
+    "wof:lastmodified":1537646471,
+    "wof:name":"Showqabad",
+    "wof:parent_id":1108719851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.7932,
+    28.5805,
+    56.7932,
+    28.5805
+],
+  "geometry": {"coordinates":[56.7932,28.5805],"type":"Point"}
+}

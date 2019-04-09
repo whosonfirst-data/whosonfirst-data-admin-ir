@@ -1,0 +1,74 @@
+{
+  "id": 1343854781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.2532,37.06824,50.2532,37.06824",
+    "geom:latitude":37.06824,
+    "geom:longitude":50.2532,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Sopordan",
+    "gn:country_code":"IR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":29010,
+    "gn:latitude":37.06824,
+    "gn:longitude":50.2532,
+    "gn:modification_date":"2018-06-07",
+    "gn:name":"Sopord\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sopord\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u067e\u0631\u062f\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108719805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":29010,
+        "wk:page":"Sopordan,_Amlash"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4a182fddf1c8f821f8790ed8ea41a0d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719805,
+            "locality_id":1343854781,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1343854781,
+    "wof:lastmodified":1537641600,
+    "wof:name":"Sopordan",
+    "wof:parent_id":1108719805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.2532,
+    37.06824,
+    50.2532,
+    37.06824
+],
+  "geometry": {"coordinates":[50.2532,37.06824],"type":"Point"}
+}

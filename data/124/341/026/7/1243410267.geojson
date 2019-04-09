@@ -1,0 +1,74 @@
+{
+  "id": 1243410267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.2207,33.656,48.2207,33.656",
+    "geom:latitude":33.656,
+    "geom:longitude":48.2207,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Cheshmeh Saleh",
+    "gn:country_code":"IR",
+    "gn:dem":1399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":32087,
+    "gn:latitude":33.656,
+    "gn:longitude":48.2207,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Cheshmeh \u015e\u0101le\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0634\u0645\u0647 \u0635\u0627\u0644\u062d"
+    ],
+    "name:fas_x_variant":[
+        "Cheshmeh \u015e\u0101le\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":32087,
+        "wk:page":"Cheshmeh_Saleh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"10e12bc1294a9ea22d546f0f6145adad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720145,
+            "locality_id":1243410267,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1243410267,
+    "wof:lastmodified":1537641759,
+    "wof:name":"Cheshmeh Saleh",
+    "wof:parent_id":1108720145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.2207,
+    33.656,
+    48.2207,
+    33.656
+],
+  "geometry": {"coordinates":[48.2207,33.656],"type":"Point"}
+}

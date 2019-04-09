@@ -1,0 +1,76 @@
+{
+  "id": 1242719549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.13631,37.61945,48.13631,37.61945",
+    "geom:latitude":37.61945,
+    "geom:longitude":48.13631,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Ahmadabad",
+    "gn:country_code":"IR",
+    "gn:dem":1605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":69295,
+    "gn:latitude":37.61945,
+    "gn:longitude":48.13631,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"A\u1e29mad\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u062d\u0645\u062f \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "A\u1e29mad\u0101b\u0101d"
+    ],
+    "name:und_x_variant":[
+        "Akhmetabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":69295
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4ded5181b3454549972340b4a2b968a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720167,
+            "locality_id":1242719549,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1242719549,
+    "wof:lastmodified":1537642907,
+    "wof:name":"Ahmadabad",
+    "wof:parent_id":1108720167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.13631,
+    37.61945,
+    48.13631,
+    37.61945
+],
+  "geometry": {"coordinates":[48.13631,37.61945],"type":"Point"}
+}

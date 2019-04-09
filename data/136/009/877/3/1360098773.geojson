@@ -1,0 +1,81 @@
+{
+  "id": 1360098773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.5328,38.8122,44.5328,38.8122",
+    "geom:latitude":38.8122,
+    "geom:longitude":44.5328,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Zaviyeh-ye Sokmanabad",
+    "gn:country_code":"IR",
+    "gn:dem":1809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":111198,
+    "gn:latitude":38.8122,
+    "gn:longitude":44.5328,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Z\u0101v\u012byeh-ye Sokman\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u0648\u06cc\u0647 \u0633\u06a9\u0645\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Z\u0101v\u012byeh",
+        "Z\u0101v\u012byeh-ye Sokman\u0101b\u0101d"
+    ],
+    "name:und_x_variant":[
+        "Z\u0101v\u012beh",
+        "Zeyveh",
+        "Zaviyeh",
+        "Zeiva",
+        "Z\u012bveh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":111198
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5764a9782eec340bf87abb9fc40a39f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720153,
+            "locality_id":1360098773,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1360098773,
+    "wof:lastmodified":1537642954,
+    "wof:name":"Zaviyeh-ye Sokmanabad",
+    "wof:parent_id":1108720153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.5328,
+    38.8122,
+    44.5328,
+    38.8122
+],
+  "geometry": {"coordinates":[44.5328,38.8122],"type":"Point"}
+}

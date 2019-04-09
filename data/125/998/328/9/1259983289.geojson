@@ -1,0 +1,73 @@
+{
+  "id": 1259983289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.4119,36.3034,45.4119,36.3034",
+    "geom:latitude":36.3034,
+    "geom:longitude":45.4119,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pashqalateh",
+    "gn:country_code":"IR",
+    "gn:dem":1468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6676839,
+    "gn:latitude":36.3034,
+    "gn:longitude":45.4119,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"P\u0101shqal\u0101teh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0634\u0642\u0644\u0627\u062a\u0647"
+    ],
+    "name:fas_x_variant":[
+        "P\u0101shqal\u0101teh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6676839
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8489ef0310b26be7b980b50a483a3ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720399,
+            "locality_id":1259983289,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1259983289,
+    "wof:lastmodified":1537647323,
+    "wof:name":"Pashqalateh",
+    "wof:parent_id":1108720399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.4119,
+    36.3034,
+    45.4119,
+    36.3034
+],
+  "geometry": {"coordinates":[45.4119,36.3034],"type":"Point"}
+}

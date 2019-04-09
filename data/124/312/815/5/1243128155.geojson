@@ -1,0 +1,73 @@
+{
+  "id": 1243128155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.0786,33.3755,47.0786,33.3755",
+    "geom:latitude":33.3755,
+    "geom:longitude":47.0786,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Gholamyar",
+    "gn:country_code":"IR",
+    "gn:dem":954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6719837,
+    "gn:latitude":33.3755,
+    "gn:longitude":47.0786,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Ghol\u0101my\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u063a\u0644\u0627\u0645\u06cc\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Ghol\u0101my\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6719837
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b2997b155e9bfb0369ff08750e9cc6be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720169,
+            "locality_id":1243128155,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1243128155,
+    "wof:lastmodified":1537647484,
+    "wof:name":"Gholamyar",
+    "wof:parent_id":1108720169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.0786,
+    33.3755,
+    47.0786,
+    33.3755
+],
+  "geometry": {"coordinates":[47.0786,33.3755],"type":"Point"}
+}

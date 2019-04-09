@@ -1,0 +1,74 @@
+{
+  "id": 1309778851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.38333,31.36667,49.38333,31.36667",
+    "geom:latitude":31.36667,
+    "geom:longitude":49.38333,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ab Deh Vis",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":145219,
+    "gn:latitude":31.36667,
+    "gn:longitude":49.38333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u0100b Deh V\u012bs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0100b Deh V\u012bs"
+    ],
+    "name:und_x_variant":[
+        "Abdih Wais"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145219
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b0d3f7d4446d155e9c0abe0fe04603df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720331,
+            "locality_id":1309778851,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1309778851,
+    "wof:lastmodified":1537646344,
+    "wof:name":"Ab Deh Vis",
+    "wof:parent_id":1108720331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.38333,
+    31.36667000000001,
+    49.38333,
+    31.36667000000001
+],
+  "geometry": {"coordinates":[49.38333,31.36667000000001],"type":"Point"}
+}

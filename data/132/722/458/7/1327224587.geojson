@@ -1,0 +1,76 @@
+{
+  "id": 1327224587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.504,27.894,55.504,27.894",
+    "geom:latitude":27.894,
+    "geom:longitude":55.504,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Faraj Pur",
+    "gn:country_code":"IR",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7597381,
+    "gn:latitude":27.894,
+    "gn:longitude":55.504,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Faraj P\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Faraj P\u016br"
+    ],
+    "name:fas_x_variant":[
+        "\u0641\u0631\u062c \u067e\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u0641\u0631\u062c \u067e\u0648\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7597381
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b364682a6d9f56b4c14514a05ce972e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720185,
+            "locality_id":1327224587,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1327224587,
+    "wof:lastmodified":1537648389,
+    "wof:name":"Faraj Pur",
+    "wof:parent_id":1108720185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.504,
+    27.894,
+    55.504,
+    27.894
+],
+  "geometry": {"coordinates":[55.504,27.894],"type":"Point"}
+}

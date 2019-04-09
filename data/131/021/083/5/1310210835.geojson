@@ -1,0 +1,67 @@
+{
+  "id": 1310210835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.78639,27.65194,59.78639,27.65194",
+    "geom:latitude":27.65194,
+    "geom:longitude":59.78639,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Espoz",
+    "gn:country_code":"IR",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":135102,
+    "gn:latitude":27.65194,
+    "gn:longitude":59.78639,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Espoz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":135102
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d6c9977793013e62d9d22ab30b738b73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720063,
+            "locality_id":1310210835,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1310210835,
+    "wof:lastmodified":1536843456,
+    "wof:name":"Espoz",
+    "wof:parent_id":1108720063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.78639,
+    27.65194,
+    59.78639,
+    27.65194
+],
+  "geometry": {"coordinates":[59.78639,27.65194],"type":"Point"}
+}

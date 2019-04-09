@@ -1,0 +1,80 @@
+{
+  "id": 1259707309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.4332,25.5698,60.4332,25.5698",
+    "geom:latitude":25.5698,
+    "geom:longitude":60.4332,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Surkomb",
+    "gn:country_code":"IR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1159426,
+    "gn:latitude":25.5698,
+    "gn:longitude":60.4332,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u016brkomb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0631\u06a9\u0645\u0628"
+    ],
+    "name:fas_x_variant":[
+        "S\u016brkomb",
+        "S\u016br Kamb"
+    ],
+    "name:und_x_variant":[
+        "Surkum",
+        "Surkhum",
+        "S\u016brkh\u016bn",
+        "S\u016brkh\u016bn\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1159426
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"160ac6b4f638dd5bf3e93734fe508c3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720163,
+            "locality_id":1259707309,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1259707309,
+    "wof:lastmodified":1537646969,
+    "wof:name":"Surkomb",
+    "wof:parent_id":1108720163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.4332,
+    25.5698,
+    60.4332,
+    25.5698
+],
+  "geometry": {"coordinates":[60.4332,25.5698],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226675153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.88333,34.73333,60.88333,34.73333",
+    "geom:latitude":34.73333,
+    "geom:longitude":60.88333,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Kureh",
+    "gn:country_code":"IR",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1112281,
+    "gn:latitude":34.73333,
+    "gn:longitude":60.88333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"K\u016breh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "K\u016breh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1112281
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9c65c57bc016611cc3e3df518f632bdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720489,
+            "locality_id":1226675153,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1226675153,
+    "wof:lastmodified":1537646796,
+    "wof:name":"Kureh",
+    "wof:parent_id":1108720489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.88333000000001,
+    34.73333,
+    60.88333000000001,
+    34.73333
+],
+  "geometry": {"coordinates":[60.88333000000001,34.73333],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1309935517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.03059,32.47091,59.03059,32.47091",
+    "geom:latitude":32.47091,
+    "geom:longitude":59.03059,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Sheykhabad",
+    "gn:country_code":"IR",
+    "gn:dem":1634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":115201,
+    "gn:latitude":32.47091,
+    "gn:longitude":59.03059,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Sheykh\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sheykh\u0101b\u0101d"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u064a\u062e \u0622\u0628\u0627\u062f",
+        "Shaikh\u0101b\u0101d",
+        "\u062c\u0646\u06af \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Shaikh\u0101b\u0101d",
+        "Sheikh Abad",
+        "\u0634\u064a\u062e \u0622\u0628\u0627\u062f",
+        "Jang\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108719895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":115201
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c45c91ae8fc8655b7e1927560cb2b1a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719895,
+            "locality_id":1309935517,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1309935517,
+    "wof:lastmodified":1537643339,
+    "wof:name":"Sheykhabad",
+    "wof:parent_id":1108719895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.03059,
+    32.47091,
+    59.03059,
+    32.47091
+],
+  "geometry": {"coordinates":[59.03059,32.47091],"type":"Point"}
+}

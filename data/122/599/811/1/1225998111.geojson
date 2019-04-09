@@ -1,0 +1,73 @@
+{
+  "id": 1225998111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.22778,36.26152,52.22778,36.26152",
+    "geom:latitude":36.26152,
+    "geom:longitude":52.22778,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Livijan",
+    "gn:country_code":"IR",
+    "gn:dem":2235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8340,
+    "gn:latitude":36.26152,
+    "gn:longitude":52.22778,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"L\u012bv\u012bj\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0648\u06cc\u062c\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "L\u012bv\u012bj\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8340
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"67273386cf7d25628d94ac645aae2f6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719807,
+            "locality_id":1225998111,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1225998111,
+    "wof:lastmodified":1537640430,
+    "wof:name":"Livijan",
+    "wof:parent_id":1108719807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.22778,
+    36.26152,
+    52.22778,
+    36.26152
+],
+  "geometry": {"coordinates":[52.22778,36.26152],"type":"Point"}
+}

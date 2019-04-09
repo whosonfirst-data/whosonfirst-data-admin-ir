@@ -1,0 +1,71 @@
+{
+  "id": 1293282355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.39837,37.25503,49.39837,37.25503",
+    "geom:latitude":37.25503,
+    "geom:longitude":49.39837,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tazehabad-e Kalashem",
+    "gn:country_code":"IR",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416947,
+    "gn:latitude":37.25503,
+    "gn:longitude":49.39837,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"T\u0101zeh\u0101b\u0101d-e Kal\u0101shem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "T\u0101zeh\u0101b\u0101d-e Kal\u0101shem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416947,
+        "wk:page":"Tazehabad-e_Kalashem"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c80dfe1c88a63f30ab36f4c93191e169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720013,
+            "locality_id":1293282355,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1293282355,
+    "wof:lastmodified":1537646689,
+    "wof:name":"Tazehabad-e Kalashem",
+    "wof:parent_id":1108720013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.39837,
+    37.25503,
+    49.39837,
+    37.25503
+],
+  "geometry": {"coordinates":[49.39837,37.25503],"type":"Point"}
+}

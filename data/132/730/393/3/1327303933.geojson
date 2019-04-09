@@ -1,0 +1,78 @@
+{
+  "id": 1327303933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.58004,31.21038,48.58004,31.21038",
+    "geom:latitude":31.21038,
+    "geom:longitude":48.58004,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Ghazaviyeh-ye Kuchek",
+    "gn:country_code":"IR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":133433,
+    "gn:latitude":31.21038,
+    "gn:longitude":48.58004,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ghaz\u0101v\u012byeh-ye K\u016bchek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Ghaz\u0101v\u012byeh-ye Yek"
+    ],
+    "name:fas_x_variant":[
+        "\u063a\u0632\u0627\u0648\u06cc\u0651\u0647 \u06cc\u06a9",
+        "Ghaz\u0101v\u012byeh-ye K\u016bchek",
+        "\u063a\u0632\u0627\u0648\u06cc\u0647 \u06a9\u0648\u0686\u06a9"
+    ],
+    "name:und_x_variant":[
+        "Ghazaviyeh Koochak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":133433
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"21c0668d1e453731021d0d39d3b30532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719793,
+            "locality_id":1327303933,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1327303933,
+    "wof:lastmodified":1537645171,
+    "wof:name":"Ghazaviyeh-ye Kuchek",
+    "wof:parent_id":1108719793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.58004,
+    31.21038,
+    48.58004,
+    31.21038
+],
+  "geometry": {"coordinates":[48.58004,31.21038],"type":"Point"}
+}

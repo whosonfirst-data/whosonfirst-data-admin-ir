@@ -1,0 +1,73 @@
+{
+  "id": 1343555503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.00008,28.77835,55.00008,28.77835",
+    "geom:latitude":28.77835,
+    "geom:longitude":55.00008,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bakri",
+    "gn:country_code":"IR",
+    "gn:dem":1785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8633731,
+    "gn:latitude":28.77835,
+    "gn:longitude":55.00008,
+    "gn:modification_date":"2013-11-14",
+    "gn:name":"Bakr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0628\u06a9\u0631\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Bakr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8633731
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e040a293a166b6de45294c42e5e8a235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720277,
+            "locality_id":1343555503,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1343555503,
+    "wof:lastmodified":1537648597,
+    "wof:name":"Bakri",
+    "wof:parent_id":1108720277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.00008,
+    28.77835,
+    55.00008,
+    28.77835
+],
+  "geometry": {"coordinates":[55.00008,28.77835],"type":"Point"}
+}

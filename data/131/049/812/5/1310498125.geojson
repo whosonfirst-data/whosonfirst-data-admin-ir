@@ -1,0 +1,73 @@
+{
+  "id": 1310498125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.55243,29.8003,51.55243,29.8003",
+    "geom:latitude":29.8003,
+    "geom:longitude":51.55243,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Nesf Mian",
+    "gn:country_code":"IR",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8355596,
+    "gn:latitude":29.8003,
+    "gn:longitude":51.55243,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Ne\u015ff M\u012b\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0635\u0641 \u0645\u06cc\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ne\u015ff M\u012b\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8355596
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"29c1bd58f1bb2cec7a9dd7d9132439ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720113,
+            "locality_id":1310498125,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1310498125,
+    "wof:lastmodified":1537648547,
+    "wof:name":"Nesf Mian",
+    "wof:parent_id":1108720113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.55243,
+    29.8003,
+    51.55243,
+    29.8003
+],
+  "geometry": {"coordinates":[51.55243,29.8003],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1259410699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.26246,35.00199,60.26246,35.00199",
+    "geom:latitude":35.00199,
+    "geom:longitude":60.26246,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Jizabad",
+    "gn:country_code":"IR",
+    "gn:dem":1337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1160866,
+    "gn:latitude":35.00199,
+    "gn:longitude":60.26246,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"J\u012bz\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u064a\u0632\u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "J\u012bz\u0101b\u0101d",
+        "Juz\u0101b\u0101d",
+        "Jowz\u0101b\u0101d"
+    ],
+    "name:und_x_variant":[
+        "Jowz\u0101b\u0101d",
+        "Juz\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1160866,
+        "wk:page":"Jizabad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"922a8c49d9d2c68f31675aafa609ec0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720489,
+            "locality_id":1259410699,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1259410699,
+    "wof:lastmodified":1537647074,
+    "wof:name":"Jizabad",
+    "wof:parent_id":1108720489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.26246,
+    35.00199,
+    60.26246,
+    35.00199
+],
+  "geometry": {"coordinates":[60.26246,35.00199],"type":"Point"}
+}

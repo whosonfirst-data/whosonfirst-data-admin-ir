@@ -1,0 +1,71 @@
+{
+  "id": 1209368677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.76508,33.69066,49.76508,33.69066",
+    "geom:latitude":33.69066,
+    "geom:longitude":49.76508,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Khanabad",
+    "gn:country_code":"IR",
+    "gn:dem":2066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":127979,
+    "gn:latitude":33.69066,
+    "gn:longitude":49.76508,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Kh\u0101n\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0627\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Kh\u0101n\u0101b\u0101d",
+        "\u0645\u062d\u0645\u062f\u06cc\u0647"
+    ],
+    "name:und_x_variant":[
+        "Mo\u1e29ammad\u012byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":127979
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9f78631d749fba4e381a1b5ba82e369e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209368677
+        }
+    ],
+    "wof:id":1209368677,
+    "wof:lastmodified":1537644615,
+    "wof:name":"Khanabad",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.76508,
+    33.69066,
+    49.76508,
+    33.69066
+],
+  "geometry": {"coordinates":[49.76508,33.69066],"type":"Point"}
+}

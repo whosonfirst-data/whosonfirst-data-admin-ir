@@ -1,0 +1,73 @@
+{
+  "id": 1343232067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.1766,31.8787,49.1766,31.8787",
+    "geom:latitude":31.8787,
+    "geom:longitude":49.1766,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Bahar Aqa",
+    "gn:country_code":"IR",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":141995,
+    "gn:latitude":31.8787,
+    "gn:longitude":49.1766,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bah\u0101r \u0100q\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0628\u0647\u0627\u0631 \u0622\u0642\u0627"
+    ],
+    "name:fas_x_variant":[
+        "Bah\u0101r \u0100q\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":141995
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"95a7930d98fbf2751b82e4815757829e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720457,
+            "locality_id":1343232067,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1343232067,
+    "wof:lastmodified":1537646028,
+    "wof:name":"Bahar Aqa",
+    "wof:parent_id":1108720457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.1766,
+    31.8787,
+    49.1766,
+    31.8787
+],
+  "geometry": {"coordinates":[49.1766,31.8787],"type":"Point"}
+}

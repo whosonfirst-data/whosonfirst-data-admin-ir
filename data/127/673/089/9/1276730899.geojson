@@ -1,0 +1,76 @@
+{
+  "id": 1276730899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.66305,33.3004,49.66305,33.3004",
+    "geom:latitude":33.3004,
+    "geom:longitude":49.66305,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Shamsabad",
+    "gn:country_code":"IR",
+    "gn:dem":2269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":115526,
+    "gn:latitude":33.3004,
+    "gn:longitude":49.66305,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Shams\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Shams\u0101b\u0101d"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u0645\u0633 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u0634\u0645\u0633 \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":115526
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"49f6955ca4d03e118782a90b8ba045bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719803,
+            "locality_id":1276730899,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1276730899,
+    "wof:lastmodified":1537643369,
+    "wof:name":"Shamsabad",
+    "wof:parent_id":1108719803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.66305,
+    33.3004,
+    49.66305,
+    33.3004
+],
+  "geometry": {"coordinates":[49.66305,33.3004],"type":"Point"}
+}

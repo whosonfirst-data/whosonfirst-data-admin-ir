@@ -1,0 +1,73 @@
+{
+  "id": 1193144075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.27351,32.1885,50.27351,32.1885",
+    "geom:latitude":32.1885,
+    "geom:longitude":50.27351,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kufi",
+    "gn:country_code":"IR",
+    "gn:dem":2073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8305356,
+    "gn:latitude":32.1885,
+    "gn:longitude":50.27351,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"K\u016bf\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0641\u06cc"
+    ],
+    "name:und_x_variant":[
+        "K\u016bf\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672319,
+        1108720171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8305356
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"eb6018ce20b555e61616ccb4d29dea19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720171,
+            "locality_id":1193144075,
+            "region_id":85672319
+        }
+    ],
+    "wof:id":1193144075,
+    "wof:lastmodified":1537648542,
+    "wof:name":"Kufi",
+    "wof:parent_id":1108720171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.27351,
+    32.1885,
+    50.27351,
+    32.1885
+],
+  "geometry": {"coordinates":[50.27351,32.1885],"type":"Point"}
+}

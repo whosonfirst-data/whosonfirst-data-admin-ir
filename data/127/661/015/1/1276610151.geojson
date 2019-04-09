@@ -1,0 +1,74 @@
+{
+  "id": 1276610151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.31602,35.79992,52.31602,35.79992",
+    "geom:latitude":35.79992,
+    "geom:longitude":52.31602,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Vazna",
+    "gn:country_code":"IR",
+    "gn:dem":2749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112066,
+    "gn:latitude":35.79992,
+    "gn:longitude":52.31602,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Vazn\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0632\u0646\u0627"
+    ],
+    "name:fas_x_variant":[
+        "Vazn\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672313,
+        1108720011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112066,
+        "wk:page":"Vazna"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2ef090d7d252c1007425e966bef1f720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720011,
+            "locality_id":1276610151,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1276610151,
+    "wof:lastmodified":1537643044,
+    "wof:name":"Vazna",
+    "wof:parent_id":1108720011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.31602,
+    35.79992,
+    52.31602,
+    35.79992
+],
+  "geometry": {"coordinates":[52.31602,35.79992],"type":"Point"}
+}

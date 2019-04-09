@@ -1,0 +1,70 @@
+{
+  "id": 1343930689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.64619,31.25551,49.64619,31.25551",
+    "geom:latitude":31.25551,
+    "geom:longitude":49.64619,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Baymond",
+    "gn:country_code":"IR",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":15170,
+    "gn:latitude":31.25551,
+    "gn:longitude":49.64619,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"B\u0101ymond",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "B\u0101ymond"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":15170
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cac0ac7537100cd7e747f6daef77abdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720331,
+            "locality_id":1343930689,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1343930689,
+    "wof:lastmodified":1537640881,
+    "wof:name":"Baymond",
+    "wof:parent_id":1108720331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.64619,
+    31.25551,
+    49.64619,
+    31.25551
+],
+  "geometry": {"coordinates":[49.64619,31.25551],"type":"Point"}
+}

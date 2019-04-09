@@ -1,0 +1,74 @@
+{
+  "id": 1310084813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.8878,34.6611,46.8878,34.6611",
+    "geom:latitude":34.6611,
+    "geom:longitude":46.8878,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Pir Mozd",
+    "gn:country_code":"IR",
+    "gn:dem":1332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":23594,
+    "gn:latitude":34.6611,
+    "gn:longitude":46.8878,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"P\u012br Mozd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0631 \u0645\u0632\u062f"
+    ],
+    "name:fas_x_variant":[
+        "P\u012br Mozd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":23594,
+        "wk:page":"Pir_Mozd"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cb29b2b71279b34b283e28d297680c57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720117,
+            "locality_id":1310084813,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1310084813,
+    "wof:lastmodified":1537641218,
+    "wof:name":"Pir Mozd",
+    "wof:parent_id":1108720117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.8878,
+    34.6611,
+    46.8878,
+    34.6611
+],
+  "geometry": {"coordinates":[46.8878,34.6611],"type":"Point"}
+}

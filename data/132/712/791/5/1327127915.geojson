@@ -1,0 +1,74 @@
+{
+  "id": 1327127915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.2549,33.5404,46.2549,33.5404",
+    "geom:latitude":33.5404,
+    "geom:longitude":46.2549,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Jamalvand",
+    "gn:country_code":"IR",
+    "gn:dem":1089,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389870,
+    "gn:latitude":33.5404,
+    "gn:longitude":46.2549,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jam\u0101lvand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u064e\u0645\u064e\u0644\u0648\u064e\u0646\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u062c\u0645\u0627\u0644\u0648\u0646\u062f",
+        "Jam\u0101lvand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108720231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389870
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d037b6c4fdf417c56675643ff0298c7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720231,
+            "locality_id":1327127915,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1327127915,
+    "wof:lastmodified":1537646470,
+    "wof:name":"Jamalvand",
+    "wof:parent_id":1108720231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.2549,
+    33.5404,
+    46.2549,
+    33.5404
+],
+  "geometry": {"coordinates":[46.2549,33.5404],"type":"Point"}
+}

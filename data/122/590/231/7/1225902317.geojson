@@ -1,0 +1,73 @@
+{
+  "id": 1225902317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.6742,34.1608,47.6742,34.1608",
+    "geom:latitude":34.1608,
+    "geom:longitude":47.6742,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Farahabad",
+    "gn:country_code":"IR",
+    "gn:dem":1873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6727262,
+    "gn:latitude":34.1608,
+    "gn:longitude":47.6742,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Fara\u1e29\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u062d \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Fara\u1e29\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6727262
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a982c8298b3873eca9d8520868c7ef2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719959,
+            "locality_id":1225902317,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1225902317,
+    "wof:lastmodified":1537647529,
+    "wof:name":"Farahabad",
+    "wof:parent_id":1108719959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.6742,
+    34.1608,
+    47.6742,
+    34.1608
+],
+  "geometry": {"coordinates":[47.6742,34.1608],"type":"Point"}
+}

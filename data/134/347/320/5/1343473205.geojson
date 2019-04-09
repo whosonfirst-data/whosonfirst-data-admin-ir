@@ -1,0 +1,78 @@
+{
+  "id": 1343473205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.699,27.196,57.699,27.196",
+    "geom:latitude":27.196,
+    "geom:longitude":57.699,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Bon Zeh",
+    "gn:country_code":"IR",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":66326,
+    "gn:latitude":27.196,
+    "gn:longitude":57.699,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bon Zeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u064a\u0648\u062a\u064e\u0643"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0646 \u0632\u0647",
+        "Y\u016btak"
+    ],
+    "name:und_x_variant":[
+        "Bunzeh",
+        "Bon Zeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":66326
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ad118ed27a61ce940a98950908a5058e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720213,
+            "locality_id":1343473205,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1343473205,
+    "wof:lastmodified":1537642801,
+    "wof:name":"Bon Zeh",
+    "wof:parent_id":1108720213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.699,
+    27.196,
+    57.699,
+    27.196
+],
+  "geometry": {"coordinates":[57.699,27.196],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226213755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.825,34.4398,46.825,34.4398",
+    "geom:latitude":34.4398,
+    "geom:longitude":46.825,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Veys Ahmad",
+    "gn:country_code":"IR",
+    "gn:dem":1319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":23331,
+    "gn:latitude":34.4398,
+    "gn:longitude":46.825,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Veys A\u1e29mad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0633 \u0627\u062d\u0645\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Veys A\u1e29mad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":23331,
+        "wk:page":"Veys_Ahmad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8a36450bf58b150462d77d13bde7c8e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720117,
+            "locality_id":1226213755,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1226213755,
+    "wof:lastmodified":1537641198,
+    "wof:name":"Veys Ahmad",
+    "wof:parent_id":1108720117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.825,
+    34.4398,
+    46.825,
+    34.4398
+],
+  "geometry": {"coordinates":[46.825,34.4398],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1343898823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.45548,34.16127,49.45548,34.16127",
+    "geom:latitude":34.16127,
+    "geom:longitude":49.45548,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Gishan",
+    "gn:country_code":"IR",
+    "gn:dem":2124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":126912,
+    "gn:latitude":34.16127,
+    "gn:longitude":49.45548,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"G\u012bsh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u064a\u0634\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "K\u012bsh\u0101n",
+        "\u06af\u06cc\u0634\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "G\u012bsh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":126912
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"92328a63487b47208122b22e757a94fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720443,
+            "locality_id":1343898823,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1343898823,
+    "wof:lastmodified":1537644498,
+    "wof:name":"Gishan",
+    "wof:parent_id":1108720443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.45548,
+    34.16127,
+    49.45548,
+    34.16127
+],
+  "geometry": {"coordinates":[49.45548,34.16127],"type":"Point"}
+}

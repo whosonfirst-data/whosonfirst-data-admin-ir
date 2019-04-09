@@ -1,0 +1,80 @@
+{
+  "id": 1293419483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.17288,37.58555,56.17288,37.58555",
+    "geom:latitude":37.58555,
+    "geom:longitude":56.17288,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Soogheh",
+    "gn:country_code":"IR",
+    "gn:dem":840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":113776,
+    "gn:latitude":37.58555,
+    "gn:longitude":56.17288,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Soogheh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "S\u016bq\u0101"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0648\u0642\u0627",
+        "S\u016bqeh-ye B\u0101l\u0101",
+        "S\u016bqeh"
+    ],
+    "name:und_x_variant":[
+        "Saga",
+        "Soogheh",
+        "S\u016bqeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672401,
+        1108720211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":113776
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"752dfdf71ceb1bee7533acb32cae7658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720211,
+            "locality_id":1293419483,
+            "region_id":85672401
+        }
+    ],
+    "wof:id":1293419483,
+    "wof:lastmodified":1537643219,
+    "wof:name":"Soogheh",
+    "wof:parent_id":1108720211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.17288000000001,
+    37.58555,
+    56.17288000000001,
+    37.58555
+],
+  "geometry": {"coordinates":[56.17288000000001,37.58555],"type":"Point"}
+}

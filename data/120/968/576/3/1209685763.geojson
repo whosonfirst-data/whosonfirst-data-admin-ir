@@ -1,0 +1,71 @@
+{
+  "id": 1209685763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.2176,32.7711,48.2176,32.7711",
+    "geom:latitude":32.7711,
+    "geom:longitude":48.2176,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Varun Sorkh",
+    "gn:country_code":"IR",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112131,
+    "gn:latitude":32.7711,
+    "gn:longitude":48.2176,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Var\u016bn Sorkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u0648\u0646 \u0633\u0631\u062e"
+    ],
+    "name:fas_x_variant":[
+        "Var\u016bn Sorkh",
+        "\u0648\u0631\u0627\u0646 \u0633\u0631\u062e"
+    ],
+    "name:und_x_variant":[
+        "Var\u0101n Sorkh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112131
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"34c5bb04625c092176f5cb3f466307a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209685763
+        }
+    ],
+    "wof:id":1209685763,
+    "wof:lastmodified":1537643051,
+    "wof:name":"Varun Sorkh",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.2176,
+    32.7711,
+    48.2176,
+    32.7711
+],
+  "geometry": {"coordinates":[48.2176,32.7711],"type":"Point"}
+}

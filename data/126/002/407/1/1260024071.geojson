@@ -1,0 +1,73 @@
+{
+  "id": 1260024071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.35496,36.55178,51.35496,36.55178",
+    "geom:latitude":36.55178,
+    "geom:longitude":51.35496,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Juru",
+    "gn:country_code":"IR",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":961,
+    "gn:latitude":36.55178,
+    "gn:longitude":51.35496,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"J\u016br\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u0648\u0631\u0648"
+    ],
+    "name:fas_x_variant":[
+        "J\u016br\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":961
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1422f32779b76fc55dadd5918f5a90e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719925,
+            "locality_id":1260024071,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1260024071,
+    "wof:lastmodified":1537640152,
+    "wof:name":"Juru",
+    "wof:parent_id":1108719925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.35496,
+    36.55178,
+    51.35496,
+    36.55178
+],
+  "geometry": {"coordinates":[51.35496,36.55178],"type":"Point"}
+}

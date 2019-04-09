@@ -1,0 +1,73 @@
+{
+  "id": 1193215525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.14777,36.53357,50.14777,36.53357",
+    "geom:latitude":36.53357,
+    "geom:longitude":50.14777,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Joft Avar",
+    "gn:country_code":"IR",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8722148,
+    "gn:latitude":36.53357,
+    "gn:longitude":50.14777,
+    "gn:modification_date":"2014-03-11",
+    "gn:name":"Joft \u0100var",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062c\u0641\u062a \u0622\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Joft \u0100var"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108720315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8722148
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"eef8ce30e0d4c20c5e2c948dce3e8a08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720315,
+            "locality_id":1193215525,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1193215525,
+    "wof:lastmodified":1537648613,
+    "wof:name":"Joft Avar",
+    "wof:parent_id":1108720315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.14777,
+    36.53357000000001,
+    50.14777,
+    36.53357000000001
+],
+  "geometry": {"coordinates":[50.14777,36.53357000000001],"type":"Point"}
+}

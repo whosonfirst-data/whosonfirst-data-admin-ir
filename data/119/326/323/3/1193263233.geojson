@@ -1,0 +1,76 @@
+{
+  "id": 1193263233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.09198,37.19115,50.09198,37.19115",
+    "geom:latitude":37.19115,
+    "geom:longitude":50.09198,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Dizin",
+    "gn:country_code":"IR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7622082,
+    "gn:latitude":37.19115,
+    "gn:longitude":50.09198,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"D\u012bz\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "D\u012bz\u012bn"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u06cc\u0632\u06cc\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u062f\u06cc\u0632\u06cc\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7622082
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3059a35e8c508f98a73ba287d3f2aebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720173,
+            "locality_id":1193263233,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1193263233,
+    "wof:lastmodified":1537648432,
+    "wof:name":"Dizin",
+    "wof:parent_id":1108720173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.09198,
+    37.19115,
+    50.09198,
+    37.19115
+],
+  "geometry": {"coordinates":[50.09198,37.19115],"type":"Point"}
+}

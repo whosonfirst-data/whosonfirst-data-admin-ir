@@ -1,0 +1,81 @@
+{
+  "id": 1327478565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.89986,35.41533,49.89986,35.41533",
+    "geom:latitude":35.41533,
+    "geom:longitude":49.89986,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Adramad",
+    "gn:country_code":"IR",
+    "gn:dem":1849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":144751,
+    "gn:latitude":35.41533,
+    "gn:longitude":49.89986,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"\u0100dr\u0101m\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u062f\u0631\u0627\u0645\u0648\u0646\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0100dr\u0101mand",
+        "\u0100dr\u0101m\u016bnd",
+        "\u0622\u062f\u0631\u0627\u0645\u0627\u062f",
+        "\u0622\u062f\u0631\u0627\u0645\u0646\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u0100d\u0101r\u0101mand",
+        "Adarb\u0101la",
+        "\u0100dr\u0101m\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":144751
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b67ba67c79e8caa47fd5270cb67d1f2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720525,
+            "locality_id":1327478565,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1327478565,
+    "wof:lastmodified":1537646298,
+    "wof:name":"Adramad",
+    "wof:parent_id":1108720525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.89986,
+    35.41533,
+    49.89986,
+    35.41533
+],
+  "geometry": {"coordinates":[49.89986,35.41533],"type":"Point"}
+}

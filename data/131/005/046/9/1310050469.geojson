@@ -1,0 +1,79 @@
+{
+  "id": 1310050469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.2501,34.3435,49.2501,34.3435",
+    "geom:latitude":34.3435,
+    "geom:longitude":49.2501,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Gazeran",
+    "gn:country_code":"IR",
+    "gn:dem":1730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":133727,
+    "gn:latitude":34.3435,
+    "gn:longitude":49.2501,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"G\u0101zer\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0627\u0632\u0631\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "G\u0101zer\u0101n",
+        "\u06af\u0627\u0631\u0632\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "G\u0101zr\u0101n",
+        "G\u0101zor\u0101n",
+        "G\u0101rz\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":133727
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d5b5d8c27b030d88cd20bc799f452abe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720443,
+            "locality_id":1310050469,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1310050469,
+    "wof:lastmodified":1537645200,
+    "wof:name":"Gazeran",
+    "wof:parent_id":1108720443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.2501,
+    34.3435,
+    49.2501,
+    34.3435
+],
+  "geometry": {"coordinates":[49.2501,34.3435],"type":"Point"}
+}

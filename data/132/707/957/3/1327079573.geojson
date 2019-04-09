@@ -1,0 +1,82 @@
+{
+  "id": 1327079573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.34461,38.01598,47.34461,38.01598",
+    "geom:latitude":38.01598,
+    "geom:longitude":47.34461,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Golujeh",
+    "gn:country_code":"IR",
+    "gn:dem":1739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":35665,
+    "gn:latitude":38.01598,
+    "gn:longitude":47.34461,
+    "gn:modification_date":"2018-05-24",
+    "gn:name":"Gol\u016bjeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u064f\u0644\u0651\u0648\u062c\u0650\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0644\u062c\u0647",
+        "Goll\u016bjeh",
+        "\u06af\u0644\u0648\u062c\u0647",
+        "\u06a9\u0644\u0686\u0647"
+    ],
+    "name:und_x_variant":[
+        "Koljeh",
+        "Gol\u016bjeh",
+        "Kolcheh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":35665,
+        "wk:page":"Golujeh,_Meyaneh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"766ddd1235bf5f941a548a3214cc7a6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720385,
+            "locality_id":1327079573,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1327079573,
+    "wof:lastmodified":1537641962,
+    "wof:name":"Golujeh",
+    "wof:parent_id":1108720385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.34461,
+    38.01598,
+    47.34461,
+    38.01598
+],
+  "geometry": {"coordinates":[47.34461,38.01598],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226213769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.3593,34.2254,47.3593,34.2254",
+    "geom:latitude":34.2254,
+    "geom:longitude":47.3593,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Bayervand",
+    "gn:country_code":"IR",
+    "gn:dem":1292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":23580,
+    "gn:latitude":34.2254,
+    "gn:longitude":47.3593,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"B\u0101yervand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u06cc\u0631\u0648\u0646\u062f"
+    ],
+    "name:fas_x_variant":[
+        "P\u0101yervand-e Tekyeh",
+        "B\u0101yervand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":23580,
+        "wk:page":"Payervand-e_Tekyeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ea9ab6cfcb1b24ba453d336f30a8b494",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720117,
+            "locality_id":1226213769,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1226213769,
+    "wof:lastmodified":1537641217,
+    "wof:name":"Bayervand",
+    "wof:parent_id":1108720117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.3593,
+    34.2254,
+    47.3593,
+    34.2254
+],
+  "geometry": {"coordinates":[47.3593,34.2254],"type":"Point"}
+}

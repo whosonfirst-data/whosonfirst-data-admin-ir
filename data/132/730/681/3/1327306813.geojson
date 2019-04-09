@@ -1,0 +1,77 @@
+{
+  "id": 1327306813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.6886,31.5636,48.6886,31.5636",
+    "geom:latitude":31.5636,
+    "geom:longitude":48.6886,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Mobeytiheh-ye Chahar",
+    "gn:country_code":"IR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":123725,
+    "gn:latitude":31.5636,
+    "gn:longitude":48.6886,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mobey\u0163\u012b\u1e29eh-ye Chah\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0645\u0628\u06cc\u0637\u06cc\u062d\u0647 \u0686\u0647\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Mobey\u0163\u012b\u1e29eh-ye Chah\u0101r"
+    ],
+    "name:und_x_variant":[
+        "Mobey\u0163\u012b\u1e29eh",
+        "Mobey\u0163\u012b\u1e29eh-e Chah\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":123725
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cd2ba23c40c0e1e5fa6a9a1aa8c683e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719793,
+            "locality_id":1327306813,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1327306813,
+    "wof:lastmodified":1537644183,
+    "wof:name":"Mobeytiheh-ye Chahar",
+    "wof:parent_id":1108719793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.6886,
+    31.5636,
+    48.6886,
+    31.5636
+],
+  "geometry": {"coordinates":[48.6886,31.5636],"type":"Point"}
+}

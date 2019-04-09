@@ -1,0 +1,79 @@
+{
+  "id": 1309738821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.96,35.41694,58.96,35.41694",
+    "geom:latitude":35.41694,
+    "geom:longitude":58.96,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Razg",
+    "gn:country_code":"IR",
+    "gn:dem":1789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":118687,
+    "gn:latitude":35.41694,
+    "gn:longitude":58.96,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Razg",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u0632\u06af"
+    ],
+    "name:und_x_variant":[
+        "Razak",
+        "Razq",
+        "Razz\u012bq",
+        "Razz\u0101q",
+        "Razk",
+        "Razg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":118687,
+        "wk:page":"Razg,_Gonabad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c7c4ff4460ae430036878bddfa6fdf26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720497,
+            "locality_id":1309738821,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1309738821,
+    "wof:lastmodified":1537643661,
+    "wof:name":"Razg",
+    "wof:parent_id":1108720497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.96,
+    35.41694000000001,
+    58.96,
+    35.41694000000001
+],
+  "geometry": {"coordinates":[58.96,35.41694000000001],"type":"Point"}
+}

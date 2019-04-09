@@ -1,0 +1,74 @@
+{
+  "id": 1260009287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.48752,33.35786,59.48752,33.35786",
+    "geom:latitude":33.35786,
+    "geom:longitude":59.48752,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Bimad",
+    "gn:country_code":"IR",
+    "gn:dem":2104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":140488,
+    "gn:latitude":33.35786,
+    "gn:longitude":59.48752,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"B\u012bm\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0645\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "B\u012bm\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108719895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140488,
+        "wk:page":"Bimad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b50f6c32db6ec8af931421aa2dadfeb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719895,
+            "locality_id":1260009287,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1260009287,
+    "wof:lastmodified":1537645881,
+    "wof:name":"Bimad",
+    "wof:parent_id":1108719895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.48752,
+    33.35786,
+    59.48752,
+    33.35786
+],
+  "geometry": {"coordinates":[59.48752,33.35786],"type":"Point"}
+}

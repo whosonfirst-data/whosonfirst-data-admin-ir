@@ -1,0 +1,82 @@
+{
+  "id": 1193081219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.65178,36.87137,50.65178,36.87137",
+    "geom:latitude":36.87137,
+    "geom:longitude":50.65178,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Mar Micheh",
+    "gn:country_code":"IR",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7625431,
+    "gn:latitude":36.87137,
+    "gn:longitude":50.65178,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"M\u0101r M\u012bcheh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Ch\u016bl\u0101yen"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u0648\u0644\u0627\u06cc\u0646",
+        "\u0645\u0627\u0631 \u0645\u064a\u0686\u0647",
+        "\u0645\u0647\u0631 \u0645\u064a\u062c\u0647",
+        "\u0645\u0627\u0631 \u0645\u0648\u062c\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0686\u0648\u0644\u0627\u06cc\u0646",
+        "M\u0101r M\u012bcheh",
+        "Mehr M\u012bjeh",
+        "M\u0101r Mowjeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7625431
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"62b28d525b7579088f8e4330bb19e437",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720333,
+            "locality_id":1193081219,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1193081219,
+    "wof:lastmodified":1537648460,
+    "wof:name":"Mar Micheh",
+    "wof:parent_id":1108720333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.65178,
+    36.87137,
+    50.65178,
+    36.87137
+],
+  "geometry": {"coordinates":[50.65178,36.87137],"type":"Point"}
+}

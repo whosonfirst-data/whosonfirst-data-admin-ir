@@ -1,0 +1,76 @@
+{
+  "id": 1310363543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.45558,32.79237,49.45558,32.79237",
+    "geom:latitude":32.79237,
+    "geom:longitude":49.45558,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Sarastaneh",
+    "gn:country_code":"IR",
+    "gn:dem":1394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":117247,
+    "gn:latitude":32.79237,
+    "gn:longitude":49.45558,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Sar\u0101st\u0101neh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sar \u0100st\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0631\u0627\u0633\u062a\u0627\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "Sar\u0101st\u0101neh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":117247
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1d7f43edd3c1e900aa299e26c11f262b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719803,
+            "locality_id":1310363543,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1310363543,
+    "wof:lastmodified":1537643520,
+    "wof:name":"Sarastaneh",
+    "wof:parent_id":1108719803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.45558,
+    32.79237,
+    49.45558,
+    32.79237
+],
+  "geometry": {"coordinates":[49.45558,32.79237],"type":"Point"}
+}

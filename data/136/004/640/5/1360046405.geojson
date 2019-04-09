@@ -1,0 +1,73 @@
+{
+  "id": 1360046405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.2144,29.9645,56.2144,29.9645",
+    "geom:latitude":29.9645,
+    "geom:longitude":56.2144,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Qal`eh Moni",
+    "gn:country_code":"IR",
+    "gn:dem":2415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":43353,
+    "gn:latitude":29.9645,
+    "gn:longitude":56.2144,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qal\u2018eh Mon\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0639\u0647 \u0645\u0646\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Qal\u2018eh Mon\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":43353
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"36350a17cf222cab270ef3539c947391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719879,
+            "locality_id":1360046405,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1360046405,
+    "wof:lastmodified":1537642449,
+    "wof:name":"Qal`eh Moni",
+    "wof:parent_id":1108719879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.2144,
+    29.9645,
+    56.2144,
+    29.9645
+],
+  "geometry": {"coordinates":[56.2144,29.9645],"type":"Point"}
+}

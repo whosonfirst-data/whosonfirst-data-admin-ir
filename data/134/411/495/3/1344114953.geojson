@@ -1,0 +1,80 @@
+{
+  "id": 1344114953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.527,33.6401,48.527,33.6401",
+    "geom:latitude":33.6401,
+    "geom:longitude":48.527,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Mokhtava'i",
+    "gn:country_code":"IR",
+    "gn:dem":1657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":123442,
+    "gn:latitude":33.6401,
+    "gn:longitude":48.527,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Mokhtav\u0101\u2019\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u062e\u062a\u0648\u0627\u0626\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Mokhtav\u0101\u2019\u012b",
+        "\u0645\u062e\u062a \u0622\u0628\u0627\u062f\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Mokhtav\u0101y",
+        "Mokht\u0101b\u0101d\u012b",
+        "Mokhtav\u0101y-ye \u2018Oly\u0101",
+        "Makht\u0101b\u0101d\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":123442
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"193ce1f8acb66eb6a5704e9d4a5fc6a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720145,
+            "locality_id":1344114953,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1344114953,
+    "wof:lastmodified":1537644156,
+    "wof:name":"Mokhtava'i",
+    "wof:parent_id":1108720145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.527,
+    33.6401,
+    48.527,
+    33.6401
+],
+  "geometry": {"coordinates":[48.527,33.6401],"type":"Point"}
+}

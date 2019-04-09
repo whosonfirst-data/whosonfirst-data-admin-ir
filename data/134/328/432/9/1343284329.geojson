@@ -1,0 +1,74 @@
+{
+  "id": 1343284329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.6,30.73333,50.6,30.73333",
+    "geom:latitude":30.73333,
+    "geom:longitude":50.6,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Cheshmeh-ye Qasemi",
+    "gn:country_code":"IR",
+    "gn:dem":789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":138458,
+    "gn:latitude":30.73333,
+    "gn:longitude":50.6,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cheshmeh-ye Q\u0101sem\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Cheshmeh-ye Q\u0101sem\u012b"
+    ],
+    "name:und_x_variant":[
+        "Chashmah-i-Qasmi",
+        "Chashmeh-ye Q\u0101sem\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":138458
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"174abbdec20ebfa57bc992fac2ac2004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1343284329,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1343284329,
+    "wof:lastmodified":1537645679,
+    "wof:name":"Cheshmeh-ye Qasemi",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.6,
+    30.73333,
+    50.6,
+    30.73333
+],
+  "geometry": {"coordinates":[50.6,30.73333],"type":"Point"}
+}

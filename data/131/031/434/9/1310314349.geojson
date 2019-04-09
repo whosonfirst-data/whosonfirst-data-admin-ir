@@ -1,0 +1,76 @@
+{
+  "id": 1310314349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.763,37.4939,44.763,37.4939",
+    "geom:latitude":37.4939,
+    "geom:longitude":44.763,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Sulak",
+    "gn:country_code":"IR",
+    "gn:dem":1928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":20888,
+    "gn:latitude":37.4939,
+    "gn:longitude":44.763,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u016blak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0644\u064a\u0643"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0648\u0644\u06a9",
+        "S\u016bl\u012bk",
+        "S\u016blak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":20888,
+        "wk:page":"Sulik"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d0ee94d3e3094b3ae43f17a947080576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720289,
+            "locality_id":1310314349,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1310314349,
+    "wof:lastmodified":1537641041,
+    "wof:name":"Sulak",
+    "wof:parent_id":1108720289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.76300000000001,
+    37.4939,
+    44.76300000000001,
+    37.4939
+],
+  "geometry": {"coordinates":[44.76300000000001,37.4939],"type":"Point"}
+}

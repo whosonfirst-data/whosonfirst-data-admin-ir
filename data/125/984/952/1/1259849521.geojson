@@ -1,0 +1,75 @@
+{
+  "id": 1259849521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.72258,32.00082,49.72258,32.00082",
+    "geom:latitude":32.00082,
+    "geom:longitude":49.72258,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Peyan",
+    "gn:country_code":"IR",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":33238,
+    "gn:latitude":32.00082,
+    "gn:longitude":49.72258,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Pey\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Nepy\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "Pey\u0101n",
+        "\u067e\u064a\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":33238,
+        "wk:page":"Nepyan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"52ccebf469aa9722107a04afd73e5699",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720067,
+            "locality_id":1259849521,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1259849521,
+    "wof:lastmodified":1537641853,
+    "wof:name":"Peyan",
+    "wof:parent_id":1108720067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.72258,
+    32.00082,
+    49.72258,
+    32.00082
+],
+  "geometry": {"coordinates":[49.72258,32.00082],"type":"Point"}
+}

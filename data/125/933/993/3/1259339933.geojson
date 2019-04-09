@@ -1,0 +1,73 @@
+{
+  "id": 1259339933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.20833,36.26994,55.20833,36.26994",
+    "geom:latitude":36.26994,
+    "geom:longitude":55.20833,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Tavarku'i",
+    "gn:country_code":"IR",
+    "gn:dem":1676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9986933,
+    "gn:latitude":36.26994,
+    "gn:longitude":55.20833,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Tavark\u016b\u2019\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0631\u06a9\u0648\u0626\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Tavark\u016b\u2019\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672309,
+        1108720441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9986933
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d89ea25b784d564fe0b40b6b0512add0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720441,
+            "locality_id":1259339933,
+            "region_id":85672309
+        }
+    ],
+    "wof:id":1259339933,
+    "wof:lastmodified":1537648663,
+    "wof:name":"Tavarku'i",
+    "wof:parent_id":1108720441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.20833,
+    36.26994000000001,
+    55.20833,
+    36.26994000000001
+],
+  "geometry": {"coordinates":[55.20833,36.26994000000001],"type":"Point"}
+}

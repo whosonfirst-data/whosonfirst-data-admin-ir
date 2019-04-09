@@ -1,0 +1,75 @@
+{
+  "id": 1226528449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.1466,34.0896,47.1466,34.0896",
+    "geom:latitude":34.0896,
+    "geom:longitude":47.1466,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Beyglari",
+    "gn:country_code":"IR",
+    "gn:dem":1492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":24140,
+    "gn:latitude":34.0896,
+    "gn:longitude":47.1466,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Beyglar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u06af\u0644\u0631\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "B\u0101gh-e Beyglar\u012b",
+        "Beyglar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":24140,
+        "wk:page":"Bagh-e_Beyglari"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ce948c5024f333ff44532df05e891136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720117,
+            "locality_id":1226528449,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1226528449,
+    "wof:lastmodified":1537641261,
+    "wof:name":"Beyglari",
+    "wof:parent_id":1108720117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.1466,
+    34.0896,
+    47.1466,
+    34.0896
+],
+  "geometry": {"coordinates":[47.1466,34.0896],"type":"Point"}
+}

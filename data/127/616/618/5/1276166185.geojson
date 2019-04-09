@@ -1,0 +1,75 @@
+{
+  "id": 1276166185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.27298,35.82542,49.27298,35.82542",
+    "geom:latitude":35.82542,
+    "geom:longitude":49.27298,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Gonbadak",
+    "gn:country_code":"IR",
+    "gn:dem":1732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":132946,
+    "gn:latitude":35.82542,
+    "gn:longitude":49.27298,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Gonbadak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0646\u0628\u062f\u06a9"
+    ],
+    "name:und_x_variant":[
+        "Gunbadak",
+        "Gonbadak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108720479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":132946,
+        "wk:page":"Gonbadak"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9515b0d82c6af490ef59efb5faedc796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720479,
+            "locality_id":1276166185,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1276166185,
+    "wof:lastmodified":1537645121,
+    "wof:name":"Gonbadak",
+    "wof:parent_id":1108720479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.27298,
+    35.82542,
+    49.27298,
+    35.82542
+],
+  "geometry": {"coordinates":[49.27298,35.82542],"type":"Point"}
+}

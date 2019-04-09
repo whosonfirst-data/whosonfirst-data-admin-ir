@@ -1,0 +1,78 @@
+{
+  "id": 1225789577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.99167,36.78167,52.99167,36.78167",
+    "geom:latitude":36.78167,
+    "geom:longitude":52.99167,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Zerrinabad",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":-29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":111136,
+    "gn:latitude":36.78167,
+    "gn:longitude":52.99167,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Zerr\u012bn\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u0650\u0631\u0651\u064a\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0632\u064e\u0631\u0651\u064a\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Zarr\u012bn \u0100b\u0101d",
+        "Zerr\u012bn\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":111136
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a83b875102f33ce12bf9c047f5d2316c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720085,
+            "locality_id":1225789577,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1225789577,
+    "wof:lastmodified":1537642948,
+    "wof:name":"Zerrinabad",
+    "wof:parent_id":1108720085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.99166999999999,
+    36.78167,
+    52.99166999999999,
+    36.78167
+],
+  "geometry": {"coordinates":[52.99166999999999,36.78167],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1242828173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.53416,34.12971,49.53416,34.12971",
+    "geom:latitude":34.12971,
+    "geom:longitude":49.53416,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Qezeljeh",
+    "gn:country_code":"IR",
+    "gn:dem":2051,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":119283,
+    "gn:latitude":34.12971,
+    "gn:longitude":49.53416,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Qezeljeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0650\u0632\u0644\u064a\u062c\u0650\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Qozl\u012bjeh",
+        "\u0642\u0632\u0644\u064a\u062c\u0647",
+        "\u0642\u0632\u0644\u062c\u0647"
+    ],
+    "name:und_x_variant":[
+        "Kujulja",
+        "Qezeljeh",
+        "Qezl\u012bjeh",
+        "\u0642\u0632\u0644\u064a\u062c\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":119283,
+        "wk:page":"Qozlijeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8b3d92b9219944e1e7e84d92196d8a8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720443,
+            "locality_id":1242828173,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1242828173,
+    "wof:lastmodified":1537643724,
+    "wof:name":"Qezeljeh",
+    "wof:parent_id":1108720443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.53416,
+    34.12971,
+    49.53416,
+    34.12971
+],
+  "geometry": {"coordinates":[49.53416,34.12971],"type":"Point"}
+}

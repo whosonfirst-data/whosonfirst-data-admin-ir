@@ -1,0 +1,64 @@
+{
+  "id": 1209129501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.8609,26.1875,59.8609,26.1875",
+    "geom:latitude":26.1875,
+    "geom:longitude":59.8609,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Farzeh",
+    "gn:country_code":"IR",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":134724,
+    "gn:latitude":26.1875,
+    "gn:longitude":59.8609,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Farzeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0632\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":134724
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7623875c2b5d4354586b7b36d1d5d8ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209129501
+        }
+    ],
+    "wof:id":1209129501,
+    "wof:lastmodified":1537645299,
+    "wof:name":"Farzeh",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.8609,
+    26.1875,
+    59.8609,
+    26.1875
+],
+  "geometry": {"coordinates":[59.8609,26.1875],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1193166877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.17761,34.5359,60.17761,34.5359",
+    "geom:latitude":34.5359,
+    "geom:longitude":60.17761,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Kharadgerd",
+    "gn:country_code":"IR",
+    "gn:dem":954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1160575,
+    "gn:latitude":34.5359,
+    "gn:longitude":60.17761,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kharadgerd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0631\u062f \u06af\u0631\u062f"
+    ],
+    "name:und_x_variant":[
+        "Kharad Jerd",
+        "Khar Gerd",
+        "Kharadgerd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1160575,
+        "wk:page":"Khar_Gerd"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ca22d16b8bce264f993cd021d7cee43b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720119,
+            "locality_id":1193166877,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1193166877,
+    "wof:lastmodified":1537647053,
+    "wof:name":"Kharadgerd",
+    "wof:parent_id":1108720119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.17761,
+    34.5359,
+    60.17761,
+    34.5359
+],
+  "geometry": {"coordinates":[60.17761,34.5359],"type":"Point"}
+}

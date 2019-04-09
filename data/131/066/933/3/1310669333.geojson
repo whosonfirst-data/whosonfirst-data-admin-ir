@@ -1,0 +1,74 @@
+{
+  "id": 1310669333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.19278,33.08389,49.19278,33.08389",
+    "geom:latitude":33.08389,
+    "geom:longitude":49.19278,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Bardeh Si",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":141360,
+    "gn:latitude":33.08389,
+    "gn:longitude":49.19278,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Bardeh S\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Bardeh S\u012b"
+    ],
+    "name:und_x_variant":[
+        "Bard-e S\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":141360
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c01a9477c7e15b7c0d284cf04f1c6fc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719803,
+            "locality_id":1310669333,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1310669333,
+    "wof:lastmodified":1537645970,
+    "wof:name":"Bardeh Si",
+    "wof:parent_id":1108719803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.19278,
+    33.08389,
+    49.19278,
+    33.08389
+],
+  "geometry": {"coordinates":[49.19278,33.08389],"type":"Point"}
+}

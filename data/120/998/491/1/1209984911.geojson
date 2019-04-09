@@ -1,0 +1,77 @@
+{
+  "id": 1209984911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.1415,32.8692,49.1415,32.8692",
+    "geom:latitude":32.8692,
+    "geom:longitude":49.1415,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Jel Kuh",
+    "gn:country_code":"IR",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":138793,
+    "gn:latitude":32.8692,
+    "gn:longitude":49.1415,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Jel K\u016bh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u0644 \u06a9\u0648\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Jel K\u016bh"
+    ],
+    "name:und_x_variant":[
+        "Chel K\u016bh",
+        "Jal K\u016bh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":138793
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8f0dc30ba902f9375377925c755651df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719969,
+            "locality_id":1209984911,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1209984911,
+    "wof:lastmodified":1537645714,
+    "wof:name":"Jel Kuh",
+    "wof:parent_id":1108719969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.1415,
+    32.8692,
+    49.1415,
+    32.8692
+],
+  "geometry": {"coordinates":[49.1415,32.8692],"type":"Point"}
+}

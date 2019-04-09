@@ -1,0 +1,67 @@
+{
+  "id": 1326991135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.55,31.03333,56.55,31.03333",
+    "geom:latitude":31.03333,
+    "geom:longitude":56.55,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Kowsar",
+    "gn:country_code":"IR",
+    "gn:dem":2269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":38821,
+    "gn:latitude":31.03333,
+    "gn:longitude":56.55,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kowsar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":38821
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a3e96056d49da4d2b92e25c75868f9f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720523,
+            "locality_id":1326991135,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1326991135,
+    "wof:lastmodified":1536819273,
+    "wof:name":"Kowsar",
+    "wof:parent_id":1108720523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.55,
+    31.03333,
+    56.55,
+    31.03333
+],
+  "geometry": {"coordinates":[56.55,31.03333],"type":"Point"}
+}

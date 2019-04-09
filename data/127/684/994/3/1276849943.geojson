@@ -1,0 +1,73 @@
+{
+  "id": 1276849943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.2089,34.5865,47.2089,34.5865",
+    "geom:latitude":34.5865,
+    "geom:longitude":47.2089,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Seyyed Khani",
+    "gn:country_code":"IR",
+    "gn:dem":1547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6721369,
+    "gn:latitude":34.5865,
+    "gn:longitude":47.2089,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Seyyed Kh\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0651\u062f\u062e\u0627\u0646\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Seyyed Kh\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6721369
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f04ea3faf5a82d0db5bc118824174374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720371,
+            "locality_id":1276849943,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1276849943,
+    "wof:lastmodified":1537647500,
+    "wof:name":"Seyyed Khani",
+    "wof:parent_id":1108720371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.2089,
+    34.5865,
+    47.2089,
+    34.5865
+],
+  "geometry": {"coordinates":[47.2089,34.5865],"type":"Point"}
+}

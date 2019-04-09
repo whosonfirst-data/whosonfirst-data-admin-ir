@@ -1,0 +1,75 @@
+{
+  "id": 1326824463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.63056,28.92444,53.63056,28.92444",
+    "geom:latitude":28.92444,
+    "geom:longitude":53.63056,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Firuz",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":134475,
+    "gn:latitude":28.92444,
+    "gn:longitude":53.63056,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"F\u012br\u016bz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "F\u012br\u016bz"
+    ],
+    "name:und_x_variant":[
+        "F\u012br\u016bz\u0101d Mard",
+        "F\u012br\u016bzmard"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":134475
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"347ba2956e44caa83dfbccb786633b5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720003,
+            "locality_id":1326824463,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1326824463,
+    "wof:lastmodified":1537645274,
+    "wof:name":"Firuz",
+    "wof:parent_id":1108720003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.63056,
+    28.92444,
+    53.63056,
+    28.92444
+],
+  "geometry": {"coordinates":[53.63056,28.92444],"type":"Point"}
+}

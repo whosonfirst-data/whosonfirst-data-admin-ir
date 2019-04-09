@@ -1,0 +1,78 @@
+{
+  "id": 1344208145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.70462,32.72576,51.70462,32.72576",
+    "geom:latitude":32.72576,
+    "geom:longitude":51.70462,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Mahalleh-ye Hasanabad Gari",
+    "gn:country_code":"IR",
+    "gn:dem":1558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":417895,
+    "gn:latitude":32.72576,
+    "gn:longitude":51.70462,
+    "gn:modification_date":"2013-01-11",
+    "gn:name":"Ma\u1e29alleh-ye \u1e28asan\u0101b\u0101d G\u0101r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u062d\u0644\u0647 \u062d\u0633\u0646 \u0622\u0628\u0627\u062f \u06af\u0627\u0631\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "G\u0101r\u012b",
+        "K\u0101r\u012b"
+    ],
+    "name:und_x_variant":[
+        "K\u0101r\u012b",
+        "Ma\u1e29alleh-ye \u1e28asan\u0101b\u0101d G\u0101r\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108719977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":417895
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e9f2cca47784fc52333d2580b371d733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719977,
+            "locality_id":1344208145,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1344208145,
+    "wof:lastmodified":1537646702,
+    "wof:name":"Mahalleh-ye Hasanabad Gari",
+    "wof:parent_id":1108719977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.70462,
+    32.72576,
+    51.70462,
+    32.72576
+],
+  "geometry": {"coordinates":[51.70462,32.72576],"type":"Point"}
+}

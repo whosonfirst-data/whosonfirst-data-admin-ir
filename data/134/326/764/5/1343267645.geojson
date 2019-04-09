@@ -1,0 +1,82 @@
+{
+  "id": 1343267645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.45119,27.93095,59.45119,27.93095",
+    "geom:latitude":27.93095,
+    "geom:longitude":59.45119,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Surag",
+    "gn:country_code":"IR",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":49086,
+    "gn:latitude":27.93095,
+    "gn:longitude":59.45119,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"S\u016brag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0646\u0627\u0631 \u0634\u06cc\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Kon\u0101r Sh\u012br",
+        "Kon\u0101r Shahr",
+        "\u0633\u0648\u0631\u06af",
+        "\u06a9\u0646\u0627\u0631 \u0634\u06cc\u0628"
+    ],
+    "name:und_x_variant":[
+        "Kon\u0101r Shahr",
+        "S\u016brag",
+        "Kon\u0101r Sh\u012bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":49086,
+        "wk:page":"Konar_Shib"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2474d8cceb47ffbe15ca574ddca7af69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720063,
+            "locality_id":1343267645,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1343267645,
+    "wof:lastmodified":1537642768,
+    "wof:name":"Surag",
+    "wof:parent_id":1108720063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.45119,
+    27.93095,
+    59.45119,
+    27.93095
+],
+  "geometry": {"coordinates":[59.45119,27.93095],"type":"Point"}
+}

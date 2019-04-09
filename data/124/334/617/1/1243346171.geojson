@@ -1,0 +1,83 @@
+{
+  "id": 1243346171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.90372,32.19424,48.90372,32.19424",
+    "geom:latitude":32.19424,
+    "geom:longitude":48.90372,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Kayedan",
+    "gn:country_code":"IR",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":128355,
+    "gn:latitude":32.19424,
+    "gn:longitude":48.90372,
+    "gn:modification_date":"2015-11-07",
+    "gn:name":"Kayedan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u06cc\u062f\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "K\u0101yd\u0101n",
+        "\u06a9\u0627\u0626\u06cc\u062f\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Koweyd\u0101n",
+        "Kayedan",
+        "Kowyd\u0101n",
+        "K\u0101yd\u016bn",
+        "Koid\u016bn",
+        "K\u0101\u2019\u012bd\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":128355,
+        "wk:page":"Kaydan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"193723fd8c51ec22a30ae72aa8ebce29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720043,
+            "locality_id":1243346171,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1243346171,
+    "wof:lastmodified":1537644654,
+    "wof:name":"Kayedan",
+    "wof:parent_id":1108720043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.90372,
+    32.19424,
+    48.90372,
+    32.19424
+],
+  "geometry": {"coordinates":[48.90372,32.19424],"type":"Point"}
+}

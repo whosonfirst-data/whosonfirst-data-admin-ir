@@ -1,0 +1,78 @@
+{
+  "id": 1309976099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.6309,30.1865,49.6309,30.1865",
+    "geom:latitude":30.1865,
+    "geom:longitude":49.6309,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Abadeh",
+    "gn:country_code":"IR",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":135551,
+    "gn:latitude":30.1865,
+    "gn:longitude":49.6309,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u0100b\u0101deh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0622\u0628\u0627\u062f\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0100b\u0101deh"
+    ],
+    "name:und_x_variant":[
+        "\u2018Eb\u0101doll\u0101h\u012b",
+        "\u0100b\u0101dil\u0101hi",
+        "\u0100b\u0101d Ill\u0101hi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":135551
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a6132a0aca9bebcf15384c82d5da8279",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720057,
+            "locality_id":1309976099,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1309976099,
+    "wof:lastmodified":1537645384,
+    "wof:name":"Abadeh",
+    "wof:parent_id":1108720057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.6309,
+    30.1865,
+    49.6309,
+    30.1865
+],
+  "geometry": {"coordinates":[49.6309,30.1865],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259528827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.92762,37.34152,46.92762,37.34152",
+    "geom:latitude":37.34152,
+    "geom:longitude":46.92762,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Vafadar",
+    "gn:country_code":"IR",
+    "gn:dem":1574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":112352,
+    "gn:latitude":37.34152,
+    "gn:longitude":46.92762,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Vaf\u0101d\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0648\u0641\u0627\u062f\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Vaf\u0101d\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112352
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0f5b71d926540c643e7322af7cc45d59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720055,
+            "locality_id":1259528827,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1259528827,
+    "wof:lastmodified":1537643076,
+    "wof:name":"Vafadar",
+    "wof:parent_id":1108720055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.92762000000001,
+    37.34152,
+    46.92762000000001,
+    37.34152
+],
+  "geometry": {"coordinates":[46.92762000000001,37.34152],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293440117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.1036,30.3699,55.1036,30.3699",
+    "geom:latitude":30.3699,
+    "geom:longitude":55.1036,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Harnashak",
+    "gn:country_code":"IR",
+    "gn:dem":2245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":131520,
+    "gn:latitude":30.3699,
+    "gn:longitude":55.1036,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Harn\u0101shak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0647\u0631\u0646\u0627\u0634\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "Hern\u0101shk",
+        "Harn\u0101shak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":131520,
+        "wk:page":"Harnashak"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6e80294d409f6dfc5d27779fade4adac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720433,
+            "locality_id":1293440117,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1293440117,
+    "wof:lastmodified":1537644976,
+    "wof:name":"Harnashak",
+    "wof:parent_id":1108720433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.1036,
+    30.3699,
+    55.1036,
+    30.3699
+],
+  "geometry": {"coordinates":[55.1036,30.3699],"type":"Point"}
+}

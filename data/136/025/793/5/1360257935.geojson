@@ -1,0 +1,75 @@
+{
+  "id": 1360257935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.1426,32.4166,49.1426,32.4166",
+    "geom:latitude":32.4166,
+    "geom:longitude":49.1426,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Shahrak-e Teraz",
+    "gn:country_code":"IR",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":36224,
+    "gn:latitude":32.4166,
+    "gn:longitude":49.1426,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Shahrak-e Ter\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u06a9 \u062a\u0631\u0627\u0632"
+    ],
+    "name:fas_x_variant":[
+        "Ter\u0101z",
+        "Shahrak-e Ter\u0101z",
+        "\u062a\u0631\u0627\u0632"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":36224
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e4a60235e09208424077ef085f9fa3f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720177,
+            "locality_id":1360257935,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1360257935,
+    "wof:lastmodified":1537641991,
+    "wof:name":"Shahrak-e Teraz",
+    "wof:parent_id":1108720177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.1426,
+    32.4166,
+    49.1426,
+    32.4166
+],
+  "geometry": {"coordinates":[49.1426,32.4166],"type":"Point"}
+}

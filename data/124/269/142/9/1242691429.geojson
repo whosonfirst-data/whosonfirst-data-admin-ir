@@ -1,0 +1,76 @@
+{
+  "id": 1242691429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.8065,37.515,44.8065,37.515",
+    "geom:latitude":37.515,
+    "geom:longitude":44.8065,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Tibatan",
+    "gn:country_code":"IR",
+    "gn:dem":1729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":20877,
+    "gn:latitude":37.515,
+    "gn:longitude":44.8065,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"T\u012bbat\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u064a\u0628\u0627\u062a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u06cc\u0628\u062a\u0627\u0646",
+        "T\u012bb\u0101t\u0101n",
+        "T\u012bbat\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":20877,
+        "wk:page":"Tibatan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b81b9bb4c0f3042e5bfe38662d67a058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720289,
+            "locality_id":1242691429,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1242691429,
+    "wof:lastmodified":1537641040,
+    "wof:name":"Tibatan",
+    "wof:parent_id":1108720289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.8065,
+    37.515,
+    44.8065,
+    37.515
+],
+  "geometry": {"coordinates":[44.8065,37.515],"type":"Point"}
+}

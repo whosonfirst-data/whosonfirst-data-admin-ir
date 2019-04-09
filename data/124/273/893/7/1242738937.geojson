@@ -1,0 +1,77 @@
+{
+  "id": 1242738937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.08013,26.89438,58.08013,26.89438",
+    "geom:latitude":26.89438,
+    "geom:longitude":58.08013,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Astan",
+    "gn:country_code":"IR",
+    "gn:dem":1143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":142683,
+    "gn:latitude":26.89438,
+    "gn:longitude":58.08013,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Ast\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Ast\u0101n",
+        "Est\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Est\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":142683
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"718685c8995183c9ec850649995036ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720029,
+            "locality_id":1242738937,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1242738937,
+    "wof:lastmodified":1537646096,
+    "wof:name":"Astan",
+    "wof:parent_id":1108720029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.08013,
+    26.89438,
+    58.08013,
+    26.89438
+],
+  "geometry": {"coordinates":[58.08013,26.89438],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209365093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.3453,29.6211,56.3453,29.6211",
+    "geom:latitude":29.6211,
+    "geom:longitude":56.3453,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Sharikabad",
+    "gn:country_code":"IR",
+    "gn:dem":2788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":43357,
+    "gn:latitude":29.6211,
+    "gn:longitude":56.3453,
+    "gn:modification_date":"2014-04-05",
+    "gn:name":"Shar\u012bk\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0644 \u067e\u0631\u0648\u0633\u062a"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u0631\u064a\u06a9 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Pol-e Parvast",
+        "Shar\u012bk\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":43357,
+        "wk:page":"Pol-e_Parvast"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3c5469629fa7d75ec899e0506d199826",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209365093
+        }
+    ],
+    "wof:id":1209365093,
+    "wof:lastmodified":1537642450,
+    "wof:name":"Sharikabad",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.3453,
+    29.6211,
+    56.3453,
+    29.6211
+],
+  "geometry": {"coordinates":[56.3453,29.6211],"type":"Point"}
+}

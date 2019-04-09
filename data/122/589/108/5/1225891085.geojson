@@ -1,0 +1,70 @@
+{
+  "id": 1225891085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.5,31.05,56.5,31.05",
+    "geom:latitude":31.05,
+    "geom:longitude":56.5,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Ab Cheku",
+    "gn:country_code":"IR",
+    "gn:dem":2088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":39090,
+    "gn:latitude":31.05,
+    "gn:longitude":56.5,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u0100b Chek\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0100b Chek\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":39090
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ba94a8206ddd4ce7f1c48e822eaef17b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720155,
+            "locality_id":1225891085,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1225891085,
+    "wof:lastmodified":1537642193,
+    "wof:name":"Ab Cheku",
+    "wof:parent_id":1108720155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.5,
+    31.05,
+    56.5,
+    31.05
+],
+  "geometry": {"coordinates":[56.5,31.05],"type":"Point"}
+}

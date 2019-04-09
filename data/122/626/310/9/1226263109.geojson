@@ -1,0 +1,76 @@
+{
+  "id": 1226263109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.39667,28.97694,54.39667,28.97694",
+    "geom:latitude":28.97694,
+    "geom:longitude":54.39667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Badshah",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":142262,
+    "gn:latitude":28.97694,
+    "gn:longitude":54.39667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"B\u0101dsh\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "B\u0101dsh\u0101h"
+    ],
+    "name:und_x_variant":[
+        "P\u0101desh\u0101h",
+        "Badsha",
+        "P\u0101sha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108719987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":142262
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"123dac9f368ddab494bfb91b4c87f471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719987,
+            "locality_id":1226263109,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1226263109,
+    "wof:lastmodified":1537646054,
+    "wof:name":"Badshah",
+    "wof:parent_id":1108719987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.39666999999999,
+    28.97694000000001,
+    54.39666999999999,
+    28.97694000000001
+],
+  "geometry": {"coordinates":[54.39666999999999,28.97694000000001],"type":"Point"}
+}

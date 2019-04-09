@@ -1,0 +1,74 @@
+{
+  "id": 1326633627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.536,36.5391,46.536,36.5391",
+    "geom:latitude":36.5391,
+    "geom:longitude":46.536,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khulineh",
+    "gn:country_code":"IR",
+    "gn:dem":1368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":401281,
+    "gn:latitude":36.5391,
+    "gn:longitude":46.536,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kh\u016bl\u012bneh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0644\u06cc\u0646\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Kh\u016bl\u012bneh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401281,
+        "wk:page":"Khulineh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d69a7e0a91ed454e6c9a46d56190c20f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720429,
+            "locality_id":1326633627,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1326633627,
+    "wof:lastmodified":1537646526,
+    "wof:name":"Khulineh",
+    "wof:parent_id":1108720429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.536,
+    36.5391,
+    46.536,
+    36.5391
+],
+  "geometry": {"coordinates":[46.536,36.5391],"type":"Point"}
+}

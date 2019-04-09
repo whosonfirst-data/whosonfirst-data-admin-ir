@@ -1,0 +1,67 @@
+{
+  "id": 1193098121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.66667,29.58917,56.66667,29.58917",
+    "geom:latitude":29.58917,
+    "geom:longitude":56.66667,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Rang",
+    "gn:country_code":"IR",
+    "gn:dem":2480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":118798,
+    "gn:latitude":29.58917,
+    "gn:longitude":56.66667,
+    "gn:modification_date":"2011-12-07",
+    "gn:name":"Rang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":118798
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"aa733cda8173a89c5d28fe5e774d1995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719879,
+            "locality_id":1193098121,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1193098121,
+    "wof:lastmodified":1536364554,
+    "wof:name":"Rang",
+    "wof:parent_id":1108719879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.66667,
+    29.58917000000001,
+    56.66667,
+    29.58917000000001
+],
+  "geometry": {"coordinates":[56.66667,29.58917000000001],"type":"Point"}
+}

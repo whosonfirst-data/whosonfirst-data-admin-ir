@@ -1,0 +1,73 @@
+{
+  "id": 1242758395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.21328,26.95003,56.21328,26.95003",
+    "geom:latitude":26.95003,
+    "geom:longitude":56.21328,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tavoq-e Bala",
+    "gn:country_code":"IR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8614975,
+    "gn:latitude":26.95003,
+    "gn:longitude":56.21328,
+    "gn:modification_date":"2013-09-11",
+    "gn:name":"\u0162\u0101voq-e B\u0101l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0637\u0627\u0648\u0642 \u0628\u0627\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u0162\u0101voq-e B\u0101l\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8614975
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"61b82c1ff3a618ad4ec6fa354c6006c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720317,
+            "locality_id":1242758395,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1242758395,
+    "wof:lastmodified":1537648593,
+    "wof:name":"Tavoq-e Bala",
+    "wof:parent_id":1108720317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.21328000000001,
+    26.95003,
+    56.21328000000001,
+    26.95003
+],
+  "geometry": {"coordinates":[56.21328000000001,26.95003],"type":"Point"}
+}

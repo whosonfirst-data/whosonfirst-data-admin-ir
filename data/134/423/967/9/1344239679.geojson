@@ -1,0 +1,75 @@
+{
+  "id": 1344239679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.2,31.6,49.2,31.6",
+    "geom:latitude":31.6,
+    "geom:longitude":49.2,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Gabibeh",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":134414,
+    "gn:latitude":31.6,
+    "gn:longitude":49.2,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gab\u012bbeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Gab\u012bbeh"
+    ],
+    "name:und_x_variant":[
+        "Gabbibah",
+        "Gab\u012byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":134414
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e7c22c5151033bea3bb17a4b6cac3b9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720331,
+            "locality_id":1344239679,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1344239679,
+    "wof:lastmodified":1537645268,
+    "wof:name":"Gabibeh",
+    "wof:parent_id":1108720331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.2,
+    31.6,
+    49.2,
+    31.6
+],
+  "geometry": {"coordinates":[49.2,31.6],"type":"Point"}
+}

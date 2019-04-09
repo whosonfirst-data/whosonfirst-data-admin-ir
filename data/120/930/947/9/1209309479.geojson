@@ -1,0 +1,67 @@
+{
+  "id": 1209309479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.31605,33.04552,47.31605,33.04552",
+    "geom:latitude":33.04552,
+    "geom:longitude":47.31605,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Darhal",
+    "gn:country_code":"IR",
+    "gn:dem":1160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11192209,
+    "gn:latitude":33.04552,
+    "gn:longitude":47.31605,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"D\u0101rhal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0631\u0647\u0644"
+    ],
+    "name:und_x_variant":[
+        "D\u0101rhal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11192209
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7cafd908c2d4e77ea878b83f7c56c7d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209309479
+        }
+    ],
+    "wof:id":1209309479,
+    "wof:lastmodified":1537648745,
+    "wof:name":"Darhal",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.31605,
+    33.04552,
+    47.31605,
+    33.04552
+],
+  "geometry": {"coordinates":[47.31605,33.04552],"type":"Point"}
+}

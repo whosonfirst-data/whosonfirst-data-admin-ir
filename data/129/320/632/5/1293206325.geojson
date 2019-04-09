@@ -1,0 +1,73 @@
+{
+  "id": 1293206325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.8106,31.081,61.8106,31.081",
+    "geom:latitude":31.081,
+    "geom:longitude":61.8106,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Deh-e Ghanvar",
+    "gn:country_code":"IR",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6651150,
+    "gn:latitude":31.081,
+    "gn:longitude":61.8106,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Deh-e Ghanvar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647 \u063a\u0646\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u062f\u0647 \u063a\u0646\u0648\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6651150
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e23dcf97cec2844b2935913aca0ccc26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720513,
+            "locality_id":1293206325,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1293206325,
+    "wof:lastmodified":1537647204,
+    "wof:name":"Deh-e Ghanvar",
+    "wof:parent_id":1108720513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.8106,
+    31.081,
+    61.8106,
+    31.081
+],
+  "geometry": {"coordinates":[61.8106,31.081],"type":"Point"}
+}

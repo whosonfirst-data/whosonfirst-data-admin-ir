@@ -1,0 +1,81 @@
+{
+  "id": 1343263183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.27702,32.40869,50.27702,32.40869",
+    "geom:latitude":32.40869,
+    "geom:longitude":50.27702,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Elyasabad",
+    "gn:country_code":"IR",
+    "gn:dem":2408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":143733,
+    "gn:latitude":32.40869,
+    "gn:longitude":50.27702,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ely\u0101s\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u064e\u0644\u064a\u0627\u0633"
+    ],
+    "name:fas_x_variant":[
+        "Ely\u0101s",
+        "Ely\u0101s\u0101b\u0101d",
+        "\u0627\u0650\u0644\u064a\u0627\u0633",
+        "\u0627\u0644\u06cc\u0627\u0633 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Aly\u0101s",
+        "El\u012b\u0101s",
+        "\u0627\u0644\u06cc\u0627\u0633 \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672319,
+        1108720171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":143733
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e57b4485027966aad8f85734aba58ac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720171,
+            "locality_id":1343263183,
+            "region_id":85672319
+        }
+    ],
+    "wof:id":1343263183,
+    "wof:lastmodified":1537646205,
+    "wof:name":"Elyasabad",
+    "wof:parent_id":1108720171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.27702,
+    32.40869,
+    50.27702,
+    32.40869
+],
+  "geometry": {"coordinates":[50.27702,32.40869],"type":"Point"}
+}

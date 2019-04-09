@@ -1,0 +1,74 @@
+{
+  "id": 1293399239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.6556,38.8767,44.6556,38.8767",
+    "geom:latitude":38.8767,
+    "geom:longitude":44.6556,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Qiz Ulan",
+    "gn:country_code":"IR",
+    "gn:dem":2057,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":40441,
+    "gn:latitude":38.8767,
+    "gn:longitude":44.6556,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Q\u012bz \u016alan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u06cc\u0632 \u0627\u0648\u0644\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Q\u012bz \u016alan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":40441,
+        "wk:page":"Qiz_Ulan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bcdaa4f32b4f35562c93497e63393e7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720153,
+            "locality_id":1293399239,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1293399239,
+    "wof:lastmodified":1537642272,
+    "wof:name":"Qiz Ulan",
+    "wof:parent_id":1108720153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.6556,
+    38.8767,
+    44.6556,
+    38.8767
+],
+  "geometry": {"coordinates":[44.6556,38.8767],"type":"Point"}
+}

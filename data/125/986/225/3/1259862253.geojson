@@ -1,0 +1,73 @@
+{
+  "id": 1259862253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.0832,30.466,48.0832,30.466",
+    "geom:latitude":30.466,
+    "geom:longitude":48.0832,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Nahr-e Yusef",
+    "gn:country_code":"IR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6687636,
+    "gn:latitude":30.466,
+    "gn:longitude":48.0832,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Nahr-e Y\u016bsef",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0646\u0647\u0631 \u06cc\u0648\u0633\u0641"
+    ],
+    "name:fas_x_variant":[
+        "Nahr-e Y\u016bsef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6687636
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6a1623e05c360c43691fc1900436b178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720151,
+            "locality_id":1259862253,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1259862253,
+    "wof:lastmodified":1537647398,
+    "wof:name":"Nahr-e Yusef",
+    "wof:parent_id":1108720151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.0832,
+    30.466,
+    48.0832,
+    30.466
+],
+  "geometry": {"coordinates":[48.0832,30.466],"type":"Point"}
+}

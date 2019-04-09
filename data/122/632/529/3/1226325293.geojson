@@ -1,0 +1,76 @@
+{
+  "id": 1226325293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.27884,32.01211,48.27884,32.01211",
+    "geom:latitude":32.01211,
+    "geom:longitude":48.27884,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Boneh Rahimeh",
+    "gn:country_code":"IR",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":65,
+    "gn:latitude":32.01211,
+    "gn:longitude":48.27884,
+    "gn:modification_date":"2016-01-06",
+    "gn:name":"Boneh Ra\u1e29\u012bmeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Ra\u1e29\u012bmeh"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0646\u0647 \u0631\u062d\u064a\u0645\u0647"
+    ],
+    "name:und_x_variant":[
+        "Boneh Ra\u1e29\u012bmeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":65
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f4f806eab06555408c4bf777d4668a27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720455,
+            "locality_id":1226325293,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1226325293,
+    "wof:lastmodified":1537640120,
+    "wof:name":"Boneh Rahimeh",
+    "wof:parent_id":1108720455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.27884,
+    32.01211,
+    48.27884,
+    32.01211
+],
+  "geometry": {"coordinates":[48.27884,32.01211],"type":"Point"}
+}

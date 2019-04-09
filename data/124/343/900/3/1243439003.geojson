@@ -1,0 +1,74 @@
+{
+  "id": 1243439003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.8906,38.0047,48.8906,38.0047",
+    "geom:latitude":38.0047,
+    "geom:longitude":48.8906,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Babasu",
+    "gn:country_code":"IR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":37979,
+    "gn:latitude":38.0047,
+    "gn:longitude":48.8906,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"B\u0101b\u0101s\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0628\u0627\u0633\u0648"
+    ],
+    "name:fas_x_variant":[
+        "B\u0101b\u0101s\u016b-ye Kho\u0163beh Sar\u0101",
+        "B\u0101b\u0101s\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":37979
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d8f1077be2fc901b843d78ffc1147290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720487,
+            "locality_id":1243439003,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1243439003,
+    "wof:lastmodified":1537642141,
+    "wof:name":"Babasu",
+    "wof:parent_id":1108720487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.8906,
+    38.0047,
+    48.8906,
+    38.0047
+],
+  "geometry": {"coordinates":[48.8906,38.0047],"type":"Point"}
+}

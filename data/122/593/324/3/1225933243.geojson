@@ -1,0 +1,80 @@
+{
+  "id": 1225933243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.9247,34.02032,48.9247,34.02032",
+    "geom:latitude":34.02032,
+    "geom:longitude":48.9247,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Dowrudgaran",
+    "gn:country_code":"IR",
+    "gn:dem":1935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":14212,
+    "gn:latitude":34.02032,
+    "gn:longitude":48.9247,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Dowr\u016bdgar\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Dor\u016bdgar\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0631\u0648\u062f\u06af\u0631\u0627\u0646",
+        "\u062f\u0648\u0631\u0648\u062f\u06af\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Dor\u016bd",
+        "\u062f\u0631\u0648\u062f\u06af\u0631\u0627\u0646",
+        "Dowr\u016bdgar\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":14212,
+        "wk:page":"Dorudgaran"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7ff8c33a1b87d0e8bac8af81c368f35d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719905,
+            "locality_id":1225933243,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1225933243,
+    "wof:lastmodified":1537640794,
+    "wof:name":"Dowrudgaran",
+    "wof:parent_id":1108719905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.9247,
+    34.02032,
+    48.9247,
+    34.02032
+],
+  "geometry": {"coordinates":[48.9247,34.02032],"type":"Point"}
+}

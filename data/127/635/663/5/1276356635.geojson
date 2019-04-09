@@ -1,0 +1,73 @@
+{
+  "id": 1276356635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.7118,28.7278,52.7118,28.7278",
+    "geom:latitude":28.7278,
+    "geom:longitude":52.7118,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Jabal-e Anaruyeh",
+    "gn:country_code":"IR",
+    "gn:dem":1455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6907820,
+    "gn:latitude":28.7278,
+    "gn:longitude":52.7118,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Jabal-e An\u0101r\u016byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u0628\u0644 \u0627\u0646\u0627\u0631\u0648\u06cc\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Jabal-e An\u0101r\u016byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6907820
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"31e8cd09187a123d948fd026b94b7eca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720009,
+            "locality_id":1276356635,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1276356635,
+    "wof:lastmodified":1537647702,
+    "wof:name":"Jabal-e Anaruyeh",
+    "wof:parent_id":1108720009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.7118,
+    28.7278,
+    52.7118,
+    28.7278
+],
+  "geometry": {"coordinates":[52.7118,28.7278],"type":"Point"}
+}

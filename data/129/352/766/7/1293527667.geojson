@@ -1,0 +1,77 @@
+{
+  "id": 1293527667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.26417,31.18222,53.26417,31.18222",
+    "geom:latitude":31.18222,
+    "geom:longitude":53.26417,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Maia",
+    "gn:country_code":"IR",
+    "gn:dem":1517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":67617,
+    "gn:latitude":31.18222,
+    "gn:longitude":53.26417,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"M\u0101\u012ba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0627\u064a\u0633",
+        "M\u0101\u012ba"
+    ],
+    "name:und_x_variant":[
+        "M\u0101\u012bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108719781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":67617
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"51f91a521a4b66ae92f34f4b9400010d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719781,
+            "locality_id":1293527667,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1293527667,
+    "wof:lastmodified":1537642847,
+    "wof:name":"Maia",
+    "wof:parent_id":1108719781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.26416999999999,
+    31.18222,
+    53.26416999999999,
+    31.18222
+],
+  "geometry": {"coordinates":[53.26416999999999,31.18222],"type":"Point"}
+}

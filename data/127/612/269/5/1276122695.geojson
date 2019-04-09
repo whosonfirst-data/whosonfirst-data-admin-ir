@@ -1,0 +1,73 @@
+{
+  "id": 1276122695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.68167,31.26528,50.68167,31.26528",
+    "geom:latitude":31.26528,
+    "geom:longitude":50.68167,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Deh-e `Eyd",
+    "gn:country_code":"IR",
+    "gn:dem":2186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":14656,
+    "gn:latitude":31.26528,
+    "gn:longitude":50.68167,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Deh-e \u2018Eyd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0650\u0647\u0650 \u0639\u0650\u064a\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Deh-e \u2018Eyd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":14656
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f2768218cec9b9448e5b30741a7cc7af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1276122695,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1276122695,
+    "wof:lastmodified":1537640835,
+    "wof:name":"Deh-e `Eyd",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.68167,
+    31.26528,
+    50.68167,
+    31.26528
+],
+  "geometry": {"coordinates":[50.68167,31.26528],"type":"Point"}
+}

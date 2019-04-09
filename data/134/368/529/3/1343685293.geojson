@@ -1,0 +1,77 @@
+{
+  "id": 1343685293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.75207,26.43554,60.75207,26.43554",
+    "geom:latitude":26.43554,
+    "geom:longitude":60.75207,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gharutak",
+    "gn:country_code":"IR",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1114725,
+    "gn:latitude":26.43554,
+    "gn:longitude":60.75207,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ghar\u016btak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Ghar\u016btak"
+    ],
+    "name:fas_x_variant":[
+        "Garr\u016btak",
+        "\u063a\u0631\u0648\u062a\u06a9"
+    ],
+    "name:und_x_variant":[
+        "\u063a\u0631\u0648\u062a\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1114725
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"75e1c5333a79965099336ec3829f19ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720271,
+            "locality_id":1343685293,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1343685293,
+    "wof:lastmodified":1537646928,
+    "wof:name":"Gharutak",
+    "wof:parent_id":1108720271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.75207,
+    26.43554,
+    60.75207,
+    26.43554
+],
+  "geometry": {"coordinates":[60.75207,26.43554],"type":"Point"}
+}

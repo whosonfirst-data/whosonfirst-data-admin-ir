@@ -1,0 +1,67 @@
+{
+  "id": 1243324495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.83389,27.26389,57.83389,27.26389",
+    "geom:latitude":27.26389,
+    "geom:longitude":57.83389,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Joldar",
+    "gn:country_code":"IR",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":130082,
+    "gn:latitude":27.26389,
+    "gn:longitude":57.83389,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Joldar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":130082
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4a4d6c6af2985bcf99c2a0b8553dd841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720213,
+            "locality_id":1243324495,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1243324495,
+    "wof:lastmodified":1536980866,
+    "wof:name":"Joldar",
+    "wof:parent_id":1108720213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.83389,
+    27.26389,
+    57.83389,
+    27.26389
+],
+  "geometry": {"coordinates":[57.83389,27.26389],"type":"Point"}
+}

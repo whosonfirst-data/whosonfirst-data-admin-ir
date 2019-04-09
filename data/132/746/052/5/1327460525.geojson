@@ -1,0 +1,76 @@
+{
+  "id": 1327460525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.36014,35.39488,59.36014,35.39488",
+    "geom:latitude":35.39488,
+    "geom:longitude":59.36014,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Gozidar",
+    "gn:country_code":"IR",
+    "gn:dem":1558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7381598,
+    "gn:latitude":35.39488,
+    "gn:longitude":59.36014,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Goz\u012bdar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Goz\u012bdar"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u0632\u06cc\u062f\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u06af\u0632\u06cc\u062f\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7381598
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"258c7db6bb0210344421ab9c79272c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720497,
+            "locality_id":1327460525,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1327460525,
+    "wof:lastmodified":1537648148,
+    "wof:name":"Gozidar",
+    "wof:parent_id":1108720497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.36014,
+    35.39488,
+    59.36014,
+    35.39488
+],
+  "geometry": {"coordinates":[59.36014,35.39488],"type":"Point"}
+}

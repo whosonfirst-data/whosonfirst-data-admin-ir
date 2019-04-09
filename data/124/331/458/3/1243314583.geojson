@@ -1,0 +1,76 @@
+{
+  "id": 1243314583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.70779,31.22439,54.70779,31.22439",
+    "geom:latitude":31.22439,
+    "geom:longitude":54.70779,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Chah-e Shir",
+    "gn:country_code":"IR",
+    "gn:dem":1779,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":139523,
+    "gn:latitude":31.22439,
+    "gn:longitude":54.70779,
+    "gn:modification_date":"2013-11-07",
+    "gn:name":"Ch\u0101h-e Sh\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0647 \u0634\u064a\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Ch\u0101h-e Sh\u012br"
+    ],
+    "name:und_x_variant":[
+        "Ch\u0101h-i-Sh\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108720235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":139523
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d7a4622eeb6bc933b0b47f18fe54113c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720235,
+            "locality_id":1243314583,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1243314583,
+    "wof:lastmodified":1537645780,
+    "wof:name":"Chah-e Shir",
+    "wof:parent_id":1108720235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.70779,
+    31.22439,
+    54.70779,
+    31.22439
+],
+  "geometry": {"coordinates":[54.70779,31.22439],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1193044809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.65278,35.23766,58.65278,35.23766",
+    "geom:latitude":35.23766,
+    "geom:longitude":58.65278,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Bahariyeh",
+    "gn:country_code":"IR",
+    "gn:dem":1204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":34302,
+    "gn:latitude":35.23766,
+    "gn:longitude":58.65278,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Bah\u0101r\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0647\u0627\u0631\u06cc\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Bah\u0101r\u012byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":34302,
+        "wk:page":"Bahariyeh,_Razavi_Khorasan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"97e61dca077060fdad2e4c2f5b604bf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720111,
+            "locality_id":1193044809,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1193044809,
+    "wof:lastmodified":1537641910,
+    "wof:name":"Bahariyeh",
+    "wof:parent_id":1108720111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.65278000000001,
+    35.23766,
+    58.65278000000001,
+    35.23766
+],
+  "geometry": {"coordinates":[58.65278000000001,35.23766],"type":"Point"}
+}

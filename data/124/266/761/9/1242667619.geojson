@@ -1,0 +1,77 @@
+{
+  "id": 1242667619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.2412,37.50996,49.2412,37.50996",
+    "geom:latitude":37.50996,
+    "geom:longitude":49.2412,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Korgan",
+    "gn:country_code":"IR",
+    "gn:dem":-19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6758227,
+    "gn:latitude":37.50996,
+    "gn:longitude":49.2412,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Korg\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0631\u06af\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Gorg\u0101n",
+        "\u06a9\u0631\u06af\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Korg\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108719865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6758227
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c62e08a67c81e8a72d097706281b6949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719865,
+            "locality_id":1242667619,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1242667619,
+    "wof:lastmodified":1537647671,
+    "wof:name":"Korgan",
+    "wof:parent_id":1108719865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.2412,
+    37.50996,
+    49.2412,
+    37.50996
+],
+  "geometry": {"coordinates":[49.2412,37.50996],"type":"Point"}
+}

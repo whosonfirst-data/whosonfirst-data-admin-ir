@@ -1,0 +1,73 @@
+{
+  "id": 1326672471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.1887,35.4916,49.1887,35.4916",
+    "geom:latitude":35.4916,
+    "geom:longitude":49.1887,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Karvansara",
+    "gn:country_code":"IR",
+    "gn:dem":2293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":36013,
+    "gn:latitude":35.4916,
+    "gn:longitude":49.1887,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"K\u0101rv\u0101nsar\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0643\u0627\u0631\u0648\u0627\u0646\u0633\u0631\u0627"
+    ],
+    "name:fas_x_variant":[
+        "K\u0101rv\u0101nsar\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108719913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":36013
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f2a45be4f50a79d6b029bb1ef8943d93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719913,
+            "locality_id":1326672471,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1326672471,
+    "wof:lastmodified":1537641982,
+    "wof:name":"Karvansara",
+    "wof:parent_id":1108719913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.1887,
+    35.4916,
+    49.1887,
+    35.4916
+],
+  "geometry": {"coordinates":[49.1887,35.4916],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309753335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.5975,31.8025,51.5975,31.8025",
+    "geom:latitude":31.8025,
+    "geom:longitude":51.5975,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Jaz",
+    "gn:country_code":"IR",
+    "gn:dem":2433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":130228,
+    "gn:latitude":31.8025,
+    "gn:longitude":51.5975,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Jaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":130228
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"38e7200a43dcb823c0ac295b3665084a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720417,
+            "locality_id":1309753335,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1309753335,
+    "wof:lastmodified":1537005994,
+    "wof:name":"Jaz",
+    "wof:parent_id":1108720417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.5975,
+    31.8025,
+    51.5975,
+    31.8025
+],
+  "geometry": {"coordinates":[51.5975,31.8025],"type":"Point"}
+}

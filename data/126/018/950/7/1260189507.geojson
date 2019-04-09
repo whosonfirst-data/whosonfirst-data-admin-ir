@@ -1,0 +1,73 @@
+{
+  "id": 1260189507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.30833,32.015,50.30833,32.015",
+    "geom:latitude":32.015,
+    "geom:longitude":50.30833,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Darreh Chulan",
+    "gn:country_code":"IR",
+    "gn:dem":2116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":33130,
+    "gn:latitude":32.015,
+    "gn:longitude":50.30833,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Darreh Ch\u016bl\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Darreh Ch\u016bl\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u064e\u0631\u0650\u0651\u0647 \u0686\u0648\u0644\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672319,
+        1108719821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":33130
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6d2418b1ae950d7f8d8804932914e60e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719821,
+            "locality_id":1260189507,
+            "region_id":85672319
+        }
+    ],
+    "wof:id":1260189507,
+    "wof:lastmodified":1537641843,
+    "wof:name":"Darreh Chulan",
+    "wof:parent_id":1108719821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.30833,
+    32.015,
+    50.30833,
+    32.015
+],
+  "geometry": {"coordinates":[50.30833,32.015],"type":"Point"}
+}

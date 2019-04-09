@@ -1,0 +1,74 @@
+{
+  "id": 1327382929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.7872,39.0757,47.7872,39.0757",
+    "geom:latitude":39.0757,
+    "geom:longitude":47.7872,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Kuramalu",
+    "gn:country_code":"IR",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":17143,
+    "gn:latitude":39.0757,
+    "gn:longitude":47.7872,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"K\u016br\u0101m\u0101l\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0648\u0631\u0627\u0645\u0627\u0644\u0648"
+    ],
+    "name:fas_x_variant":[
+        "K\u016br\u0101m\u0101l\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":17143,
+        "wk:page":"Kuramalu"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ce0c629c5cf107aabd00ba2356a2f3ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720021,
+            "locality_id":1327382929,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1327382929,
+    "wof:lastmodified":1537640928,
+    "wof:name":"Kuramalu",
+    "wof:parent_id":1108720021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.7872,
+    39.0757,
+    47.7872,
+    39.0757
+],
+  "geometry": {"coordinates":[47.7872,39.0757],"type":"Point"}
+}

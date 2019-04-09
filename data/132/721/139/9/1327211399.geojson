@@ -1,0 +1,79 @@
+{
+  "id": 1327211399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.65,26.43333,57.65,26.43333",
+    "geom:latitude":26.43333,
+    "geom:longitude":57.65,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Band-e Kalakshu",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":69064,
+    "gn:latitude":26.43333,
+    "gn:longitude":57.65,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Band-e Kal\u0101ksh\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u064e\u0646\u062f\u0650 \u0643\u064e\u0644\u0627\u0643\u0634\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u064e\u0646\u062f\u0650 \u0643\u064e\u0644\u0627\u0686\u0648",
+        "Band-e Kal\u0101ksh\u016b"
+    ],
+    "name:und_x_variant":[
+        "Band-e Kal\u0101ch\u016b",
+        "Band-i-Kal\u0101chu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":69064
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4ff913a14d916ca3c2b86a70890fd8c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720077,
+            "locality_id":1327211399,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1327211399,
+    "wof:lastmodified":1537642899,
+    "wof:name":"Band-e Kalakshu",
+    "wof:parent_id":1108720077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.65,
+    26.43333,
+    57.65,
+    26.43333
+],
+  "geometry": {"coordinates":[57.65,26.43333],"type":"Point"}
+}

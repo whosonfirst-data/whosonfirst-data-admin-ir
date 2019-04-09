@@ -1,0 +1,80 @@
+{
+  "id": 1260131597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.71229,36.99575,54.71229,36.99575",
+    "geom:latitude":36.99575,
+    "geom:longitude":54.71229,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Kuzali",
+    "gn:country_code":"IR",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":39171,
+    "gn:latitude":36.99575,
+    "gn:longitude":54.71229,
+    "gn:modification_date":"2018-05-11",
+    "gn:name":"K\u016bzal\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "K\u016bzal\u012b"
+    ],
+    "name:fas_x_variant":[
+        "K\u016bzeh \u2018Al\u012b",
+        "\u06a9\u0648\u0632\u0644\u06cc",
+        "\u06a9\u0648\u0632\u0647 \u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u06a9\u0648\u0632\u0644\u06cc",
+        "K\u016bzehl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108719799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":39171,
+        "wk:page":"Kuzeh_Ali"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8e3d84266761cae5bed8dab081f158e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719799,
+            "locality_id":1260131597,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1260131597,
+    "wof:lastmodified":1537642197,
+    "wof:name":"Kuzali",
+    "wof:parent_id":1108719799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.71229,
+    36.99575,
+    54.71229,
+    36.99575
+],
+  "geometry": {"coordinates":[54.71229,36.99575],"type":"Point"}
+}

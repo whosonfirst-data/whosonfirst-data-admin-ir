@@ -1,0 +1,73 @@
+{
+  "id": 1243483035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.16417,32.13806,60.16417,32.13806",
+    "geom:latitude":32.13806,
+    "geom:longitude":60.16417,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Nushab",
+    "gn:country_code":"IR",
+    "gn:dem":1806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1337296,
+    "gn:latitude":32.13806,
+    "gn:longitude":60.16417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"N\u016bsh\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "N\u016bsh\u0101b"
+    ],
+    "name:und_x_variant":[
+        "N\u016bsh \u0100b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108720259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337296
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7978d9f6b0a10dc52c767c7bdf457952",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720259,
+            "locality_id":1243483035,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1243483035,
+    "wof:lastmodified":1537647159,
+    "wof:name":"Nushab",
+    "wof:parent_id":1108720259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.16417,
+    32.13806,
+    60.16417,
+    32.13806
+],
+  "geometry": {"coordinates":[60.16417,32.13806],"type":"Point"}
+}

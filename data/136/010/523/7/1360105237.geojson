@@ -1,0 +1,76 @@
+{
+  "id": 1360105237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.1679,29.3566,52.1679,29.3566",
+    "geom:latitude":29.3566,
+    "geom:longitude":52.1679,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Romeqan",
+    "gn:country_code":"IR",
+    "gn:dem":1586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":118337,
+    "gn:latitude":29.3566,
+    "gn:longitude":52.1679,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Romeq\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u0645\u0642\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Romeq\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Romq\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":118337
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"96d9fcc567ce88fe4e020ae14e0c5da9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720447,
+            "locality_id":1360105237,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1360105237,
+    "wof:lastmodified":1537643629,
+    "wof:name":"Romeqan",
+    "wof:parent_id":1108720447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.1679,
+    29.3566,
+    52.1679,
+    29.3566
+],
+  "geometry": {"coordinates":[52.1679,29.3566],"type":"Point"}
+}

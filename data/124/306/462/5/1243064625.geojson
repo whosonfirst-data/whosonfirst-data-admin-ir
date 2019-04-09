@@ -1,0 +1,73 @@
+{
+  "id": 1243064625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.79085,37.39798,49.79085,37.39798",
+    "geom:latitude":37.39798,
+    "geom:longitude":49.79085,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nasht-e Galurab",
+    "gn:country_code":"IR",
+    "gn:dem":-18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11076023,
+    "gn:latitude":37.39798,
+    "gn:longitude":49.79085,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Nasht-e Gal\u016br\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0634\u062a \u06af\u0644\u0648\u0631\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "Nasht-e Gal\u016br\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11076023
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2d9a52f28e440446bf533f8529a74e23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720339,
+            "locality_id":1243064625,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1243064625,
+    "wof:lastmodified":1537648705,
+    "wof:name":"Nasht-e Galurab",
+    "wof:parent_id":1108720339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.79085,
+    37.39798,
+    49.79085,
+    37.39798
+],
+  "geometry": {"coordinates":[49.79085,37.39798],"type":"Point"}
+}

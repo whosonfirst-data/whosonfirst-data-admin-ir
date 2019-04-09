@@ -1,0 +1,79 @@
+{
+  "id": 1309929421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.82487,27.48773,60.82487,27.48773",
+    "geom:latitude":27.48773,
+    "geom:longitude":60.82487,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kahnu",
+    "gn:country_code":"IR",
+    "gn:dem":825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1160790,
+    "gn:latitude":27.48773,
+    "gn:longitude":60.82487,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kahn\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0647\u0646\u0648"
+    ],
+    "name:fas_x_variant":[
+        "Kahn\u016b"
+    ],
+    "name:und_x_variant":[
+        "Kahnow",
+        "Kahanow",
+        "Kahnoo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1160790,
+        "wk:page":"Kahnu,_Sistan_and_Baluchestan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d9b83d73357b0b0f47294cd1e4e10fb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720063,
+            "locality_id":1309929421,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1309929421,
+    "wof:lastmodified":1537647069,
+    "wof:name":"Kahnu",
+    "wof:parent_id":1108720063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.82487,
+    27.48773,
+    60.82487,
+    27.48773
+],
+  "geometry": {"coordinates":[60.82487,27.48773],"type":"Point"}
+}

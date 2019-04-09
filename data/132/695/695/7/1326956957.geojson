@@ -1,0 +1,73 @@
+{
+  "id": 1326956957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.22624,35.40201,59.22624,35.40201",
+    "geom:latitude":35.40201,
+    "geom:longitude":59.22624,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Dulabad",
+    "gn:country_code":"IR",
+    "gn:dem":1625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":34597,
+    "gn:latitude":35.40201,
+    "gn:longitude":59.22624,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"D\u016bl\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0644 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "D\u016bl\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":34597
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0c3e18a3801e1a643400db572c741c32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720497,
+            "locality_id":1326956957,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1326956957,
+    "wof:lastmodified":1537641918,
+    "wof:name":"Dulabad",
+    "wof:parent_id":1108720497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.22624,
+    35.40201,
+    59.22624,
+    35.40201
+],
+  "geometry": {"coordinates":[59.22624,35.40201],"type":"Point"}
+}

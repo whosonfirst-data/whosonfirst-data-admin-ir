@@ -1,0 +1,70 @@
+{
+  "id": 1193001001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.435,31.6175,50.435,31.6175",
+    "geom:latitude":31.6175,
+    "geom:longitude":50.435,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Tulu",
+    "gn:country_code":"IR",
+    "gn:dem":1579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":14698,
+    "gn:latitude":31.6175,
+    "gn:longitude":50.435,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"T\u016bl\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "T\u016bl\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":14698
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f048d474257c8ff080a6adce48114d01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720067,
+            "locality_id":1193001001,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1193001001,
+    "wof:lastmodified":1537640837,
+    "wof:name":"Tulu",
+    "wof:parent_id":1108720067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.435,
+    31.6175,
+    50.435,
+    31.6175
+],
+  "geometry": {"coordinates":[50.435,31.6175],"type":"Point"}
+}

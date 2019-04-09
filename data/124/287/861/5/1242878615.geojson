@@ -1,0 +1,80 @@
+{
+  "id": 1242878615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.73333,30.3,50.73333,30.3",
+    "geom:latitude":30.3,
+    "geom:longitude":50.73333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pol-e Zangiri",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381484,
+    "gn:latitude":30.3,
+    "gn:longitude":50.73333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pol-e Zang\u012br\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u064f\u0644\u0650 \u0632\u064e\u0646\u06af\u064a\u0631\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u064f\u0644\u0650 \u062e\u064f\u062f\u0627",
+        "\u067e\u064f\u0644 \u062e\u064f\u062f\u0627",
+        "Pol-e Zang\u012br\u012b"
+    ],
+    "name:und_x_variant":[
+        "Pol-e Khod\u0101",
+        "Pol Khod\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381484
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5946117a4b11712ed02eb7834279ae05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720015,
+            "locality_id":1242878615,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1242878615,
+    "wof:lastmodified":1537646367,
+    "wof:name":"Pol-e Zangiri",
+    "wof:parent_id":1108720015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.73333,
+    30.3,
+    50.73333,
+    30.3
+],
+  "geometry": {"coordinates":[50.73333,30.3],"type":"Point"}
+}

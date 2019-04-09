@@ -1,0 +1,71 @@
+{
+  "id": 1209676883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.61151,30.93592,51.61151,30.93592",
+    "geom:latitude":30.93592,
+    "geom:longitude":51.61151,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Nurabad",
+    "gn:country_code":"IR",
+    "gn:dem":2188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7454223,
+    "gn:latitude":30.93592,
+    "gn:longitude":51.61151,
+    "gn:modification_date":"2018-07-25",
+    "gn:name":"N\u016br\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "N\u016br\u0101b\u0101d"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0648\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u0646\u0648\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7454223,
+        "wk:page":"Nurabad,_Padena"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9a904def90716b6dac2bd532e08965ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209676883
+        }
+    ],
+    "wof:id":1209676883,
+    "wof:lastmodified":1537648225,
+    "wof:name":"Nurabad",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.61151,
+    30.93592,
+    51.61151,
+    30.93592
+],
+  "geometry": {"coordinates":[51.61151,30.93592],"type":"Point"}
+}

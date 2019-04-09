@@ -1,0 +1,75 @@
+{
+  "id": 1276154495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.40722,30.94139,50.40722,30.94139",
+    "geom:latitude":30.94139,
+    "geom:longitude":50.40722,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Takht Deraz",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":113461,
+    "gn:latitude":30.94139,
+    "gn:longitude":50.40722,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Takht Der\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Takht Der\u0101z"
+    ],
+    "name:und_x_variant":[
+        "Takht-e Der\u0101z",
+        "Takhteh Der\u0101z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":113461
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0fb096a5bb84ff589c06061e0be97b0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1276154495,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1276154495,
+    "wof:lastmodified":1537643191,
+    "wof:name":"Takht Deraz",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.40722,
+    30.94139,
+    50.40722,
+    30.94139
+],
+  "geometry": {"coordinates":[50.40722,30.94139],"type":"Point"}
+}

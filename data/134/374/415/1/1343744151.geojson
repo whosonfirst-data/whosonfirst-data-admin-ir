@@ -1,0 +1,80 @@
+{
+  "id": 1343744151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.2355,35.3919,46.2355,35.3919",
+    "geom:latitude":35.3919,
+    "geom:longitude":46.2355,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Darreh Nakhi",
+    "gn:country_code":"IR",
+    "gn:dem":1271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":137541,
+    "gn:latitude":35.3919,
+    "gn:longitude":46.2355,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Darreh Nakh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0647 \u0646\u0627\u062e\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0631\u0651\u0647 \u0646\u062e\u06cc",
+        "Darreh N\u0101kh\u012b",
+        "Darreh Nakh\u012b"
+    ],
+    "name:und_x_variant":[
+        "Darreh N\u0101kheh",
+        "Darreh-ye N\u0101kh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":137541,
+        "wk:page":"Darreh_Nakhi"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b2d0721c4905ebe98c037398c5ef9cd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720403,
+            "locality_id":1343744151,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1343744151,
+    "wof:lastmodified":1537645589,
+    "wof:name":"Darreh Nakhi",
+    "wof:parent_id":1108720403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.2355,
+    35.3919,
+    46.2355,
+    35.3919
+],
+  "geometry": {"coordinates":[46.2355,35.3919],"type":"Point"}
+}

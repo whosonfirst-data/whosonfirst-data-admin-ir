@@ -1,0 +1,73 @@
+{
+  "id": 1243310173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.94969,28.89722,55.94969,28.89722",
+    "geom:latitude":28.89722,
+    "geom:longitude":55.94969,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mantaqeh-ye Chekab",
+    "gn:country_code":"IR",
+    "gn:dem":1947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560897,
+    "gn:latitude":28.89722,
+    "gn:longitude":55.94969,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Man\u0163aqeh-ye Chek\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0686\u06a9\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "Man\u0163aqeh-ye Chek\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560897
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3df62620264cb4a935e161b74e833569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720461,
+            "locality_id":1243310173,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1243310173,
+    "wof:lastmodified":1537648586,
+    "wof:name":"Mantaqeh-ye Chekab",
+    "wof:parent_id":1108720461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.94969,
+    28.89722,
+    55.94969,
+    28.89722
+],
+  "geometry": {"coordinates":[55.94969,28.89722],"type":"Point"}
+}

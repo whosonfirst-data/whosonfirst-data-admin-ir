@@ -1,0 +1,74 @@
+{
+  "id": 1259873923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.8424,28.2815,52.8424,28.2815",
+    "geom:latitude":28.2815,
+    "geom:longitude":52.8424,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Qalamdan",
+    "gn:country_code":"IR",
+    "gn:dem":788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6907058,
+    "gn:latitude":28.2815,
+    "gn:longitude":52.8424,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Qalamd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0645\u062f\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Qalamd\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6907058,
+        "wk:page":"Qalamdan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ca609ec9ab4939ea0bb2ec7c0395b514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720319,
+            "locality_id":1259873923,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1259873923,
+    "wof:lastmodified":1537647700,
+    "wof:name":"Qalamdan",
+    "wof:parent_id":1108720319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.8424,
+    28.2815,
+    52.8424,
+    28.2815
+],
+  "geometry": {"coordinates":[52.8424,28.2815],"type":"Point"}
+}

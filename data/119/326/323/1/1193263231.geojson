@@ -1,0 +1,73 @@
+{
+  "id": 1193263231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.04229,37.51405,49.04229,37.51405",
+    "geom:latitude":37.51405,
+    "geom:longitude":49.04229,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Malaleh",
+    "gn:country_code":"IR",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11035030,
+    "gn:latitude":37.51405,
+    "gn:longitude":49.04229,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Mal\u0101leh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0627\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "Mal\u0101leh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11035030
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2298a3dc3f58ab3d8bb13da044cdfe1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720353,
+            "locality_id":1193263231,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1193263231,
+    "wof:lastmodified":1537648698,
+    "wof:name":"Malaleh",
+    "wof:parent_id":1108720353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.04229,
+    37.51405,
+    49.04229,
+    37.51405
+],
+  "geometry": {"coordinates":[49.04229,37.51405],"type":"Point"}
+}

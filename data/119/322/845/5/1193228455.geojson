@@ -1,0 +1,74 @@
+{
+  "id": 1193228455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.18516,28.5845,59.18516,28.5845",
+    "geom:latitude":28.5845,
+    "geom:longitude":59.18516,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Malekabad",
+    "gn:country_code":"IR",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":45970,
+    "gn:latitude":28.5845,
+    "gn:longitude":59.18516,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Malek\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u06a9 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Malek\u0101b\u0101d-e Ch\u0101h Malek",
+        "Malek\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":45970
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"680081ebc2ae2aabd1f29e5e2fd284bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719861,
+            "locality_id":1193228455,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1193228455,
+    "wof:lastmodified":1537642588,
+    "wof:name":"Malekabad",
+    "wof:parent_id":1108719861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.18516,
+    28.5845,
+    59.18516,
+    28.5845
+],
+  "geometry": {"coordinates":[59.18516,28.5845],"type":"Point"}
+}

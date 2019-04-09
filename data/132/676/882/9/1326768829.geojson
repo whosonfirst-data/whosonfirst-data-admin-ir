@@ -1,0 +1,73 @@
+{
+  "id": 1326768829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.13333,29.9,54.13333,29.9",
+    "geom:latitude":29.9,
+    "geom:longitude":54.13333,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Gholamabad",
+    "gn:country_code":"IR",
+    "gn:dem":1976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":68364,
+    "gn:latitude":29.9,
+    "gn:longitude":54.13333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ghol\u0101m\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Ghol\u0101m\u0101b\u0101d"
+    ],
+    "name:und_x_variant":[
+        "Gulum\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108720133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":68364
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5393214601fc99e89d205bfadfd82aa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720133,
+            "locality_id":1326768829,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1326768829,
+    "wof:lastmodified":1537642874,
+    "wof:name":"Gholamabad",
+    "wof:parent_id":1108720133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.13333000000001,
+    29.9,
+    54.13333000000001,
+    29.9
+],
+  "geometry": {"coordinates":[54.13333000000001,29.9],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259934203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.7773,37.2205,46.7773,37.2205",
+    "geom:latitude":37.2205,
+    "geom:longitude":46.7773,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Habash Sarcheshmeh",
+    "gn:country_code":"IR",
+    "gn:dem":2006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":22961,
+    "gn:latitude":37.2205,
+    "gn:longitude":46.7773,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28abash Sarcheshmeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0628\u0634 \u0633\u0631\u0686\u0634\u0645\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28abash Sarcheshmeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":22961
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fd4a9511f18b6cef7fcdf946e9736595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720055,
+            "locality_id":1259934203,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1259934203,
+    "wof:lastmodified":1537641182,
+    "wof:name":"Habash Sarcheshmeh",
+    "wof:parent_id":1108720055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.7773,
+    37.2205,
+    46.7773,
+    37.2205
+],
+  "geometry": {"coordinates":[46.7773,37.2205],"type":"Point"}
+}

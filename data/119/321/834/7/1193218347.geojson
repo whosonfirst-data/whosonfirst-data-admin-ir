@@ -1,0 +1,79 @@
+{
+  "id": 1193218347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.65633,36.44669,52.65633,36.44669",
+    "geom:latitude":36.44669,
+    "geom:longitude":52.65633,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Bala Sar Rost",
+    "gn:country_code":"IR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":385103,
+    "gn:latitude":36.44669,
+    "gn:longitude":52.65633,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"B\u0101l\u0101 Sar Rost",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0644\u0627 \u0633\u0650\u0631\u0650\u0633\u062a"
+    ],
+    "name:fas_x_variant":[
+        "B\u0101l\u0101 Serest",
+        "\u0628\u0627\u0644\u0627 \u0633\u0631 \u0631\u0633\u062a",
+        "B\u0101l\u0101 Sar Rost"
+    ],
+    "name:und_x_variant":[
+        "B\u0101l\u0101 Sar Rost"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385103,
+        "wk:page":"Bala_Serest"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ac857c95430830aa0eed51dc38c4d262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719845,
+            "locality_id":1193218347,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1193218347,
+    "wof:lastmodified":1537646384,
+    "wof:name":"Bala Sar Rost",
+    "wof:parent_id":1108719845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.65633,
+    36.44669,
+    52.65633,
+    36.44669
+],
+  "geometry": {"coordinates":[52.65633,36.44669],"type":"Point"}
+}

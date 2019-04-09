@@ -1,0 +1,73 @@
+{
+  "id": 1327479005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.2238,37.416,46.2238,37.416",
+    "geom:latitude":37.416,
+    "geom:longitude":46.2238,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Nova",
+    "gn:country_code":"IR",
+    "gn:dem":1505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":17797,
+    "gn:latitude":37.416,
+    "gn:longitude":46.2238,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Nov\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0627"
+    ],
+    "name:fas_x_variant":[
+        "Nov\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":17797
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d3c3925ca200da03e459d5a4022c95ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720217,
+            "locality_id":1327479005,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1327479005,
+    "wof:lastmodified":1537640981,
+    "wof:name":"Nova",
+    "wof:parent_id":1108720217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.2238,
+    37.416,
+    46.2238,
+    37.416
+],
+  "geometry": {"coordinates":[46.2238,37.416],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226488897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.6134,29.0204,57.6134,29.0204",
+    "geom:latitude":29.0204,
+    "geom:longitude":57.6134,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Bagh Sayba",
+    "gn:country_code":"IR",
+    "gn:dem":2328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6927008,
+    "gn:latitude":29.0204,
+    "gn:longitude":57.6134,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"B\u0101gh S\u0101yb\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u063a \u0633\u0627\u06cc\u0628\u0627"
+    ],
+    "name:fas_x_variant":[
+        "B\u0101gh S\u0101yb\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6927008
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4402025b55a872237adee74667c348f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720081,
+            "locality_id":1226488897,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1226488897,
+    "wof:lastmodified":1537647743,
+    "wof:name":"Bagh Sayba",
+    "wof:parent_id":1108720081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.6134,
+    29.0204,
+    57.6134,
+    29.0204
+],
+  "geometry": {"coordinates":[57.6134,29.0204],"type":"Point"}
+}

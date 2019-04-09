@@ -1,0 +1,77 @@
+{
+  "id": 1226315605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.58378,32.28799,49.58378,32.28799",
+    "geom:latitude":32.28799,
+    "geom:longitude":49.58378,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Sar Howz-e Bala",
+    "gn:country_code":"IR",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":33335,
+    "gn:latitude":32.28799,
+    "gn:longitude":49.58378,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Sar \u1e28ow\u1e95-e B\u0101l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sar \u1e28ow\u1e95-e B\u0101l\u0101"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0631 \u062d\u0648\u0636 \u0628\u0627\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u0633\u0631 \u062d\u0648\u0636 \u0628\u0627\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":33335,
+        "wk:page":"Sar_Howz-e_Bala"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7d195716b39ebbc4c733e28d572680e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720229,
+            "locality_id":1226315605,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1226315605,
+    "wof:lastmodified":1537641862,
+    "wof:name":"Sar Howz-e Bala",
+    "wof:parent_id":1108720229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.58378,
+    32.28799,
+    49.58378,
+    32.28799
+],
+  "geometry": {"coordinates":[49.58378,32.28799],"type":"Point"}
+}

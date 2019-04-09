@@ -1,0 +1,77 @@
+{
+  "id": 1226710973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.8579,28.8643,58.8579,28.8643",
+    "geom:latitude":28.8643,
+    "geom:longitude":58.8579,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Fathabad-e Salar",
+    "gn:country_code":"IR",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":402251,
+    "gn:latitude":28.8643,
+    "gn:longitude":58.8579,
+    "gn:modification_date":"2014-07-09",
+    "gn:name":"Fat\u1e29\u0101b\u0101d-e S\u0101l\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0641\u062a\u062d \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Fat\u1e29\u0101b\u0101d",
+        "\u0641\u062a\u062d \u0622\u0628\u0627\u062f \u0633\u0627\u0644\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Fat\u1e29\u0101b\u0101d-e S\u0101l\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":402251
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"12e367ac294e525367d4acfeac7b6e13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719861,
+            "locality_id":1226710973,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1226710973,
+    "wof:lastmodified":1537646539,
+    "wof:name":"Fathabad-e Salar",
+    "wof:parent_id":1108719861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.8579,
+    28.8643,
+    58.8579,
+    28.8643
+],
+  "geometry": {"coordinates":[58.8579,28.8643],"type":"Point"}
+}

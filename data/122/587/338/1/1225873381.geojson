@@ -1,0 +1,80 @@
+{
+  "id": 1225873381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.53128,35.87413,60.53128,35.87413",
+    "geom:latitude":35.87413,
+    "geom:longitude":60.53128,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Qarneh-ye Bala",
+    "gn:country_code":"IR",
+    "gn:dem":964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1159888,
+    "gn:latitude":35.87413,
+    "gn:longitude":60.53128,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qarneh-ye B\u0101l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Qarneh-ye \u2018Oly\u0101"
+    ],
+    "name:fas_x_variant":[
+        "Qarah Ney \u2018Oly\u0101",
+        "Qarneh-ye B\u0101l\u0101",
+        "Qareh Ney-e B\u0101l\u0101",
+        "\u0642\u0631\u0646\u0647 \u0628\u0627\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Qarneh",
+        "\u0642\u0631\u0646\u0647 \u0628\u0627\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1159888
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7bc57ad556eb65974a3dc3ff66294a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720227,
+            "locality_id":1225873381,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1225873381,
+    "wof:lastmodified":1537647000,
+    "wof:name":"Qarneh-ye Bala",
+    "wof:parent_id":1108720227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.53128,
+    35.87413,
+    60.53128,
+    35.87413
+],
+  "geometry": {"coordinates":[60.53128,35.87413],"type":"Point"}
+}

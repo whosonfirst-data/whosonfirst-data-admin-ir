@@ -1,0 +1,74 @@
+{
+  "id": 1226005721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.83333,30.68333,54.83333,30.68333",
+    "geom:latitude":30.68333,
+    "geom:longitude":54.83333,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Kasu",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":2305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":128421,
+    "gn:latitude":30.68333,
+    "gn:longitude":54.83333,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Kas\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Kas\u016b"
+    ],
+    "name:und_x_variant":[
+        "Kas\u016b\u012byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":128421
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4bebeb78a7f10cb363d9f8e564fd3baa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720433,
+            "locality_id":1226005721,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1226005721,
+    "wof:lastmodified":1537644661,
+    "wof:name":"Kasu",
+    "wof:parent_id":1108720433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.83333,
+    30.68333,
+    54.83333,
+    30.68333
+],
+  "geometry": {"coordinates":[54.83333,30.68333],"type":"Point"}
+}

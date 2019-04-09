@@ -1,0 +1,79 @@
+{
+  "id": 1243166401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.84024,34.54083,48.84024,34.54083",
+    "geom:latitude":34.54083,
+    "geom:longitude":48.84024,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Gujak",
+    "gn:country_code":"IR",
+    "gn:dem":1862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":132688,
+    "gn:latitude":34.54083,
+    "gn:longitude":48.84024,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"G\u016bjak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "G\u016bjak"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u0648\u062c\u06a9"
+    ],
+    "name:und_x_variant":[
+        "Goojek",
+        "Gowjak",
+        "\u06af\u0648\u062c\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":132688,
+        "wk:page":"Gujak"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"26fbefc8b79f5920733491d9c6652333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720205,
+            "locality_id":1243166401,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1243166401,
+    "wof:lastmodified":1537645094,
+    "wof:name":"Gujak",
+    "wof:parent_id":1108720205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.84024,
+    34.54083,
+    48.84024,
+    34.54083
+],
+  "geometry": {"coordinates":[48.84024,34.54083],"type":"Point"}
+}

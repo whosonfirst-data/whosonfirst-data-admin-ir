@@ -1,0 +1,73 @@
+{
+  "id": 1310686043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.1362,37.4198,49.1362,37.4198",
+    "geom:latitude":37.4198,
+    "geom:longitude":49.1362,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Sheykh Mahalleh",
+    "gn:country_code":"IR",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6758054,
+    "gn:latitude":37.4198,
+    "gn:longitude":49.1362,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sheykh Ma\u1e29alleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u062e \u0645\u062d\u0644\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Sheykh Ma\u1e29alleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6758054
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6557527f684498a84dfff8e2d98276d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720225,
+            "locality_id":1310686043,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1310686043,
+    "wof:lastmodified":1537647659,
+    "wof:name":"Sheykh Mahalleh",
+    "wof:parent_id":1108720225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.1362,
+    37.4198,
+    49.1362,
+    37.4198
+],
+  "geometry": {"coordinates":[49.1362,37.4198],"type":"Point"}
+}

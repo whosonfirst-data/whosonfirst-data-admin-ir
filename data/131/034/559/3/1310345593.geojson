@@ -1,0 +1,73 @@
+{
+  "id": 1310345593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.34914,36.54887,52.34914,36.54887",
+    "geom:latitude":36.54887,
+    "geom:longitude":52.34914,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Hemmatabad",
+    "gn:country_code":"IR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7996,
+    "gn:latitude":36.54887,
+    "gn:longitude":52.34914,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Hemmat\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0647\u0645\u062a \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Hemmat\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7996
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"07fa049f1e8135120b2bd8ebca22d316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719807,
+            "locality_id":1310345593,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1310345593,
+    "wof:lastmodified":1537640409,
+    "wof:name":"Hemmatabad",
+    "wof:parent_id":1108719807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.34914000000001,
+    36.54887,
+    52.34914000000001,
+    36.54887
+],
+  "geometry": {"coordinates":[52.34914000000001,36.54887],"type":"Point"}
+}

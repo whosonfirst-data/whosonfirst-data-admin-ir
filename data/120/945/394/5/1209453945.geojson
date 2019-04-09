@@ -1,0 +1,72 @@
+{
+  "id": 1209453945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.8709,37.101,48.8709,37.101",
+    "geom:latitude":37.101,
+    "geom:longitude":48.8709,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Bandargah",
+    "gn:country_code":"IR",
+    "gn:dem":1406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":141648,
+    "gn:latitude":37.101,
+    "gn:longitude":48.8709,
+    "gn:modification_date":"2018-05-02",
+    "gn:name":"Bandarg\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0646\u062f\u0631\u06af\u0627\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u064e\u0646\u062f\u064e\u0631\u06af\u064e\u062e",
+        "Bandarg\u0101h"
+    ],
+    "name:und_x_variant":[
+        "Bandargakh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":141648,
+        "wk:page":"Bandargah,_Zanjan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c8ccd5119740ac4d1ee6637749bc3778",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209453945
+        }
+    ],
+    "wof:id":1209453945,
+    "wof:lastmodified":1537645997,
+    "wof:name":"Bandargah",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.8709,
+    37.101,
+    48.8709,
+    37.101
+],
+  "geometry": {"coordinates":[48.8709,37.101],"type":"Point"}
+}

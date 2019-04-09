@@ -1,0 +1,75 @@
+{
+  "id": 1360198231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.5218,39.5601,44.5218,39.5601",
+    "geom:latitude":39.5601,
+    "geom:longitude":44.5218,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Darak",
+    "gn:country_code":"IR",
+    "gn:dem":1263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":14088,
+    "gn:latitude":39.5601,
+    "gn:longitude":44.5218,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"D\u0101rak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "D\u0101rak"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0627\u0631\u06a9",
+        "\u062f\u0627\u0631\u064a\u0643",
+        "D\u0101r\u012bk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":14088
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6f1e9420d3c9aeff675c113d14c20cb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720203,
+            "locality_id":1360198231,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1360198231,
+    "wof:lastmodified":1537640779,
+    "wof:name":"Darak",
+    "wof:parent_id":1108720203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.5218,
+    39.5601,
+    44.5218,
+    39.5601
+],
+  "geometry": {"coordinates":[44.5218,39.5601],"type":"Point"}
+}

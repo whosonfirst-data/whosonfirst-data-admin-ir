@@ -1,0 +1,78 @@
+{
+  "id": 1243539385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.80261,37.78623,48.80261,37.78623",
+    "geom:latitude":37.78623,
+    "geom:longitude":48.80261,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sanavabon",
+    "gn:country_code":"IR",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416774,
+    "gn:latitude":37.78623,
+    "gn:longitude":48.80261,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"San\u0101v\u0101bon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u0648"
+    ],
+    "name:fas_x_variant":[
+        "San\u016b",
+        "\u0633\u0646\u0627\u0648\u0627\u0628\u0646"
+    ],
+    "name:und_x_variant":[
+        "San\u0101v\u0101bon",
+        "San\u0101 Band"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416774
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6aab52f4ad7c8dd481256d3f9469c105",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720487,
+            "locality_id":1243539385,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1243539385,
+    "wof:lastmodified":1537646673,
+    "wof:name":"Sanavabon",
+    "wof:parent_id":1108720487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.80261,
+    37.78623,
+    48.80261,
+    37.78623
+],
+  "geometry": {"coordinates":[48.80261,37.78623],"type":"Point"}
+}

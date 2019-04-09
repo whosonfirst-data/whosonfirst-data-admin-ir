@@ -1,0 +1,82 @@
+{
+  "id": 1326958057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.39459,38.09533,56.39459,38.09533",
+    "geom:latitude":38.09533,
+    "geom:longitude":56.39459,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Yalchi",
+    "gn:country_code":"IR",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6328,
+    "gn:latitude":38.09533,
+    "gn:longitude":56.39459,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Y\u0101lch\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Shafl\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u0641\u0644\u06cc",
+        "\u0634\u0628\u0644\u06cc",
+        "\u06cc\u0627\u0644\u0686\u06cc",
+        "\u0627\u06cc\u0644\u0645\u0627\u0646 \u06cc\u0627\u0644\u0686\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0634\u0641\u0644\u06cc",
+        "Shebl\u012b",
+        "Y\u0101lch\u012b",
+        "\u012alm\u0101n Y\u0101lch\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672401,
+        1108720211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6328
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f9e2725c9494bd560506f7a539cdfe5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720211,
+            "locality_id":1326958057,
+            "region_id":85672401
+        }
+    ],
+    "wof:id":1326958057,
+    "wof:lastmodified":1537640336,
+    "wof:name":"Yalchi",
+    "wof:parent_id":1108720211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.39459,
+    38.09533,
+    56.39459,
+    38.09533
+],
+  "geometry": {"coordinates":[56.39459,38.09533],"type":"Point"}
+}

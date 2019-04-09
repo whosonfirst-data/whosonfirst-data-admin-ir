@@ -1,0 +1,80 @@
+{
+  "id": 1209769685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.5933,38.676,45.5933,38.676",
+    "geom:latitude":38.676,
+    "geom:longitude":45.5933,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Galin Qayah",
+    "gn:country_code":"IR",
+    "gn:dem":1475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":134281,
+    "gn:latitude":38.676,
+    "gn:longitude":45.5933,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gal\u012bn Qayah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0644\u06cc\u0646 \u0642\u06cc\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u064e\u0644\u064a\u0646 \u0642\u064e\u064a\u0650\u0647",
+        "Gal\u012bn Qayah",
+        "\u06af\u064e\u0644\u064a\u0646 \u0642\u064e\u064a\u064e\u0647"
+    ],
+    "name:und_x_variant":[
+        "Gal\u012bn Qayeh",
+        "Galin Qaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":134281,
+        "wk:page":"Galin_Qayah"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"29dda1bd9708d06afbeac446245ff913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720219,
+            "locality_id":1209769685,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1209769685,
+    "wof:lastmodified":1537645258,
+    "wof:name":"Galin Qayah",
+    "wof:parent_id":1108720219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.5933,
+    38.676,
+    45.5933,
+    38.676
+],
+  "geometry": {"coordinates":[45.5933,38.676],"type":"Point"}
+}

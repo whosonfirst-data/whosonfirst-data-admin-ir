@@ -1,0 +1,78 @@
+{
+  "id": 1243011121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.7249,37.6281,55.7249,37.6281",
+    "geom:latitude":37.6281,
+    "geom:longitude":55.7249,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Khowjeh",
+    "gn:country_code":"IR",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9746,
+    "gn:latitude":37.6281,
+    "gn:longitude":55.7249,
+    "gn:modification_date":"2015-03-07",
+    "gn:name":"Khowjeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u062c\u064e\u0647\u0644\u064e\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Kh\u016bjahlar",
+        "\u062e\u0648\u062c\u0647",
+        "\u062e\u0648\u062c\u0647 \u0644\u0631"
+    ],
+    "name:und_x_variant":[
+        "Khowjehlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9746
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"044861595939ab45456fd46437b7c92f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720093,
+            "locality_id":1243011121,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1243011121,
+    "wof:lastmodified":1537640504,
+    "wof:name":"Khowjeh",
+    "wof:parent_id":1108720093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.7249,
+    37.6281,
+    55.7249,
+    37.6281
+],
+  "geometry": {"coordinates":[55.7249,37.6281],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226186611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.76351,36.65576,52.76351,36.65576",
+    "geom:latitude":36.65576,
+    "geom:longitude":52.76351,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Mangelab",
+    "gn:country_code":"IR",
+    "gn:dem":-15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11456,
+    "gn:latitude":36.65576,
+    "gn:longitude":52.76351,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mangel\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u06af\u0644\u0627\u0628"
+    ],
+    "name:fas_x_variant":[
+        "Mangel\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11456,
+        "wk:page":"Mangelab"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d6e5c67df6127696c7c9a2d9c865b484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719847,
+            "locality_id":1226186611,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1226186611,
+    "wof:lastmodified":1537640636,
+    "wof:name":"Mangelab",
+    "wof:parent_id":1108719847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.76351,
+    36.65576,
+    52.76351,
+    36.65576
+],
+  "geometry": {"coordinates":[52.76351,36.65576],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343948071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.15503,37.19132,49.15503,37.19132",
+    "geom:latitude":37.19132,
+    "geom:longitude":49.15503,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lisheh Kuh",
+    "gn:country_code":"IR",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11129653,
+    "gn:latitude":37.19132,
+    "gn:longitude":49.15503,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"L\u012bsheh K\u016bh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0634\u0647 \u06a9\u0648\u0647"
+    ],
+    "name:und_x_variant":[
+        "L\u012bsheh K\u016bh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11129653
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"df3d81c0dd585a87a9dc1381cef17ad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720013,
+            "locality_id":1343948071,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1343948071,
+    "wof:lastmodified":1537648722,
+    "wof:name":"Lisheh Kuh",
+    "wof:parent_id":1108720013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.15503,
+    37.19132000000001,
+    49.15503,
+    37.19132000000001
+],
+  "geometry": {"coordinates":[49.15503,37.19132000000001],"type":"Point"}
+}

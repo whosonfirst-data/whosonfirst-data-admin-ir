@@ -1,0 +1,75 @@
+{
+  "id": 1226046101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.35028,36.41631,47.35028,36.41631",
+    "geom:latitude":36.41631,
+    "geom:longitude":47.35028,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Chicheklu",
+    "gn:country_code":"IR",
+    "gn:dem":2433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":26984,
+    "gn:latitude":36.41631,
+    "gn:longitude":47.35028,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ch\u012bchekl\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0645\u0686\u0644\u06a9\u0648"
+    ],
+    "name:fas_x_variant":[
+        "Ch\u012bchekl\u016b",
+        "Chamchelk\u016b",
+        "\u0686\u06cc\u0686\u06a9\u0644\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":26984
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"25b43bc32271056f9a6e9d4f166eab43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720477,
+            "locality_id":1226046101,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1226046101,
+    "wof:lastmodified":1537641431,
+    "wof:name":"Chicheklu",
+    "wof:parent_id":1108720477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.35028,
+    36.41631,
+    47.35028,
+    36.41631
+],
+  "geometry": {"coordinates":[47.35028,36.41631],"type":"Point"}
+}

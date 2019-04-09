@@ -1,0 +1,73 @@
+{
+  "id": 1276688875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.37102,36.53854,59.37102,36.53854",
+    "geom:latitude":36.53854,
+    "geom:longitude":59.37102,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Kalateh-ye Baqer",
+    "gn:country_code":"IR",
+    "gn:dem":1057,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":31664,
+    "gn:latitude":36.53854,
+    "gn:longitude":59.37102,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kal\u0101teh-ye B\u0101qer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0644\u0627\u062a\u0647 \u0628\u0627\u0642\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Kal\u0101teh-ye B\u0101qer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":31664
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"809fe4e935cc83ca03f22ba8bc0b1359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720227,
+            "locality_id":1276688875,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1276688875,
+    "wof:lastmodified":1537641731,
+    "wof:name":"Kalateh-ye Baqer",
+    "wof:parent_id":1108720227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.37102,
+    36.53854000000001,
+    59.37102,
+    36.53854000000001
+],
+  "geometry": {"coordinates":[59.37102,36.53854000000001],"type":"Point"}
+}

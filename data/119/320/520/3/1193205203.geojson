@@ -1,0 +1,73 @@
+{
+  "id": 1193205203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.64749,37.76773,46.64749,37.76773",
+    "geom:latitude":37.76773,
+    "geom:longitude":46.64749,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Khatunabad",
+    "gn:country_code":"IR",
+    "gn:dem":2203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":22608,
+    "gn:latitude":37.76773,
+    "gn:longitude":46.64749,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"Kh\u0101t\u016bn\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0627\u062a\u0648\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Kh\u0101t\u016bn\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108719907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":22608
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c2c9bf0aed1adf3e66d17e4846a8e127",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719907,
+            "locality_id":1193205203,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1193205203,
+    "wof:lastmodified":1537641152,
+    "wof:name":"Khatunabad",
+    "wof:parent_id":1108719907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.64749000000001,
+    37.76773,
+    46.64749000000001,
+    37.76773
+],
+  "geometry": {"coordinates":[46.64749000000001,37.76773],"type":"Point"}
+}

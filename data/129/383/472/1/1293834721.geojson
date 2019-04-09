@@ -1,0 +1,73 @@
+{
+  "id": 1293834721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.749,33.5547,51.749,33.5547",
+    "geom:latitude":33.5547,
+    "geom:longitude":51.749,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Sar Poshteh Chimeh",
+    "gn:country_code":"IR",
+    "gn:dem":1865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6864096,
+    "gn:latitude":33.5547,
+    "gn:longitude":51.749,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sar Poshteh Ch\u012bmeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631 \u067e\u0634\u062a\u0647 \u0686\u06cc\u0645\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Sar Poshteh Ch\u012bmeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6864096
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ae02888b8cd8ddf35cf5eace718e2948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720267,
+            "locality_id":1293834721,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1293834721,
+    "wof:lastmodified":1537647687,
+    "wof:name":"Sar Poshteh Chimeh",
+    "wof:parent_id":1108720267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.749,
+    33.5547,
+    51.749,
+    33.5547
+],
+  "geometry": {"coordinates":[51.749,33.5547],"type":"Point"}
+}

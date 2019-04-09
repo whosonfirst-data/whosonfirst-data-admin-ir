@@ -1,0 +1,73 @@
+{
+  "id": 1193212513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.06667,36.05,53.06667,36.05",
+    "geom:latitude":36.05,
+    "geom:longitude":53.06667,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Valeh-ye Rudbar",
+    "gn:country_code":"IR",
+    "gn:dem":1103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10943,
+    "gn:latitude":36.05,
+    "gn:longitude":53.06667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Valeh-ye R\u016bdb\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u064e\u0644\u0650\u06c0 \u0631\u0648\u062f\u0628\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Valeh-ye R\u016bdb\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10943
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"03ba4b4a88f227d93a641c8492491c81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720405,
+            "locality_id":1193212513,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1193212513,
+    "wof:lastmodified":1537640595,
+    "wof:name":"Valeh-ye Rudbar",
+    "wof:parent_id":1108720405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.06667,
+    36.05,
+    53.06667,
+    36.05
+],
+  "geometry": {"coordinates":[53.06667,36.05],"type":"Point"}
+}

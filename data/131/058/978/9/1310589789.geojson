@@ -1,0 +1,73 @@
+{
+  "id": 1310589789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.13733,33.73646,47.13733,33.73646",
+    "geom:latitude":33.73646,
+    "geom:longitude":47.13733,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Hoseynabad",
+    "gn:country_code":"IR",
+    "gn:dem":948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8229616,
+    "gn:latitude":33.73646,
+    "gn:longitude":47.13733,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"\u1e28oseyn\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0633\u06cc\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u1e28oseyn\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108720453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8229616
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7a045ef4912b4445cef80e2280c991f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720453,
+            "locality_id":1310589789,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1310589789,
+    "wof:lastmodified":1537648532,
+    "wof:name":"Hoseynabad",
+    "wof:parent_id":1108720453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.13733,
+    33.73646,
+    47.13733,
+    33.73646
+],
+  "geometry": {"coordinates":[47.13733,33.73646],"type":"Point"}
+}

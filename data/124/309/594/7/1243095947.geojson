@@ -1,0 +1,73 @@
+{
+  "id": 1243095947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.29625,35.59357,59.29625,35.59357",
+    "geom:latitude":35.59357,
+    "geom:longitude":59.29625,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Chah-e Robat",
+    "gn:country_code":"IR",
+    "gn:dem":1661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7074843,
+    "gn:latitude":35.59357,
+    "gn:longitude":59.29625,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ch\u0101h-e Rob\u0101\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0647 \u0631\u0628\u0627\u0637"
+    ],
+    "name:fas_x_variant":[
+        "Ch\u0101h-e Rob\u0101\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7074843
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"52c6d3108414810f774e6122aab8b425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720497,
+            "locality_id":1243095947,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1243095947,
+    "wof:lastmodified":1537648002,
+    "wof:name":"Chah-e Robat",
+    "wof:parent_id":1108720497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.29625,
+    35.59357,
+    59.29625,
+    35.59357
+],
+  "geometry": {"coordinates":[59.29625,35.59357],"type":"Point"}
+}

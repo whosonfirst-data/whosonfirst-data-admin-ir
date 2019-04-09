@@ -1,0 +1,75 @@
+{
+  "id": 1293686629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.33333,27.36667,62.33333,27.36667",
+    "geom:latitude":27.36667,
+    "geom:longitude":62.33333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shahestan",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1159617,
+    "gn:latitude":27.36667,
+    "gn:longitude":62.33333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Shahest\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Shahest\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Shast\u0101n",
+        "Shast\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1159617
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e21a03203c4a2284c99233c0c7adfa5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720389,
+            "locality_id":1293686629,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1293686629,
+    "wof:lastmodified":1537646981,
+    "wof:name":"Shahestan",
+    "wof:parent_id":1108720389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.33333,
+    27.36667000000001,
+    62.33333,
+    27.36667000000001
+],
+  "geometry": {"coordinates":[62.33333,27.36667000000001],"type":"Point"}
+}

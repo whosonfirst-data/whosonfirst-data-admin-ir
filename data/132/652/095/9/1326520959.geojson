@@ -1,0 +1,74 @@
+{
+  "id": 1326520959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.312,28.9387,53.312,28.9387",
+    "geom:latitude":28.9387,
+    "geom:longitude":53.312,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Khavaran",
+    "gn:country_code":"IR",
+    "gn:dem":1367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6917971,
+    "gn:latitude":28.9387,
+    "gn:longitude":53.312,
+    "gn:modification_date":"2018-06-21",
+    "gn:name":"Kh\u0101var\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0627\u0648\u0631\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Kh\u0101var\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6917971,
+        "wk:page":"Khavaran,_Fars"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0b885ca0e877d9292f819168bec8d5ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720069,
+            "locality_id":1326520959,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1326520959,
+    "wof:lastmodified":1537647721,
+    "wof:name":"Khavaran",
+    "wof:parent_id":1108720069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.312,
+    28.9387,
+    53.312,
+    28.9387
+],
+  "geometry": {"coordinates":[53.312,28.9387],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1242859231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.02454,37.57814,49.02454,37.57814",
+    "geom:latitude":37.57814,
+    "geom:longitude":49.02454,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Dinachal",
+    "gn:country_code":"IR",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":37218,
+    "gn:latitude":37.57814,
+    "gn:longitude":49.02454,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Dinachal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0646\u06cc\u0627 \u0686\u0627\u0644"
+    ],
+    "name:fas_x_variant":[
+        "D\u012bn\u0101ch\u0101l",
+        "Deny\u0101 Ch\u0101l",
+        "\u0622\u0628\u0648\u06cc\u0627\u0631",
+        "\u062f\u06cc\u0646\u0627\u0686\u0627\u0644"
+    ],
+    "name:und_x_variant":[
+        "\u0100b\u016by\u0101r",
+        "Ab\u016by\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":37218,
+        "wk:page":"Dinachal"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"86972f662d9d1d4b98170376b976f0f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720353,
+            "locality_id":1242859231,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1242859231,
+    "wof:lastmodified":1537642073,
+    "wof:name":"Dinachal",
+    "wof:parent_id":1108720353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.02454,
+    37.57814000000001,
+    49.02454,
+    37.57814000000001
+],
+  "geometry": {"coordinates":[49.02454,37.57814000000001],"type":"Point"}
+}

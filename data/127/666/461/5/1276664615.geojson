@@ -1,0 +1,80 @@
+{
+  "id": 1276664615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.53077,32.73083,49.53077,32.73083",
+    "geom:latitude":32.73083,
+    "geom:longitude":49.53077,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Liruk",
+    "gn:country_code":"IR",
+    "gn:dem":1240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":125661,
+    "gn:latitude":32.73083,
+    "gn:longitude":49.53077,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"L\u012br\u016bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0644\u064a\u0631\u0648\u0643"
+    ],
+    "name:fas_x_variant":[
+        "\u0644\u064a\u0631\u064f\u0648",
+        "L\u012br\u016bk",
+        "\u0644\u064a\u0631\u0648"
+    ],
+    "name:und_x_variant":[
+        "L\u012br\u016b",
+        "L\u012brow",
+        "\u0644\u064a\u0631\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":125661
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ff22f3291f046e48f2c4ad1071f0b2ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719803,
+            "locality_id":1276664615,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1276664615,
+    "wof:lastmodified":1537644371,
+    "wof:name":"Liruk",
+    "wof:parent_id":1108719803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.53077,
+    32.73083,
+    49.53077,
+    32.73083
+],
+  "geometry": {"coordinates":[49.53077,32.73083],"type":"Point"}
+}

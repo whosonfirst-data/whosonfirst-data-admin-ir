@@ -1,0 +1,74 @@
+{
+  "id": 1293671105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.0212,35.6603,46.0212,35.6603",
+    "geom:latitude":35.6603,
+    "geom:longitude":46.0212,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kahrizeh",
+    "gn:country_code":"IR",
+    "gn:dem":1343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3078,
+    "gn:latitude":35.6603,
+    "gn:longitude":46.0212,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kahr\u012bzeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0643\u064e\u0647\u0631\u064a\u0632\u0650\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0647\u0631\u06cc\u0632\u0647",
+        "Kahr\u012bzeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3078
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e0f6d9ff2b800b744d70b208213e9a34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720221,
+            "locality_id":1293671105,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1293671105,
+    "wof:lastmodified":1537640226,
+    "wof:name":"Kahrizeh",
+    "wof:parent_id":1108720221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.0212,
+    35.6603,
+    46.0212,
+    35.6603
+],
+  "geometry": {"coordinates":[46.0212,35.6603],"type":"Point"}
+}

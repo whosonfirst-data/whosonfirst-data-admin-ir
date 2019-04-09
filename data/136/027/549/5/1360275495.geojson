@@ -1,0 +1,76 @@
+{
+  "id": 1360275495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.29409,37.40601,49.29409,37.40601",
+    "geom:latitude":37.40601,
+    "geom:longitude":49.29409,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Talesh Mahalleh",
+    "gn:country_code":"IR",
+    "gn:dem":-21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416819,
+    "gn:latitude":37.40601,
+    "gn:longitude":49.29409,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"\u0162\u0101lesh Ma\u1e29alleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0637\u0627\u0644\u0634 \u0645\u062d\u0644\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0162\u0101lesh Ma\u1e29alleh"
+    ],
+    "name:und_x_variant":[
+        "Goldasht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416819
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"00816855c259ac9fd5bfb94adc400066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720465,
+            "locality_id":1360275495,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1360275495,
+    "wof:lastmodified":1537646676,
+    "wof:name":"Talesh Mahalleh",
+    "wof:parent_id":1108720465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.29409,
+    37.40601,
+    49.29409,
+    37.40601
+],
+  "geometry": {"coordinates":[49.29409,37.40601],"type":"Point"}
+}

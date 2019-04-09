@@ -1,0 +1,80 @@
+{
+  "id": 1226171621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.38821,35.97595,58.38821,35.97595",
+    "geom:latitude":35.97595,
+    "geom:longitude":58.38821,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Kalateh-ye Qul Ney",
+    "gn:country_code":"IR",
+    "gn:dem":1136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":15325,
+    "gn:latitude":35.97595,
+    "gn:longitude":58.38821,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Kal\u0101teh-ye Q\u016bl Ney",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0644 \u0646\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0644\u0627\u062a\u0647 \u0642\u0648\u0644 \u0646\u06cc",
+        "\u0642\u0648\u0644\u0648 \u0646\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Qol-e Ney",
+        "\u0642\u0644 \u0646\u06cc",
+        "Kal\u0101teh-ye Q\u016bl Ney",
+        "Q\u016bl\u016b Ney"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":15325
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"70fcfdef80d409782dbaaac785e86051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720279,
+            "locality_id":1226171621,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1226171621,
+    "wof:lastmodified":1537640894,
+    "wof:name":"Kalateh-ye Qul Ney",
+    "wof:parent_id":1108720279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.38821,
+    35.97595,
+    58.38821,
+    35.97595
+],
+  "geometry": {"coordinates":[58.38821,35.97595],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243211663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.50381,35.74371,52.50381,35.74371",
+    "geom:latitude":35.74371,
+    "geom:longitude":52.50381,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Tahneh",
+    "gn:country_code":"IR",
+    "gn:dem":2283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":32842,
+    "gn:latitude":35.74371,
+    "gn:longitude":52.50381,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u0162ahneh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0637\u0647\u0646\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0162ahneh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672313,
+        1108720011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":32842,
+        "wk:page":"Tahneh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e92d153c032567952557f81b89e26f4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720011,
+            "locality_id":1243211663,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1243211663,
+    "wof:lastmodified":1537641825,
+    "wof:name":"Tahneh",
+    "wof:parent_id":1108720011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.50381,
+    35.74371,
+    52.50381,
+    35.74371
+],
+  "geometry": {"coordinates":[52.50381,35.74371],"type":"Point"}
+}

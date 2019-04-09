@@ -1,0 +1,79 @@
+{
+  "id": 1259941049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.3367,28.4236,56.3367,28.4236",
+    "geom:latitude":28.4236,
+    "geom:longitude":56.3367,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Mohammadabad",
+    "gn:country_code":"IR",
+    "gn:dem":1024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":123678,
+    "gn:latitude":28.4236,
+    "gn:longitude":56.3367,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Mo\u1e29ammad\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Mo\u1e29ammad\u0101b\u0101d"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u062d\u0645\u062f \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Mahd\u0101bad",
+        "Mo\u1e29ammad\u0101b\u0101d-e Arz\u016b\u2019\u012byeh",
+        "Mohammad Abad Arzoo\u2019eyeh",
+        "Mahd\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":123678
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3472dc3d0b8b580fcd9f6e820d3dc838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719851,
+            "locality_id":1259941049,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1259941049,
+    "wof:lastmodified":1537644177,
+    "wof:name":"Mohammadabad",
+    "wof:parent_id":1108719851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.3367,
+    28.4236,
+    56.3367,
+    28.4236
+],
+  "geometry": {"coordinates":[56.3367,28.4236],"type":"Point"}
+}

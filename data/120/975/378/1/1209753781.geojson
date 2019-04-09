@@ -1,0 +1,80 @@
+{
+  "id": 1209753781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.05026,31.74383,56.05026,31.74383",
+    "geom:latitude":31.74383,
+    "geom:longitude":56.05026,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Ashtark",
+    "gn:country_code":"IR",
+    "gn:dem":1791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":142746,
+    "gn:latitude":31.74383,
+    "gn:longitude":56.05026,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"\u0100shtark",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0634\u062a\u0631\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "\u0100shtark",
+        "\u0627\u0634\u062a\u0631\u06a9",
+        "\u0100shterk"
+    ],
+    "name:und_x_variant":[
+        "\u0100shterk",
+        "Oshtorak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108719849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":142746,
+        "wk:page":"Oshtorak"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"eada9fec8b179215e09ffdbadad03000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719849,
+            "locality_id":1209753781,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1209753781,
+    "wof:lastmodified":1537646104,
+    "wof:name":"Ashtark",
+    "wof:parent_id":1108719849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.05026,
+    31.74383,
+    56.05026,
+    31.74383
+],
+  "geometry": {"coordinates":[56.05026,31.74383],"type":"Point"}
+}

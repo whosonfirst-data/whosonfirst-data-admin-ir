@@ -1,0 +1,64 @@
+{
+  "id": 1209469335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.25,35.46667,51.25,35.46667",
+    "geom:latitude":35.46667,
+    "geom:longitude":51.25,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Aminabad",
+    "gn:country_code":"IR",
+    "gn:dem":1008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":671,
+    "gn:latitude":35.46667,
+    "gn:longitude":51.25,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Am\u012bn\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Am\u012bn\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":671
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"13e6d496a7c75fb9870c590998c6986b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209469335
+        }
+    ],
+    "wof:id":1209469335,
+    "wof:lastmodified":1537640139,
+    "wof:name":"Aminabad",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.25,
+    35.46667,
+    51.25,
+    35.46667
+],
+  "geometry": {"coordinates":[51.25,35.46667],"type":"Point"}
+}

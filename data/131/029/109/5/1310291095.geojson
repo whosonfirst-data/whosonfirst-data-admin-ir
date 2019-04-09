@@ -1,0 +1,74 @@
+{
+  "id": 1310291095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.3678,34.8302,47.3678,34.8302",
+    "geom:latitude":34.8302,
+    "geom:longitude":47.3678,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Sir Kuh",
+    "gn:country_code":"IR",
+    "gn:dem":1835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":114255,
+    "gn:latitude":34.8302,
+    "gn:longitude":47.3678,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u012br K\u016bh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0631 \u06a9\u0648\u0647"
+    ],
+    "name:fas_x_variant":[
+        "S\u012br K\u016bh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":114255,
+        "wk:page":"Sir_Kuh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"40e077b8156e16cb120694c02d481296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720463,
+            "locality_id":1310291095,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1310291095,
+    "wof:lastmodified":1537643262,
+    "wof:name":"Sir Kuh",
+    "wof:parent_id":1108720463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.3678,
+    34.8302,
+    47.3678,
+    34.8302
+],
+  "geometry": {"coordinates":[47.3678,34.8302],"type":"Point"}
+}

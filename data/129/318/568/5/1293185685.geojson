@@ -1,0 +1,80 @@
+{
+  "id": 1293185685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.05255,37.15048,50.05255,37.15048",
+    "geom:latitude":37.15048,
+    "geom:longitude":50.05255,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Zemidan",
+    "gn:country_code":"IR",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":111523,
+    "gn:latitude":37.15048,
+    "gn:longitude":50.05255,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Zem\u012bd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Zem\u012bd\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u0632\u0645\u06cc\u062f\u0627\u0646",
+        "\u0632\u0645\u06cc\u062f\u0627\u0646 \u0628\u0627\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Zam\u012bd\u0101n",
+        "Zomeydan",
+        "Zem\u012bd\u0101n-e B\u0101l\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":111523,
+        "wk:page":"Zemidan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0251a97e95f723e8497097644830d687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720173,
+            "locality_id":1293185685,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1293185685,
+    "wof:lastmodified":1537642981,
+    "wof:name":"Zemidan",
+    "wof:parent_id":1108720173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.05255,
+    37.15048,
+    50.05255,
+    37.15048
+],
+  "geometry": {"coordinates":[50.05255,37.15048],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360070083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.95541,37.69925,48.95541,37.69925",
+    "geom:latitude":37.69925,
+    "geom:longitude":48.95541,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Arveh Mahalleh",
+    "gn:country_code":"IR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171944,
+    "gn:latitude":37.69925,
+    "gn:longitude":48.95541,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Arveh Ma\u1e29alleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0631\u0648\u0647 \u0645\u062d\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "Arveh Ma\u1e29alleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171944
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"43107302f0225075a842c57fe5202500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720487,
+            "locality_id":1360070083,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1360070083,
+    "wof:lastmodified":1537648736,
+    "wof:name":"Arveh Mahalleh",
+    "wof:parent_id":1108720487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.95541,
+    37.69925,
+    48.95541,
+    37.69925
+],
+  "geometry": {"coordinates":[48.95541,37.69925],"type":"Point"}
+}

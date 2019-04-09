@@ -1,0 +1,76 @@
+{
+  "id": 1344036149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.35,33.76667,46.35,33.76667",
+    "geom:latitude":33.76667,
+    "geom:longitude":46.35,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Shamar",
+    "gn:country_code":"IR",
+    "gn:dem":1262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5977,
+    "gn:latitude":33.76667,
+    "gn:longitude":46.35,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sh\u0101m\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sh\u0101m\u0101r"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u0627\u0645\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u0634\u0627\u0645\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108720065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5977
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"98aaf496f0eed1713597336c5b861c64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720065,
+            "locality_id":1344036149,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1344036149,
+    "wof:lastmodified":1537640314,
+    "wof:name":"Shamar",
+    "wof:parent_id":1108720065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.35,
+    33.76667,
+    46.35,
+    33.76667
+],
+  "geometry": {"coordinates":[46.35,33.76667],"type":"Point"}
+}

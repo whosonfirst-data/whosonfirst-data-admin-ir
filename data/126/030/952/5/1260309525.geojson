@@ -1,0 +1,73 @@
+{
+  "id": 1260309525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.7422,31.11,61.7422,31.11",
+    "geom:latitude":31.11,
+    "geom:longitude":61.7422,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Deh-e Shirdel",
+    "gn:country_code":"IR",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6651487,
+    "gn:latitude":31.11,
+    "gn:longitude":61.7422,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Deh-e Sh\u012brdel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647 \u0634\u06cc\u0631\u062f\u0644"
+    ],
+    "name:fas_x_variant":[
+        "Deh-e Sh\u012brdel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6651487
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"88301f2287d55ee7b851fcd136c2276c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720513,
+            "locality_id":1260309525,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1260309525,
+    "wof:lastmodified":1537647219,
+    "wof:name":"Deh-e Shirdel",
+    "wof:parent_id":1108720513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.7422,
+    31.11,
+    61.7422,
+    31.11
+],
+  "geometry": {"coordinates":[61.7422,31.11],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259687575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.02833,39.04639,45.02833,39.04639",
+    "geom:latitude":39.04639,
+    "geom:longitude":45.02833,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khvaju",
+    "gn:country_code":"IR",
+    "gn:dem":1173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":389076,
+    "gn:latitude":39.04639,
+    "gn:longitude":45.02833,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Khv\u0101j\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0627\u062c\u0648"
+    ],
+    "name:fas_x_variant":[
+        "Khv\u0101j\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":389076
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c0937960b5e2f49a0f5a2ea4fca936a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720203,
+            "locality_id":1259687575,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1259687575,
+    "wof:lastmodified":1537646465,
+    "wof:name":"Khvaju",
+    "wof:parent_id":1108720203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.02833,
+    39.04639,
+    45.02833,
+    39.04639
+],
+  "geometry": {"coordinates":[45.02833,39.04639],"type":"Point"}
+}

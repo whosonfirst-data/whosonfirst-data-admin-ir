@@ -1,0 +1,77 @@
+{
+  "id": 1327085245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.55381,33.71573,51.55381,33.71573",
+    "geom:latitude":33.71573,
+    "geom:longitude":51.55381,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Zanjanbar",
+    "gn:country_code":"IR",
+    "gn:dem":1809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":111451,
+    "gn:latitude":33.71573,
+    "gn:longitude":51.55381,
+    "gn:modification_date":"2013-08-04",
+    "gn:name":"Zanj\u0101nbar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u0646\u062c\u0627\u0646\u0628\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Zanj\u0101nbar"
+    ],
+    "name:und_x_variant":[
+        "Zanj\u0101nebar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":111451,
+        "wk:page":"Zanjanbar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1422660cf86bc2bfd35d7fd8a4bfa330",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720109,
+            "locality_id":1327085245,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1327085245,
+    "wof:lastmodified":1537642974,
+    "wof:name":"Zanjanbar",
+    "wof:parent_id":1108720109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.55381,
+    33.71573,
+    51.55381,
+    33.71573
+],
+  "geometry": {"coordinates":[51.55381,33.71573],"type":"Point"}
+}

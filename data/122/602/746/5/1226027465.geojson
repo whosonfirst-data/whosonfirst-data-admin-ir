@@ -1,0 +1,73 @@
+{
+  "id": 1226027465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.11417,32.52981,49.11417,32.52981",
+    "geom:latitude":32.52981,
+    "geom:longitude":49.11417,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Sabzabad",
+    "gn:country_code":"IR",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6746125,
+    "gn:latitude":32.52981,
+    "gn:longitude":49.11417,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Sabz\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0633\u0628\u0632 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Sabz\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6746125
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5b647d789ad3e76babc6c779957d2164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720177,
+            "locality_id":1226027465,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1226027465,
+    "wof:lastmodified":1537647615,
+    "wof:name":"Sabzabad",
+    "wof:parent_id":1108720177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.11417,
+    32.52981,
+    49.11417,
+    32.52981
+],
+  "geometry": {"coordinates":[49.11417,32.52981],"type":"Point"}
+}

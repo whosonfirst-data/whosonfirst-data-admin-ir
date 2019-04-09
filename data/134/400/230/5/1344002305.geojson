@@ -1,0 +1,76 @@
+{
+  "id": 1344002305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.39649,36.39159,51.39649,36.39159",
+    "geom:latitude":36.39159,
+    "geom:longitude":51.39649,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Lazar",
+    "gn:country_code":"IR",
+    "gn:dem":1040,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7457046,
+    "gn:latitude":36.39159,
+    "gn:longitude":51.39649,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"L\u0101zar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "L\u0101zar"
+    ],
+    "name:fas_x_variant":[
+        "\u0644\u0627\u0632\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u0644\u0627\u0632\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7457046
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"deada327e6e1cdfd4c9a875bf617ac2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720281,
+            "locality_id":1344002305,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1344002305,
+    "wof:lastmodified":1537648228,
+    "wof:name":"Lazar",
+    "wof:parent_id":1108720281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.39649,
+    36.39159,
+    51.39649,
+    36.39159
+],
+  "geometry": {"coordinates":[51.39649,36.39159],"type":"Point"}
+}

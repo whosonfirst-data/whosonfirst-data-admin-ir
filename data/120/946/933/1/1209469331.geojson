@@ -1,0 +1,67 @@
+{
+  "id": 1209469331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.3456,35.7081,51.3456,35.7081",
+    "geom:latitude":35.7081,
+    "geom:longitude":51.3456,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Tarasht",
+    "gn:country_code":"IR",
+    "gn:dem":1209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":404633,
+    "gn:latitude":35.7081,
+    "gn:longitude":51.3456,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0162arasht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0637\u0631\u0634\u062a"
+    ],
+    "name:fas_x_variant":[
+        "\u0162arasht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":404633
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1c652df79ba3d17f0a826cf6e339a858",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209469331
+        }
+    ],
+    "wof:id":1209469331,
+    "wof:lastmodified":1537646573,
+    "wof:name":"Tarasht",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.3456,
+    35.7081,
+    51.3456,
+    35.7081
+],
+  "geometry": {"coordinates":[51.3456,35.7081],"type":"Point"}
+}

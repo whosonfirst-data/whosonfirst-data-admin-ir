@@ -1,0 +1,74 @@
+{
+  "id": 1276637667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.4546,35.4302,46.4546,35.4302",
+    "geom:latitude":35.4302,
+    "geom:longitude":46.4546,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Lavisan",
+    "gn:country_code":"IR",
+    "gn:dem":1645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3041,
+    "gn:latitude":35.4302,
+    "gn:longitude":46.4546,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"L\u0101v\u012bs\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0648\u064a\u0633\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "L\u0101v\u012bs\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3041,
+        "wk:page":"Lavisan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f6ab5b5068c7ea896d9bf1479bb99a0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720221,
+            "locality_id":1276637667,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1276637667,
+    "wof:lastmodified":1537640224,
+    "wof:name":"Lavisan",
+    "wof:parent_id":1108720221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.4546,
+    35.4302,
+    46.4546,
+    35.4302
+],
+  "geometry": {"coordinates":[46.4546,35.4302],"type":"Point"}
+}

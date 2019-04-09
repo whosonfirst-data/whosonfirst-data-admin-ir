@@ -1,0 +1,73 @@
+{
+  "id": 1327029809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.1091,26.1502,60.1091,26.1502",
+    "geom:latitude":26.1502,
+    "geom:longitude":60.1091,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Mukht-e Meydar",
+    "gn:country_code":"IR",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7009982,
+    "gn:latitude":26.1502,
+    "gn:longitude":60.1091,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"M\u016bkht-e Meydar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u062e\u062a \u0645\u06cc\u062f\u0631"
+    ],
+    "name:fas_x_variant":[
+        "M\u016bkht-e Meydar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7009982
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5f5bff0a825cac326522977dc99e935d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720271,
+            "locality_id":1327029809,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1327029809,
+    "wof:lastmodified":1537647891,
+    "wof:name":"Mukht-e Meydar",
+    "wof:parent_id":1108720271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.1091,
+    26.1502,
+    60.1091,
+    26.1502
+],
+  "geometry": {"coordinates":[60.1091,26.1502],"type":"Point"}
+}

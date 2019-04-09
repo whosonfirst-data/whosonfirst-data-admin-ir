@@ -1,0 +1,77 @@
+{
+  "id": 1226708053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.8456,33.9852,48.8456,33.9852",
+    "geom:latitude":33.9852,
+    "geom:longitude":48.8456,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Maru",
+    "gn:country_code":"IR",
+    "gn:dem":2250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":124740,
+    "gn:latitude":33.9852,
+    "gn:longitude":48.8456,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Mar\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u0648"
+    ],
+    "name:fas_x_variant":[
+        "Mar\u016b"
+    ],
+    "name:und_x_variant":[
+        "Marv",
+        "Marow"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":124740
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"858991b172b3916d04e1d5e4048172d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719905,
+            "locality_id":1226708053,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1226708053,
+    "wof:lastmodified":1537644281,
+    "wof:name":"Maru",
+    "wof:parent_id":1108719905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.8456,
+    33.9852,
+    48.8456,
+    33.9852
+],
+  "geometry": {"coordinates":[48.8456,33.9852],"type":"Point"}
+}

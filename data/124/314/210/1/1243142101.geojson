@@ -1,0 +1,77 @@
+{
+  "id": 1243142101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.0321,31.44597,50.0321,31.44597",
+    "geom:latitude":31.44597,
+    "geom:longitude":50.0321,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ab Shirinak",
+    "gn:country_code":"IR",
+    "gn:dem":918,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7864212,
+    "gn:latitude":31.44597,
+    "gn:longitude":50.0321,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"\u0100b Sh\u012br\u012bnak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0628 \u0634\u06cc\u0631\u06cc\u0646\u06a9 \u067e\u0627\u0626\u06cc\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u0628 \u0634\u06cc\u0631\u06cc\u0646\u06a9"
+    ],
+    "name:und_x_variant":[
+        "\u0100b Sh\u012br\u012bnak-e P\u0101\u2019\u012bn",
+        "\u0100b Sh\u012br\u012bnak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7864212
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a191e8973e3a44950a675cc349c08d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719853,
+            "locality_id":1243142101,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1243142101,
+    "wof:lastmodified":1537648512,
+    "wof:name":"Ab Shirinak",
+    "wof:parent_id":1108719853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.0321,
+    31.44597000000001,
+    50.0321,
+    31.44597000000001
+],
+  "geometry": {"coordinates":[50.0321,31.44597000000001],"type":"Point"}
+}

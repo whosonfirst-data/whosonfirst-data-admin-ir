@@ -1,0 +1,72 @@
+{
+  "id": 1209178141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.83031,36.18698,47.83031,36.18698",
+    "geom:latitude":36.18698,
+    "geom:longitude":47.83031,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Aghcheh Gonbad",
+    "gn:country_code":"IR",
+    "gn:dem":1476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":27124,
+    "gn:latitude":36.18698,
+    "gn:longitude":47.83031,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"\u0100ghcheh Gonbad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u063a\u0686\u0647 \u06af\u0646\u0628\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0100ghjeh Kand",
+        "\u0100ghcheh Gonbad"
+    ],
+    "name:und_x_variant":[
+        "\u0100ghjeh Gonbad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":27124,
+        "wk:page":"Aghcheh_Gonbad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"19c06d320f2da3cb26b0fb3c20e3daed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209178141
+        }
+    ],
+    "wof:id":1209178141,
+    "wof:lastmodified":1537641441,
+    "wof:name":"Aghcheh Gonbad",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.83031,
+    36.18698,
+    47.83031,
+    36.18698
+],
+  "geometry": {"coordinates":[47.83031,36.18698],"type":"Point"}
+}

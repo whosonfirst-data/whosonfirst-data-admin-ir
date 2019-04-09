@@ -1,0 +1,76 @@
+{
+  "id": 1226700367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.33814,30.81469,55.33814,30.81469",
+    "geom:latitude":30.81469,
+    "geom:longitude":55.33814,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Hoseynabad",
+    "gn:country_code":"IR",
+    "gn:dem":1404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":49388,
+    "gn:latitude":30.81469,
+    "gn:longitude":55.33814,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"\u1e28oseyn\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u1e28oseyn\u0101b\u0101d-e Rahnam\u0101"
+    ],
+    "name:fas_x_variant":[
+        "\u062c\u0633\u064a\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u1e28oseyn\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":49388
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"117b757c3aa8dffc604dcb6a077a0485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720329,
+            "locality_id":1226700367,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1226700367,
+    "wof:lastmodified":1537642782,
+    "wof:name":"Hoseynabad",
+    "wof:parent_id":1108720329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.33814,
+    30.81469,
+    55.33814,
+    30.81469
+],
+  "geometry": {"coordinates":[55.33814,30.81469],"type":"Point"}
+}

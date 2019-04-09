@@ -1,0 +1,80 @@
+{
+  "id": 1225882801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.74028,32.04667,53.74028,32.04667",
+    "geom:latitude":32.04667,
+    "geom:longitude":53.74028,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Reyju",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":66128,
+    "gn:latitude":32.04667,
+    "gn:longitude":53.74028,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Reyj\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u0650\u064a\u062c\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0631\u064a\u06af\u0648",
+        "\u0631\u064a\u0642\u0648",
+        "Reyj\u016b"
+    ],
+    "name:und_x_variant":[
+        "R\u012bq\u016b",
+        "R\u012bg\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108720369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":66128
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3cb3abec8119ded8d3bda2f0a8717c8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720369,
+            "locality_id":1225882801,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1225882801,
+    "wof:lastmodified":1537642791,
+    "wof:name":"Reyju",
+    "wof:parent_id":1108720369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.74028000000001,
+    32.04667,
+    53.74028000000001,
+    32.04667
+],
+  "geometry": {"coordinates":[53.74028000000001,32.04667],"type":"Point"}
+}

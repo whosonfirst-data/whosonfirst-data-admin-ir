@@ -1,0 +1,72 @@
+{
+  "id": 1209386963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.209,35.6921,48.209,35.6921",
+    "geom:latitude":35.6921,
+    "geom:longitude":48.209,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Khoda'i",
+    "gn:country_code":"IR",
+    "gn:dem":1650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":127430,
+    "gn:latitude":35.6921,
+    "gn:longitude":48.209,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Khod\u0101\u2019\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062e\u062f\u0627\u0626\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u062e\u064f\u062f\u0627\u064a\u0646",
+        "Khod\u0101\u2019\u012b"
+    ],
+    "name:und_x_variant":[
+        "Khod\u0101\u012bn",
+        "Khud\u0101in"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":127430
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c8fc5596058f75604371f219fa259872",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209386963
+        }
+    ],
+    "wof:id":1209386963,
+    "wof:lastmodified":1537644559,
+    "wof:name":"Khoda'i",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.209,
+    35.6921,
+    48.209,
+    35.6921
+],
+  "geometry": {"coordinates":[48.209,35.6921],"type":"Point"}
+}

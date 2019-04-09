@@ -1,0 +1,73 @@
+{
+  "id": 1209972805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.8254,33.6668,47.8254,33.6668",
+    "geom:latitude":33.6668,
+    "geom:longitude":47.8254,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Bon Mazra`eh",
+    "gn:country_code":"IR",
+    "gn:dem":1094,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":28496,
+    "gn:latitude":33.6668,
+    "gn:longitude":47.8254,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Bon Mazra\u2018eh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0646 \u0645\u0632\u0631\u0639\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Bon Mazra\u2018eh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":28496
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a5d1be9eda67e736e069cf0cce570c89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720145,
+            "locality_id":1209972805,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1209972805,
+    "wof:lastmodified":1537641547,
+    "wof:name":"Bon Mazra`eh",
+    "wof:parent_id":1108720145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.8254,
+    33.6668,
+    47.8254,
+    33.6668
+],
+  "geometry": {"coordinates":[47.8254,33.6668],"type":"Point"}
+}

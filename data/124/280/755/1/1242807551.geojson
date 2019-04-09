@@ -1,0 +1,82 @@
+{
+  "id": 1242807551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.72751,34.35205,58.72751,34.35205",
+    "geom:latitude":34.35205,
+    "geom:longitude":58.72751,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Nughab",
+    "gn:country_code":"IR",
+    "gn:dem":1078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":121943,
+    "gn:latitude":34.35205,
+    "gn:longitude":58.72751,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"N\u016bgh\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "N\u016bgh\u0101b"
+    ],
+    "name:fas_x_variant":[
+        "N\u016bq\u0101b",
+        "\u0646\u0648\u0642\u0627\u0628",
+        "Nowg\u0101b",
+        "\u0646\u0648\u063a\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "N\u016bq\u0101b",
+        "Nowg\u0101b",
+        "\u0646\u0648\u0642\u0627\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":121943,
+        "wk:page":"Nughab,_Roshtkhar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"49de91c0d52b35fd89b6ea0611a1e59f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720037,
+            "locality_id":1242807551,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1242807551,
+    "wof:lastmodified":1537644005,
+    "wof:name":"Nughab",
+    "wof:parent_id":1108720037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.72751,
+    34.35205,
+    58.72751,
+    34.35205
+],
+  "geometry": {"coordinates":[58.72751,34.35205],"type":"Point"}
+}

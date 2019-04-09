@@ -1,0 +1,74 @@
+{
+  "id": 1343602877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.5889,38.4159,47.5889,38.4159",
+    "geom:latitude":38.4159,
+    "geom:longitude":47.5889,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Zir Zamin",
+    "gn:country_code":"IR",
+    "gn:dem":1205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":35709,
+    "gn:latitude":38.4159,
+    "gn:longitude":47.5889,
+    "gn:modification_date":"2015-07-02",
+    "gn:name":"Z\u012br Zam\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u064a\u0631 \u0632\u0645\u064a\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Z\u012br Zam\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":35709,
+        "wk:page":"Zir_Zamin"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c32d05dd569a5b3a2974212085e9c5fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720237,
+            "locality_id":1343602877,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1343602877,
+    "wof:lastmodified":1537641965,
+    "wof:name":"Zir Zamin",
+    "wof:parent_id":1108720237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.5889,
+    38.4159,
+    47.5889,
+    38.4159
+],
+  "geometry": {"coordinates":[47.5889,38.4159],"type":"Point"}
+}

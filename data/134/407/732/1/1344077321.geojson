@@ -1,0 +1,76 @@
+{
+  "id": 1344077321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.6071,29.65291,51.6071,29.65291",
+    "geom:latitude":29.65291,
+    "geom:longitude":51.6071,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kheyratabad-e Bazkatak",
+    "gn:country_code":"IR",
+    "gn:dem":832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7450591,
+    "gn:latitude":29.65291,
+    "gn:longitude":51.6071,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kheyrat\u0101b\u0101d-e Bazkatak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Kheyrat\u0101b\u0101d-e Bazkatak"
+    ],
+    "name:fas_x_variant":[
+        "\u062e\u06cc\u0631\u062a \u0622\u0628\u0627\u062f \u0628\u0632\u06a9\u062a\u06a9"
+    ],
+    "name:und_x_variant":[
+        "\u062e\u06cc\u0631\u062a \u0622\u0628\u0627\u062f \u0628\u0632\u06a9\u062a\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7450591
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"aa1258e075c350ec2dfcad69c275541f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720113,
+            "locality_id":1344077321,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1344077321,
+    "wof:lastmodified":1537648212,
+    "wof:name":"Kheyratabad-e Bazkatak",
+    "wof:parent_id":1108720113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.6071,
+    29.65291,
+    51.6071,
+    29.65291
+],
+  "geometry": {"coordinates":[51.6071,29.65291],"type":"Point"}
+}

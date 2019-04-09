@@ -1,0 +1,76 @@
+{
+  "id": 1360090805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.04723,27.70415,61.04723,27.70415",
+    "geom:latitude":27.70415,
+    "geom:longitude":61.04723,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Hasek",
+    "gn:country_code":"IR",
+    "gn:dem":1300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":7049981,
+    "gn:latitude":27.70415,
+    "gn:longitude":61.04723,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Hasek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0647\u0633\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "\u0647\u06cc\u0633\u06a9"
+    ],
+    "name:und_x_variant":[
+        "Heysek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7049981
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6c424d52f610cfb070413af806362c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720131,
+            "locality_id":1360090805,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1360090805,
+    "wof:lastmodified":1537647943,
+    "wof:name":"Hasek",
+    "wof:parent_id":1108720131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.04723000000001,
+    27.70415,
+    61.04723000000001,
+    27.70415
+],
+  "geometry": {"coordinates":[61.04723000000001,27.70415],"type":"Point"}
+}

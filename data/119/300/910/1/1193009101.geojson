@@ -1,0 +1,70 @@
+{
+  "id": 1193009101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.46139,30.05167,52.46139,30.05167",
+    "geom:latitude":30.05167,
+    "geom:longitude":52.46139,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Gezaf",
+    "gn:country_code":"IR",
+    "gn:dem":1605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":46997,
+    "gn:latitude":30.05167,
+    "gn:longitude":52.46139,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Gez\u0101f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Gez\u0101f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":46997
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"95ea3ea9e0869380ec4dfe0167497561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720421,
+            "locality_id":1193009101,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1193009101,
+    "wof:lastmodified":1537642652,
+    "wof:name":"Gezaf",
+    "wof:parent_id":1108720421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.46139,
+    30.05167,
+    52.46139,
+    30.05167
+],
+  "geometry": {"coordinates":[52.46139,30.05167],"type":"Point"}
+}

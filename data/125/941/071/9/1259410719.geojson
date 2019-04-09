@@ -1,0 +1,82 @@
+{
+  "id": 1259410719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.6357,34.553,50.6357,34.553",
+    "geom:latitude":34.553,
+    "geom:longitude":50.6357,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Tollab",
+    "gn:country_code":"IR",
+    "gn:dem":1141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112692,
+    "gn:latitude":34.553,
+    "gn:longitude":50.6357,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"\u0162oll\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0637\u0644\u0627\u0628"
+    ],
+    "name:fas_x_variant":[
+        "\u0162oll\u0101b",
+        "\u0637\u0631\u0644\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "Sh\u016br\u0101b Tarl\u0101b",
+        "T\u0101l\u0101b",
+        "\u0162arl\u0101b",
+        "\u0634\u0648\u0631\u0627\u0628 \u062a\u064e\u0631\u0644\u0627\u0628",
+        "\u062a\u0627\u0644\u0627\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672351,
+        1108720321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112692,
+        "wk:page":"Tarlab"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e5accf4431bc66e4e9ee877013907285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720321,
+            "locality_id":1259410719,
+            "region_id":85672351
+        }
+    ],
+    "wof:id":1259410719,
+    "wof:lastmodified":1537643113,
+    "wof:name":"Tollab",
+    "wof:parent_id":1108720321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.6357,
+    34.553,
+    50.6357,
+    34.553
+],
+  "geometry": {"coordinates":[50.6357,34.553],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293798313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.5361,27.6119,57.5361,27.6119",
+    "geom:latitude":27.6119,
+    "geom:longitude":57.5361,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Ben Guyeh",
+    "gn:country_code":"IR",
+    "gn:dem":771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6961564,
+    "gn:latitude":27.6119,
+    "gn:longitude":57.5361,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ben G\u016byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0646 \u06af\u0648\u06cc\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Ben G\u016byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6961564
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5ed648271f8141db083690da55ee3748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720213,
+            "locality_id":1293798313,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1293798313,
+    "wof:lastmodified":1537647779,
+    "wof:name":"Ben Guyeh",
+    "wof:parent_id":1108720213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.5361,
+    27.6119,
+    57.5361,
+    27.6119
+],
+  "geometry": {"coordinates":[57.5361,27.6119],"type":"Point"}
+}

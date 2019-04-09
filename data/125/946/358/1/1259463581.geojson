@@ -1,0 +1,73 @@
+{
+  "id": 1259463581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.8576,27.3616,56.8576,27.3616",
+    "geom:latitude":27.3616,
+    "geom:longitude":56.8576,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Hasan Langi",
+    "gn:country_code":"IR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6649639,
+    "gn:latitude":27.3616,
+    "gn:longitude":56.8576,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u1e28asan Lang\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0633\u0646 \u0644\u0646\u06af\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28asan Lang\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108719863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6649639
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a577c192deb6405f638ecf93bcff2f17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719863,
+            "locality_id":1259463581,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1259463581,
+    "wof:lastmodified":1537647192,
+    "wof:name":"Hasan Langi",
+    "wof:parent_id":1108719863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.8576,
+    27.3616,
+    56.8576,
+    27.3616
+],
+  "geometry": {"coordinates":[56.8576,27.3616],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209505901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.0114,27.5024,53.0114,27.5024",
+    "geom:latitude":27.5024,
+    "geom:longitude":53.0114,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Narman",
+    "gn:country_code":"IR",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":67316,
+    "gn:latitude":27.5024,
+    "gn:longitude":53.0114,
+    "gn:modification_date":"2018-06-20",
+    "gn:name":"Narm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0631\u0645\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Narm\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Narmtin",
+        "Term\u0101n",
+        "Tarm\u0101n",
+        "Nerm\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":67316,
+        "wk:page":"Nerman,_Iran"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8ac99037341eb871097b3b39d4f86eda",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209505901
+        }
+    ],
+    "wof:id":1209505901,
+    "wof:lastmodified":1537642834,
+    "wof:name":"Narman",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.0114,
+    27.5024,
+    53.0114,
+    27.5024
+],
+  "geometry": {"coordinates":[53.0114,27.5024],"type":"Point"}
+}

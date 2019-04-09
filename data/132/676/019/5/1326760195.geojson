@@ -1,0 +1,67 @@
+{
+  "id": 1326760195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.74528,36.31306,59.74528,36.31306",
+    "geom:latitude":36.31306,
+    "geom:longitude":59.74528,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Golshahr",
+    "gn:country_code":"IR",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":401335,
+    "gn:latitude":36.31306,
+    "gn:longitude":59.74528,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Golshahr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401335
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ccc1b0b235cc8cc2b04aeb692fa24cb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720227,
+            "locality_id":1326760195,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1326760195,
+    "wof:lastmodified":1536655538,
+    "wof:name":"Golshahr",
+    "wof:parent_id":1108720227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.74528000000001,
+    36.31306,
+    59.74528000000001,
+    36.31306
+],
+  "geometry": {"coordinates":[59.74528000000001,36.31306],"type":"Point"}
+}

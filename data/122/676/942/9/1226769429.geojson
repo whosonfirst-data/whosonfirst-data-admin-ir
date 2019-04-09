@@ -1,0 +1,73 @@
+{
+  "id": 1226769429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.38101,37.07101,49.38101,37.07101",
+    "geom:latitude":37.07101,
+    "geom:longitude":49.38101,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mahalleh-ye Darkeh Dasht",
+    "gn:country_code":"IR",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11189367,
+    "gn:latitude":37.07101,
+    "gn:longitude":49.38101,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ma\u1e29alleh-ye Darkeh Dasht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u062d\u0644\u0647 \u062f\u0631\u06a9\u0647 \u062f\u0634\u062a"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29alleh-ye Darkeh Dasht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189367
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8e7ba40792f70ce6d1ac10b0acec4097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720427,
+            "locality_id":1226769429,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1226769429,
+    "wof:lastmodified":1537648743,
+    "wof:name":"Mahalleh-ye Darkeh Dasht",
+    "wof:parent_id":1108720427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.38101,
+    37.07101,
+    49.38101,
+    37.07101
+],
+  "geometry": {"coordinates":[49.38101,37.07101],"type":"Point"}
+}

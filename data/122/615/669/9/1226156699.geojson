@@ -1,0 +1,74 @@
+{
+  "id": 1226156699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.4243,36.0155,45.4243,36.0155",
+    "geom:latitude":36.0155,
+    "geom:longitude":45.4243,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mavanda",
+    "gn:country_code":"IR",
+    "gn:dem":1141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6677037,
+    "gn:latitude":36.0155,
+    "gn:longitude":45.4243,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"M\u0101v\u0101nd\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0648\u0627\u0646\u062f\u0627"
+    ],
+    "name:fas_x_variant":[
+        "M\u0101v\u0101nd\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6677037,
+        "wk:page":"Mavanda"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8a6e2053a0bdcd25f09c62ce1f09df4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720399,
+            "locality_id":1226156699,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1226156699,
+    "wof:lastmodified":1537647332,
+    "wof:name":"Mavanda",
+    "wof:parent_id":1108720399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.4243,
+    36.0155,
+    45.4243,
+    36.0155
+],
+  "geometry": {"coordinates":[45.4243,36.0155],"type":"Point"}
+}

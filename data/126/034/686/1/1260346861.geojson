@@ -1,0 +1,73 @@
+{
+  "id": 1260346861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.83394,33.17728,47.83394,33.17728",
+    "geom:latitude":33.17728,
+    "geom:longitude":47.83394,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Dar Kolang",
+    "gn:country_code":"IR",
+    "gn:dem":966,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8264090,
+    "gn:latitude":33.17728,
+    "gn:longitude":47.83394,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"D\u0101r Kolang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0631 \u06a9\u0644\u0646\u06af"
+    ],
+    "name:und_x_variant":[
+        "D\u0101r Kolang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8264090
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"74cbc1af08cb2e654e995d5442f26247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720307,
+            "locality_id":1260346861,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1260346861,
+    "wof:lastmodified":1537648534,
+    "wof:name":"Dar Kolang",
+    "wof:parent_id":1108720307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.83394000000001,
+    33.17728,
+    47.83394000000001,
+    33.17728
+],
+  "geometry": {"coordinates":[47.83394000000001,33.17728],"type":"Point"}
+}

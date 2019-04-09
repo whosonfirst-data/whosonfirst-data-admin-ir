@@ -1,0 +1,80 @@
+{
+  "id": 1226315623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.627,31.26407,49.627,31.26407",
+    "geom:latitude":31.26407,
+    "geom:longitude":49.627,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Boneh-ye Akhund",
+    "gn:country_code":"IR",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":144350,
+    "gn:latitude":31.26407,
+    "gn:longitude":49.627,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Boneh-ye \u0100kh\u016bnd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0100kh\u016bnd"
+    ],
+    "name:fas_x_variant":[
+        "Boneh-ye \u0100kh\u016bnd",
+        "\u0628\u0646\u0647 \u0622\u062e\u0648\u0646\u062f"
+    ],
+    "name:und_x_variant":[
+        "Boneh-ye \u0100kh\u016bnd",
+        "Akhoond",
+        "\u0628\u0646\u0647 \u0622\u062e\u0648\u0646\u062f",
+        "Matuv\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":144350
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7323db70f4885b48e7bfc5bb61b72d20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720331,
+            "locality_id":1226315623,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1226315623,
+    "wof:lastmodified":1537646261,
+    "wof:name":"Boneh-ye Akhund",
+    "wof:parent_id":1108720331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.627,
+    31.26407,
+    49.627,
+    31.26407
+],
+  "geometry": {"coordinates":[49.627,31.26407],"type":"Point"}
+}

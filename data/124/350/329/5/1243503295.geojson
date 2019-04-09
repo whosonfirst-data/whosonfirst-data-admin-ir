@@ -1,0 +1,73 @@
+{
+  "id": 1243503295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.2842,39.0888,48.2842,39.0888",
+    "geom:latitude":39.0888,
+    "geom:longitude":48.2842,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"`Atalu",
+    "gn:country_code":"IR",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6689380,
+    "gn:latitude":39.0888,
+    "gn:longitude":48.2842,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u2018A\u0163\u0101l\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0639\u0637\u0627\u0644\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u2018A\u0163\u0101l\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6689380
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6bfe1ef2c104c226edd3d93d69a95b75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720021,
+            "locality_id":1243503295,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1243503295,
+    "wof:lastmodified":1537647429,
+    "wof:name":"`Atalu",
+    "wof:parent_id":1108720021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.2842,
+    39.0888,
+    48.2842,
+    39.0888
+],
+  "geometry": {"coordinates":[48.2842,39.0888],"type":"Point"}
+}

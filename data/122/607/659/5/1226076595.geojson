@@ -1,0 +1,67 @@
+{
+  "id": 1226076595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.52417,30.43639,50.52417,30.43639",
+    "geom:latitude":30.43639,
+    "geom:longitude":50.52417,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Gonbaz",
+    "gn:country_code":"IR",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":132927,
+    "gn:latitude":30.43639,
+    "gn:longitude":50.52417,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Gonbaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":132927
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"91ff83b8445243033d9dffbed8a62192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720015,
+            "locality_id":1226076595,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1226076595,
+    "wof:lastmodified":1536680793,
+    "wof:name":"Gonbaz",
+    "wof:parent_id":1108720015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.52417,
+    30.43639000000001,
+    50.52417,
+    30.43639000000001
+],
+  "geometry": {"coordinates":[50.52417,30.43639000000001],"type":"Point"}
+}

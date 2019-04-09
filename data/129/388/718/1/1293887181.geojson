@@ -1,0 +1,75 @@
+{
+  "id": 1293887181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.9336,38.0686,44.9336,38.0686",
+    "geom:latitude":38.0686,
+    "geom:longitude":44.9336,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Taz Kharab",
+    "gn:country_code":"IR",
+    "gn:dem":1619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":40367,
+    "gn:latitude":38.0686,
+    "gn:longitude":44.9336,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Taz Khar\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0632 \u062e\u0631\u0627\u0628"
+    ],
+    "name:fas_x_variant":[
+        "Tabar Khar\u0101b",
+        "T\u012bzkhar \u0100b",
+        "Taz Khar\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":40367
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2c5347e8b416dd80727d9f612caac0e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720375,
+            "locality_id":1293887181,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1293887181,
+    "wof:lastmodified":1537642265,
+    "wof:name":"Taz Kharab",
+    "wof:parent_id":1108720375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.9336,
+    38.0686,
+    44.9336,
+    38.0686
+],
+  "geometry": {"coordinates":[44.9336,38.0686],"type":"Point"}
+}

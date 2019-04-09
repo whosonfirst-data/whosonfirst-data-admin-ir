@@ -1,0 +1,67 @@
+{
+  "id": 1243383981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.28167,30.33139,51.28167,30.33139",
+    "geom:latitude":30.33139,
+    "geom:longitude":51.28167,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kovin-e Vasat",
+    "gn:country_code":"IR",
+    "gn:dem":780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":46866,
+    "gn:latitude":30.33139,
+    "gn:longitude":51.28167,
+    "gn:modification_date":"1998-04-07",
+    "gn:name":"Kov\u012bn-e Vasa\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":46866
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3e7704e145abec80d07d11367c28d3ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720209,
+            "locality_id":1243383981,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1243383981,
+    "wof:lastmodified":1536895504,
+    "wof:name":"Kovin-e Vasat",
+    "wof:parent_id":1108720209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.28167,
+    30.33139000000001,
+    51.28167,
+    30.33139000000001
+],
+  "geometry": {"coordinates":[51.28167,30.33139000000001],"type":"Point"}
+}

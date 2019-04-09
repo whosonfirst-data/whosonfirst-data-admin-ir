@@ -1,0 +1,73 @@
+{
+  "id": 1343784405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.77236,31.0131,50.77236,31.0131",
+    "geom:latitude":31.0131,
+    "geom:longitude":50.77236,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Deh-e Bahram",
+    "gn:country_code":"IR",
+    "gn:dem":1234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11265561,
+    "gn:latitude":31.0131,
+    "gn:longitude":50.77236,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Deh-e Bahr\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647 \u0628\u0647\u0631\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Deh-e Bahr\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108719911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11265561
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"666611832a58cc3dd49f8e0b5c451fe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719911,
+            "locality_id":1343784405,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1343784405,
+    "wof:lastmodified":1537648760,
+    "wof:name":"Deh-e Bahram",
+    "wof:parent_id":1108719911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.77236,
+    31.0131,
+    50.77236,
+    31.0131
+],
+  "geometry": {"coordinates":[50.77236,31.0131],"type":"Point"}
+}

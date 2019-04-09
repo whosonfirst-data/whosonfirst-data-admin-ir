@@ -1,0 +1,75 @@
+{
+  "id": 1259924791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.14152,34.72994,49.14152,34.72994",
+    "geom:latitude":34.72994,
+    "geom:longitude":49.14152,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Suran",
+    "gn:country_code":"IR",
+    "gn:dem":1632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":113751,
+    "gn:latitude":34.72994,
+    "gn:longitude":49.14152,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"S\u016br\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0631\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0646\u0635\u0648\u0631\u0627\u0646",
+        "S\u016br\u0101n",
+        "Man\u015f\u016br\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":113751
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e22d99e7d481d5b816d3e5fb1ff5c38e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720159,
+            "locality_id":1259924791,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1259924791,
+    "wof:lastmodified":1537643217,
+    "wof:name":"Suran",
+    "wof:parent_id":1108720159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.14152,
+    34.72994,
+    49.14152,
+    34.72994
+],
+  "geometry": {"coordinates":[49.14152,34.72994],"type":"Point"}
+}

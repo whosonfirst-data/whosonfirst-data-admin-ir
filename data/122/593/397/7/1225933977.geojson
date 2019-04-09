@@ -1,0 +1,78 @@
+{
+  "id": 1225933977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.17887,37.41093,49.17887,37.41093",
+    "geom:latitude":37.41093,
+    "geom:longitude":49.17887,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Khoshk-e Rudbar",
+    "gn:country_code":"IR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":37111,
+    "gn:latitude":37.41093,
+    "gn:longitude":49.17887,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Khoshk-e R\u016bdb\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0634\u06a9 \u0631\u0648\u062f\u0628\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Khoshk-e R\u016bdb\u0101r",
+        "\u062e\u0634\u06a9\u0647 \u0631\u0648\u062f\u0628\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Khoshkeh R\u016bdb\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":37111,
+        "wk:page":"Khoshk-e_Rudbar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4bcc746d53885e63406cfd338644f5d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720465,
+            "locality_id":1225933977,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1225933977,
+    "wof:lastmodified":1537642060,
+    "wof:name":"Khoshk-e Rudbar",
+    "wof:parent_id":1108720465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.17887,
+    37.41093,
+    49.17887,
+    37.41093
+],
+  "geometry": {"coordinates":[49.17887,37.41093],"type":"Point"}
+}

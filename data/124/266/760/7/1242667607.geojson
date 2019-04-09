@@ -1,0 +1,77 @@
+{
+  "id": 1242667607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.30628,37.09743,50.30628,37.09743",
+    "geom:latitude":37.09743,
+    "geom:longitude":50.30628,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Sarmastan",
+    "gn:country_code":"IR",
+    "gn:dem":-8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":29004,
+    "gn:latitude":37.09743,
+    "gn:longitude":50.30628,
+    "gn:modification_date":"2018-06-15",
+    "gn:name":"Sarmast\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sarmast\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0631\u0645\u0633\u062a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0633\u0631\u0645\u0633\u062a\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":29004,
+        "wk:page":"Sarmastan,_Gilan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dc63667acfad58921c92a974c33b8a86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720365,
+            "locality_id":1242667607,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1242667607,
+    "wof:lastmodified":1537641600,
+    "wof:name":"Sarmastan",
+    "wof:parent_id":1108720365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.30628,
+    37.09743,
+    50.30628,
+    37.09743
+],
+  "geometry": {"coordinates":[50.30628,37.09743],"type":"Point"}
+}

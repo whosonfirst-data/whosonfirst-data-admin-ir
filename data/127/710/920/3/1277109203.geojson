@@ -1,0 +1,77 @@
+{
+  "id": 1277109203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.46806,26.60056,60.46806,26.60056",
+    "geom:latitude":26.60056,
+    "geom:longitude":60.46806,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tukali",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1158891,
+    "gn:latitude":26.60056,
+    "gn:longitude":60.46806,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"T\u016bkal\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "T\u016bkal\u012b"
+    ],
+    "name:und_x_variant":[
+        "K\u016bm\u0101n",
+        "Taukali",
+        "T\u016bkh\u0101l",
+        "Taukaii"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1158891
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ffe1c6f84f290cad3b5fe01ad8ce1ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720271,
+            "locality_id":1277109203,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1277109203,
+    "wof:lastmodified":1537646948,
+    "wof:name":"Tukali",
+    "wof:parent_id":1108720271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.46806,
+    26.60056,
+    60.46806,
+    26.60056
+],
+  "geometry": {"coordinates":[60.46806,26.60056],"type":"Point"}
+}

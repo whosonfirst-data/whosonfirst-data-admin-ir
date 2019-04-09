@@ -1,0 +1,79 @@
+{
+  "id": 1193190917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.06136,36.69259,51.06136,36.69259",
+    "geom:latitude":36.69259,
+    "geom:longitude":51.06136,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Valkestan",
+    "gn:country_code":"IR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8559,
+    "gn:latitude":36.69259,
+    "gn:longitude":51.06136,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Valkest\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Val\u012bkest\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u0648\u0644\u064a\u0643\u0633\u062a\u0627\u0646",
+        "\u0648\u0644\u06a9\u0633\u062a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0648\u0644\u064a\u0643\u0633\u062a\u0627\u0646",
+        "Valkest\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8559,
+        "wk:page":"Valikestan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"70785ad78caca884eb4abcb6ef14eb6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720495,
+            "locality_id":1193190917,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1193190917,
+    "wof:lastmodified":1537640437,
+    "wof:name":"Valkestan",
+    "wof:parent_id":1108720495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.06136,
+    36.69259,
+    51.06136,
+    36.69259
+],
+  "geometry": {"coordinates":[51.06136,36.69259],"type":"Point"}
+}

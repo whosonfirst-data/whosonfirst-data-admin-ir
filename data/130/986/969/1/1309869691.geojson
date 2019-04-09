@@ -1,0 +1,73 @@
+{
+  "id": 1309869691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.7,35.96667,45.7,35.96667",
+    "geom:latitude":35.96667,
+    "geom:longitude":45.7,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Zarrineh",
+    "gn:country_code":"IR",
+    "gn:dem":1227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3486,
+    "gn:latitude":35.96667,
+    "gn:longitude":45.7,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Zarr\u012bneh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u064e\u0631\u0651\u064a\u0646\u0650\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Zarr\u012bneh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108719875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3486
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"51bad1c0dfff49e2a8045855a8230620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719875,
+            "locality_id":1309869691,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1309869691,
+    "wof:lastmodified":1537640257,
+    "wof:name":"Zarrineh",
+    "wof:parent_id":1108719875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.7,
+    35.96667,
+    45.7,
+    35.96667
+],
+  "geometry": {"coordinates":[45.7,35.96667],"type":"Point"}
+}

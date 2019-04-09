@@ -1,0 +1,73 @@
+{
+  "id": 1209521301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.17787,25.60942,61.17787,25.60942",
+    "geom:latitude":25.60942,
+    "geom:longitude":61.17787,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Buti",
+    "gn:country_code":"IR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1161597,
+    "gn:latitude":25.60942,
+    "gn:longitude":61.17787,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"B\u016bt\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "B\u016bt\u012b-ye B\u0101l\u0101"
+    ],
+    "name:fas_x_variant":[
+        "B\u016bt\u012b",
+        "\u0628\u0648\u062a\u06cc"
+    ],
+    "name:und_x_variant":[
+        "B\u016bt\u012b",
+        "\u0628\u0648\u062a\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1161597,
+        "wk:page":"Buti-ye_Bala"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6498ee27d523c755ec12b46d53c80c60",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209521301
+        }
+    ],
+    "wof:id":1209521301,
+    "wof:lastmodified":1537647130,
+    "wof:name":"Buti",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.17787,
+    25.60942,
+    61.17787,
+    25.60942
+],
+  "geometry": {"coordinates":[61.17787,25.60942],"type":"Point"}
+}

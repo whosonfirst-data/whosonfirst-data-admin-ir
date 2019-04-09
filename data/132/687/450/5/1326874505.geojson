@@ -1,0 +1,74 @@
+{
+  "id": 1326874505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.34882,36.51224,52.34882,36.51224",
+    "geom:latitude":36.51224,
+    "geom:longitude":52.34882,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kola Mahalleh",
+    "gn:country_code":"IR",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8746,
+    "gn:latitude":36.51224,
+    "gn:longitude":52.34882,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kol\u0101 Ma\u1e29alleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0644\u0627 \u0645\u062d\u0644\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Kol\u0101 Ma\u1e29alleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8746,
+        "wk:page":"Kola_Mahalleh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ce9f0bb9ec56801317fd2a523697e47e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719807,
+            "locality_id":1326874505,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1326874505,
+    "wof:lastmodified":1537640452,
+    "wof:name":"Kola Mahalleh",
+    "wof:parent_id":1108719807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.34882,
+    36.51224000000001,
+    52.34882,
+    36.51224000000001
+],
+  "geometry": {"coordinates":[52.34882,36.51224000000001],"type":"Point"}
+}

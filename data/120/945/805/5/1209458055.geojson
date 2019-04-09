@@ -1,0 +1,64 @@
+{
+  "id": 1209458055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.5,36.66667,48.5,36.66667",
+    "geom:latitude":36.66667,
+    "geom:longitude":48.5,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Estakhr Ab",
+    "gn:country_code":"IR",
+    "gn:dem":1652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":41170,
+    "gn:latitude":36.66667,
+    "gn:longitude":48.5,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Estakhr \u0100b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Estakhr \u0100b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":41170
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"24810071375c52536c0854f65fe33683",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209458055
+        }
+    ],
+    "wof:id":1209458055,
+    "wof:lastmodified":1537642323,
+    "wof:name":"Estakhr Ab",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.5,
+    36.66667,
+    48.5,
+    36.66667
+],
+  "geometry": {"coordinates":[48.5,36.66667],"type":"Point"}
+}

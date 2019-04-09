@@ -1,0 +1,73 @@
+{
+  "id": 1343304545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.61385,35.85933,49.61385,35.85933",
+    "geom:latitude":35.85933,
+    "geom:longitude":49.61385,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Panahabad",
+    "gn:country_code":"IR",
+    "gn:dem":1378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":121553,
+    "gn:latitude":35.85933,
+    "gn:longitude":49.61385,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Pan\u0101h\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0646\u0627\u0647 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Pan\u0101h\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108720479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":121553
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b7df3163a90db9802ac707a074d26ba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720479,
+            "locality_id":1343304545,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1343304545,
+    "wof:lastmodified":1537643963,
+    "wof:name":"Panahabad",
+    "wof:parent_id":1108720479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.61385,
+    35.85933,
+    49.61385,
+    35.85933
+],
+  "geometry": {"coordinates":[49.61385,35.85933],"type":"Point"}
+}

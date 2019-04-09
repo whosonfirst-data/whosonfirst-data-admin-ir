@@ -1,0 +1,75 @@
+{
+  "id": 1225850773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.3719,30.7683,61.3719,30.7683",
+    "geom:latitude":30.7683,
+    "geom:longitude":61.3719,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Deh-e Barqi",
+    "gn:country_code":"IR",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1114494,
+    "gn:latitude":30.7683,
+    "gn:longitude":61.3719,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Deh-e Barq\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647 \u0628\u0631\u0642\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Barq\u012b",
+        "Deh-e Barq\u012b",
+        "\u0628\u0631\u0642\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1114494
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c3ed20dd178e038c5ed6ef829c4d81bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720513,
+            "locality_id":1225850773,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1225850773,
+    "wof:lastmodified":1537646916,
+    "wof:name":"Deh-e Barqi",
+    "wof:parent_id":1108720513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.3719,
+    30.7683,
+    61.3719,
+    30.7683
+],
+  "geometry": {"coordinates":[61.3719,30.7683],"type":"Point"}
+}

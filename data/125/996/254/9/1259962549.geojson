@@ -1,0 +1,67 @@
+{
+  "id": 1259962549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.53333,32.2,48.53333,32.2",
+    "geom:latitude":32.2,
+    "geom:longitude":48.53333,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Emamzadeh Edrisi",
+    "gn:country_code":"IR",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":189,
+    "gn:latitude":32.2,
+    "gn:longitude":48.53333,
+    "gn:modification_date":"1999-05-03",
+    "gn:name":"Em\u0101mz\u0101deh Edr\u012bs\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":189
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4752e1e61cf6d0602b7b1693f61605fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719969,
+            "locality_id":1259962549,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1259962549,
+    "wof:lastmodified":1536665344,
+    "wof:name":"Emamzadeh Edrisi",
+    "wof:parent_id":1108719969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.53333,
+    32.2,
+    48.53333,
+    32.2
+],
+  "geometry": {"coordinates":[48.53333,32.2],"type":"Point"}
+}

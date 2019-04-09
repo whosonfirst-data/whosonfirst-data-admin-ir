@@ -1,0 +1,80 @@
+{
+  "id": 1309683473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.7829,34.559,46.7829,34.559",
+    "geom:latitude":34.559,
+    "geom:longitude":46.7829,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Shah Godar",
+    "gn:country_code":"IR",
+    "gn:dem":1325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":115937,
+    "gn:latitude":34.559,
+    "gn:longitude":46.7829,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sh\u0101h God\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0647 \u06af\u062f\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0627\u0646\u06cc \u0634\u0631\u06cc\u0641",
+        "Sh\u0101h God\u0101r",
+        "K\u0101n\u012b Shar\u012bf"
+    ],
+    "name:und_x_variant":[
+        "K\u0101n\u012b Shar\u012bf",
+        "\u015eaf\u0101\u2019\u012byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":115937,
+        "wk:page":"Kani_Sharif"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"33cdd3e59bcab91ffa5de7d9c6c48b5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720345,
+            "locality_id":1309683473,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1309683473,
+    "wof:lastmodified":1537643404,
+    "wof:name":"Shah Godar",
+    "wof:parent_id":1108720345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.7829,
+    34.559,
+    46.7829,
+    34.559
+],
+  "geometry": {"coordinates":[46.7829,34.559],"type":"Point"}
+}

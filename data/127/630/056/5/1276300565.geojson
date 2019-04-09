@@ -1,0 +1,78 @@
+{
+  "id": 1276300565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.765,33.7527,48.765,33.7527",
+    "geom:latitude":33.7527,
+    "geom:longitude":48.765,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Tariabad",
+    "gn:country_code":"IR",
+    "gn:dem":1497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":32131,
+    "gn:latitude":33.7527,
+    "gn:longitude":48.765,
+    "gn:modification_date":"2015-07-02",
+    "gn:name":"T\u0101r\u012b\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0637\u0627\u0647\u0631\u06cc \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0162\u0101her\u012b\u0101b\u0101d",
+        "\u062a\u0627\u0631\u06cc \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "T\u0101r\u012b\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":32131,
+        "wk:page":"Taheriabad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7325a1292d947e9ea00e630f066f8f94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719905,
+            "locality_id":1276300565,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1276300565,
+    "wof:lastmodified":1537641763,
+    "wof:name":"Tariabad",
+    "wof:parent_id":1108719905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.765,
+    33.7527,
+    48.765,
+    33.7527
+],
+  "geometry": {"coordinates":[48.765,33.7527],"type":"Point"}
+}

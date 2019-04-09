@@ -1,0 +1,73 @@
+{
+  "id": 1259812511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.76897,36.18603,58.76897,36.18603",
+    "geom:latitude":36.18603,
+    "geom:longitude":58.76897,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Arbab Zadeh",
+    "gn:country_code":"IR",
+    "gn:dem":1162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11245677,
+    "gn:latitude":36.18603,
+    "gn:longitude":58.76897,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Arb\u0101b Zadeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0631\u0628\u0627\u0628 \u0632\u062f\u0647"
+    ],
+    "name:und_x_variant":[
+        "Arb\u0101b Zadeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11245677
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"298df5530a59729d4c750078ef106567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720279,
+            "locality_id":1259812511,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1259812511,
+    "wof:lastmodified":1537648756,
+    "wof:name":"Arbab Zadeh",
+    "wof:parent_id":1108720279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.76897,
+    36.18603,
+    58.76897,
+    36.18603
+],
+  "geometry": {"coordinates":[58.76897,36.18603],"type":"Point"}
+}

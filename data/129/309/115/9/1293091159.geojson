@@ -1,0 +1,77 @@
+{
+  "id": 1293091159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.13883,37.30604,50.13883,37.30604",
+    "geom:latitude":37.30604,
+    "geom:longitude":50.13883,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Pa'in Mahalleh-ye Kachelam",
+    "gn:country_code":"IR",
+    "gn:dem":-5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":28636,
+    "gn:latitude":37.30604,
+    "gn:longitude":50.13883,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"P\u0101\u2019\u012bn Ma\u1e29alleh-ye Kachel\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Kachel\u0101m-e P\u0101\u2019\u012bn Ma\u1e29alleh"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u0627\u06cc\u06cc\u0646 \u0645\u062d\u0644\u0647 \u06a9\u0686\u0644\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Kachel\u0101m-e Nowshahr",
+        "P\u0101\u2019\u012bn Ma\u1e29alleh-ye Kachel\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":28636
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ec0aaae4b5f2de11513f40c678783b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720173,
+            "locality_id":1293091159,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1293091159,
+    "wof:lastmodified":1537641561,
+    "wof:name":"Pa'in Mahalleh-ye Kachelam",
+    "wof:parent_id":1108720173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.13883,
+    37.30604,
+    50.13883,
+    37.30604
+],
+  "geometry": {"coordinates":[50.13883,37.30604],"type":"Point"}
+}

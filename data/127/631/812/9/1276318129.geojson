@@ -1,0 +1,73 @@
+{
+  "id": 1276318129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.81259,37.08295,49.81259,37.08295",
+    "geom:latitude":37.08295,
+    "geom:longitude":49.81259,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lat-e Malekrud",
+    "gn:country_code":"IR",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11076103,
+    "gn:latitude":37.08295,
+    "gn:longitude":49.81259,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"L\u0101t-e Malekr\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u062a \u0645\u0644\u06a9\u0631\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "L\u0101t-e Malekr\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11076103
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"75a055dba4228fa1df0993a078f47607",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720459,
+            "locality_id":1276318129,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1276318129,
+    "wof:lastmodified":1537648709,
+    "wof:name":"Lat-e Malekrud",
+    "wof:parent_id":1108720459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.81259,
+    37.08295,
+    49.81259,
+    37.08295
+],
+  "geometry": {"coordinates":[49.81259,37.08295],"type":"Point"}
+}

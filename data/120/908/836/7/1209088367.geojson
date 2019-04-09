@@ -1,0 +1,72 @@
+{
+  "id": 1209088367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.60258,35.32696,47.60258,35.32696",
+    "geom:latitude":35.32696,
+    "geom:longitude":47.60258,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"`Aliabad",
+    "gn:country_code":"IR",
+    "gn:dem":1766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":144057,
+    "gn:latitude":35.32696,
+    "gn:longitude":47.60258,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"\u2018Al\u012b\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0639\u0644\u06cc \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u2018Al\u012b\u0101b\u0101d-e Y\u0101lgh\u016bz \u0100gh\u0101j",
+        "\u2018Al\u012b\u0101b\u0101d",
+        "\u0639\u0644\u06cc \u0622\u0628\u0627\u062f \u06cc\u0644\u063a\u0648\u0632 \u0622\u063a\u0627\u062c"
+    ],
+    "name:und_x_variant":[
+        "\u2018Al\u012b\u0101b\u0101d-e Yalgh\u016bz \u0100gh\u0101j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":144057
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d3ec0bcbba5ac6e0b24e88f45ea521dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209088367
+        }
+    ],
+    "wof:id":1209088367,
+    "wof:lastmodified":1537646235,
+    "wof:name":"`Aliabad",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.60258,
+    35.32696,
+    47.60258,
+    35.32696
+],
+  "geometry": {"coordinates":[47.60258,35.32696],"type":"Point"}
+}

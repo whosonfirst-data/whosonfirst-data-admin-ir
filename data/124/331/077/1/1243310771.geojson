@@ -1,0 +1,73 @@
+{
+  "id": 1243310771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.02962,33.15071,52.02962,33.15071",
+    "geom:latitude":33.15071,
+    "geom:longitude":52.02962,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Chah-e Sorkh",
+    "gn:country_code":"IR",
+    "gn:dem":2152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8596988,
+    "gn:latitude":33.15071,
+    "gn:longitude":52.02962,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"Ch\u0101h-e Sorkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0647 \u0633\u0631\u062e"
+    ],
+    "name:und_x_variant":[
+        "Ch\u0101h-e Sorkh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108719825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8596988
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"82a0d457872c5b794310e0b9ff0e0947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719825,
+            "locality_id":1243310771,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1243310771,
+    "wof:lastmodified":1537648590,
+    "wof:name":"Chah-e Sorkh",
+    "wof:parent_id":1108719825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.02962,
+    33.15071,
+    52.02962,
+    33.15071
+],
+  "geometry": {"coordinates":[52.02962,33.15071],"type":"Point"}
+}

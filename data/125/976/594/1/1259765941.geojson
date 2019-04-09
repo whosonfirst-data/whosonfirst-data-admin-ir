@@ -1,0 +1,77 @@
+{
+  "id": 1259765941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.32721,31.89881,49.32721,31.89881",
+    "geom:latitude":31.89881,
+    "geom:longitude":49.32721,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bibi Yan",
+    "gn:country_code":"IR",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433336,
+    "gn:latitude":31.89881,
+    "gn:longitude":49.32721,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"B\u012bb\u012b Y\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u06cc \u0628\u06cc\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "B\u012bb\u012b\u0101n",
+        "\u0628\u06cc \u0628\u06cc \u06cc\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "B\u012bb\u012b Y\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433336
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"36a783463553b357dcf0f7e0018f0dec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720229,
+            "locality_id":1259765941,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1259765941,
+    "wof:lastmodified":1537646760,
+    "wof:name":"Bibi Yan",
+    "wof:parent_id":1108720229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.32721,
+    31.89881,
+    49.32721,
+    31.89881
+],
+  "geometry": {"coordinates":[49.32721,31.89881],"type":"Point"}
+}

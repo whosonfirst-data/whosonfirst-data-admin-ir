@@ -1,0 +1,73 @@
+{
+  "id": 1259483113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.1763,26.1379,60.1763,26.1379",
+    "geom:latitude":26.1379,
+    "geom:longitude":60.1763,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bazigar",
+    "gn:country_code":"IR",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1161684,
+    "gn:latitude":26.1379,
+    "gn:longitude":60.1763,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"B\u0101z\u012bgar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0632\u06cc\u06af\u0631"
+    ],
+    "name:fas_x_variant":[
+        "B\u0101z\u012bgar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1161684
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b60a8adb45c10960d28a94768eb8b3a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720271,
+            "locality_id":1259483113,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1259483113,
+    "wof:lastmodified":1537647137,
+    "wof:name":"Bazigar",
+    "wof:parent_id":1108720271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.1763,
+    26.1379,
+    60.1763,
+    26.1379
+],
+  "geometry": {"coordinates":[60.1763,26.1379],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226097111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.51222,35.16046,52.51222,35.16046",
+    "geom:latitude":35.16046,
+    "geom:longitude":52.51222,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Kavirabad",
+    "gn:country_code":"IR",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":33521,
+    "gn:latitude":35.16046,
+    "gn:longitude":52.51222,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Kav\u012br\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0648\u064a\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Kav\u012br\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672309,
+        1108720023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":33521
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f77bbb7f5c7b2183723e3c0ca00dfea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720023,
+            "locality_id":1226097111,
+            "region_id":85672309
+        }
+    ],
+    "wof:id":1226097111,
+    "wof:lastmodified":1537641873,
+    "wof:name":"Kavirabad",
+    "wof:parent_id":1108720023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.51221999999999,
+    35.16046,
+    52.51221999999999,
+    35.16046
+],
+  "geometry": {"coordinates":[52.51221999999999,35.16046],"type":"Point"}
+}

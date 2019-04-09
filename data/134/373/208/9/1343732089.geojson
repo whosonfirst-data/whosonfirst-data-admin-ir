@@ -1,0 +1,68 @@
+{
+  "id": 1343732089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.06833,30.49528,48.06833,30.49528",
+    "geom:latitude":30.49528,
+    "geom:longitude":48.06833,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Shalamcheh",
+    "gn:country_code":"IR",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":115609,
+    "gn:latitude":30.49528,
+    "gn:longitude":48.06833,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Shalamcheh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":115609,
+        "wk:page":"Shalamcheh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a5440ea317b80e2e02da9195ddaad1a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720151,
+            "locality_id":1343732089,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1343732089,
+    "wof:lastmodified":1537565866,
+    "wof:name":"Shalamcheh",
+    "wof:parent_id":1108720151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.06833,
+    30.49528,
+    48.06833,
+    30.49528
+],
+  "geometry": {"coordinates":[48.06833,30.49528],"type":"Point"}
+}

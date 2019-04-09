@@ -1,0 +1,81 @@
+{
+  "id": 1193185189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.52518,37.06963,55.52518,37.06963",
+    "geom:latitude":37.06963,
+    "geom:longitude":55.52518,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Chenashk",
+    "gn:country_code":"IR",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9521,
+    "gn:latitude":37.06963,
+    "gn:longitude":55.52518,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Chen\u0101shk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Deh Chen\u0101shk"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u0646\u0627\u0634\u06a9",
+        "\u062f\u0647 \u0686\u0646\u0627\u0634\u0643"
+    ],
+    "name:und_x_variant":[
+        "\u062f\u0647 \u0686\u0646\u0627\u0634\u0643",
+        "Chen\u0101shk",
+        "\u0686\u0646\u0627\u0634\u06a9",
+        "Deh Chen\u0101shk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9521,
+        "wk:page":"Deh_Chenashk"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"56880d05afd8995d3e583d4cb3a50088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720245,
+            "locality_id":1193185189,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1193185189,
+    "wof:lastmodified":1537640490,
+    "wof:name":"Chenashk",
+    "wof:parent_id":1108720245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.52518000000001,
+    37.06963,
+    55.52518000000001,
+    37.06963
+],
+  "geometry": {"coordinates":[55.52518000000001,37.06963],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1225928687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.2993,37.3149,49.2993,37.3149",
+    "geom:latitude":37.3149,
+    "geom:longitude":49.2993,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Kharafabad",
+    "gn:country_code":"IR",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6757656,
+    "gn:latitude":37.3149,
+    "gn:longitude":49.2993,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kharaf\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0631\u0641 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Kharaf\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6757656
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1c8ea1645861418963c9508bd485ddc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720465,
+            "locality_id":1225928687,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1225928687,
+    "wof:lastmodified":1537647641,
+    "wof:name":"Kharafabad",
+    "wof:parent_id":1108720465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.2993,
+    37.3149,
+    49.2993,
+    37.3149
+],
+  "geometry": {"coordinates":[49.2993,37.3149],"type":"Point"}
+}

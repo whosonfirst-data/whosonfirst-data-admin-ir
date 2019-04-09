@@ -1,0 +1,73 @@
+{
+  "id": 1310610749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.2016,27.8108,57.2016,27.8108",
+    "geom:latitude":27.8108,
+    "geom:longitude":57.2016,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Gorazabad",
+    "gn:country_code":"IR",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6988380,
+    "gn:latitude":27.8108,
+    "gn:longitude":57.2016,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Gor\u0101z\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0631\u0627\u0632 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Gor\u0101z\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6988380
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"26adb661cb250dda4dee08d99b3c9ab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720357,
+            "locality_id":1310610749,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1310610749,
+    "wof:lastmodified":1537647875,
+    "wof:name":"Gorazabad",
+    "wof:parent_id":1108720357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.2016,
+    27.8108,
+    57.2016,
+    27.8108
+],
+  "geometry": {"coordinates":[57.2016,27.8108],"type":"Point"}
+}

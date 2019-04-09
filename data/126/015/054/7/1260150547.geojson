@@ -1,0 +1,76 @@
+{
+  "id": 1260150547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.70754,32.13159,49.70754,32.13159",
+    "geom:latitude":32.13159,
+    "geom:longitude":49.70754,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"`Ajam",
+    "gn:country_code":"IR",
+    "gn:dem":1049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":33180,
+    "gn:latitude":32.13159,
+    "gn:longitude":49.70754,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"\u2018Ajam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "T\u0101r\u0101z-e \u2018Ajam"
+    ],
+    "name:fas_x_variant":[
+        "\u0639\u062c\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ajam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":33180
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"421be6bd84f0adc9ec49e3c5e616c10d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720067,
+            "locality_id":1260150547,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1260150547,
+    "wof:lastmodified":1537641848,
+    "wof:name":"`Ajam",
+    "wof:parent_id":1108720067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.70754,
+    32.13159,
+    49.70754,
+    32.13159
+],
+  "geometry": {"coordinates":[49.70754,32.13159],"type":"Point"}
+}

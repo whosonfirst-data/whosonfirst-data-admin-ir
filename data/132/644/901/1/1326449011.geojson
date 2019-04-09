@@ -1,0 +1,71 @@
+{
+  "id": 1326449011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.504,34.25174,58.504,34.25174",
+    "geom:latitude":34.25174,
+    "geom:longitude":58.504,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ruchi",
+    "gn:country_code":"IR",
+    "gn:dem":1514,
+    "gn:elevation":"1200.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8556023,
+    "gn:latitude":34.25174,
+    "gn:longitude":58.504,
+    "gn:modification_date":"2013-06-16",
+    "gn:name":"Ruchi",
+    "gn:population":500,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8556023
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ff18cb8283054ef29d54b569959339ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720037,
+            "locality_id":1326449011,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1326449011,
+    "wof:lastmodified":1536603915,
+    "wof:name":"Ruchi",
+    "wof:parent_id":1108720037,
+    "wof:placetype":"locality",
+    "wof:population":500,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.504,
+    34.25174000000001,
+    58.504,
+    34.25174000000001
+],
+  "geometry": {"coordinates":[58.504,34.25174000000001],"type":"Point"}
+}

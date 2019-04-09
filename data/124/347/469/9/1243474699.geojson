@@ -1,0 +1,73 @@
+{
+  "id": 1243474699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.35581,30.10234,51.35581,30.10234",
+    "geom:latitude":30.10234,
+    "geom:longitude":51.35581,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bon Sangar",
+    "gn:country_code":"IR",
+    "gn:dem":1209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7490531,
+    "gn:latitude":30.10234,
+    "gn:longitude":51.35581,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bon Sangar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0628\u0646 \u0633\u0646\u06af\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u0628\u0646 \u0633\u0646\u06af\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7490531
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a4e26ea440ef028fce9c9ef81a81e3ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720209,
+            "locality_id":1243474699,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1243474699,
+    "wof:lastmodified":1537648256,
+    "wof:name":"Bon Sangar",
+    "wof:parent_id":1108720209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.35581,
+    30.10234,
+    51.35581,
+    30.10234
+],
+  "geometry": {"coordinates":[51.35581,30.10234],"type":"Point"}
+}

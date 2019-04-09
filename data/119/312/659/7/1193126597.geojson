@@ -1,0 +1,74 @@
+{
+  "id": 1193126597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.0261,35.33384,49.0261,35.33384",
+    "geom:latitude":35.33384,
+    "geom:longitude":49.0261,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Sirab",
+    "gn:country_code":"IR",
+    "gn:dem":1777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":114282,
+    "gn:latitude":35.33384,
+    "gn:longitude":49.0261,
+    "gn:modification_date":"2018-07-02",
+    "gn:name":"S\u012br\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0631\u0627\u0628"
+    ],
+    "name:fas_x_variant":[
+        "S\u012br\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":114282,
+        "wk:page":"Sirab,_Hamadan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8b3b44adfaaf8763b7ef71dca700a3b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720349,
+            "locality_id":1193126597,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1193126597,
+    "wof:lastmodified":1537643264,
+    "wof:name":"Sirab",
+    "wof:parent_id":1108720349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.0261,
+    35.33384,
+    49.0261,
+    35.33384
+],
+  "geometry": {"coordinates":[49.0261,35.33384],"type":"Point"}
+}

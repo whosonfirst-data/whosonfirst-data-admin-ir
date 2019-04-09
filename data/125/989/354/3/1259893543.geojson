@@ -1,0 +1,76 @@
+{
+  "id": 1259893543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.5807,38.1471,44.5807,38.1471",
+    "geom:latitude":38.1471,
+    "geom:longitude":44.5807,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Zangu",
+    "gn:country_code":"IR",
+    "gn:dem":1783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":40348,
+    "gn:latitude":38.1471,
+    "gn:longitude":44.5807,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Zang\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Zang\u016b"
+    ],
+    "name:fas_x_variant":[
+        "\u0632\u0646\u06af\u0648"
+    ],
+    "name:und_x_variant":[
+        "\u0632\u0646\u06af\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":40348
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5a740d91359d238ac1ed8a35f8b2b790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720375,
+            "locality_id":1259893543,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1259893543,
+    "wof:lastmodified":1537642264,
+    "wof:name":"Zangu",
+    "wof:parent_id":1108720375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.5807,
+    38.1471,
+    44.5807,
+    38.1471
+],
+  "geometry": {"coordinates":[44.5807,38.1471],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343762011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.35402,26.97841,61.35402,26.97841",
+    "geom:latitude":26.97841,
+    "geom:longitude":61.35402,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ab Kashan",
+    "gn:country_code":"IR",
+    "gn:dem":1479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1160054,
+    "gn:latitude":26.97841,
+    "gn:longitude":61.35402,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u0100b K\u0101sh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0628 \u06a9\u0627\u0634\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "P\u0101dom\u012b",
+        "\u0100b K\u0101sh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1160054
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"065169e6ffb33559783c19a5b0fccb96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720389,
+            "locality_id":1343762011,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1343762011,
+    "wof:lastmodified":1537647013,
+    "wof:name":"Ab Kashan",
+    "wof:parent_id":1108720389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.35402,
+    26.97841,
+    61.35402,
+    26.97841
+],
+  "geometry": {"coordinates":[61.35402,26.97841],"type":"Point"}
+}

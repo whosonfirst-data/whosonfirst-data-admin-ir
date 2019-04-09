@@ -1,0 +1,73 @@
+{
+  "id": 1242763773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.3331,34.4924,47.3331,34.4924",
+    "geom:latitude":34.4924,
+    "geom:longitude":47.3331,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Qal`eh-ye `Ali",
+    "gn:country_code":"IR",
+    "gn:dem":1667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":24838,
+    "gn:latitude":34.4924,
+    "gn:longitude":47.3331,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qal\u2018eh-ye \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0639\u0647 \u0639\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Qal\u2018eh-ye \u2018Al\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":24838
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cf5189ae709c257e167d47a73692767e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720051,
+            "locality_id":1242763773,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1242763773,
+    "wof:lastmodified":1537641292,
+    "wof:name":"Qal`eh-ye `Ali",
+    "wof:parent_id":1108720051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.3331,
+    34.4924,
+    47.3331,
+    34.4924
+],
+  "geometry": {"coordinates":[47.3331,34.4924],"type":"Point"}
+}

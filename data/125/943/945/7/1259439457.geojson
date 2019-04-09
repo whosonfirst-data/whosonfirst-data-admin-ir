@@ -1,0 +1,77 @@
+{
+  "id": 1259439457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.93943,35.78491,52.93943,35.78491",
+    "geom:latitude":35.78491,
+    "geom:longitude":52.93943,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Torud",
+    "gn:country_code":"IR",
+    "gn:dem":2204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112600,
+    "gn:latitude":35.78491,
+    "gn:longitude":52.93943,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"\u0162or\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0637\u0631\u0648\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0162or\u016bd"
+    ],
+    "name:und_x_variant":[
+        "T\u016br\u016bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672313,
+        1108720011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112600,
+        "wk:page":"Torud,_Tehran"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7202c409dec7a2e67d3091ff9989bfb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720011,
+            "locality_id":1259439457,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1259439457,
+    "wof:lastmodified":1537643105,
+    "wof:name":"Torud",
+    "wof:parent_id":1108720011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.93943,
+    35.78491,
+    52.93943,
+    35.78491
+],
+  "geometry": {"coordinates":[52.93943,35.78491],"type":"Point"}
+}

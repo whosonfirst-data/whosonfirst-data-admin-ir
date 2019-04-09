@@ -1,0 +1,73 @@
+{
+  "id": 1242774509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.00809,37.684,49.00809,37.684",
+    "geom:latitude":37.684,
+    "geom:longitude":49.00809,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ahangar Mahalleh",
+    "gn:country_code":"IR",
+    "gn:dem":-7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416634,
+    "gn:latitude":37.684,
+    "gn:longitude":49.00809,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"\u0100hangar Ma\u1e29alleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0647\u0646\u06af\u0631 \u0645\u062d\u0644\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0100hangar Ma\u1e29alleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416634
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c11d568731410e89c9b1e180e6e72d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720487,
+            "locality_id":1242774509,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1242774509,
+    "wof:lastmodified":1537646658,
+    "wof:name":"Ahangar Mahalleh",
+    "wof:parent_id":1108720487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.00809,
+    37.684,
+    49.00809,
+    37.684
+],
+  "geometry": {"coordinates":[49.00809,37.684],"type":"Point"}
+}

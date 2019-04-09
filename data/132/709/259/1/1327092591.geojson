@@ -1,0 +1,83 @@
+{
+  "id": 1327092591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.9979,32.85338,47.9979,32.85338",
+    "geom:latitude":32.85338,
+    "geom:longitude":47.9979,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Pol Tang",
+    "gn:country_code":"IR",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":116003,
+    "gn:latitude":32.85338,
+    "gn:longitude":47.9979,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Pol Tang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0647 \u0627\u062d\u0645\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Sh\u0101h A\u1e29mad",
+        "\u067e\u0627 \u0639\u0644\u0645",
+        "\u067e\u0644 \u062a\u0646\u06af"
+    ],
+    "name:und_x_variant":[
+        "P\u0101 \u2018Alam",
+        "Pul-\u012b-Tang",
+        "Pol-e Tang",
+        "Pol-e-Z\u0101l",
+        "P\u0101 \u2018Alam-e Sh\u0101h A\u1e29mad",
+        "Pol Tang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":116003
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d557c1fed5baabff7f6bbdfe95edd365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720307,
+            "locality_id":1327092591,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1327092591,
+    "wof:lastmodified":1537643410,
+    "wof:name":"Pol Tang",
+    "wof:parent_id":1108720307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.9979,
+    32.85338,
+    47.9979,
+    32.85338
+],
+  "geometry": {"coordinates":[47.9979,32.85338],"type":"Point"}
+}

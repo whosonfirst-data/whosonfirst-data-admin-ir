@@ -1,0 +1,73 @@
+{
+  "id": 1293238965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.8097,28.6833,57.8097,28.6833",
+    "geom:latitude":28.6833,
+    "geom:longitude":57.8097,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Zaviyeh",
+    "gn:country_code":"IR",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":111193,
+    "gn:latitude":28.6833,
+    "gn:longitude":57.8097,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Z\u0101v\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u0648\u06cc\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Z\u0101v\u012byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":111193
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ec24ccca84b11cf0180b26097393cced",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720081,
+            "locality_id":1293238965,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1293238965,
+    "wof:lastmodified":1537642953,
+    "wof:name":"Zaviyeh",
+    "wof:parent_id":1108720081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.8097,
+    28.6833,
+    57.8097,
+    28.6833
+],
+  "geometry": {"coordinates":[57.8097,28.6833],"type":"Point"}
+}

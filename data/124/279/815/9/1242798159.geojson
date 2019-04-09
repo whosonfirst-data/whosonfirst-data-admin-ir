@@ -1,0 +1,76 @@
+{
+  "id": 1242798159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.35927,30.10486,51.35927,30.10486",
+    "geom:latitude":30.10486,
+    "geom:longitude":51.35927,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Qal`eh-ye Amir Hamzeh",
+    "gn:country_code":"IR",
+    "gn:dem":1171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":120392,
+    "gn:latitude":30.10486,
+    "gn:longitude":51.35927,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qal\u2018eh-ye Am\u012br \u1e28amzeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Qal\u2018eh-ye Am\u012br \u1e28amzeh"
+    ],
+    "name:fas_x_variant":[
+        "\u0642\u0644\u0639\u0647 \u0627\u0645\u06cc\u0631 \u062d\u0645\u0632\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0642\u0644\u0639\u0647 \u0627\u0645\u06cc\u0631 \u062d\u0645\u0632\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":120392
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6c9266b6cb864b7c3470c3aecfbeedd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720209,
+            "locality_id":1242798159,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1242798159,
+    "wof:lastmodified":1537643853,
+    "wof:name":"Qal`eh-ye Amir Hamzeh",
+    "wof:parent_id":1108720209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.35927,
+    30.10486,
+    51.35927,
+    30.10486
+],
+  "geometry": {"coordinates":[51.35927,30.10486],"type":"Point"}
+}

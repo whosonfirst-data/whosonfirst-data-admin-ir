@@ -1,0 +1,73 @@
+{
+  "id": 1360153277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.9566,33.15978,48.9566,33.15978",
+    "geom:latitude":33.15978,
+    "geom:longitude":48.9566,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Chalquru",
+    "gn:country_code":"IR",
+    "gn:dem":1209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6738069,
+    "gn:latitude":33.15978,
+    "gn:longitude":48.9566,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Chalq\u016br\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0686\u0644\u0642\u0648\u0631\u0648"
+    ],
+    "name:fas_x_variant":[
+        "Chalq\u016br\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6738069
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9d16d585c7536b17fc911aa4cf0eb958",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719803,
+            "locality_id":1360153277,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1360153277,
+    "wof:lastmodified":1537647559,
+    "wof:name":"Chalquru",
+    "wof:parent_id":1108719803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.9566,
+    33.15978,
+    48.9566,
+    33.15978
+],
+  "geometry": {"coordinates":[48.9566,33.15978],"type":"Point"}
+}

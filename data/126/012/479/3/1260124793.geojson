@@ -1,0 +1,78 @@
+{
+  "id": 1260124793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.5384,33.8818,50.5384,33.8818",
+    "geom:latitude":33.8818,
+    "geom:longitude":50.5384,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Baqerabad",
+    "gn:country_code":"IR",
+    "gn:dem":1513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":141503,
+    "gn:latitude":33.8818,
+    "gn:longitude":50.5384,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"B\u0101qer\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0642\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u064e\u063a\u0650\u0631 \u0627\u064e\u0628\u064e\u062f",
+        "B\u0101qer\u0101b\u0101d"
+    ],
+    "name:und_x_variant":[
+        "B\u0101qir\u0101b\u0101d",
+        "Bagher Abad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":141503
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b886c9408d87ba126f6ae0fdc26d6d49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720195,
+            "locality_id":1260124793,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1260124793,
+    "wof:lastmodified":1537645982,
+    "wof:name":"Baqerabad",
+    "wof:parent_id":1108720195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.5384,
+    33.8818,
+    50.5384,
+    33.8818
+],
+  "geometry": {"coordinates":[50.5384,33.8818],"type":"Point"}
+}

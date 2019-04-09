@@ -1,0 +1,81 @@
+{
+  "id": 1277048417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.2758,31.085,49.2758,31.085",
+    "geom:latitude":31.085,
+    "geom:longitude":49.2758,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Sudan",
+    "gn:country_code":"IR",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":113840,
+    "gn:latitude":31.085,
+    "gn:longitude":49.2758,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"S\u016bd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u062f\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Kh\u0101deyn",
+        "Sodan Um\u016br",
+        "Kh\u0101den",
+        "S\u016bd\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Soodan",
+        "Khadain"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":113840,
+        "wk:page":"Sudan%2C_Iran"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5a87af77e7614b45ac5bfc82fc94ed1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719793,
+            "locality_id":1277048417,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1277048417,
+    "wof:lastmodified":1537643226,
+    "wof:name":"Sudan",
+    "wof:parent_id":1108719793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.2758,
+    31.085,
+    49.2758,
+    31.085
+],
+  "geometry": {"coordinates":[49.2758,31.085],"type":"Point"}
+}

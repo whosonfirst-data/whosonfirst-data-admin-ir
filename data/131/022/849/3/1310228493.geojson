@@ -1,0 +1,73 @@
+{
+  "id": 1310228493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.05976,27.2554,62.05976,27.2554",
+    "geom:latitude":27.2554,
+    "geom:longitude":62.05976,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Allahabad",
+    "gn:country_code":"IR",
+    "gn:dem":1151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11040329,
+    "gn:latitude":27.2554,
+    "gn:longitude":62.05976,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"All\u0101h\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0644\u0647 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "All\u0101h\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11040329
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7cc5a9639c87dd4c350ad11ee969df75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720389,
+            "locality_id":1310228493,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1310228493,
+    "wof:lastmodified":1537648701,
+    "wof:name":"Allahabad",
+    "wof:parent_id":1108720389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.05976,
+    27.2554,
+    62.05976,
+    27.2554
+],
+  "geometry": {"coordinates":[62.05976,27.2554],"type":"Point"}
+}

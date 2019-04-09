@@ -1,0 +1,74 @@
+{
+  "id": 1310696195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.96044,35.36571,48.96044,35.36571",
+    "geom:latitude":35.36571,
+    "geom:longitude":48.96044,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Varvazin",
+    "gn:country_code":"IR",
+    "gn:dem":1890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112127,
+    "gn:latitude":35.36571,
+    "gn:longitude":48.96044,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Varvaz\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u0648\u0632\u06cc\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Varvaz\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112127,
+        "wk:page":"Varvazin"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b29daeeb3a8ce4924269796b7fad666d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720349,
+            "locality_id":1310696195,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1310696195,
+    "wof:lastmodified":1537643051,
+    "wof:name":"Varvazin",
+    "wof:parent_id":1108720349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.96044000000001,
+    35.36571,
+    48.96044000000001,
+    35.36571
+],
+  "geometry": {"coordinates":[48.96044000000001,35.36571],"type":"Point"}
+}

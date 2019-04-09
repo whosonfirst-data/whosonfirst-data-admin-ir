@@ -1,0 +1,74 @@
+{
+  "id": 1226065589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.06361,30.17833,52.06361,30.17833",
+    "geom:latitude":30.17833,
+    "geom:longitude":52.06361,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Deh Kharabeh",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":2075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":46719,
+    "gn:latitude":30.17833,
+    "gn:longitude":52.06361,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Deh Khar\u0101beh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Deh Khar\u0101beh"
+    ],
+    "name:und_x_variant":[
+        "Qal\u2018eh Khar\u0101beh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":46719
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c9ee86fabc303233780947f4e9c4ab32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720421,
+            "locality_id":1226065589,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1226065589,
+    "wof:lastmodified":1537642630,
+    "wof:name":"Deh Kharabeh",
+    "wof:parent_id":1108720421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.06361,
+    30.17833,
+    52.06361,
+    30.17833
+],
+  "geometry": {"coordinates":[52.06361,30.17833],"type":"Point"}
+}

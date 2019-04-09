@@ -1,0 +1,73 @@
+{
+  "id": 1327115041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.0423,27.7703,56.0423,27.7703",
+    "geom:latitude":27.7703,
+    "geom:longitude":56.0423,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mazdan",
+    "gn:country_code":"IR",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6984337,
+    "gn:latitude":27.7703,
+    "gn:longitude":56.0423,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Mazd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0632\u062f\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Mazd\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108719863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6984337
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5cf0c58913de9d60bcd0c365f0ba459c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719863,
+            "locality_id":1327115041,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1327115041,
+    "wof:lastmodified":1537647839,
+    "wof:name":"Mazdan",
+    "wof:parent_id":1108719863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.0423,
+    27.7703,
+    56.0423,
+    27.7703
+],
+  "geometry": {"coordinates":[56.0423,27.7703],"type":"Point"}
+}

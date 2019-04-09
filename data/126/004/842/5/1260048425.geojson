@@ -1,0 +1,73 @@
+{
+  "id": 1260048425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.0627,33.405,47.0627,33.405",
+    "geom:latitude":33.405,
+    "geom:longitude":47.0627,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Khak Siah",
+    "gn:country_code":"IR",
+    "gn:dem":1115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6719826,
+    "gn:latitude":33.405,
+    "gn:longitude":47.0627,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Kh\u0101k S\u012b\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062e\u0627\u06a9 \u0633\u06cc\u0627\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Kh\u0101k S\u012b\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6719826
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d833ca7d973985907d2bcb25978e5205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720169,
+            "locality_id":1260048425,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1260048425,
+    "wof:lastmodified":1537647484,
+    "wof:name":"Khak Siah",
+    "wof:parent_id":1108720169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.0627,
+    33.405,
+    47.0627,
+    33.405
+],
+  "geometry": {"coordinates":[47.0627,33.405],"type":"Point"}
+}

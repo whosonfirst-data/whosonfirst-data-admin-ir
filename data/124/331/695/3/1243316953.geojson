@@ -1,0 +1,73 @@
+{
+  "id": 1243316953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.45134,36.53139,52.45134,36.53139",
+    "geom:latitude":36.53139,
+    "geom:longitude":52.45134,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Na'ijabad",
+    "gn:country_code":"IR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8688,
+    "gn:latitude":36.53139,
+    "gn:longitude":52.45134,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"N\u0101\u2019\u012bj\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0626\u064a\u062c \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "N\u0101\u2019\u012bj\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8688
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5c922b83392077777591ba2ef1d1c34b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719807,
+            "locality_id":1243316953,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1243316953,
+    "wof:lastmodified":1537640447,
+    "wof:name":"Na'ijabad",
+    "wof:parent_id":1108719807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.45134,
+    36.53139,
+    52.45134,
+    36.53139
+],
+  "geometry": {"coordinates":[52.45134,36.53139],"type":"Point"}
+}

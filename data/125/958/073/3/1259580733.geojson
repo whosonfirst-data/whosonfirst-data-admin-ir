@@ -1,0 +1,80 @@
+{
+  "id": 1259580733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.64843,37.27233,49.64843,37.27233",
+    "geom:latitude":37.27233,
+    "geom:longitude":49.64843,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Pachkenar",
+    "gn:country_code":"IR",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":29215,
+    "gn:latitude":37.27233,
+    "gn:longitude":49.64843,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"P\u0101chken\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "P\u0101cheh Ken\u0101r"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u0627\u0686\u0647 \u06a9\u0646\u0627\u0631",
+        "\u067e\u0627\u0686\u06a9\u0646\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "P\u0101cheh Ken\u0101r",
+        "\u067e\u0627\u0686\u0647 \u06a9\u0646\u0627\u0631",
+        "P\u0101chken\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":29215,
+        "wk:page":"Pach_Kenar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a961dd27cdef8d8f657fa784d1e7634b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720339,
+            "locality_id":1259580733,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1259580733,
+    "wof:lastmodified":1537641624,
+    "wof:name":"Pachkenar",
+    "wof:parent_id":1108720339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.64843,
+    37.27233,
+    49.64843,
+    37.27233
+],
+  "geometry": {"coordinates":[49.64843,37.27233],"type":"Point"}
+}

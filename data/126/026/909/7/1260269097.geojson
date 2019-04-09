@@ -1,0 +1,74 @@
+{
+  "id": 1260269097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.6655,33.9208,46.6655,33.9208",
+    "geom:latitude":33.9208,
+    "geom:longitude":46.6655,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Cheshmeh Velgeh",
+    "gn:country_code":"IR",
+    "gn:dem":1503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":28388,
+    "gn:latitude":33.9208,
+    "gn:longitude":46.6655,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Cheshmeh Velgeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0634\u0645\u0647 \u0648\u0644\u06af\u0647"
+    ],
+    "name:und_x_variant":[
+        "Cheshmeh-ye Velagah",
+        "Cheshmeh Velgeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108719983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":28388
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ef5e49edf9fb60e4ff0d2a7aa1820592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719983,
+            "locality_id":1260269097,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1260269097,
+    "wof:lastmodified":1537641536,
+    "wof:name":"Cheshmeh Velgeh",
+    "wof:parent_id":1108719983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.6655,
+    33.9208,
+    46.6655,
+    33.9208
+],
+  "geometry": {"coordinates":[46.6655,33.9208],"type":"Point"}
+}

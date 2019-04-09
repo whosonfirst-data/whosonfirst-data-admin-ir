@@ -1,0 +1,73 @@
+{
+  "id": 1260150573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.6287,31.5747,48.6287,31.5747",
+    "geom:latitude":31.5747,
+    "geom:longitude":48.6287,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Beyt-e Yabareh",
+    "gn:country_code":"IR",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6649420,
+    "gn:latitude":31.5747,
+    "gn:longitude":48.6287,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Beyt-e Yab\u0101reh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u062a \u06cc\u0628\u0627\u0631\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Beyt-e Yab\u0101reh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6649420
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bb166dab4739a36676fa3e620fc1bc86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719793,
+            "locality_id":1260150573,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1260150573,
+    "wof:lastmodified":1537647184,
+    "wof:name":"Beyt-e Yabareh",
+    "wof:parent_id":1108719793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.6287,
+    31.5747,
+    48.6287,
+    31.5747
+],
+  "geometry": {"coordinates":[48.6287,31.5747],"type":"Point"}
+}

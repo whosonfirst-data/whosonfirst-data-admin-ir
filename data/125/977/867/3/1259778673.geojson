@@ -1,0 +1,76 @@
+{
+  "id": 1259778673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.1638,37.3783,49.1638,37.3783",
+    "geom:latitude":37.3783,
+    "geom:longitude":49.1638,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Molk Sara",
+    "gn:country_code":"IR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6758036,
+    "gn:latitude":37.3783,
+    "gn:longitude":49.1638,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Molk Sar\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u06a9 \u0633\u0631\u0627"
+    ],
+    "name:fas_x_variant":[
+        "Molk Sar\u0101"
+    ],
+    "name:und_x_variant":[
+        "Molk Sar\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6758036
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1db227d71318242228217f9ba61d3000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720225,
+            "locality_id":1259778673,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1259778673,
+    "wof:lastmodified":1537647658,
+    "wof:name":"Molk Sara",
+    "wof:parent_id":1108720225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.1638,
+    37.3783,
+    49.1638,
+    37.3783
+],
+  "geometry": {"coordinates":[49.1638,37.3783],"type":"Point"}
+}

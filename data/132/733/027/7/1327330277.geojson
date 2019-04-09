@@ -1,0 +1,73 @@
+{
+  "id": 1327330277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.3252,28.8481,52.3252,28.8481",
+    "geom:latitude":28.8481,
+    "geom:longitude":52.3252,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Shahid Habib",
+    "gn:country_code":"IR",
+    "gn:dem":1259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6869232,
+    "gn:latitude":28.8481,
+    "gn:longitude":52.3252,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Shah\u012bd \u1e28ab\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u06cc\u062f \u062d\u0628\u06cc\u0628"
+    ],
+    "name:fas_x_variant":[
+        "Shah\u012bd \u1e28ab\u012bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108719991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6869232
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2e54fb680fb3492ea0d1170d524918c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719991,
+            "locality_id":1327330277,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1327330277,
+    "wof:lastmodified":1537647688,
+    "wof:name":"Shahid Habib",
+    "wof:parent_id":1108719991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.3252,
+    28.8481,
+    52.3252,
+    28.8481
+],
+  "geometry": {"coordinates":[52.3252,28.8481],"type":"Point"}
+}

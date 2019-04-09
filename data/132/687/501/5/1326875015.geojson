@@ -1,0 +1,74 @@
+{
+  "id": 1326875015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.99127,35.1713,49.99127,35.1713",
+    "geom:latitude":35.1713,
+    "geom:longitude":49.99127,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Sari Qash",
+    "gn:country_code":"IR",
+    "gn:dem":1784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":41776,
+    "gn:latitude":35.1713,
+    "gn:longitude":49.99127,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"S\u0101r\u012b Q\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0631\u06cc \u0642\u0627\u0634"
+    ],
+    "name:fas_x_variant":[
+        "S\u0101r\u012b Q\u0101sh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":41776,
+        "wk:page":"Sari_Qash"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"362985c028de361aef3a6edc63cd4c44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720407,
+            "locality_id":1326875015,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1326875015,
+    "wof:lastmodified":1537642356,
+    "wof:name":"Sari Qash",
+    "wof:parent_id":1108720407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.99127,
+    35.1713,
+    49.99127,
+    35.1713
+],
+  "geometry": {"coordinates":[49.99127,35.1713],"type":"Point"}
+}

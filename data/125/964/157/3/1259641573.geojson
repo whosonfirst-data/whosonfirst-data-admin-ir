@@ -1,0 +1,73 @@
+{
+  "id": 1259641573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.0,33.0,48.0,33.0",
+    "geom:latitude":33.0,
+    "geom:longitude":48.0,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Darreh-ye Deraz",
+    "gn:country_code":"IR",
+    "gn:dem":908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2023,
+    "gn:latitude":33.0,
+    "gn:longitude":48.0,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Darreh-ye Der\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u064e\u0631\u0650\u0651\u06c0 \u062f\u0650\u0631\u0627\u0632"
+    ],
+    "name:fas_x_variant":[
+        "Darreh-ye Der\u0101z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2023
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c91489ab664c14e1c83e3dc2591c91e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720307,
+            "locality_id":1259641573,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1259641573,
+    "wof:lastmodified":1537640197,
+    "wof:name":"Darreh-ye Deraz",
+    "wof:parent_id":1108720307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.0,
+    33.0,
+    48.0,
+    33.0
+],
+  "geometry": {"coordinates":[48.0,33.0],"type":"Point"}
+}

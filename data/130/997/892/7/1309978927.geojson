@@ -1,0 +1,74 @@
+{
+  "id": 1309978927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.46401,32.78927,48.46401,32.78927",
+    "geom:latitude":32.78927,
+    "geom:longitude":48.46401,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Nardidu",
+    "gn:country_code":"IR",
+    "gn:dem":512,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":86,
+    "gn:latitude":32.78927,
+    "gn:longitude":48.46401,
+    "gn:modification_date":"2016-01-06",
+    "gn:name":"Nard\u012bd\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0631\u062f\u06cc\u062f\u0648"
+    ],
+    "name:fas_x_variant":[
+        "Nard\u012bd\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":86
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d453bfdc97d3193aaf561afff1d5c60a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719811,
+            "locality_id":1309978927,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1309978927,
+    "wof:lastmodified":1537640120,
+    "wof:name":"Nardidu",
+    "wof:parent_id":1108719811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.46401,
+    32.78927,
+    48.46401,
+    32.78927
+],
+  "geometry": {"coordinates":[48.46401,32.78927],"type":"Point"}
+}

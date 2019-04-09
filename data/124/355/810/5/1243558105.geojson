@@ -1,0 +1,78 @@
+{
+  "id": 1243558105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.8207,38.8198,44.8207,38.8198",
+    "geom:latitude":38.8198,
+    "geom:longitude":44.8207,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Hoseynabad",
+    "gn:country_code":"IR",
+    "gn:dem":1427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":40375,
+    "gn:latitude":38.8198,
+    "gn:longitude":44.8207,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28oseyn\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u1e28oseyn\u0101b\u0101d"
+    ],
+    "name:fas_x_variant":[
+        "Sh\u016brjeh-ye \u1e28oseyn\u0101b\u0101d",
+        "\u062d\u0633\u06cc\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u062d\u0633\u06cc\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":40375,
+        "wk:page":"Shurjeh-ye_Hoseynabad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dee8122c4010a2b55e532e4523f91b4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720153,
+            "locality_id":1243558105,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1243558105,
+    "wof:lastmodified":1537642266,
+    "wof:name":"Hoseynabad",
+    "wof:parent_id":1108720153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.8207,
+    38.8198,
+    44.8207,
+    38.8198
+],
+  "geometry": {"coordinates":[44.8207,38.8198],"type":"Point"}
+}

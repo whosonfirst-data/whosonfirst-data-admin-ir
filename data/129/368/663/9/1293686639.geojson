@@ -1,0 +1,70 @@
+{
+  "id": 1293686639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.87111,29.5075,60.87111,29.5075",
+    "geom:latitude":29.5075,
+    "geom:longitude":60.87111,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Asgharabad",
+    "gn:country_code":"IR",
+    "gn:dem":1387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1336275,
+    "gn:latitude":29.5075,
+    "gn:longitude":60.87111,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"A\u015fghar\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "A\u015fghar\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1336275
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0e5ec302e5b6f95988866d33bd6325ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720517,
+            "locality_id":1293686639,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1293686639,
+    "wof:lastmodified":1537647155,
+    "wof:name":"Asgharabad",
+    "wof:parent_id":1108720517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.87111,
+    29.5075,
+    60.87111,
+    29.5075
+],
+  "geometry": {"coordinates":[60.87111,29.5075],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1226121707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.50042,34.75952,47.50042,34.75952",
+    "geom:latitude":34.75952,
+    "geom:longitude":47.50042,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Safa'iyeh",
+    "gn:country_code":"IR",
+    "gn:dem":1591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":115936,
+    "gn:latitude":34.75952,
+    "gn:longitude":47.50042,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"\u015eaf\u0101\u2019\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0647 \u06af\u062f\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0635\u0641\u0627\u0626\u06cc\u0647",
+        "Sh\u0101h God\u0101r",
+        "\u0634\u0627\u06af\u062f\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Sh\u0101hgud\u0101r",
+        "\u015eaf\u0101\u2019\u012byeh",
+        "Sh\u0101god\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":115936
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5945a6f84e81f155a0a346208cc6353d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720463,
+            "locality_id":1226121707,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1226121707,
+    "wof:lastmodified":1537643404,
+    "wof:name":"Safa'iyeh",
+    "wof:parent_id":1108720463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.50042,
+    34.75952,
+    47.50042,
+    34.75952
+],
+  "geometry": {"coordinates":[47.50042,34.75952],"type":"Point"}
+}

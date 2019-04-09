@@ -1,0 +1,75 @@
+{
+  "id": 1326614215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.03235,35.35612,49.03235,35.35612",
+    "geom:latitude":35.35612,
+    "geom:longitude":49.03235,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Takyeh",
+    "gn:country_code":"IR",
+    "gn:dem":1802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":113394,
+    "gn:latitude":35.35612,
+    "gn:longitude":49.03235,
+    "gn:modification_date":"2018-07-02",
+    "gn:name":"Takyeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u06a9\u06cc\u0647"
+    ],
+    "name:und_x_variant":[
+        "Takiyeh",
+        "Takyeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":113394,
+        "wk:page":"Takyeh,_Hamadan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"752bab81e47b0780369fdd8787e4389c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720349,
+            "locality_id":1326614215,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1326614215,
+    "wof:lastmodified":1537643187,
+    "wof:name":"Takyeh",
+    "wof:parent_id":1108720349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.03235,
+    35.35612000000001,
+    49.03235,
+    35.35612000000001
+],
+  "geometry": {"coordinates":[49.03235,35.35612000000001],"type":"Point"}
+}

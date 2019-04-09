@@ -1,0 +1,78 @@
+{
+  "id": 1226480807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.26646,35.52438,49.26646,35.52438",
+    "geom:latitude":35.52438,
+    "geom:longitude":49.26646,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Qahvaj",
+    "gn:country_code":"IR",
+    "gn:dem":2062,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":120671,
+    "gn:latitude":35.52438,
+    "gn:longitude":49.26646,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Qahvaj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0647\u0648\u062c"
+    ],
+    "name:und_x_variant":[
+        "Ghahooj",
+        "Qahvej",
+        "Qahwa",
+        "Qahwach",
+        "Qahvaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108719913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":120671,
+        "wk:page":"Qahvaj"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"497b43ec70a26923f2fdcf527dcd3a08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719913,
+            "locality_id":1226480807,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1226480807,
+    "wof:lastmodified":1537643881,
+    "wof:name":"Qahvaj",
+    "wof:parent_id":1108719913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.26646,
+    35.52438,
+    49.26646,
+    35.52438
+],
+  "geometry": {"coordinates":[49.26646,35.52438],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1210001343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.26,36.93055,50.26,36.93055",
+    "geom:latitude":36.93055,
+    "geom:longitude":50.26,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Vapar Sara",
+    "gn:country_code":"IR",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7620625,
+    "gn:latitude":36.93055,
+    "gn:longitude":50.26,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Vapar Sar\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Vapar Sar\u0101"
+    ],
+    "name:fas_x_variant":[
+        "\u0648\u067e\u0631 \u0633\u0631\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u0648\u067e\u0631 \u0633\u0631\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7620625
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1f7a929360ad2df6808013afe7469174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720365,
+            "locality_id":1210001343,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1210001343,
+    "wof:lastmodified":1537648402,
+    "wof:name":"Vapar Sara",
+    "wof:parent_id":1108720365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.26,
+    36.93055,
+    50.26,
+    36.93055
+],
+  "geometry": {"coordinates":[50.26,36.93055],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209221709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.10863,31.76421,51.10863,31.76421",
+    "geom:latitude":31.76421,
+    "geom:longitude":51.10863,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Vastegan",
+    "gn:country_code":"IR",
+    "gn:dem":2285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112092,
+    "gn:latitude":31.76421,
+    "gn:longitude":51.10863,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Vasteg\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u064e\u0634\u062a\u0650 \u06af\u0648\u0645"
+    ],
+    "name:fas_x_variant":[
+        "Vasteg\u0101n",
+        "\u0648\u0633\u062a\u06af\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Dasht-e G\u016bm",
+        "Dasht-i-G\u016bn",
+        "\u0648\u0633\u062a\u06af\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112092
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0eb6a5da6b02a29db0b866ee4281934d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209221709
+        }
+    ],
+    "wof:id":1209221709,
+    "wof:lastmodified":1537643046,
+    "wof:name":"Vastegan",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.10863,
+    31.76421,
+    51.10863,
+    31.76421
+],
+  "geometry": {"coordinates":[51.10863,31.76421],"type":"Point"}
+}

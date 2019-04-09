@@ -1,0 +1,73 @@
+{
+  "id": 1192962587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.05628,36.58492,52.05628,36.58492",
+    "geom:latitude":36.58492,
+    "geom:longitude":52.05628,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Shahrak-e Tamishan",
+    "gn:country_code":"IR",
+    "gn:dem":-20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535282,
+    "gn:latitude":36.58492,
+    "gn:longitude":52.05628,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Shahrak-e Tam\u012bsh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0643 \u062a\u0645\u06cc\u0634\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Shahrak-e Tam\u012bsh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535282
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"20f765a3a4df4ddbaae9079c46dd9010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720283,
+            "locality_id":1192962587,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1192962587,
+    "wof:lastmodified":1537648580,
+    "wof:name":"Shahrak-e Tamishan",
+    "wof:parent_id":1108720283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.05628,
+    36.58492,
+    52.05628,
+    36.58492
+],
+  "geometry": {"coordinates":[52.05628,36.58492],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1309679753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.71167,35.51266,54.71167,35.51266",
+    "geom:latitude":35.51266,
+    "geom:longitude":54.71167,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Abgareh",
+    "gn:country_code":"IR",
+    "gn:dem":1412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":145012,
+    "gn:latitude":35.51266,
+    "gn:longitude":54.71167,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"\u0100bg\u0101reh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0628\u0643\u0627\u0631\u0650\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0100bk\u0101reh",
+        "\u0100bg\u0101reh",
+        "\u0622\u0628\u06af\u0627\u0631\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0100bg\u0101reh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672309,
+        1108720441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145012
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"69662d2ad7163ab8c55349b15fce62a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720441,
+            "locality_id":1309679753,
+            "region_id":85672309
+        }
+    ],
+    "wof:id":1309679753,
+    "wof:lastmodified":1537646325,
+    "wof:name":"Abgareh",
+    "wof:parent_id":1108720441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.71167,
+    35.51266,
+    54.71167,
+    35.51266
+],
+  "geometry": {"coordinates":[54.71167,35.51266],"type":"Point"}
+}

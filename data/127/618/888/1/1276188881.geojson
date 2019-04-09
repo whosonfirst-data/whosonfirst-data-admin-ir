@@ -1,0 +1,74 @@
+{
+  "id": 1276188881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.41879,36.30326,47.41879,36.30326",
+    "geom:latitude":36.30326,
+    "geom:longitude":47.41879,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Qezeljeh",
+    "gn:country_code":"IR",
+    "gn:dem":2044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":26459,
+    "gn:latitude":36.30326,
+    "gn:longitude":47.41879,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Qezeljeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u0644\u06cc\u062c\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Qerel\u012bjeh",
+        "\u0642\u0632\u0644\u062c\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108719889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":26459
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bd39ad3c3d172f4335244e61447f8b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719889,
+            "locality_id":1276188881,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1276188881,
+    "wof:lastmodified":1537641396,
+    "wof:name":"Qezeljeh",
+    "wof:parent_id":1108719889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.41879,
+    36.30326,
+    47.41879,
+    36.30326
+],
+  "geometry": {"coordinates":[47.41879,36.30326],"type":"Point"}
+}

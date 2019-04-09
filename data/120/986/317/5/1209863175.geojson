@@ -1,0 +1,73 @@
+{
+  "id": 1209863175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.33647,31.41071,51.33647,31.41071",
+    "geom:latitude":31.41071,
+    "geom:longitude":51.33647,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Sirvah",
+    "gn:country_code":"IR",
+    "gn:dem":2345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8304605,
+    "gn:latitude":31.41071,
+    "gn:longitude":51.33647,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"S\u012brvah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0631\u0648\u0647"
+    ],
+    "name:und_x_variant":[
+        "S\u012brvah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8304605
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c5138a915a249c80f0d3e72149832cdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720415,
+            "locality_id":1209863175,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1209863175,
+    "wof:lastmodified":1537648539,
+    "wof:name":"Sirvah",
+    "wof:parent_id":1108720415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.33647,
+    31.41071,
+    51.33647,
+    31.41071
+],
+  "geometry": {"coordinates":[51.33647,31.41071],"type":"Point"}
+}

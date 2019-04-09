@@ -1,0 +1,80 @@
+{
+  "id": 1259723739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.31086,36.6392,53.31086,36.6392",
+    "geom:latitude":36.6392,
+    "geom:longitude":53.31086,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kalbestan",
+    "gn:country_code":"IR",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1567,
+    "gn:latitude":36.6392,
+    "gn:longitude":53.31086,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kalbest\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u064e\u0644\u0650\u0633\u062a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Kalbest\u0101n",
+        "Kalest\u0101n",
+        "\u06a9\u0644\u0628\u0633\u062a\u0627\u0646",
+        "Gol Best\u0101n",
+        "\u06af\u064f\u0644 \u0628\u0650\u0633\u062a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u06a9\u0644\u0628\u0633\u062a\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1567
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dd3d4e30851755eada34e1412219d296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720275,
+            "locality_id":1259723739,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1259723739,
+    "wof:lastmodified":1537640172,
+    "wof:name":"Kalbestan",
+    "wof:parent_id":1108720275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.31086,
+    36.6392,
+    53.31086,
+    36.6392
+],
+  "geometry": {"coordinates":[53.31086,36.6392],"type":"Point"}
+}

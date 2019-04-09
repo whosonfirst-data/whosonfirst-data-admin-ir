@@ -1,0 +1,78 @@
+{
+  "id": 1326752771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.15469,30.43237,51.15469,30.43237",
+    "geom:latitude":30.43237,
+    "geom:longitude":51.15469,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Pazin",
+    "gn:country_code":"IR",
+    "gn:dem":1148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":121198,
+    "gn:latitude":30.43237,
+    "gn:longitude":51.15469,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Paz\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Pez\u012bn"
+    ],
+    "name:fas_x_variant":[
+        "Paz\u012bn",
+        "\u067e\u0632\u06cc\u0646"
+    ],
+    "name:und_x_variant":[
+        "Paz\u012bn",
+        "\u067e\u0632\u06cc\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":121198
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"16ee31fdf89141d7dcdee24a9616fe56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720015,
+            "locality_id":1326752771,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1326752771,
+    "wof:lastmodified":1537643929,
+    "wof:name":"Pazin",
+    "wof:parent_id":1108720015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.15469,
+    30.43237,
+    51.15469,
+    30.43237
+],
+  "geometry": {"coordinates":[51.15469,30.43237],"type":"Point"}
+}

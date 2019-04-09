@@ -1,0 +1,74 @@
+{
+  "id": 1293185699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.99528,37.60222,48.99528,37.60222",
+    "geom:latitude":37.60222,
+    "geom:longitude":48.99528,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Gavand-e Sar",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":37220,
+    "gn:latitude":37.60222,
+    "gn:longitude":48.99528,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Gav\u0101nd-e Sar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Gav\u0101nd-e Sar"
+    ],
+    "name:und_x_variant":[
+        "Gav\u0101ndeh Sar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":37220
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fe6c4dbf5afe2cc4dde3f287a87d719c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720353,
+            "locality_id":1293185699,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1293185699,
+    "wof:lastmodified":1537642073,
+    "wof:name":"Gavand-e Sar",
+    "wof:parent_id":1108720353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.99528,
+    37.60222,
+    48.99528,
+    37.60222
+],
+  "geometry": {"coordinates":[48.99528,37.60222],"type":"Point"}
+}

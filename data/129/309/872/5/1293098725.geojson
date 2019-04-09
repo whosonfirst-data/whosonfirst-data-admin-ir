@@ -1,0 +1,73 @@
+{
+  "id": 1293098725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.48186,26.1721,59.48186,26.1721",
+    "geom:latitude":26.1721,
+    "geom:longitude":59.48186,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sarizeh",
+    "gn:country_code":"IR",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9100058,
+    "gn:latitude":26.1721,
+    "gn:longitude":59.48186,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Sar\u012bzeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u06cc\u0632\u0647"
+    ],
+    "name:und_x_variant":[
+        "Sar\u012bzeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9100058
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2dd3f6368d73885c761a70c408c96c6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720271,
+            "locality_id":1293098725,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1293098725,
+    "wof:lastmodified":1537648629,
+    "wof:name":"Sarizeh",
+    "wof:parent_id":1108720271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.48186,
+    26.1721,
+    59.48186,
+    26.1721
+],
+  "geometry": {"coordinates":[59.48186,26.1721],"type":"Point"}
+}

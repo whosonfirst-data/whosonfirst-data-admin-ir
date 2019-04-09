@@ -1,0 +1,75 @@
+{
+  "id": 1344139663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.3275,32.75444,49.3275,32.75444",
+    "geom:latitude":32.75444,
+    "geom:longitude":49.3275,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Charof Mudu",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":138943,
+    "gn:latitude":32.75444,
+    "gn:longitude":49.3275,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ch\u0101rof M\u016bd\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Ch\u0101rof M\u016bd\u016b"
+    ],
+    "name:und_x_variant":[
+        "M\u016bd\u016b",
+        "Ch\u0101roft M\u016bd\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":138943
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bc2cce0e3bfd36333fc8e5ba3be4f556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719969,
+            "locality_id":1344139663,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1344139663,
+    "wof:lastmodified":1537645728,
+    "wof:name":"Charof Mudu",
+    "wof:parent_id":1108719969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.3275,
+    32.75444,
+    49.3275,
+    32.75444
+],
+  "geometry": {"coordinates":[49.3275,32.75444],"type":"Point"}
+}

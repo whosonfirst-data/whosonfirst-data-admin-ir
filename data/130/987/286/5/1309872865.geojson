@@ -1,0 +1,79 @@
+{
+  "id": 1309872865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.1198,35.5314,51.1198,35.5314",
+    "geom:latitude":35.5314,
+    "geom:longitude":51.1198,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Abu Taleb",
+    "gn:country_code":"IR",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":407011,
+    "gn:latitude":35.5314,
+    "gn:longitude":51.1198,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Ab\u016b \u0162\u0101leb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u062f\u0631\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u062f\u0650\u0631\u064e\u0646",
+        "\u0100dar\u0101n",
+        "\u0627\u0628\u0648 \u0637\u0627\u0644\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u0100deran",
+        "Ab\u016b \u0162\u0101leb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672313,
+        1108720355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":407011
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2a0995ea63c210eaf093e0ad41121df5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720355,
+            "locality_id":1309872865,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1309872865,
+    "wof:lastmodified":1537646628,
+    "wof:name":"Abu Taleb",
+    "wof:parent_id":1108720355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.1198,
+    35.5314,
+    51.1198,
+    35.5314
+],
+  "geometry": {"coordinates":[51.1198,35.5314],"type":"Point"}
+}

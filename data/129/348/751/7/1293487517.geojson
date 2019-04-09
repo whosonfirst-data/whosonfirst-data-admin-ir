@@ -1,0 +1,73 @@
+{
+  "id": 1293487517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.6548,30.9517,61.6548,30.9517",
+    "geom:latitude":30.9517,
+    "geom:longitude":61.6548,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gholam Heydar",
+    "gn:country_code":"IR",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6677881,
+    "gn:latitude":30.9517,
+    "gn:longitude":61.6548,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ghol\u0101m \u1e28eydar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u063a\u0644\u0627\u0645 \u062d\u06cc\u062f\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Ghol\u0101m \u1e28eydar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6677881
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dd455c6c1c6b9b5aa86b1b6502c59e10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720515,
+            "locality_id":1293487517,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1293487517,
+    "wof:lastmodified":1537647351,
+    "wof:name":"Gholam Heydar",
+    "wof:parent_id":1108720515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.6548,
+    30.9517,
+    61.6548,
+    30.9517
+],
+  "geometry": {"coordinates":[61.6548,30.9517],"type":"Point"}
+}

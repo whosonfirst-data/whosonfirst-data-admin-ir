@@ -1,0 +1,73 @@
+{
+  "id": 1326930411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.68237,26.86732,61.68237,26.86732",
+    "geom:latitude":26.86732,
+    "geom:longitude":61.68237,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Landi-ye Bala",
+    "gn:country_code":"IR",
+    "gn:dem":1522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7060938,
+    "gn:latitude":26.86732,
+    "gn:longitude":61.68237,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Land\u012b-ye B\u0101l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0646\u062f\u06cc \u0628\u0627\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "Land\u012b-ye B\u0101l\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7060938
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"baa309be2d1cb80a3036d79e7142022b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720389,
+            "locality_id":1326930411,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1326930411,
+    "wof:lastmodified":1537647982,
+    "wof:name":"Landi-ye Bala",
+    "wof:parent_id":1108720389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.68237,
+    26.86732,
+    61.68237,
+    26.86732
+],
+  "geometry": {"coordinates":[61.68237,26.86732],"type":"Point"}
+}

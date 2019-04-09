@@ -1,0 +1,80 @@
+{
+  "id": 1243125569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.70533,36.70763,53.70533,36.70763",
+    "geom:latitude":36.70763,
+    "geom:longitude":53.70533,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Valeh Muzu",
+    "gn:country_code":"IR",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":385627,
+    "gn:latitude":36.70763,
+    "gn:longitude":53.70533,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Valeh M\u016bz\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u064e\u0644\u064e\u0645\u0627\u0632\u0648"
+    ],
+    "name:fas_x_variant":[
+        "Valam\u0101z\u016b",
+        "Valeh M\u016bz\u016b",
+        "\u0648\u0644\u0647 \u0645\u0648\u0632\u0648"
+    ],
+    "name:und_x_variant":[
+        "Valeh M\u016bz\u016b",
+        "\u0648\u0644\u0647 \u0645\u0648\u0632\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385627,
+        "wk:page":"Valamazu"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dfa9451e495e4b0ce0dedc88112b6a74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720019,
+            "locality_id":1243125569,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1243125569,
+    "wof:lastmodified":1537646433,
+    "wof:name":"Valeh Muzu",
+    "wof:parent_id":1108720019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.70533,
+    36.70763,
+    53.70533,
+    36.70763
+],
+  "geometry": {"coordinates":[53.70533,36.70763],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1260161493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.62083,27.05167,53.62083,27.05167",
+    "geom:latitude":27.05167,
+    "geom:longitude":53.62083,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Khargu",
+    "gn:country_code":"IR",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":67829,
+    "gn:latitude":27.05167,
+    "gn:longitude":53.62083,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Kharg\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u064e\u0631\u06af\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u062e\u064e\u0631 \u0643\u0648\u0647",
+        "\u0643\u064e\u0631\u06af\u0648",
+        "Kharg\u016b"
+    ],
+    "name:und_x_variant":[
+        "Karg\u016b",
+        "Khar K\u016bh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":67829
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"97a855c77a05fc721785c04747e9422a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720025,
+            "locality_id":1260161493,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1260161493,
+    "wof:lastmodified":1537642854,
+    "wof:name":"Khargu",
+    "wof:parent_id":1108720025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.62083000000001,
+    27.05167,
+    53.62083000000001,
+    27.05167
+],
+  "geometry": {"coordinates":[53.62083000000001,27.05167],"type":"Point"}
+}

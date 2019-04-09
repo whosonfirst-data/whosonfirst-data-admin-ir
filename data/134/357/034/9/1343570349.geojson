@@ -1,0 +1,79 @@
+{
+  "id": 1343570349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.8012,36.914,45.8012,36.914",
+    "geom:latitude":36.914,
+    "geom:longitude":45.8012,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hajji Khvosh",
+    "gn:country_code":"IR",
+    "gn:dem":1289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":410522,
+    "gn:latitude":36.914,
+    "gn:longitude":45.8012,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u1e28\u0101jj\u012b Khvosh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u064e\u062c\u0651\u062a \u062e\u064f\u0648\u0634"
+    ],
+    "name:fas_x_variant":[
+        "\u062d\u0627\u062c\u06cc \u062e\u0648\u0634",
+        "\u1e28\u0101jj\u012b Khvosh",
+        "\u062d\u0627\u062c\u0651\u06cc \u062e\u0648\u064f\u0634"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ajjt Khowsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":410522,
+        "wk:page":"Hajji_Khvosh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"309d93d421e75a16c0563acb4906a793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720193,
+            "locality_id":1343570349,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1343570349,
+    "wof:lastmodified":1537646640,
+    "wof:name":"Hajji Khvosh",
+    "wof:parent_id":1108720193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.8012,
+    36.914,
+    45.8012,
+    36.914
+],
+  "geometry": {"coordinates":[45.8012,36.914],"type":"Point"}
+}

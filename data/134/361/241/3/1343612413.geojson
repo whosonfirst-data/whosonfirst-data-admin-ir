@@ -1,0 +1,75 @@
+{
+  "id": 1343612413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.69559,33.45094,54.69559,33.45094",
+    "geom:latitude":33.45094,
+    "geom:longitude":54.69559,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Baziab",
+    "gn:country_code":"IR",
+    "gn:dem":1277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":140969,
+    "gn:latitude":33.45094,
+    "gn:longitude":54.69559,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"B\u0101z\u012b\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "B\u0101zy\u0101b"
+    ],
+    "name:fas_x_variant":[
+        "B\u0101z\u012b\u0101b",
+        "\u0628\u0627\u0632\u064a\u0627\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140969,
+        "wk:page":"Baziab"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2c68644cf6e405b6b8503959e465eccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720255,
+            "locality_id":1343612413,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1343612413,
+    "wof:lastmodified":1537645927,
+    "wof:name":"Baziab",
+    "wof:parent_id":1108720255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.69559,
+    33.45094,
+    54.69559,
+    33.45094
+],
+  "geometry": {"coordinates":[54.69559,33.45094],"type":"Point"}
+}

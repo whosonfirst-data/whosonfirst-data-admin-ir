@@ -1,0 +1,67 @@
+{
+  "id": 1242807589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.1925,33.71111,59.1925,33.71111",
+    "geom:latitude":33.71111,
+    "geom:longitude":59.1925,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Zebar",
+    "gn:country_code":"IR",
+    "gn:dem":1466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":21519,
+    "gn:latitude":33.71111,
+    "gn:longitude":59.1925,
+    "gn:modification_date":"2015-08-06",
+    "gn:name":"Zebar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108720313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":21519
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bd5e8778da1aabee068011a350397c40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720313,
+            "locality_id":1242807589,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1242807589,
+    "wof:lastmodified":1536732774,
+    "wof:name":"Zebar",
+    "wof:parent_id":1108720313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.1925,
+    33.71111,
+    59.1925,
+    33.71111
+],
+  "geometry": {"coordinates":[59.1925,33.71111],"type":"Point"}
+}

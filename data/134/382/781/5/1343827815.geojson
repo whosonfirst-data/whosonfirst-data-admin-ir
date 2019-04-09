@@ -1,0 +1,78 @@
+{
+  "id": 1343827815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.18613,32.28761,49.18613,32.28761",
+    "geom:latitude":32.28761,
+    "geom:longitude":49.18613,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Sar Masjed",
+    "gn:country_code":"IR",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":36335,
+    "gn:latitude":32.28761,
+    "gn:longitude":49.18613,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Sar Masjed",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0645\u0686"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0631 \u0645\u0633\u062c\u062f"
+    ],
+    "name:und_x_variant":[
+        "Sarmach",
+        "Sar Masjed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":36335,
+        "wk:page":"Sarmach"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bcd2e0f8b5c4b3aeea5d82b8003ed3cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720177,
+            "locality_id":1343827815,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1343827815,
+    "wof:lastmodified":1537642002,
+    "wof:name":"Sar Masjed",
+    "wof:parent_id":1108720177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.18613,
+    32.28761,
+    49.18613,
+    32.28761
+],
+  "geometry": {"coordinates":[49.18613,32.28761],"type":"Point"}
+}

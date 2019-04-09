@@ -1,0 +1,73 @@
+{
+  "id": 1209611809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.89965,37.43729,48.89965,37.43729",
+    "geom:latitude":37.43729,
+    "geom:longitude":48.89965,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Beyeh Chal",
+    "gn:country_code":"IR",
+    "gn:dem":1005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":36991,
+    "gn:latitude":37.43729,
+    "gn:longitude":48.89965,
+    "gn:modification_date":"2016-01-06",
+    "gn:name":"Beyeh Ch\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0647 \u0686\u0627\u0644"
+    ],
+    "name:fas_x_variant":[
+        "B\u012b\u0101ch\u0101l",
+        "B\u012byeh Ch\u0101l",
+        "\u0628\u06cc\u0627\u0686\u0627\u0644"
+    ],
+    "name:und_x_variant":[
+        "Beyeh Ch\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":36991,
+        "wk:page":"Biachal"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"04cff3c3995714c956454c2d43108b17",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209611809
+        }
+    ],
+    "wof:id":1209611809,
+    "wof:lastmodified":1537642051,
+    "wof:name":"Beyeh Chal",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.89965,
+    37.43729,
+    48.89965,
+    37.43729
+],
+  "geometry": {"coordinates":[48.89965,37.43729],"type":"Point"}
+}

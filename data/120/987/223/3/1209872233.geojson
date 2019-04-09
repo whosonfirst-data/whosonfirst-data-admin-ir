@@ -1,0 +1,74 @@
+{
+  "id": 1209872233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.16725,33.21869,49.16725,33.21869",
+    "geom:latitude":33.21869,
+    "geom:longitude":49.16725,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Rashidabad",
+    "gn:country_code":"IR",
+    "gn:dem":1884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":32237,
+    "gn:latitude":33.21869,
+    "gn:longitude":49.16725,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Rash\u012bd\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u0634\u06cc\u062f \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Rash\u012bd\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":32237,
+        "wk:page":"Rashidabad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"10d1b37a18028c3690af3d7a4a270db4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719803,
+            "locality_id":1209872233,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1209872233,
+    "wof:lastmodified":1537641774,
+    "wof:name":"Rashidabad",
+    "wof:parent_id":1108719803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.16725,
+    33.21869,
+    49.16725,
+    33.21869
+],
+  "geometry": {"coordinates":[49.16725,33.21869],"type":"Point"}
+}

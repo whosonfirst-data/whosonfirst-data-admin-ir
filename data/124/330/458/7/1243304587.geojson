@@ -1,0 +1,76 @@
+{
+  "id": 1243304587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.81454,33.56558,49.81454,33.56558",
+    "geom:latitude":33.56558,
+    "geom:longitude":49.81454,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Borjak",
+    "gn:country_code":"IR",
+    "gn:dem":2090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":140084,
+    "gn:latitude":33.56558,
+    "gn:longitude":49.81454,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Borjak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u062c\u06a9"
+    ],
+    "name:und_x_variant":[
+        "Burjak",
+        "\u0628\u0631\u062c\u06a9",
+        "Borjak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140084,
+        "wk:page":"Borjak%2C_Markazi"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2d7ce195443f6ed09d74c588783e8f20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720137,
+            "locality_id":1243304587,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1243304587,
+    "wof:lastmodified":1537645841,
+    "wof:name":"Borjak",
+    "wof:parent_id":1108720137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.81454,
+    33.56558,
+    49.81454,
+    33.56558
+],
+  "geometry": {"coordinates":[49.81454,33.56558],"type":"Point"}
+}

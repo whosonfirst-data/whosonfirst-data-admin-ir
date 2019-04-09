@@ -1,0 +1,74 @@
+{
+  "id": 1243122501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.83472,30.78028,56.83472,30.78028",
+    "geom:latitude":30.78028,
+    "geom:longitude":56.83472,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Dar-e Adami",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":2482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":137944,
+    "gn:latitude":30.78028,
+    "gn:longitude":56.83472,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dar-e \u0100dam\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Dar-e \u0100dam\u012b"
+    ],
+    "name:und_x_variant":[
+        "Darreh \u0100dam\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":137944
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6af3cd25daea027b1ec860871ae5479a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720347,
+            "locality_id":1243122501,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1243122501,
+    "wof:lastmodified":1537645628,
+    "wof:name":"Dar-e Adami",
+    "wof:parent_id":1108720347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.83472,
+    30.78028,
+    56.83472,
+    30.78028
+],
+  "geometry": {"coordinates":[56.83472,30.78028],"type":"Point"}
+}

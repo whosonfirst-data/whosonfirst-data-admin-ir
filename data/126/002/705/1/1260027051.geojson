@@ -1,0 +1,80 @@
+{
+  "id": 1260027051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.67224,32.99096,49.67224,32.99096",
+    "geom:latitude":32.99096,
+    "geom:longitude":49.67224,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Tazreh",
+    "gn:country_code":"IR",
+    "gn:dem":2207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":33398,
+    "gn:latitude":32.99096,
+    "gn:longitude":49.67224,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"\u0162azreh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0162arzeh"
+    ],
+    "name:fas_x_variant":[
+        "\u0637\u0631\u0632\u0647",
+        "\u0637\u0632\u0631\u0647",
+        "\u062a\u0632\u0631\u0647"
+    ],
+    "name:und_x_variant":[
+        "Tazareh",
+        "\u0637\u0631\u0632\u0647",
+        "\u0162azreh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":33398
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"938f7e772c028b2be0c1445cfd1a10a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719803,
+            "locality_id":1260027051,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1260027051,
+    "wof:lastmodified":1537641866,
+    "wof:name":"Tazreh",
+    "wof:parent_id":1108719803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.67224,
+    32.99096,
+    49.67224,
+    32.99096
+],
+  "geometry": {"coordinates":[49.67224,32.99096],"type":"Point"}
+}

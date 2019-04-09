@@ -1,0 +1,77 @@
+{
+  "id": 1326800469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.30456,32.32957,49.30456,32.32957",
+    "geom:latitude":32.32957,
+    "geom:longitude":49.30456,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Mahmudabad",
+    "gn:country_code":"IR",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":36543,
+    "gn:latitude":32.32957,
+    "gn:longitude":49.30456,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Ma\u1e29m\u016bd\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "H\u0101rkaleh-ye Mo\u1e29ammad Ja\u2018far"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u062d\u0645\u0648\u062f \u0622\u0628\u0627\u062f",
+        "\u0647\u0627\u0631\u06a9\u0644\u0647 \u0645\u062d\u0645\u062f \u062c\u0639\u0641\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29m\u016bd\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":36543
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0106bcb5a468f3992477a0a72cc57ff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720177,
+            "locality_id":1326800469,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1326800469,
+    "wof:lastmodified":1537642016,
+    "wof:name":"Mahmudabad",
+    "wof:parent_id":1108720177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.30456,
+    32.32957,
+    49.30456,
+    32.32957
+],
+  "geometry": {"coordinates":[49.30456,32.32957],"type":"Point"}
+}

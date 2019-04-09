@@ -1,0 +1,74 @@
+{
+  "id": 1344264027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.76056,31.681,50.76056,31.681",
+    "geom:latitude":31.681,
+    "geom:longitude":50.76056,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Shahrak-e Sunk",
+    "gn:country_code":"IR",
+    "gn:dem":1186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8534615,
+    "gn:latitude":31.681,
+    "gn:longitude":50.76056,
+    "gn:modification_date":"2016-12-04",
+    "gn:name":"Shahrak-e S\u016bnk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u06a9 \u0633\u0648\u0646\u06a9"
+    ],
+    "name:und_x_variant":[
+        "Shahrak-e S\u016bnk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672319,
+        1108720189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8534615,
+        "wk:page":"Shahrak-e_Sunk"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4b28481177bd5aa85bb89ff91b8ce8fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720189,
+            "locality_id":1344264027,
+            "region_id":85672319
+        }
+    ],
+    "wof:id":1344264027,
+    "wof:lastmodified":1537648575,
+    "wof:name":"Shahrak-e Sunk",
+    "wof:parent_id":1108720189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.76056,
+    31.681,
+    50.76056,
+    31.681
+],
+  "geometry": {"coordinates":[50.76056,31.681],"type":"Point"}
+}

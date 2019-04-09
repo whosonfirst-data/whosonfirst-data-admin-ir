@@ -1,0 +1,79 @@
+{
+  "id": 1276624541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.42139,32.57114,48.42139,32.57114",
+    "geom:latitude":32.57114,
+    "geom:longitude":48.42139,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Shahid Beheshti",
+    "gn:country_code":"IR",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7414303,
+    "gn:latitude":32.57114,
+    "gn:longitude":48.42139,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Shah\u012bd Behesht\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Shahrak-e Shah\u012bd Behesht\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u0647\u0631\u06a9 \u0634\u0647\u06cc\u062f \u0628\u0647\u0634\u062a\u06cc",
+        "\u0634\u0647\u06cc\u062f \u0628\u0647\u0634\u062a\u06cc",
+        "\u067e\u0627\u067e\u06cc \u06a9\u0645"
+    ],
+    "name:und_x_variant":[
+        "Shah\u012bd Behesht\u012b",
+        "P\u0101p\u012b Kam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7414303
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6c893b97a38a531a92e43f51d9f21e15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719811,
+            "locality_id":1276624541,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1276624541,
+    "wof:lastmodified":1537648158,
+    "wof:name":"Shahid Beheshti",
+    "wof:parent_id":1108719811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.42139,
+    32.57114,
+    48.42139,
+    32.57114
+],
+  "geometry": {"coordinates":[48.42139,32.57114],"type":"Point"}
+}

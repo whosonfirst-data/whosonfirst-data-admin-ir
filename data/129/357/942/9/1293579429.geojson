@@ -1,0 +1,77 @@
+{
+  "id": 1293579429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.88976,37.2378,49.88976,37.2378",
+    "geom:latitude":37.2378,
+    "geom:longitude":49.88976,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Tajan",
+    "gn:country_code":"IR",
+    "gn:dem":-5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":113548,
+    "gn:latitude":37.2378,
+    "gn:longitude":49.88976,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Tajan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u062c\u0646"
+    ],
+    "name:und_x_variant":[
+        "Tadzhin",
+        "T\u0101j\u012bn",
+        "Tajan",
+        "\u062a\u062c\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108719833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":113548,
+        "wk:page":"Tajan,_Gilan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e214e37a8e3dd30865c0126fbcea130b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719833,
+            "locality_id":1293579429,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1293579429,
+    "wof:lastmodified":1537643197,
+    "wof:name":"Tajan",
+    "wof:parent_id":1108719833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.88976,
+    37.2378,
+    49.88976,
+    37.2378
+],
+  "geometry": {"coordinates":[49.88976,37.2378],"type":"Point"}
+}

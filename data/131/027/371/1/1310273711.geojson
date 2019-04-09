@@ -1,0 +1,78 @@
+{
+  "id": 1310273711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.77523,27.84851,51.77523,27.84851",
+    "geom:latitude":27.84851,
+    "geom:longitude":51.77523,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Ashku",
+    "gn:country_code":"IR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":41038,
+    "gn:latitude":27.84851,
+    "gn:longitude":51.77523,
+    "gn:modification_date":"2013-03-05",
+    "gn:name":"Ashk\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0634\u0643\u0648"
+    ],
+    "name:fas_x_variant":[
+        "Ashk\u016bn",
+        "Ashk\u016b",
+        "\u0627\u0634\u0643\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0627\u0634\u0643\u0648\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108719955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":41038
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"69b702953e08cad3f1a3a39b8edcef2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719955,
+            "locality_id":1310273711,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1310273711,
+    "wof:lastmodified":1537642314,
+    "wof:name":"Ashku",
+    "wof:parent_id":1108719955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.77523,
+    27.84851,
+    51.77523,
+    27.84851
+],
+  "geometry": {"coordinates":[51.77523,27.84851],"type":"Point"}
+}

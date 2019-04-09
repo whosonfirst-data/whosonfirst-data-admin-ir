@@ -1,0 +1,81 @@
+{
+  "id": 1326874495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.7133,36.82042,50.7133,36.82042",
+    "geom:latitude":36.82042,
+    "geom:longitude":50.7133,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Bar Poshteh",
+    "gn:country_code":"IR",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7625531,
+    "gn:latitude":36.82042,
+    "gn:longitude":50.7133,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"B\u0101r Poshteh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631 \u067e\u0634\u062a\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0627\u0631 \u067e\u0634\u062a\u0647",
+        "\u0628\u0647\u0627\u0631 \u067e\u0634\u062a\u0647"
+    ],
+    "name:und_x_variant":[
+        "Sar Poshteh",
+        "\u0633\u0631 \u067e\u0634\u062a\u0647",
+        "B\u0101r Poshteh",
+        "Bah\u0101r Poshteh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7625531,
+        "wk:page":"Bahar_Poshteh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"38ba70f124f8e51c649058333f8f4bb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720333,
+            "locality_id":1326874495,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1326874495,
+    "wof:lastmodified":1537648469,
+    "wof:name":"Bar Poshteh",
+    "wof:parent_id":1108720333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.7133,
+    36.82042,
+    50.7133,
+    36.82042
+],
+  "geometry": {"coordinates":[50.7133,36.82042],"type":"Point"}
+}

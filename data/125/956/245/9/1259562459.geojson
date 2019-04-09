@@ -1,0 +1,77 @@
+{
+  "id": 1259562459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.75,34.792,45.75,34.792",
+    "geom:latitude":34.792,
+    "geom:longitude":45.75,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Ravileh-ye Bala",
+    "gn:country_code":"IR",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":25385,
+    "gn:latitude":34.792,
+    "gn:longitude":45.75,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Rav\u012bleh-ye B\u0101l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u064a\u0644\u0647 \u0628\u0627\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "Rav\u012bleh",
+        "Rav\u012bleh-ye B\u0101l\u0101"
+    ],
+    "name:und_x_variant":[
+        "Rov\u012bleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":25385
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a3cecc79fb0e048b563e03cbd46b6942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720373,
+            "locality_id":1259562459,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1259562459,
+    "wof:lastmodified":1537641333,
+    "wof:name":"Ravileh-ye Bala",
+    "wof:parent_id":1108720373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.75,
+    34.792,
+    45.75,
+    34.792
+],
+  "geometry": {"coordinates":[45.75,34.792],"type":"Point"}
+}

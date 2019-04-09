@@ -1,0 +1,74 @@
+{
+  "id": 1226752183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.60165,30.89517,50.60165,30.89517",
+    "geom:latitude":30.89517,
+    "geom:longitude":50.60165,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Eshkaft",
+    "gn:country_code":"IR",
+    "gn:dem":1025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":45792,
+    "gn:latitude":30.89517,
+    "gn:longitude":50.60165,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Eshkaft",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0634\u0643\u0641\u062a"
+    ],
+    "name:und_x_variant":[
+        "\u0627\u0634\u0643\u0641\u062a",
+        "Eshkaft"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":45792
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cba8632867d413ca7aad431a0e185d81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1226752183,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1226752183,
+    "wof:lastmodified":1537642571,
+    "wof:name":"Eshkaft",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.60165,
+    30.89517,
+    50.60165,
+    30.89517
+],
+  "geometry": {"coordinates":[50.60165,30.89517],"type":"Point"}
+}

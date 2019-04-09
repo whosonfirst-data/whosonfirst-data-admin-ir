@@ -1,0 +1,76 @@
+{
+  "id": 1293041499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.16667,33.68333,50.16667,33.68333",
+    "geom:latitude":33.68333,
+    "geom:longitude":50.16667,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Kulfeh",
+    "gn:country_code":"IR",
+    "gn:dem":1746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":67706,
+    "gn:latitude":33.68333,
+    "gn:longitude":50.16667,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"K\u016blfeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0648\u0644\u0641\u0650\u0647"
+    ],
+    "name:fas_x_variant":[
+        "K\u016blfeh"
+    ],
+    "name:und_x_variant":[
+        "Gulfa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":67706
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c38b6612afd28073f0be0a2e55ceb621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720137,
+            "locality_id":1293041499,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1293041499,
+    "wof:lastmodified":1537642850,
+    "wof:name":"Kulfeh",
+    "wof:parent_id":1108720137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.16667,
+    33.68333,
+    50.16667,
+    33.68333
+],
+  "geometry": {"coordinates":[50.16667,33.68333],"type":"Point"}
+}

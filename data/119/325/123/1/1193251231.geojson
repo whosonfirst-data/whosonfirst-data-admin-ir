@@ -1,0 +1,74 @@
+{
+  "id": 1193251231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.13333,32.1,49.13333,32.1",
+    "geom:latitude":32.1,
+    "geom:longitude":49.13333,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Benarak",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":140884,
+    "gn:latitude":32.1,
+    "gn:longitude":49.13333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ben\u0101rak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Ben\u0101rak"
+    ],
+    "name:und_x_variant":[
+        "Banarak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140884
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"788efbbf487413a79f30685c4bd11c12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720229,
+            "locality_id":1193251231,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1193251231,
+    "wof:lastmodified":1537645920,
+    "wof:name":"Benarak",
+    "wof:parent_id":1108720229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.13333,
+    32.1,
+    49.13333,
+    32.1
+],
+  "geometry": {"coordinates":[49.13333,32.1],"type":"Point"}
+}

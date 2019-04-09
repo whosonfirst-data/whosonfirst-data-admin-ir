@@ -1,0 +1,73 @@
+{
+  "id": 1226300909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.01667,33.55,49.01667,33.55",
+    "geom:latitude":33.55,
+    "geom:longitude":49.01667,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Deh-e A'ineh",
+    "gn:country_code":"IR",
+    "gn:dem":1450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":68617,
+    "gn:latitude":33.55,
+    "gn:longitude":49.01667,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Deh-e \u0100\u2019\u012bneh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Deh-e \u0100\u2019\u012bneh"
+    ],
+    "name:und_x_variant":[
+        "Deh \u0100ineh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":68617
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"39de7669ff202e7614aab72f16af87d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719973,
+            "locality_id":1226300909,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1226300909,
+    "wof:lastmodified":1537642884,
+    "wof:name":"Deh-e A'ineh",
+    "wof:parent_id":1108719973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.01667,
+    33.55,
+    49.01667,
+    33.55
+],
+  "geometry": {"coordinates":[49.01667,33.55],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243290513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.95585,37.83954,56.95585,37.83954",
+    "geom:latitude":37.83954,
+    "geom:longitude":56.95585,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Bicheran",
+    "gn:country_code":"IR",
+    "gn:dem":938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7580210,
+    "gn:latitude":37.83954,
+    "gn:longitude":56.95585,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"B\u012bcher\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "B\u012bcher\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u06cc \u0686\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0628\u06cc \u0686\u0631\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672401,
+        1108720211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580210
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0c62664eef5dab01eb28605a7715f388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720211,
+            "locality_id":1243290513,
+            "region_id":85672401
+        }
+    ],
+    "wof:id":1243290513,
+    "wof:lastmodified":1537648381,
+    "wof:name":"Bicheran",
+    "wof:parent_id":1108720211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.95585,
+    37.83954,
+    56.95585,
+    37.83954
+],
+  "geometry": {"coordinates":[56.95585,37.83954],"type":"Point"}
+}

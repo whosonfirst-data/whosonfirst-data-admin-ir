@@ -1,0 +1,80 @@
+{
+  "id": 1209970235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.34682,36.15237,53.34682,36.15237",
+    "geom:latitude":36.15237,
+    "geom:longitude":53.34682,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Khorramabad",
+    "gn:country_code":"IR",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":385371,
+    "gn:latitude":36.15237,
+    "gn:longitude":53.34682,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Khorram\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u064f\u0631\u064e\u0651\u0645\u0627\u0628\u0627\u062f\u0650 \u062f\u064a\u0646\u0650\u0647 \u0633\u064e\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u062e\u0631\u0645 \u0622\u0628\u0627\u062f",
+        "\u062e\u0627\u0646\u0650 \u062e\u064f\u0631\u064e\u0651\u0645 \u0622\u0628\u0627\u062f",
+        "Khorram\u0101b\u0101d-e D\u012bneh Sar",
+        "Khorram\u0101b\u0101d"
+    ],
+    "name:und_x_variant":[
+        "Kh\u0101n-e Khorram\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385371,
+        "wk:page":"Khorramabad-e_Dineh_Sar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cc678a649069488ce5e6f93847ba8c57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720401,
+            "locality_id":1209970235,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1209970235,
+    "wof:lastmodified":1537646410,
+    "wof:name":"Khorramabad",
+    "wof:parent_id":1108720401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.34682,
+    36.15237,
+    53.34682,
+    36.15237
+],
+  "geometry": {"coordinates":[53.34682,36.15237],"type":"Point"}
+}

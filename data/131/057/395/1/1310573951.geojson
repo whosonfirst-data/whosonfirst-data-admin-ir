@@ -1,0 +1,73 @@
+{
+  "id": 1310573951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.02211,31.24489,49.02211,31.24489",
+    "geom:latitude":31.24489,
+    "geom:longitude":49.02211,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Seyyed Hashem",
+    "gn:country_code":"IR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":6648176,
+    "gn:latitude":31.24489,
+    "gn:longitude":49.02211,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Seyyed H\u0101shem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0651\u062f \u0647\u0627\u0634\u0645"
+    ],
+    "name:fas_x_variant":[
+        "Seyyed H\u0101shem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6648176
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6f72ffc1a7d902e280057ee4fa389bf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719793,
+            "locality_id":1310573951,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1310573951,
+    "wof:lastmodified":1537647175,
+    "wof:name":"Seyyed Hashem",
+    "wof:parent_id":1108719793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.02211,
+    31.24489,
+    49.02211,
+    31.24489
+],
+  "geometry": {"coordinates":[49.02211,31.24489],"type":"Point"}
+}

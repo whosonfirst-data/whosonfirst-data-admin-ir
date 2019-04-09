@@ -1,0 +1,73 @@
+{
+  "id": 1243210543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.4883,27.4538,57.4883,27.4538",
+    "geom:latitude":27.4538,
+    "geom:longitude":57.4883,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Deh Shur",
+    "gn:country_code":"IR",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6654673,
+    "gn:latitude":27.4538,
+    "gn:longitude":57.4883,
+    "gn:modification_date":"2014-01-15",
+    "gn:name":"Deh Sh\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647 \u0634\u0648\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Deh Sh\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6654673
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5ebd91ac1b8c0284102fb42cfa0f9cbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720213,
+            "locality_id":1243210543,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1243210543,
+    "wof:lastmodified":1537647240,
+    "wof:name":"Deh Shur",
+    "wof:parent_id":1108720213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.4883,
+    27.4538,
+    57.4883,
+    27.4538
+],
+  "geometry": {"coordinates":[57.4883,27.4538],"type":"Point"}
+}

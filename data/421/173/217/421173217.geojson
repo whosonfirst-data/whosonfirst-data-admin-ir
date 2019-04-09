@@ -1,0 +1,86 @@
+{
+  "id": 421173217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.43644,33.98308,51.43644,33.98308",
+    "geom:latitude":33.98308,
+    "geom:longitude":51.43644,
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Kachan"
+    ],
+    "name:swe_x_preferred":[
+        "Kachan"
+    ],
+    "qs:gn_country":"IR",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":128477,
+    "qs:gn_pop":272359,
+    "qs:name":"Kachan",
+    "qs:name_adm0":"Iran",
+    "qs:name_adm1":"Esfahan",
+    "qs:photos":1226,
+    "qs:photos_1k":248,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1226,
+    "qs:photos_sr":11,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"10",
+    "qs:qs_id":493392,
+    "qs:woe_adm0":23424851,
+    "qs:woe_id":2232705,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":18,
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":128477,
+        "gp:id":2232705,
+        "qs:id":493392
+    },
+    "wof:country":"IR",
+    "wof:created":1459008975,
+    "wof:geomhash":"01318b73cfb12cacba9f0f70644da09d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720109,
+            "locality_id":421173217,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":421173217,
+    "wof:lastmodified":1527716255,
+    "wof:name":"Kachan",
+    "wof:parent_id":1108720109,
+    "wof:placetype":"locality",
+    "wof:population":272359,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.43644,
+    33.98308,
+    51.43644,
+    33.98308
+],
+  "geometry": {"coordinates":[51.43644,33.98308],"type":"Point"}
+}

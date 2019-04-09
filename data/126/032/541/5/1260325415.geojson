@@ -1,0 +1,79 @@
+{
+  "id": 1260325415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.38656,31.65994,55.38656,31.65994",
+    "geom:latitude":31.65994,
+    "geom:longitude":55.38656,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Torababad",
+    "gn:country_code":"IR",
+    "gn:dem":982,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":117852,
+    "gn:latitude":31.65994,
+    "gn:longitude":55.38656,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Tor\u0101b\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Tor\u0101b\u0101b\u0101d"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0631\u0627\u0628 \u0622\u0628\u0627\u062f",
+        "\u0633\u0647\u0644 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u062a\u0631\u0627\u0628 \u0622\u0628\u0627\u062f",
+        "Sahl\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108719849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":117852,
+        "wk:page":"Torababad,_Yazd"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b8e6995c9b2f75eda6fccb97e6438792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719849,
+            "locality_id":1260325415,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1260325415,
+    "wof:lastmodified":1537643583,
+    "wof:name":"Torababad",
+    "wof:parent_id":1108719849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.38656,
+    31.65994,
+    55.38656,
+    31.65994
+],
+  "geometry": {"coordinates":[55.38656,31.65994],"type":"Point"}
+}

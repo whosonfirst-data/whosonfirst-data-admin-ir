@@ -1,0 +1,73 @@
+{
+  "id": 1327001921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.7874,35.563,47.7874,35.563",
+    "geom:latitude":35.563,
+    "geom:longitude":47.7874,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mohammad Saleh",
+    "gn:country_code":"IR",
+    "gn:dem":1696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3659,
+    "gn:latitude":35.563,
+    "gn:longitude":47.7874,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mo\u1e29ammad \u015e\u0101le\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0645\u062d\u0645\u062f \u0635\u0627\u0644\u062d"
+    ],
+    "name:fas_x_variant":[
+        "Mo\u1e29ammad \u015e\u0101le\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3659
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dffbe6e5f7d10a79497cc90c203a1384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720325,
+            "locality_id":1327001921,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1327001921,
+    "wof:lastmodified":1537640269,
+    "wof:name":"Mohammad Saleh",
+    "wof:parent_id":1108720325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.7874,
+    35.563,
+    47.7874,
+    35.563
+],
+  "geometry": {"coordinates":[47.7874,35.563],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1344117829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.30785,31.50979,56.30785,31.50979",
+    "geom:latitude":31.50979,
+    "geom:longitude":56.30785,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Kamutar",
+    "gn:country_code":"IR",
+    "gn:dem":2170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":38846,
+    "gn:latitude":31.50979,
+    "gn:longitude":56.30785,
+    "gn:modification_date":"2014-09-30",
+    "gn:name":"Kam\u016bt\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Kam\u016bt\u0101r"
+    ],
+    "name:fas_x_variant":[
+        "Kam\u016bt\u016b",
+        "\u06a9\u0645\u0648\u062a\u0648",
+        "\u06a9\u0645\u0648\u062a\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":38846
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5899539ea2d6c132c43f1232bf1435d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720155,
+            "locality_id":1344117829,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1344117829,
+    "wof:lastmodified":1537642186,
+    "wof:name":"Kamutar",
+    "wof:parent_id":1108720155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.30785,
+    31.50979,
+    56.30785,
+    31.50979
+],
+  "geometry": {"coordinates":[56.30785,31.50979],"type":"Point"}
+}

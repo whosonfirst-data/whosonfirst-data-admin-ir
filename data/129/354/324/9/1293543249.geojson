@@ -1,0 +1,79 @@
+{
+  "id": 1293543249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.55694,34.01417,50.55694,34.01417",
+    "geom:latitude":34.01417,
+    "geom:longitude":50.55694,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Siah Gahar",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":114502,
+    "gn:latitude":34.01417,
+    "gn:longitude":50.55694,
+    "gn:modification_date":"2006-08-21",
+    "gn:name":"S\u012b\u0101h Gahar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u064a\u0627\u0647 \u06af\u064e\u0647\u064e\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0650\u064a\u0627\u0647 \u06af\u064e\u0647\u064e\u0631",
+        "\u0633\u064a\u0627\u0647 \u0643\u064e\u0647\u064e\u0631"
+    ],
+    "name:und_x_variant":[
+        "Sey\u0101h Gahar",
+        "S\u012b\u0101h Kahar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":114502
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e3450e0c8e6901548865717891035eb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720195,
+            "locality_id":1293543249,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1293543249,
+    "wof:lastmodified":1537643284,
+    "wof:name":"Siah Gahar",
+    "wof:parent_id":1108720195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.55694,
+    34.01417,
+    50.55694,
+    34.01417
+],
+  "geometry": {"coordinates":[50.55694,34.01417],"type":"Point"}
+}

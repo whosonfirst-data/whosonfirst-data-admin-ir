@@ -1,0 +1,74 @@
+{
+  "id": 1360231499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.6419,27.6034,57.6419,27.6034",
+    "geom:latitude":27.6034,
+    "geom:longitude":57.6419,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Namahram",
+    "gn:country_code":"IR",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6961574,
+    "gn:latitude":27.6034,
+    "gn:longitude":57.6419,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"N\u0101ma\u1e29ram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0645\u062d\u0631\u0645"
+    ],
+    "name:fas_x_variant":[
+        "N\u0101ma\u1e29ram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6961574,
+        "wk:page":"Namahram"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4985319b3d971b2bcb98902d0553a1c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720213,
+            "locality_id":1360231499,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1360231499,
+    "wof:lastmodified":1537647779,
+    "wof:name":"Namahram",
+    "wof:parent_id":1108720213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.6419,
+    27.6034,
+    57.6419,
+    27.6034
+],
+  "geometry": {"coordinates":[57.6419,27.6034],"type":"Point"}
+}

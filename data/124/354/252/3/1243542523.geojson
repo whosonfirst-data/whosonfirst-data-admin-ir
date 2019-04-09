@@ -1,0 +1,74 @@
+{
+  "id": 1243542523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.9775,25.4818,58.9775,25.4818",
+    "geom:latitude":25.4818,
+    "geom:longitude":58.9775,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Lirak",
+    "gn:country_code":"IR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8356048,
+    "gn:latitude":25.4818,
+    "gn:longitude":58.9775,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"L\u012brak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0631\u06a9"
+    ],
+    "name:und_x_variant":[
+        "L\u012brak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8356048,
+        "wk:page":"Lirak"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"59de591c2c9649114e2cc021a477229e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720077,
+            "locality_id":1243542523,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1243542523,
+    "wof:lastmodified":1537648549,
+    "wof:name":"Lirak",
+    "wof:parent_id":1108720077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.9775,
+    25.4818,
+    58.9775,
+    25.4818
+],
+  "geometry": {"coordinates":[58.9775,25.4818],"type":"Point"}
+}

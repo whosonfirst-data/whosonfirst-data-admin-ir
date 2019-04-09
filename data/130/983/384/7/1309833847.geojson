@@ -1,0 +1,73 @@
+{
+  "id": 1309833847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.5597,34.29227,59.5597,34.29227",
+    "geom:latitude":34.29227,
+    "geom:longitude":59.5597,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Khoshkabad",
+    "gn:country_code":"IR",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11178495,
+    "gn:latitude":34.29227,
+    "gn:longitude":59.5597,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Khoshk\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062e\u0634\u06a9 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Khoshk\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11178495
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"280036c8b4a05d115ab236e2cca8d106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720119,
+            "locality_id":1309833847,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1309833847,
+    "wof:lastmodified":1537648740,
+    "wof:name":"Khoshkabad",
+    "wof:parent_id":1108720119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.5597,
+    34.29227,
+    59.5597,
+    34.29227
+],
+  "geometry": {"coordinates":[59.5597,34.29227],"type":"Point"}
+}

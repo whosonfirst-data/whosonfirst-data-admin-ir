@@ -1,0 +1,77 @@
+{
+  "id": 1309675945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.74368,35.67191,47.74368,35.67191",
+    "geom:latitude":35.67191,
+    "geom:longitude":47.74368,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Shushtari",
+    "gn:country_code":"IR",
+    "gn:dem":1739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":114583,
+    "gn:latitude":35.67191,
+    "gn:longitude":47.74368,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Sh\u016bshtar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u0634\u062a\u0631\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0648\u0634\u062a\u0627\u0631\u064a\u0646",
+        "Sh\u016bshtar\u012b"
+    ],
+    "name:und_x_variant":[
+        "S\u016bsht\u0101r\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108719889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":114583
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"288fa864ba71e8178ef6bbf3f521b5f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719889,
+            "locality_id":1309675945,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1309675945,
+    "wof:lastmodified":1537643287,
+    "wof:name":"Shushtari",
+    "wof:parent_id":1108719889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.74368,
+    35.67191,
+    47.74368,
+    35.67191
+],
+  "geometry": {"coordinates":[47.74368,35.67191],"type":"Point"}
+}

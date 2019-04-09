@@ -1,0 +1,76 @@
+{
+  "id": 1326961739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.72932,30.77663,50.72932,30.77663",
+    "geom:latitude":30.77663,
+    "geom:longitude":50.72932,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Baladan",
+    "gn:country_code":"IR",
+    "gn:dem":740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":45892,
+    "gn:latitude":30.77663,
+    "gn:longitude":50.72932,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Balad\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Balad\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0644\u062f\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0628\u0644\u062f\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":45892
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b03be296391db5a5fe4e2670cbf8307d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1326961739,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1326961739,
+    "wof:lastmodified":1537642580,
+    "wof:name":"Baladan",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.72932,
+    30.77663,
+    50.72932,
+    30.77663
+],
+  "geometry": {"coordinates":[50.72932,30.77663],"type":"Point"}
+}

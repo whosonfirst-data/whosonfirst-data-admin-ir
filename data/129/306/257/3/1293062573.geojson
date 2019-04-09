@@ -1,0 +1,71 @@
+{
+  "id": 1293062573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.31667,32.3,52.31667,32.3",
+    "geom:latitude":32.3,
+    "geom:longitude":52.31667,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Garmeh",
+    "gn:country_code":"IR",
+    "gn:dem":1523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":418401,
+    "gn:latitude":32.3,
+    "gn:longitude":52.31667,
+    "gn:modification_date":"2018-07-22",
+    "gn:name":"Garmeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u064e\u0631\u0645\u0650\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108719977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":418401,
+        "wk:page":"Garmeh,_Isfahan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fc48cc075f8e47e577c9cf58596f0315",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719977,
+            "locality_id":1293062573,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1293062573,
+    "wof:lastmodified":1537646715,
+    "wof:name":"Garmeh",
+    "wof:parent_id":1108719977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.31667,
+    32.3,
+    52.31667,
+    32.3
+],
+  "geometry": {"coordinates":[52.31667,32.3],"type":"Point"}
+}

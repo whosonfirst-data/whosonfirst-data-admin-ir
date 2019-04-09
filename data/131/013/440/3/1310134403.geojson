@@ -1,0 +1,67 @@
+{
+  "id": 1310134403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.58333,31.91667,59.58333,31.91667",
+    "geom:latitude":31.91667,
+    "geom:longitude":59.58333,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Rameh",
+    "gn:country_code":"IR",
+    "gn:dem":1732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":118839,
+    "gn:latitude":31.91667,
+    "gn:longitude":59.58333,
+    "gn:modification_date":"2011-02-07",
+    "gn:name":"Rameh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108720259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":118839
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e468a0c1fe7cf763cbd57346f979710c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720259,
+            "locality_id":1310134403,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1310134403,
+    "wof:lastmodified":1536955019,
+    "wof:name":"Rameh",
+    "wof:parent_id":1108720259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.58333,
+    31.91667,
+    59.58333,
+    31.91667
+],
+  "geometry": {"coordinates":[59.58333,31.91667],"type":"Point"}
+}

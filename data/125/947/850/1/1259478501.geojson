@@ -1,0 +1,81 @@
+{
+  "id": 1259478501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.37267,37.27975,49.37267,37.27975",
+    "geom:latitude":37.27975,
+    "geom:longitude":49.37267,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Tulam Shahr",
+    "gn:country_code":"IR",
+    "gn:dem":-3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":124775,
+    "gn:latitude":37.27975,
+    "gn:longitude":49.37267,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"T\u016blam Shahr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u062c\u063a\u0644"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0648\u0644\u0645 \u0634\u0647\u0631"
+    ],
+    "name:und_x_variant":[
+        "Mardzhagal",
+        "Marjaqal",
+        "Marjaghal",
+        "T\u016blam Shahr",
+        "T\u016blam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":124775,
+        "wk:page":"Marjaghal"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"eb5703f96e9ccb5d2f522f39165b5104",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720465,
+            "locality_id":1259478501,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1259478501,
+    "wof:lastmodified":1537644285,
+    "wof:name":"Tulam Shahr",
+    "wof:parent_id":1108720465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.37267,
+    37.27975,
+    49.37267,
+    37.27975
+],
+  "geometry": {"coordinates":[49.37267,37.27975],"type":"Point"}
+}

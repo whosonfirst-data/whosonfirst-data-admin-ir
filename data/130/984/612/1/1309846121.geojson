@@ -1,0 +1,77 @@
+{
+  "id": 1309846121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.81662,36.56086,52.81662,36.56086",
+    "geom:latitude":36.56086,
+    "geom:longitude":52.81662,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Sar Pol",
+    "gn:country_code":"IR",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":401074,
+    "gn:latitude":36.56086,
+    "gn:longitude":52.81662,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sar Pol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u064e\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0631 \u067e\u0644"
+    ],
+    "name:und_x_variant":[
+        "Sar",
+        "Sar Pol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401074
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c717643b685c5c7a8f7a1b947b461736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720309,
+            "locality_id":1309846121,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1309846121,
+    "wof:lastmodified":1537646514,
+    "wof:name":"Sar Pol",
+    "wof:parent_id":1108720309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.81661999999999,
+    36.56086,
+    52.81661999999999,
+    36.56086
+],
+  "geometry": {"coordinates":[52.81661999999999,36.56086],"type":"Point"}
+}

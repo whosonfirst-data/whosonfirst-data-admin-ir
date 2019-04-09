@@ -1,0 +1,81 @@
+{
+  "id": 1260334695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.45186,27.77678,58.45186,27.77678",
+    "geom:latitude":27.77678,
+    "geom:longitude":58.45186,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Buhig",
+    "gn:country_code":"IR",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":48503,
+    "gn:latitude":27.77678,
+    "gn:longitude":58.45186,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"B\u016bh\u012bg",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "B\u016b\u2019\u012bng"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0648\u0647\u064a\u06af",
+        "\u0628\u0648\u06cc\u0646\u06af",
+        "\u0628\u0648\u0647\u0646\u06af"
+    ],
+    "name:und_x_variant":[
+        "B\u016b\u2019\u012bnak",
+        "B\u016bh\u012bg",
+        "B\u016byang",
+        "B\u016bhang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":48503
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"27f10f2d7f2072ffb7335302aebd9e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720363,
+            "locality_id":1260334695,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1260334695,
+    "wof:lastmodified":1537642730,
+    "wof:name":"Buhig",
+    "wof:parent_id":1108720363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.45186,
+    27.77678,
+    58.45186,
+    27.77678
+],
+  "geometry": {"coordinates":[58.45186,27.77678],"type":"Point"}
+}

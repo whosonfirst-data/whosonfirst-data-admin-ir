@@ -1,0 +1,64 @@
+{
+  "id": 1209119819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.5225,38.64639,44.5225,38.64639",
+    "geom:latitude":38.64639,
+    "geom:longitude":44.5225,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Aland",
+    "gn:country_code":"IR",
+    "gn:dem":2570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":401181,
+    "gn:latitude":38.64639,
+    "gn:longitude":44.5225,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Aland",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u012bzaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401181
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5c576d0bea0196bdb9cbc3adf08ae424",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209119819
+        }
+    ],
+    "wof:id":1209119819,
+    "wof:lastmodified":1537646520,
+    "wof:name":"Aland",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.5225,
+    38.64639,
+    44.5225,
+    38.64639
+],
+  "geometry": {"coordinates":[44.5225,38.64639],"type":"Point"}
+}

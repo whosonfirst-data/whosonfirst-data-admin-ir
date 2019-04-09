@@ -1,0 +1,73 @@
+{
+  "id": 1225905319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.69865,30.54172,54.69865,30.54172",
+    "geom:latitude":30.54172,
+    "geom:longitude":54.69865,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Dehu'iyeh",
+    "gn:country_code":"IR",
+    "gn:dem":2320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9893701,
+    "gn:latitude":30.54172,
+    "gn:longitude":54.69865,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Deh\u016b\u2019\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647\u0648\u0626\u064a\u0647"
+    ],
+    "name:und_x_variant":[
+        "Deh\u016b\u2019\u012byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9893701
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4cc2ef1c72d555f22ced55d317d3a2aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720433,
+            "locality_id":1225905319,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1225905319,
+    "wof:lastmodified":1537648657,
+    "wof:name":"Dehu'iyeh",
+    "wof:parent_id":1108720433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.69865,
+    30.54172,
+    54.69865,
+    30.54172
+],
+  "geometry": {"coordinates":[54.69865,30.54172],"type":"Point"}
+}

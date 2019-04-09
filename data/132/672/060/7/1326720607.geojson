@@ -1,0 +1,77 @@
+{
+  "id": 1326720607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.83456,37.35223,49.83456,37.35223",
+    "geom:latitude":37.35223,
+    "geom:longitude":49.83456,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Estalak",
+    "gn:country_code":"IR",
+    "gn:dem":-11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":28653,
+    "gn:latitude":37.35223,
+    "gn:longitude":49.83456,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"Es\u0163alak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Es\u0163alak"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u0637\u0644\u06a9"
+    ],
+    "name:und_x_variant":[
+        "\u0627\u0633\u0637\u0644\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":28653,
+        "wk:page":"Estalak"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9d71e563b2c6685741315a1c43e5bc1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720339,
+            "locality_id":1326720607,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1326720607,
+    "wof:lastmodified":1537641562,
+    "wof:name":"Estalak",
+    "wof:parent_id":1108720339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.83456,
+    37.35223,
+    49.83456,
+    37.35223
+],
+  "geometry": {"coordinates":[49.83456,37.35223],"type":"Point"}
+}

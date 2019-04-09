@@ -1,0 +1,74 @@
+{
+  "id": 1209319111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.59322,30.99217,50.59322,30.99217",
+    "geom:latitude":30.99217,
+    "geom:longitude":50.59322,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Gav Murla",
+    "gn:country_code":"IR",
+    "gn:dem":1006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":133796,
+    "gn:latitude":30.99217,
+    "gn:longitude":50.59322,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"G\u0101v M\u016brl\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0627\u0648 \u0645\u064f\u0631\u062f\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u0627\u0648 \u0645\u0648\u062f\u0627\u0631",
+        "G\u0101v M\u016brl\u0101",
+        "G\u0101v Mord\u0101r",
+        "\u06af\u0627\u0648 \u0645\u0648\u0631\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "G\u0101v M\u016bd\u0101r",
+        "\u06af\u0627\u0648 \u0645\u0648\u0631\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":133796
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1138dca5abb5c1822073afa39f7d73dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209319111
+        }
+    ],
+    "wof:id":1209319111,
+    "wof:lastmodified":1537645207,
+    "wof:name":"Gav Murla",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.59322,
+    30.99217,
+    50.59322,
+    30.99217
+],
+  "geometry": {"coordinates":[50.59322,30.99217],"type":"Point"}
+}

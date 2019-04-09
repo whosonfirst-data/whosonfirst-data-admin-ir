@@ -1,0 +1,78 @@
+{
+  "id": 1310004739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.44845,30.47852,50.44845,30.47852",
+    "geom:latitude":30.47852,
+    "geom:longitude":50.44845,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Ab Razi",
+    "gn:country_code":"IR",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6729321,
+    "gn:latitude":30.47852,
+    "gn:longitude":50.44845,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"\u0100b Raz\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0628\u0631\u06cc\u0632\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0100br\u012bz\u012b",
+        "\u0622\u0628 \u0631\u0632\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0100b Raz\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6729321,
+        "wk:page":"Abrizi"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d4e116e32d4542871962ee551c0454e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720015,
+            "locality_id":1310004739,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1310004739,
+    "wof:lastmodified":1537647533,
+    "wof:name":"Ab Razi",
+    "wof:parent_id":1108720015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.44845,
+    30.47852,
+    50.44845,
+    30.47852
+],
+  "geometry": {"coordinates":[50.44845,30.47852],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1225898443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.0671,39.1622,47.0671,39.1622",
+    "geom:latitude":39.1622,
+    "geom:longitude":47.0671,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Pir Owghli",
+    "gn:country_code":"IR",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6689741,
+    "gn:latitude":39.1622,
+    "gn:longitude":47.0671,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"P\u012br Owghl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0631 \u0627\u0648\u063a\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "P\u012br Owghl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6689741
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a8800302d95fd3e61d230c92bf4c1fea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720097,
+            "locality_id":1225898443,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1225898443,
+    "wof:lastmodified":1537647439,
+    "wof:name":"Pir Owghli",
+    "wof:parent_id":1108720097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.0671,
+    39.1622,
+    47.0671,
+    39.1622
+],
+  "geometry": {"coordinates":[47.0671,39.1622],"type":"Point"}
+}

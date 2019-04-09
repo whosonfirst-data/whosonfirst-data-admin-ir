@@ -1,0 +1,70 @@
+{
+  "id": 1209536133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.6751,30.18281,51.6751,30.18281",
+    "geom:latitude":30.18281,
+    "geom:longitude":51.6751,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ab-e Balut",
+    "gn:country_code":"IR",
+    "gn:dem":1143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7453976,
+    "gn:latitude":30.18281,
+    "gn:longitude":51.6751,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u0100b-e Bal\u016b\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0100b-e Bal\u016b\u0163"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u0628 \u0628\u0644\u0648\u0637"
+    ],
+    "name:und_x_variant":[
+        "\u0622\u0628 \u0628\u0644\u0648\u0637"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7453976
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6bd713e6d1f6be29bf0e61bdc968cb1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209536133
+        }
+    ],
+    "wof:id":1209536133,
+    "wof:lastmodified":1537648219,
+    "wof:name":"Ab-e Balut",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.6751,
+    30.18281,
+    51.6751,
+    30.18281
+],
+  "geometry": {"coordinates":[51.6751,30.18281],"type":"Point"}
+}

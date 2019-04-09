@@ -1,0 +1,73 @@
+{
+  "id": 1226703583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.76799,36.62316,52.76799,36.62316",
+    "geom:latitude":36.62316,
+    "geom:longitude":52.76799,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Dineh Sar",
+    "gn:country_code":"IR",
+    "gn:dem":-15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11685,
+    "gn:latitude":36.62316,
+    "gn:longitude":52.76799,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"D\u012bneh Sar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u064a\u0646\u0647 \u0633\u0631"
+    ],
+    "name:fas_x_variant":[
+        "D\u012bneh Sar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11685
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e7a3b00e25e33f9f4d2973b32148aeca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719847,
+            "locality_id":1226703583,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1226703583,
+    "wof:lastmodified":1537640656,
+    "wof:name":"Dineh Sar",
+    "wof:parent_id":1108719847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.76799000000001,
+    36.62316,
+    52.76799000000001,
+    36.62316
+],
+  "geometry": {"coordinates":[52.76799000000001,36.62316],"type":"Point"}
+}

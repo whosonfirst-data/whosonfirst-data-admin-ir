@@ -1,0 +1,75 @@
+{
+  "id": 1209287301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.80436,31.80232,49.80436,31.80232",
+    "geom:latitude":31.80232,
+    "geom:longitude":49.80436,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Gumik",
+    "gn:country_code":"IR",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":15004,
+    "gn:latitude":31.80232,
+    "gn:longitude":49.80436,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"G\u016bm\u012bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Gomyek-e \u2018Oly\u0101"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u0648\u0645\u06cc\u06a9",
+        "\u0628\u0631 \u0622\u0641\u062a\u0627\u0628 \u06af\u0645\u06cc\u06a9",
+        "\u06af\u0648\u0645\u06cc\u06a9 \u0639\u0644\u06cc\u0627",
+        "\u06af\u0648\u0645\u06cc\u06a9 \u0633\u0641\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "G\u016bm\u012bk",
+        "Bar \u0100ft\u0101b-e Gom\u012bk",
+        "G\u016bm\u012bk-e Sofl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":15004
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"78625f4ddb5cb8ef90dbbfea6a7bdcda",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209287301
+        }
+    ],
+    "wof:id":1209287301,
+    "wof:lastmodified":1537640866,
+    "wof:name":"Gumik",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.80436,
+    31.80232,
+    49.80436,
+    31.80232
+],
+  "geometry": {"coordinates":[49.80436,31.80232],"type":"Point"}
+}

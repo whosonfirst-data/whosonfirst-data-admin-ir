@@ -1,0 +1,75 @@
+{
+  "id": 1310257619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.5408,37.0312,47.5408,37.0312",
+    "geom:latitude":37.0312,
+    "geom:longitude":47.5408,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Iljaq",
+    "gn:country_code":"IR",
+    "gn:dem":1311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":130787,
+    "gn:latitude":37.0312,
+    "gn:longitude":47.5408,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u012alj\u0101q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u064a\u0644\u062c\u0627\u0642"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u06cc\u0644\u062c\u0627\u0642",
+        "\u012alj\u0101q"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672361,
+        1108720519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":130787,
+        "wk:page":"Iljaq"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"62e1346bbbe53eae51e183c316f5a394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720519,
+            "locality_id":1310257619,
+            "region_id":85672361
+        }
+    ],
+    "wof:id":1310257619,
+    "wof:lastmodified":1537644899,
+    "wof:name":"Iljaq",
+    "wof:parent_id":1108720519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.5408,
+    37.0312,
+    47.5408,
+    37.0312
+],
+  "geometry": {"coordinates":[47.5408,37.0312],"type":"Point"}
+}

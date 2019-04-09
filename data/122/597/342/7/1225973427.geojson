@@ -1,0 +1,76 @@
+{
+  "id": 1225973427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.02997,36.71204,59.02997,36.71204",
+    "geom:latitude":36.71204,
+    "geom:longitude":59.02997,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Masi Maskanlu",
+    "gn:country_code":"IR",
+    "gn:dem":1170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":31596,
+    "gn:latitude":36.71204,
+    "gn:longitude":59.02997,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"M\u0101s\u012b M\u0101sk\u0101nl\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0633\u06cc \u0645\u0648\u0633\u06a9\u0627\u0646\u0644\u0648"
+    ],
+    "name:fas_x_variant":[
+        "M\u0101s\u012b M\u0101sk\u0101nl\u016b",
+        "M\u0101s\u012b M\u016bsk\u0101nl\u016b",
+        "\u0645\u0627\u0633\u06cc \u0645\u0627\u0633\u06a9\u0627\u0646\u0644\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108719931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":31596,
+        "wk:page":"Masi_Maskanlu"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"56c10e9ecf062fd4debc9c6d3f30b039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719931,
+            "locality_id":1225973427,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1225973427,
+    "wof:lastmodified":1537641727,
+    "wof:name":"Masi Maskanlu",
+    "wof:parent_id":1108719931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.02997,
+    36.71204,
+    59.02997,
+    36.71204
+],
+  "geometry": {"coordinates":[59.02997,36.71204],"type":"Point"}
+}

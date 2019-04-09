@@ -1,0 +1,75 @@
+{
+  "id": 1310210823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.40056,30.89056,60.40056,30.89056",
+    "geom:latitude":30.89056,
+    "geom:longitude":60.40056,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Senjedumian",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1159639,
+    "gn:latitude":30.89056,
+    "gn:longitude":60.40056,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Senjed\u016bm\u012b\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Senjed\u016bm\u012b\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Senjet\u0101n",
+        "Senjed\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1159639
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3afbbbc80961abd11334d01abc9b22cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720513,
+            "locality_id":1310210823,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1310210823,
+    "wof:lastmodified":1537646982,
+    "wof:name":"Senjedumian",
+    "wof:parent_id":1108720513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.40056,
+    30.89056,
+    60.40056,
+    30.89056
+],
+  "geometry": {"coordinates":[60.40056,30.89056],"type":"Point"}
+}

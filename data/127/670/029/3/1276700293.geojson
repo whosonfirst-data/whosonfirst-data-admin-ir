@@ -1,0 +1,73 @@
+{
+  "id": 1276700293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.49679,36.51801,52.49679,36.51801",
+    "geom:latitude":36.51801,
+    "geom:longitude":52.49679,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Aski Mahalleh",
+    "gn:country_code":"IR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8818,
+    "gn:latitude":36.51801,
+    "gn:longitude":52.49679,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ask\u012b Ma\u1e29alleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u0643\u06cc \u0645\u062d\u0644\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Ask\u012b Ma\u1e29alleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8818
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c0ca99a6b151a574a0b6a6b69980aef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719807,
+            "locality_id":1276700293,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1276700293,
+    "wof:lastmodified":1537640459,
+    "wof:name":"Aski Mahalleh",
+    "wof:parent_id":1108719807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.49679,
+    36.51801,
+    52.49679,
+    36.51801
+],
+  "geometry": {"coordinates":[52.49679,36.51801],"type":"Point"}
+}

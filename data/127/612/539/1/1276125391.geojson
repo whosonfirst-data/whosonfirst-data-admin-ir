@@ -1,0 +1,77 @@
+{
+  "id": 1276125391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.59559,32.22715,50.59559,32.22715",
+    "geom:latitude":32.22715,
+    "geom:longitude":50.59559,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Karan",
+    "gn:country_code":"IR",
+    "gn:dem":2010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":400806,
+    "gn:latitude":32.22715,
+    "gn:longitude":50.59559,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Karan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u064e\u0631\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Kar\u0101n",
+        "\u06a9\u0631\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u06a9\u0631\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672319,
+        1108719997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400806
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"262e23676a92b3dddd725afa75cae47b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719997,
+            "locality_id":1276125391,
+            "region_id":85672319
+        }
+    ],
+    "wof:id":1276125391,
+    "wof:lastmodified":1537646505,
+    "wof:name":"Karan",
+    "wof:parent_id":1108719997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.59559,
+    32.22715,
+    50.59559,
+    32.22715
+],
+  "geometry": {"coordinates":[50.59559,32.22715],"type":"Point"}
+}

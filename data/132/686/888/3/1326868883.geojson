@@ -1,0 +1,79 @@
+{
+  "id": 1326868883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.49251,37.72533,55.49251,37.72533",
+    "geom:latitude":37.72533,
+    "geom:longitude":55.49251,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Sutjeh",
+    "gn:country_code":"IR",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":39968,
+    "gn:latitude":37.72533,
+    "gn:longitude":55.49251,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"S\u0304\u016btjeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u015e\u016bjeh"
+    ],
+    "name:fas_x_variant":[
+        "\u015e\u016bcheh",
+        "\u0635\u0648\u062c\u0647",
+        "\u062b\u0648\u062a\u062c\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0635\u0648\u062c\u0647",
+        "S\u0304\u016btjeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":39968
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6e29cd79ddea65d62176ae4b709e1483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720093,
+            "locality_id":1326868883,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1326868883,
+    "wof:lastmodified":1537642240,
+    "wof:name":"Sutjeh",
+    "wof:parent_id":1108720093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.49251,
+    37.72533,
+    55.49251,
+    37.72533
+],
+  "geometry": {"coordinates":[55.49251,37.72533],"type":"Point"}
+}

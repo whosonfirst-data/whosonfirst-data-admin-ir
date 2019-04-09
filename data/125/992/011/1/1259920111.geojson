@@ -1,0 +1,78 @@
+{
+  "id": 1259920111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.8006,36.5121,52.8006,36.5121",
+    "geom:latitude":36.5121,
+    "geom:longitude":52.8006,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Estarabad Mahalleh",
+    "gn:country_code":"IR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":401071,
+    "gn:latitude":36.5121,
+    "gn:longitude":52.8006,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Estar\u0101b\u0101d Ma\u1e29alleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u064e\u0647\u064e\u0644\u0650\u0651\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Estar\u0101b\u0101d Ma\u1e29alleh",
+        "\u0627\u0633\u062a\u0631 \u0622\u0628\u0627\u062f \u0645\u062d\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "Mahalleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401071,
+        "wk:page":"Estarabad_Mahalleh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ba817f8256f26d5c5fa9433049f0b771",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720309,
+            "locality_id":1259920111,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1259920111,
+    "wof:lastmodified":1537646513,
+    "wof:name":"Estarabad Mahalleh",
+    "wof:parent_id":1108720309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.8006,
+    36.5121,
+    52.8006,
+    36.5121
+],
+  "geometry": {"coordinates":[52.8006,36.5121],"type":"Point"}
+}

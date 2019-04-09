@@ -1,0 +1,73 @@
+{
+  "id": 1292932585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.25558,35.25402,59.25558,35.25402",
+    "geom:latitude":35.25402,
+    "geom:longitude":59.25558,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Khowrshaneh",
+    "gn:country_code":"IR",
+    "gn:dem":1324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8534126,
+    "gn:latitude":35.25402,
+    "gn:longitude":59.25558,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Khowrsh\u0101neh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0631\u0634\u0627\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "Khowrsh\u0101neh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8534126
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2a41d7f957b102dff71fcbfeddbc193b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720497,
+            "locality_id":1292932585,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1292932585,
+    "wof:lastmodified":1537648573,
+    "wof:name":"Khowrshaneh",
+    "wof:parent_id":1108720497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.25558,
+    35.25402000000001,
+    59.25558,
+    35.25402000000001
+],
+  "geometry": {"coordinates":[59.25558,35.25402000000001],"type":"Point"}
+}

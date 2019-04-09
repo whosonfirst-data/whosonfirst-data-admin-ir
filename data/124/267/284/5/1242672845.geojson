@@ -1,0 +1,74 @@
+{
+  "id": 1242672845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.2624,37.06302,50.2624,37.06302",
+    "geom:latitude":37.06302,
+    "geom:longitude":50.2624,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Sar Kalleh",
+    "gn:country_code":"IR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":29005,
+    "gn:latitude":37.06302,
+    "gn:longitude":50.2624,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Sar Kalleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631 \u06a9\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0633\u0631 \u06a9\u0644\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":29005,
+        "wk:page":"Sar_Kalleh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7ec2d59804f7c87692d0b530fb4d1ebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720365,
+            "locality_id":1242672845,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1242672845,
+    "wof:lastmodified":1537641600,
+    "wof:name":"Sar Kalleh",
+    "wof:parent_id":1108720365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.2624,
+    37.06302,
+    50.2624,
+    37.06302
+],
+  "geometry": {"coordinates":[50.2624,37.06302],"type":"Point"}
+}

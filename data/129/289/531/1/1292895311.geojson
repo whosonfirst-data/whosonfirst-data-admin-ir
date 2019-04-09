@@ -1,0 +1,82 @@
+{
+  "id": 1292895311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.00684,34.73823,48.00684,34.73823",
+    "geom:latitude":34.73823,
+    "geom:longitude":48.00684,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Hesamabad",
+    "gn:country_code":"IR",
+    "gn:dem":1526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":131511,
+    "gn:latitude":34.73823,
+    "gn:longitude":48.00684,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"\u1e28es\u0101m\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0650\u0633\u0627\u0645 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0643\u064f\u0644\u0648\u0646 \u062a\u064e\u067e\u0650\u0651\u0647",
+        "\u0647\u064a\u0633\u0627\u0645 \u0622\u0628\u0627\u062f",
+        "\u1e28es\u0101m\u0101b\u0101d",
+        "\u062d\u0633\u0627\u0645 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Kol\u016bn Tappeh",
+        "H\u012bs\u0101m\u0101b\u0101d",
+        "\u062d\u0633\u0627\u0645 \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108719829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":131511,
+        "wk:page":"Hesamabad,_Asadabad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e21499c075941e06608c5e2967aa602c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719829,
+            "locality_id":1292895311,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1292895311,
+    "wof:lastmodified":1537644975,
+    "wof:name":"Hesamabad",
+    "wof:parent_id":1108719829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.00684,
+    34.73823,
+    48.00684,
+    34.73823
+],
+  "geometry": {"coordinates":[48.00684,34.73823],"type":"Point"}
+}

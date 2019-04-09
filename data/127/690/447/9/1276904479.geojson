@@ -1,0 +1,77 @@
+{
+  "id": 1276904479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.46498,37.0568,57.46498,37.0568",
+    "geom:latitude":37.0568,
+    "geom:longitude":57.46498,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Kunski",
+    "gn:country_code":"IR",
+    "gn:dem":1187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":126094,
+    "gn:latitude":37.0568,
+    "gn:longitude":57.46498,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"K\u016bnsk\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "K\u016bshk\u012b"
+    ],
+    "name:fas_x_variant":[
+        "K\u016bnsk\u012b",
+        "\u06a9\u0648\u0646\u0633\u06a9\u06cc"
+    ],
+    "name:und_x_variant":[
+        "K\u016bnsk\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672401,
+        1108719979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":126094
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c4cdff7268aea98b58592527ad2d9f7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719979,
+            "locality_id":1276904479,
+            "region_id":85672401
+        }
+    ],
+    "wof:id":1276904479,
+    "wof:lastmodified":1537644413,
+    "wof:name":"Kunski",
+    "wof:parent_id":1108719979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.46498,
+    37.0568,
+    57.46498,
+    37.0568
+],
+  "geometry": {"coordinates":[57.46498,37.0568],"type":"Point"}
+}

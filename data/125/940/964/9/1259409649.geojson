@@ -1,0 +1,77 @@
+{
+  "id": 1259409649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.1126,37.93395,57.1126,37.93395",
+    "geom:latitude":37.93395,
+    "geom:longitude":57.1126,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Raz",
+    "gn:country_code":"IR",
+    "gn:dem":1274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":118694,
+    "gn:latitude":37.93395,
+    "gn:longitude":57.1126,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"R\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "R\u0101z"
+    ],
+    "name:fas_x_variant":[
+        "\u0631\u0627\u0632"
+    ],
+    "name:und_x_variant":[
+        "\u0631\u0627\u0632"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672401,
+        1108719897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":118694,
+        "wk:page":"Raz%2C_Iran"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"acb465723b25b8a40b5d84fa4dfe62b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719897,
+            "locality_id":1259409649,
+            "region_id":85672401
+        }
+    ],
+    "wof:id":1259409649,
+    "wof:lastmodified":1537643662,
+    "wof:name":"Raz",
+    "wof:parent_id":1108719897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.1126,
+    37.93395,
+    57.1126,
+    37.93395
+],
+  "geometry": {"coordinates":[57.1126,37.93395],"type":"Point"}
+}

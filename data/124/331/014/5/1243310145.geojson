@@ -1,0 +1,82 @@
+{
+  "id": 1243310145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.0003,30.4125,55.0003,30.4125",
+    "geom:latitude":30.4125,
+    "geom:longitude":55.0003,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Estakhr-e Deraz",
+    "gn:country_code":"IR",
+    "gn:dem":2241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":135087,
+    "gn:latitude":30.4125,
+    "gn:longitude":55.0003,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Estakhr-e Der\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u062e\u0631 \u062f\u0631\u0627\u0632"
+    ],
+    "name:fas_x_variant":[
+        "Estakhr-e Der\u0101z",
+        "\u062e\u0631\u0645\u062f\u0631\u0647",
+        "\u0647\u0631\u0645\u0648\u062f\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Khowrmowd\u016byeh",
+        "Khowrmowd\u012byeh",
+        "\u062e\u0648\u0631\u0645\u0648\u062f\u064a\u0647",
+        "Khorramdarreh",
+        "Horm\u016bd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":135087
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b613f4af0513a3e1f71395fac4af64d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720433,
+            "locality_id":1243310145,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1243310145,
+    "wof:lastmodified":1537645338,
+    "wof:name":"Estakhr-e Deraz",
+    "wof:parent_id":1108720433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.0003,
+    30.4125,
+    55.0003,
+    30.4125
+],
+  "geometry": {"coordinates":[55.0003,30.4125],"type":"Point"}
+}

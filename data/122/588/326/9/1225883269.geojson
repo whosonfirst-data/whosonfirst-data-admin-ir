@@ -1,0 +1,79 @@
+{
+  "id": 1225883269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.42766,37.2006,55.42766,37.2006",
+    "geom:latitude":37.2006,
+    "geom:longitude":55.42766,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Deh-e Na `Alaj",
+    "gn:country_code":"IR",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5898,
+    "gn:latitude":37.2006,
+    "gn:longitude":55.42766,
+    "gn:modification_date":"2018-05-11",
+    "gn:name":"Deh-e N\u0101 \u2018Al\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "N\u0101 \u2018Al\u0101j"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0647 \u0646\u0627 \u0639\u0644\u0627\u062c",
+        "\u0641\u0627\u0644\u0627\u062c"
+    ],
+    "name:und_x_variant":[
+        "Deh-e N\u0101 \u2018Al\u0101j",
+        "F\u0101l\u0101j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5898,
+        "wk:page":"Na_Alaj"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7dbc86d25f7af9ec8eb8182c1c47e3f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720245,
+            "locality_id":1225883269,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1225883269,
+    "wof:lastmodified":1537640309,
+    "wof:name":"Deh-e Na `Alaj",
+    "wof:parent_id":1108720245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.42766,
+    37.2006,
+    55.42766,
+    37.2006
+],
+  "geometry": {"coordinates":[55.42766,37.2006],"type":"Point"}
+}

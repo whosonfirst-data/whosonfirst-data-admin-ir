@@ -1,0 +1,81 @@
+{
+  "id": 1243245553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.13659,35.42826,46.13659,35.42826",
+    "geom:latitude":35.42826,
+    "geom:longitude":46.13659,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Gharb Veyseh",
+    "gn:country_code":"IR",
+    "gn:dem":1480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112026,
+    "gn:latitude":35.42826,
+    "gn:longitude":46.13659,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Gharb Veyseh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u064a\u0633\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u063a\u0631\u0628 \u0648\u06cc\u0633\u0647"
+    ],
+    "name:und_x_variant":[
+        "V\u012bzeh",
+        "Veyseh",
+        "Vaiseh",
+        "Vayseh",
+        "Gharb Veyseh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112026,
+        "wk:page":"Veyseh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b4b3086271d9c09e09e704c7498c9eb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720221,
+            "locality_id":1243245553,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1243245553,
+    "wof:lastmodified":1537643038,
+    "wof:name":"Gharb Veyseh",
+    "wof:parent_id":1108720221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.13659000000001,
+    35.42825999999999,
+    46.13659000000001,
+    35.42825999999999
+],
+  "geometry": {"coordinates":[46.13659000000001,35.42825999999999],"type":"Point"}
+}

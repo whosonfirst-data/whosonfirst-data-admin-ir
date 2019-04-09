@@ -1,0 +1,73 @@
+{
+  "id": 1243304585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.7368,35.3739,49.7368,35.3739",
+    "geom:latitude":35.3739,
+    "geom:longitude":49.7368,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Niki Kand",
+    "gn:country_code":"IR",
+    "gn:dem":2263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6662310,
+    "gn:latitude":35.3739,
+    "gn:longitude":49.7368,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"N\u012bk\u012b Kand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u06a9\u06cc \u06a9\u0646\u062f"
+    ],
+    "name:fas_x_variant":[
+        "N\u012bk\u012b Kand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6662310
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c953425a3c347ff04e0a1dc25d072010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720525,
+            "locality_id":1243304585,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1243304585,
+    "wof:lastmodified":1537647297,
+    "wof:name":"Niki Kand",
+    "wof:parent_id":1108720525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.7368,
+    35.3739,
+    49.7368,
+    35.3739
+],
+  "geometry": {"coordinates":[49.7368,35.3739],"type":"Point"}
+}

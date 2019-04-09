@@ -1,0 +1,78 @@
+{
+  "id": 1326875011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.92458,33.46853,49.92458,33.46853",
+    "geom:latitude":33.46853,
+    "geom:longitude":49.92458,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Qal`eh-ye Ashna Khowr",
+    "gn:country_code":"IR",
+    "gn:dem":2099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":120579,
+    "gn:latitude":33.46853,
+    "gn:longitude":49.92458,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Qal\u2018eh-ye \u0100shn\u0101 Khowr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Qal\u2018eh"
+    ],
+    "name:fas_x_variant":[
+        "\u0642\u0644\u0639\u0647",
+        "\u0642\u0644\u0639\u0647 \u0622\u0634\u0646\u0627 \u062e\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u0642\u0644\u0639\u0647",
+        "Qal\u2018eh-ye \u0100shn\u0101 Khowr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":120579
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7d5fdb1222abb03691d9069a919e0743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720137,
+            "locality_id":1326875011,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1326875011,
+    "wof:lastmodified":1537643874,
+    "wof:name":"Qal`eh-ye Ashna Khowr",
+    "wof:parent_id":1108720137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.92458,
+    33.46853,
+    49.92458,
+    33.46853
+],
+  "geometry": {"coordinates":[49.92458,33.46853],"type":"Point"}
+}

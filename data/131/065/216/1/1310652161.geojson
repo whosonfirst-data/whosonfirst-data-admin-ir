@@ -1,0 +1,74 @@
+{
+  "id": 1310652161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.304,36.3871,50.304,36.3871",
+    "geom:latitude":36.3871,
+    "geom:longitude":50.304,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Baghestan",
+    "gn:country_code":"IR",
+    "gn:dem":1685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6658953,
+    "gn:latitude":36.3871,
+    "gn:longitude":50.304,
+    "gn:modification_date":"2018-07-15",
+    "gn:name":"B\u0101ghest\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u063a\u0633\u062a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "B\u0101ghest\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108720315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6658953,
+        "wk:page":"Baghestan,_Qazvin"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"da0008e392fc2878eb82fbf4c5f900a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720315,
+            "locality_id":1310652161,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1310652161,
+    "wof:lastmodified":1537647266,
+    "wof:name":"Baghestan",
+    "wof:parent_id":1108720315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.304,
+    36.3871,
+    50.304,
+    36.3871
+],
+  "geometry": {"coordinates":[50.304,36.3871],"type":"Point"}
+}

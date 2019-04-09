@@ -1,0 +1,74 @@
+{
+  "id": 1343800483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.55,31.8,54.55,31.8",
+    "geom:latitude":31.8,
+    "geom:longitude":54.55,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Qal`eh-ye Khoshk",
+    "gn:country_code":"IR",
+    "gn:dem":1256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":67095,
+    "gn:latitude":31.8,
+    "gn:longitude":54.55,
+    "gn:modification_date":"2013-12-09",
+    "gn:name":"Qal\u2018eh-ye Khoshk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Qal\u2018eh-ye Khoshk"
+    ],
+    "name:und_x_variant":[
+        "Qal\u2018eh Khushk",
+        "Qolleh-ye Khvoshk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108720511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":67095
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5f74b26daaccdd1fffaba5927a2df42d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720511,
+            "locality_id":1343800483,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1343800483,
+    "wof:lastmodified":1537642825,
+    "wof:name":"Qal`eh-ye Khoshk",
+    "wof:parent_id":1108720511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.55,
+    31.8,
+    54.55,
+    31.8
+],
+  "geometry": {"coordinates":[54.55,31.8],"type":"Point"}
+}

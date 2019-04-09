@@ -1,0 +1,75 @@
+{
+  "id": 1276211453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.51694,37.13472,49.51694,37.13472",
+    "geom:latitude":37.13472,
+    "geom:longitude":49.51694,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Azad Mahalleh",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":29347,
+    "gn:latitude":37.13472,
+    "gn:longitude":49.51694,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u0100z\u0101d Ma\u1e29alleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0100z\u0101d Ma\u1e29alleh"
+    ],
+    "name:und_x_variant":[
+        "Gorbeh Ma\u1e29alleh",
+        "Garm Ma\u1e29alleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":29347
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"388ffd10bee8b5c00957dd5b6a6c7267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720427,
+            "locality_id":1276211453,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1276211453,
+    "wof:lastmodified":1537641638,
+    "wof:name":"Azad Mahalleh",
+    "wof:parent_id":1108720427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.51694000000001,
+    37.13472,
+    49.51694000000001,
+    37.13472
+],
+  "geometry": {"coordinates":[49.51694000000001,37.13472],"type":"Point"}
+}

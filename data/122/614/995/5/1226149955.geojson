@@ -1,0 +1,76 @@
+{
+  "id": 1226149955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.79566,31.44121,50.79566,31.44121",
+    "geom:latitude":31.44121,
+    "geom:longitude":50.79566,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Mamur",
+    "gn:country_code":"IR",
+    "gn:dem":2002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":125012,
+    "gn:latitude":31.44121,
+    "gn:longitude":50.79566,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"M\u0101m\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0645\u0648\u0631"
+    ],
+    "name:fas_x_variant":[
+        "M\u0101m\u016br"
+    ],
+    "name:und_x_variant":[
+        "Ma\u2018m\u016breh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672319,
+        1108720189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":125012
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"28d3811d29a464f3987efa4ab367a182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720189,
+            "locality_id":1226149955,
+            "region_id":85672319
+        }
+    ],
+    "wof:id":1226149955,
+    "wof:lastmodified":1537644306,
+    "wof:name":"Mamur",
+    "wof:parent_id":1108720189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.79566,
+    31.44121,
+    50.79566,
+    31.44121
+],
+  "geometry": {"coordinates":[50.79566,31.44121],"type":"Point"}
+}

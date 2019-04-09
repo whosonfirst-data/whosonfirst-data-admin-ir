@@ -1,0 +1,74 @@
+{
+  "id": 1260080209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.4475,28.32444,61.4475,28.32444",
+    "geom:latitude":28.32444,
+    "geom:longitude":61.4475,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bayan",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1161689,
+    "gn:latitude":28.32444,
+    "gn:longitude":61.4475,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"B\u0101y\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "B\u0101y\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Bey\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1161689
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c05c3bb8579cd46d9dd29592e46c5517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720131,
+            "locality_id":1260080209,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1260080209,
+    "wof:lastmodified":1537647137,
+    "wof:name":"Bayan",
+    "wof:parent_id":1108720131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.4475,
+    28.32444000000001,
+    61.4475,
+    28.32444000000001
+],
+  "geometry": {"coordinates":[61.4475,28.32444000000001],"type":"Point"}
+}

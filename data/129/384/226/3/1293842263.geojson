@@ -1,0 +1,73 @@
+{
+  "id": 1293842263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.2151,27.8602,52.2151,27.8602",
+    "geom:latitude":27.8602,
+    "geom:longitude":52.2151,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Tang-e Salmani",
+    "gn:country_code":"IR",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6683709,
+    "gn:latitude":27.8602,
+    "gn:longitude":52.2151,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Tang-e Salm\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0646\u06af \u0633\u0644\u0645\u0627\u0646\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Tang-e Salm\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108720075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6683709
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0e3778e342eb6821b9c3970e74c704c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720075,
+            "locality_id":1293842263,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1293842263,
+    "wof:lastmodified":1537647365,
+    "wof:name":"Tang-e Salmani",
+    "wof:parent_id":1108720075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.2151,
+    27.8602,
+    52.2151,
+    27.8602
+],
+  "geometry": {"coordinates":[52.2151,27.8602],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293864431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.5276,27.6761,56.5276,27.6761",
+    "geom:latitude":27.6761,
+    "geom:longitude":56.5276,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Parchangah",
+    "gn:country_code":"IR",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":47918,
+    "gn:latitude":27.6761,
+    "gn:longitude":56.5276,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Parchang\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u062c\u0646\u06af\u0627\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u0631\u0686\u0646\u06af\u0627\u0647",
+        "Parjang\u0101h",
+        "Parchang\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108719863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":47918
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bfdb76f82a44514c40d1b9c716c90462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719863,
+            "locality_id":1293864431,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1293864431,
+    "wof:lastmodified":1537642694,
+    "wof:name":"Parchangah",
+    "wof:parent_id":1108719863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.5276,
+    27.6761,
+    56.5276,
+    27.6761
+],
+  "geometry": {"coordinates":[56.5276,27.6761],"type":"Point"}
+}

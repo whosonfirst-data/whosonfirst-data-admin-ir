@@ -1,0 +1,70 @@
+{
+  "id": 1259482033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.38778,30.54222,51.38778,30.54222",
+    "geom:latitude":30.54222,
+    "geom:longitude":51.38778,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Guvan",
+    "gn:country_code":"IR",
+    "gn:dem":2309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":46972,
+    "gn:latitude":30.54222,
+    "gn:longitude":51.38778,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"G\u016bvan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "G\u016bvan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108719911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":46972
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"eb045a409d0114304ac884fd8c2e6e41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719911,
+            "locality_id":1259482033,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1259482033,
+    "wof:lastmodified":1537642650,
+    "wof:name":"Guvan",
+    "wof:parent_id":1108719911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.38778,
+    30.54222,
+    51.38778,
+    30.54222
+],
+  "geometry": {"coordinates":[51.38778,30.54222],"type":"Point"}
+}

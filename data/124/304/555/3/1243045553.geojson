@@ -1,0 +1,75 @@
+{
+  "id": 1243045553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.8003,27.8971,56.8003,27.8971",
+    "geom:latitude":27.8971,
+    "geom:longitude":56.8003,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Moharramabad",
+    "gn:country_code":"IR",
+    "gn:dem":873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6985713,
+    "gn:latitude":27.8971,
+    "gn:longitude":56.8003,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Mo\u1e29arram\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u062d\u0631\u0645 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Shaqr\u016bd",
+        "\u0634\u0642\u0631\u0648\u062f",
+        "Mo\u1e29arram\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6985713
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"06f6dc8dd71c55672538ddf923bc3c26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720045,
+            "locality_id":1243045553,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1243045553,
+    "wof:lastmodified":1537647845,
+    "wof:name":"Moharramabad",
+    "wof:parent_id":1108720045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.8003,
+    27.8971,
+    56.8003,
+    27.8971
+],
+  "geometry": {"coordinates":[56.8003,27.8971],"type":"Point"}
+}

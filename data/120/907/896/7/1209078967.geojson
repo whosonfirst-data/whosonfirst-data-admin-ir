@@ -1,0 +1,71 @@
+{
+  "id": 1209078967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.97924,32.27101,47.97924,32.27101",
+    "geom:latitude":32.27101,
+    "geom:longitude":47.97924,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Vavi Beyt Salem",
+    "gn:country_code":"IR",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":112090,
+    "gn:latitude":32.27101,
+    "gn:longitude":47.97924,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"V\u0101v\u012b Beyt S\u0101lem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0648\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "V\u0101v\u012b",
+        "\u0648\u0627\u0648\u06cc \u0628\u064a\u062a \u0633\u0627\u0644\u0645"
+    ],
+    "name:und_x_variant":[
+        "V\u0101v\u012b Beyt S\u0101lem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112090
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8692f87a2f1330adc6fc27f207cc5adc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209078967
+        }
+    ],
+    "wof:id":1209078967,
+    "wof:lastmodified":1537643046,
+    "wof:name":"Vavi Beyt Salem",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.97924,
+    32.27101,
+    47.97924,
+    32.27101
+],
+  "geometry": {"coordinates":[47.97924,32.27101],"type":"Point"}
+}

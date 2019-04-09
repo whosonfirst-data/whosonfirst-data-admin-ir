@@ -1,0 +1,84 @@
+{
+  "id": 1293321277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.05727,34.92403,61.05727,34.92403",
+    "geom:latitude":34.92403,
+    "geom:longitude":61.05727,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Kalsang",
+    "gn:country_code":"IR",
+    "gn:dem":695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1160693,
+    "gn:latitude":34.92403,
+    "gn:longitude":61.05727,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"K\u0101lsang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Qal\u2018eh-ye K\u0101l Sang"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0627\u0644\u0633\u0646\u06af",
+        "K\u0101lsang",
+        "Qala K\u0101lsang",
+        "Kar\u012bm\u0101b\u0101d",
+        "K\u0101l-e Sang"
+    ],
+    "name:und_x_variant":[
+        "Gal Sang",
+        "Kar\u012bm\u0101b\u0101d",
+        "Qala K\u0101lsang",
+        "Kale Sari",
+        "K\u0101l-e Sang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1160693
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ae239f0897179e1390b1fb46e2b81a9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720499,
+            "locality_id":1293321277,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1293321277,
+    "wof:lastmodified":1537647061,
+    "wof:name":"Kalsang",
+    "wof:parent_id":1108720499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.05727,
+    34.92403,
+    61.05727,
+    34.92403
+],
+  "geometry": {"coordinates":[61.05727,34.92403],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293389941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.6797,26.1953,60.6797,26.1953",
+    "geom:latitude":26.1953,
+    "geom:longitude":60.6797,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hit",
+    "gn:country_code":"IR",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1160978,
+    "gn:latitude":26.1953,
+    "gn:longitude":60.6797,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"H\u012bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u062a"
+    ],
+    "name:fas_x_variant":[
+        "H\u012bt"
+    ],
+    "name:und_x_variant":[
+        "Heyyat",
+        "Hait",
+        "Heyt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1160978
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7a00a64c875608666373023e3f0b0358",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720271,
+            "locality_id":1293389941,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1293389941,
+    "wof:lastmodified":1537647082,
+    "wof:name":"Hit",
+    "wof:parent_id":1108720271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.6797,
+    26.1953,
+    60.6797,
+    26.1953
+],
+  "geometry": {"coordinates":[60.6797,26.1953],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293346419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.6503,33.4112,48.6503,33.4112",
+    "geom:latitude":33.4112,
+    "geom:longitude":48.6503,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Qal`eh-ye Sheykh",
+    "gn:country_code":"IR",
+    "gn:dem":1724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":120118,
+    "gn:latitude":33.4112,
+    "gn:longitude":48.6503,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qal\u2018eh-ye Sheykh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0639\u0647 \u0634\u064a\u062e"
+    ],
+    "name:fas_x_variant":[
+        "Qal\u2018eh-ye Sheykh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":120118
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0fdf3e3e2987630c6e1fdf74940f3d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720145,
+            "locality_id":1293346419,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1293346419,
+    "wof:lastmodified":1537643821,
+    "wof:name":"Qal`eh-ye Sheykh",
+    "wof:parent_id":1108720145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.6503,
+    33.4112,
+    48.6503,
+    33.4112
+],
+  "geometry": {"coordinates":[48.6503,33.4112],"type":"Point"}
+}

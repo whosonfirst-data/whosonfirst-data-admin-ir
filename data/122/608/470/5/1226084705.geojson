@@ -1,0 +1,75 @@
+{
+  "id": 1226084705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.10007,37.0061,54.10007,37.0061",
+    "geom:latitude":37.0061,
+    "geom:longitude":54.10007,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Qarah Kileh",
+    "gn:country_code":"IR",
+    "gn:dem":-25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":40050,
+    "gn:latitude":37.0061,
+    "gn:longitude":54.10007,
+    "gn:modification_date":"2014-09-30",
+    "gn:name":"Qarah K\u012bleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u0647 \u0643\u064a\u0644\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Qareh K\u012bleh",
+        "Qarah K\u012bleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":40050,
+        "wk:page":"Qarah_Kileh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"54aef38eeaf12eb9021e9991094e13a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720501,
+            "locality_id":1226084705,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1226084705,
+    "wof:lastmodified":1537642248,
+    "wof:name":"Qarah Kileh",
+    "wof:parent_id":1108720501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.10007,
+    37.0061,
+    54.10007,
+    37.0061
+],
+  "geometry": {"coordinates":[54.10007,37.0061],"type":"Point"}
+}

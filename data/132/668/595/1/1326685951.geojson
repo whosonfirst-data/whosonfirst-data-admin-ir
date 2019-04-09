@@ -1,0 +1,78 @@
+{
+  "id": 1326685951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.2182,33.7351,48.2182,33.7351",
+    "geom:latitude":33.7351,
+    "geom:longitude":48.2182,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Jim Bim Yar",
+    "gn:country_code":"IR",
+    "gn:dem":1513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":139190,
+    "gn:latitude":33.7351,
+    "gn:longitude":48.2182,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"J\u012bm B\u012bm Y\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0686\u064e\u0645 \u0628\u064a\u0645 \u064a\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u062c\u06cc\u0645 \u0628\u06cc\u0645 \u06cc\u0627\u0631",
+        "Cham B\u012bm Y\u0101r",
+        "J\u012bm B\u012bm Y\u0101r"
+    ],
+    "name:und_x_variant":[
+        "Cham B\u012bam Y\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":139190
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d26b32a5b7172a46e97c49d440f8c049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720411,
+            "locality_id":1326685951,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1326685951,
+    "wof:lastmodified":1537645753,
+    "wof:name":"Jim Bim Yar",
+    "wof:parent_id":1108720411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.2182,
+    33.7351,
+    48.2182,
+    33.7351
+],
+  "geometry": {"coordinates":[48.2182,33.7351],"type":"Point"}
+}

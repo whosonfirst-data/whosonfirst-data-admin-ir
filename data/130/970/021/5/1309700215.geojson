@@ -1,0 +1,76 @@
+{
+  "id": 1309700215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.4593,26.5631,57.4593,26.5631",
+    "geom:latitude":26.5631,
+    "geom:longitude":57.4593,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Dasht",
+    "gn:country_code":"IR",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6649715,
+    "gn:latitude":26.5631,
+    "gn:longitude":57.4593,
+    "gn:modification_date":"2013-11-12",
+    "gn:name":"Dasht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062f\u0634\u062a"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0631\u062a\u0646\u06af"
+    ],
+    "name:und_x_variant":[
+        "Sartang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6649715
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ab58942bf4deca916c92074b876ffbce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720243,
+            "locality_id":1309700215,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1309700215,
+    "wof:lastmodified":1537647193,
+    "wof:name":"Dasht",
+    "wof:parent_id":1108720243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.4593,
+    26.5631,
+    57.4593,
+    26.5631
+],
+  "geometry": {"coordinates":[57.4593,26.5631],"type":"Point"}
+}

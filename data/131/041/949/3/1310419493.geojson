@@ -1,0 +1,76 @@
+{
+  "id": 1310419493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.4353,39.3161,44.4353,39.3161",
+    "geom:latitude":39.3161,
+    "geom:longitude":44.4353,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Sangar",
+    "gn:country_code":"IR",
+    "gn:dem":1351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":14062,
+    "gn:latitude":39.3161,
+    "gn:longitude":44.4353,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sangar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u064e\u0646\u06af\u064e\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0646\u06af\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u0633\u0646\u06af\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":14062
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d7587f083290593b3d38734ef26da152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720203,
+            "locality_id":1310419493,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1310419493,
+    "wof:lastmodified":1537640776,
+    "wof:name":"Sangar",
+    "wof:parent_id":1108720203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.4353,
+    39.3161,
+    44.4353,
+    39.3161
+],
+  "geometry": {"coordinates":[44.4353,39.3161],"type":"Point"}
+}

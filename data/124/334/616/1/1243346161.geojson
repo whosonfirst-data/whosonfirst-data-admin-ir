@@ -1,0 +1,77 @@
+{
+  "id": 1243346161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.4987,30.63105,49.4987,30.63105",
+    "geom:latitude":30.63105,
+    "geom:longitude":49.4987,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Abu Tarfa'iyeh",
+    "gn:country_code":"IR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":144809,
+    "gn:latitude":30.63105,
+    "gn:longitude":49.4987,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Ab\u016b \u0162arf\u0101\u2019\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u0648 \u0637\u0631\u0641\u0627\u06cc\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Ab\u016b \u0162arf\u0101yeh-ye P\u0101\u2019\u012bn",
+        "Ab\u016b \u0162arf\u0101\u2019\u012byeh"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b Tarf\u0101yeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":144809
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8c8bc79a6a3575bc9c40ad19f7a14656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720285,
+            "locality_id":1243346161,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1243346161,
+    "wof:lastmodified":1537646305,
+    "wof:name":"Abu Tarfa'iyeh",
+    "wof:parent_id":1108720285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.4987,
+    30.63105,
+    49.4987,
+    30.63105
+],
+  "geometry": {"coordinates":[49.4987,30.63105],"type":"Point"}
+}

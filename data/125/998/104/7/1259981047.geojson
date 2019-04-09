@@ -1,0 +1,73 @@
+{
+  "id": 1259981047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.23067,31.28053,51.23067,31.28053",
+    "geom:latitude":31.28053,
+    "geom:longitude":51.23067,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Eshgaftan",
+    "gn:country_code":"IR",
+    "gn:dem":1768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7510009,
+    "gn:latitude":31.28053,
+    "gn:longitude":51.23067,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Eshgaftan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0634\u06af\u0641\u062a\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0627\u0634\u06af\u0641\u062a\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672319,
+        1108720189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7510009
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"49e90cc7cd0b50d4fa79a75e54415d0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720189,
+            "locality_id":1259981047,
+            "region_id":85672319
+        }
+    ],
+    "wof:id":1259981047,
+    "wof:lastmodified":1537648278,
+    "wof:name":"Eshgaftan",
+    "wof:parent_id":1108720189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.23067,
+    31.28053,
+    51.23067,
+    31.28053
+],
+  "geometry": {"coordinates":[51.23067,31.28053],"type":"Point"}
+}

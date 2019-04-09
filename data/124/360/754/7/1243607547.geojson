@@ -1,0 +1,79 @@
+{
+  "id": 1243607547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.51529,36.59483,52.51529,36.59483",
+    "geom:latitude":36.59483,
+    "geom:longitude":52.51529,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Bi Namad",
+    "gn:country_code":"IR",
+    "gn:dem":-10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":385169,
+    "gn:latitude":36.59483,
+    "gn:longitude":52.51529,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"B\u012b Namad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u064a\u0646\u064e\u0645\u064e\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u06cc \u0646\u0645\u062f",
+        "B\u012bnamad",
+        "B\u012b Namad"
+    ],
+    "name:und_x_variant":[
+        "B\u012b Namad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385169,
+        "wk:page":"Bi_Namad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"550460c57e38a9948d3dcacb7f2e0d70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719847,
+            "locality_id":1243607547,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1243607547,
+    "wof:lastmodified":1537646390,
+    "wof:name":"Bi Namad",
+    "wof:parent_id":1108719847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.51529,
+    36.59483,
+    52.51529,
+    36.59483
+],
+  "geometry": {"coordinates":[52.51529,36.59483],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242945815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.5,32.1848,49.5,32.1848",
+    "geom:latitude":32.1848,
+    "geom:longitude":49.5,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Shahrak-e Emam Khomeyni",
+    "gn:country_code":"IR",
+    "gn:dem":709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6661844,
+    "gn:latitude":32.1848,
+    "gn:longitude":49.5,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Shahrak-e Em\u0101m Khomeyn\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u06a9 \u0627\u0645\u0627\u0645 \u062e\u0645\u06cc\u0646\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Shahrak-e Em\u0101m Khomeyn\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6661844
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"540534261db33927386b13bcf4050ef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720229,
+            "locality_id":1242945815,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1242945815,
+    "wof:lastmodified":1537647289,
+    "wof:name":"Shahrak-e Emam Khomeyni",
+    "wof:parent_id":1108720229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.5,
+    32.1848,
+    49.5,
+    32.1848
+],
+  "geometry": {"coordinates":[49.5,32.1848],"type":"Point"}
+}

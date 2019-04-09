@@ -1,0 +1,74 @@
+{
+  "id": 1344056817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.68023,28.03409,61.68023,28.03409",
+    "geom:latitude":28.03409,
+    "geom:longitude":61.68023,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pishin",
+    "gn:country_code":"IR",
+    "gn:dem":1852,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8687740,
+    "gn:latitude":28.03409,
+    "gn:longitude":61.68023,
+    "gn:modification_date":"2018-07-27",
+    "gn:name":"P\u012bsh\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u064a\u0634\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "P\u012bsh\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8687740,
+        "wk:page":"Pishin,_Iran"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a0f384ad52a52336a7e19e769aa0f447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720131,
+            "locality_id":1344056817,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1344056817,
+    "wof:lastmodified":1537648605,
+    "wof:name":"Pishin",
+    "wof:parent_id":1108720131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.68023,
+    28.03409000000001,
+    61.68023,
+    28.03409000000001
+],
+  "geometry": {"coordinates":[61.68023,28.03409000000001],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1226127253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.9737,37.0654,49.9737,37.0654",
+    "geom:latitude":37.0654,
+    "geom:longitude":49.9737,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Yanj",
+    "gn:country_code":"IR",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":28696,
+    "gn:latitude":37.0654,
+    "gn:longitude":49.9737,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"Yanj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "N\u012bach"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u06cc\u062c",
+        "\u06cc\u0646\u062c"
+    ],
+    "name:und_x_variant":[
+        "Nayaj",
+        "\u0646\u06cc\u062c",
+        "Yanj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":28696
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4ef226bf9ce79c2bae6cb1e9db275fbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720183,
+            "locality_id":1226127253,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1226127253,
+    "wof:lastmodified":1537641566,
+    "wof:name":"Yanj",
+    "wof:parent_id":1108720183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.9737,
+    37.0654,
+    49.9737,
+    37.0654
+],
+  "geometry": {"coordinates":[49.9737,37.0654],"type":"Point"}
+}

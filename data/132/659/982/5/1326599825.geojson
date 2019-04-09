@@ -1,0 +1,73 @@
+{
+  "id": 1326599825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.3394,30.8794,49.3394,30.8794",
+    "geom:latitude":30.8794,
+    "geom:longitude":49.3394,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Khar Farah-e Sofla",
+    "gn:country_code":"IR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11313132,
+    "gn:latitude":30.8794,
+    "gn:longitude":49.3394,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Khar Fara\u1e29-e Sofl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0631 \u0641\u0631\u062d \u0633\u0641\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Khar Fara\u1e29-e Sofl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11313132
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"21b94bfc81fddfb883b567a88284b703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720335,
+            "locality_id":1326599825,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1326599825,
+    "wof:lastmodified":1537648766,
+    "wof:name":"Khar Farah-e Sofla",
+    "wof:parent_id":1108720335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.3394,
+    30.8794,
+    49.3394,
+    30.8794
+],
+  "geometry": {"coordinates":[49.3394,30.8794],"type":"Point"}
+}

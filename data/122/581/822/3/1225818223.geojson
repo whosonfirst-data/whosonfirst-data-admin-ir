@@ -1,0 +1,73 @@
+{
+  "id": 1225818223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.1217,32.7026,48.1217,32.7026",
+    "geom:latitude":32.7026,
+    "geom:longitude":48.1217,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Dar Khorma",
+    "gn:country_code":"IR",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6688130,
+    "gn:latitude":32.7026,
+    "gn:longitude":48.1217,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"D\u0101r Khorm\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0631 \u062e\u0631\u0645\u0627"
+    ],
+    "name:fas_x_variant":[
+        "D\u0101r Khorm\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6688130
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a5c02a2b85e25c5c176fdec816558401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719811,
+            "locality_id":1225818223,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1225818223,
+    "wof:lastmodified":1537647419,
+    "wof:name":"Dar Khorma",
+    "wof:parent_id":1108719811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.1217,
+    32.7026,
+    48.1217,
+    32.7026
+],
+  "geometry": {"coordinates":[48.1217,32.7026],"type":"Point"}
+}

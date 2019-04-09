@@ -1,0 +1,77 @@
+{
+  "id": 1344170765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.8039,38.4818,44.8039,38.4818",
+    "geom:latitude":38.4818,
+    "geom:longitude":44.8039,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Sinur",
+    "gn:country_code":"IR",
+    "gn:dem":1294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":40391,
+    "gn:latitude":38.4818,
+    "gn:longitude":44.8039,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u012bn\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0646\u0648\u0631"
+    ],
+    "name:fas_x_variant":[
+        "S\u012bn\u016br"
+    ],
+    "name:und_x_variant":[
+        "Senowr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":40391,
+        "wk:page":"Sinur"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"507867f3fe655c81cbdecd38bc7464c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720153,
+            "locality_id":1344170765,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1344170765,
+    "wof:lastmodified":1537642267,
+    "wof:name":"Sinur",
+    "wof:parent_id":1108720153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.8039,
+    38.4818,
+    44.8039,
+    38.4818
+],
+  "geometry": {"coordinates":[44.8039,38.4818],"type":"Point"}
+}

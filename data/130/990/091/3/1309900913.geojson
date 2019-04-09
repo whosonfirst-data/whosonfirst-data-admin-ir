@@ -1,0 +1,75 @@
+{
+  "id": 1309900913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.949,32.9929,46.949,32.9929",
+    "geom:latitude":32.9929,
+    "geom:longitude":46.949,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Chameh Taq",
+    "gn:country_code":"IR",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":9350,
+    "gn:latitude":32.9929,
+    "gn:longitude":46.949,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Chameh \u0162\u0101q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0686\u064e\u0645 \u0637\u0627\u0642"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u0645\u0647 \u0637\u0627\u0642",
+        "Cham \u0162\u0101q",
+        "Chameh \u0162\u0101q"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108719957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9350
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"68cd279ce0dd6f5eba1347540a56509d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719957,
+            "locality_id":1309900913,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1309900913,
+    "wof:lastmodified":1537640474,
+    "wof:name":"Chameh Taq",
+    "wof:parent_id":1108719957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.949,
+    32.9929,
+    46.949,
+    32.9929
+],
+  "geometry": {"coordinates":[46.949,32.9929],"type":"Point"}
+}

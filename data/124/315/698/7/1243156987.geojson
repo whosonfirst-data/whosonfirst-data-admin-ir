@@ -1,0 +1,74 @@
+{
+  "id": 1243156987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.93473,37.3231,49.93473,37.3231",
+    "geom:latitude":37.3231,
+    "geom:longitude":49.93473,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Nazok Sara",
+    "gn:country_code":"IR",
+    "gn:dem":-14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":28713,
+    "gn:latitude":37.3231,
+    "gn:longitude":49.93473,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"N\u0101zok Sar\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "N\u0101zok Sar\u0101"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0627\u0632\u06a9 \u0633\u0631\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108719833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":28713,
+        "wk:page":"Nazok_Sara"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cc9b60b07a128b759ca44477d5aceed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719833,
+            "locality_id":1243156987,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1243156987,
+    "wof:lastmodified":1537641568,
+    "wof:name":"Nazok Sara",
+    "wof:parent_id":1108719833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.93473,
+    37.3231,
+    49.93473,
+    37.3231
+],
+  "geometry": {"coordinates":[49.93473,37.3231],"type":"Point"}
+}

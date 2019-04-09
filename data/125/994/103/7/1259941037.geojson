@@ -1,0 +1,73 @@
+{
+  "id": 1259941037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.7583,29.1541,56.7583,29.1541",
+    "geom:latitude":29.1541,
+    "geom:longitude":56.7583,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Sharikabad",
+    "gn:country_code":"IR",
+    "gn:dem":2159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":115373,
+    "gn:latitude":29.1541,
+    "gn:longitude":56.7583,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Shar\u012bk\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0631\u06cc\u06a9 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Shar\u012bk\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":115373
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"92432a02a1f9d5dc664f5b117edb479a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719851,
+            "locality_id":1259941037,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1259941037,
+    "wof:lastmodified":1537643354,
+    "wof:name":"Sharikabad",
+    "wof:parent_id":1108719851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.7583,
+    29.1541,
+    56.7583,
+    29.1541
+],
+  "geometry": {"coordinates":[56.7583,29.1541],"type":"Point"}
+}

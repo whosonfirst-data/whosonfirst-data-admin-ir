@@ -1,0 +1,77 @@
+{
+  "id": 1310525005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.38313,25.48803,59.38313,25.48803",
+    "geom:latitude":25.48803,
+    "geom:longitude":59.38313,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Galak",
+    "gn:country_code":"IR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":43140,
+    "gn:latitude":25.48803,
+    "gn:longitude":59.38313,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"G\u0101lak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "G\u0101lak"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u0627\u0644\u06a9"
+    ],
+    "name:und_x_variant":[
+        "\u06af\u0627\u0644\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":43140,
+        "wk:page":"Galak,_Sistan_and_Baluchestan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5a3416d3fbc3887f555580040e1b271c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720163,
+            "locality_id":1310525005,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1310525005,
+    "wof:lastmodified":1537642439,
+    "wof:name":"Galak",
+    "wof:parent_id":1108720163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.38313,
+    25.48803,
+    59.38313,
+    25.48803
+],
+  "geometry": {"coordinates":[59.38313,25.48803],"type":"Point"}
+}

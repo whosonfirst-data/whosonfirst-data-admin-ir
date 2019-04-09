@@ -1,0 +1,74 @@
+{
+  "id": 1276163717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.56667,36.53333,52.56667,36.53333",
+    "geom:latitude":36.53333,
+    "geom:longitude":52.56667,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ard Kola",
+    "gn:country_code":"IR",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1707,
+    "gn:latitude":36.53333,
+    "gn:longitude":52.56667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u0100rd Kol\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u062f \u0643\u064f\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0100rd Kol\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1707,
+        "wk:page":"Ard_Kola"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"523ff80d27eb230d157bf842f5aa407d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719845,
+            "locality_id":1276163717,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1276163717,
+    "wof:lastmodified":1537640183,
+    "wof:name":"Ard Kola",
+    "wof:parent_id":1108719845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.56667,
+    36.53333,
+    52.56667,
+    36.53333
+],
+  "geometry": {"coordinates":[52.56667,36.53333],"type":"Point"}
+}

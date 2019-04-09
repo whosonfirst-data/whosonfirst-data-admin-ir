@@ -1,0 +1,73 @@
+{
+  "id": 1260089403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.4472,36.541,45.4472,36.541",
+    "geom:latitude":36.541,
+    "geom:longitude":45.4472,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kani Kileh",
+    "gn:country_code":"IR",
+    "gn:dem":2006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6677176,
+    "gn:latitude":36.541,
+    "gn:longitude":45.4472,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"K\u0101n\u012b K\u012bleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0646\u06cc \u06a9\u06cc\u0644\u0647"
+    ],
+    "name:fas_x_variant":[
+        "K\u0101n\u012b K\u012bleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6677176
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"493da6176e741a14592e079c5802791e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720303,
+            "locality_id":1260089403,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1260089403,
+    "wof:lastmodified":1537647337,
+    "wof:name":"Kani Kileh",
+    "wof:parent_id":1108720303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.4472,
+    36.541,
+    45.4472,
+    36.541
+],
+  "geometry": {"coordinates":[45.4472,36.541],"type":"Point"}
+}

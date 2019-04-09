@@ -1,0 +1,78 @@
+{
+  "id": 1193266245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.827,28.3915,55.827,28.3915",
+    "geom:latitude":28.3915,
+    "geom:longitude":55.827,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Chah Tar-e Shomareh-ye Yek",
+    "gn:country_code":"IR",
+    "gn:dem":1134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6981437,
+    "gn:latitude":28.3915,
+    "gn:longitude":55.827,
+    "gn:modification_date":"2013-03-06",
+    "gn:name":"Ch\u0101h Tar-e Shom\u0101reh-ye Yek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0647 \u062a\u0631 \u0634\u0645\u0627\u0631\u0647 \u064a\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "Ch\u0101h Tar-e Shom\u0101reh-ye Yek",
+        "\u0686\u0627\u0647 \u062a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ch\u0101h Tar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6981437,
+        "wk:page":"Chah_Tar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"43632c44e9d483857fa63d3779b5854b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720045,
+            "locality_id":1193266245,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1193266245,
+    "wof:lastmodified":1537647829,
+    "wof:name":"Chah Tar-e Shomareh-ye Yek",
+    "wof:parent_id":1108720045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.827,
+    28.3915,
+    55.827,
+    28.3915
+],
+  "geometry": {"coordinates":[55.827,28.3915],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260130127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.41083,29.045,58.41083,29.045",
+    "geom:latitude":29.045,
+    "geom:longitude":58.41083,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Momenin",
+    "gn:country_code":"IR",
+    "gn:dem":988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":400480,
+    "gn:latitude":29.045,
+    "gn:longitude":58.41083,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Momen\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400480
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"59462948f305add1dc17f762a4828091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719861,
+            "locality_id":1260130127,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1260130127,
+    "wof:lastmodified":1536921764,
+    "wof:name":"Momenin",
+    "wof:parent_id":1108719861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.41083,
+    29.045,
+    58.41083,
+    29.045
+],
+  "geometry": {"coordinates":[58.41083,29.045],"type":"Point"}
+}

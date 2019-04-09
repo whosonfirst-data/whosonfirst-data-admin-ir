@@ -1,0 +1,73 @@
+{
+  "id": 1260234635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.73255,36.68258,52.73255,36.68258",
+    "geom:latitude":36.68258,
+    "geom:longitude":52.73255,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Tazehabad",
+    "gn:country_code":"IR",
+    "gn:dem":-19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11218,
+    "gn:latitude":36.68258,
+    "gn:longitude":52.73255,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"T\u0101zeh\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0632\u0647 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "T\u0101zeh\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11218
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2aa21f95fdf8981455383b8603805f06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719847,
+            "locality_id":1260234635,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1260234635,
+    "wof:lastmodified":1537640616,
+    "wof:name":"Tazehabad",
+    "wof:parent_id":1108719847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.73255,
+    36.68258,
+    52.73255,
+    36.68258
+],
+  "geometry": {"coordinates":[52.73255,36.68258],"type":"Point"}
+}

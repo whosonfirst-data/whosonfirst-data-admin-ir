@@ -1,0 +1,73 @@
+{
+  "id": 1242755465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.9336,27.26554,55.9336,27.26554",
+    "geom:latitude":27.26554,
+    "geom:longitude":55.9336,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Chah Lambur",
+    "gn:country_code":"IR",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8552689,
+    "gn:latitude":27.26554,
+    "gn:longitude":55.9336,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Ch\u0101h Lamb\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0647 \u0644\u0645\u0628\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ch\u0101h Lamb\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8552689
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bd285db51ab4e59080b286ea88ef75f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720127,
+            "locality_id":1242755465,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1242755465,
+    "wof:lastmodified":1537648584,
+    "wof:name":"Chah Lambur",
+    "wof:parent_id":1108720127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.9336,
+    27.26554,
+    55.9336,
+    27.26554
+],
+  "geometry": {"coordinates":[55.9336,27.26554],"type":"Point"}
+}

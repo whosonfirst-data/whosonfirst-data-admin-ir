@@ -1,0 +1,77 @@
+{
+  "id": 1243310151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.449,30.1974,55.449,30.1974",
+    "geom:latitude":30.1974,
+    "geom:longitude":55.449,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Chenar",
+    "gn:country_code":"IR",
+    "gn:dem":2139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":138766,
+    "gn:latitude":30.1974,
+    "gn:longitude":55.449,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chen\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0646\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Chen\u0101r"
+    ],
+    "name:und_x_variant":[
+        "Chenaroo\u2019eyeh",
+        "Chin\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":138766
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a33245a633adc4ea27f19e4cf8feb9c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720433,
+            "locality_id":1243310151,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1243310151,
+    "wof:lastmodified":1537645711,
+    "wof:name":"Chenar",
+    "wof:parent_id":1108720433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.449,
+    30.1974,
+    55.449,
+    30.1974
+],
+  "geometry": {"coordinates":[55.449,30.1974],"type":"Point"}
+}

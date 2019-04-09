@@ -1,0 +1,82 @@
+{
+  "id": 1226172225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.10486,37.09124,59.10486,37.09124",
+    "geom:latitude":37.09124,
+    "geom:longitude":59.10486,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Rishkhvar",
+    "gn:country_code":"IR",
+    "gn:dem":1724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":118469,
+    "gn:latitude":37.09124,
+    "gn:longitude":59.10486,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"R\u012bshkhv\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "R\u012bshkhv\u0101r"
+    ],
+    "name:fas_x_variant":[
+        "\u0631\u06cc\u0634\u062e\u0648\u0627\u0631",
+        "R\u016bshkh\u012b",
+        "R\u012bshkh\u0101r"
+    ],
+    "name:und_x_variant":[
+        "R\u016bshkh\u012b",
+        "R\u012bshkh\u0101r",
+        "Rushkhei",
+        "\u0631\u06cc\u0634\u062e\u0648\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108719941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":118469,
+        "wk:page":"Rishkhvar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c81c8a307f08cf6495b15a91c35de16e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719941,
+            "locality_id":1226172225,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1226172225,
+    "wof:lastmodified":1537643641,
+    "wof:name":"Rishkhvar",
+    "wof:parent_id":1108719941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.10486,
+    37.09124,
+    59.10486,
+    37.09124
+],
+  "geometry": {"coordinates":[59.10486,37.09124],"type":"Point"}
+}

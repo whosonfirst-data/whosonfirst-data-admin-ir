@@ -1,0 +1,78 @@
+{
+  "id": 1225873803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.86744,35.87686,50.86744,35.87686",
+    "geom:latitude":35.87686,
+    "geom:longitude":50.86744,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Shahrak-e Rezvaniyeh",
+    "gn:country_code":"IR",
+    "gn:dem":1292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":41598,
+    "gn:latitude":35.87686,
+    "gn:longitude":50.86744,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Shahrak-e Re\u1e95v\u0101n\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Shahrak-e Re\u1e95v\u0101n\u012byeh"
+    ],
+    "name:fas_x_variant":[
+        "Re\u1e95v\u0101n\u012byeh",
+        "\u0631\u0636\u0648\u0627\u0646\u06cc\u0647",
+        "\u0634\u0647\u0631\u06a9 \u0631\u0636\u0648\u0627\u0646\u06cc\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0631\u0636\u0648\u0627\u0646\u06cc\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672415,
+        1108720409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":41598
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d66f58c51eeffae032082de9fb0ccda2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720409,
+            "locality_id":1225873803,
+            "region_id":85672415
+        }
+    ],
+    "wof:id":1225873803,
+    "wof:lastmodified":1537642342,
+    "wof:name":"Shahrak-e Rezvaniyeh",
+    "wof:parent_id":1108720409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.86744,
+    35.87686,
+    50.86744,
+    35.87686
+],
+  "geometry": {"coordinates":[50.86744,35.87686],"type":"Point"}
+}

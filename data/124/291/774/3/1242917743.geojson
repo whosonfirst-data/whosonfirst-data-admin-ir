@@ -1,0 +1,73 @@
+{
+  "id": 1242917743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.17373,35.87243,52.17373,35.87243",
+    "geom:latitude":35.87243,
+    "geom:longitude":52.17373,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Band-e Konar",
+    "gn:country_code":"IR",
+    "gn:dem":1708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8453413,
+    "gn:latitude":35.87243,
+    "gn:longitude":52.17373,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Band-e Kon\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0646\u062f \u06a9\u0646\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Band-e Kon\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8453413
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"97c8e05aaf54d964df3cb175c6bc3ba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719807,
+            "locality_id":1242917743,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1242917743,
+    "wof:lastmodified":1537648565,
+    "wof:name":"Band-e Konar",
+    "wof:parent_id":1108719807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.17373,
+    35.87243,
+    52.17373,
+    35.87243
+],
+  "geometry": {"coordinates":[52.17373,35.87243],"type":"Point"}
+}

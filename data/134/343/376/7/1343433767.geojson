@@ -1,0 +1,73 @@
+{
+  "id": 1343433767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.32659,30.58564,50.32659,30.58564",
+    "geom:latitude":30.58564,
+    "geom:longitude":50.32659,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Aminabad",
+    "gn:country_code":"IR",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6729587,
+    "gn:latitude":30.58564,
+    "gn:longitude":50.32659,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Am\u012bn\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u06cc\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Am\u012bn\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6729587
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"251279dcc26dd572def96b7cf592da22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719885,
+            "locality_id":1343433767,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1343433767,
+    "wof:lastmodified":1537647538,
+    "wof:name":"Aminabad",
+    "wof:parent_id":1108719885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.32659,
+    30.58564,
+    50.32659,
+    30.58564
+],
+  "geometry": {"coordinates":[50.32659,30.58564],"type":"Point"}
+}

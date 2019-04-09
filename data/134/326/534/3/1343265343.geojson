@@ -1,0 +1,76 @@
+{
+  "id": 1343265343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.6217,38.0227,44.6217,38.0227",
+    "geom:latitude":38.0227,
+    "geom:longitude":44.6217,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Bezbezan",
+    "gn:country_code":"IR",
+    "gn:dem":1999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":40596,
+    "gn:latitude":38.0227,
+    "gn:longitude":44.6217,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bezbez\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Bezbez\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0632\u0628\u0632\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0628\u0632\u0628\u0632\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":40596
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"42ccedd1102d6bd3387ef36f422948a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720375,
+            "locality_id":1343265343,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1343265343,
+    "wof:lastmodified":1537642284,
+    "wof:name":"Bezbezan",
+    "wof:parent_id":1108720375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.6217,
+    38.0227,
+    44.6217,
+    38.0227
+],
+  "geometry": {"coordinates":[44.6217,38.0227],"type":"Point"}
+}

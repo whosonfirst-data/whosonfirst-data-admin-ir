@@ -1,0 +1,81 @@
+{
+  "id": 1225791755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.1842,30.4662,55.1842,30.4662",
+    "geom:latitude":30.4662,
+    "geom:longitude":55.1842,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mur-e Gur",
+    "gn:country_code":"IR",
+    "gn:dem":2304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":405300,
+    "gn:latitude":30.4662,
+    "gn:longitude":55.1842,
+    "gn:modification_date":"2013-05-09",
+    "gn:name":"M\u016br-e G\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0631\u06a9\u0648\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Mowr-e G\u016br",
+        "M\u016br-e K\u016br",
+        "\u0645\u0648\u0631\u06af\u0648\u0631",
+        "\u062a\u0646\u06a9\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "M\u016br-e G\u016br",
+        "Tankalleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":405300,
+        "wk:page":"Mowr-e_Gur"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"01f1640b94c3543f5c73e02304d04d87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720433,
+            "locality_id":1225791755,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1225791755,
+    "wof:lastmodified":1537646592,
+    "wof:name":"Mur-e Gur",
+    "wof:parent_id":1108720433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.1842,
+    30.4662,
+    55.1842,
+    30.4662
+],
+  "geometry": {"coordinates":[55.1842,30.4662],"type":"Point"}
+}

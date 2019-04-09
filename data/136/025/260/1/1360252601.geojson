@@ -1,0 +1,76 @@
+{
+  "id": 1360252601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.49151,35.20355,52.49151,35.20355",
+    "geom:latitude":35.20355,
+    "geom:longitude":52.49151,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Rostamabad",
+    "gn:country_code":"IR",
+    "gn:dem":849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":118318,
+    "gn:latitude":35.20355,
+    "gn:longitude":52.49151,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Rostam\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u0633\u062a\u0645 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Rostam\u0101b\u0101d"
+    ],
+    "name:und_x_variant":[
+        "Rustam\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672309,
+        1108720023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":118318
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6db573c4f030b5f2674cd8ed1540cc8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720023,
+            "locality_id":1360252601,
+            "region_id":85672309
+        }
+    ],
+    "wof:id":1360252601,
+    "wof:lastmodified":1537643627,
+    "wof:name":"Rostamabad",
+    "wof:parent_id":1108720023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.49151,
+    35.20355,
+    52.49151,
+    35.20355
+],
+  "geometry": {"coordinates":[52.49151,35.20355],"type":"Point"}
+}

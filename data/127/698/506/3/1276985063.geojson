@@ -1,0 +1,78 @@
+{
+  "id": 1276985063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.70128,31.35237,50.70128,31.35237",
+    "geom:latitude":31.35237,
+    "geom:longitude":50.70128,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Puleh Mashemi",
+    "gn:country_code":"IR",
+    "gn:dem":1529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":14444,
+    "gn:latitude":31.35237,
+    "gn:longitude":50.70128,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"P\u016bleh M\u0101shem\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "M\u0101shem\u012b-ye \u2018Oly\u0101"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0627\u0634\u0645\u06cc \u0639\u0644\u064a\u0627",
+        "\u067e\u0648\u0644\u0647 \u0645\u0627\u0634\u0645\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0645\u0627\u0634\u0645\u06cc \u0639\u0644\u064a\u0627",
+        "P\u016bleh M\u0101shem\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108719911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":14444
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5b841e27ffd86cc6c6e374fdcc6e91c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719911,
+            "locality_id":1276985063,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1276985063,
+    "wof:lastmodified":1537640816,
+    "wof:name":"Puleh Mashemi",
+    "wof:parent_id":1108719911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.70128,
+    31.35237,
+    50.70128,
+    31.35237
+],
+  "geometry": {"coordinates":[50.70128,31.35237],"type":"Point"}
+}

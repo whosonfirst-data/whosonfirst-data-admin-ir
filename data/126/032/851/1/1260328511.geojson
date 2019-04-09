@@ -1,0 +1,84 @@
+{
+  "id": 1260328511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.2637,37.8314,46.2637,37.8314",
+    "geom:latitude":37.8314,
+    "geom:longitude":46.2637,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Amqan",
+    "gn:country_code":"IR",
+    "gn:dem":2082,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":143702,
+    "gn:latitude":37.8314,
+    "gn:longitude":46.2637,
+    "gn:modification_date":"2012-09-05",
+    "gn:name":"\u0100mq\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0645\u0642\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0100mq\u0101n",
+        "\u0627\u0645\u0642\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0100ghmeq\u0101n",
+        "\u0100meq\u0101n",
+        "\u0100maq\u0101n",
+        "Amahan",
+        "Amagan",
+        "Ameghan",
+        "Amq\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":143702,
+        "wk:page":"Amqan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"13ef6370f5d34f2c7136e84a683e722f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720293,
+            "locality_id":1260328511,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1260328511,
+    "wof:lastmodified":1537646202,
+    "wof:name":"Amqan",
+    "wof:parent_id":1108720293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.2637,
+    37.8314,
+    46.2637,
+    37.8314
+],
+  "geometry": {"coordinates":[46.2637,37.8314],"type":"Point"}
+}

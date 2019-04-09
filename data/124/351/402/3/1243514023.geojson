@@ -1,0 +1,75 @@
+{
+  "id": 1243514023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.04034,37.61763,48.04034,37.61763",
+    "geom:latitude":37.61763,
+    "geom:longitude":48.04034,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Navand",
+    "gn:country_code":"IR",
+    "gn:dem":1810,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2205,
+    "gn:latitude":37.61763,
+    "gn:longitude":48.04034,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"N\u0101vand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0648\u0646\u062f"
+    ],
+    "name:fas_x_variant":[
+        "N\u0101vand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2205,
+        "wk:page":"Navand"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0c0ddfbea110d4b1c6d6474a39c6ddfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720167,
+            "locality_id":1243514023,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1243514023,
+    "wof:lastmodified":1537640211,
+    "wof:name":"Navand",
+    "wof:parent_id":1108720167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.04034,
+    37.61763,
+    48.04034,
+    37.61763
+],
+  "geometry": {"coordinates":[48.04034,37.61763],"type":"Point"}
+}

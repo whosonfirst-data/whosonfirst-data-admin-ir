@@ -1,0 +1,74 @@
+{
+  "id": 1226591275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.8805,32.7772,52.8805,32.7772",
+    "geom:latitude":32.7772,
+    "geom:longitude":52.8805,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Hamidi",
+    "gn:country_code":"IR",
+    "gn:dem":2177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2655,
+    "gn:latitude":32.7772,
+    "gn:longitude":52.8805,
+    "gn:modification_date":"2018-07-24",
+    "gn:name":"\u1e28am\u012bd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0645\u06cc\u062f\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28am\u012bd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2655,
+        "wk:page":"Hamidi,_Isfahan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f442b83ec998cd0f4c349441a0d1828e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720255,
+            "locality_id":1226591275,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1226591275,
+    "wof:lastmodified":1537640218,
+    "wof:name":"Hamidi",
+    "wof:parent_id":1108720255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.8805,
+    32.7772,
+    52.8805,
+    32.7772
+],
+  "geometry": {"coordinates":[52.8805,32.7772],"type":"Point"}
+}

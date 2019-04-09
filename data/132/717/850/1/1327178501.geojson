@@ -1,0 +1,73 @@
+{
+  "id": 1327178501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.77515,36.25897,53.77515,36.25897",
+    "geom:latitude":36.25897,
+    "geom:longitude":53.77515,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Adreh",
+    "gn:country_code":"IR",
+    "gn:dem":1384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7329643,
+    "gn:latitude":36.25897,
+    "gn:longitude":53.77515,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Adreh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0627\u062f\u0631\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0627\u062f\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7329643
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b89f2b5f738b3e7c241531d1362f6a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720401,
+            "locality_id":1327178501,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1327178501,
+    "wof:lastmodified":1537648114,
+    "wof:name":"Adreh",
+    "wof:parent_id":1108720401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.77515,
+    36.25897,
+    53.77515,
+    36.25897
+],
+  "geometry": {"coordinates":[53.77515,36.25897],"type":"Point"}
+}

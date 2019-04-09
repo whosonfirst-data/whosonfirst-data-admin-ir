@@ -1,0 +1,81 @@
+{
+  "id": 1360068107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.8188,31.7461,48.8188,31.7461",
+    "geom:latitude":31.7461,
+    "geom:longitude":48.8188,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Zoviyeh-ye Do",
+    "gn:country_code":"IR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110903,
+    "gn:latitude":31.7461,
+    "gn:longitude":48.8188,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Zov\u012byeh-ye Do",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u06cc\u0647 \u062f\u0648"
+    ],
+    "name:fas_x_variant":[
+        "Zov\u012byeh-ye Do",
+        "\u0645\u0627\u0647\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Zoveyeh Do",
+        "Zov\u012byeh-ye P\u0101\u2019\u012bn",
+        "Zov\u012byeh Do",
+        "M\u0101h\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110903,
+        "wk:page":"Zoviyeh-ye_Do"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ea38ec9efe2e32e8a315d6895da3e240",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720457,
+            "locality_id":1360068107,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1360068107,
+    "wof:lastmodified":1537642925,
+    "wof:name":"Zoviyeh-ye Do",
+    "wof:parent_id":1108720457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.8188,
+    31.7461,
+    48.8188,
+    31.7461
+],
+  "geometry": {"coordinates":[48.8188,31.7461],"type":"Point"}
+}

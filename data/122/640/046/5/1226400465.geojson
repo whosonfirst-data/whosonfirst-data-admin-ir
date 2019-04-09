@@ -1,0 +1,77 @@
+{
+  "id": 1226400465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.7869,33.4978,48.7869,33.4978",
+    "geom:latitude":33.4978,
+    "geom:longitude":48.7869,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Zarrinabad",
+    "gn:country_code":"IR",
+    "gn:dem":1774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":111250,
+    "gn:latitude":33.4978,
+    "gn:longitude":48.7869,
+    "gn:modification_date":"2015-06-07",
+    "gn:name":"Zarr\u012bn\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u0631\u064a\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u062c\u0627\u0631\u06cc \u0622\u0628\u0627\u062f",
+        "Zarr\u012bn\u0101b\u0101d"
+    ],
+    "name:und_x_variant":[
+        "J\u0101r\u012b\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":111250
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e8372c2bfa2ebc834c85a547d8a068c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720145,
+            "locality_id":1226400465,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1226400465,
+    "wof:lastmodified":1537642959,
+    "wof:name":"Zarrinabad",
+    "wof:parent_id":1108720145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.7869,
+    33.4978,
+    48.7869,
+    33.4978
+],
+  "geometry": {"coordinates":[48.7869,33.4978],"type":"Point"}
+}

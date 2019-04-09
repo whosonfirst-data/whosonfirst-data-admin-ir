@@ -1,0 +1,73 @@
+{
+  "id": 1226181181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.86046,37.10108,54.86046,37.10108",
+    "geom:latitude":37.10108,
+    "geom:longitude":54.86046,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Shahid Raja'i",
+    "gn:country_code":"IR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9985736,
+    "gn:latitude":37.10108,
+    "gn:longitude":54.86046,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Shah\u012bd Raj\u0101\u2019\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u064a\u062f \u0631\u062c\u0627\u064a\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Shah\u012bd Raj\u0101\u2019\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9985736
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"19ea6ea9772be2596d360d53c9722c3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720039,
+            "locality_id":1226181181,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1226181181,
+    "wof:lastmodified":1537648661,
+    "wof:name":"Shahid Raja'i",
+    "wof:parent_id":1108720039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.86046,
+    37.10108,
+    54.86046,
+    37.10108
+],
+  "geometry": {"coordinates":[54.86046,37.10108],"type":"Point"}
+}

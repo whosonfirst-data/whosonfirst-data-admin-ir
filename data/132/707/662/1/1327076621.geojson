@@ -1,0 +1,73 @@
+{
+  "id": 1327076621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.23111,30.55111,54.23111,30.55111",
+    "geom:latitude":30.55111,
+    "geom:longitude":54.23111,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Rahimabad",
+    "gn:country_code":"IR",
+    "gn:dem":1516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":404432,
+    "gn:latitude":30.55111,
+    "gn:longitude":54.23111,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Ra\u1e29\u012bm\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Ra\u1e29\u012bm\u0101b\u0101d"
+    ],
+    "name:fas_x_variant":[
+        "\u0631\u062d\u064a\u0645 \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108720133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":404432
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4d0631121bc5fc24c2ecb7709849b64c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720133,
+            "locality_id":1327076621,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1327076621,
+    "wof:lastmodified":1537646562,
+    "wof:name":"Rahimabad",
+    "wof:parent_id":1108720133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.23111,
+    30.55111,
+    54.23111,
+    30.55111
+],
+  "geometry": {"coordinates":[54.23111,30.55111],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1210030035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.02347,38.52913,45.02347,38.52913",
+    "geom:latitude":38.52913,
+    "geom:longitude":45.02347,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Bayram Kandi",
+    "gn:country_code":"IR",
+    "gn:dem":1104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":141026,
+    "gn:latitude":38.52913,
+    "gn:longitude":45.02347,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"B\u0101yr\u0101m Kand\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u064a\u0631\u0627\u0645 \u0643\u0646\u062f\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "B\u0101yr\u0101m Kand\u012b",
+        "\u0628\u0627\u06cc\u0631\u0645 \u06a9\u0646\u062f\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Bahr\u0101m Kand\u012b",
+        "Bayramkend",
+        "Bairamkand",
+        "B\u0101yram Kand\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":141026
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6066362788c0bf0f64cbc8ba524d4050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720153,
+            "locality_id":1210030035,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1210030035,
+    "wof:lastmodified":1537645934,
+    "wof:name":"Bayram Kandi",
+    "wof:parent_id":1108720153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.02347,
+    38.52913,
+    45.02347,
+    38.52913
+],
+  "geometry": {"coordinates":[45.02347,38.52913],"type":"Point"}
+}

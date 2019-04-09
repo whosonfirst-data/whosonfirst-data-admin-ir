@@ -1,0 +1,74 @@
+{
+  "id": 1344177465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.06667,28.65,54.06667,28.65",
+    "geom:latitude":28.65,
+    "geom:longitude":54.06667,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Bisheh Zard",
+    "gn:country_code":"IR",
+    "gn:dem":1291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":68955,
+    "gn:latitude":28.65,
+    "gn:longitude":54.06667,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"B\u012bsheh Zard",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u064a\u0634\u0650\u0647 \u0632\u064e\u0631\u062f"
+    ],
+    "name:fas_x_variant":[
+        "B\u012bsheh Zard"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":68955,
+        "wk:page":"Bisheh_Zard,_Fasa"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f597c117ad9dd5ebe6ad5e7f865a1a77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720003,
+            "locality_id":1344177465,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1344177465,
+    "wof:lastmodified":1537642896,
+    "wof:name":"Bisheh Zard",
+    "wof:parent_id":1108720003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.06667,
+    28.65,
+    54.06667,
+    28.65
+],
+  "geometry": {"coordinates":[54.06667,28.65],"type":"Point"}
+}

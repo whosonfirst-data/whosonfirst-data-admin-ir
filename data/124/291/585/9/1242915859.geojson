@@ -1,0 +1,81 @@
+{
+  "id": 1242915859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.10968,31.59937,54.10968,31.59937",
+    "geom:latitude":31.59937,
+    "geom:longitude":54.10968,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Mahalleh-ye Amohsen",
+    "gn:country_code":"IR",
+    "gn:dem":2545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":43861,
+    "gn:latitude":31.59937,
+    "gn:longitude":54.10968,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Ma\u1e29alleh-ye \u0100mo\u1e29sen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0645\u064f\u062d\u0633\u0650\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0100mo\u1e29sen",
+        "Mazra\u2018eh-ye \u2018Am\u016b \u1e28oseyn",
+        "\u0645\u0632\u0631\u0639\u0647 \u0639\u0645\u0648 \u062d\u0633\u064a\u0646",
+        "\u0645\u062d\u0644\u0647 \u0622\u0645\u062d\u0633\u0646",
+        "\u0645\u0632\u0631\u0639\u0647 \u0627\u0645\u062d\u0633\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29alleh-ye \u0100mo\u1e29sen",
+        "Mazra\u2018eh-ye Amo\u1e29sen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108720475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":43861
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d354b9d7a54e2c53a5693f24e99c5842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720475,
+            "locality_id":1242915859,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1242915859,
+    "wof:lastmodified":1537642470,
+    "wof:name":"Mahalleh-ye Amohsen",
+    "wof:parent_id":1108720475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.10968,
+    31.59937,
+    54.10968,
+    31.59937
+],
+  "geometry": {"coordinates":[54.10968,31.59937],"type":"Point"}
+}

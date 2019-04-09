@@ -1,0 +1,67 @@
+{
+  "id": 1293543471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.30639,38.37,46.30639,38.37",
+    "geom:latitude":38.37,
+    "geom:longitude":46.30639,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Gazang",
+    "gn:country_code":"IR",
+    "gn:dem":1830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388546,
+    "gn:latitude":38.37,
+    "gn:longitude":46.30639,
+    "gn:modification_date":"1996-01-22",
+    "gn:name":"Gazang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388546
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a820983919149f7555b95f96e067f74a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720471,
+            "locality_id":1293543471,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1293543471,
+    "wof:lastmodified":1536706811,
+    "wof:name":"Gazang",
+    "wof:parent_id":1108720471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.30639,
+    38.37,
+    46.30639,
+    38.37
+],
+  "geometry": {"coordinates":[46.30639,38.37],"type":"Point"}
+}

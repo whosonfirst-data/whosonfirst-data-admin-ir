@@ -1,0 +1,74 @@
+{
+  "id": 1293768473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.8758,37.8185,48.8758,37.8185",
+    "geom:latitude":37.8185,
+    "geom:longitude":48.8758,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Saragah",
+    "gn:country_code":"IR",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416767,
+    "gn:latitude":37.8185,
+    "gn:longitude":48.8758,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sar\u0101g\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0627\u06af\u0627\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Sar\u0101g\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416767,
+        "wk:page":"Saragah"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"29411094fc628693ef66fed114ba5284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720487,
+            "locality_id":1293768473,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1293768473,
+    "wof:lastmodified":1537646672,
+    "wof:name":"Saragah",
+    "wof:parent_id":1108720487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.8758,
+    37.8185,
+    48.8758,
+    37.8185
+],
+  "geometry": {"coordinates":[48.8758,37.8185],"type":"Point"}
+}

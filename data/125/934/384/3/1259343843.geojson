@@ -1,0 +1,77 @@
+{
+  "id": 1259343843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.46683,29.19612,57.46683,29.19612",
+    "geom:latitude":29.19612,
+    "geom:longitude":57.46683,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Farrash",
+    "gn:country_code":"IR",
+    "gn:dem":2577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":134785,
+    "gn:latitude":29.19612,
+    "gn:longitude":57.46683,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Farr\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Farr\u0101sh"
+    ],
+    "name:fas_x_variant":[
+        "\u0641\u0631\u0627\u0634"
+    ],
+    "name:und_x_variant":[
+        "Far\u0101sh",
+        "\u0641\u0631\u0627\u0634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":134785
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4a1112b706c550a4fc43383e0593490e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720081,
+            "locality_id":1259343843,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1259343843,
+    "wof:lastmodified":1537645306,
+    "wof:name":"Farrash",
+    "wof:parent_id":1108720081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.46683,
+    29.19612,
+    57.46683,
+    29.19612
+],
+  "geometry": {"coordinates":[57.46683,29.19612],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1242806411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.11718,36.13942,59.11718,36.13942",
+    "geom:latitude":36.13942,
+    "geom:longitude":59.11718,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Dorud",
+    "gn:country_code":"IR",
+    "gn:dem":1557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":137418,
+    "gn:latitude":36.13942,
+    "gn:longitude":59.11718,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Dor\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0631\u0648\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0631\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "Darr\u016bd",
+        "Dor\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":137418,
+        "wk:page":"Darrud"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"12b58e1f3022eb76aa8bb4cbfa24ea08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720279,
+            "locality_id":1242806411,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1242806411,
+    "wof:lastmodified":1537645576,
+    "wof:name":"Dorud",
+    "wof:parent_id":1108720279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.11718000000001,
+    36.13942,
+    59.11718000000001,
+    36.13942
+],
+  "geometry": {"coordinates":[59.11718000000001,36.13942],"type":"Point"}
+}

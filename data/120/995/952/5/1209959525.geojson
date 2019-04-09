@@ -1,0 +1,78 @@
+{
+  "id": 1209959525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.6,37.01667,55.6,37.01667",
+    "geom:latitude":37.01667,
+    "geom:longitude":55.6,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Tolvin",
+    "gn:country_code":"IR",
+    "gn:dem":1585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110824,
+    "gn:latitude":37.01667,
+    "gn:longitude":55.6,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Tolv\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u064f\u0644\u0648\u064a\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Tolv\u012bn"
+    ],
+    "name:und_x_variant":[
+        "Talv\u012bn",
+        "Talbin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108719839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110824,
+        "wk:page":"Talvin"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a77ad27c20d5ea9ece513fb84c500165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719839,
+            "locality_id":1209959525,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1209959525,
+    "wof:lastmodified":1537642916,
+    "wof:name":"Tolvin",
+    "wof:parent_id":1108719839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.6,
+    37.01667,
+    55.6,
+    37.01667
+],
+  "geometry": {"coordinates":[55.6,37.01667],"type":"Point"}
+}

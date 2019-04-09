@@ -1,0 +1,73 @@
+{
+  "id": 1259868237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.90785,33.08486,46.90785,33.08486",
+    "geom:latitude":33.08486,
+    "geom:longitude":46.90785,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Guran",
+    "gn:country_code":"IR",
+    "gn:dem":849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":132639,
+    "gn:latitude":33.08486,
+    "gn:longitude":46.90785,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"G\u016br\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0631\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "G\u016br\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108719957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":132639
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"04beee84c54b5a9c9225ab870a07c75b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719957,
+            "locality_id":1259868237,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1259868237,
+    "wof:lastmodified":1537645088,
+    "wof:name":"Guran",
+    "wof:parent_id":1108719957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.90785,
+    33.08486,
+    46.90785,
+    33.08486
+],
+  "geometry": {"coordinates":[46.90785,33.08486],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1243476759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.406,30.49595,51.406,30.49595",
+    "geom:latitude":30.49595,
+    "geom:longitude":51.406,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Barq Long",
+    "gn:country_code":"IR",
+    "gn:dem":1408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":47236,
+    "gn:latitude":30.49595,
+    "gn:longitude":51.406,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"Barq Long",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u062f\u0642\u0644\u0646\u06af"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0631\u0642 \u0644\u0646\u06af",
+        "\u0628\u0631\u0642\u0648\u0644\u0646\u06af \u0633\u0641\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Bardqolong",
+        "\u0628\u0631\u062f\u0642\u0644\u0646\u06af",
+        "Barqolong",
+        "Barq Long",
+        "Barqowlong-e Sofl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108719911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":47236
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6e9f7c993581d3f24371f469115052bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719911,
+            "locality_id":1243476759,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1243476759,
+    "wof:lastmodified":1537642670,
+    "wof:name":"Barq Long",
+    "wof:parent_id":1108719911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.40600000000001,
+    30.49595,
+    51.40600000000001,
+    30.49595
+],
+  "geometry": {"coordinates":[51.40600000000001,30.49595],"type":"Point"}
+}

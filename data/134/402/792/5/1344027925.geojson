@@ -1,0 +1,74 @@
+{
+  "id": 1344027925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.15444,32.30278,49.15444,32.30278",
+    "geom:latitude":32.30278,
+    "geom:longitude":49.15444,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Mirzakhun Lali",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":123832,
+    "gn:latitude":32.30278,
+    "gn:longitude":49.15444,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"M\u012brz\u0101kh\u016bn L\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "M\u012brz\u0101kh\u016bn L\u0101l\u012b"
+    ],
+    "name:und_x_variant":[
+        "M\u012brz\u0101kh\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":123832
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4c621347a38d85152488cd1c63581a24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720177,
+            "locality_id":1344027925,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1344027925,
+    "wof:lastmodified":1537644192,
+    "wof:name":"Mirzakhun Lali",
+    "wof:parent_id":1108720177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.15444,
+    32.30278,
+    49.15444,
+    32.30278
+],
+  "geometry": {"coordinates":[49.15444,32.30278],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243144931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.1948,30.34303,48.1948,30.34303",
+    "geom:latitude":30.34303,
+    "geom:longitude":48.1948,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Nahr-e `Osfur",
+    "gn:country_code":"IR",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":44954,
+    "gn:latitude":30.34303,
+    "gn:longitude":48.1948,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Nahr-e \u2018O\u015ff\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Nahr-e \u2018O\u015ff\u016br"
+    ],
+    "name:und_x_variant":[
+        "Raddeh-ye \u0162\u0101leb \u2018O\u015ff\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":44954
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9e0753dcc55fb699e92951c1d78b37c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720151,
+            "locality_id":1243144931,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1243144931,
+    "wof:lastmodified":1537642511,
+    "wof:name":"Nahr-e `Osfur",
+    "wof:parent_id":1108720151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.1948,
+    30.34303,
+    48.1948,
+    30.34303
+],
+  "geometry": {"coordinates":[48.1948,30.34303],"type":"Point"}
+}

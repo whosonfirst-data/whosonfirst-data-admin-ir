@@ -1,0 +1,80 @@
+{
+  "id": 1226437545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.17611,32.87611,47.17611,32.87611",
+    "geom:latitude":32.87611,
+    "geom:longitude":47.17611,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Farkhin",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":134790,
+    "gn:latitude":32.87611,
+    "gn:longitude":47.17611,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Farkh\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Farkh\u012bn"
+    ],
+    "name:fas_x_variant":[
+        "\u0641\u0631\u062e\u064a\u0646",
+        "\u0641\u064e\u0631\u062e\u064a\u0646\u064e\u0648\u064e\u0646\u062f",
+        "\u067e\u0650\u064a\u0641\u064e\u0631\u062e\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Peyfarkh\u012bn",
+        "Farkh\u012bnavand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108719957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":134790
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4d131f7ad8bda719d1a1a07bb727843b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719957,
+            "locality_id":1226437545,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1226437545,
+    "wof:lastmodified":1537645306,
+    "wof:name":"Farkhin",
+    "wof:parent_id":1108719957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.17611,
+    32.87611,
+    47.17611,
+    32.87611
+],
+  "geometry": {"coordinates":[47.17611,32.87611],"type":"Point"}
+}

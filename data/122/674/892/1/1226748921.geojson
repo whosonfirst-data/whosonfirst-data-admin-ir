@@ -1,0 +1,73 @@
+{
+  "id": 1226748921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.51664,31.45044,50.51664,31.45044",
+    "geom:latitude":31.45044,
+    "geom:longitude":50.51664,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ziti",
+    "gn:country_code":"IR",
+    "gn:dem":987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11268160,
+    "gn:latitude":31.45044,
+    "gn:longitude":50.51664,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Z\u012bt\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u06cc\u062a\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Z\u012bt\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672319,
+        1108720189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11268160
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9f6f29976957db83d42832f6f3d4d641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720189,
+            "locality_id":1226748921,
+            "region_id":85672319
+        }
+    ],
+    "wof:id":1226748921,
+    "wof:lastmodified":1537648765,
+    "wof:name":"Ziti",
+    "wof:parent_id":1108720189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.51664,
+    31.45044,
+    50.51664,
+    31.45044
+],
+  "geometry": {"coordinates":[50.51664,31.45044],"type":"Point"}
+}

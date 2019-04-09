@@ -1,0 +1,78 @@
+{
+  "id": 1327357169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.1001,25.5136,60.1001,25.5136",
+    "geom:latitude":25.5136,
+    "geom:longitude":60.1001,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bor Sar",
+    "gn:country_code":"IR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1161610,
+    "gn:latitude":25.5136,
+    "gn:longitude":60.1001,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bor Sar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0631 \u0633\u0631"
+    ],
+    "name:fas_x_variant":[
+        "B\u016br Sar"
+    ],
+    "name:und_x_variant":[
+        "Burre Sar",
+        "B\u016br-e Sar",
+        "Bor Sar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1161610
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"15b2bb4706aebc91e554012bf5b9b224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720163,
+            "locality_id":1327357169,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1327357169,
+    "wof:lastmodified":1537647131,
+    "wof:name":"Bor Sar",
+    "wof:parent_id":1108720163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.1001,
+    25.5136,
+    60.1001,
+    25.5136
+],
+  "geometry": {"coordinates":[60.1001,25.5136],"type":"Point"}
+}

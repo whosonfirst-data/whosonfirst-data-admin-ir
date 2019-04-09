@@ -1,0 +1,80 @@
+{
+  "id": 1242807583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.21832,32.38812,59.21832,32.38812",
+    "geom:latitude":32.38812,
+    "geom:longitude":59.21832,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Barzadaran",
+    "gn:country_code":"IR",
+    "gn:dem":1829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":140037,
+    "gn:latitude":32.38812,
+    "gn:longitude":59.21832,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Barz\u0101dar\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Barz\u0101dar\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0631\u0632\u0627\u062f\u0631\u0627\u0646",
+        "B\u016brz\u0101dr\u0101n",
+        "Borz\u0101dar\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Borz\u0101dar\u0101n",
+        "B\u016brz\u0101dr\u0101n",
+        "\u0628\u0631\u0632\u0627\u062f\u0631\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108719895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140037
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1b73e92594d1a1da812c0316f5c089fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719895,
+            "locality_id":1242807583,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1242807583,
+    "wof:lastmodified":1537645835,
+    "wof:name":"Barzadaran",
+    "wof:parent_id":1108719895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.21832,
+    32.38812,
+    59.21832,
+    32.38812
+],
+  "geometry": {"coordinates":[59.21832,32.38812],"type":"Point"}
+}

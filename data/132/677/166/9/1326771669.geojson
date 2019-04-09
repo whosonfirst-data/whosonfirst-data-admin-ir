@@ -1,0 +1,75 @@
+{
+  "id": 1326771669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.25389,38.87577,46.25389,38.87577",
+    "geom:latitude":38.87577,
+    "geom:longitude":46.25389,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Kordasht",
+    "gn:country_code":"IR",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":126594,
+    "gn:latitude":38.87577,
+    "gn:longitude":46.25389,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Kordasht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u062f\u0634\u062a"
+    ],
+    "name:und_x_variant":[
+        "K\u016br Dasht",
+        "Kordasht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":126594,
+        "wk:page":"Kordasht"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c91e80562af81b8fe4f45221e188b2a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720083,
+            "locality_id":1326771669,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1326771669,
+    "wof:lastmodified":1537644466,
+    "wof:name":"Kordasht",
+    "wof:parent_id":1108720083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.25389000000001,
+    38.87577,
+    46.25389000000001,
+    38.87577
+],
+  "geometry": {"coordinates":[46.25389000000001,38.87577],"type":"Point"}
+}

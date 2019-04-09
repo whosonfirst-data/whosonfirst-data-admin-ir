@@ -1,0 +1,80 @@
+{
+  "id": 1343441603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.3633,27.32534,55.3633,27.32534",
+    "geom:latitude":27.32534,
+    "geom:longitude":55.3633,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Pey Kuh",
+    "gn:country_code":"IR",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":121138,
+    "gn:latitude":27.32534,
+    "gn:longitude":55.3633,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Pey K\u016bh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u067e\u064a\u0643\u0648\u0647"
+    ],
+    "name:fas_x_variant":[
+        "P\u012bk\u016bh",
+        "Pey K\u016bh",
+        "\u067e\u06cc \u06a9\u0648\u0647",
+        "\u0628\u064a\u0643\u0648\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u067e\u06cc \u06a9\u0648\u0647",
+        "B\u012bk\u016bh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":121138
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"641080c2ca4720cde1c4f6ff623f10a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720127,
+            "locality_id":1343441603,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1343441603,
+    "wof:lastmodified":1537643921,
+    "wof:name":"Pey Kuh",
+    "wof:parent_id":1108720127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.3633,
+    27.32534,
+    55.3633,
+    27.32534
+],
+  "geometry": {"coordinates":[55.3633,27.32534],"type":"Point"}
+}

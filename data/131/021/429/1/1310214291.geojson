@@ -1,0 +1,75 @@
+{
+  "id": 1310214291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.0062,37.6326,45.0062,37.6326",
+    "geom:latitude":37.6326,
+    "geom:longitude":45.0062,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Zeynanlu",
+    "gn:country_code":"IR",
+    "gn:dem":1369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":17535,
+    "gn:latitude":37.6326,
+    "gn:longitude":45.0062,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Zeyn\u0101nl\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u06cc\u0646\u0627\u0646\u0644\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0632\u0650\u064a\u0646\u0627\u0644\u0648",
+        "Zeyn\u0101l\u016b",
+        "Zeyn\u0101nl\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":17535
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fc5eb011a4f375c72c14a968fbba2845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720289,
+            "locality_id":1310214291,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1310214291,
+    "wof:lastmodified":1537640962,
+    "wof:name":"Zeynanlu",
+    "wof:parent_id":1108720289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.0062,
+    37.6326,
+    45.0062,
+    37.6326
+],
+  "geometry": {"coordinates":[45.0062,37.6326],"type":"Point"}
+}

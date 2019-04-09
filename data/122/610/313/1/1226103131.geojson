@@ -1,0 +1,73 @@
+{
+  "id": 1226103131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.95913,28.05061,58.95913,28.05061",
+    "geom:latitude":28.05061,
+    "geom:longitude":58.95913,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Godar Bari",
+    "gn:country_code":"IR",
+    "gn:dem":1228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9098054,
+    "gn:latitude":28.05061,
+    "gn:longitude":58.95913,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"God\u0101r Bar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u062f\u0627\u0631 \u0628\u0631\u06cc"
+    ],
+    "name:und_x_variant":[
+        "God\u0101r Bar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9098054
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7f94fdd6a50d0ec4000622c87950752b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720063,
+            "locality_id":1226103131,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1226103131,
+    "wof:lastmodified":1537648628,
+    "wof:name":"Godar Bari",
+    "wof:parent_id":1108720063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.95913,
+    28.05061,
+    58.95913,
+    28.05061
+],
+  "geometry": {"coordinates":[58.95913,28.05061],"type":"Point"}
+}

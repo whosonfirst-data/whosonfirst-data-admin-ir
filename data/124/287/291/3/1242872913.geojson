@@ -1,0 +1,81 @@
+{
+  "id": 1242872913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.45008,30.94694,50.45008,30.94694",
+    "geom:latitude":30.94694,
+    "geom:longitude":50.45008,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ab Larzgeh",
+    "gn:country_code":"IR",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":144780,
+    "gn:latitude":30.94694,
+    "gn:longitude":50.45008,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"\u0100b Larzgeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0628 \u0631\u0632\u06af\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0100b Zargeh",
+        "\u0100b Razgeh",
+        "\u0622\u0628 \u0644\u0631\u0632\u06af\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0100b-e Razgeh",
+        "\u0100b Zarkeh",
+        "\u0100b Larzgeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":144780,
+        "wk:page":"Ab_Razgeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bceed3f6408da0e51f1ab31b3f53e169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1242872913,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1242872913,
+    "wof:lastmodified":1537646302,
+    "wof:name":"Ab Larzgeh",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.45008,
+    30.94694,
+    50.45008,
+    30.94694
+],
+  "geometry": {"coordinates":[50.45008,30.94694],"type":"Point"}
+}

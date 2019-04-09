@@ -1,0 +1,76 @@
+{
+  "id": 1192979563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.03149,30.51258,55.03149,30.51258",
+    "geom:latitude":30.51258,
+    "geom:longitude":55.03149,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Javazm",
+    "gn:country_code":"IR",
+    "gn:dem":2194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":130238,
+    "gn:latitude":30.51258,
+    "gn:longitude":55.03149,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"Javazm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u0648\u0632\u0645"
+    ],
+    "name:und_x_variant":[
+        "Jowzam",
+        "Jav\u0101zin",
+        "Javazm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":130238,
+        "wk:page":"Jowzam"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ec695c3245e53e53c0d480a7db236819",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720433,
+            "locality_id":1192979563,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1192979563,
+    "wof:lastmodified":1537644847,
+    "wof:name":"Javazm",
+    "wof:parent_id":1108720433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.03149000000001,
+    30.51258,
+    55.03149000000001,
+    30.51258
+],
+  "geometry": {"coordinates":[55.03149000000001,30.51258],"type":"Point"}
+}

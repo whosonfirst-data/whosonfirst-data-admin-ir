@@ -1,0 +1,77 @@
+{
+  "id": 1343996427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.458,35.8358,49.458,35.8358",
+    "geom:latitude":35.8358,
+    "geom:longitude":49.458,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Nohab",
+    "gn:country_code":"IR",
+    "gn:dem":1431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":122921,
+    "gn:latitude":35.8358,
+    "gn:longitude":49.458,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Nohab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0646\u0647\u0628"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u064e\u0647\u064e\u0628"
+    ],
+    "name:und_x_variant":[
+        "Nahab",
+        "Nohab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108720479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":122921
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d07d66ec6d326ed257e73df9501d4c09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720479,
+            "locality_id":1343996427,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1343996427,
+    "wof:lastmodified":1537644103,
+    "wof:name":"Nohab",
+    "wof:parent_id":1108720479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.458,
+    35.8358,
+    49.458,
+    35.8358
+],
+  "geometry": {"coordinates":[49.458,35.8358],"type":"Point"}
+}

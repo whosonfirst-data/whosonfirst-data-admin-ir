@@ -1,0 +1,75 @@
+{
+  "id": 1226666471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.58222,29.56,52.58222,29.56",
+    "geom:latitude":29.56,
+    "geom:longitude":52.58222,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Dasht-e Chenar",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":137258,
+    "gn:latitude":29.56,
+    "gn:longitude":52.58222,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dasht-e Chen\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Dasht-e Chen\u0101r"
+    ],
+    "name:und_x_variant":[
+        "Dast Chen\u0101r",
+        "Dasht Chen\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":137258
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"93b68d54da4b8650a03bfe65325bd3a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720447,
+            "locality_id":1226666471,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1226666471,
+    "wof:lastmodified":1537645562,
+    "wof:name":"Dasht-e Chenar",
+    "wof:parent_id":1108720447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.58221999999999,
+    29.56,
+    52.58221999999999,
+    29.56
+],
+  "geometry": {"coordinates":[52.58221999999999,29.56],"type":"Point"}
+}

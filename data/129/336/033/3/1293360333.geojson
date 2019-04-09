@@ -1,0 +1,78 @@
+{
+  "id": 1293360333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.76558,31.678,49.76558,31.678",
+    "geom:latitude":31.678,
+    "geom:longitude":49.76558,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Bakuh",
+    "gn:country_code":"IR",
+    "gn:dem":904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":14848,
+    "gn:latitude":31.678,
+    "gn:longitude":49.76558,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"B\u0101k\u016bh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "P\u0101 K\u016bh"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0627\u06a9\u0648\u0647",
+        "\u0686\u0648\u063a \u0646\u0633\u0647"
+    ],
+    "name:und_x_variant":[
+        "B\u0101k\u016bh",
+        "Ch\u016bgh Naseh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":14848
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"494f81a7391c21c3d5780af8064c52cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720067,
+            "locality_id":1293360333,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1293360333,
+    "wof:lastmodified":1537640851,
+    "wof:name":"Bakuh",
+    "wof:parent_id":1108720067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.76558,
+    31.678,
+    49.76558,
+    31.678
+],
+  "geometry": {"coordinates":[49.76558,31.678],"type":"Point"}
+}

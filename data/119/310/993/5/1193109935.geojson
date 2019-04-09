@@ -1,0 +1,73 @@
+{
+  "id": 1193109935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.67503,32.12721,49.67503,32.12721",
+    "geom:latitude":32.12721,
+    "geom:longitude":49.67503,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Mazeh Barik",
+    "gn:country_code":"IR",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":33252,
+    "gn:latitude":32.12721,
+    "gn:longitude":49.67503,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"M\u0101zeh B\u0101r\u012bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "M\u0101zeh B\u0101r\u012bk"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0627\u0632\u0647 \u0628\u0627\u0631\u06cc\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":33252
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cbf6e5f39f4ecac1e1438a7b72ba2c22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720067,
+            "locality_id":1193109935,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1193109935,
+    "wof:lastmodified":1537641854,
+    "wof:name":"Mazeh Barik",
+    "wof:parent_id":1108720067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.67503,
+    32.12721,
+    49.67503,
+    32.12721
+],
+  "geometry": {"coordinates":[49.67503,32.12721],"type":"Point"}
+}

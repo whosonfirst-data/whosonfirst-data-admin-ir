@@ -1,0 +1,77 @@
+{
+  "id": 1277130561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.18056,33.80056,50.18056,33.80056",
+    "geom:latitude":33.80056,
+    "geom:longitude":50.18056,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Khugan-e Pa'in",
+    "gn:country_code":"IR",
+    "gn:dem":1908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":127177,
+    "gn:latitude":33.80056,
+    "gn:longitude":50.18056,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kh\u016bg\u0101n-e P\u0101\u2019\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u06af\u0627\u0646\u0650 \u067e\u0627\u0626\u064a\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u062e\u0648\u06af\u0627\u0646 \u067e\u0627\u0626\u064a\u0646",
+        "Kh\u016bg\u0101n-e P\u0101\u2019\u012bn"
+    ],
+    "name:und_x_variant":[
+        "Kh\u016bg\u0101n P\u0101\u2019\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":127177
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"24a515acb0c20340c22f2962990e896e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720137,
+            "locality_id":1277130561,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1277130561,
+    "wof:lastmodified":1537644532,
+    "wof:name":"Khugan-e Pa'in",
+    "wof:parent_id":1108720137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.18056,
+    33.80056,
+    50.18056,
+    33.80056
+],
+  "geometry": {"coordinates":[50.18056,33.80056],"type":"Point"}
+}

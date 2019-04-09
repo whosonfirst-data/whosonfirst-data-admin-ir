@@ -1,0 +1,74 @@
+{
+  "id": 1310550197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.4975,38.3787,47.4975,38.3787",
+    "geom:latitude":38.3787,
+    "geom:longitude":47.4975,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Savojbolagh",
+    "gn:country_code":"IR",
+    "gn:dem":1162,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":13436,
+    "gn:latitude":38.3787,
+    "gn:longitude":47.4975,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u0101vojbol\u0101gh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0648\u062c\u0628\u0644\u0627\u063a"
+    ],
+    "name:fas_x_variant":[
+        "S\u0101vojbol\u0101gh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13436
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"10d04e8f9c66b5eace8b86d92ad79d91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720237,
+            "locality_id":1310550197,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1310550197,
+    "wof:lastmodified":1537640709,
+    "wof:name":"Savojbolagh",
+    "wof:parent_id":1108720237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.4975,
+    38.3787,
+    47.4975,
+    38.3787
+],
+  "geometry": {"coordinates":[47.4975,38.3787],"type":"Point"}
+}

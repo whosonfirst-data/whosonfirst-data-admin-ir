@@ -1,0 +1,73 @@
+{
+  "id": 1259650769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.50894,35.79617,52.50894,35.79617",
+    "geom:latitude":35.79617,
+    "geom:longitude":52.50894,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Aludar",
+    "gn:country_code":"IR",
+    "gn:dem":2095,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7633835,
+    "gn:latitude":35.79617,
+    "gn:longitude":52.50894,
+    "gn:modification_date":"2013-10-10",
+    "gn:name":"\u0100l\u016bdar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0100l\u016bdar"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u0644\u0648\u062f\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672313,
+        1108720011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7633835
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ee51cb201463de84555e423b96e72d8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720011,
+            "locality_id":1259650769,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1259650769,
+    "wof:lastmodified":1537648477,
+    "wof:name":"Aludar",
+    "wof:parent_id":1108720011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.50894,
+    35.79617000000001,
+    52.50894,
+    35.79617000000001
+],
+  "geometry": {"coordinates":[52.50894,35.79617000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259465729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.69167,32.20417,49.69167,32.20417",
+    "geom:latitude":32.20417,
+    "geom:longitude":49.69167,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Yaveh",
+    "gn:country_code":"IR",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":33375,
+    "gn:latitude":32.20417,
+    "gn:longitude":49.69167,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Yaveh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":33375
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3ac6802ed86e701dcb576edf34914738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720067,
+            "locality_id":1259465729,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1259465729,
+    "wof:lastmodified":1536883717,
+    "wof:name":"Yaveh",
+    "wof:parent_id":1108720067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.69167,
+    32.20417,
+    49.69167,
+    32.20417
+],
+  "geometry": {"coordinates":[49.69167,32.20417],"type":"Point"}
+}

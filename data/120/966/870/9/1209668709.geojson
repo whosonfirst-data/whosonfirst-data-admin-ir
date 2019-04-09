@@ -1,0 +1,71 @@
+{
+  "id": 1209668709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.44781,36.67114,51.44781,36.67114",
+    "geom:latitude":36.67114,
+    "geom:longitude":51.44781,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Farajabad",
+    "gn:country_code":"IR",
+    "gn:dem":-17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8023,
+    "gn:latitude":36.67114,
+    "gn:longitude":51.44781,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Faraj\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Faraj\u0101b\u0101d"
+    ],
+    "name:fas_x_variant":[
+        "Fara\u1e29\u0101b\u0101d",
+        "\u0641\u0631\u062c \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u0641\u0631\u062c \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8023
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"07d9205a1852d8cfdaca8274c2ba44d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209668709
+        }
+    ],
+    "wof:id":1209668709,
+    "wof:lastmodified":1537640412,
+    "wof:name":"Farajabad",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.44781,
+    36.67114,
+    51.44781,
+    36.67114
+],
+  "geometry": {"coordinates":[51.44781,36.67114],"type":"Point"}
+}

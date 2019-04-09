@@ -1,0 +1,73 @@
+{
+  "id": 1210045199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.24781,32.91164,59.24781,32.91164",
+    "geom:latitude":32.91164,
+    "geom:longitude":59.24781,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Dehel Kuh",
+    "gn:country_code":"IR",
+    "gn:dem":1517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10427150,
+    "gn:latitude":32.91164,
+    "gn:longitude":59.24781,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"Dehel K\u016bh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647\u0644 \u06a9\u0648\u0647"
+    ],
+    "name:und_x_variant":[
+        "Dehel K\u016bh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108719895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10427150
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dde515555019f324a450391c2fe8486f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719895,
+            "locality_id":1210045199,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1210045199,
+    "wof:lastmodified":1537648684,
+    "wof:name":"Dehel Kuh",
+    "wof:parent_id":1108719895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.24781,
+    32.91164000000001,
+    59.24781,
+    32.91164000000001
+],
+  "geometry": {"coordinates":[59.24781,32.91164000000001],"type":"Point"}
+}

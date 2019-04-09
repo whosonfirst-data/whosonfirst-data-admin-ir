@@ -1,0 +1,78 @@
+{
+  "id": 1260040843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.4107,30.3623,55.4107,30.3623",
+    "geom:latitude":30.3623,
+    "geom:longitude":55.4107,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Zahru'iyeh-e Raviz",
+    "gn:country_code":"IR",
+    "gn:dem":2313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":49152,
+    "gn:latitude":30.3623,
+    "gn:longitude":55.4107,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"Zahr\u016b\u2019\u012byeh-e R\u0101v\u012bz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u0647\u0631\u0648\u0626\u06cc\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Zahr\u016b\u2019\u012byeh",
+        "\u0632\u0647\u0631\u0648\u0626\u06cc\u0647 \u0631\u0627\u0648\u064a\u0632"
+    ],
+    "name:und_x_variant":[
+        "Zahr\u016b\u2019\u012byeh-e R\u0101v\u012bz",
+        "Kamar R\u0101v\u012bz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":49152
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5bec641f2e5e5c596b55684380fb2ad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720329,
+            "locality_id":1260040843,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1260040843,
+    "wof:lastmodified":1537642772,
+    "wof:name":"Zahru'iyeh-e Raviz",
+    "wof:parent_id":1108720329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.4107,
+    30.3623,
+    55.4107,
+    30.3623
+],
+  "geometry": {"coordinates":[55.4107,30.3623],"type":"Point"}
+}

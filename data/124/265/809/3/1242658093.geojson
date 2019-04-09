@@ -1,0 +1,77 @@
+{
+  "id": 1242658093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.873,26.4843,57.873,26.4843",
+    "geom:latitude":26.4843,
+    "geom:longitude":57.873,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Bisku",
+    "gn:country_code":"IR",
+    "gn:dem":798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":48654,
+    "gn:latitude":26.4843,
+    "gn:longitude":57.873,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"B\u012bsk\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u064a\u0633\u0643\u0627\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u06cc\u0633\u06a9\u0648",
+        "B\u012bskan",
+        "B\u012bsk\u0101h",
+        "\u0628\u064a\u0633\u0643\u064e\u0646",
+        "B\u012bsk\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":48654
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"64dd849850c08f792a3b3b50a7520a5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720077,
+            "locality_id":1242658093,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1242658093,
+    "wof:lastmodified":1537642740,
+    "wof:name":"Bisku",
+    "wof:parent_id":1108720077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.87300000000001,
+    26.4843,
+    57.87300000000001,
+    26.4843
+],
+  "geometry": {"coordinates":[57.87300000000001,26.4843],"type":"Point"}
+}

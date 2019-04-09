@@ -1,0 +1,75 @@
+{
+  "id": 1343551227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.87256,37.20356,49.87256,37.20356",
+    "geom:latitude":37.20356,
+    "geom:longitude":49.87256,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Lahashar",
+    "gn:country_code":"IR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":28775,
+    "gn:latitude":37.20356,
+    "gn:longitude":49.87256,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"La\u1e29ashar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u062d\u0634\u0631"
+    ],
+    "name:und_x_variant":[
+        "Lahash",
+        "La\u1e29ashar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":28775,
+        "wk:page":"Lahashar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9140f1676ce269b9d45feff3ddbe4960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720173,
+            "locality_id":1343551227,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1343551227,
+    "wof:lastmodified":1537641575,
+    "wof:name":"Lahashar",
+    "wof:parent_id":1108720173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.87256,
+    37.20356,
+    49.87256,
+    37.20356
+],
+  "geometry": {"coordinates":[49.87256,37.20356],"type":"Point"}
+}

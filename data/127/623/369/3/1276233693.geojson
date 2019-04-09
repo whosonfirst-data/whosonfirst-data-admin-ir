@@ -1,0 +1,73 @@
+{
+  "id": 1276233693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.4801,26.8378,62.4801,26.8378",
+    "geom:latitude":26.8378,
+    "geom:longitude":62.4801,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Anaru",
+    "gn:country_code":"IR",
+    "gn:dem":1256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100700,
+    "gn:latitude":26.8378,
+    "gn:longitude":62.4801,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"An\u0101r\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u0627\u0631\u0648"
+    ],
+    "name:fas_x_variant":[
+        "An\u0101r\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100700
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1e4a5a39b41046e92dbd1096d5d48b14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720389,
+            "locality_id":1276233693,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1276233693,
+    "wof:lastmodified":1537648070,
+    "wof:name":"Anaru",
+    "wof:parent_id":1108720389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.4801,
+    26.8378,
+    62.4801,
+    26.8378
+],
+  "geometry": {"coordinates":[62.4801,26.8378],"type":"Point"}
+}

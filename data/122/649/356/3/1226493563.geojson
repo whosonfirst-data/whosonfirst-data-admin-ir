@@ -1,0 +1,79 @@
+{
+  "id": 1226493563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.3313,31.0799,53.3313,31.0799",
+    "geom:latitude":31.0799,
+    "geom:longitude":53.3313,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Hoseynabad",
+    "gn:country_code":"IR",
+    "gn:dem":1493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":68174,
+    "gn:latitude":31.0799,
+    "gn:longitude":53.3313,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28oseyn\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0633\u06cc\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u062d\u064f\u0633\u0650\u064a\u0646\u0627\u0628\u0627\u062f\u0650 \u0627\u064e\u0628\u0631\u0642\u0648",
+        "\u1e28oseyn\u0101b\u0101d"
+    ],
+    "name:und_x_variant":[
+        "Hosein Abad Abarghoo",
+        "\u1e28oseyn\u0101b\u0101d-e Abrq\u016b",
+        "Husain\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108719781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":68174
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cc1339ef010199e8b1884741992fc9d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719781,
+            "locality_id":1226493563,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1226493563,
+    "wof:lastmodified":1537642867,
+    "wof:name":"Hoseynabad",
+    "wof:parent_id":1108719781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.3313,
+    31.0799,
+    53.3313,
+    31.0799
+],
+  "geometry": {"coordinates":[53.3313,31.0799],"type":"Point"}
+}

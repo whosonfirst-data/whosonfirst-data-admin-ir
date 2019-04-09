@@ -1,0 +1,76 @@
+{
+  "id": 1344080301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.03444,29.43278,61.03444,29.43278",
+    "geom:latitude":29.43278,
+    "geom:longitude":61.03444,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Padagi",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1160930,
+    "gn:latitude":29.43278,
+    "gn:longitude":61.03444,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Padag\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Padag\u012b"
+    ],
+    "name:und_x_variant":[
+        "\u012astg\u0101h Padak\u012b",
+        "Padaki",
+        "\u012astg\u0101h-e Padak\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1160930
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c5d1fe6fb126e2f679d7884403d917dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720517,
+            "locality_id":1344080301,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1344080301,
+    "wof:lastmodified":1537647078,
+    "wof:name":"Padagi",
+    "wof:parent_id":1108720517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.03444,
+    29.43278,
+    61.03444,
+    29.43278
+],
+  "geometry": {"coordinates":[61.03444,29.43278],"type":"Point"}
+}

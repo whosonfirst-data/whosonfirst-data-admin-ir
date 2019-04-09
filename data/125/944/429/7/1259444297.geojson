@@ -1,0 +1,67 @@
+{
+  "id": 1259444297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.66111,33.08944,50.66111,33.08944",
+    "geom:latitude":33.08944,
+    "geom:longitude":50.66111,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Hesamabad",
+    "gn:country_code":"IR",
+    "gn:dem":2257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":404097,
+    "gn:latitude":33.08944,
+    "gn:longitude":50.66111,
+    "gn:modification_date":"2003-04-08",
+    "gn:name":"\u1e28e\u015fam\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":404097
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f394bdb267ad4725a988cbeacda1d1e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720261,
+            "locality_id":1259444297,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1259444297,
+    "wof:lastmodified":1536915760,
+    "wof:name":"Hesamabad",
+    "wof:parent_id":1108720261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.66111,
+    33.08944,
+    50.66111,
+    33.08944
+],
+  "geometry": {"coordinates":[50.66111,33.08944],"type":"Point"}
+}

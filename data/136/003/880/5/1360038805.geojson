@@ -1,0 +1,77 @@
+{
+  "id": 1360038805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.37135,36.55475,51.37135,36.55475",
+    "geom:latitude":36.55475,
+    "geom:longitude":51.37135,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Azarak-e Bala",
+    "gn:country_code":"IR",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8100,
+    "gn:latitude":36.55475,
+    "gn:longitude":51.37135,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Az\u0101rak-e B\u0101l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0632\u0627\u0631\u06a9 \u0628\u0627\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "Az\u0101rak-e B\u0101l\u0101",
+        "\u0627\u06a9\u0628\u0631 \u0622\u0628\u0627\u062f \u0628\u0627\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Akbar\u0101b\u0101d-e B\u0101l\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8100
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7d66ae70e5d09b160ac6f0525db101ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719925,
+            "locality_id":1360038805,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1360038805,
+    "wof:lastmodified":1537640420,
+    "wof:name":"Azarak-e Bala",
+    "wof:parent_id":1108719925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.37135,
+    36.55475,
+    51.37135,
+    36.55475
+],
+  "geometry": {"coordinates":[51.37135,36.55475],"type":"Point"}
+}

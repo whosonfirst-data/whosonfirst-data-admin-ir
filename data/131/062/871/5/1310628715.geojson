@@ -1,0 +1,78 @@
+{
+  "id": 1310628715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.83145,33.68979,58.83145,33.68979",
+    "geom:latitude":33.68979,
+    "geom:longitude":58.83145,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Badamak",
+    "gn:country_code":"IR",
+    "gn:dem":1656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":142333,
+    "gn:latitude":33.68979,
+    "gn:longitude":58.83145,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"B\u0101d\u0101mak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "B\u0101d\u0101mak"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0627\u062f\u0627\u0645\u06a9",
+        "B\u0101d\u016bm\u016bk"
+    ],
+    "name:und_x_variant":[
+        "B\u0101d\u016bm\u016bk",
+        "\u0628\u0627\u062f\u0627\u0645\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108720313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":142333
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"06c5f79750cc0288d30cb9d292366b5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720313,
+            "locality_id":1310628715,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1310628715,
+    "wof:lastmodified":1537646060,
+    "wof:name":"Badamak",
+    "wof:parent_id":1108720313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.83145,
+    33.68979,
+    58.83145,
+    33.68979
+],
+  "geometry": {"coordinates":[58.83145,33.68979],"type":"Point"}
+}

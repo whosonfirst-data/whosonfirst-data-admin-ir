@@ -1,0 +1,73 @@
+{
+  "id": 1243535033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.3448,27.076,57.3448,27.076",
+    "geom:latitude":27.076,
+    "geom:longitude":57.3448,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Charutki",
+    "gn:country_code":"IR",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6654725,
+    "gn:latitude":27.076,
+    "gn:longitude":57.3448,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ch\u0101r\u016btk\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0631\u0648\u062a\u06a9\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Ch\u0101r\u016btk\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6654725
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1cda9e879959a80a1f18db4f9dccde72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720243,
+            "locality_id":1243535033,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1243535033,
+    "wof:lastmodified":1537647243,
+    "wof:name":"Charutki",
+    "wof:parent_id":1108720243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.3448,
+    27.076,
+    57.3448,
+    27.076
+],
+  "geometry": {"coordinates":[57.3448,27.076],"type":"Point"}
+}

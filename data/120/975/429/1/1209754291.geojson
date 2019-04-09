@@ -1,0 +1,81 @@
+{
+  "id": 1209754291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.49325,37.19953,55.49325,37.19953",
+    "geom:latitude":37.19953,
+    "geom:longitude":55.49325,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Palangar",
+    "gn:country_code":"IR",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":40018,
+    "gn:latitude":37.19953,
+    "gn:longitude":55.49325,
+    "gn:modification_date":"2016-01-06",
+    "gn:name":"Palangar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0631 \u062a\u06af\u0644"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u0644\u0646\u06af\u0631",
+        "\u067e\u0631 \u0646\u06af\u0644"
+    ],
+    "name:und_x_variant":[
+        "Parangal",
+        "Partagal",
+        "\u067e\u0631 \u062a\u06af\u0644",
+        "Palangar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":40018,
+        "wk:page":"Parangal"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"77bbfd2d9c4c7c309ad1980dc7ff9063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720245,
+            "locality_id":1209754291,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1209754291,
+    "wof:lastmodified":1537642245,
+    "wof:name":"Palangar",
+    "wof:parent_id":1108720245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.49325,
+    37.19953,
+    55.49325,
+    37.19953
+],
+  "geometry": {"coordinates":[55.49325,37.19953],"type":"Point"}
+}

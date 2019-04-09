@@ -1,0 +1,83 @@
+{
+  "id": 1326587975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.4355,33.46605,48.4355,33.46605",
+    "geom:latitude":33.46605,
+    "geom:longitude":48.4355,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Gujan-e Kamalvand",
+    "gn:country_code":"IR",
+    "gn:dem":1292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":129048,
+    "gn:latitude":33.46605,
+    "gn:longitude":48.4355,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"G\u016bj\u0101n-e Kam\u0101lvand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0645\u0627\u0644\u0648\u0646\u062f \u063a\u0644\u0627\u0645\u0639\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Ch\u0101leh-ye Kam\u0101lvand",
+        "Kam\u0101lvand",
+        "\u06a9\u0645\u0627\u0644\u0648\u0646\u062f",
+        "\u06af\u0648\u062c\u0627\u0646 \u06a9\u0645\u0627\u0644\u0648\u0646\u062f"
+    ],
+    "name:und_x_variant":[
+        "Kam\u0101lvand",
+        "Kamalwand",
+        "\u06a9\u0645\u0627\u0644\u0648\u0646\u062f",
+        "Kam\u0101lvand-e Ghol\u0101m\u2018al\u012b",
+        "G\u016bj\u0101n-e Kam\u0101lvand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":129048
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8faee58f31075363ed2df816218b7c81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720145,
+            "locality_id":1326587975,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1326587975,
+    "wof:lastmodified":1537644722,
+    "wof:name":"Gujan-e Kamalvand",
+    "wof:parent_id":1108720145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.4355,
+    33.46605,
+    48.4355,
+    33.46605
+],
+  "geometry": {"coordinates":[48.4355,33.46605],"type":"Point"}
+}

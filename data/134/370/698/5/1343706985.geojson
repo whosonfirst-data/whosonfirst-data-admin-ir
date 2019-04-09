@@ -1,0 +1,79 @@
+{
+  "id": 1343706985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.2203,38.41391,46.2203,38.41391",
+    "geom:latitude":38.41391,
+    "geom:longitude":46.2203,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Iliari",
+    "gn:country_code":"IR",
+    "gn:dem":2012,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":125873,
+    "gn:latitude":38.41391,
+    "gn:longitude":46.2203,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Iliari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "L\u0101r",
+        "\u0644\u0627\u0631\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u012al \u0100r\u012b",
+        "Iliari",
+        "L\u0101r\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":125873
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5a6cc8ab0960c362fbc1af7714309fcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720423,
+            "locality_id":1343706985,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1343706985,
+    "wof:lastmodified":1537644393,
+    "wof:name":"Iliari",
+    "wof:parent_id":1108720423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.2203,
+    38.41391,
+    46.2203,
+    38.41391
+],
+  "geometry": {"coordinates":[46.2203,38.41391],"type":"Point"}
+}

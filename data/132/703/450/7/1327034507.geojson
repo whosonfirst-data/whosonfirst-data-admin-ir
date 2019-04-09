@@ -1,0 +1,78 @@
+{
+  "id": 1327034507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.80943,30.72865,50.80943,30.72865",
+    "geom:latitude":30.72865,
+    "geom:longitude":50.80943,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Arend",
+    "gn:country_code":"IR",
+    "gn:dem":1111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":143118,
+    "gn:latitude":30.72865,
+    "gn:longitude":50.80943,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u0100rend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u064e\u0646\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0100rend",
+        "\u0622\u0631\u0646\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u0100rand",
+        "\u0622\u0631\u0646\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":143118
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a29d35dc2dc1b45ff3d12affcb00f7a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1327034507,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1327034507,
+    "wof:lastmodified":1537646142,
+    "wof:name":"Arend",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.80943,
+    30.72865,
+    50.80943,
+    30.72865
+],
+  "geometry": {"coordinates":[50.80943,30.72865],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1259936579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.14538,35.59548,52.14538,35.59548",
+    "geom:latitude":35.59548,
+    "geom:longitude":52.14538,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Vadan",
+    "gn:country_code":"IR",
+    "gn:dem":1847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112356,
+    "gn:latitude":35.59548,
+    "gn:longitude":52.14538,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"V\u0101d\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u062f\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "V\u0101d\u0101n"
+    ],
+    "name:und_x_variant":[
+        "W\u0101d\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672313,
+        1108719935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112356,
+        "wk:page":"Vadan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"27a11c5f27b688f7b8128bb9e67de462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719935,
+            "locality_id":1259936579,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1259936579,
+    "wof:lastmodified":1537643077,
+    "wof:name":"Vadan",
+    "wof:parent_id":1108719935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.14538,
+    35.59548,
+    52.14538,
+    35.59548
+],
+  "geometry": {"coordinates":[52.14538,35.59548],"type":"Point"}
+}

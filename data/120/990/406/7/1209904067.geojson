@@ -1,0 +1,75 @@
+{
+  "id": 1209904067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.84873,26.02336,58.84873,26.02336",
+    "geom:latitude":26.02336,
+    "geom:longitude":58.84873,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Shah Ap",
+    "gn:country_code":"IR",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7111243,
+    "gn:latitude":26.02336,
+    "gn:longitude":58.84873,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Sh\u0101h \u0100p",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0647 \u0622\u067e"
+    ],
+    "name:fas_x_variant":[
+        "\u0100p",
+        "\u0622\u067e",
+        "Sh\u0101h \u0100p"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7111243
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"880c163a23f8e24feb9ff0c4d6c8ad8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720077,
+            "locality_id":1209904067,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1209904067,
+    "wof:lastmodified":1537648097,
+    "wof:name":"Shah Ap",
+    "wof:parent_id":1108720077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.84873,
+    26.02336,
+    58.84873,
+    26.02336
+],
+  "geometry": {"coordinates":[58.84873,26.02336],"type":"Point"}
+}

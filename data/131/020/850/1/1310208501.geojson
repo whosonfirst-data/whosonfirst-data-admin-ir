@@ -1,0 +1,75 @@
+{
+  "id": 1310208501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.3088,39.1593,44.3088,39.1593",
+    "geom:latitude":39.1593,
+    "geom:longitude":44.3088,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Haramlu",
+    "gn:country_code":"IR",
+    "gn:dem":1943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":14103,
+    "gn:latitude":39.1593,
+    "gn:longitude":44.3088,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28ar\u0101ml\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0631\u0627\u0645\u0644\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u062d\u064e\u0631\u0627\u0645\u0644\u0648",
+        "\u1e28ar\u0101ml\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108719923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":14103,
+        "wk:page":"Haramlu"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"debf850ef776d07c0f303ed64d23adb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719923,
+            "locality_id":1310208501,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1310208501,
+    "wof:lastmodified":1537640780,
+    "wof:name":"Haramlu",
+    "wof:parent_id":1108719923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.3088,
+    39.1593,
+    44.3088,
+    39.1593
+],
+  "geometry": {"coordinates":[44.3088,39.1593],"type":"Point"}
+}

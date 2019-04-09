@@ -1,0 +1,67 @@
+{
+  "id": 1276268655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.43333,37.38333,55.43333,37.38333",
+    "geom:latitude":37.38333,
+    "geom:longitude":55.43333,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Kangar",
+    "gn:country_code":"IR",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":39901,
+    "gn:latitude":37.38333,
+    "gn:longitude":55.43333,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Kangar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":39901
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0f45b48236a62e720668a0aac3d61abb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720093,
+            "locality_id":1276268655,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1276268655,
+    "wof:lastmodified":1536863978,
+    "wof:name":"Kangar",
+    "wof:parent_id":1108720093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.43333000000001,
+    37.38333,
+    55.43333000000001,
+    37.38333
+],
+  "geometry": {"coordinates":[55.43333000000001,37.38333],"type":"Point"}
+}

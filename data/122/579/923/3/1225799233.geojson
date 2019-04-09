@@ -1,0 +1,81 @@
+{
+  "id": 1225799233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.368,38.35797,47.368,38.35797",
+    "geom:latitude":38.35797,
+    "geom:longitude":47.368,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Guravan",
+    "gn:country_code":"IR",
+    "gn:dem":1381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":13609,
+    "gn:latitude":38.35797,
+    "gn:longitude":47.368,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"G\u016br\u0101v\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "G\u016bzv\u0101n-e Bozorg"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u0648\u0631\u0627\u0648\u0627\u0646",
+        "\u06af\u0648\u0631\u0627\u0646",
+        "\u06af\u0648\u0631\u0648\u0627\u0646 \u0628\u0632\u0631\u06af"
+    ],
+    "name:und_x_variant":[
+        "G\u016br\u0101v\u0101n",
+        "G\u016br\u0101n",
+        "G\u016brv\u0101n-e Bozorg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13609,
+        "wk:page":"Gurvan-e_Bozorg"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0c494ce9d3b1c63663ad28612bff2495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720237,
+            "locality_id":1225799233,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1225799233,
+    "wof:lastmodified":1537640730,
+    "wof:name":"Guravan",
+    "wof:parent_id":1108720237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.368,
+    38.35797,
+    47.368,
+    38.35797
+],
+  "geometry": {"coordinates":[47.368,38.35797],"type":"Point"}
+}

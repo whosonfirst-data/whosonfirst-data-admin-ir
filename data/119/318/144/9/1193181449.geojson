@@ -1,0 +1,73 @@
+{
+  "id": 1193181449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.55371,36.61775,52.55371,36.61775",
+    "geom:latitude":36.61775,
+    "geom:longitude":52.55371,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Molla Kola",
+    "gn:country_code":"IR",
+    "gn:dem":-16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11428,
+    "gn:latitude":36.61775,
+    "gn:longitude":52.55371,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Moll\u0101 Kol\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0627 \u0643\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "Moll\u0101 Kol\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11428
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0da78a3f3dccc3f9b3cb55f40d419dce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719847,
+            "locality_id":1193181449,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1193181449,
+    "wof:lastmodified":1537640633,
+    "wof:name":"Molla Kola",
+    "wof:parent_id":1108719847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.55371,
+    36.61775,
+    52.55371,
+    36.61775
+],
+  "geometry": {"coordinates":[52.55371,36.61775],"type":"Point"}
+}

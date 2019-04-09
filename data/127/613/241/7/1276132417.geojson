@@ -1,0 +1,74 @@
+{
+  "id": 1276132417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.9745,38.5172,44.9745,38.5172",
+    "geom:latitude":38.5172,
+    "geom:longitude":44.9745,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Fana'i",
+    "gn:country_code":"IR",
+    "gn:dem":1130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":40559,
+    "gn:latitude":38.5172,
+    "gn:longitude":44.9745,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"Fan\u0101\u2019\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0641\u0646\u0627\u0626\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Fan\u0101\u2019\u012b",
+        "\u0641\u0646\u0627\u0626\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":40559
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"afd0d034c2cf7447b353adbd38cae3a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720153,
+            "locality_id":1276132417,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1276132417,
+    "wof:lastmodified":1537642281,
+    "wof:name":"Fana'i",
+    "wof:parent_id":1108720153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.9745,
+    38.5172,
+    44.9745,
+    38.5172
+],
+  "geometry": {"coordinates":[44.9745,38.5172],"type":"Point"}
+}

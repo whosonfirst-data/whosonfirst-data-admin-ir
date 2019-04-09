@@ -1,0 +1,78 @@
+{
+  "id": 1242857113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.49752,31.44518,48.49752,31.44518",
+    "geom:latitude":31.44518,
+    "geom:longitude":48.49752,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Magtaf",
+    "gn:country_code":"IR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":123438,
+    "gn:latitude":31.44518,
+    "gn:longitude":48.49752,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Magt\u0101f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Makt\u0101f"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u06af\u062a\u0627\u0641"
+    ],
+    "name:und_x_variant":[
+        "Mekt\u0101f",
+        "Mokt\u0101f",
+        "Magt\u0101f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":123438
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9130cda3e759fef063b19d0a84477821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719793,
+            "locality_id":1242857113,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1242857113,
+    "wof:lastmodified":1537644155,
+    "wof:name":"Magtaf",
+    "wof:parent_id":1108719793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.49752,
+    31.44518,
+    48.49752,
+    31.44518
+],
+  "geometry": {"coordinates":[48.49752,31.44518],"type":"Point"}
+}

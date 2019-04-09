@@ -1,0 +1,70 @@
+{
+  "id": 1209113195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.16402,31.16543,51.16402,31.16543",
+    "geom:latitude":31.16543,
+    "geom:longitude":51.16402,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Narmeh",
+    "gn:country_code":"IR",
+    "gn:dem":1487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":38383,
+    "gn:latitude":31.16543,
+    "gn:longitude":51.16402,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"N\u0101rmeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "N\u0101rmeh"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0627\u0631\u0645\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0646\u0627\u0631\u0645\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":38383
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1e1adc26d56c6cb58b6b6661e65c8bd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209113195
+        }
+    ],
+    "wof:id":1209113195,
+    "wof:lastmodified":1537642172,
+    "wof:name":"Narmeh",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.16402,
+    31.16543,
+    51.16402,
+    31.16543
+],
+  "geometry": {"coordinates":[51.16402,31.16543],"type":"Point"}
+}

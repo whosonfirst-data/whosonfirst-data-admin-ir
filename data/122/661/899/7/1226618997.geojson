@@ -1,0 +1,70 @@
+{
+  "id": 1226618997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.25,31.93333,49.25,31.93333",
+    "geom:latitude":31.93333,
+    "geom:longitude":49.25,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Tunya",
+    "gn:country_code":"IR",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112498,
+    "gn:latitude":31.93333,
+    "gn:longitude":49.25,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"T\u016bny\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "T\u016bny\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112498
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f2721449f1d514c143cbf1c0ca7e5d40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720229,
+            "locality_id":1226618997,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1226618997,
+    "wof:lastmodified":1537643093,
+    "wof:name":"Tunya",
+    "wof:parent_id":1108720229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.25,
+    31.93333,
+    49.25,
+    31.93333
+],
+  "geometry": {"coordinates":[49.25,31.93333],"type":"Point"}
+}

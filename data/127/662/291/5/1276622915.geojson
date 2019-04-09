@@ -1,0 +1,73 @@
+{
+  "id": 1276622915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.869,33.6963,47.869,33.6963",
+    "geom:latitude":33.6963,
+    "geom:longitude":47.869,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Pir Shams od Din",
+    "gn:country_code":"IR",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":28088,
+    "gn:latitude":33.6963,
+    "gn:longitude":47.869,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"P\u012br Shams od D\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0631 \u0634\u0645\u0633 \u0627\u0644\u062f\u0651\u06cc\u0646"
+    ],
+    "name:fas_x_variant":[
+        "P\u012br Shams od D\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":28088
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3fe1308688eb4ef6007b853a774fb260",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720145,
+            "locality_id":1276622915,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1276622915,
+    "wof:lastmodified":1537641506,
+    "wof:name":"Pir Shams od Din",
+    "wof:parent_id":1108720145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.869,
+    33.6963,
+    47.869,
+    33.6963
+],
+  "geometry": {"coordinates":[47.869,33.6963],"type":"Point"}
+}

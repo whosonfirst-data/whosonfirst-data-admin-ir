@@ -1,0 +1,74 @@
+{
+  "id": 1293892759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.4654,38.2286,44.4654,38.2286",
+    "geom:latitude":38.2286,
+    "geom:longitude":44.4654,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Ghezel Kand",
+    "gn:country_code":"IR",
+    "gn:dem":2457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":40420,
+    "gn:latitude":38.2286,
+    "gn:longitude":44.4654,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ghezel Kand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u063a\u0632\u0644 \u06a9\u0646\u062f"
+    ],
+    "name:und_x_variant":[
+        "Qezel Kand",
+        "\u063a\u0632\u0644 \u06a9\u0646\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":40420
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"df0b598a8be03a0cf4e882e04e1773fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720375,
+            "locality_id":1293892759,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1293892759,
+    "wof:lastmodified":1537642270,
+    "wof:name":"Ghezel Kand",
+    "wof:parent_id":1108720375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.4654,
+    38.2286,
+    44.4654,
+    38.2286
+],
+  "geometry": {"coordinates":[44.4654,38.2286],"type":"Point"}
+}

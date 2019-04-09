@@ -1,0 +1,66 @@
+{
+  "id": 1209284403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.55,32.6,48.55,32.6",
+    "geom:latitude":32.6,
+    "geom:longitude":48.55,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Khosrow",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":127255,
+    "gn:latitude":32.6,
+    "gn:longitude":48.55,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Khosrow",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khusru",
+        "Khosrow"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":127255
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5f2fc4419e594884bfae1b553c435f82",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209284403
+        }
+    ],
+    "wof:id":1209284403,
+    "wof:lastmodified":1537644540,
+    "wof:name":"Khosrow",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.55,
+    32.6,
+    48.55,
+    32.6
+],
+  "geometry": {"coordinates":[48.55,32.6],"type":"Point"}
+}

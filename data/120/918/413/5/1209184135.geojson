@@ -1,0 +1,71 @@
+{
+  "id": 1209184135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.81932,30.95549,48.81932,30.95549",
+    "geom:latitude":30.95549,
+    "geom:longitude":48.81932,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Khaviseh",
+    "gn:country_code":"IR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242438,
+    "gn:latitude":30.95549,
+    "gn:longitude":48.81932,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Khav\u012bseh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u06cc\u0633\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u06cc\u062f \u0645\u062d\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "Khav\u012bseh",
+        "Seyyed Mo\u1e29ammad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242438
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e546c6ddb2e8acc2eb9962fcd13c4a9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209184135
+        }
+    ],
+    "wof:id":1209184135,
+    "wof:lastmodified":1537648753,
+    "wof:name":"Khaviseh",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.81932000000001,
+    30.95549,
+    48.81932000000001,
+    30.95549
+],
+  "geometry": {"coordinates":[48.81932000000001,30.95549],"type":"Point"}
+}

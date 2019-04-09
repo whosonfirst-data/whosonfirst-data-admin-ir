@@ -1,0 +1,73 @@
+{
+  "id": 1226371175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.8407,35.8849,50.8407,35.8849",
+    "geom:latitude":35.8849,
+    "geom:longitude":50.8407,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Safa'iyeh",
+    "gn:country_code":"IR",
+    "gn:dem":1317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6657121,
+    "gn:latitude":35.8849,
+    "gn:longitude":50.8407,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"\u015eaf\u0101\u2019\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0635\u0641\u0627\u0626\u06cc\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u015eaf\u0101\u2019\u012byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672415,
+        1108720409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6657121
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cf3e5586151a60a50c5085c057820825",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720409,
+            "locality_id":1226371175,
+            "region_id":85672415
+        }
+    ],
+    "wof:id":1226371175,
+    "wof:lastmodified":1537647256,
+    "wof:name":"Safa'iyeh",
+    "wof:parent_id":1108720409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.8407,
+    35.8849,
+    50.8407,
+    35.8849
+],
+  "geometry": {"coordinates":[50.8407,35.8849],"type":"Point"}
+}

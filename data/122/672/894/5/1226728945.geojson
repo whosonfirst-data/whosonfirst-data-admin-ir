@@ -1,0 +1,73 @@
+{
+  "id": 1226728945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.9259,33.7962,46.9259,33.7962",
+    "geom:latitude":33.7962,
+    "geom:longitude":46.9259,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Rezaabad",
+    "gn:country_code":"IR",
+    "gn:dem":1358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":27566,
+    "gn:latitude":33.7962,
+    "gn:longitude":46.9259,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Re\u1e95\u0101\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0631\u0636\u0627 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Re\u1e95\u0101\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108719983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":27566
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ce07dac4bad54c0a901bc273d35dacbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719983,
+            "locality_id":1226728945,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1226728945,
+    "wof:lastmodified":1537641479,
+    "wof:name":"Rezaabad",
+    "wof:parent_id":1108719983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.9259,
+    33.7962,
+    46.9259,
+    33.7962
+],
+  "geometry": {"coordinates":[46.9259,33.7962],"type":"Point"}
+}

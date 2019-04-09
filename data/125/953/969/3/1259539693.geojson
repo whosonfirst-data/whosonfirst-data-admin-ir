@@ -1,0 +1,73 @@
+{
+  "id": 1259539693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.04938,33.59031,47.04938,33.59031",
+    "geom:latitude":33.59031,
+    "geom:longitude":47.04938,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Dar Nameh",
+    "gn:country_code":"IR",
+    "gn:dem":968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8229825,
+    "gn:latitude":33.59031,
+    "gn:longitude":47.04938,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"D\u0101r N\u0101meh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0631 \u0646\u0627\u0645\u0647"
+    ],
+    "name:und_x_variant":[
+        "D\u0101r N\u0101meh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8229825
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5ec6c2c3662cb0188d7c13ccfed8ebb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720169,
+            "locality_id":1259539693,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1259539693,
+    "wof:lastmodified":1537648532,
+    "wof:name":"Dar Nameh",
+    "wof:parent_id":1108720169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.04938,
+    33.59031,
+    47.04938,
+    33.59031
+],
+  "geometry": {"coordinates":[47.04938,33.59031],"type":"Point"}
+}

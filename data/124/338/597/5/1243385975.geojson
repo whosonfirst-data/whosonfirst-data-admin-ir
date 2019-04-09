@@ -1,0 +1,73 @@
+{
+  "id": 1243385975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.81529,31.16665,50.81529,31.16665",
+    "geom:latitude":31.16665,
+    "geom:longitude":50.81529,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dalun",
+    "gn:country_code":"IR",
+    "gn:dem":2341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8304722,
+    "gn:latitude":31.16665,
+    "gn:longitude":50.81529,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"D\u0101l\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0644\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "D\u0101l\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108719911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8304722
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a1cbea02e978e7c930931f9167ac0aa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719911,
+            "locality_id":1243385975,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1243385975,
+    "wof:lastmodified":1537648540,
+    "wof:name":"Dalun",
+    "wof:parent_id":1108719911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.81529000000001,
+    31.16665,
+    50.81529000000001,
+    31.16665
+],
+  "geometry": {"coordinates":[50.81529000000001,31.16665],"type":"Point"}
+}

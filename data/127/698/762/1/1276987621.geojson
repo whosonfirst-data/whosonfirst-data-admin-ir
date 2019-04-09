@@ -1,0 +1,73 @@
+{
+  "id": 1276987621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.28677,32.03929,50.28677,32.03929",
+    "geom:latitude":32.03929,
+    "geom:longitude":50.28677,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Darreh Kalak",
+    "gn:country_code":"IR",
+    "gn:dem":2201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7566225,
+    "gn:latitude":32.03929,
+    "gn:longitude":50.28677,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Darreh Kalak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0647 \u06a9\u0644\u06a9"
+    ],
+    "name:und_x_variant":[
+        "\u062f\u0631\u0647 \u06a9\u0644\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672319,
+        1108719821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7566225
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"41d36f1ad4ac4b50d572d7c8dce6c08f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719821,
+            "locality_id":1276987621,
+            "region_id":85672319
+        }
+    ],
+    "wof:id":1276987621,
+    "wof:lastmodified":1537648361,
+    "wof:name":"Darreh Kalak",
+    "wof:parent_id":1108719821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.28677,
+    32.03929,
+    50.28677,
+    32.03929
+],
+  "geometry": {"coordinates":[50.28677,32.03929],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293085921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.31374,36.91005,50.31374,36.91005",
+    "geom:latitude":36.91005,
+    "geom:longitude":50.31374,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tala Sarak",
+    "gn:country_code":"IR",
+    "gn:dem":1712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9877,
+    "gn:latitude":36.91005,
+    "gn:longitude":50.31374,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"\u0162al\u0101 Sarak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0162\u0101l Sar\u0101"
+    ],
+    "name:fas_x_variant":[
+        "\u0637\u0644\u0627 \u0633\u0631\u06a9"
+    ],
+    "name:und_x_variant":[
+        "\u0162al\u0101 Sarak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9877
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"96bfdc5b9ada06f46444849766e99242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720365,
+            "locality_id":1293085921,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1293085921,
+    "wof:lastmodified":1537640517,
+    "wof:name":"Tala Sarak",
+    "wof:parent_id":1108720365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.31374,
+    36.91005,
+    50.31374,
+    36.91005
+],
+  "geometry": {"coordinates":[50.31374,36.91005],"type":"Point"}
+}

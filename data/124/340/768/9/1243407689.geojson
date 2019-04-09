@@ -1,0 +1,81 @@
+{
+  "id": 1243407689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.85157,36.68577,50.85157,36.68577",
+    "geom:latitude":36.68577,
+    "geom:longitude":50.85157,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Kalach Pa",
+    "gn:country_code":"IR",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10280,
+    "gn:latitude":36.68577,
+    "gn:longitude":50.85157,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"Kal\u0101ch P\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0644\u0627\u0686\u067e\u0627"
+    ],
+    "name:fas_x_variant":[
+        "Kal\u0101j P\u0101",
+        "Kal\u0101chp\u0101",
+        "\u06a9\u0644\u0627\u062c \u067e\u0627",
+        "\u0643\u0644\u0627\u0686 \u067e\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u06a9\u0644\u0627\u062c \u067e\u0627",
+        "Kal\u0101ch P\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10280,
+        "wk:page":"Kalachpa"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a30be0ce04344e90015247294dbcd64b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720495,
+            "locality_id":1243407689,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1243407689,
+    "wof:lastmodified":1537640556,
+    "wof:name":"Kalach Pa",
+    "wof:parent_id":1108720495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.85157,
+    36.68577,
+    50.85157,
+    36.68577
+],
+  "geometry": {"coordinates":[50.85157,36.68577],"type":"Point"}
+}

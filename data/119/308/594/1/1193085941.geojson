@@ -1,0 +1,67 @@
+{
+  "id": 1193085941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.99,39.62389,47.99,39.62389",
+    "geom:latitude":39.62389,
+    "geom:longitude":47.99,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Sheykhler",
+    "gn:country_code":"IR",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388968,
+    "gn:latitude":39.62389,
+    "gn:longitude":47.99,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Sheykhler",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388968
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"457b3e6e2b5823cb26bc76df3070b599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720297,
+            "locality_id":1193085941,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1193085941,
+    "wof:lastmodified":1536375834,
+    "wof:name":"Sheykhler",
+    "wof:parent_id":1108720297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.99,
+    39.62389,
+    47.99,
+    39.62389
+],
+  "geometry": {"coordinates":[47.99,39.62389],"type":"Point"}
+}

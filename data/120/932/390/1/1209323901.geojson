@@ -1,0 +1,68 @@
+{
+  "id": 1209323901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.4958,39.5349,44.4958,39.5349",
+    "geom:latitude":39.5349,
+    "geom:longitude":44.4958,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Shurik",
+    "gn:country_code":"IR",
+    "gn:dem":1417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":14045,
+    "gn:latitude":39.5349,
+    "gn:longitude":44.4958,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sh\u016br\u012bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u0631\u064a\u0643"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u0648\u0631\u06cc\u06a9",
+        "Sh\u016br\u012bk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":14045
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c644588b2b9cb951bc3e3daf0a70376e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209323901
+        }
+    ],
+    "wof:id":1209323901,
+    "wof:lastmodified":1537640774,
+    "wof:name":"Shurik",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.4958,
+    39.5349,
+    44.4958,
+    39.5349
+],
+  "geometry": {"coordinates":[44.4958,39.5349],"type":"Point"}
+}

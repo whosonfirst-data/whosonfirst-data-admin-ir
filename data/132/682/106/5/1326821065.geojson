@@ -1,0 +1,77 @@
+{
+  "id": 1326821065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.62769,29.56229,52.62769,29.56229",
+    "geom:latitude":29.56229,
+    "geom:longitude":52.62769,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Torkan",
+    "gn:country_code":"IR",
+    "gn:dem":1488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112632,
+    "gn:latitude":29.56229,
+    "gn:longitude":52.62769,
+    "gn:modification_date":"2018-06-02",
+    "gn:name":"Tork\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u06a9\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Tork\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Turk\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112632,
+        "wk:page":"Torkan,_Fars"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"030e5fea25d2067036f112ccd82ac631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720447,
+            "locality_id":1326821065,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1326821065,
+    "wof:lastmodified":1537643108,
+    "wof:name":"Torkan",
+    "wof:parent_id":1108720447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.62769,
+    29.56229,
+    52.62769,
+    29.56229
+],
+  "geometry": {"coordinates":[52.62769,29.56229],"type":"Point"}
+}

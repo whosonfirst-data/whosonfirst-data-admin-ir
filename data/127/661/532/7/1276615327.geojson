@@ -1,0 +1,75 @@
+{
+  "id": 1276615327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.0607,34.1105,51.0607,34.1105",
+    "geom:latitude":34.1105,
+    "geom:longitude":51.0607,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ormak",
+    "gn:country_code":"IR",
+    "gn:dem":1837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":142983,
+    "gn:latitude":34.1105,
+    "gn:longitude":51.0607,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ormak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u0645\u064e\u0643"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0631\u0645\u06a9",
+        "\u0100rmak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":142983,
+        "wk:page":"Ormak%2C_Isfahan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"465759bcd1edc19c7df96bd828682a86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720109,
+            "locality_id":1276615327,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1276615327,
+    "wof:lastmodified":1537646129,
+    "wof:name":"Ormak",
+    "wof:parent_id":1108720109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.0607,
+    34.1105,
+    51.0607,
+    34.1105
+],
+  "geometry": {"coordinates":[51.0607,34.1105],"type":"Point"}
+}

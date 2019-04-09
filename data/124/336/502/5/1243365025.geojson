@@ -1,0 +1,79 @@
+{
+  "id": 1243365025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.41335,32.32974,50.41335,32.32974",
+    "geom:latitude":32.32974,
+    "geom:longitude":50.41335,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Sepid Daneh",
+    "gn:country_code":"IR",
+    "gn:dem":2431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":116541,
+    "gn:latitude":32.32974,
+    "gn:longitude":50.41335,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sep\u012bd D\u0101neh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sef\u012bd D\u0101neh"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0650\u0641\u064a\u062f \u062f\u0627\u0646\u0650\u0647",
+        "Sep\u012bd D\u0101neh",
+        "\u0633\u067e\u064a\u062f \u062f\u0627\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0633\u067e\u064a\u062f \u062f\u0627\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672319,
+        1108719997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":116541,
+        "wk:page":"Sepid_Daneh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fac9057a81975eb9c8374d288d844048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719997,
+            "locality_id":1243365025,
+            "region_id":85672319
+        }
+    ],
+    "wof:id":1243365025,
+    "wof:lastmodified":1537643458,
+    "wof:name":"Sepid Daneh",
+    "wof:parent_id":1108719997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.41335,
+    32.32974,
+    50.41335,
+    32.32974
+],
+  "geometry": {"coordinates":[50.41335,32.32974],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1210045611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.43741,36.3381,59.43741,36.3381",
+    "geom:latitude":36.3381,
+    "geom:longitude":59.43741,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Vila Shahr",
+    "gn:country_code":"IR",
+    "gn:dem":1176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8383658,
+    "gn:latitude":36.3381,
+    "gn:longitude":59.43741,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"V\u012bl\u0101 Shahr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u064a\u0644\u0627 \u0634\u0647\u0631"
+    ],
+    "name:und_x_variant":[
+        "V\u012bl\u0101 Shahr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8383658,
+        "wk:page":"Vila_Shahr,_Razavi_Khorasan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d389db1da53c7a52ceb611f26eb15606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720227,
+            "locality_id":1210045611,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1210045611,
+    "wof:lastmodified":1537648552,
+    "wof:name":"Vila Shahr",
+    "wof:parent_id":1108720227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.43741,
+    36.3381,
+    59.43741,
+    36.3381
+],
+  "geometry": {"coordinates":[59.43741,36.3381],"type":"Point"}
+}

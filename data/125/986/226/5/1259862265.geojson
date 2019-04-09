@@ -1,0 +1,78 @@
+{
+  "id": 1259862265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.1821,30.8337,50.1821,30.8337",
+    "geom:latitude":30.8337,
+    "geom:longitude":50.1821,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Turahi",
+    "gn:country_code":"IR",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6729519,
+    "gn:latitude":30.8337,
+    "gn:longitude":50.1821,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"T\u016brah\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0631\u0647\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "T\u016brah\u012b",
+        "\u0642\u0644\u0627\u062a \u062a\u0648\u0631\u06cc"
+    ],
+    "name:und_x_variant":[
+        "T\u016brah\u012b",
+        "Qal\u0101t-e T\u016br\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6729519
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"56359b05109d26fa58b097bdd0ce897f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719885,
+            "locality_id":1259862265,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1259862265,
+    "wof:lastmodified":1537647536,
+    "wof:name":"Turahi",
+    "wof:parent_id":1108719885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.1821,
+    30.8337,
+    50.1821,
+    30.8337
+],
+  "geometry": {"coordinates":[50.1821,30.8337],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1360255101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.75263,32.32796,48.75263,32.32796",
+    "geom:latitude":32.32796,
+    "geom:longitude":48.75263,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ab Tasuleh",
+    "gn:country_code":"IR",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6660501,
+    "gn:latitude":32.32796,
+    "gn:longitude":48.75263,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"\u0100b T\u0101s\u016bleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0628 \u062a\u0627\u0633\u0648\u0644\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0100b T\u0101s\u016bleh",
+        "\u0622\u0628 \u062a\u0648\u0635\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0100b T\u016b\u015feleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6660501,
+        "wk:page":"Ab_Tasuleh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"44232da8eeb34df3be18fdef07b9743d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720043,
+            "locality_id":1360255101,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1360255101,
+    "wof:lastmodified":1537647275,
+    "wof:name":"Ab Tasuleh",
+    "wof:parent_id":1108720043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.75263,
+    32.32796,
+    48.75263,
+    32.32796
+],
+  "geometry": {"coordinates":[48.75263,32.32796],"type":"Point"}
+}

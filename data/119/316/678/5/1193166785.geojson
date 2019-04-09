@@ -1,0 +1,74 @@
+{
+  "id": 1193166785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.80878,34.83542,59.80878,34.83542",
+    "geom:latitude":34.83542,
+    "geom:longitude":59.80878,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Valiabad",
+    "gn:country_code":"IR",
+    "gn:dem":1035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":30001,
+    "gn:latitude":34.83542,
+    "gn:longitude":59.80878,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Val\u012b\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06cc \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Val\u012b\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":30001,
+        "wk:page":"Valiabad,_Razavi_Khorasan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"af40f1d557cabf97e336e889f04c1324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720119,
+            "locality_id":1193166785,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1193166785,
+    "wof:lastmodified":1537641661,
+    "wof:name":"Valiabad",
+    "wof:parent_id":1108720119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.80878000000001,
+    34.83542,
+    59.80878000000001,
+    34.83542
+],
+  "geometry": {"coordinates":[59.80878000000001,34.83542],"type":"Point"}
+}

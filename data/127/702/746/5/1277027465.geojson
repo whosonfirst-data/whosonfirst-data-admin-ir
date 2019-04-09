@@ -1,0 +1,73 @@
+{
+  "id": 1277027465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.89726,36.52627,52.89726,36.52627",
+    "geom:latitude":36.52627,
+    "geom:longitude":52.89726,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Ahangar Kola",
+    "gn:country_code":"IR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11792,
+    "gn:latitude":36.52627,
+    "gn:longitude":52.89726,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u0100hangar Kol\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0647\u0646\u06af\u0631 \u0643\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0100hangar Kol\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11792
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"eabfc90f1cf31182056ca39404d5a3e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720309,
+            "locality_id":1277027465,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1277027465,
+    "wof:lastmodified":1537640666,
+    "wof:name":"Ahangar Kola",
+    "wof:parent_id":1108720309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.89726,
+    36.52627,
+    52.89726,
+    36.52627
+],
+  "geometry": {"coordinates":[52.89726,36.52627],"type":"Point"}
+}

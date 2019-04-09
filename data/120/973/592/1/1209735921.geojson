@@ -1,0 +1,70 @@
+{
+  "id": 1209735921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.12111,29.45333,54.12111,29.45333",
+    "geom:latitude":29.45333,
+    "geom:longitude":54.12111,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Heshmat",
+    "gn:country_code":"IR",
+    "gn:dem":1590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":45483,
+    "gn:latitude":29.45333,
+    "gn:longitude":54.12111,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28eshmat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u1e28eshmat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":45483
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d7a9b7534ba72a707a6d962518ba6e29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720277,
+            "locality_id":1209735921,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1209735921,
+    "wof:lastmodified":1537642541,
+    "wof:name":"Heshmat",
+    "wof:parent_id":1108720277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.12111,
+    29.45333,
+    54.12111,
+    29.45333
+],
+  "geometry": {"coordinates":[54.12111,29.45333],"type":"Point"}
+}

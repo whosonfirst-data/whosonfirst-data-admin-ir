@@ -1,0 +1,73 @@
+{
+  "id": 1260030101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.93954,28.02409,58.93954,28.02409",
+    "geom:latitude":28.02409,
+    "geom:longitude":58.93954,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Ab Shur",
+    "gn:country_code":"IR",
+    "gn:dem":912,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9100859,
+    "gn:latitude":28.02409,
+    "gn:longitude":58.93954,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"\u0100b Sh\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0628 \u0634\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u0100b Sh\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9100859
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"92f6d4a8ad26033b197dc0bc7d46cc8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720063,
+            "locality_id":1260030101,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1260030101,
+    "wof:lastmodified":1537648630,
+    "wof:name":"Ab Shur",
+    "wof:parent_id":1108720063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.93954,
+    28.02409,
+    58.93954,
+    28.02409
+],
+  "geometry": {"coordinates":[58.93954,28.02409],"type":"Point"}
+}

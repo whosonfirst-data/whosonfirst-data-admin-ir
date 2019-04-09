@@ -1,0 +1,73 @@
+{
+  "id": 1360308971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.27421,28.17918,61.27421,28.17918",
+    "geom:latitude":28.17918,
+    "geom:longitude":61.27421,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Nowgarabad",
+    "gn:country_code":"IR",
+    "gn:dem":1387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7094510,
+    "gn:latitude":28.17918,
+    "gn:longitude":61.27421,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Nowgar\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u06af\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Nowgar\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7094510
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ea3de375cb50636abbd38ece81e765f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720131,
+            "locality_id":1360308971,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1360308971,
+    "wof:lastmodified":1537648062,
+    "wof:name":"Nowgarabad",
+    "wof:parent_id":1108720131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.27421,
+    28.17918,
+    61.27421,
+    28.17918
+],
+  "geometry": {"coordinates":[61.27421,28.17918],"type":"Point"}
+}

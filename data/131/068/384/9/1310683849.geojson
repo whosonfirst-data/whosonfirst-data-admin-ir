@@ -1,0 +1,73 @@
+{
+  "id": 1310683849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.6206,31.60656,48.6206,31.60656",
+    "geom:latitude":31.60656,
+    "geom:longitude":48.6206,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sajjadiyeh",
+    "gn:country_code":"IR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6649424,
+    "gn:latitude":31.60656,
+    "gn:longitude":48.6206,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Sajj\u0101d\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u062c\u0627\u062f\u06cc\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Sajj\u0101d\u012byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6649424
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e5c603b6731889a0b0e2b48b51482236",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719793,
+            "locality_id":1310683849,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1310683849,
+    "wof:lastmodified":1537647185,
+    "wof:name":"Sajjadiyeh",
+    "wof:parent_id":1108719793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.6206,
+    31.60656,
+    48.6206,
+    31.60656
+],
+  "geometry": {"coordinates":[48.6206,31.60656],"type":"Point"}
+}

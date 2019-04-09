@@ -1,0 +1,81 @@
+{
+  "id": 1293161825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.33587,31.46562,56.33587,31.46562",
+    "geom:latitude":31.46562,
+    "geom:longitude":56.33587,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Deh Jari",
+    "gn:country_code":"IR",
+    "gn:dem":2032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":136759,
+    "gn:latitude":31.46562,
+    "gn:longitude":56.33587,
+    "gn:modification_date":"2014-09-30",
+    "gn:name":"Deh J\u0101r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0650\u0647 \u062c\u064f\u0631\u0639\u0650\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0647 \u062c\u0627\u0631\u06cc",
+        "Deh-e J\u0101r\u012b",
+        "Deh Jor\u2018eh",
+        "Deh J\u0101r\u012b",
+        "\u062f\u0647 \u062c\u0648\u0631\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Deh J\u0101r\u012b",
+        "Deh Jowr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":136759
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c3cff55e2155a1664c9656b9d565a675",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720155,
+            "locality_id":1293161825,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1293161825,
+    "wof:lastmodified":1537645508,
+    "wof:name":"Deh Jari",
+    "wof:parent_id":1108720155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.33586999999999,
+    31.46562,
+    56.33586999999999,
+    31.46562
+],
+  "geometry": {"coordinates":[56.33586999999999,31.46562],"type":"Point"}
+}

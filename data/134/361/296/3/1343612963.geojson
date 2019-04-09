@@ -1,0 +1,77 @@
+{
+  "id": 1343612963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.47985,36.1146,49.47985,36.1146",
+    "geom:latitude":36.1146,
+    "geom:longitude":49.47985,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Jarandaq",
+    "gn:country_code":"IR",
+    "gn:dem":1546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":130318,
+    "gn:latitude":36.1146,
+    "gn:longitude":49.47985,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Jarandaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u0631\u0646\u062f\u0642"
+    ],
+    "name:und_x_variant":[
+        "Charandak",
+        "Garandeh",
+        "Charandan",
+        "Jarandaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108720479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":130318,
+        "wk:page":"Jarandaq"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"28e3a1bd6a92a2f632297eaa2aba0ea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720479,
+            "locality_id":1343612963,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1343612963,
+    "wof:lastmodified":1537644855,
+    "wof:name":"Jarandaq",
+    "wof:parent_id":1108720479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.47985,
+    36.1146,
+    49.47985,
+    36.1146
+],
+  "geometry": {"coordinates":[49.47985,36.1146],"type":"Point"}
+}

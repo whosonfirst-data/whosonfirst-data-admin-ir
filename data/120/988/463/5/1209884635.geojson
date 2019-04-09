@@ -1,0 +1,77 @@
+{
+  "id": 1209884635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.73746,33.11359,49.73746,33.11359",
+    "geom:latitude":33.11359,
+    "geom:longitude":49.73746,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Ivaj",
+    "gn:country_code":"IR",
+    "gn:dem":2147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":130720,
+    "gn:latitude":33.11359,
+    "gn:longitude":49.73746,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"\u012avaj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u012avaj"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u06cc\u0648\u062c"
+    ],
+    "name:und_x_variant":[
+        "\u0627\u06cc\u0648\u062c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":130720,
+        "wk:page":"Ivaj"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b0b1d51e2ff5320ce15b3e5e7b2b2cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719803,
+            "locality_id":1209884635,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1209884635,
+    "wof:lastmodified":1537644893,
+    "wof:name":"Ivaj",
+    "wof:parent_id":1108719803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.73746,
+    33.11359,
+    49.73746,
+    33.11359
+],
+  "geometry": {"coordinates":[49.73746,33.11359],"type":"Point"}
+}

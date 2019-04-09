@@ -1,0 +1,73 @@
+{
+  "id": 1260160031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.69015,34.66219,47.69015,34.66219",
+    "geom:latitude":34.66219,
+    "geom:longitude":47.69015,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Deh Asiab",
+    "gn:country_code":"IR",
+    "gn:dem":1784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":23983,
+    "gn:latitude":34.66219,
+    "gn:longitude":47.69015,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Deh \u0100s\u012b\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647 \u0622\u0633\u06cc\u0627\u0628"
+    ],
+    "name:fas_x_variant":[
+        "Deh \u0100s\u012b\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":23983
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"83e05471876d7778646d22785bed8be5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720463,
+            "locality_id":1260160031,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1260160031,
+    "wof:lastmodified":1537641249,
+    "wof:name":"Deh Asiab",
+    "wof:parent_id":1108720463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.69015,
+    34.66219,
+    47.69015,
+    34.66219
+],
+  "geometry": {"coordinates":[47.69015,34.66219],"type":"Point"}
+}

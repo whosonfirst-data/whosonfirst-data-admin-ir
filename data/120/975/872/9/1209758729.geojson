@@ -1,0 +1,76 @@
+{
+  "id": 1209758729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.48144,36.5291,47.48144,36.5291",
+    "geom:latitude":36.5291,
+    "geom:longitude":47.48144,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Mianaj",
+    "gn:country_code":"IR",
+    "gn:dem":1923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":124115,
+    "gn:latitude":36.5291,
+    "gn:longitude":47.48144,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"M\u012b\u0101naj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u064a\u0627\u0646\u062c"
+    ],
+    "name:fas_x_variant":[
+        "M\u012b\u0101naj"
+    ],
+    "name:und_x_variant":[
+        "M\u012by\u0101naj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672361,
+        1108720201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":124115
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e520aeece0fcb7bcc4879a7547420931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720201,
+            "locality_id":1209758729,
+            "region_id":85672361
+        }
+    ],
+    "wof:id":1209758729,
+    "wof:lastmodified":1537644217,
+    "wof:name":"Mianaj",
+    "wof:parent_id":1108720201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.48144,
+    36.5291,
+    47.48144,
+    36.5291
+],
+  "geometry": {"coordinates":[47.48144,36.5291],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1343955405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.67,37.34,49.67,37.34",
+    "geom:latitude":37.34,
+    "geom:longitude":49.67,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Gurab",
+    "gn:country_code":"IR",
+    "gn:dem":-8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":29322,
+    "gn:latitude":37.34,
+    "gn:longitude":49.67,
+    "gn:modification_date":"2018-06-16",
+    "gn:name":"G\u016br\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Esm\u0101\u2018\u012bl\u0101b\u0101d"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0633\u0645\u0627\u0639\u06cc\u0644 \u0622\u0628\u0627\u062f",
+        "\u06af\u0648\u0631\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u0627\u0633\u0645\u0627\u0639\u06cc\u0644 \u0622\u0628\u0627\u062f",
+        "G\u016br\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":29322,
+        "wk:page":"Gurab,_Rasht"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a4492977dc34bca5d0e9d4564185445e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720339,
+            "locality_id":1343955405,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1343955405,
+    "wof:lastmodified":1537641635,
+    "wof:name":"Gurab",
+    "wof:parent_id":1108720339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.67,
+    37.34,
+    49.67,
+    37.34
+],
+  "geometry": {"coordinates":[49.67,37.34],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1293893283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.46667,38.18333,56.46667,38.18333",
+    "geom:latitude":38.18333,
+    "geom:longitude":56.46667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Besh Darreh",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":68998,
+    "gn:latitude":38.18333,
+    "gn:longitude":56.46667,
+    "gn:modification_date":"2006-08-21",
+    "gn:name":"Besh Darreh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0650\u0634 \u062f\u064e\u0631\u0650\u0651\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u064e\u0686\u0650\u0651\u0647 \u062f\u064e\u0631\u0650\u0651\u0647",
+        "\u0628\u0627\u0634 \u062f\u064e\u0631\u0650\u0651\u0647"
+    ],
+    "name:und_x_variant":[
+        "Bachcheh Darreh",
+        "B\u0101sh Darreh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672401,
+        1108719897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":68998
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e590826a3d73f95245d7e397bd8583c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719897,
+            "locality_id":1293893283,
+            "region_id":85672401
+        }
+    ],
+    "wof:id":1293893283,
+    "wof:lastmodified":1537642897,
+    "wof:name":"Besh Darreh",
+    "wof:parent_id":1108719897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.46666999999999,
+    38.18333,
+    56.46666999999999,
+    38.18333
+],
+  "geometry": {"coordinates":[56.46666999999999,38.18333],"type":"Point"}
+}

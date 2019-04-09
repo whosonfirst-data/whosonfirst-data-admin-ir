@@ -1,0 +1,123 @@
+{
+  "id": 85903745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":12863922.872737,
+    "geom:bbox":"51.411374,35.727676,51.411374,35.727676",
+    "geom:latitude":35.727676,
+    "geom:longitude":51.411374,
+    "gn:latitude":35.73333,
+    "gn:longitude":51.41667,
+    "iso:country":"IR",
+    "lbl:latitude":35.727676,
+    "lbl:longitude":51.411374,
+    "mps:latitude":35.724402,
+    "mps:longitude":51.410775,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:eng_x_colloquial":[
+        "Qasr-e Qajar"
+    ],
+    "name:eng_x_preferred":[
+        "Qa\u015fr-e Q\u0101j\u0101r"
+    ],
+    "name:eng_x_variant":[
+        "Qasr-i-Qajar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u064e\u0635\u0631\u0650 \u0642\u0627\u062c\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Qa\u015fr-e Q\u0101j\u0101r"
+    ],
+    "name:unk_x_variant":[
+        "Qasr-i-Qajar",
+        "Qa\u015fr-e Q\u0101j\u0101r"
+    ],
+    "qs:gn_adm0_cc":"IR",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":112931,
+    "qs:gn_nam_loc":"Tehran, Tehran, IR",
+    "qs:gn_namadm1":"26",
+    "qs:gn_name":"Qa\u015fr-e Q\u0101j\u0101r",
+    "qs:local_max":2427,
+    "qs:local_sum":3725,
+    "qs:localhoods":6,
+    "qs:name":"Qa\u015fr-e Q\u0101j\u0101r",
+    "qs:name_adm0":"Iran",
+    "qs:name_adm1":"Tehran",
+    "qs:name_local":"Tehran",
+    "qs:photo_max":47,
+    "qs:photo_sum":257,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":38,
+    "qs:woe_adm0":23424851,
+    "qs:woe_adm1":2345785,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2251945,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85672313,
+        102191569,
+        85632361,
+        1108720491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":119589,
+        "gp:id":2244785,
+        "qs:id":318051
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e6f8a394cf466dc816c9db39eb5efef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720491,
+            "locality_id":-1,
+            "neighbourhood_id":85903745,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":85903745,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379347,
+    "wof:name":"Qa\u015fr-e Q\u0101j\u0101r",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[
+        1126087455
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.411374,
+    35.727676,
+    51.411374,
+    35.727676
+],
+  "geometry": {"coordinates":[51.411374,35.727676],"type":"Point"}
+}

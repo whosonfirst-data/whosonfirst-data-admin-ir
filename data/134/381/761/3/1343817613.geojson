@@ -1,0 +1,73 @@
+{
+  "id": 1343817613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.655,38.8461,47.655,38.8461",
+    "geom:latitude":38.8461,
+    "geom:longitude":47.655,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Dash Bolagh Kandeh",
+    "gn:country_code":"IR",
+    "gn:dem":1593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":35767,
+    "gn:latitude":38.8461,
+    "gn:longitude":47.655,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"D\u0101sh Bol\u0101gh Kandeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0634 \u0628\u0644\u0627\u063a \u0643\u0646\u062f\u0647"
+    ],
+    "name:fas_x_variant":[
+        "D\u0101sh Bol\u0101gh Kandeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":35767
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bfc213a56469a1a7193884fa0e877d9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720237,
+            "locality_id":1343817613,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1343817613,
+    "wof:lastmodified":1537641969,
+    "wof:name":"Dash Bolagh Kandeh",
+    "wof:parent_id":1108720237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.655,
+    38.8461,
+    47.655,
+    38.8461
+],
+  "geometry": {"coordinates":[47.655,38.8461],"type":"Point"}
+}

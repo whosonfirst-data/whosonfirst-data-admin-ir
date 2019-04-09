@@ -1,0 +1,80 @@
+{
+  "id": 1225891111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.34083,29.35639,57.34083,29.35639",
+    "geom:latitude":29.35639,
+    "geom:longitude":57.34083,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Dar-e Asyab",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":2783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":137833,
+    "gn:latitude":29.35639,
+    "gn:longitude":57.34083,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dar-e \u0100sy\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u064e\u0631\u0650 \u0622\u0633\u064a\u0627\u0628"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u064e\u0631 \u0627\u064e\u0633\u0650\u064a\u0627\u0628",
+        "\u062f\u064e\u0631\u0627\u0633\u064a\u0627",
+        "Dar-e \u0100sy\u0101b"
+    ],
+    "name:und_x_variant":[
+        "Dar\u0101s\u012b\u0101",
+        "Dar Asey\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":137833
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7cbdf1b2691e79cd8208e1e77a095438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720115,
+            "locality_id":1225891111,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1225891111,
+    "wof:lastmodified":1537645617,
+    "wof:name":"Dar-e Asyab",
+    "wof:parent_id":1108720115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.34083,
+    29.35639,
+    57.34083,
+    29.35639
+],
+  "geometry": {"coordinates":[57.34083,29.35639],"type":"Point"}
+}

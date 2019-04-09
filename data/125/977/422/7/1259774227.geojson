@@ -1,0 +1,74 @@
+{
+  "id": 1259774227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.53333,31.25,52.53333,31.25",
+    "geom:latitude":31.25,
+    "geom:longitude":52.53333,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Nosratabad",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":2081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":67281,
+    "gn:latitude":31.25,
+    "gn:longitude":52.53333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"No\u015frat\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "No\u015frat\u0101b\u0101d"
+    ],
+    "name:und_x_variant":[
+        "Nasrat\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108719779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":67281
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9e75e84de82e2e2cf464a3fda8f0599d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719779,
+            "locality_id":1259774227,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1259774227,
+    "wof:lastmodified":1537642832,
+    "wof:name":"Nosratabad",
+    "wof:parent_id":1108719779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.53333000000001,
+    31.25,
+    52.53333000000001,
+    31.25
+],
+  "geometry": {"coordinates":[52.53333000000001,31.25],"type":"Point"}
+}

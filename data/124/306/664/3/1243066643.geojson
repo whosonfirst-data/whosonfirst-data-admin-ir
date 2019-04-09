@@ -1,0 +1,77 @@
+{
+  "id": 1243066643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.63165,31.07038,50.63165,31.07038",
+    "geom:latitude":31.07038,
+    "geom:longitude":50.63165,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kushk",
+    "gn:country_code":"IR",
+    "gn:dem":1176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":126163,
+    "gn:latitude":31.07038,
+    "gn:longitude":50.63165,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"K\u016bshk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "K\u016bshk"
+    ],
+    "name:fas_x_variant":[
+        "\u0643\u0648\u0634\u06a9"
+    ],
+    "name:und_x_variant":[
+        "Kooshk Doshman Ziyari",
+        "\u0643\u0648\u0634\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":126163
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6d429e63b03c64959f53c4dcd6db0d5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1243066643,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1243066643,
+    "wof:lastmodified":1537644420,
+    "wof:name":"Kushk",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.63165,
+    31.07038,
+    50.63165,
+    31.07038
+],
+  "geometry": {"coordinates":[50.63165,31.07038],"type":"Point"}
+}

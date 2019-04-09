@@ -1,0 +1,79 @@
+{
+  "id": 1326620893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.03116,28.3203,53.03116,28.3203",
+    "geom:latitude":28.3203,
+    "geom:longitude":53.03116,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Karkuyeh",
+    "gn:country_code":"IR",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":128680,
+    "gn:latitude":28.3203,
+    "gn:longitude":53.03116,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kark\u016byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u06a9\u0648\u06cc\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Karak\u016byeh",
+        "Kark\u016byeh"
+    ],
+    "name:und_x_variant":[
+        "Karek\u016byeh",
+        "Kareh K\u016byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":128680,
+        "wk:page":"Karkuyeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0d9a21252e02469a4f9dc451d4014697",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720319,
+            "locality_id":1326620893,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1326620893,
+    "wof:lastmodified":1537644687,
+    "wof:name":"Karkuyeh",
+    "wof:parent_id":1108720319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.03116,
+    28.3203,
+    53.03116,
+    28.3203
+],
+  "geometry": {"coordinates":[53.03116,28.3203],"type":"Point"}
+}

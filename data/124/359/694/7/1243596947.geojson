@@ -1,0 +1,78 @@
+{
+  "id": 1243596947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.34351,37.35119,55.34351,37.35119",
+    "geom:latitude":37.35119,
+    "geom:longitude":55.34351,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Tavakkoli",
+    "gn:country_code":"IR",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":5868,
+    "gn:latitude":37.35119,
+    "gn:longitude":55.34351,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Tavakkol\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Tavakkol\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0648\u06a9\u0644\u06cc",
+        "\u062a\u0631\u06a9\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u062a\u0648\u06a9\u0644\u06cc",
+        "Tarkol\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5868
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"df2e00174c257a12a4316bcc01316de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720039,
+            "locality_id":1243596947,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1243596947,
+    "wof:lastmodified":1537640307,
+    "wof:name":"Tavakkoli",
+    "wof:parent_id":1108720039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.34351,
+    37.35119,
+    55.34351,
+    37.35119
+],
+  "geometry": {"coordinates":[55.34351,37.35119],"type":"Point"}
+}

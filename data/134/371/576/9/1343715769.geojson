@@ -1,0 +1,79 @@
+{
+  "id": 1343715769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.6912,33.93316,49.6912,33.93316",
+    "geom:latitude":33.93316,
+    "geom:longitude":49.6912,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Ban",
+    "gn:country_code":"IR",
+    "gn:dem":2033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":141708,
+    "gn:latitude":33.93316,
+    "gn:longitude":49.6912,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"B\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u0627\u0645",
+        "B\u0101n",
+        "\u0628\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "P\u0101m",
+        "B\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":141708
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4650258579638da6b6b6b385b487d2dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720443,
+            "locality_id":1343715769,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1343715769,
+    "wof:lastmodified":1537646003,
+    "wof:name":"Ban",
+    "wof:parent_id":1108720443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.6912,
+    33.93316,
+    49.6912,
+    33.93316
+],
+  "geometry": {"coordinates":[49.6912,33.93316],"type":"Point"}
+}

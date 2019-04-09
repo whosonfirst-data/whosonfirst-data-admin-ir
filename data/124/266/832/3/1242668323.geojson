@@ -1,0 +1,77 @@
+{
+  "id": 1242668323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.3688,28.4472,52.3688,28.4472",
+    "geom:latitude":28.4472,
+    "geom:longitude":52.3688,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ahmadabad",
+    "gn:country_code":"IR",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":144597,
+    "gn:latitude":28.4472,
+    "gn:longitude":52.3688,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"A\u1e29mad\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u062d\u0645\u062f \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "A\u1e29mad\u0101b\u0101d"
+    ],
+    "name:und_x_variant":[
+        "Ahmad Abad Arba\u2019eh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108719991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":144597,
+        "wk:page":"Ahmadabad,_Firuzabad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1587871def37df39e65b600c0fe6f718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719991,
+            "locality_id":1242668323,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1242668323,
+    "wof:lastmodified":1537646283,
+    "wof:name":"Ahmadabad",
+    "wof:parent_id":1108719991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.3688,
+    28.4472,
+    52.3688,
+    28.4472
+],
+  "geometry": {"coordinates":[52.3688,28.4472],"type":"Point"}
+}

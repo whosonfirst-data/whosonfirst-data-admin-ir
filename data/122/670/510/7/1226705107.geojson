@@ -1,0 +1,77 @@
+{
+  "id": 1226705107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.06274,36.60368,55.06274,36.60368",
+    "geom:latitude":36.60368,
+    "geom:longitude":55.06274,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Kolamu",
+    "gn:country_code":"IR",
+    "gn:dem":1419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":39863,
+    "gn:latitude":36.60368,
+    "gn:longitude":55.06274,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kol\u0101m\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Kol\u0101m\u016b"
+    ],
+    "name:fas_x_variant":[
+        "\u0643\u0644\u0627\u0645\u0648"
+    ],
+    "name:und_x_variant":[
+        "\u0643\u0644\u0627\u0645\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672309,
+        1108720441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":39863,
+        "wk:page":"Kolamu"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5c61539723ae779b4835b6f6e5f4da6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720441,
+            "locality_id":1226705107,
+            "region_id":85672309
+        }
+    ],
+    "wof:id":1226705107,
+    "wof:lastmodified":1537642230,
+    "wof:name":"Kolamu",
+    "wof:parent_id":1108720441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.06274000000001,
+    36.60368,
+    55.06274000000001,
+    36.60368
+],
+  "geometry": {"coordinates":[55.06274000000001,36.60368],"type":"Point"}
+}

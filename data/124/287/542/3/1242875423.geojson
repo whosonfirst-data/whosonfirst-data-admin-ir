@@ -1,0 +1,78 @@
+{
+  "id": 1242875423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.11825,31.90281,51.11825,31.90281",
+    "geom:latitude":31.90281,
+    "geom:longitude":51.11825,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Aqbolagh",
+    "gn:country_code":"IR",
+    "gn:dem":2226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":143264,
+    "gn:latitude":31.90281,
+    "gn:longitude":51.11825,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u0100qbol\u0101gh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0642 \u0628\u064e\u0644\u0627\u0642"
+    ],
+    "name:fas_x_variant":[
+        "\u0100qbol\u0101gh",
+        "\u0622\u0642\u0628\u0644\u0627\u063a"
+    ],
+    "name:und_x_variant":[
+        "\u0100q Bal\u0101q",
+        "\u0622\u0642\u0628\u0644\u0627\u063a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672319,
+        1108719903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":143264
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0af45870fbe2e7451cf22d591e85c457",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719903,
+            "locality_id":1242875423,
+            "region_id":85672319
+        }
+    ],
+    "wof:id":1242875423,
+    "wof:lastmodified":1537646160,
+    "wof:name":"Aqbolagh",
+    "wof:parent_id":1108719903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.11825,
+    31.90281,
+    51.11825,
+    31.90281
+],
+  "geometry": {"coordinates":[51.11825,31.90281],"type":"Point"}
+}

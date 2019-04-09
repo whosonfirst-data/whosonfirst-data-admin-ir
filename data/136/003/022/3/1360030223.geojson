@@ -1,0 +1,73 @@
+{
+  "id": 1360030223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.5956,35.325,50.5956,35.325",
+    "geom:latitude":35.325,
+    "geom:longitude":50.5956,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Gazmaneh",
+    "gn:country_code":"IR",
+    "gn:dem":1236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6659858,
+    "gn:latitude":35.325,
+    "gn:longitude":50.5956,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Gazm\u0101neh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u06af\u0632\u0645\u0627\u0646\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Gazm\u0101neh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6659858
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"59d24a77f6c9ca09488a3a49a4cbf863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720525,
+            "locality_id":1360030223,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1360030223,
+    "wof:lastmodified":1537647269,
+    "wof:name":"Gazmaneh",
+    "wof:parent_id":1108720525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.5956,
+    35.325,
+    50.5956,
+    35.325
+],
+  "geometry": {"coordinates":[50.5956,35.325],"type":"Point"}
+}

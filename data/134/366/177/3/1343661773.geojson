@@ -1,0 +1,77 @@
+{
+  "id": 1343661773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.1547,26.44105,59.1547,26.44105",
+    "geom:latitude":26.44105,
+    "geom:longitude":59.1547,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Mochidar",
+    "gn:country_code":"IR",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7007805,
+    "gn:latitude":26.44105,
+    "gn:longitude":59.1547,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Moch\u012bdar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0686\u06cc\u062f\u0627"
+    ],
+    "name:fas_x_variant":[
+        "Moch\u012bd\u0101",
+        "\u0645\u0686\u06cc\u062f\u0631"
+    ],
+    "name:und_x_variant":[
+        "Moch\u012bdar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7007805
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"254fc413f3648fb6adb04246984c80cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720271,
+            "locality_id":1343661773,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1343661773,
+    "wof:lastmodified":1537647885,
+    "wof:name":"Mochidar",
+    "wof:parent_id":1108720271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.1547,
+    26.44105,
+    59.1547,
+    26.44105
+],
+  "geometry": {"coordinates":[59.1547,26.44105],"type":"Point"}
+}

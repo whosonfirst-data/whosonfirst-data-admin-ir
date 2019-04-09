@@ -1,0 +1,79 @@
+{
+  "id": 1360243343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.52056,29.55,50.52056,29.55",
+    "geom:latitude":29.55,
+    "geom:longitude":50.52056,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Bandar-e Khowr",
+    "gn:country_code":"IR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":141667,
+    "gn:latitude":29.55,
+    "gn:longitude":50.52056,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bandar-e Khowr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u064e\u0646\u062f\u064e\u0631\u0650 \u062e\u064f\u0648\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u064e\u0646\u062f\u064e\u0631\u0650 \u062e\u0648\u0631",
+        "\u0628\u064e\u0646\u062f\u064e\u0631 \u062e\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Bandar Kh\u016br",
+        "Bandar-e Kh\u016br",
+        "Bandar-e Khowr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108720027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":141667
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"872cf6a52fccc81c008fa9e1b7ae3e72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720027,
+            "locality_id":1360243343,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1360243343,
+    "wof:lastmodified":1537645999,
+    "wof:name":"Bandar-e Khowr",
+    "wof:parent_id":1108720027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.52056,
+    29.55,
+    50.52056,
+    29.55
+],
+  "geometry": {"coordinates":[50.52056,29.55],"type":"Point"}
+}

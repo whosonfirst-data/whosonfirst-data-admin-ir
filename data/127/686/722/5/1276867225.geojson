@@ -1,0 +1,82 @@
+{
+  "id": 1276867225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.1092,37.43048,49.1092,37.43048",
+    "geom:latitude":37.43048,
+    "geom:longitude":49.1092,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Anjilan",
+    "gn:country_code":"IR",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6758062,
+    "gn:latitude":37.43048,
+    "gn:longitude":49.1092,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Anj\u012bl\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "D\u0101r\u0101bch\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0646\u062c\u06cc\u0644\u0627\u0646",
+        "\u0632\u0631\u0627\u0628\u0686\u06cc",
+        "\u0686\u067e\u0647 \u0632\u0627\u062a",
+        "\u062f\u0631\u0627\u0628\u0686\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Anj\u012bl\u0101n",
+        "Zar\u0101bch\u012b",
+        "Chapeh Z\u0101t",
+        "Dar\u0101bch\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6758062
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5fdd18d1bd4ce42016b99dd52bd8a33f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720225,
+            "locality_id":1276867225,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1276867225,
+    "wof:lastmodified":1537647660,
+    "wof:name":"Anjilan",
+    "wof:parent_id":1108720225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.1092,
+    37.43048,
+    49.1092,
+    37.43048
+],
+  "geometry": {"coordinates":[49.1092,37.43048],"type":"Point"}
+}

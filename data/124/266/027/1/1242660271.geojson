@@ -1,0 +1,76 @@
+{
+  "id": 1242660271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.65066,30.71318,48.65066,30.71318",
+    "geom:latitude":30.71318,
+    "geom:longitude":48.65066,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Emamsi",
+    "gn:country_code":"IR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7416616,
+    "gn:latitude":30.71318,
+    "gn:longitude":48.65066,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Em\u0101ms\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Em\u0101ms\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0645\u0627\u0645 \u0633\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0627\u0645\u0627\u0645 \u0633\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7416616
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2bb1a47415d08ce7205d7ec9c0eab33a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720425,
+            "locality_id":1242660271,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1242660271,
+    "wof:lastmodified":1537648169,
+    "wof:name":"Emamsi",
+    "wof:parent_id":1108720425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.65066,
+    30.71318,
+    48.65066,
+    30.71318
+],
+  "geometry": {"coordinates":[48.65066,30.71318],"type":"Point"}
+}

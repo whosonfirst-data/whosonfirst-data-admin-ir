@@ -1,0 +1,76 @@
+{
+  "id": 1242993433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.64381,30.30888,51.64381,30.30888",
+    "geom:latitude":30.30888,
+    "geom:longitude":51.64381,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Deli Banak",
+    "gn:country_code":"IR",
+    "gn:dem":1780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":47075,
+    "gn:latitude":30.30888,
+    "gn:longitude":51.64381,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Del\u012b Banak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Del\u012b Banak"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0644\u06cc \u0628\u0646\u06a9"
+    ],
+    "name:und_x_variant":[
+        "\u062f\u0644\u06cc \u0628\u0646\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":47075
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3f5641f6e7b6198ff4defe6ec9d84599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720209,
+            "locality_id":1242993433,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1242993433,
+    "wof:lastmodified":1537642658,
+    "wof:name":"Deli Banak",
+    "wof:parent_id":1108720209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.64381,
+    30.30888,
+    51.64381,
+    30.30888
+],
+  "geometry": {"coordinates":[51.64381,30.30888],"type":"Point"}
+}

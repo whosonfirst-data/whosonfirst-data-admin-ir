@@ -1,0 +1,73 @@
+{
+  "id": 1310253713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.5753,38.8852,47.5753,38.8852",
+    "geom:latitude":38.8852,
+    "geom:longitude":47.5753,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Ziveh",
+    "gn:country_code":"IR",
+    "gn:dem":976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":13378,
+    "gn:latitude":38.8852,
+    "gn:longitude":47.5753,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Z\u012bveh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u06cc\u0648\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Z\u012bveh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13378
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c67c5973466a6d126c34afb7cc1ca53d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720021,
+            "locality_id":1310253713,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1310253713,
+    "wof:lastmodified":1537640703,
+    "wof:name":"Ziveh",
+    "wof:parent_id":1108720021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.5753,
+    38.8852,
+    47.5753,
+    38.8852
+],
+  "geometry": {"coordinates":[47.5753,38.8852],"type":"Point"}
+}

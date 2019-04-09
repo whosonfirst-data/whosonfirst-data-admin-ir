@@ -1,0 +1,82 @@
+{
+  "id": 1293386663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.85763,28.7175,53.85763,28.7175",
+    "geom:latitude":28.7175,
+    "geom:longitude":53.85763,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Miandeh",
+    "gn:country_code":"IR",
+    "gn:dem":1170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":124094,
+    "gn:latitude":28.7175,
+    "gn:longitude":53.85763,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"M\u012b\u0101ndeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u0644\u0627\u0645 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "M\u012b\u0101n Deh",
+        "\u0645\u06cc\u0627\u0646 \u062f\u0647",
+        "Esl\u0101m\u0101b\u0101d",
+        "\u0645\u06cc\u0627\u0646\u062f\u0647"
+    ],
+    "name:und_x_variant":[
+        "M\u012by\u0101n Deh",
+        "Mey\u0101n Deh",
+        "M\u012b\u0101ndeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":124094,
+        "wk:page":"Miyan_Deh,_Fasa"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"729e27851d6047f6df96696a43552b0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720003,
+            "locality_id":1293386663,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1293386663,
+    "wof:lastmodified":1537644216,
+    "wof:name":"Miandeh",
+    "wof:parent_id":1108720003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.85763000000001,
+    28.7175,
+    53.85763000000001,
+    28.7175
+],
+  "geometry": {"coordinates":[53.85763000000001,28.7175],"type":"Point"}
+}

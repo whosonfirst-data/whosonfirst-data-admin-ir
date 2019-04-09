@@ -1,0 +1,78 @@
+{
+  "id": 1226410851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.30799,33.86048,48.30799,33.86048",
+    "geom:latitude":33.86048,
+    "geom:longitude":48.30799,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Farhadabad",
+    "gn:country_code":"IR",
+    "gn:dem":1659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":134823,
+    "gn:latitude":33.86048,
+    "gn:longitude":48.30799,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Farh\u0101d\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0641\u064e\u0631\u064e\u062d \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0641\u0631\u0647\u0627\u062f \u0622\u0628\u0627\u062f",
+        "Farh\u0101d\u0101b\u0101d"
+    ],
+    "name:und_x_variant":[
+        "Fara\u1e29\u0101b\u0101d",
+        "Farh\u0101d\u0101b\u0101d Saqi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":134823
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"da10c3e5159d1caa8dc195d67dc76e01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720411,
+            "locality_id":1226410851,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1226410851,
+    "wof:lastmodified":1537645310,
+    "wof:name":"Farhadabad",
+    "wof:parent_id":1108720411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.30799,
+    33.86048,
+    48.30799,
+    33.86048
+],
+  "geometry": {"coordinates":[48.30799,33.86048],"type":"Point"}
+}

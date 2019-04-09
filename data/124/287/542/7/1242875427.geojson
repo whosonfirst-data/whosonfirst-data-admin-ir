@@ -1,0 +1,78 @@
+{
+  "id": 1242875427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.15575,31.22287,51.15575,31.22287",
+    "geom:latitude":31.22287,
+    "geom:longitude":51.15575,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Parvaz",
+    "gn:country_code":"IR",
+    "gn:dem":1559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":121359,
+    "gn:latitude":31.22287,
+    "gn:longitude":51.15575,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Parvaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0650\u0631\u0648\u064e\u0632"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u0631\u0648\u0632"
+    ],
+    "name:und_x_variant":[
+        "Pervaz",
+        "Parvaz",
+        "\u067e\u0631\u0648\u0632"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672319,
+        1108720189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":121359
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"616c7a858f1013793d3e7cc21c8267bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720189,
+            "locality_id":1242875427,
+            "region_id":85672319
+        }
+    ],
+    "wof:id":1242875427,
+    "wof:lastmodified":1537643945,
+    "wof:name":"Parvaz",
+    "wof:parent_id":1108720189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.15575,
+    31.22287,
+    51.15575,
+    31.22287
+],
+  "geometry": {"coordinates":[51.15575,31.22287],"type":"Point"}
+}

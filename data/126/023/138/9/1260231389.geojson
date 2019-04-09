@@ -1,0 +1,77 @@
+{
+  "id": 1260231389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.89417,29.51282,56.89417,29.51282",
+    "geom:latitude":29.51282,
+    "geom:longitude":56.89417,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Khowrmuj",
+    "gn:country_code":"IR",
+    "gn:dem":2894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":127360,
+    "gn:latitude":29.51282,
+    "gn:longitude":56.89417,
+    "gn:modification_date":"2014-04-05",
+    "gn:name":"Khowrm\u016bj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Khorm\u016bj"
+    ],
+    "name:fas_x_variant":[
+        "\u062e\u0631\u0645\u0648\u062c",
+        "\u062e\u0648\u0631\u0645\u0648\u062c"
+    ],
+    "name:und_x_variant":[
+        "Khowrm\u016bj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":127360
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bd415a678405f9102e7a6d693f2e8fd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719879,
+            "locality_id":1260231389,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1260231389,
+    "wof:lastmodified":1537644551,
+    "wof:name":"Khowrmuj",
+    "wof:parent_id":1108719879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.89417,
+    29.51282,
+    56.89417,
+    29.51282
+],
+  "geometry": {"coordinates":[56.89417,29.51282],"type":"Point"}
+}

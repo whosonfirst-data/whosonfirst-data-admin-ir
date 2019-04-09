@@ -1,0 +1,70 @@
+{
+  "id": 1209615141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.2995,26.3472,61.2995,26.3472",
+    "geom:latitude":26.3472,
+    "geom:longitude":61.2995,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Piridan",
+    "gn:country_code":"IR",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1114630,
+    "gn:latitude":26.3472,
+    "gn:longitude":61.2995,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"P\u012br\u012bdan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0631\u06cc \u062f\u0646"
+    ],
+    "name:fas_x_variant":[
+        "P\u012br\u012bdan"
+    ],
+    "name:und_x_variant":[
+        "B\u012br\u012bdan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1114630
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"16744a3edfa02879ea8e4d0a224090a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209615141
+        }
+    ],
+    "wof:id":1209615141,
+    "wof:lastmodified":1537646923,
+    "wof:name":"Piridan",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.2995,
+    26.3472,
+    61.2995,
+    26.3472
+],
+  "geometry": {"coordinates":[61.2995,26.3472],"type":"Point"}
+}

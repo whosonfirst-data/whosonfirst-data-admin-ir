@@ -1,0 +1,74 @@
+{
+  "id": 1276302191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.5,31.95,49.5,31.95",
+    "geom:latitude":31.95,
+    "geom:longitude":49.5,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Tashar",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":113095,
+    "gn:latitude":31.95,
+    "gn:longitude":49.5,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"T\u0101sh\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "T\u0101sh\u0101r"
+    ],
+    "name:und_x_variant":[
+        "T\u0101shekar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":113095
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0c027dc0a54facd1b525ca8a66fde184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720229,
+            "locality_id":1276302191,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1276302191,
+    "wof:lastmodified":1537643157,
+    "wof:name":"Tashar",
+    "wof:parent_id":1108720229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.5,
+    31.95,
+    49.5,
+    31.95
+],
+  "geometry": {"coordinates":[49.5,31.95],"type":"Point"}
+}

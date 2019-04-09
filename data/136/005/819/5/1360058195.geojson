@@ -1,0 +1,67 @@
+{
+  "id": 1360058195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.81667,31.48333,48.81667,31.48333",
+    "geom:latitude":31.48333,
+    "geom:longitude":48.81667,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Haiyareh",
+    "gn:country_code":"IR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":132405,
+    "gn:latitude":31.48333,
+    "gn:longitude":48.81667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Haiyareh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":132405
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8caa7ef230cff976f24094a2610b1088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719793,
+            "locality_id":1360058195,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1360058195,
+    "wof:lastmodified":1536983809,
+    "wof:name":"Haiyareh",
+    "wof:parent_id":1108719793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.81667,
+    31.48333,
+    48.81667,
+    31.48333
+],
+  "geometry": {"coordinates":[48.81667,31.48333],"type":"Point"}
+}

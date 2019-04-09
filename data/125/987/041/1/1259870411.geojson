@@ -1,0 +1,73 @@
+{
+  "id": 1259870411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.7406,28.34,53.7406,28.34",
+    "geom:latitude":28.34,
+    "geom:longitude":53.7406,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Pacheh Anbar",
+    "gn:country_code":"IR",
+    "gn:dem":1371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6925759,
+    "gn:latitude":28.34,
+    "gn:longitude":53.7406,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"P\u0101cheh Anb\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0686\u0647 \u0627\u0646\u0628\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "P\u0101cheh Anb\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6925759
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"908d7efc386025d09ef96409f54eb61d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720185,
+            "locality_id":1259870411,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1259870411,
+    "wof:lastmodified":1537647739,
+    "wof:name":"Pacheh Anbar",
+    "wof:parent_id":1108720185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.7406,
+    28.34,
+    53.7406,
+    28.34
+],
+  "geometry": {"coordinates":[53.7406,28.34],"type":"Point"}
+}

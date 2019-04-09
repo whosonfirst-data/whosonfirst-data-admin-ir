@@ -1,0 +1,78 @@
+{
+  "id": 1276687595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.86955,34.34749,59.86955,34.34749",
+    "geom:latitude":34.34749,
+    "geom:longitude":59.86955,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Zuzan",
+    "gn:country_code":"IR",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110869,
+    "gn:latitude":34.34749,
+    "gn:longitude":59.86955,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Z\u016bzan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Z\u016bzan"
+    ],
+    "name:fas_x_variant":[
+        "\u0632\u0648\u0632\u0646",
+        "R\u016bz\u0101n"
+    ],
+    "name:und_x_variant":[
+        "R\u016bz\u0101n",
+        "\u0632\u0648\u0632\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110869
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0357c016cf91a444c4341cc98d57226d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720119,
+            "locality_id":1276687595,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1276687595,
+    "wof:lastmodified":1537642921,
+    "wof:name":"Zuzan",
+    "wof:parent_id":1108720119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.86955,
+    34.34749,
+    59.86955,
+    34.34749
+],
+  "geometry": {"coordinates":[59.86955,34.34749],"type":"Point"}
+}

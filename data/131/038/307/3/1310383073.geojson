@@ -1,0 +1,80 @@
+{
+  "id": 1310383073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.7856,26.7531,55.7856,26.7531",
+    "geom:latitude":26.7531,
+    "geom:longitude":55.7856,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Sahali",
+    "gn:country_code":"IR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":114183,
+    "gn:latitude":26.7531,
+    "gn:longitude":55.7856,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Sa\u1e29al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0647\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u064f\u0647\u0650\u064a\u0644\u06cc",
+        "\u0633\u062d\u0644\u06cc",
+        "Sohl\u012b",
+        "Sa\u1e29al\u012b"
+    ],
+    "name:und_x_variant":[
+        "Soheyl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":114183,
+        "wk:page":"Sahali,_Iran"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"72661083492fa40b4c3c866b18a90b1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720317,
+            "locality_id":1310383073,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1310383073,
+    "wof:lastmodified":1537643256,
+    "wof:name":"Sahali",
+    "wof:parent_id":1108720317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.7856,
+    26.7531,
+    55.7856,
+    26.7531
+],
+  "geometry": {"coordinates":[55.7856,26.7531],"type":"Point"}
+}

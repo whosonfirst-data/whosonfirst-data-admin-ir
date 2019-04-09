@@ -1,0 +1,76 @@
+{
+  "id": 1193144079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.61919,31.43404,50.61919,31.43404",
+    "geom:latitude":31.43404,
+    "geom:longitude":50.61919,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zeytin",
+    "gn:country_code":"IR",
+    "gn:dem":1277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7529705,
+    "gn:latitude":31.43404,
+    "gn:longitude":50.61919,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zeyt\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Zeyt\u012bn"
+    ],
+    "name:fas_x_variant":[
+        "\u0632\u06cc\u062a\u06cc\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0632\u06cc\u062a\u06cc\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672319,
+        1108720189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7529705
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0e7c8231d1b0b7edbf764eebb24c66dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720189,
+            "locality_id":1193144079,
+            "region_id":85672319
+        }
+    ],
+    "wof:id":1193144079,
+    "wof:lastmodified":1537648310,
+    "wof:name":"Zeytin",
+    "wof:parent_id":1108720189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.61919,
+    31.43404,
+    50.61919,
+    31.43404
+],
+  "geometry": {"coordinates":[50.61919,31.43404],"type":"Point"}
+}

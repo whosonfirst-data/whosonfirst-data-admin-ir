@@ -1,0 +1,80 @@
+{
+  "id": 1209804763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.88444,34.10374,48.88444,34.10374",
+    "geom:latitude":34.10374,
+    "geom:longitude":48.88444,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ashmizan",
+    "gn:country_code":"IR",
+    "gn:dem":1855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":144772,
+    "gn:latitude":34.10374,
+    "gn:longitude":48.88444,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"\u0100shm\u012bz\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0686\u0645\u064a\u0632\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0100chm\u012bz\u0101n",
+        "\u0100shm\u012bz\u0101n",
+        "\u0622\u0634\u0645\u06cc\u0632\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0100shm\u012bz\u0101n",
+        "\u0622\u0634\u0645\u06cc\u0632\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":144772,
+        "wk:page":"Ashmizan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2788d08a2c515c099f5a735b8e096e00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720205,
+            "locality_id":1209804763,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1209804763,
+    "wof:lastmodified":1537646301,
+    "wof:name":"Ashmizan",
+    "wof:parent_id":1108720205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.88444000000001,
+    34.10374,
+    48.88444000000001,
+    34.10374
+],
+  "geometry": {"coordinates":[48.88444000000001,34.10374],"type":"Point"}
+}

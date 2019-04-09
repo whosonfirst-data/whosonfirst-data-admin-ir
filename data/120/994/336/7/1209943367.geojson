@@ -1,0 +1,78 @@
+{
+  "id": 1209943367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.71453,33.25775,59.71453,33.25775",
+    "geom:latitude":33.25775,
+    "geom:longitude":59.71453,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Khvan",
+    "gn:country_code":"IR",
+    "gn:dem":2100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":127090,
+    "gn:latitude":33.25775,
+    "gn:longitude":59.71453,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Khv\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Kh\u016by",
+        "Khv\u0101n"
+    ],
+    "name:und_x_variant":[
+        "K\u016bh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108719943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":127090,
+        "wk:page":"Khvan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c7dcb165255a4d16cf74c2bde5fad8dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719943,
+            "locality_id":1209943367,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1209943367,
+    "wof:lastmodified":1537644521,
+    "wof:name":"Khvan",
+    "wof:parent_id":1108719943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.71453,
+    33.25775,
+    59.71453,
+    33.25775
+],
+  "geometry": {"coordinates":[59.71453,33.25775],"type":"Point"}
+}

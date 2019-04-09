@@ -1,0 +1,73 @@
+{
+  "id": 1327174433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.7,36.48333,53.7,36.48333",
+    "geom:latitude":36.48333,
+    "geom:longitude":53.7,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Valudi",
+    "gn:country_code":"IR",
+    "gn:dem":1095,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1494,
+    "gn:latitude":36.48333,
+    "gn:longitude":53.7,
+    "gn:modification_date":"2011-08-07",
+    "gn:name":"Val\u016bd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u064e\u0644\u0648\u062f\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Val\u016bd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1494
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"34ee78a8674d96d0ad98b1693c790622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720275,
+            "locality_id":1327174433,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1327174433,
+    "wof:lastmodified":1537640169,
+    "wof:name":"Valudi",
+    "wof:parent_id":1108720275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.7,
+    36.48333,
+    53.7,
+    36.48333
+],
+  "geometry": {"coordinates":[53.7,36.48333],"type":"Point"}
+}

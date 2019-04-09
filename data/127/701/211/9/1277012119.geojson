@@ -1,0 +1,76 @@
+{
+  "id": 1277012119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.78529,33.75386,58.78529,33.75386",
+    "geom:latitude":33.75386,
+    "geom:longitude":58.78529,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Sandan",
+    "gn:country_code":"IR",
+    "gn:dem":1833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7388421,
+    "gn:latitude":33.75386,
+    "gn:longitude":58.78529,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Sand\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sand\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0646\u062f\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0633\u0646\u062f\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108720313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7388421
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"db33b1e9f03775173a5aeb5177146ccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720313,
+            "locality_id":1277012119,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1277012119,
+    "wof:lastmodified":1537648151,
+    "wof:name":"Sandan",
+    "wof:parent_id":1108720313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.78529,
+    33.75386,
+    58.78529,
+    33.75386
+],
+  "geometry": {"coordinates":[58.78529,33.75386],"type":"Point"}
+}

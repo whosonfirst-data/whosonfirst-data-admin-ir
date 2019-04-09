@@ -1,0 +1,78 @@
+{
+  "id": 1293336899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.66,29.3925,56.66,29.3925",
+    "geom:latitude":29.3925,
+    "geom:longitude":56.66,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Kheshkar",
+    "gn:country_code":"IR",
+    "gn:dem":2704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110845,
+    "gn:latitude":29.3925,
+    "gn:longitude":56.66,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kheshk\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0634\u06a9\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Kh\u016bshk\u0101r",
+        "Kheshk\u0101r"
+    ],
+    "name:und_x_variant":[
+        "Khosk\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110845,
+        "wk:page":"Khushkar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"48fe0b7ec46d6158bc8b8cb6d2d1f7e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719851,
+            "locality_id":1293336899,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1293336899,
+    "wof:lastmodified":1537642919,
+    "wof:name":"Kheshkar",
+    "wof:parent_id":1108719851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.66,
+    29.3925,
+    56.66,
+    29.3925
+],
+  "geometry": {"coordinates":[56.66,29.3925],"type":"Point"}
+}

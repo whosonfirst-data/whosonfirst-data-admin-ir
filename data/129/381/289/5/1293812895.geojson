@@ -1,0 +1,74 @@
+{
+  "id": 1293812895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.72998,36.25639,58.72998,36.25639",
+    "geom:latitude":36.25639,
+    "geom:longitude":58.72998,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Pir Komaj",
+    "gn:country_code":"IR",
+    "gn:dem":1194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":31444,
+    "gn:latitude":36.25639,
+    "gn:longitude":58.72998,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"P\u012br Kom\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0631 \u06a9\u0645\u0627\u062c"
+    ],
+    "name:fas_x_variant":[
+        "P\u012br Kom\u0101j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":31444,
+        "wk:page":"Pir_Komaj"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3834e707e8611799ff97620871fd9903",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720279,
+            "locality_id":1293812895,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1293812895,
+    "wof:lastmodified":1537641717,
+    "wof:name":"Pir Komaj",
+    "wof:parent_id":1108720279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.72998000000001,
+    36.25639,
+    58.72998000000001,
+    36.25639
+],
+  "geometry": {"coordinates":[58.72998000000001,36.25639],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1293073793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.69565,31.5836,49.69565,31.5836",
+    "geom:latitude":31.5836,
+    "geom:longitude":49.69565,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ab Lashgar-e Bala",
+    "gn:country_code":"IR",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":145094,
+    "gn:latitude":31.5836,
+    "gn:longitude":49.69565,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"\u0100b Lashgar-e B\u0101l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0100b-e Lashkar"
+    ],
+    "name:fas_x_variant":[
+        "\u0100b Lashkar-e \u2018Oly\u0101",
+        "\u0622\u0628 \u0644\u0634\u06a9\u0631 \u0639\u0644\u06cc\u0627",
+        "\u0622\u0628 \u0644\u0634\u06af\u0631 \u0628\u0627\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Bunneh \u0100b-i-Lashkar",
+        "\u0100b Lashgar-e \u2018Oly\u00e1",
+        "\u0100b Lashgar",
+        "\u0100b Lashgar \u2018Oly\u00e1",
+        "\u0622\u0628 \u0644\u0634\u06a9\u0631 \u0639\u0644\u06cc\u0627",
+        "\u0100b Lashgar-e B\u0101l\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145094
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0950460af29a6cbd15709fc89c8ea296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719853,
+            "locality_id":1293073793,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1293073793,
+    "wof:lastmodified":1537646333,
+    "wof:name":"Ab Lashgar-e Bala",
+    "wof:parent_id":1108719853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.69565,
+    31.5836,
+    49.69565,
+    31.5836
+],
+  "geometry": {"coordinates":[49.69565,31.5836],"type":"Point"}
+}

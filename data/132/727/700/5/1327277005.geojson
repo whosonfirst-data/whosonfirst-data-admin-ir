@@ -1,0 +1,81 @@
+{
+  "id": 1327277005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.60486,35.96916,48.60486,35.96916",
+    "geom:latitude":35.96916,
+    "geom:longitude":48.60486,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Towprakhlu",
+    "gn:country_code":"IR",
+    "gn:dem":1952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112617,
+    "gn:latitude":35.96916,
+    "gn:longitude":48.60486,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Towpr\u0101khl\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0631\u067e\u0627\u062e\u0644\u0648"
+    ],
+    "name:fas_x_variant":[
+        "Towpr\u0101khl\u016b",
+        "T\u016brp\u0101khl\u016b",
+        "\u062a\u0648\u067e\u0631\u0627\u062e\u0644\u0648"
+    ],
+    "name:und_x_variant":[
+        "Tarpakhloo",
+        "Turappaklu",
+        "Torp\u0101khl\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672361,
+        1108720135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112617,
+        "wk:page":"Turpakhlu"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a28a7fe7eb2a414bc4f5f5c3212d4216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720135,
+            "locality_id":1327277005,
+            "region_id":85672361
+        }
+    ],
+    "wof:id":1327277005,
+    "wof:lastmodified":1537643107,
+    "wof:name":"Towprakhlu",
+    "wof:parent_id":1108720135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.60486,
+    35.96915999999999,
+    48.60486,
+    35.96915999999999
+],
+  "geometry": {"coordinates":[48.60486,35.96915999999999],"type":"Point"}
+}

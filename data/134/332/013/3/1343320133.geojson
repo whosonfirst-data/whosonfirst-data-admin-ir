@@ -1,0 +1,83 @@
+{
+  "id": 1343320133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.0685,33.4929,48.0685,33.4929",
+    "geom:latitude":33.4929,
+    "geom:longitude":48.0685,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Pahalat",
+    "gn:country_code":"IR",
+    "gn:dem":1013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":121673,
+    "gn:latitude":33.4929,
+    "gn:longitude":48.0685,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"P\u0101halat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0647\u064e\u0644\u064e\u062a"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u0627\u0639\u0650\u0644\u064e\u062a",
+        "\u067e\u0627\u0647\u0644\u064e\u062a",
+        "P\u0101halat",
+        "\u067e\u0627\u0647\u0644\u062a"
+    ],
+    "name:und_x_variant":[
+        "P\u0101 \u2018Allat",
+        "P\u0101\u2018elat",
+        "P\u0101hlat",
+        "\u067e\u0627\u0647\u0644\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":121673,
+        "wk:page":"Pahalat"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3a8342cb9c577895233a17c8f68b5bfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720145,
+            "locality_id":1343320133,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1343320133,
+    "wof:lastmodified":1537643973,
+    "wof:name":"Pahalat",
+    "wof:parent_id":1108720145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.0685,
+    33.4929,
+    48.0685,
+    33.4929
+],
+  "geometry": {"coordinates":[48.0685,33.4929],"type":"Point"}
+}

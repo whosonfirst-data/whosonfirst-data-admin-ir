@@ -1,0 +1,68 @@
+{
+  "id": 1209989317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.15472,31.83444,50.15472,31.83444",
+    "geom:latitude":31.83444,
+    "geom:longitude":50.15472,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Dasht Avzar",
+    "gn:country_code":"IR",
+    "gn:dem":1523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":15082,
+    "gn:latitude":31.83444,
+    "gn:longitude":50.15472,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dasht Avzar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":15082,
+        "wk:page":"Dasht_Avzar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f3ed27456024472abf896004b6da80e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720067,
+            "locality_id":1209989317,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1209989317,
+    "wof:lastmodified":1537565426,
+    "wof:name":"Dasht Avzar",
+    "wof:parent_id":1108720067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.15472000000001,
+    31.83444,
+    50.15472000000001,
+    31.83444
+],
+  "geometry": {"coordinates":[50.15472000000001,31.83444],"type":"Point"}
+}

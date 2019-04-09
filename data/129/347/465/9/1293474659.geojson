@@ -1,0 +1,73 @@
+{
+  "id": 1293474659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.76337,37.04581,49.76337,37.04581",
+    "geom:latitude":37.04581,
+    "geom:longitude":49.76337,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Rasteh Mazeh",
+    "gn:country_code":"IR",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11076088,
+    "gn:latitude":37.04581,
+    "gn:longitude":49.76337,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"R\u0101steh M\u0101zeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0633\u062a\u0647 \u0645\u0627\u0632\u0647"
+    ],
+    "name:und_x_variant":[
+        "R\u0101steh M\u0101zeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11076088
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6137ef493e178723c543a1084c4e14bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720459,
+            "locality_id":1293474659,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1293474659,
+    "wof:lastmodified":1537648708,
+    "wof:name":"Rasteh Mazeh",
+    "wof:parent_id":1108720459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.76337,
+    37.04581,
+    49.76337,
+    37.04581
+],
+  "geometry": {"coordinates":[49.76337,37.04581],"type":"Point"}
+}

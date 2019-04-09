@@ -1,0 +1,78 @@
+{
+  "id": 1226589263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.4778,37.9231,46.4778,37.9231",
+    "geom:latitude":37.9231,
+    "geom:longitude":46.4778,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Heravi",
+    "gn:country_code":"IR",
+    "gn:dem":1954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":131531,
+    "gn:latitude":37.9231,
+    "gn:longitude":46.4778,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Herav\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0647\u0631\u0648\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Herv\u012b",
+        "Herav\u012b"
+    ],
+    "name:und_x_variant":[
+        "Herb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":131531,
+        "wk:page":"Heravi"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0f81da2207e95dc740eae956f095558d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720471,
+            "locality_id":1226589263,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1226589263,
+    "wof:lastmodified":1537644978,
+    "wof:name":"Heravi",
+    "wof:parent_id":1108720471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.4778,
+    37.9231,
+    46.4778,
+    37.9231
+],
+  "geometry": {"coordinates":[46.4778,37.9231],"type":"Point"}
+}

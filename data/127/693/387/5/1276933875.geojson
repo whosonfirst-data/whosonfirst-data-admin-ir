@@ -1,0 +1,74 @@
+{
+  "id": 1276933875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.37376,36.19171,54.37376,36.19171",
+    "geom:latitude":36.19171,
+    "geom:longitude":54.37376,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Narisham",
+    "gn:country_code":"IR",
+    "gn:dem":1149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7108487,
+    "gn:latitude":36.19171,
+    "gn:longitude":54.37376,
+    "gn:modification_date":"2013-11-12",
+    "gn:name":"Nar\u012bsham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0631\u06cc\u0634\u0645"
+    ],
+    "name:fas_x_variant":[
+        "Nar\u012bsham"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672309,
+        1108719937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7108487,
+        "wk:page":"Narisham"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0e92cdcb68f614c7b0560fa0b1d6e9fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719937,
+            "locality_id":1276933875,
+            "region_id":85672309
+        }
+    ],
+    "wof:id":1276933875,
+    "wof:lastmodified":1537648091,
+    "wof:name":"Narisham",
+    "wof:parent_id":1108719937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.37376,
+    36.19171,
+    54.37376,
+    36.19171
+],
+  "geometry": {"coordinates":[54.37376,36.19171],"type":"Point"}
+}

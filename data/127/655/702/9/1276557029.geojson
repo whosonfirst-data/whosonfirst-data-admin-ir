@@ -1,0 +1,74 @@
+{
+  "id": 1276557029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.12138,37.5573,45.12138,37.5573",
+    "geom:latitude":37.5573,
+    "geom:longitude":45.12138,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Sadaqeh",
+    "gn:country_code":"IR",
+    "gn:dem":1315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":18532,
+    "gn:latitude":37.5573,
+    "gn:longitude":45.12138,
+    "gn:modification_date":"2012-09-05",
+    "gn:name":"\u015ead\u0101qeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0635\u062f\u0627\u0642\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u015ead\u0101qeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":18532,
+        "wk:page":"Sadaqeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"150e2eaf9c3b23d78b57a9d85ca90e76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720289,
+            "locality_id":1276557029,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1276557029,
+    "wof:lastmodified":1537641017,
+    "wof:name":"Sadaqeh",
+    "wof:parent_id":1108720289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.12138,
+    37.5573,
+    45.12138,
+    37.5573
+],
+  "geometry": {"coordinates":[45.12138,37.5573],"type":"Point"}
+}

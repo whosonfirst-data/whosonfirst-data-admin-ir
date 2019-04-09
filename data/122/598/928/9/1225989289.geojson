@@ -1,0 +1,80 @@
+{
+  "id": 1225989289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.80418,33.91811,49.80418,33.91811",
+    "geom:latitude":33.91811,
+    "geom:longitude":49.80418,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Nur `Eyn",
+    "gn:country_code":"IR",
+    "gn:dem":2279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":121898,
+    "gn:latitude":33.91811,
+    "gn:longitude":49.80418,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"N\u016br \u2018Eyn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0631 \u0639\u06cc\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0648\u0631 \u0639\u0650\u064a\u0646",
+        "\u0646\u0648\u0631\u064a\u0646",
+        "N\u016br-e \u2018Eyn"
+    ],
+    "name:und_x_variant":[
+        "N\u016br\u2018ain",
+        "N\u016br \u2018Eyn",
+        "N\u016br\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":121898
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2ba9e7b96e2f2a6aabf28dd5585b4f03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720443,
+            "locality_id":1225989289,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1225989289,
+    "wof:lastmodified":1537644001,
+    "wof:name":"Nur `Eyn",
+    "wof:parent_id":1108720443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.80418,
+    33.91811,
+    49.80418,
+    33.91811
+],
+  "geometry": {"coordinates":[49.80418,33.91811],"type":"Point"}
+}

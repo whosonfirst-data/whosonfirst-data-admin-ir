@@ -1,0 +1,75 @@
+{
+  "id": 1226362897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.64785,29.11127,53.64785,29.11127",
+    "geom:latitude":29.11127,
+    "geom:longitude":53.64785,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Tang-e Karam",
+    "gn:country_code":"IR",
+    "gn:dem":1521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110812,
+    "gn:latitude":29.11127,
+    "gn:longitude":53.64785,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Tang-e Karam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0646\u06af \u06a9\u0631\u0645"
+    ],
+    "name:und_x_variant":[
+        "Tang-i-Karam",
+        "Tang-e Karam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110812,
+        "wk:page":"Tang-e_Karam"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3925c60af6d423f20eec8c49d5954cdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720003,
+            "locality_id":1226362897,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1226362897,
+    "wof:lastmodified":1537642915,
+    "wof:name":"Tang-e Karam",
+    "wof:parent_id":1108720003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.64785,
+    29.11127,
+    53.64785,
+    29.11127
+],
+  "geometry": {"coordinates":[53.64785,29.11127],"type":"Point"}
+}

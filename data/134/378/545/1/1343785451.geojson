@@ -1,0 +1,76 @@
+{
+  "id": 1343785451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.87629,25.59064,60.87629,25.59064",
+    "geom:latitude":25.59064,
+    "geom:longitude":60.87629,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dadik",
+    "gn:country_code":"IR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1113452,
+    "gn:latitude":25.59064,
+    "gn:longitude":60.87629,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Dad\u012bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Dad\u012bk"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u062f\u06cc\u06a9"
+    ],
+    "name:und_x_variant":[
+        "\u062f\u062f\u06cc\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108719919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1113452
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e907aadf44aee7ad0cff25a2446368a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719919,
+            "locality_id":1343785451,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1343785451,
+    "wof:lastmodified":1537646858,
+    "wof:name":"Dadik",
+    "wof:parent_id":1108719919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.87629,
+    25.59064,
+    60.87629,
+    25.59064
+],
+  "geometry": {"coordinates":[60.87629,25.59064],"type":"Point"}
+}

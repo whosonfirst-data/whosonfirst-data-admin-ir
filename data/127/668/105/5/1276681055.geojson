@@ -1,0 +1,73 @@
+{
+  "id": 1276681055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.47418,30.4922,51.47418,30.4922",
+    "geom:latitude":30.4922,
+    "geom:longitude":51.47418,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chal Siah",
+    "gn:country_code":"IR",
+    "gn:dem":2061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8717880,
+    "gn:latitude":30.4922,
+    "gn:longitude":51.47418,
+    "gn:modification_date":"2014-03-11",
+    "gn:name":"Ch\u0101l S\u012b\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0644 \u0633\u064a\u0627\u0647"
+    ],
+    "name:und_x_variant":[
+        "Ch\u0101l S\u012b\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108719911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8717880
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a19d51b4af0b2403c5396f4a65ae5667",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719911,
+            "locality_id":1276681055,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1276681055,
+    "wof:lastmodified":1537648608,
+    "wof:name":"Chal Siah",
+    "wof:parent_id":1108719911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.47418,
+    30.4922,
+    51.47418,
+    30.4922
+],
+  "geometry": {"coordinates":[51.47418,30.4922],"type":"Point"}
+}

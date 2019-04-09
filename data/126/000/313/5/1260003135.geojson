@@ -1,0 +1,73 @@
+{
+  "id": 1260003135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.82843,27.11419,61.82843,27.11419",
+    "geom:latitude":27.11419,
+    "geom:longitude":61.82843,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Haqqabad",
+    "gn:country_code":"IR",
+    "gn:dem":1227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8679185,
+    "gn:latitude":27.11419,
+    "gn:longitude":61.82843,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"\u1e28aqq\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0642 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u1e28aqq\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8679185
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"75c6f14e104e1730870995f915e6e022",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720389,
+            "locality_id":1260003135,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1260003135,
+    "wof:lastmodified":1537648601,
+    "wof:name":"Haqqabad",
+    "wof:parent_id":1108720389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.82843,
+    27.11419,
+    61.82843,
+    27.11419
+],
+  "geometry": {"coordinates":[61.82843,27.11419],"type":"Point"}
+}

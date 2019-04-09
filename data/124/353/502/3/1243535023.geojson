@@ -1,0 +1,73 @@
+{
+  "id": 1243535023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.3361,27.1328,53.3361,27.1328",
+    "geom:latitude":27.1328,
+    "geom:longitude":53.3361,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Pir Gheyb",
+    "gn:country_code":"IR",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6916286,
+    "gn:latitude":27.1328,
+    "gn:longitude":53.3361,
+    "gn:modification_date":"2013-09-10",
+    "gn:name":"P\u012br Gheyb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0631 \u063a\u06cc\u0628"
+    ],
+    "name:fas_x_variant":[
+        "P\u012br Gheyb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6916286
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e195aa8834ebc1dc84c574cb16f271e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720025,
+            "locality_id":1243535023,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1243535023,
+    "wof:lastmodified":1537647714,
+    "wof:name":"Pir Gheyb",
+    "wof:parent_id":1108720025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.3361,
+    27.1328,
+    53.3361,
+    27.1328
+],
+  "geometry": {"coordinates":[53.3361,27.1328],"type":"Point"}
+}

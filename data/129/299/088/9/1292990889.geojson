@@ -1,0 +1,74 @@
+{
+  "id": 1292990889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.8,38.26667,48.8,38.26667",
+    "geom:latitude":38.26667,
+    "geom:longitude":48.8,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Hakim Darrehsi",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":38068,
+    "gn:latitude":38.26667,
+    "gn:longitude":48.8,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28ak\u012bm Darrehs\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u1e28ak\u012bm Darrehs\u012b"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ak\u012bm Darrehsh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":38068
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8713376fe0e3676fb612a16bea3ad24e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720487,
+            "locality_id":1292990889,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1292990889,
+    "wof:lastmodified":1537642149,
+    "wof:name":"Hakim Darrehsi",
+    "wof:parent_id":1108720487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.8,
+    38.26667,
+    48.8,
+    38.26667
+],
+  "geometry": {"coordinates":[48.8,38.26667],"type":"Point"}
+}

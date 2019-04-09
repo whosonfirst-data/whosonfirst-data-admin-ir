@@ -1,0 +1,73 @@
+{
+  "id": 1326962805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.7136,29.2615,60.7136,29.2615",
+    "geom:latitude":29.2615,
+    "geom:longitude":60.7136,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mohammadabad",
+    "gn:country_code":"IR",
+    "gn:dem":1703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1336250,
+    "gn:latitude":29.2615,
+    "gn:longitude":60.7136,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mo\u1e29ammad\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u062d\u0645\u062f \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Mo\u1e29ammad\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1336250
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1a3c7d3dcfc2f6a8a17bcfe108f7dbc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720517,
+            "locality_id":1326962805,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1326962805,
+    "wof:lastmodified":1537647155,
+    "wof:name":"Mohammadabad",
+    "wof:parent_id":1108720517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.7136,
+    29.2615,
+    60.7136,
+    29.2615
+],
+  "geometry": {"coordinates":[60.7136,29.2615],"type":"Point"}
+}

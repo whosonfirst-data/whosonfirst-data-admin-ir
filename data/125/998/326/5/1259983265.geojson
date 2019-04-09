@@ -1,0 +1,73 @@
+{
+  "id": 1259983265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.5037,36.9126,45.5037,36.9126",
+    "geom:latitude":36.9126,
+    "geom:longitude":45.5037,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kupaklu",
+    "gn:country_code":"IR",
+    "gn:dem":1364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6686767,
+    "gn:latitude":36.9126,
+    "gn:longitude":45.5037,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"K\u016bpakl\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u067e\u06a9\u0644\u0648"
+    ],
+    "name:fas_x_variant":[
+        "K\u016bpakl\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6686767
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"92a8425a627e4a3d9d2011395cc232b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720265,
+            "locality_id":1259983265,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1259983265,
+    "wof:lastmodified":1537647393,
+    "wof:name":"Kupaklu",
+    "wof:parent_id":1108720265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.5037,
+    36.9126,
+    45.5037,
+    36.9126
+],
+  "geometry": {"coordinates":[45.5037,36.9126],"type":"Point"}
+}

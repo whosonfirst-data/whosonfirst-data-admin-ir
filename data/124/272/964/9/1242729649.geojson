@@ -1,0 +1,73 @@
+{
+  "id": 1242729649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.26491,38.0122,56.26491,38.0122",
+    "geom:latitude":38.0122,
+    "geom:longitude":56.26491,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Narestan",
+    "gn:country_code":"IR",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11472673,
+    "gn:latitude":38.0122,
+    "gn:longitude":56.26491,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"N\u0101rest\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0631\u0633\u062a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "N\u0101rest\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11472673
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a1ce419567a88c90aaa30699da4f1ef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720093,
+            "locality_id":1242729649,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1242729649,
+    "wof:lastmodified":1537648782,
+    "wof:name":"Narestan",
+    "wof:parent_id":1108720093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.26491,
+    38.0122,
+    56.26491,
+    38.0122
+],
+  "geometry": {"coordinates":[56.26491,38.0122],"type":"Point"}
+}

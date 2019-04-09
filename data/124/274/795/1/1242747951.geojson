@@ -1,0 +1,74 @@
+{
+  "id": 1242747951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.02942,32.19166,49.02942,32.19166",
+    "geom:latitude":32.19166,
+    "geom:longitude":49.02942,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Do Madeh",
+    "gn:country_code":"IR",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":36615,
+    "gn:latitude":32.19166,
+    "gn:longitude":49.02942,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Do Madeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u063a \u0646\u062f\u0647"
+    ],
+    "name:fas_x_variant":[
+        "D\u016bgh Nadeh",
+        "\u062f\u0648 \u0645\u062f\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":36615
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"da8acf74a2800e794c9a6954eef53964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720229,
+            "locality_id":1242747951,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1242747951,
+    "wof:lastmodified":1537642022,
+    "wof:name":"Do Madeh",
+    "wof:parent_id":1108720229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.02942,
+    32.19166,
+    49.02942,
+    32.19166
+],
+  "geometry": {"coordinates":[49.02942,32.19166],"type":"Point"}
+}

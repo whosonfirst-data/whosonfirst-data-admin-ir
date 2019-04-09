@@ -1,0 +1,75 @@
+{
+  "id": 1343811473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.77265,36.64129,52.77265,36.64129",
+    "geom:latitude":36.64129,
+    "geom:longitude":52.77265,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Bala Galesh Kola",
+    "gn:country_code":"IR",
+    "gn:dem":-14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11744,
+    "gn:latitude":36.64129,
+    "gn:longitude":52.77265,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"B\u0101l\u0101 G\u0101lesh Kol\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0644\u0627 \u06af\u0627\u0644\u0634 \u0643\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "B\u0101l\u0101 G\u0101lesh Kol\u0101",
+        "G\u0101lesh-e B\u0101l\u0101",
+        "\u06af\u0627\u0644\u0650\u0634\u0650 \u0628\u0627\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11744
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c8870980e849eb845247e88e1a0dd0e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719847,
+            "locality_id":1343811473,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1343811473,
+    "wof:lastmodified":1537640661,
+    "wof:name":"Bala Galesh Kola",
+    "wof:parent_id":1108719847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.77265,
+    36.64129000000001,
+    52.77265,
+    36.64129000000001
+],
+  "geometry": {"coordinates":[52.77265,36.64129000000001],"type":"Point"}
+}

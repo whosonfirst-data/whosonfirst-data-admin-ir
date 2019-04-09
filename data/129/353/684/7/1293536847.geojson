@@ -1,0 +1,78 @@
+{
+  "id": 1293536847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.3799,32.6251,52.3799,32.6251",
+    "geom:latitude":32.6251,
+    "geom:longitude":52.3799,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Qehi",
+    "gn:country_code":"IR",
+    "gn:dem":1577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":418537,
+    "gn:latitude":32.6251,
+    "gn:longitude":52.3799,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qeh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0647\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Qeh\u012b"
+    ],
+    "name:und_x_variant":[
+        "Kehi",
+        "P\u0101i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108719977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":418537,
+        "wk:page":"Qehi"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3f9c5b70a4d6327afee9054caab7e025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719977,
+            "locality_id":1293536847,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1293536847,
+    "wof:lastmodified":1537646725,
+    "wof:name":"Qehi",
+    "wof:parent_id":1108719977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.3799,
+    32.6251,
+    52.3799,
+    32.6251
+],
+  "geometry": {"coordinates":[52.3799,32.6251],"type":"Point"}
+}

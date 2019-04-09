@@ -1,0 +1,73 @@
+{
+  "id": 1293589195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.04828,26.71143,59.04828,26.71143",
+    "geom:latitude":26.71143,
+    "geom:longitude":59.04828,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Karhamat",
+    "gn:country_code":"IR",
+    "gn:dem":666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9112750,
+    "gn:latitude":26.71143,
+    "gn:longitude":59.04828,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Kar\u1e29amat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u062d\u0645\u062a"
+    ],
+    "name:und_x_variant":[
+        "Kar\u1e29amat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9112750
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5270fef1ff045b6f77a60c049a09976a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720271,
+            "locality_id":1293589195,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1293589195,
+    "wof:lastmodified":1537648636,
+    "wof:name":"Karhamat",
+    "wof:parent_id":1108720271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.04828000000001,
+    26.71143,
+    59.04828000000001,
+    26.71143
+],
+  "geometry": {"coordinates":[59.04828000000001,26.71143],"type":"Point"}
+}

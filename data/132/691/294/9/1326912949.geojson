@@ -1,0 +1,76 @@
+{
+  "id": 1326912949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.72064,32.00874,49.72064,32.00874",
+    "geom:latitude":32.00874,
+    "geom:longitude":49.72064,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Chehvar",
+    "gn:country_code":"IR",
+    "gn:dem":797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7542072,
+    "gn:latitude":32.00874,
+    "gn:longitude":49.72064,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Chehv\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Chehv\u0101r"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u0647\u0648\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u0686\u0647\u0648\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7542072
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3f1d80e0869c5f17da23508fd3ce1e3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720067,
+            "locality_id":1326912949,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1326912949,
+    "wof:lastmodified":1537648327,
+    "wof:name":"Chehvar",
+    "wof:parent_id":1108720067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.72064,
+    32.00874,
+    49.72064,
+    32.00874
+],
+  "geometry": {"coordinates":[49.72064,32.00874],"type":"Point"}
+}

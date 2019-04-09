@@ -1,0 +1,74 @@
+{
+  "id": 1310264391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.30889,37.43528,48.30889,37.43528",
+    "geom:latitude":37.43528,
+    "geom:longitude":48.30889,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Kuju",
+    "gn:country_code":"IR",
+    "gn:dem":1175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":37493,
+    "gn:latitude":37.43528,
+    "gn:longitude":48.30889,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"K\u016bj\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0648\u062c\u0648"
+    ],
+    "name:fas_x_variant":[
+        "K\u016bj\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":37493,
+        "wk:page":"Kuju%2C_Ardabil"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a834a52ec69db9751f6f0a28de26de81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720123,
+            "locality_id":1310264391,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1310264391,
+    "wof:lastmodified":1537642099,
+    "wof:name":"Kuju",
+    "wof:parent_id":1108720123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.30889000000001,
+    37.43528,
+    48.30889000000001,
+    37.43528
+],
+  "geometry": {"coordinates":[48.30889000000001,37.43528],"type":"Point"}
+}

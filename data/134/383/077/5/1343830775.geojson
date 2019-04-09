@@ -1,0 +1,76 @@
+{
+  "id": 1343830775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.89782,31.50351,49.89782,31.50351",
+    "geom:latitude":31.50351,
+    "geom:longitude":49.89782,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Chamandelli",
+    "gn:country_code":"IR",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7549901,
+    "gn:latitude":31.50351,
+    "gn:longitude":49.89782,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Chamandell\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Chamandell\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u0645\u0646\u062f\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0686\u0645\u0646\u062f\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7549901
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"50cb159703605b78cccea58a40b4700a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719853,
+            "locality_id":1343830775,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1343830775,
+    "wof:lastmodified":1537648347,
+    "wof:name":"Chamandelli",
+    "wof:parent_id":1108719853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.89782,
+    31.50351,
+    49.89782,
+    31.50351
+],
+  "geometry": {"coordinates":[49.89782,31.50351],"type":"Point"}
+}

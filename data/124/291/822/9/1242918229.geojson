@@ -1,0 +1,73 @@
+{
+  "id": 1242918229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.34431,33.92599,49.34431,33.92599",
+    "geom:latitude":33.92599,
+    "geom:longitude":49.34431,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Seyyedan",
+    "gn:country_code":"IR",
+    "gn:dem":2236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6746537,
+    "gn:latitude":33.92599,
+    "gn:longitude":49.34431,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Seyyed\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u062f\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Seyyed\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6746537
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c98b6f72ddaf22aba0b3d0d7734ff8ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720443,
+            "locality_id":1242918229,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1242918229,
+    "wof:lastmodified":1537647617,
+    "wof:name":"Seyyedan",
+    "wof:parent_id":1108720443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.34431,
+    33.92599000000001,
+    49.34431,
+    33.92599000000001
+],
+  "geometry": {"coordinates":[49.34431,33.92599000000001],"type":"Point"}
+}

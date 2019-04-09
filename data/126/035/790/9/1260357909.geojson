@@ -1,0 +1,77 @@
+{
+  "id": 1260357909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.73022,33.27271,48.73022,33.27271",
+    "geom:latitude":33.27271,
+    "geom:longitude":48.73022,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Pakmard",
+    "gn:country_code":"IR",
+    "gn:dem":1556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10307119,
+    "gn:latitude":33.27271,
+    "gn:longitude":48.73022,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"P\u0101kmard",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06a9\u0645\u0631\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u0627\u06a9\u0645\u0631\u0647"
+    ],
+    "name:und_x_variant":[
+        "P\u0101kmard",
+        "P\u0101kmareh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10307119
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a1a69dcb99f8043241f2317b2d5121f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720145,
+            "locality_id":1260357909,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1260357909,
+    "wof:lastmodified":1537648675,
+    "wof:name":"Pakmard",
+    "wof:parent_id":1108720145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.73022,
+    33.27271,
+    48.73022,
+    33.27271
+],
+  "geometry": {"coordinates":[48.73022,33.27271],"type":"Point"}
+}

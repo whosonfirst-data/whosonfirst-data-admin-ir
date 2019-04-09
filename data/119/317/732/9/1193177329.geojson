@@ -1,0 +1,73 @@
+{
+  "id": 1193177329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.25773,36.68088,51.25773,36.68088",
+    "geom:latitude":36.68088,
+    "geom:longitude":51.25773,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Mahalleh-ye Larusar",
+    "gn:country_code":"IR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11469705,
+    "gn:latitude":36.68088,
+    "gn:longitude":51.25773,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Ma\u1e29alleh-ye L\u0101r\u016bsar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u062d\u0644\u0647 \u0644\u0627\u0631\u0648\u0633\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29alleh-ye L\u0101r\u016bsar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11469705
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7d677537516048578264f2476b2bfdc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720495,
+            "locality_id":1193177329,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1193177329,
+    "wof:lastmodified":1537648781,
+    "wof:name":"Mahalleh-ye Larusar",
+    "wof:parent_id":1108720495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.25773,
+    36.68088,
+    51.25773,
+    36.68088
+],
+  "geometry": {"coordinates":[51.25773,36.68088],"type":"Point"}
+}

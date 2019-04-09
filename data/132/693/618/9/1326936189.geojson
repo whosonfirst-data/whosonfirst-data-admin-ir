@@ -1,0 +1,73 @@
+{
+  "id": 1326936189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.57402,26.9093,59.57402,26.9093",
+    "geom:latitude":26.9093,
+    "geom:longitude":59.57402,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Aparing",
+    "gn:country_code":"IR",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9876017,
+    "gn:latitude":26.9093,
+    "gn:longitude":59.57402,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"\u0100p\u0101r\u012bng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u067e\u0627\u0631\u064a\u0646\u06af"
+    ],
+    "name:und_x_variant":[
+        "\u0100p\u0101r\u012bng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9876017
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"121c8079276ed5e4cd774bd23ea5e0cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720063,
+            "locality_id":1326936189,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1326936189,
+    "wof:lastmodified":1537648655,
+    "wof:name":"Aparing",
+    "wof:parent_id":1108720063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.57402,
+    26.9093,
+    59.57402,
+    26.9093
+],
+  "geometry": {"coordinates":[59.57402,26.9093],"type":"Point"}
+}

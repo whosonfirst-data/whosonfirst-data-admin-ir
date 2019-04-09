@@ -1,0 +1,73 @@
+{
+  "id": 1243241075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.08639,27.12917,53.08639,27.12917",
+    "geom:latitude":27.12917,
+    "geom:longitude":53.08639,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Shiveh",
+    "gn:country_code":"IR",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":403060,
+    "gn:latitude":27.12917,
+    "gn:longitude":53.08639,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sh\u012bveh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u064a\u0648\u0650\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Sh\u012bveh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":403060
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"016155b4d467b0a0827ca11e5f0e670f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720025,
+            "locality_id":1243241075,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1243241075,
+    "wof:lastmodified":1537646545,
+    "wof:name":"Shiveh",
+    "wof:parent_id":1108720025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.08639,
+    27.12917,
+    53.08639,
+    27.12917
+],
+  "geometry": {"coordinates":[53.08639,27.12917],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226035821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.77421,29.71056,51.77421,29.71056",
+    "geom:latitude":29.71056,
+    "geom:longitude":51.77421,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kushkal",
+    "gn:country_code":"IR",
+    "gn:dem":1217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":126136,
+    "gn:latitude":29.71056,
+    "gn:longitude":51.77421,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"K\u016bshkal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "K\u016bshk"
+    ],
+    "name:fas_x_variant":[
+        "K\u016bshkal",
+        "\u06a9\u0648\u0634\u06a9\u0644"
+    ],
+    "name:und_x_variant":[
+        "K\u016bshkal",
+        "\u06a9\u0648\u0634\u06a9\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":126136
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6f7a8c5eab455fa5fbf3dad945df195c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720113,
+            "locality_id":1226035821,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1226035821,
+    "wof:lastmodified":1537644417,
+    "wof:name":"Kushkal",
+    "wof:parent_id":1108720113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.77421,
+    29.71056,
+    51.77421,
+    29.71056
+],
+  "geometry": {"coordinates":[51.77421,29.71056],"type":"Point"}
+}

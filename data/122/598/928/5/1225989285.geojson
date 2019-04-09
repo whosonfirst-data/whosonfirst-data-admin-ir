@@ -1,0 +1,73 @@
+{
+  "id": 1225989285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.4998,35.2477,49.4998,35.2477",
+    "geom:latitude":35.2477,
+    "geom:longitude":49.4998,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Maqsudabad",
+    "gn:country_code":"IR",
+    "gn:dem":1852,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":41767,
+    "gn:latitude":35.2477,
+    "gn:longitude":49.4998,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Maq\u015f\u016bd\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0642\u0635\u0648\u062f \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Maq\u015f\u016bd\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":41767
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"103c0a5527bb2b27d753bad3351b01ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720407,
+            "locality_id":1225989285,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1225989285,
+    "wof:lastmodified":1537642356,
+    "wof:name":"Maqsudabad",
+    "wof:parent_id":1108720407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.4998,
+    35.2477,
+    49.4998,
+    35.2477
+],
+  "geometry": {"coordinates":[49.4998,35.2477],"type":"Point"}
+}

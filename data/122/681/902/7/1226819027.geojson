@@ -1,0 +1,74 @@
+{
+  "id": 1226819027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.1074,31.8833,49.1074,31.8833",
+    "geom:latitude":31.8833,
+    "geom:longitude":49.1074,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Tall-e Khayyat",
+    "gn:country_code":"IR",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":127644,
+    "gn:latitude":31.8833,
+    "gn:longitude":49.1074,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Tall-e Khayy\u0101\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Tel-i-Khaiy\u0101t"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0644 \u062e\u06cc\u0627\u0637",
+        "Tall-e Khayy\u0101\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":127644
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"027761c5251384fd56584077d756bd5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720457,
+            "locality_id":1226819027,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1226819027,
+    "wof:lastmodified":1537644580,
+    "wof:name":"Tall-e Khayyat",
+    "wof:parent_id":1108720457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.1074,
+    31.8833,
+    49.1074,
+    31.8833
+],
+  "geometry": {"coordinates":[49.1074,31.8833],"type":"Point"}
+}

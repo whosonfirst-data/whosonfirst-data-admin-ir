@@ -1,0 +1,82 @@
+{
+  "id": 1259447003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.8,35.9,45.8,35.9",
+    "geom:latitude":35.9,
+    "geom:longitude":45.8,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dulaguyer",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3142,
+    "gn:latitude":35.9,
+    "gn:longitude":45.8,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"D\u016blag\u016byer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0644\u0643\u0648\u0631"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0644\u064e\u06af\u0648\u064a\u0650\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0650\u0644\u06af\u0648\u0631",
+        "D\u016blag\u016byer"
+    ],
+    "name:und_x_variant":[
+        "Delg\u016br",
+        "Dalk\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108719875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3142
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1c64964f3468d8f5b06ba6ae1c6135dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719875,
+            "locality_id":1259447003,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1259447003,
+    "wof:lastmodified":1537640230,
+    "wof:name":"Dulaguyer",
+    "wof:parent_id":1108719875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.8,
+    35.9,
+    45.8,
+    35.9
+],
+  "geometry": {"coordinates":[45.8,35.9],"type":"Point"}
+}

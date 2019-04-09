@@ -1,0 +1,82 @@
+{
+  "id": 1242827733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.28677,36.67795,53.28677,36.67795",
+    "geom:latitude":36.67795,
+    "geom:longitude":53.28677,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Siavash Kola",
+    "gn:country_code":"IR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":385400,
+    "gn:latitude":36.67795,
+    "gn:longitude":53.28677,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u012b\u0101vash Kol\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0650\u064a\u0627\u0648\u064e\u0634 \u0643\u064f\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u064a\u0627\u0648\u064f\u0634 \u0643\u064e\u0644\u0627",
+        "\u0633\u064a\u0627\u0648\u064e\u0634 \u0643\u0648\u0644\u0627",
+        "S\u012b\u0101vash Kol\u0101",
+        "\u0633\u064a\u0627\u0648\u0634 \u0643\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Sey\u0101vash Kol\u0101",
+        "S\u012b\u0101vosh Kal\u0101",
+        "S\u012b\u0101vash K\u016bl\u0101",
+        "\u0633\u064a\u0627\u0648\u0634 \u0643\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385400
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f45e0267b9d71e0594cf4770471d9424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720275,
+            "locality_id":1242827733,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1242827733,
+    "wof:lastmodified":1537646411,
+    "wof:name":"Siavash Kola",
+    "wof:parent_id":1108720275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.28677,
+    36.67795,
+    53.28677,
+    36.67795
+],
+  "geometry": {"coordinates":[53.28677,36.67795],"type":"Point"}
+}

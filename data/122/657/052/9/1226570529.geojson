@@ -1,0 +1,78 @@
+{
+  "id": 1226570529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.9169,34.309,50.9169,34.309",
+    "geom:latitude":34.309,
+    "geom:longitude":50.9169,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Tireh",
+    "gn:country_code":"IR",
+    "gn:dem":1807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112801,
+    "gn:latitude":34.309,
+    "gn:longitude":50.9169,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"T\u012breh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u064a\u0631\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u064a\u0646\u0650\u0647",
+        "T\u012breh"
+    ],
+    "name:und_x_variant":[
+        "T\u012bneh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672351,
+        1108720321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112801,
+        "wk:page":"Tireh,_Qom"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7b23fc27bc763526d835699cd89adbcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720321,
+            "locality_id":1226570529,
+            "region_id":85672351
+        }
+    ],
+    "wof:id":1226570529,
+    "wof:lastmodified":1537643124,
+    "wof:name":"Tireh",
+    "wof:parent_id":1108720321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.9169,
+    34.309,
+    50.9169,
+    34.309
+],
+  "geometry": {"coordinates":[50.9169,34.309],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343480725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.5,36.76667,49.5,36.76667",
+    "geom:latitude":36.76667,
+    "geom:longitude":49.5,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tetli",
+    "gn:country_code":"IR",
+    "gn:dem":1647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9845,
+    "gn:latitude":36.76667,
+    "gn:longitude":49.5,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Tetl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Tetl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9845
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dfe82e486efbc25c19038c8e0d68bc6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720361,
+            "locality_id":1343480725,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1343480725,
+    "wof:lastmodified":1537640514,
+    "wof:name":"Tetli",
+    "wof:parent_id":1108720361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.5,
+    36.76667,
+    49.5,
+    36.76667
+],
+  "geometry": {"coordinates":[49.5,36.76667],"type":"Point"}
+}

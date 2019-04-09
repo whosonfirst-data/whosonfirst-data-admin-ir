@@ -1,0 +1,74 @@
+{
+  "id": 1209801553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.1582,34.8416,47.1582,34.8416",
+    "geom:latitude":34.8416,
+    "geom:longitude":47.1582,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Pir Mohammad",
+    "gn:country_code":"IR",
+    "gn:dem":2081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":23595,
+    "gn:latitude":34.8416,
+    "gn:longitude":47.1582,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"P\u012br Mo\u1e29ammad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0631 \u0645\u062d\u0645\u062f"
+    ],
+    "name:fas_x_variant":[
+        "P\u012br Mo\u1e29ammad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":23595,
+        "wk:page":"Pir_Mohammad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0004061912b9acbabb6ed708ac30786e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720463,
+            "locality_id":1209801553,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1209801553,
+    "wof:lastmodified":1537641218,
+    "wof:name":"Pir Mohammad",
+    "wof:parent_id":1108720463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.1582,
+    34.8416,
+    47.1582,
+    34.8416
+],
+  "geometry": {"coordinates":[47.1582,34.8416],"type":"Point"}
+}

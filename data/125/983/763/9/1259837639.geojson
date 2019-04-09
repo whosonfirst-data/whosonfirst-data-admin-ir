@@ -1,0 +1,77 @@
+{
+  "id": 1259837639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.8654,33.1661,48.8654,33.1661",
+    "geom:latitude":33.1661,
+    "geom:longitude":48.8654,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Rusta-ye Fasli-ye Mahi",
+    "gn:country_code":"IR",
+    "gn:dem":1035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6738008,
+    "gn:latitude":33.1661,
+    "gn:longitude":48.8654,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"R\u016bst\u0101-ye Fa\u015fl\u012b-ye M\u0101h\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06a9\u0627\u0647\u0648"
+    ],
+    "name:fas_x_variant":[
+        "P\u0101k\u0101h\u016b",
+        "\u0631\u0648\u0633\u062a\u0627\u06cc \u0641\u0635\u0644\u06cc \u0645\u0627\u0647\u06cc"
+    ],
+    "name:und_x_variant":[
+        "R\u016bst\u0101-ye Fa\u015fl\u012b-ye M\u0101h\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6738008
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"69ad75e5544748a131fb03d6e1e97970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720145,
+            "locality_id":1259837639,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1259837639,
+    "wof:lastmodified":1537647558,
+    "wof:name":"Rusta-ye Fasli-ye Mahi",
+    "wof:parent_id":1108720145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.8654,
+    33.1661,
+    48.8654,
+    33.1661
+],
+  "geometry": {"coordinates":[48.8654,33.1661],"type":"Point"}
+}

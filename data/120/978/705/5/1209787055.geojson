@@ -1,0 +1,74 @@
+{
+  "id": 1209787055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.8788,34.6554,46.8788,34.6554",
+    "geom:latitude":34.6554,
+    "geom:longitude":46.8788,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Pa Emam",
+    "gn:country_code":"IR",
+    "gn:dem":1329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":23589,
+    "gn:latitude":34.6554,
+    "gn:longitude":46.8788,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"P\u0101 Em\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0627 \u0627\u0645\u0627\u0645"
+    ],
+    "name:fas_x_variant":[
+        "P\u0101 Em\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":23589,
+        "wk:page":"Pa_Emam"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b2e28a14df9f3ace719ded348e765d73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720117,
+            "locality_id":1209787055,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1209787055,
+    "wof:lastmodified":1537641218,
+    "wof:name":"Pa Emam",
+    "wof:parent_id":1108720117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.8788,
+    34.6554,
+    46.8788,
+    34.6554
+],
+  "geometry": {"coordinates":[46.8788,34.6554],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1259773475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.0522,36.85447,50.0522,36.85447",
+    "geom:latitude":36.85447,
+    "geom:longitude":50.0522,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Ashak",
+    "gn:country_code":"IR",
+    "gn:dem":1302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10539,
+    "gn:latitude":36.85447,
+    "gn:longitude":50.0522,
+    "gn:modification_date":"2018-06-07",
+    "gn:name":"Ashak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0634\u06a9"
+    ],
+    "name:und_x_variant":[
+        "Asak",
+        "Ashak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108719805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10539,
+        "wk:page":"Asak,_Gilan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"88c65d004966b3513ad90fada3dd12bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719805,
+            "locality_id":1259773475,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1259773475,
+    "wof:lastmodified":1537640579,
+    "wof:name":"Ashak",
+    "wof:parent_id":1108719805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.0522,
+    36.85447,
+    50.0522,
+    36.85447
+],
+  "geometry": {"coordinates":[50.0522,36.85447],"type":"Point"}
+}

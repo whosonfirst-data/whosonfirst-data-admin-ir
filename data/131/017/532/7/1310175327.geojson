@@ -1,0 +1,83 @@
+{
+  "id": 1310175327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.39209,30.85993,49.39209,30.85993",
+    "geom:latitude":30.85993,
+    "geom:longitude":49.39209,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Meshlashiyeh-ye Sofla",
+    "gn:country_code":"IR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":123811,
+    "gn:latitude":30.85993,
+    "gn:longitude":49.39209,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Meshlash\u012byeh-ye Sofl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0634\u06cc\u0644\u0634\u06cc\u0647 \u0633\u0641\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "M\u012bshelsh\u012byeh-ye Sofl\u00e1",
+        "Mesheylsh\u012byeh-ye P\u0101\u2019\u012bn",
+        "Mesheylsh\u012byeh-ye Sofl\u00e1",
+        "\u0645\u0634\u0644\u0634\u06cc\u0647 \u0633\u0641\u0644\u06cc",
+        "\u0645\u0634\u0644\u0634\u0647 \u0633\u0641\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Mowsher Sheyeh",
+        "Mowsher Sh\u012byeh",
+        "Meshlash\u012byeh-ye Sofl\u00e1",
+        "Meshlasheh-ye Sofl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":123811
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7ac2170d3ee37b158323dbc176595b8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720335,
+            "locality_id":1310175327,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1310175327,
+    "wof:lastmodified":1537644191,
+    "wof:name":"Meshlashiyeh-ye Sofla",
+    "wof:parent_id":1108720335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.39209,
+    30.85993,
+    49.39209,
+    30.85993
+],
+  "geometry": {"coordinates":[49.39209,30.85993],"type":"Point"}
+}

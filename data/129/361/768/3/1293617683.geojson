@@ -1,0 +1,73 @@
+{
+  "id": 1293617683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.65966,31.8578,59.65966,31.8578",
+    "geom:latitude":31.8578,
+    "geom:longitude":59.65966,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Lakh-e Sefid",
+    "gn:country_code":"IR",
+    "gn:dem":1902,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11174482,
+    "gn:latitude":31.8578,
+    "gn:longitude":59.65966,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"L\u0101kh-e Sef\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u062e \u0633\u0641\u06cc\u062f"
+    ],
+    "name:und_x_variant":[
+        "L\u0101kh-e Sef\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108720259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11174482
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"83843602b55478946bc468b8eac9e369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720259,
+            "locality_id":1293617683,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1293617683,
+    "wof:lastmodified":1537648738,
+    "wof:name":"Lakh-e Sefid",
+    "wof:parent_id":1108720259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.65966,
+    31.8578,
+    59.65966,
+    31.8578
+],
+  "geometry": {"coordinates":[59.65966,31.8578],"type":"Point"}
+}

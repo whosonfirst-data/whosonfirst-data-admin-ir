@@ -1,0 +1,78 @@
+{
+  "id": 1293127927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.15491,36.02866,51.15491,36.02866",
+    "geom:latitude":36.02866,
+    "geom:longitude":51.15491,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Sirah",
+    "gn:country_code":"IR",
+    "gn:dem":1840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":114283,
+    "gn:latitude":36.02866,
+    "gn:longitude":51.15491,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sirah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u064a\u0631\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u064e\u0631\u0627\u0628",
+        "S\u012br\u0101"
+    ],
+    "name:und_x_variant":[
+        "Sar\u0101b",
+        "Sirah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672415,
+        1108720105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":114283
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"09856a93bfdeb314c4725beb800dd1e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720105,
+            "locality_id":1293127927,
+            "region_id":85672415
+        }
+    ],
+    "wof:id":1293127927,
+    "wof:lastmodified":1537643264,
+    "wof:name":"Sirah",
+    "wof:parent_id":1108720105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.15491,
+    36.02865999999999,
+    51.15491,
+    36.02865999999999
+],
+  "geometry": {"coordinates":[51.15491,36.02865999999999],"type":"Point"}
+}

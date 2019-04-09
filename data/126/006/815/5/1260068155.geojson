@@ -1,0 +1,78 @@
+{
+  "id": 1260068155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.3186,26.8218,53.3186,26.8218",
+    "geom:latitude":26.8218,
+    "geom:longitude":53.3186,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Lazeh",
+    "gn:country_code":"IR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":125744,
+    "gn:latitude":26.8218,
+    "gn:longitude":53.3186,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"L\u0101zeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0632\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0644\u064e\u0632",
+        "L\u0101zeh"
+    ],
+    "name:und_x_variant":[
+        "Laz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108719869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":125744,
+        "wk:page":"Laz%2C_Iran"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e5241cc10464350b7dfba90d411cdfa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719869,
+            "locality_id":1260068155,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1260068155,
+    "wof:lastmodified":1537644382,
+    "wof:name":"Lazeh",
+    "wof:parent_id":1108719869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.3186,
+    26.8218,
+    53.3186,
+    26.8218
+],
+  "geometry": {"coordinates":[53.3186,26.8218],"type":"Point"}
+}

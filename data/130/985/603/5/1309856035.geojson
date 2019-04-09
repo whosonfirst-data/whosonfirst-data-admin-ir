@@ -1,0 +1,70 @@
+{
+  "id": 1309856035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.72889,28.31139,57.72889,28.31139",
+    "geom:latitude":28.31139,
+    "geom:longitude":57.72889,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Ateshak",
+    "gn:country_code":"IR",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":400117,
+    "gn:latitude":28.31139,
+    "gn:longitude":57.72889,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u0100teshak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0100teshak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400117
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1fe5e8432f7f4f0687399c72042905df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719809,
+            "locality_id":1309856035,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1309856035,
+    "wof:lastmodified":1537646490,
+    "wof:name":"Ateshak",
+    "wof:parent_id":1108719809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.72889,
+    28.31139000000001,
+    57.72889,
+    28.31139000000001
+],
+  "geometry": {"coordinates":[57.72889,28.31139000000001],"type":"Point"}
+}

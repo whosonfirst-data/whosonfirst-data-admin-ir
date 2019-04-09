@@ -1,0 +1,76 @@
+{
+  "id": 1276938083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.064,29.267,57.064,29.267",
+    "geom:latitude":29.267,
+    "geom:longitude":57.064,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Chaleh",
+    "gn:country_code":"IR",
+    "gn:dem":2223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":139291,
+    "gn:latitude":29.267,
+    "gn:longitude":57.064,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ch\u0101leh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Ch\u0101leh"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u0627\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0686\u0627\u0644\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":139291
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e66a6ef22a7f8edbe0ce6368fee0deaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719851,
+            "locality_id":1276938083,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1276938083,
+    "wof:lastmodified":1537645762,
+    "wof:name":"Chaleh",
+    "wof:parent_id":1108719851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.06399999999999,
+    29.267,
+    57.06399999999999,
+    29.267
+],
+  "geometry": {"coordinates":[57.06399999999999,29.267],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1309764265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.67207,33.14004,49.67207,33.14004",
+    "geom:latitude":33.14004,
+    "geom:longitude":49.67207,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Seyyedabad",
+    "gn:country_code":"IR",
+    "gn:dem":2020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":13726,
+    "gn:latitude":33.14004,
+    "gn:longitude":49.67207,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Seyyed\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647 \u0633\u06cc\u062f \u0645\u062d\u0645\u062f \u0639\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Deh-e Seyyed Mo\u1e29ammad \u2018Al\u012b",
+        "\u0633\u06cc\u062f \u0622\u0628\u0627\u062f",
+        "\u062f\u0647 \u0633\u06cc\u062f"
+    ],
+    "name:und_x_variant":[
+        "Seyyed\u0101b\u0101d",
+        "Deh-e Seyyed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13726
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b37417b9344a08372adabaa864d747ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719803,
+            "locality_id":1309764265,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1309764265,
+    "wof:lastmodified":1537640744,
+    "wof:name":"Seyyedabad",
+    "wof:parent_id":1108719803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.67207,
+    33.14004,
+    49.67207,
+    33.14004
+],
+  "geometry": {"coordinates":[49.67207,33.14004],"type":"Point"}
+}

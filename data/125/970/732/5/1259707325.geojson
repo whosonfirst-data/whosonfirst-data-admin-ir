@@ -1,0 +1,73 @@
+{
+  "id": 1259707325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.42883,27.07806,59.42883,27.07806",
+    "geom:latitude":27.07806,
+    "geom:longitude":59.42883,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Azarabad",
+    "gn:country_code":"IR",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7102197,
+    "gn:latitude":27.07806,
+    "gn:longitude":59.42883,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u0100z\u0304ar\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0622\u0630\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0100z\u0304ar\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7102197
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ec37d325e9f56e96f9000022667b7b7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720063,
+            "locality_id":1259707325,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1259707325,
+    "wof:lastmodified":1537648078,
+    "wof:name":"Azarabad",
+    "wof:parent_id":1108720063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.42883000000001,
+    27.07806,
+    59.42883000000001,
+    27.07806
+],
+  "geometry": {"coordinates":[59.42883000000001,27.07806],"type":"Point"}
+}

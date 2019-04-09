@@ -1,0 +1,79 @@
+{
+  "id": 1344086267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.83406,37.18844,56.83406,37.18844",
+    "geom:latitude":37.18844,
+    "geom:longitude":56.83406,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Korf",
+    "gn:country_code":"IR",
+    "gn:dem":1129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":126549,
+    "gn:latitude":37.18844,
+    "gn:longitude":56.83406,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Korf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0641"
+    ],
+    "name:fas_x_variant":[
+        "K\u016brf"
+    ],
+    "name:und_x_variant":[
+        "Kafar",
+        "K\u016brf",
+        "Korf",
+        "\u06a9\u0631\u0641"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672401,
+        1108720073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":126549
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"18f3be1f64514317254ca8171bf1d4ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720073,
+            "locality_id":1344086267,
+            "region_id":85672401
+        }
+    ],
+    "wof:id":1344086267,
+    "wof:lastmodified":1537644460,
+    "wof:name":"Korf",
+    "wof:parent_id":1108720073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.83406,
+    37.18844,
+    56.83406,
+    37.18844
+],
+  "geometry": {"coordinates":[56.83406,37.18844],"type":"Point"}
+}

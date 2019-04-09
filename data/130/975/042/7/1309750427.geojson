@@ -1,0 +1,74 @@
+{
+  "id": 1309750427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.43292,36.43453,52.43292,36.43453",
+    "geom:latitude":36.43453,
+    "geom:longitude":52.43292,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Mahdi Kheyl",
+    "gn:country_code":"IR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8713,
+    "gn:latitude":36.43453,
+    "gn:longitude":52.43292,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mahd\u012b Kheyl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0647\u062f\u06cc \u062e\u064a\u0644"
+    ],
+    "name:fas_x_variant":[
+        "Mahd\u012b Kheyl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8713,
+        "wk:page":"Mahdi_Kheyl"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c11ff126a3e3cd0af4f7a131b9b43dfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719807,
+            "locality_id":1309750427,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1309750427,
+    "wof:lastmodified":1537640450,
+    "wof:name":"Mahdi Kheyl",
+    "wof:parent_id":1108719807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.43292,
+    36.43453,
+    52.43292,
+    36.43453
+],
+  "geometry": {"coordinates":[52.43292,36.43453],"type":"Point"}
+}

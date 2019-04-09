@@ -1,0 +1,74 @@
+{
+  "id": 1343443673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.43608,31.97346,48.43608,31.97346",
+    "geom:latitude":31.97346,
+    "geom:longitude":48.43608,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Seyyed Khashan",
+    "gn:country_code":"IR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":116180,
+    "gn:latitude":31.97346,
+    "gn:longitude":48.43608,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Seyyed Khash\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u062f \u062e\u0634\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Seyyed Khash\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":116180,
+        "wk:page":"Seyyed_Khashan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7de3e5d7488a2570675c17bd0bff4695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720455,
+            "locality_id":1343443673,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1343443673,
+    "wof:lastmodified":1537643424,
+    "wof:name":"Seyyed Khashan",
+    "wof:parent_id":1108720455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.43608,
+    31.97346,
+    48.43608,
+    31.97346
+],
+  "geometry": {"coordinates":[48.43608,31.97346],"type":"Point"}
+}

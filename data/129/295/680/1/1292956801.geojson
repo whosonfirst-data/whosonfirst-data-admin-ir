@@ -1,0 +1,74 @@
+{
+  "id": 1292956801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.7969,33.9276,47.7969,33.9276",
+    "geom:latitude":33.9276,
+    "geom:longitude":47.7969,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Marmang",
+    "gn:country_code":"IR",
+    "gn:dem":1663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6726933,
+    "gn:latitude":33.9276,
+    "gn:longitude":47.7969,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Marmang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u0645\u0646\u06af"
+    ],
+    "name:und_x_variant":[
+        "Marmaneh",
+        "\u0645\u064e\u0631\u0645\u064e\u0646\u0650\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6726933
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"69dd91f510237b948ab7fecf1bd2097c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719959,
+            "locality_id":1292956801,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1292956801,
+    "wof:lastmodified":1537647513,
+    "wof:name":"Marmang",
+    "wof:parent_id":1108719959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.7969,
+    33.9276,
+    47.7969,
+    33.9276
+],
+  "geometry": {"coordinates":[47.7969,33.9276],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226389119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.7096,28.23891,58.7096,28.23891",
+    "geom:latitude":28.23891,
+    "geom:longitude":58.7096,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Galuzaghi",
+    "gn:country_code":"IR",
+    "gn:dem":1224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9101727,
+    "gn:latitude":28.23891,
+    "gn:longitude":58.7096,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Gal\u016bz\u0101gh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0644\u0648\u0632\u0627\u063a\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Gal\u016bz\u0101gh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9101727
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5ed018cb3406067599d761c8ca6c8666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719861,
+            "locality_id":1226389119,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1226389119,
+    "wof:lastmodified":1537648631,
+    "wof:name":"Galuzaghi",
+    "wof:parent_id":1108719861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.7096,
+    28.23891,
+    58.7096,
+    28.23891
+],
+  "geometry": {"coordinates":[58.7096,28.23891],"type":"Point"}
+}

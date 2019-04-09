@@ -1,0 +1,74 @@
+{
+  "id": 1293343687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.97745,36.51338,51.97745,36.51338",
+    "geom:latitude":36.51338,
+    "geom:longitude":51.97745,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Anar Jar",
+    "gn:country_code":"IR",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8113,
+    "gn:latitude":36.51338,
+    "gn:longitude":51.97745,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"An\u0101r J\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u0627\u0631\u062c\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "An\u0101r J\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8113,
+        "wk:page":"Anar_Jar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"41d7168b2450e03e5986e4ed589b6989",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720283,
+            "locality_id":1293343687,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1293343687,
+    "wof:lastmodified":1537640421,
+    "wof:name":"Anar Jar",
+    "wof:parent_id":1108720283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.97745,
+    36.51338,
+    51.97745,
+    36.51338
+],
+  "geometry": {"coordinates":[51.97745,36.51338],"type":"Point"}
+}

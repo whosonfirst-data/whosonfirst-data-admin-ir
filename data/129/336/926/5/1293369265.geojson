@@ -1,0 +1,73 @@
+{
+  "id": 1293369265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.15564,34.30931,47.15564,34.30931",
+    "geom:latitude":34.30931,
+    "geom:longitude":47.15564,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Manuchehrabad",
+    "gn:country_code":"IR",
+    "gn:dem":1296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":23652,
+    "gn:latitude":34.30931,
+    "gn:longitude":47.15564,
+    "gn:modification_date":"2012-07-04",
+    "gn:name":"Man\u016bchehr\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0648\u0686\u0647\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Man\u016bchehr\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":23652
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"464d19003c4c8b620f06e23e2a07d9d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720117,
+            "locality_id":1293369265,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1293369265,
+    "wof:lastmodified":1537641223,
+    "wof:name":"Manuchehrabad",
+    "wof:parent_id":1108720117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.15564000000001,
+    34.30931,
+    47.15564000000001,
+    34.30931
+],
+  "geometry": {"coordinates":[47.15564000000001,34.30931],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1344000863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.27032,36.97481,55.27032,36.97481",
+    "geom:latitude":36.97481,
+    "geom:longitude":55.27032,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Vatan",
+    "gn:country_code":"IR",
+    "gn:dem":993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":39144,
+    "gn:latitude":36.97481,
+    "gn:longitude":55.27032,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Va\u0163an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Va\u0163an"
+    ],
+    "name:fas_x_variant":[
+        "\u0648\u0637\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0648\u0637\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108719839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":39144,
+        "wk:page":"Vatan,_Iran"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0c3da85258161f1df37d9e44e4a487ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719839,
+            "locality_id":1344000863,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1344000863,
+    "wof:lastmodified":1537642195,
+    "wof:name":"Vatan",
+    "wof:parent_id":1108719839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.27032,
+    36.97481,
+    55.27032,
+    36.97481
+],
+  "geometry": {"coordinates":[55.27032,36.97481],"type":"Point"}
+}

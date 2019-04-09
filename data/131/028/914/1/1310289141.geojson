@@ -1,0 +1,78 @@
+{
+  "id": 1310289141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.44323,34.27373,48.44323,34.27373",
+    "geom:latitude":34.27373,
+    "geom:longitude":48.44323,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Hasanabad",
+    "gn:country_code":"IR",
+    "gn:dem":1811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":131841,
+    "gn:latitude":34.27373,
+    "gn:longitude":48.44323,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"\u1e28asan\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062d\u0633\u0646\u0627\u0628\u0627\u062f \u0622\u0628\u062f\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u062d\u0633\u0646 \u0622\u0628\u0627\u062f",
+        "\u1e28asan\u0101b\u0101d-e \u0100bdar",
+        "\u1e28asan\u0101b\u0101d"
+    ],
+    "name:und_x_variant":[
+        "\u1e28asan\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":131841
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fcd74b43de49f5f7b15d1cfa263e49e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720205,
+            "locality_id":1310289141,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1310289141,
+    "wof:lastmodified":1537645009,
+    "wof:name":"Hasanabad",
+    "wof:parent_id":1108720205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.44323,
+    34.27373,
+    48.44323,
+    34.27373
+],
+  "geometry": {"coordinates":[48.44323,34.27373],"type":"Point"}
+}

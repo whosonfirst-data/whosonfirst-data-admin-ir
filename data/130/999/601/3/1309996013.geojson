@@ -1,0 +1,74 @@
+{
+  "id": 1309996013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.86126,36.70973,49.86126,36.70973",
+    "geom:latitude":36.70973,
+    "geom:longitude":49.86126,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Laleh Dasht",
+    "gn:country_code":"IR",
+    "gn:dem":1390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8184889,
+    "gn:latitude":36.70973,
+    "gn:longitude":49.86126,
+    "gn:modification_date":"2018-06-16",
+    "gn:name":"L\u0101leh Dasht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0644\u0647 \u062f\u0634\u062a"
+    ],
+    "name:und_x_variant":[
+        "L\u0101leh Dasht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8184889,
+        "wk:page":"Laleh_Dasht"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d245c4ae22b2b6a52b7401df9bfd8ae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720361,
+            "locality_id":1309996013,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1309996013,
+    "wof:lastmodified":1537648529,
+    "wof:name":"Laleh Dasht",
+    "wof:parent_id":1108720361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.86126,
+    36.70973,
+    49.86126,
+    36.70973
+],
+  "geometry": {"coordinates":[49.86126,36.70973],"type":"Point"}
+}

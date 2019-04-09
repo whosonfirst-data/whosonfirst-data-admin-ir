@@ -1,0 +1,79 @@
+{
+  "id": 1259726567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.15048,36.61016,48.15048,36.61016",
+    "geom:latitude":36.61016,
+    "geom:longitude":48.15048,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Kavand",
+    "gn:country_code":"IR",
+    "gn:dem":2007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":128383,
+    "gn:latitude":36.61016,
+    "gn:longitude":48.15048,
+    "gn:modification_date":"2018-05-02",
+    "gn:name":"K\u0101vand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0627\u0648\u0646\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0643\u064e\u0648\u064a\u064e\u0646\u062f",
+        "K\u0101vand"
+    ],
+    "name:und_x_variant":[
+        "Kavyand",
+        "K\u0101wand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672361,
+        1108720519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":128383,
+        "wk:page":"Kavand,_Zanjan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"82d0100ff0866b9256fd316263127f7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720519,
+            "locality_id":1259726567,
+            "region_id":85672361
+        }
+    ],
+    "wof:id":1259726567,
+    "wof:lastmodified":1537644657,
+    "wof:name":"Kavand",
+    "wof:parent_id":1108720519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.15048,
+    36.61016,
+    48.15048,
+    36.61016
+],
+  "geometry": {"coordinates":[48.15048,36.61016],"type":"Point"}
+}

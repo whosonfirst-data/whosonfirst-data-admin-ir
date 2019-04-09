@@ -1,0 +1,73 @@
+{
+  "id": 1226675815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.92803,37.26165,55.92803,37.26165",
+    "geom:latitude":37.26165,
+    "geom:longitude":55.92803,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Bidak",
+    "gn:country_code":"IR",
+    "gn:dem":1252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7101881,
+    "gn:latitude":37.26165,
+    "gn:longitude":55.92803,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"B\u012bdak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u062f\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "B\u012bdak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672401,
+        1108720073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7101881
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e6a93c9c9c34de61c9bc4c2b05331356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720073,
+            "locality_id":1226675815,
+            "region_id":85672401
+        }
+    ],
+    "wof:id":1226675815,
+    "wof:lastmodified":1537648074,
+    "wof:name":"Bidak",
+    "wof:parent_id":1108720073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.92803000000001,
+    37.26165,
+    55.92803000000001,
+    37.26165
+],
+  "geometry": {"coordinates":[55.92803000000001,37.26165],"type":"Point"}
+}

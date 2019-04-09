@@ -1,0 +1,74 @@
+{
+  "id": 1343256145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.5668,27.9189,55.5668,27.9189",
+    "geom:latitude":27.9189,
+    "geom:longitude":55.5668,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Baluchi",
+    "gn:country_code":"IR",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6981252,
+    "gn:latitude":27.9189,
+    "gn:longitude":55.5668,
+    "gn:modification_date":"2018-06-24",
+    "gn:name":"Bal\u016bch\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0648\u0686\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Bal\u016bch\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6981252,
+        "wk:page":"Baluchi,_Fars"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d348a2f5a969f0a182654de94e454a9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720045,
+            "locality_id":1343256145,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1343256145,
+    "wof:lastmodified":1537647828,
+    "wof:name":"Baluchi",
+    "wof:parent_id":1108720045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.5668,
+    27.9189,
+    55.5668,
+    27.9189
+],
+  "geometry": {"coordinates":[55.5668,27.9189],"type":"Point"}
+}

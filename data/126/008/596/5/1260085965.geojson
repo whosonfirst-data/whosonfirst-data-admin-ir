@@ -1,0 +1,80 @@
+{
+  "id": 1260085965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.18111,26.64861,60.18111,26.64861",
+    "geom:latitude":26.64861,
+    "geom:longitude":60.18111,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kubech",
+    "gn:country_code":"IR",
+    "gn:dem":1085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1160422,
+    "gn:latitude":26.64861,
+    "gn:longitude":60.18111,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"K\u016bbech",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "K\u016bbech"
+    ],
+    "name:fas_x_variant":[
+        "K\u016bpch",
+        "\u06a9\u0648\u0628\u0686",
+        "K\u016bsh"
+    ],
+    "name:und_x_variant":[
+        "Kuch",
+        "K\u016bsh",
+        "\u06a9\u0648\u0628\u0686"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1160422
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ac4900d8e9f6620fdd281aa93a75ef2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720271,
+            "locality_id":1260085965,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1260085965,
+    "wof:lastmodified":1537647041,
+    "wof:name":"Kubech",
+    "wof:parent_id":1108720271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.18111,
+    26.64861,
+    60.18111,
+    26.64861
+],
+  "geometry": {"coordinates":[60.18111,26.64861],"type":"Point"}
+}

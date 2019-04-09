@@ -1,0 +1,82 @@
+{
+  "id": 1293756427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.85636,31.35309,49.85636,31.35309",
+    "geom:latitude":31.35309,
+    "geom:longitude":49.85636,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Sarleh-ye `Olya",
+    "gn:country_code":"IR",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":116858,
+    "gn:latitude":31.35309,
+    "gn:longitude":49.85636,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Sarleh-ye \u2018Oly\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0644\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0631\u0644\u0647 \u0639\u0644\u06cc\u0627"
+    ],
+    "name:und_x_variant":[
+        "Sarileh",
+        "Sarleh",
+        "Sarolan",
+        "Saroleh",
+        "\u0633\u0631\u0644\u0647",
+        "Sarleh-ye \u2018Oly\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":116858,
+        "wk:page":"Saroleh%2C_Khuzestan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fd0800decedb7e4d88d206c519fd544b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719853,
+            "locality_id":1293756427,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1293756427,
+    "wof:lastmodified":1537643484,
+    "wof:name":"Sarleh-ye `Olya",
+    "wof:parent_id":1108719853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.85636,
+    31.35309,
+    49.85636,
+    31.35309
+],
+  "geometry": {"coordinates":[49.85636,31.35309],"type":"Point"}
+}

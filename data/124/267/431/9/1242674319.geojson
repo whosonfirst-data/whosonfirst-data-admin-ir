@@ -1,0 +1,73 @@
+{
+  "id": 1242674319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.3342,29.2855,52.3342,29.2855",
+    "geom:latitude":29.2855,
+    "geom:longitude":52.3342,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Muzir",
+    "gn:country_code":"IR",
+    "gn:dem":1859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6683734,
+    "gn:latitude":29.2855,
+    "gn:longitude":52.3342,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"M\u016bz\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0632\u06cc\u0631"
+    ],
+    "name:fas_x_variant":[
+        "M\u016bz\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6683734
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"db9d9a528d3646c62876c0b49f5784d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720447,
+            "locality_id":1242674319,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1242674319,
+    "wof:lastmodified":1537647366,
+    "wof:name":"Muzir",
+    "wof:parent_id":1108720447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.3342,
+    29.2855,
+    52.3342,
+    29.2855
+],
+  "geometry": {"coordinates":[52.3342,29.2855],"type":"Point"}
+}

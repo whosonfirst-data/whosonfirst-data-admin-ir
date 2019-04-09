@@ -1,0 +1,73 @@
+{
+  "id": 1343331721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.63992,30.70437,48.63992,30.70437",
+    "geom:latitude":30.70437,
+    "geom:longitude":48.63992,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Abu Sadr",
+    "gn:country_code":"IR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242762,
+    "gn:latitude":30.70437,
+    "gn:longitude":48.63992,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Ab\u016b \u015e\u0101dr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u0648 \u0635\u062f\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b \u015e\u0101dr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242762
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"55053fc2fbe76a714c1be9cd7978d773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720425,
+            "locality_id":1343331721,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1343331721,
+    "wof:lastmodified":1537648755,
+    "wof:name":"Abu Sadr",
+    "wof:parent_id":1108720425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.63992,
+    30.70437,
+    48.63992,
+    30.70437
+],
+  "geometry": {"coordinates":[48.63992,30.70437],"type":"Point"}
+}

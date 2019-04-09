@@ -1,0 +1,74 @@
+{
+  "id": 1343528527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.1969,35.6021,51.1969,35.6021",
+    "geom:latitude":35.6021,
+    "geom:longitude":51.1969,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Bahmanabad",
+    "gn:country_code":"IR",
+    "gn:dem":1097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":406466,
+    "gn:latitude":35.6021,
+    "gn:longitude":51.1969,
+    "gn:modification_date":"2018-05-11",
+    "gn:name":"Bahman\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0647\u0645\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Bahman\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672313,
+        1108719985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":406466,
+        "wk:page":"Bahmanabad,_Tehran"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4beac960a1738e1670219f1d907ac85b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719985,
+            "locality_id":1343528527,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1343528527,
+    "wof:lastmodified":1537646621,
+    "wof:name":"Bahmanabad",
+    "wof:parent_id":1108719985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.1969,
+    35.6021,
+    51.1969,
+    35.6021
+],
+  "geometry": {"coordinates":[51.1969,35.6021],"type":"Point"}
+}

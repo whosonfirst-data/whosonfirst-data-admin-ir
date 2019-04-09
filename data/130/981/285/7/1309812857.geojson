@@ -1,0 +1,78 @@
+{
+  "id": 1309812857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.9119,36.5237,45.9119,36.5237",
+    "geom:latitude":36.5237,
+    "geom:longitude":45.9119,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Baghcheh",
+    "gn:country_code":"IR",
+    "gn:dem":1537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":142187,
+    "gn:latitude":36.5237,
+    "gn:longitude":45.9119,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"B\u0101ghcheh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u063a\u0686\u0650\u0647 \u0628\u064f\u0632\u064f\u0631\u06af"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0627\u063a\u0686\u0647",
+        "B\u0101ghcheh",
+        "\u0628\u0627\u063a\u0686\u0650\u0647"
+    ],
+    "name:und_x_variant":[
+        "B\u0101ghcheh Bozorg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108719915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":142187
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d8c56968648e9ca144bc25bb947d00b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719915,
+            "locality_id":1309812857,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1309812857,
+    "wof:lastmodified":1537646047,
+    "wof:name":"Baghcheh",
+    "wof:parent_id":1108719915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.9119,
+    36.5237,
+    45.9119,
+    36.5237
+],
+  "geometry": {"coordinates":[45.9119,36.5237],"type":"Point"}
+}

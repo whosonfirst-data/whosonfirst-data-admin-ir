@@ -1,0 +1,82 @@
+{
+  "id": 1343998213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.59328,36.43456,52.59328,36.43456",
+    "geom:latitude":36.43456,
+    "geom:longitude":52.59328,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Shub Kola",
+    "gn:country_code":"IR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":114830,
+    "gn:latitude":36.43456,
+    "gn:longitude":52.59328,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sh\u016bb Kol\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u064f\u0648\u0628 \u0643\u064f\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u0648\u0628\u0643\u064e\u0644\u0627",
+        "Showb Kol\u0101",
+        "Sh\u016bb Kol\u0101",
+        "\u0634\u0648\u0628 \u0643\u0644\u0627",
+        "Sh\u016bb",
+        "\u0634\u0648\u0628"
+    ],
+    "name:und_x_variant":[
+        "Sh\u016bbkal\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":114830,
+        "wk:page":"Shub_Kola"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ab7005fd5f3902a2574494c05292ef57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719845,
+            "locality_id":1343998213,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1343998213,
+    "wof:lastmodified":1537643303,
+    "wof:name":"Shub Kola",
+    "wof:parent_id":1108719845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.59328000000001,
+    36.43456,
+    52.59328000000001,
+    36.43456
+],
+  "geometry": {"coordinates":[52.59328000000001,36.43456],"type":"Point"}
+}

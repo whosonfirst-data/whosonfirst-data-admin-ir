@@ -1,0 +1,67 @@
+{
+  "id": 1276872191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.20333,29.44778,60.20333,29.44778",
+    "geom:latitude":29.44778,
+    "geom:longitude":60.20333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Golak",
+    "gn:country_code":"IR",
+    "gn:dem":1642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1161125,
+    "gn:latitude":29.44778,
+    "gn:longitude":60.20333,
+    "gn:modification_date":"1996-12-31",
+    "gn:name":"Golak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1161125
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1f2aa03f1a882b073b75484bc6d3a71a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720517,
+            "locality_id":1276872191,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1276872191,
+    "wof:lastmodified":1537049371,
+    "wof:name":"Golak",
+    "wof:parent_id":1108720517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.20333,
+    29.44778,
+    60.20333,
+    29.44778
+],
+  "geometry": {"coordinates":[60.20333,29.44778],"type":"Point"}
+}

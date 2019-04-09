@@ -1,0 +1,80 @@
+{
+  "id": 1226493569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.52479,33.80988,56.52479,33.80988",
+    "geom:latitude":33.80988,
+    "geom:longitude":56.52479,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Bisheh",
+    "gn:country_code":"IR",
+    "gn:dem":980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":140446,
+    "gn:latitude":33.80988,
+    "gn:longitude":56.52479,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"B\u012bsheh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "B\u012bsheh-ye B\u0101l\u0101"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u064a\u0634\u0647 \u0628\u0627\u0644\u0627",
+        "B\u012bsheh",
+        "\u0628\u064a\u0634\u0647",
+        "\u0628\u064a\u0634\u0647 \u0639\u0644\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "B\u012bsheh",
+        "B\u012bsheh-ye \u2018Oly\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108720469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140446
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"961232df4fd7330fa9a5e6077b5027cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720469,
+            "locality_id":1226493569,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1226493569,
+    "wof:lastmodified":1537645877,
+    "wof:name":"Bisheh",
+    "wof:parent_id":1108720469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.52479,
+    33.80988,
+    56.52479,
+    33.80988
+],
+  "geometry": {"coordinates":[56.52479,33.80988],"type":"Point"}
+}

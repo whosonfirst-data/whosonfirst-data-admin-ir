@@ -1,0 +1,73 @@
+{
+  "id": 1343507865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.72153,28.01742,58.72153,28.01742",
+    "geom:latitude":28.01742,
+    "geom:longitude":58.72153,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Tahtali",
+    "gn:country_code":"IR",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7058367,
+    "gn:latitude":28.01742,
+    "gn:longitude":58.72153,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Ta\u1e29t\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u062d\u062a\u0627\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Ta\u1e29t\u0101l\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7058367
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ff2a553278f98732f137e01ea12faba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720363,
+            "locality_id":1343507865,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1343507865,
+    "wof:lastmodified":1537647966,
+    "wof:name":"Tahtali",
+    "wof:parent_id":1108720363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.72153,
+    28.01742,
+    58.72153,
+    28.01742
+],
+  "geometry": {"coordinates":[58.72153,28.01742],"type":"Point"}
+}

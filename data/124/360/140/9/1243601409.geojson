@@ -1,0 +1,73 @@
+{
+  "id": 1243601409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.7587,33.4354,53.7587,33.4354",
+    "geom:latitude":33.4354,
+    "geom:longitude":53.7587,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Soheyl-e Kuchak",
+    "gn:country_code":"IR",
+    "gn:dem":1355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7054654,
+    "gn:latitude":33.4354,
+    "gn:longitude":53.7587,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Soheyl-e K\u016bchak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0647\u06cc\u0644 \u06a9\u0648\u0686\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "Soheyl-e K\u016bchak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7054654
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d6c793d690ce865c36658694acaeb751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720255,
+            "locality_id":1243601409,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1243601409,
+    "wof:lastmodified":1537647962,
+    "wof:name":"Soheyl-e Kuchak",
+    "wof:parent_id":1108720255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.7587,
+    33.4354,
+    53.7587,
+    33.4354
+],
+  "geometry": {"coordinates":[53.7587,33.4354],"type":"Point"}
+}

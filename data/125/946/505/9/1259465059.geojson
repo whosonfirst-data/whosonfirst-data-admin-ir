@@ -1,0 +1,77 @@
+{
+  "id": 1259465059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.5084,35.5173,46.5084,35.5173",
+    "geom:latitude":35.5173,
+    "geom:longitude":46.5084,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Jalileh",
+    "gn:country_code":"IR",
+    "gn:dem":1637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":130457,
+    "gn:latitude":35.5173,
+    "gn:longitude":46.5084,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Jal\u012bleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Jal\u012bleh"
+    ],
+    "name:fas_x_variant":[
+        "\u062c\u0644\u064a\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "Jalile"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":130457,
+        "wk:page":"Jalileh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fa753f8bfacc435f3d051f566206a243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720221,
+            "locality_id":1259465059,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1259465059,
+    "wof:lastmodified":1537644869,
+    "wof:name":"Jalileh",
+    "wof:parent_id":1108720221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.5084,
+    35.5173,
+    46.5084,
+    35.5173
+],
+  "geometry": {"coordinates":[46.5084,35.5173],"type":"Point"}
+}

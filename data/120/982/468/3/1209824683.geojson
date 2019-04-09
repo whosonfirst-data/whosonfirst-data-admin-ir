@@ -1,0 +1,75 @@
+{
+  "id": 1209824683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.1851,36.9672,45.1851,36.9672",
+    "geom:latitude":36.9672,
+    "geom:longitude":45.1851,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Deh Gorji",
+    "gn:country_code":"IR",
+    "gn:dem":1392,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3369,
+    "gn:latitude":36.9672,
+    "gn:longitude":45.1851,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Deh Gorj\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647 \u06af\u0631\u062c\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Deh Gorj\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3369,
+        "wk:page":"Deh_Gorji"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e5c50ef39ec83d3d658d22f993bc86fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720291,
+            "locality_id":1209824683,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1209824683,
+    "wof:lastmodified":1537640247,
+    "wof:name":"Deh Gorji",
+    "wof:parent_id":1108720291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.1851,
+    36.9672,
+    45.1851,
+    36.9672
+],
+  "geometry": {"coordinates":[45.1851,36.9672],"type":"Point"}
+}

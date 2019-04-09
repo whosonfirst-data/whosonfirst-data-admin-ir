@@ -1,0 +1,73 @@
+{
+  "id": 1209739049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.80136,27.77066,61.80136,27.77066",
+    "geom:latitude":27.77066,
+    "geom:longitude":61.80136,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gana'i",
+    "gn:country_code":"IR",
+    "gn:dem":1466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8686440,
+    "gn:latitude":27.77066,
+    "gn:longitude":61.80136,
+    "gn:modification_date":"2014-01-19",
+    "gn:name":"Gan\u0101\u2019\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0646\u0627\u06cc\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Gan\u0101\u2019\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8686440
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"75a9b70ac0f776251783c3f94335a6c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720389,
+            "locality_id":1209739049,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1209739049,
+    "wof:lastmodified":1537648603,
+    "wof:name":"Gana'i",
+    "wof:parent_id":1108720389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.80136,
+    27.77066,
+    61.80136,
+    27.77066
+],
+  "geometry": {"coordinates":[61.80136,27.77066],"type":"Point"}
+}

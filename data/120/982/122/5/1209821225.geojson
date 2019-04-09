@@ -1,0 +1,74 @@
+{
+  "id": 1209821225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.0101,28.45603,60.0101,28.45603",
+    "geom:latitude":28.45603,
+    "geom:longitude":60.0101,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Zabrabad",
+    "gn:country_code":"IR",
+    "gn:dem":862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7075710,
+    "gn:latitude":28.45603,
+    "gn:longitude":60.0101,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Zabr\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u0628\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Zabr\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7075710,
+        "wk:page":"Zabrabad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f2ff9f747f8ac9e5dea2e3b591533135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720063,
+            "locality_id":1209821225,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1209821225,
+    "wof:lastmodified":1537648011,
+    "wof:name":"Zabrabad",
+    "wof:parent_id":1108720063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.0101,
+    28.45603,
+    60.0101,
+    28.45603
+],
+  "geometry": {"coordinates":[60.0101,28.45603],"type":"Point"}
+}

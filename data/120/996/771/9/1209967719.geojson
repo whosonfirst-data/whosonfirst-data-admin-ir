@@ -1,0 +1,76 @@
+{
+  "id": 1209967719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.18333,32.98333,51.18333,32.98333",
+    "geom:latitude":32.98333,
+    "geom:longitude":51.18333,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Mir Qasem",
+    "gn:country_code":"IR",
+    "gn:dem":2236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":418383,
+    "gn:latitude":32.98333,
+    "gn:longitude":51.18333,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"M\u012br Q\u0101sem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0645\u064a\u0631 \u0642\u0627\u0633\u0650\u0645"
+    ],
+    "name:fas_x_variant":[
+        "M\u012br Q\u0101sem"
+    ],
+    "name:und_x_variant":[
+        "M\u012br Q\u0101sim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":418383
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f2b83f926eba9cc3819dfad0f7b52cea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720261,
+            "locality_id":1209967719,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1209967719,
+    "wof:lastmodified":1537646714,
+    "wof:name":"Mir Qasem",
+    "wof:parent_id":1108720261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.18333,
+    32.98333,
+    51.18333,
+    32.98333
+],
+  "geometry": {"coordinates":[51.18333,32.98333],"type":"Point"}
+}

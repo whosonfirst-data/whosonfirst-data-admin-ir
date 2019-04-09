@@ -1,0 +1,73 @@
+{
+  "id": 1326573971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.23073,36.27036,52.23073,36.27036",
+    "geom:latitude":36.27036,
+    "geom:longitude":52.23073,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Qazi Kola",
+    "gn:country_code":"IR",
+    "gn:dem":2028,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":873,
+    "gn:latitude":36.27036,
+    "gn:longitude":52.23073,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Q\u0101\u1e95\u012b Kol\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0642\u0627\u0636\u06cc \u0643\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "Q\u0101\u1e95\u012b Kol\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":873
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4d12fcfb92b280902493fa5013cb012c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719807,
+            "locality_id":1326573971,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1326573971,
+    "wof:lastmodified":1537640148,
+    "wof:name":"Qazi Kola",
+    "wof:parent_id":1108719807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.23073,
+    36.27036,
+    52.23073,
+    36.27036
+],
+  "geometry": {"coordinates":[52.23073,36.27036],"type":"Point"}
+}

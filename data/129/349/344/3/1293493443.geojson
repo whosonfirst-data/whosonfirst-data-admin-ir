@@ -1,0 +1,73 @@
+{
+  "id": 1293493443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.97949,30.47593,59.97949,30.47593",
+    "geom:latitude":30.47593,
+    "geom:longitude":59.97949,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Abkhoran",
+    "gn:country_code":"IR",
+    "gn:dem":1252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171516,
+    "gn:latitude":30.47593,
+    "gn:longitude":59.97949,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"\u0100bkhor\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0628\u062e\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0100bkhor\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171516
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"625099d097e0e7e309206374277c785d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720517,
+            "locality_id":1293493443,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1293493443,
+    "wof:lastmodified":1537648735,
+    "wof:name":"Abkhoran",
+    "wof:parent_id":1108720517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.97949000000001,
+    30.47593,
+    59.97949000000001,
+    30.47593
+],
+  "geometry": {"coordinates":[59.97949000000001,30.47593],"type":"Point"}
+}

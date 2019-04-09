@@ -1,0 +1,76 @@
+{
+  "id": 1343302253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.73091,36.64151,50.73091,36.64151",
+    "geom:latitude":36.64151,
+    "geom:longitude":50.73091,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Barseh",
+    "gn:country_code":"IR",
+    "gn:dem":1396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":141197,
+    "gn:latitude":36.64151,
+    "gn:longitude":50.73091,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"Barseh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0633\u0647"
+    ],
+    "name:und_x_variant":[
+        "Baraseh",
+        "\u0628\u0631\u0633\u0647",
+        "Barseh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":141197,
+        "wk:page":"Barseh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"08283d2c400688cb8e815c232410bd1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720495,
+            "locality_id":1343302253,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1343302253,
+    "wof:lastmodified":1537645954,
+    "wof:name":"Barseh",
+    "wof:parent_id":1108720495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.73091,
+    36.64151,
+    50.73091,
+    36.64151
+],
+  "geometry": {"coordinates":[50.73091,36.64151],"type":"Point"}
+}

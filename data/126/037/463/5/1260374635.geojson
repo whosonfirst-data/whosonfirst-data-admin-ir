@@ -1,0 +1,81 @@
+{
+  "id": 1260374635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.61675,34.41362,48.61675,34.41362",
+    "geom:latitude":34.41362,
+    "geom:longitude":48.61675,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Zir Abiyeh",
+    "gn:country_code":"IR",
+    "gn:dem":1675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110992,
+    "gn:latitude":34.41362,
+    "gn:longitude":48.61675,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Z\u012br \u0100b\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u064a\u0631\u064a\u0646\u0650\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Z\u012br\u0101b\u012byeh",
+        "\u0632\u06cc\u0631\u0627\u0628\u06cc\u0651\u0647",
+        "Z\u012br \u0100b\u012byeh",
+        "\u0632\u06cc\u0631 \u0622\u0628\u06cc\u0647"
+    ],
+    "name:und_x_variant":[
+        "Z\u012br\u012bneh",
+        "Z\u012br\u0101byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110992,
+        "wk:page":"Zirabiyeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cb344faede68396e2256dd2e058db7f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720205,
+            "locality_id":1260374635,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1260374635,
+    "wof:lastmodified":1537642934,
+    "wof:name":"Zir Abiyeh",
+    "wof:parent_id":1108720205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.61675,
+    34.41362,
+    48.61675,
+    34.41362
+],
+  "geometry": {"coordinates":[48.61675,34.41362],"type":"Point"}
+}

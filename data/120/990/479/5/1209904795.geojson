@@ -1,0 +1,74 @@
+{
+  "id": 1209904795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.85446,33.44064,46.85446,33.44064",
+    "geom:latitude":33.44064,
+    "geom:longitude":46.85446,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Talkhan",
+    "gn:country_code":"IR",
+    "gn:dem":1238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":401556,
+    "gn:latitude":33.44064,
+    "gn:longitude":46.85446,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Talkh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0644\u062e\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Talkh\u0101b",
+        "Talkh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108719947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401556
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ea1c03a4309d9ece5735d98c6ddb2684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719947,
+            "locality_id":1209904795,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1209904795,
+    "wof:lastmodified":1537646531,
+    "wof:name":"Talkhan",
+    "wof:parent_id":1108719947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.85446,
+    33.44064,
+    46.85446,
+    33.44064
+],
+  "geometry": {"coordinates":[46.85446,33.44064],"type":"Point"}
+}

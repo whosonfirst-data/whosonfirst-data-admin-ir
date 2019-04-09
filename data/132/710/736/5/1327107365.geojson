@@ -1,0 +1,78 @@
+{
+  "id": 1327107365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.787,32.02462,49.787,32.02462",
+    "geom:latitude":32.02462,
+    "geom:longitude":49.787,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Ab Anbar",
+    "gn:country_code":"IR",
+    "gn:dem":969,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":33337,
+    "gn:latitude":32.02462,
+    "gn:longitude":49.787,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"\u0100b Anb\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sar Anb\u0101r-e K\u0101shgel\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u0628 \u0627\u0646\u0628\u0627\u0631",
+        "\u0633\u0631 \u0627\u0646\u0628\u0627\u0631 \u06a9\u0627\u0634\u06a9\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0100b Anb\u0101r",
+        "Sar Anb\u0101r-e K\u0101shkel\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":33337
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b025b5d2ad549dc63692684d7c8b8275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720067,
+            "locality_id":1327107365,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1327107365,
+    "wof:lastmodified":1537641862,
+    "wof:name":"Ab Anbar",
+    "wof:parent_id":1108720067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.787,
+    32.02462,
+    49.787,
+    32.02462
+],
+  "geometry": {"coordinates":[49.787,32.02462],"type":"Point"}
+}

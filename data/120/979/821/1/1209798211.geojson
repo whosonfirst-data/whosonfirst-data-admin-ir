@@ -1,0 +1,76 @@
+{
+  "id": 1209798211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.13671,32.11555,49.13671,32.11555",
+    "geom:latitude":32.11555,
+    "geom:longitude":49.13671,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Ebrahim",
+    "gn:country_code":"IR",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":135543,
+    "gn:latitude":32.11555,
+    "gn:longitude":49.13671,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Ebr\u0101h\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Ebr\u0101h\u012bm"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0628\u0631\u0627\u0647\u06cc\u0645"
+    ],
+    "name:und_x_variant":[
+        "Ebr\u0101h\u012bm\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":135543
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3e56f1a06f409034b3285ee9bb936ac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720229,
+            "locality_id":1209798211,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1209798211,
+    "wof:lastmodified":1537645382,
+    "wof:name":"Ebrahim",
+    "wof:parent_id":1108720229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.13671,
+    32.11555,
+    49.13671,
+    32.11555
+],
+  "geometry": {"coordinates":[49.13671,32.11555],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1209378845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.5421,35.5457,46.5421,35.5457",
+    "geom:latitude":35.5457,
+    "geom:longitude":46.5421,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Qatvand",
+    "gn:country_code":"IR",
+    "gn:dem":1654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":119558,
+    "gn:latitude":35.5457,
+    "gn:longitude":46.5421,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Qa\u0163vand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u064e\u0637\u0648\u064e\u0646\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0642\u064e\u062a\u0650\u0647 \u0648\u064e\u0646\u062f",
+        "\u0643\u064e\u062a\u0648\u0646",
+        "\u0642\u064e\u062a\u0627\u0648\u064f\u0646",
+        "\u0643\u064e\u062a\u0651\u0648\u0646",
+        "Qa\u0163\u0101van",
+        "\u0642\u064e\u0637\u0627\u0648\u064e\u0646",
+        "Qa\u0163\u0101vand",
+        "\u0642\u0637\u0648\u0646\u062f"
+    ],
+    "name:und_x_variant":[
+        "Katt\u016bn",
+        "Qateh Vand",
+        "Kat\u016bn",
+        "Qat\u0101von",
+        "Qa\u0163vand",
+        "\u0642\u0637\u0627\u0648\u0646\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":119558,
+        "wk:page":"Qatavand"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7d2900f9b1c91f20edbce43ae5f33c42",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209378845
+        }
+    ],
+    "wof:id":1209378845,
+    "wof:lastmodified":1537643759,
+    "wof:name":"Qatvand",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.5421,
+    35.5457,
+    46.5421,
+    35.5457
+],
+  "geometry": {"coordinates":[46.5421,35.5457],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310487755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.88389,34.29194,45.88389,34.29194",
+    "geom:latitude":34.29194,
+    "geom:longitude":45.88389,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Shahmar-e Direh",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":25102,
+    "gn:latitude":34.29194,
+    "gn:longitude":45.88389,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sh\u0101hm\u0101r-e D\u012breh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sh\u0101hm\u0101r-e D\u012breh"
+    ],
+    "name:und_x_variant":[
+        "Sh\u0101hm\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":25102
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"31ce45897f880af93eb7b4b1e2913cb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720031,
+            "locality_id":1310487755,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1310487755,
+    "wof:lastmodified":1537641312,
+    "wof:name":"Shahmar-e Direh",
+    "wof:parent_id":1108720031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.88389,
+    34.29194,
+    45.88389,
+    34.29194
+],
+  "geometry": {"coordinates":[45.88389,34.29194],"type":"Point"}
+}

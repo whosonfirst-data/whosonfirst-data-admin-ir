@@ -1,0 +1,78 @@
+{
+  "id": 1343499483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.96898,31.78446,55.96898,31.78446",
+    "geom:latitude":31.78446,
+    "geom:longitude":55.96898,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Jangal",
+    "gn:country_code":"IR",
+    "gn:dem":1997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":130379,
+    "gn:latitude":31.78446,
+    "gn:longitude":55.96898,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Jangal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u064e\u0646\u06af\u064e\u0644\u0650 \u0639\u064e\u0644\u064a\u0631\u0650\u0636\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u062c\u064e\u0646\u06af\u064e\u0644",
+        "Jangal-e \u2018Al\u012bre\u1e95\u0101",
+        "\u062c\u0646\u06af\u0644"
+    ],
+    "name:und_x_variant":[
+        "\u062c\u0646\u06af\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108719849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":130379
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"76b4d2dcb2956f30b94e6e0cc93a7984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719849,
+            "locality_id":1343499483,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1343499483,
+    "wof:lastmodified":1537644860,
+    "wof:name":"Jangal",
+    "wof:parent_id":1108719849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.96898,
+    31.78446,
+    55.96898,
+    31.78446
+],
+  "geometry": {"coordinates":[55.96898,31.78446],"type":"Point"}
+}

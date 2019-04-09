@@ -1,0 +1,78 @@
+{
+  "id": 1310543947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.52524,37.34655,55.52524,37.34655",
+    "geom:latitude":37.34655,
+    "geom:longitude":55.52524,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Chaqar Shir Melli",
+    "gn:country_code":"IR",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9533,
+    "gn:latitude":37.34655,
+    "gn:longitude":55.52524,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Chaqar Sh\u012br Mell\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Chaqar Sh\u012br Mell\u012b"
+    ],
+    "name:fas_x_variant":[
+        "Chaqar Sh\u012br Mel\u012b",
+        "\u0686\u0642\u0631 \u0634\u064a\u0631 \u0645\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0686\u0642\u0631 \u0634\u064a\u0631 \u0645\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9533,
+        "wk:page":"Chaqar_Shir_Melli"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"df635e927bbd46687e9ebe14a212a6c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720093,
+            "locality_id":1310543947,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1310543947,
+    "wof:lastmodified":1537640491,
+    "wof:name":"Chaqar Shir Melli",
+    "wof:parent_id":1108720093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.52524,
+    37.34655,
+    55.52524,
+    37.34655
+],
+  "geometry": {"coordinates":[55.52524,37.34655],"type":"Point"}
+}

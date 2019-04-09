@@ -1,0 +1,73 @@
+{
+  "id": 1226619007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.02782,31.49551,50.02782,31.49551",
+    "geom:latitude":31.49551,
+    "geom:longitude":50.02782,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Boneh Hendi",
+    "gn:country_code":"IR",
+    "gn:dem":1403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8415364,
+    "gn:latitude":31.49551,
+    "gn:longitude":50.02782,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"Boneh Hend\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0628\u0646\u0647 \u0647\u0646\u062f\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Boneh Hend\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8415364
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ed3d6b0a4f264e5994230700faa0ddf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719853,
+            "locality_id":1226619007,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1226619007,
+    "wof:lastmodified":1537648557,
+    "wof:name":"Boneh Hendi",
+    "wof:parent_id":1108719853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.02782,
+    31.49551,
+    50.02782,
+    31.49551
+],
+  "geometry": {"coordinates":[50.02782,31.49551],"type":"Point"}
+}

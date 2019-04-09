@@ -1,0 +1,79 @@
+{
+  "id": 1326912965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.96942,30.72296,48.96942,30.72296",
+    "geom:latitude":30.72296,
+    "geom:longitude":48.96942,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Rufeh",
+    "gn:country_code":"IR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":12666,
+    "gn:latitude":30.72296,
+    "gn:longitude":48.96942,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"R\u016bfeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "R\u016bfeh"
+    ],
+    "name:fas_x_variant":[
+        "\u0631\u0648\u0641\u0647"
+    ],
+    "name:und_x_variant":[
+        "Rowfeh",
+        "\u0631\u0648\u0641\u0647",
+        "Rowqeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12666,
+        "wk:page":"Rowfeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a6ad01da3f63488b4b8525423fe58cb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719871,
+            "locality_id":1326912965,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1326912965,
+    "wof:lastmodified":1537640671,
+    "wof:name":"Rufeh",
+    "wof:parent_id":1108719871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.96942,
+    30.72296,
+    48.96942,
+    30.72296
+],
+  "geometry": {"coordinates":[48.96942,30.72296],"type":"Point"}
+}

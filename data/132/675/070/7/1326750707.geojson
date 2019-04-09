@@ -1,0 +1,67 @@
+{
+  "id": 1326750707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.51583,30.27333,51.51583,30.27333",
+    "geom:latitude":30.27333,
+    "geom:longitude":51.51583,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Bagurin",
+    "gn:country_code":"IR",
+    "gn:dem":1219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":47259,
+    "gn:latitude":30.27333,
+    "gn:longitude":51.51583,
+    "gn:modification_date":"1998-04-08",
+    "gn:name":"B\u0101g\u016br\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":47259
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0d9ec0992138bdf75a238477e0a07fc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720209,
+            "locality_id":1326750707,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1326750707,
+    "wof:lastmodified":1536669085,
+    "wof:name":"Bagurin",
+    "wof:parent_id":1108720209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.51583,
+    30.27333,
+    51.51583,
+    30.27333
+],
+  "geometry": {"coordinates":[51.51583,30.27333],"type":"Point"}
+}

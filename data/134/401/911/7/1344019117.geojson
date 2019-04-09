@@ -1,0 +1,73 @@
+{
+  "id": 1344019117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.70023,27.78854,58.70023,27.78854",
+    "geom:latitude":27.78854,
+    "geom:longitude":58.70023,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Rigak",
+    "gn:country_code":"IR",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7052411,
+    "gn:latitude":27.78854,
+    "gn:longitude":58.70023,
+    "gn:modification_date":"2014-05-01",
+    "gn:name":"R\u012bgak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u06af\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "R\u012bgak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7052411
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7a89b6911916f3c7c28fe9ad20a5b662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720363,
+            "locality_id":1344019117,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1344019117,
+    "wof:lastmodified":1537647953,
+    "wof:name":"Rigak",
+    "wof:parent_id":1108720363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.70023000000001,
+    27.78854,
+    58.70023000000001,
+    27.78854
+],
+  "geometry": {"coordinates":[58.70023000000001,27.78854],"type":"Point"}
+}

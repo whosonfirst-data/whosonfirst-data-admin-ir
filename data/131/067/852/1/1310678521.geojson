@@ -1,0 +1,73 @@
+{
+  "id": 1310678521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.9575,27.1938,56.9575,27.1938",
+    "geom:latitude":27.1938,
+    "geom:longitude":56.9575,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Dow Teflan",
+    "gn:country_code":"IR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6654508,
+    "gn:latitude":27.1938,
+    "gn:longitude":56.9575,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Dow \u0162efl\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0648 \u0637\u0641\u0644\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Dow \u0162efl\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6654508
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6d8f22664f5b09ba8a1fc71ca4f3d7cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720243,
+            "locality_id":1310678521,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1310678521,
+    "wof:lastmodified":1537647235,
+    "wof:name":"Dow Teflan",
+    "wof:parent_id":1108720243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.9575,
+    27.1938,
+    56.9575,
+    27.1938
+],
+  "geometry": {"coordinates":[56.9575,27.1938],"type":"Point"}
+}

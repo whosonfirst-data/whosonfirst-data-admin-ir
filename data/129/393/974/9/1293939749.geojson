@@ -1,0 +1,73 @@
+{
+  "id": 1293939749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.29606,27.86184,52.29606,27.86184",
+    "geom:latitude":27.86184,
+    "geom:longitude":52.29606,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Akbarabad",
+    "gn:country_code":"IR",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":144417,
+    "gn:latitude":27.86184,
+    "gn:longitude":52.29606,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Akbar\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0643\u0628\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Akbar\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108720075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":144417
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4ca8b4eab75d6358363f3de5992d17e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720075,
+            "locality_id":1293939749,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1293939749,
+    "wof:lastmodified":1537646267,
+    "wof:name":"Akbarabad",
+    "wof:parent_id":1108720075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.29606,
+    27.86184,
+    52.29606,
+    27.86184
+],
+  "geometry": {"coordinates":[52.29606,27.86184],"type":"Point"}
+}

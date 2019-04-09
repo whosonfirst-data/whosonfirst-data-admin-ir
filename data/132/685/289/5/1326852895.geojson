@@ -1,0 +1,76 @@
+{
+  "id": 1326852895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.39924,30.50792,51.39924,30.50792",
+    "geom:latitude":30.50792,
+    "geom:longitude":51.39924,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Khesht Dun",
+    "gn:country_code":"IR",
+    "gn:dem":1480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7490687,
+    "gn:latitude":30.50792,
+    "gn:longitude":51.39924,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Khesht D\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Khesht D\u016bn"
+    ],
+    "name:fas_x_variant":[
+        "\u062e\u0634\u062a \u062f\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u062e\u0634\u062a \u062f\u0648\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108719911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7490687
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ba423cb50d02c6133a10d395a638c885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719911,
+            "locality_id":1326852895,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1326852895,
+    "wof:lastmodified":1537648259,
+    "wof:name":"Khesht Dun",
+    "wof:parent_id":1108719911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.39924,
+    30.50792,
+    51.39924,
+    30.50792
+],
+  "geometry": {"coordinates":[51.39924,30.50792],"type":"Point"}
+}

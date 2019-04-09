@@ -1,0 +1,80 @@
+{
+  "id": 1260341995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.25999,36.51524,51.25999,36.51524",
+    "geom:latitude":36.51524,
+    "geom:longitude":51.25999,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kalnow-ye `Olya",
+    "gn:country_code":"IR",
+    "gn:dem":1215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8534415,
+    "gn:latitude":36.51524,
+    "gn:longitude":51.25999,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Kalnow-ye \u2018Oly\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0644\u0646\u0648 \u0628\u0627\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0644\u0646\u0648 \u0639\u0644\u06cc\u0627",
+        "\u06a9\u0644\u0646\u0648"
+    ],
+    "name:und_x_variant":[
+        "Kalenow-ye B\u0101l\u0101",
+        "Kalnow-ye \u2018Oly\u0101",
+        "Kalnow-ye B\u0101l\u0101",
+        "Kalnow"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8534415
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"da6e09fa4ecc578b2206f857fc90acae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719925,
+            "locality_id":1260341995,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1260341995,
+    "wof:lastmodified":1537648574,
+    "wof:name":"Kalnow-ye `Olya",
+    "wof:parent_id":1108719925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.25999,
+    36.51524000000001,
+    51.25999,
+    36.51524000000001
+],
+  "geometry": {"coordinates":[51.25999,36.51524000000001],"type":"Point"}
+}

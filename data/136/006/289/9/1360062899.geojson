@@ -1,0 +1,74 @@
+{
+  "id": 1360062899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.03286,28.05165,56.03286,28.05165",
+    "geom:latitude":28.05165,
+    "geom:longitude":56.03286,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Baghan",
+    "gn:country_code":"IR",
+    "gn:dem":1336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":142212,
+    "gn:latitude":28.05165,
+    "gn:longitude":56.03286,
+    "gn:modification_date":"2018-07-06",
+    "gn:name":"B\u0101gh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u063a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "B\u0101gh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":142212,
+        "wk:page":"Baghan,_Hajjiabad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"03dee8cbbe447eba071793865d82a5ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720045,
+            "locality_id":1360062899,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1360062899,
+    "wof:lastmodified":1537646050,
+    "wof:name":"Baghan",
+    "wof:parent_id":1108720045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.03286,
+    28.05165,
+    56.03286,
+    28.05165
+],
+  "geometry": {"coordinates":[56.03286,28.05165],"type":"Point"}
+}

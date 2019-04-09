@@ -1,0 +1,77 @@
+{
+  "id": 1260182041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.1478,26.1077,60.1478,26.1077",
+    "geom:latitude":26.1077,
+    "geom:longitude":60.1478,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Apeshki",
+    "gn:country_code":"IR",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1161889,
+    "gn:latitude":26.1077,
+    "gn:longitude":60.1478,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u0100peshk\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u067e\u0634\u06a9\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0100peshk\u012b"
+    ],
+    "name:und_x_variant":[
+        "\u0100beshk\u012b",
+        "\u0100b Shek\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1161889
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"56ae9a6802ec33c64331ca691c1c1cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720271,
+            "locality_id":1260182041,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1260182041,
+    "wof:lastmodified":1537647151,
+    "wof:name":"Apeshki",
+    "wof:parent_id":1108720271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.1478,
+    26.1077,
+    60.1478,
+    26.1077
+],
+  "geometry": {"coordinates":[60.1478,26.1077],"type":"Point"}
+}

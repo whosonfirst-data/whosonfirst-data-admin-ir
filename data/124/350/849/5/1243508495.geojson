@@ -1,0 +1,73 @@
+{
+  "id": 1243508495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.52361,39.02194,47.52361,39.02194",
+    "geom:latitude":39.02194,
+    "geom:longitude":47.52361,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Hoseyn Beyglu",
+    "gn:country_code":"IR",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":16972,
+    "gn:latitude":39.02194,
+    "gn:longitude":47.52361,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28oseyn Beygl\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u064f\u0633\u0650\u064a\u0646 \u0628\u0650\u064a\u06af\u0644\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28oseyn Beygl\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":16972
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6f83175b0d38671e73057138fa5cbeee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720021,
+            "locality_id":1243508495,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1243508495,
+    "wof:lastmodified":1537640913,
+    "wof:name":"Hoseyn Beyglu",
+    "wof:parent_id":1108720021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.52361,
+    39.02194,
+    47.52361,
+    39.02194
+],
+  "geometry": {"coordinates":[47.52361,39.02194],"type":"Point"}
+}

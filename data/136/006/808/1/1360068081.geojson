@@ -1,0 +1,73 @@
+{
+  "id": 1360068081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.47283,31.96839,49.47283,31.96839",
+    "geom:latitude":31.96839,
+    "geom:longitude":49.47283,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Qasr-e Dalu",
+    "gn:country_code":"IR",
+    "gn:dem":746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11596539,
+    "gn:latitude":31.96839,
+    "gn:longitude":49.47283,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Qa\u015fr-e D\u0101l\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0635\u0631 \u062f\u0627\u0644\u0648"
+    ],
+    "name:und_x_variant":[
+        "Qa\u015fr-e D\u0101l\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11596539
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c3a9a1107e14e5d5afa28d284e877304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720229,
+            "locality_id":1360068081,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1360068081,
+    "wof:lastmodified":1537648797,
+    "wof:name":"Qasr-e Dalu",
+    "wof:parent_id":1108720229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.47283,
+    31.96839000000001,
+    49.47283,
+    31.96839000000001
+],
+  "geometry": {"coordinates":[49.47283,31.96839000000001],"type":"Point"}
+}

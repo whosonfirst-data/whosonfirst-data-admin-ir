@@ -1,0 +1,77 @@
+{
+  "id": 1243495403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.4316,38.4256,45.4316,38.4256",
+    "geom:latitude":38.4256,
+    "geom:longitude":45.4316,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Sorkheh",
+    "gn:country_code":"IR",
+    "gn:dem":1305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":113948,
+    "gn:latitude":38.4256,
+    "gn:longitude":45.4316,
+    "gn:modification_date":"2018-05-20",
+    "gn:name":"Sorkheh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u062e\u0647"
+    ],
+    "name:und_x_variant":[
+        "Seraz",
+        "Sar\u0101y",
+        "Serar",
+        "Sorkheh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":113948,
+        "wk:page":"Sorkheh,_Bostanabad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ea92bfe53ed82ea13ae482a7e39343f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720219,
+            "locality_id":1243495403,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1243495403,
+    "wof:lastmodified":1537643237,
+    "wof:name":"Sorkheh",
+    "wof:parent_id":1108720219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.4316,
+    38.4256,
+    45.4316,
+    38.4256
+],
+  "geometry": {"coordinates":[45.4316,38.4256],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1259753081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.64806,31.35993,49.64806,31.35993",
+    "geom:latitude":31.35993,
+    "geom:longitude":49.64806,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mantaqeh-ye Barm-e Gandab",
+    "gn:country_code":"IR",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388777,
+    "gn:latitude":31.35993,
+    "gn:longitude":49.64806,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Man\u0163aqeh-ye Barm-e Gand\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Barm-e Gond\u0101b"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0631\u0645 \u06af\u0646\u062f\u0627\u0628",
+        "\u0645\u0646\u0637\u0642\u0647 \u0628\u0631\u0645 \u06af\u0646\u062f\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u0628\u0631\u0645 \u06af\u0646\u062f\u0627\u0628",
+        "Man\u0163aqeh-ye Barm-e Gand\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388777
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8233022b02d9e04930eb42875b4c4fcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720331,
+            "locality_id":1259753081,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1259753081,
+    "wof:lastmodified":1537646455,
+    "wof:name":"Mantaqeh-ye Barm-e Gandab",
+    "wof:parent_id":1108720331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.64806,
+    31.35993,
+    49.64806,
+    31.35993
+],
+  "geometry": {"coordinates":[49.64806,31.35993],"type":"Point"}
+}

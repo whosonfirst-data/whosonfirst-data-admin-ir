@@ -1,0 +1,74 @@
+{
+  "id": 1293029959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.6188,35.0595,60.6188,35.0595",
+    "geom:latitude":35.0595,
+    "geom:longitude":60.6188,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Khal-e Kalut",
+    "gn:country_code":"IR",
+    "gn:dem":968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1112659,
+    "gn:latitude":35.0595,
+    "gn:longitude":60.6188,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Khal-e Kal\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062e\u0644 \u06a9\u0644\u0648\u062a"
+    ],
+    "name:fas_x_variant":[
+        "Khal-e Abzak Kal\u016bt",
+        "Khal-e Kal\u016bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1112659
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e1b344c243e25f86b83b415df85b3215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720499,
+            "locality_id":1293029959,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1293029959,
+    "wof:lastmodified":1537646810,
+    "wof:name":"Khal-e Kalut",
+    "wof:parent_id":1108720499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.6188,
+    35.0595,
+    60.6188,
+    35.0595
+],
+  "geometry": {"coordinates":[60.6188,35.0595],"type":"Point"}
+}

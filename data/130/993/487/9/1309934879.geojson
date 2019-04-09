@@ -1,0 +1,73 @@
+{
+  "id": 1309934879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.66667,35.7,50.66667,35.7",
+    "geom:latitude":35.7,
+    "geom:longitude":50.66667,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Sajedi",
+    "gn:country_code":"IR",
+    "gn:dem":1296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5636,
+    "gn:latitude":35.7,
+    "gn:longitude":50.66667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u0101jed\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u062c\u0650\u062f\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "S\u0101jed\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672415,
+        1108720105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5636
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"03d9d6b5225aa82b3c93a9faa0220e10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720105,
+            "locality_id":1309934879,
+            "region_id":85672415
+        }
+    ],
+    "wof:id":1309934879,
+    "wof:lastmodified":1537640306,
+    "wof:name":"Sajedi",
+    "wof:parent_id":1108720105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.66667,
+    35.7,
+    50.66667,
+    35.7
+],
+  "geometry": {"coordinates":[50.66667,35.7],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327387519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.88574,36.6056,52.88574,36.6056",
+    "geom:latitude":36.6056,
+    "geom:longitude":52.88574,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Sahradasht",
+    "gn:country_code":"IR",
+    "gn:dem":-7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7642091,
+    "gn:latitude":36.6056,
+    "gn:longitude":52.88574,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u015ea\u1e29r\u0101dasht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u015ea\u1e29r\u0101dasht"
+    ],
+    "name:fas_x_variant":[
+        "\u0635\u062d\u0631\u0627\u062f\u0634\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7642091
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e95c83975f9405f536bfbc9e195cec9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720085,
+            "locality_id":1327387519,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1327387519,
+    "wof:lastmodified":1537648486,
+    "wof:name":"Sahradasht",
+    "wof:parent_id":1108720085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.88574000000001,
+    36.6056,
+    52.88574000000001,
+    36.6056
+],
+  "geometry": {"coordinates":[52.88574000000001,36.6056],"type":"Point"}
+}

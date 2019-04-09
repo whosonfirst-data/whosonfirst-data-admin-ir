@@ -1,0 +1,76 @@
+{
+  "id": 1209814247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.5927,31.36639,50.5927,31.36639",
+    "geom:latitude":31.36639,
+    "geom:longitude":50.5927,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Nash",
+    "gn:country_code":"IR",
+    "gn:dem":1486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7529685,
+    "gn:latitude":31.36639,
+    "gn:longitude":50.5927,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Nas\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Nas\u1e29"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0633\u062d"
+    ],
+    "name:und_x_variant":[
+        "\u0646\u0633\u062d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7529685
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c4a352a86d8e986a16df61167629b768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1209814247,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1209814247,
+    "wof:lastmodified":1537648309,
+    "wof:name":"Nash",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.5927,
+    31.36639000000001,
+    50.5927,
+    31.36639000000001
+],
+  "geometry": {"coordinates":[50.5927,31.36639000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259527843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.31688,36.48478,51.31688,36.48478",
+    "geom:latitude":36.48478,
+    "geom:longitude":51.31688,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Nahal Naz",
+    "gn:country_code":"IR",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11436426,
+    "gn:latitude":36.48478,
+    "gn:longitude":51.31688,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Nah\u0101l N\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0647\u0627\u0644 \u0646\u0627\u0632"
+    ],
+    "name:und_x_variant":[
+        "Nah\u0101l N\u0101z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11436426
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"40b1d2c8323a139ef7d6b588d608571b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719925,
+            "locality_id":1259527843,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1259527843,
+    "wof:lastmodified":1537648777,
+    "wof:name":"Nahal Naz",
+    "wof:parent_id":1108719925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.31688,
+    36.48478,
+    51.31688,
+    36.48478
+],
+  "geometry": {"coordinates":[51.31688,36.48478],"type":"Point"}
+}

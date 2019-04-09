@@ -1,0 +1,80 @@
+{
+  "id": 1327018405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.9189,32.6677,47.9189,32.6677",
+    "geom:latitude":32.6677,
+    "geom:longitude":47.9189,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mir Karim",
+    "gn:country_code":"IR",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9413,
+    "gn:latitude":32.6677,
+    "gn:longitude":47.9189,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"M\u012br Kar\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u064e\u067e \u0631\u0627\u0633\u062a"
+    ],
+    "name:fas_x_variant":[
+        "Chap R\u0101st",
+        "\u0645\u06cc\u0631 \u06a9\u0631\u06cc\u0645",
+        "\u0686\u067e \u0648 \u0631\u0627\u0633\u062a"
+    ],
+    "name:und_x_variant":[
+        "M\u012br Kar\u012bm",
+        "Chap va R\u0101st"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108719785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9413,
+        "wk:page":"Chap_va_Rast"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"852c71477065ae68f5f13022a9196be4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719785,
+            "locality_id":1327018405,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1327018405,
+    "wof:lastmodified":1537640479,
+    "wof:name":"Mir Karim",
+    "wof:parent_id":1108719785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.9189,
+    32.6677,
+    47.9189,
+    32.6677
+],
+  "geometry": {"coordinates":[47.9189,32.6677],"type":"Point"}
+}

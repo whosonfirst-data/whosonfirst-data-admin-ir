@@ -1,0 +1,76 @@
+{
+  "id": 1344144829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.9132,26.8584,53.9132,26.8584",
+    "geom:latitude":26.8584,
+    "geom:longitude":53.9132,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Toviri",
+    "gn:country_code":"IR",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":112590,
+    "gn:latitude":26.8584,
+    "gn:longitude":53.9132,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"\u0162ov\u012br\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0637\u0648\u064a\u0631\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0162ov\u012br\u012b"
+    ],
+    "name:und_x_variant":[
+        "\u0162oveyr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108719869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112590
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5508c493a958d030893c84e28ac460ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719869,
+            "locality_id":1344144829,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1344144829,
+    "wof:lastmodified":1537643103,
+    "wof:name":"Toviri",
+    "wof:parent_id":1108719869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.9132,
+    26.8584,
+    53.9132,
+    26.8584
+],
+  "geometry": {"coordinates":[53.9132,26.8584],"type":"Point"}
+}

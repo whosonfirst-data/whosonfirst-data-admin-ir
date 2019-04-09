@@ -1,0 +1,75 @@
+{
+  "id": 1259344141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.17403,33.32789,50.17403,33.32789",
+    "geom:latitude":33.32789,
+    "geom:longitude":50.17403,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Arjang",
+    "gn:country_code":"IR",
+    "gn:dem":2265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":143010,
+    "gn:latitude":33.32789,
+    "gn:longitude":50.17403,
+    "gn:modification_date":"2018-07-23",
+    "gn:name":"Arjang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0631\u062c\u0646\u06af"
+    ],
+    "name:und_x_variant":[
+        "Arjanak",
+        "\u0627\u0631\u062c\u0646\u06af"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":143010,
+        "wk:page":"Arjanak,_Isfahan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c0c13b72e34c652fc6ad67067b24127f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720129,
+            "locality_id":1259344141,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1259344141,
+    "wof:lastmodified":1537646132,
+    "wof:name":"Arjang",
+    "wof:parent_id":1108720129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.17403,
+    33.32789,
+    50.17403,
+    33.32789
+],
+  "geometry": {"coordinates":[50.17403,33.32789],"type":"Point"}
+}

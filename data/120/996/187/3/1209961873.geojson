@@ -1,0 +1,77 @@
+{
+  "id": 1209961873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.90693,38.3308,46.90693,38.3308",
+    "geom:latitude":38.3308,
+    "geom:longitude":46.90693,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Taraf",
+    "gn:country_code":"IR",
+    "gn:dem":1682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":113201,
+    "gn:latitude":38.3308,
+    "gn:longitude":46.90693,
+    "gn:modification_date":"2018-05-22",
+    "gn:name":"\u0162araf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0637\u0631\u0641"
+    ],
+    "name:fas_x_variant":[
+        "\u0162araf"
+    ],
+    "name:und_x_variant":[
+        "Tarp"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":113201,
+        "wk:page":"Taraf,_Iran"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9755a6a34f73a472b0c7d75cff38396f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720049,
+            "locality_id":1209961873,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1209961873,
+    "wof:lastmodified":1537643168,
+    "wof:name":"Taraf",
+    "wof:parent_id":1108720049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.90693,
+    38.3308,
+    46.90693,
+    38.3308
+],
+  "geometry": {"coordinates":[46.90693,38.3308],"type":"Point"}
+}

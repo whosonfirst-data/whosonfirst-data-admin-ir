@@ -1,0 +1,79 @@
+{
+  "id": 1276651975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.16579,37.23928,50.16579,37.23928",
+    "geom:latitude":37.23928,
+    "geom:longitude":50.16579,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Sadat Mahalleh",
+    "gn:country_code":"IR",
+    "gn:dem":-6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":118023,
+    "gn:latitude":37.23928,
+    "gn:longitude":50.16579,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"S\u0101d\u0101t Ma\u1e29alleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "S\u0101d\u0101t Ma\u1e29alleh"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0627\u062f\u0627\u062a \u0645\u062d\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "Sadat Mahalleh Hoomeh",
+        "Sa\u2018dat",
+        "\u0633\u0627\u062f\u0627\u062a \u0645\u062d\u0644\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":118023,
+        "wk:page":"Sadat_Mahalleh,_Otaqvar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"27d694bc323b1fe7459a34156a62e904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720183,
+            "locality_id":1276651975,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1276651975,
+    "wof:lastmodified":1537643597,
+    "wof:name":"Sadat Mahalleh",
+    "wof:parent_id":1108720183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.16579,
+    37.23928,
+    50.16579,
+    37.23928
+],
+  "geometry": {"coordinates":[50.16579,37.23928],"type":"Point"}
+}

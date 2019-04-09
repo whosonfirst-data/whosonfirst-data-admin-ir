@@ -1,0 +1,67 @@
+{
+  "id": 1226651747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.48278,26.59667,59.48278,26.59667",
+    "geom:latitude":26.59667,
+    "geom:longitude":59.48278,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Rampak",
+    "gn:country_code":"IR",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":67000,
+    "gn:latitude":26.59667,
+    "gn:longitude":59.48278,
+    "gn:modification_date":"2000-11-28",
+    "gn:name":"Rampak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":67000
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f563f95751b38645242352a50683dd6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720271,
+            "locality_id":1226651747,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1226651747,
+    "wof:lastmodified":1536849631,
+    "wof:name":"Rampak",
+    "wof:parent_id":1108720271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.48278000000001,
+    26.59667,
+    59.48278000000001,
+    26.59667
+],
+  "geometry": {"coordinates":[59.48278000000001,26.59667],"type":"Point"}
+}

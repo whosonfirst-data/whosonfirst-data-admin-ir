@@ -1,0 +1,75 @@
+{
+  "id": 1260242715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.50361,28.13778,57.50361,28.13778",
+    "geom:latitude":28.13778,
+    "geom:longitude":57.50361,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Sar Gorich",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":117013,
+    "gn:latitude":28.13778,
+    "gn:longitude":57.50361,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sar Gor\u012bch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sar Gor\u012bch"
+    ],
+    "name:und_x_variant":[
+        "Sarger\u012bch",
+        "Sar Gor\u012bch-e P\u0101\u2019\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":117013
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0112c67aab2c10b9bb10c8b9607b2699",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720091,
+            "locality_id":1260242715,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1260242715,
+    "wof:lastmodified":1537643499,
+    "wof:name":"Sar Gorich",
+    "wof:parent_id":1108720091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.50361,
+    28.13778,
+    57.50361,
+    28.13778
+],
+  "geometry": {"coordinates":[57.50361,28.13778],"type":"Point"}
+}

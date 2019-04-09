@@ -1,0 +1,81 @@
+{
+  "id": 1243607573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.04904,36.62678,53.04904,36.62678",
+    "geom:latitude":36.62678,
+    "geom:longitude":53.04904,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Donyak",
+    "gn:country_code":"IR",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11686,
+    "gn:latitude":36.62678,
+    "gn:longitude":53.04904,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Donyak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "D\u012bnak"
+    ],
+    "name:fas_x_variant":[
+        "Dan\u012bk",
+        "\u062f\u064e\u0646\u064a\u0643",
+        "\u062f\u0646\u06cc\u06a9",
+        "\u062f\u064a\u0646\u0643"
+    ],
+    "name:und_x_variant":[
+        "\u062f\u064a\u0646\u0643",
+        "Donyak",
+        "\u062f\u0646\u06cc\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11686
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"68efc34ff3996d302ead9c5755136313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720401,
+            "locality_id":1243607573,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1243607573,
+    "wof:lastmodified":1537640656,
+    "wof:name":"Donyak",
+    "wof:parent_id":1108720401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.04904000000001,
+    36.62678,
+    53.04904000000001,
+    36.62678
+],
+  "geometry": {"coordinates":[53.04904000000001,36.62678],"type":"Point"}
+}

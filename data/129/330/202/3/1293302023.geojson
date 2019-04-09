@@ -1,0 +1,75 @@
+{
+  "id": 1293302023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.6263,39.4811,44.6263,39.4811",
+    "geom:latitude":39.4811,
+    "geom:longitude":44.6263,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Hasushaki",
+    "gn:country_code":"IR",
+    "gn:dem":1681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":14101,
+    "gn:latitude":39.4811,
+    "gn:longitude":44.6263,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28as\u016bshak\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u064e\u0633\u0648\u0634\u064e\u0643\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u062d\u0633\u0648\u0634\u06a9\u06cc",
+        "\u1e28as\u016bshak\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":14101,
+        "wk:page":"Hasushaki"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"731253148cec39f5b706c7612e6cbb95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720203,
+            "locality_id":1293302023,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1293302023,
+    "wof:lastmodified":1537640780,
+    "wof:name":"Hasushaki",
+    "wof:parent_id":1108720203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.6263,
+    39.4811,
+    44.6263,
+    39.4811
+],
+  "geometry": {"coordinates":[44.6263,39.4811],"type":"Point"}
+}

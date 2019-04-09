@@ -1,0 +1,73 @@
+{
+  "id": 1260212875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.85011,35.96696,59.85011,35.96696",
+    "geom:latitude":35.96696,
+    "geom:longitude":59.85011,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Chah Zelli",
+    "gn:country_code":"IR",
+    "gn:dem":1151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":34284,
+    "gn:latitude":35.96696,
+    "gn:longitude":59.85011,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ch\u0101h Z\u0327ell\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0647 \u0638\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Ch\u0101h Z\u0327ell\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108719995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":34284
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"caea886bb2f9a69ea0f3326b29ee28a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719995,
+            "locality_id":1260212875,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1260212875,
+    "wof:lastmodified":1537641909,
+    "wof:name":"Chah Zelli",
+    "wof:parent_id":1108719995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.85011,
+    35.96696,
+    59.85011,
+    35.96696
+],
+  "geometry": {"coordinates":[59.85011,35.96696],"type":"Point"}
+}

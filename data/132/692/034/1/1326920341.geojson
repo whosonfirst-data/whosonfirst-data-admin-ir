@@ -1,0 +1,76 @@
+{
+  "id": 1326920341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.78235,37.26797,49.78235,37.26797",
+    "geom:latitude":37.26797,
+    "geom:longitude":49.78235,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Jan Akbar",
+    "gn:country_code":"IR",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2171,
+    "gn:latitude":37.26797,
+    "gn:longitude":49.78235,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"J\u0101n Akbar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "J\u0101skbar"
+    ],
+    "name:fas_x_variant":[
+        "\u062c\u0627\u0646 \u0627\u06a9\u0628\u0631"
+    ],
+    "name:und_x_variant":[
+        "J\u0101n Akbar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2171
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f0638010cb4663a691be3557971d08df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720339,
+            "locality_id":1326920341,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1326920341,
+    "wof:lastmodified":1537640208,
+    "wof:name":"Jan Akbar",
+    "wof:parent_id":1108720339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.78235,
+    37.26797,
+    49.78235,
+    37.26797
+],
+  "geometry": {"coordinates":[49.78235,37.26797],"type":"Point"}
+}

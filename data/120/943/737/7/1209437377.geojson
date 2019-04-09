@@ -1,0 +1,67 @@
+{
+  "id": 1209437377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.61105,31.38157,50.61105,31.38157",
+    "geom:latitude":31.38157,
+    "geom:longitude":50.61105,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Shahrun",
+    "gn:country_code":"IR",
+    "gn:dem":1234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":14367,
+    "gn:latitude":31.38157,
+    "gn:longitude":50.61105,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Shahr\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0648\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Shahr\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":14367
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"69e4df5c2ddea1f30c921a3aeaddc136",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209437377
+        }
+    ],
+    "wof:id":1209437377,
+    "wof:lastmodified":1537640808,
+    "wof:name":"Shahrun",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.61105,
+    31.38157,
+    50.61105,
+    31.38157
+],
+  "geometry": {"coordinates":[50.61105,31.38157],"type":"Point"}
+}

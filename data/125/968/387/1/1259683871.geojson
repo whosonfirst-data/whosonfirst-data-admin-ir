@@ -1,0 +1,78 @@
+{
+  "id": 1259683871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.8217,25.4277,60.8217,25.4277",
+    "geom:latitude":25.4277,
+    "geom:longitude":60.8217,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Vashnam-e Ramezan",
+    "gn:country_code":"IR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6677671,
+    "gn:latitude":25.4277,
+    "gn:longitude":60.8217,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Vashn\u0101m-e Rame\u1e95\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0634\u0646\u0627\u0645"
+    ],
+    "name:fas_x_variant":[
+        "Vashn\u0101m",
+        "\u0648\u0634\u0646\u0645\u0627\u0646 \u0631\u0645\u0636\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Vashn\u0101m-e Rame\u1e95\u0101n",
+        "Vashn\u0101m-e \u1e28\u0101jj\u012b Rame\u1e95\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108719919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6677671
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6d402548e9937a04f0418a1d59eff6ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719919,
+            "locality_id":1259683871,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1259683871,
+    "wof:lastmodified":1537647344,
+    "wof:name":"Vashnam-e Ramezan",
+    "wof:parent_id":1108719919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.8217,
+    25.4277,
+    60.8217,
+    25.4277
+],
+  "geometry": {"coordinates":[60.8217,25.4277],"type":"Point"}
+}

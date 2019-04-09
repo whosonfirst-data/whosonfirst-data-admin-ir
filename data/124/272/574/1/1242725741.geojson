@@ -1,0 +1,81 @@
+{
+  "id": 1242725741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.0627,35.5831,51.0627,35.5831",
+    "geom:latitude":35.5831,
+    "geom:longitude":51.0627,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Vasfar",
+    "gn:country_code":"IR",
+    "gn:dem":1100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":32866,
+    "gn:latitude":35.5831,
+    "gn:longitude":51.0627,
+    "gn:modification_date":"2012-11-07",
+    "gn:name":"Vasfar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u064e\u0633\u0637\u064e\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Vas\u0163ar",
+        "\u0628\u0633\u062a\u0647",
+        "\u0648\u0633\u0641\u0631"
+    ],
+    "name:und_x_variant":[
+        "Basteh",
+        "\u0628\u0633\u062a\u0647",
+        "Vasfar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672313,
+        1108720439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":32866,
+        "wk:page":"Vastar,_Iran"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a993d06f7db27d2e4e5cc6a3049c4ac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720439,
+            "locality_id":1242725741,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1242725741,
+    "wof:lastmodified":1537641827,
+    "wof:name":"Vasfar",
+    "wof:parent_id":1108720439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.0627,
+    35.5831,
+    51.0627,
+    35.5831
+],
+  "geometry": {"coordinates":[51.0627,35.5831],"type":"Point"}
+}

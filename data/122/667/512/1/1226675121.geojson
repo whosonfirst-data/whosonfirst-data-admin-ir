@@ -1,0 +1,73 @@
+{
+  "id": 1226675121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.60419,36.71946,58.60419,36.71946",
+    "geom:latitude":36.71946,
+    "geom:longitude":58.60419,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Kenarkhaneh",
+    "gn:country_code":"IR",
+    "gn:dem":2216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11252245,
+    "gn:latitude":36.71946,
+    "gn:longitude":58.60419,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Ken\u0101rkh\u0101neh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0646\u0627\u0631\u062e\u0627\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "Ken\u0101rkh\u0101neh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11252245
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"242822124651e854de0a1d0e43c98e32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720327,
+            "locality_id":1226675121,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1226675121,
+    "wof:lastmodified":1537648757,
+    "wof:name":"Kenarkhaneh",
+    "wof:parent_id":1108720327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.60419,
+    36.71946,
+    58.60419,
+    36.71946
+],
+  "geometry": {"coordinates":[58.60419,36.71946],"type":"Point"}
+}

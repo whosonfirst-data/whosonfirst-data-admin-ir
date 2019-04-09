@@ -1,0 +1,73 @@
+{
+  "id": 1326833719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.0107,38.8443,45.0107,38.8443",
+    "geom:latitude":38.8443,
+    "geom:longitude":45.0107,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kahriz",
+    "gn:country_code":"IR",
+    "gn:dem":1166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":35002,
+    "gn:latitude":38.8443,
+    "gn:longitude":45.0107,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kahr\u012bz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0647\u0631\u06cc\u0632"
+    ],
+    "name:fas_x_variant":[
+        "Kahr\u012bz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":35002
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b9e4fcd855eaf227cb622c2f0b049854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720153,
+            "locality_id":1326833719,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1326833719,
+    "wof:lastmodified":1537641922,
+    "wof:name":"Kahriz",
+    "wof:parent_id":1108720153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.0107,
+    38.8443,
+    45.0107,
+    38.8443
+],
+  "geometry": {"coordinates":[45.0107,38.8443],"type":"Point"}
+}

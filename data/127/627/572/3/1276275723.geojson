@@ -1,0 +1,74 @@
+{
+  "id": 1276275723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.2364,37.4231,46.2364,37.4231",
+    "geom:latitude":37.4231,
+    "geom:longitude":46.2364,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"`Alavian",
+    "gn:country_code":"IR",
+    "gn:dem":1537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":18223,
+    "gn:latitude":37.4231,
+    "gn:longitude":46.2364,
+    "gn:modification_date":"2018-05-24",
+    "gn:name":"\u2018Alav\u012b\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0639\u0644\u0648\u06cc\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u2018Alav\u012b\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":18223,
+        "wk:page":"Alavian,_East_Azerbaijan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9b85e78b5898d23f6214041d57d8aeac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720217,
+            "locality_id":1276275723,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1276275723,
+    "wof:lastmodified":1537641012,
+    "wof:name":"`Alavian",
+    "wof:parent_id":1108720217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.2364,
+    37.4231,
+    46.2364,
+    37.4231
+],
+  "geometry": {"coordinates":[46.2364,37.4231],"type":"Point"}
+}

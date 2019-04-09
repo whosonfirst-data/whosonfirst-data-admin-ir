@@ -1,0 +1,84 @@
+{
+  "id": 1260003109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.18947,26.77005,60.18947,26.77005",
+    "geom:latitude":26.77005,
+    "geom:longitude":60.18947,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hepduch",
+    "gn:country_code":"IR",
+    "gn:dem":855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1160982,
+    "gn:latitude":26.77005,
+    "gn:longitude":60.18947,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Hepd\u016bch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0647\u067e\u062f\u0648\u0686"
+    ],
+    "name:fas_x_variant":[
+        "H\u012bd\u016bpch",
+        "Hepd\u016bch",
+        "H\u012bd\u016bch",
+        "H\u012bd\u016bbech",
+        "H\u012bdofsh",
+        "H\u012bdofash"
+    ],
+    "name:und_x_variant":[
+        "H\u012bdofsh",
+        "H\u012bd\u016bch",
+        "H\u012bdofash",
+        "H\u012bd\u016bbech"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1160982
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"555bb636574a0c0f888fff20357632ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720271,
+            "locality_id":1260003109,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1260003109,
+    "wof:lastmodified":1537647083,
+    "wof:name":"Hepduch",
+    "wof:parent_id":1108720271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.18946999999999,
+    26.77005,
+    60.18946999999999,
+    26.77005
+],
+  "geometry": {"coordinates":[60.18946999999999,26.77005],"type":"Point"}
+}

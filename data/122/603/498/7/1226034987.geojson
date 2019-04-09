@@ -1,0 +1,73 @@
+{
+  "id": 1226034987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.83419,36.91667,49.83419,36.91667",
+    "geom:latitude":36.91667,
+    "geom:longitude":49.83419,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Zaneh Sar",
+    "gn:country_code":"IR",
+    "gn:dem":1196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8184672,
+    "gn:latitude":36.91667,
+    "gn:longitude":49.83419,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Z\u0101neh Sar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u0646\u0647 \u0633\u0631"
+    ],
+    "name:und_x_variant":[
+        "Z\u0101neh Sar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8184672
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a9963e0675a0672e8d0ff51b2c79623a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720459,
+            "locality_id":1226034987,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1226034987,
+    "wof:lastmodified":1537648528,
+    "wof:name":"Zaneh Sar",
+    "wof:parent_id":1108720459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.83419,
+    36.91667,
+    49.83419,
+    36.91667
+],
+  "geometry": {"coordinates":[49.83419,36.91667],"type":"Point"}
+}

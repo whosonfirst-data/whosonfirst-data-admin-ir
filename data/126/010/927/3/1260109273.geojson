@@ -1,0 +1,73 @@
+{
+  "id": 1260109273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.39428,36.5756,59.39428,36.5756",
+    "geom:latitude":36.5756,
+    "geom:longitude":59.39428,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Qezel Hesar",
+    "gn:country_code":"IR",
+    "gn:dem":1076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7082100,
+    "gn:latitude":36.5756,
+    "gn:longitude":59.39428,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qezel \u1e28e\u015f\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0642\u0632\u0644 \u062d\u0635\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Qezel \u1e28e\u015f\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7082100
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"633d3b31e0865cbee297ac4ae47b8756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720227,
+            "locality_id":1260109273,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1260109273,
+    "wof:lastmodified":1537648024,
+    "wof:name":"Qezel Hesar",
+    "wof:parent_id":1108720227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.39428,
+    36.5756,
+    59.39428,
+    36.5756
+],
+  "geometry": {"coordinates":[59.39428,36.5756],"type":"Point"}
+}

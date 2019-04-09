@@ -1,0 +1,79 @@
+{
+  "id": 1344030659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.324,32.79381,48.324,32.79381",
+    "geom:latitude":32.79381,
+    "geom:longitude":48.324,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sarchah",
+    "gn:country_code":"IR",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6688057,
+    "gn:latitude":32.79381,
+    "gn:longitude":48.324,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Sarch\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0631\u0632\u0646 \u0622\u0628"
+    ],
+    "name:fas_x_variant":[
+        "Dowrazan \u0100b",
+        "\u0633\u0631\u0686\u0627\u0647",
+        "\u0633\u0631 \u0686\u0627\u0647 \u062f\u0648 \u0631\u0648\u0632\u0646\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "Sar Ch\u0101h-e Do R\u016bzan \u0100b",
+        "Sarch\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6688057
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a6abdc6d06c8a14c9debbb942b45d0af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719811,
+            "locality_id":1344030659,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1344030659,
+    "wof:lastmodified":1537647416,
+    "wof:name":"Sarchah",
+    "wof:parent_id":1108719811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.324,
+    32.79381,
+    48.324,
+    32.79381
+],
+  "geometry": {"coordinates":[48.324,32.79381],"type":"Point"}
+}

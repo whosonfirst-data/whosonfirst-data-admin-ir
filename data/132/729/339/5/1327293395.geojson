@@ -1,0 +1,74 @@
+{
+  "id": 1327293395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.4589,39.4514,47.4589,39.4514",
+    "geom:latitude":39.4514,
+    "geom:longitude":47.4589,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Asad Kandi",
+    "gn:country_code":"IR",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6689710,
+    "gn:latitude":39.4514,
+    "gn:longitude":47.4589,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Asad Kand\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062f \u06a9\u0646\u062f\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Asad Kand\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6689710,
+        "wk:page":"Asad_Kandi"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"90dce1b8e0161ebd50e30e8195ffed22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720297,
+            "locality_id":1327293395,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1327293395,
+    "wof:lastmodified":1537647438,
+    "wof:name":"Asad Kandi",
+    "wof:parent_id":1108720297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.4589,
+    39.4514,
+    47.4589,
+    39.4514
+],
+  "geometry": {"coordinates":[47.4589,39.4514],"type":"Point"}
+}

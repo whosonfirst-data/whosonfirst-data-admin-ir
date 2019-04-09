@@ -1,0 +1,76 @@
+{
+  "id": 1226704583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.518,35.3203,51.518,35.3203",
+    "geom:latitude":35.3203,
+    "geom:longitude":51.518,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Fathabad",
+    "gn:country_code":"IR",
+    "gn:dem":893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":574,
+    "gn:latitude":35.3203,
+    "gn:longitude":51.518,
+    "gn:modification_date":"2012-12-04",
+    "gn:name":"Fat\u1e29\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Fat\u1e29\u0101b\u0101d"
+    ],
+    "name:fas_x_variant":[
+        "\u0641\u062a\u062d \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u0641\u062a\u062d \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672313,
+        1108720507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":574
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a1da97b6eb4418545769f4ae29f88cf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720507,
+            "locality_id":1226704583,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1226704583,
+    "wof:lastmodified":1537640137,
+    "wof:name":"Fathabad",
+    "wof:parent_id":1108720507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.518,
+    35.3203,
+    51.518,
+    35.3203
+],
+  "geometry": {"coordinates":[51.518,35.3203],"type":"Point"}
+}

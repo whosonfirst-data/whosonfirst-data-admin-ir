@@ -1,0 +1,76 @@
+{
+  "id": 1259527837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.71064,36.41119,52.71064,36.41119",
+    "geom:latitude":36.41119,
+    "geom:longitude":52.71064,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Anarestan",
+    "gn:country_code":"IR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11778,
+    "gn:latitude":36.41119,
+    "gn:longitude":52.71064,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"An\u0101rest\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u0627\u0631\u0633\u062a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "An\u0101rest\u0101n"
+    ],
+    "name:und_x_variant":[
+        "\u0627\u064e\u0646\u0627\u0631\u0650\u0633\u062a\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11778
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1a712c1b83159a14eb0b3cd745209b6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719845,
+            "locality_id":1259527837,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1259527837,
+    "wof:lastmodified":1537640665,
+    "wof:name":"Anarestan",
+    "wof:parent_id":1108719845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.71064000000001,
+    36.41119000000001,
+    52.71064000000001,
+    36.41119000000001
+],
+  "geometry": {"coordinates":[52.71064000000001,36.41119000000001],"type":"Point"}
+}

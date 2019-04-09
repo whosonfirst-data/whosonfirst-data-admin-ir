@@ -1,0 +1,76 @@
+{
+  "id": 1210046333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.99127,36.76069,56.99127,36.76069",
+    "geom:latitude":36.76069,
+    "geom:longitude":56.99127,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Shateh",
+    "gn:country_code":"IR",
+    "gn:dem":1031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7351543,
+    "gn:latitude":36.76069,
+    "gn:longitude":56.99127,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Sh\u0101\u0163eh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sh\u0101\u0163eh"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u0627\u0637\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0634\u0627\u0637\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7351543
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"34034f2b975c05b57113276df90f995d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720367,
+            "locality_id":1210046333,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1210046333,
+    "wof:lastmodified":1537648127,
+    "wof:name":"Shateh",
+    "wof:parent_id":1108720367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.99126999999999,
+    36.76069,
+    56.99126999999999,
+    36.76069
+],
+  "geometry": {"coordinates":[56.99126999999999,36.76069],"type":"Point"}
+}

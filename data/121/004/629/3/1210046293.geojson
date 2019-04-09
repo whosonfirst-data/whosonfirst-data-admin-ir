@@ -1,0 +1,80 @@
+{
+  "id": 1210046293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.38005,32.75863,59.38005,32.75863",
+    "geom:latitude":32.75863,
+    "geom:longitude":59.38005,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Sarnaveh",
+    "gn:country_code":"IR",
+    "gn:dem":1924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":116867,
+    "gn:latitude":32.75863,
+    "gn:longitude":59.38005,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Sarn\u0101veh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sarn\u0101beh"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0631\u0646\u0627\u0628\u0647",
+        "Sarn\u0101beh Behd\u0101n",
+        "\u0633\u0631\u0646\u0627\u0648\u0647"
+    ],
+    "name:und_x_variant":[
+        "Sarn\u0101beh Behd\u0101n",
+        "\u0633\u0631\u0646\u0627\u0628\u0647",
+        "Sarn\u0101veh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108719895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":116867
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"379f15e43089863ffc52be4a66e51640",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719895,
+            "locality_id":1210046293,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1210046293,
+    "wof:lastmodified":1537643485,
+    "wof:name":"Sarnaveh",
+    "wof:parent_id":1108719895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.38005,
+    32.75863,
+    59.38005,
+    32.75863
+],
+  "geometry": {"coordinates":[59.38005,32.75863],"type":"Point"}
+}

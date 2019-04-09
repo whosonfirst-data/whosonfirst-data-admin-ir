@@ -1,0 +1,78 @@
+{
+  "id": 1225795989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.79337,32.52719,51.79337,32.52719",
+    "geom:latitude":32.52719,
+    "geom:longitude":51.79337,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Dashti",
+    "gn:country_code":"IR",
+    "gn:dem":1547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":418890,
+    "gn:latitude":32.52719,
+    "gn:longitude":51.79337,
+    "gn:modification_date":"2018-07-21",
+    "gn:name":"Dasht\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Dasht\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0634\u062a\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Dast\u012b",
+        "\u062f\u0634\u062a\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108719977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":418890,
+        "wk:page":"Dashti,_Isfahan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4c5b8fecdad918c86842844c24f75829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719977,
+            "locality_id":1225795989,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1225795989,
+    "wof:lastmodified":1537646750,
+    "wof:name":"Dashti",
+    "wof:parent_id":1108719977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.79337,
+    32.52719,
+    51.79337,
+    32.52719
+],
+  "geometry": {"coordinates":[51.79337,32.52719],"type":"Point"}
+}

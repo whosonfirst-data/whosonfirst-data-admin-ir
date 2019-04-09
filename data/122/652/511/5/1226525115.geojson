@@ -1,0 +1,67 @@
+{
+  "id": 1226525115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.85,32.06667,48.85,32.06667",
+    "geom:latitude":32.06667,
+    "geom:longitude":48.85,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sabz Meydan",
+    "gn:country_code":"IR",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":54,
+    "gn:latitude":32.06667,
+    "gn:longitude":48.85,
+    "gn:modification_date":"1999-05-03",
+    "gn:name":"Sabz Meyd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":54
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f393ace5c17e108eed4bd0231688014f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720457,
+            "locality_id":1226525115,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1226525115,
+    "wof:lastmodified":1537026630,
+    "wof:name":"Sabz Meydan",
+    "wof:parent_id":1108720457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.85,
+    32.06667,
+    48.85,
+    32.06667
+],
+  "geometry": {"coordinates":[48.85,32.06667],"type":"Point"}
+}

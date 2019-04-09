@@ -1,0 +1,74 @@
+{
+  "id": 1293888153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.4846,30.902,50.4846,30.902",
+    "geom:latitude":30.902,
+    "geom:longitude":50.4846,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kuh-e Rak",
+    "gn:country_code":"IR",
+    "gn:dem":898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":45659,
+    "gn:latitude":30.902,
+    "gn:longitude":50.4846,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"K\u016bh-e R\u0101k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0648\u0647 \u0631\u0627\u0643"
+    ],
+    "name:fas_x_variant":[
+        "K\u016bh-e R\u0101k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":45659,
+        "wk:page":"Kuh-e_Rak"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"346502f2b55817d57053f420342a4197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1293888153,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1293888153,
+    "wof:lastmodified":1537642557,
+    "wof:name":"Kuh-e Rak",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.4846,
+    30.902,
+    50.4846,
+    30.902
+],
+  "geometry": {"coordinates":[50.4846,30.902],"type":"Point"}
+}

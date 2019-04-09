@@ -1,0 +1,82 @@
+{
+  "id": 1327291913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.24595,33.87048,48.24595,33.87048",
+    "geom:latitude":33.87048,
+    "geom:longitude":48.24595,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Pirkeh-ye Bala",
+    "gn:country_code":"IR",
+    "gn:dem":1601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":32266,
+    "gn:latitude":33.87048,
+    "gn:longitude":48.24595,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"P\u012brkeh-ye B\u0101l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u064a\u0631\u0643\u0650\u06c0 \u0639\u064f\u0644\u064a\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u06cc\u0631\u06af\u0647 \u0639\u0644\u06cc\u0627",
+        "P\u012brkeh-ye \u2018Oly\u0101",
+        "P\u012brgeh-ye \u2018Oly\u0101",
+        "P\u012brkeh-ye Sofl\u00e1",
+        "\u067e\u064a\u0631\u0643\u0650\u06c0 \u0633\u064f\u0641\u0644\u064e\u0649",
+        "\u067e\u06cc\u0631\u06a9\u0647 \u0628\u0627\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "P\u012brkeh-ye B\u0101l\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":32266,
+        "wk:page":"Pirkeh-ye_Sofla"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8ee6957a6558d9c3949013a11fab69e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720411,
+            "locality_id":1327291913,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1327291913,
+    "wof:lastmodified":1537641777,
+    "wof:name":"Pirkeh-ye Bala",
+    "wof:parent_id":1108720411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.24595,
+    33.87048,
+    48.24595,
+    33.87048
+],
+  "geometry": {"coordinates":[48.24595,33.87048],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1344166265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.9735,38.9387,44.9735,38.9387",
+    "geom:latitude":38.9387,
+    "geom:longitude":44.9735,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Na`lband",
+    "gn:country_code":"IR",
+    "gn:dem":1304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":40462,
+    "gn:latitude":38.9387,
+    "gn:longitude":44.9735,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Na\u2018lband",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Na\u2018lband"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0639\u0644\u0628\u0646\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u0646\u0639\u0644\u0628\u0646\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":40462
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"10085fd1a47436f5c4fb3a1973f05465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720153,
+            "locality_id":1344166265,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1344166265,
+    "wof:lastmodified":1537642274,
+    "wof:name":"Na`lband",
+    "wof:parent_id":1108720153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.9735,
+    38.9387,
+    44.9735,
+    38.9387
+],
+  "geometry": {"coordinates":[44.9735,38.9387],"type":"Point"}
+}

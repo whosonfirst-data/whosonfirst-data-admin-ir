@@ -1,0 +1,77 @@
+{
+  "id": 1326974413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.29271,35.92312,52.29271,35.92312",
+    "geom:latitude":35.92312,
+    "geom:longitude":52.29271,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Akha",
+    "gn:country_code":"IR",
+    "gn:dem":1669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":136192,
+    "gn:latitude":35.92312,
+    "gn:longitude":52.29271,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"\u0100kh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u064a\u0646\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "D\u012bn\u0101n",
+        "\u0622\u062e\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u0100kh\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":136192
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"79c0b9fa32b45e224ccd0639c848cfe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719807,
+            "locality_id":1326974413,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1326974413,
+    "wof:lastmodified":1537645450,
+    "wof:name":"Akha",
+    "wof:parent_id":1108719807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.29271,
+    35.92312000000001,
+    52.29271,
+    35.92312000000001
+],
+  "geometry": {"coordinates":[52.29271,35.92312000000001],"type":"Point"}
+}

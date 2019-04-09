@@ -1,0 +1,76 @@
+{
+  "id": 1226333075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.0532,30.1378,52.0532,30.1378",
+    "geom:latitude":30.1378,
+    "geom:longitude":52.0532,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Tol Gerd",
+    "gn:country_code":"IR",
+    "gn:dem":1971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":46596,
+    "gn:latitude":30.1378,
+    "gn:longitude":52.0532,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Tol Gerd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0644 \u06af\u0631\u062f"
+    ],
+    "name:und_x_variant":[
+        "Tall Kord",
+        "Tol Gerd",
+        "T\u016bl-i-Gird",
+        "Tol-e Gerd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":46596
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4e1c8fd5089fc886304b6a4af10b09d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720421,
+            "locality_id":1226333075,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1226333075,
+    "wof:lastmodified":1537642620,
+    "wof:name":"Tol Gerd",
+    "wof:parent_id":1108720421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.0532,
+    30.1378,
+    52.0532,
+    30.1378
+],
+  "geometry": {"coordinates":[52.0532,30.1378],"type":"Point"}
+}

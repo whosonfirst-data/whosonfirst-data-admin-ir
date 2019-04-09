@@ -1,0 +1,73 @@
+{
+  "id": 1293170757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.8946,30.8003,49.8946,30.8003",
+    "geom:latitude":30.8003,
+    "geom:longitude":49.8946,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sar Julaki",
+    "gn:country_code":"IR",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6662957,
+    "gn:latitude":30.8003,
+    "gn:longitude":49.8946,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sar J\u016blak\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631 \u062c\u0648\u0644\u06a9\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Sar J\u016blak\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6662957
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"29fee37500a6256e276a1487415f2d42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720285,
+            "locality_id":1293170757,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1293170757,
+    "wof:lastmodified":1537647303,
+    "wof:name":"Sar Julaki",
+    "wof:parent_id":1108720285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.8946,
+    30.8003,
+    49.8946,
+    30.8003
+],
+  "geometry": {"coordinates":[49.8946,30.8003],"type":"Point"}
+}

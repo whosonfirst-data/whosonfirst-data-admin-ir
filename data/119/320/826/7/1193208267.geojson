@@ -1,0 +1,74 @@
+{
+  "id": 1193208267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.73824,36.85564,50.73824,36.85564",
+    "geom:latitude":36.85564,
+    "geom:longitude":50.73824,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Lowsar",
+    "gn:country_code":"IR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7625502,
+    "gn:latitude":36.85564,
+    "gn:longitude":50.73824,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Lowsar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0633\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u0644\u0648\u0633\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7625502,
+        "wk:page":"Lowsar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4229fae9e7ba830cb1c26dddffc5f0d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720333,
+            "locality_id":1193208267,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1193208267,
+    "wof:lastmodified":1537648465,
+    "wof:name":"Lowsar",
+    "wof:parent_id":1108720333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.73824000000001,
+    36.85564,
+    50.73824000000001,
+    36.85564
+],
+  "geometry": {"coordinates":[50.73824000000001,36.85564],"type":"Point"}
+}

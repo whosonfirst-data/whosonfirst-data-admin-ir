@@ -1,0 +1,80 @@
+{
+  "id": 1310344091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.13944,36.95098,54.13944,36.95098",
+    "geom:latitude":36.95098,
+    "geom:longitude":54.13944,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Hashemanli",
+    "gn:country_code":"IR",
+    "gn:dem":-19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":39562,
+    "gn:latitude":36.95098,
+    "gn:longitude":54.13944,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"H\u0101shemanl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "H\u0101shem El\u00e1"
+    ],
+    "name:fas_x_variant":[
+        "H\u0101shemanl\u012b",
+        "\u0647\u0627\u0634\u0645 \u0627\u0644\u06cc",
+        "\u0647\u0627\u0634\u0645\u0646\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0647\u0627\u0634\u0645\u0646\u0644\u06cc",
+        "\u0647\u0627\u0634\u0645 \u0627\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":39562,
+        "wk:page":"Hashemanli"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a4febe328d520b645bb6c721210427d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720501,
+            "locality_id":1310344091,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1310344091,
+    "wof:lastmodified":1537642219,
+    "wof:name":"Hashemanli",
+    "wof:parent_id":1108720501,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.13944,
+    36.95098,
+    54.13944,
+    36.95098
+],
+  "geometry": {"coordinates":[54.13944,36.95098],"type":"Point"}
+}

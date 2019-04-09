@@ -1,0 +1,78 @@
+{
+  "id": 1210038839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.3855,31.03036,50.3855,31.03036",
+    "geom:latitude":31.03036,
+    "geom:longitude":50.3855,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Munah",
+    "gn:country_code":"IR",
+    "gn:dem":1171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":123080,
+    "gn:latitude":31.03036,
+    "gn:longitude":50.3855,
+    "gn:modification_date":"2012-10-06",
+    "gn:name":"M\u016bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "M\u016bnah"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0648\u0646\u0647",
+        "M\u016bneh"
+    ],
+    "name:und_x_variant":[
+        "M\u016bneh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":123080,
+        "wk:page":"Munah"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c394788fbeb453278c5a53e6b5623880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1210038839,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1210038839,
+    "wof:lastmodified":1537644118,
+    "wof:name":"Munah",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.3855,
+    31.03036,
+    50.3855,
+    31.03036
+],
+  "geometry": {"coordinates":[50.3855,31.03036],"type":"Point"}
+}

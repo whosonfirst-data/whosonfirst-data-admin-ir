@@ -1,0 +1,76 @@
+{
+  "id": 1259409647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.44002,34.69789,50.44002,34.69789",
+    "geom:latitude":34.69789,
+    "geom:longitude":50.44002,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Tarkhuran",
+    "gn:country_code":"IR",
+    "gn:dem":1186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":22013,
+    "gn:latitude":34.69789,
+    "gn:longitude":50.44002,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Tarkh\u016br\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Narkh\u016br\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0631\u062e\u0648\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Tarkh\u016br\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672351,
+        1108720321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":22013
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1880175fc8e19641959097fa85af4e32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720321,
+            "locality_id":1259409647,
+            "region_id":85672351
+        }
+    ],
+    "wof:id":1259409647,
+    "wof:lastmodified":1537641103,
+    "wof:name":"Tarkhuran",
+    "wof:parent_id":1108720321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.44002,
+    34.69789,
+    50.44002,
+    34.69789
+],
+  "geometry": {"coordinates":[50.44002,34.69789],"type":"Point"}
+}

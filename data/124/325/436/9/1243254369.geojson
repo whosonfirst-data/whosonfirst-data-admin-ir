@@ -1,0 +1,78 @@
+{
+  "id": 1243254369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.17335,28.34637,53.17335,28.34637",
+    "geom:latitude":28.34637,
+    "geom:longitude":53.17335,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Nehuyeh",
+    "gn:country_code":"IR",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112739,
+    "gn:latitude":28.34637,
+    "gn:longitude":53.17335,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Neh\u016byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0647\u0648\u06cc\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Neh\u016byeh"
+    ],
+    "name:und_x_variant":[
+        "Toh\u016byeh",
+        "N\u016bh\u016byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112739,
+        "wk:page":"Nehuyeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4fd717c50023cdfaa67d030ea37213c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720319,
+            "locality_id":1243254369,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1243254369,
+    "wof:lastmodified":1537643119,
+    "wof:name":"Nehuyeh",
+    "wof:parent_id":1108720319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.17335,
+    28.34637,
+    53.17335,
+    28.34637
+],
+  "geometry": {"coordinates":[53.17335,28.34637],"type":"Point"}
+}

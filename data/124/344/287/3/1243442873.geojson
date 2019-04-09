@@ -1,0 +1,83 @@
+{
+  "id": 1243442873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.7316,32.3501,47.7316,32.3501",
+    "geom:latitude":32.3501,
+    "geom:longitude":47.7316,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Abu Qarib",
+    "gn:country_code":"IR",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":144855,
+    "gn:latitude":32.3501,
+    "gn:longitude":47.7316,
+    "gn:modification_date":"2018-07-10",
+    "gn:name":"Ab\u016b Qar\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0627\u064e\u0628\u0648 \u063a\u064e\u0631\u064a\u0628"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0628\u0648 \u0642\u0631\u06cc\u0628",
+        "Ab\u016b Ghar\u012bb",
+        "Ab\u016b Qar\u012bb",
+        "\u0627\u0628\u0648 \u063a\u0648\u064a\u0631",
+        "\u0627\u064f\u0648\u0628\u064f\u0648\u063a\u0631\u0650\u0628"
+    ],
+    "name:und_x_variant":[
+        "Abu Gh\u012brab",
+        "Ab\u016b Ghav\u012br",
+        "Owbowghreb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108719957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":144855,
+        "wk:page":"Abu_Qarib"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e2381e53b855d4ea050df078e2c29884",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719957,
+            "locality_id":1243442873,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1243442873,
+    "wof:lastmodified":1537646311,
+    "wof:name":"Abu Qarib",
+    "wof:parent_id":1108719957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.7316,
+    32.3501,
+    47.7316,
+    32.3501
+],
+  "geometry": {"coordinates":[47.7316,32.3501],"type":"Point"}
+}

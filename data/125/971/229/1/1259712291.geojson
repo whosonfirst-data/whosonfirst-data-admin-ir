@@ -1,0 +1,67 @@
+{
+  "id": 1259712291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.33472,34.38417,58.33472,34.38417",
+    "geom:latitude":34.38417,
+    "geom:longitude":58.33472,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Honeh",
+    "gn:country_code":"IR",
+    "gn:dem":1757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":30248,
+    "gn:latitude":34.38417,
+    "gn:longitude":58.33472,
+    "gn:modification_date":"2011-02-07",
+    "gn:name":"Honeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":30248
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b1d629a8cdfbe9f2f3d82eefd5cf5a7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720037,
+            "locality_id":1259712291,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1259712291,
+    "wof:lastmodified":1537024605,
+    "wof:name":"Honeh",
+    "wof:parent_id":1108720037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.33472,
+    34.38417,
+    58.33472,
+    34.38417
+],
+  "geometry": {"coordinates":[58.33472,34.38417],"type":"Point"}
+}

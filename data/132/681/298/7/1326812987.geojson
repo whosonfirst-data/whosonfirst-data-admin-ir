@@ -1,0 +1,80 @@
+{
+  "id": 1326812987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.3894,30.2996,48.3894,30.2996",
+    "geom:latitude":30.2996,
+    "geom:longitude":48.3894,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Radeh-ye Seyhan",
+    "gn:country_code":"IR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":140742,
+    "gn:latitude":30.2996,
+    "gn:longitude":48.3894,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Radeh-ye Sey\u1e29\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u062f\u0647 \u0633\u064a\u062d\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Sey\u1e29\u0101n",
+        "Radeh-ye Sey\u1e29\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Beyt-e Sey\u1e29\u0101n",
+        "Seyj\u0101n",
+        "Radeh-ye Sobh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140742,
+        "wk:page":"Radeh-ye_Seyhan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0ce6b190660727237b28f6d4c7dd5356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719777,
+            "locality_id":1326812987,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1326812987,
+    "wof:lastmodified":1537645904,
+    "wof:name":"Radeh-ye Seyhan",
+    "wof:parent_id":1108719777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.3894,
+    30.2996,
+    48.3894,
+    30.2996
+],
+  "geometry": {"coordinates":[48.3894,30.2996],"type":"Point"}
+}

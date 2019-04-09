@@ -1,0 +1,67 @@
+{
+  "id": 1293298529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.54389,26.60639,60.54389,26.60639",
+    "geom:latitude":26.60639,
+    "geom:longitude":60.54389,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hanzak",
+    "gn:country_code":"IR",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1336221,
+    "gn:latitude":26.60639,
+    "gn:longitude":60.54389,
+    "gn:modification_date":"1996-09-30",
+    "gn:name":"\u1e28anzak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1336221
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b9bd2d9fbbead94a6bbb3f7ba0d34f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720271,
+            "locality_id":1293298529,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1293298529,
+    "wof:lastmodified":1537056875,
+    "wof:name":"Hanzak",
+    "wof:parent_id":1108720271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.54389000000001,
+    26.60639,
+    60.54389000000001,
+    26.60639
+],
+  "geometry": {"coordinates":[60.54389000000001,26.60639],"type":"Point"}
+}

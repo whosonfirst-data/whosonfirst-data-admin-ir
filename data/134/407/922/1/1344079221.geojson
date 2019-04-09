@@ -1,0 +1,79 @@
+{
+  "id": 1344079221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.57832,31.10598,50.57832,31.10598",
+    "geom:latitude":31.10598,
+    "geom:longitude":50.57832,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Gasht Yari",
+    "gn:country_code":"IR",
+    "gn:dem":1108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":15014,
+    "gn:latitude":31.10598,
+    "gn:longitude":50.57832,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Gasht Y\u0101r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Gasht\u012b\u0101r\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u0634\u062a \u06cc\u0627\u0631\u06cc",
+        "\u062f\u0634\u062a \u06cc\u0627\u0631\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Gasht Y\u0101r\u012b",
+        "Dasht Y\u0101r\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":15014,
+        "wk:page":"Gashtiari"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6a6a8f649124bbd50d94b1f65f07b5bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1344079221,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1344079221,
+    "wof:lastmodified":1537640867,
+    "wof:name":"Gasht Yari",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.57832,
+    31.10598,
+    50.57832,
+    31.10598
+],
+  "geometry": {"coordinates":[50.57832,31.10598],"type":"Point"}
+}

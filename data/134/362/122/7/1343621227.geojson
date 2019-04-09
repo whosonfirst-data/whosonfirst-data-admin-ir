@@ -1,0 +1,76 @@
+{
+  "id": 1343621227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.3,39.0,48.3,39.0",
+    "geom:latitude":39.0,
+    "geom:longitude":48.3,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Umastan",
+    "gn:country_code":"IR",
+    "gn:dem":709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":38168,
+    "gn:latitude":39.0,
+    "gn:longitude":48.3,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u016am\u0101st\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u016am\u0101st\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u0648\u0645\u0627\u0633\u062a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0648\u0645\u0627\u0633\u062a\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":38168
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2b721ec552db277c2127fea0a0f01cf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720021,
+            "locality_id":1343621227,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1343621227,
+    "wof:lastmodified":1537642159,
+    "wof:name":"Umastan",
+    "wof:parent_id":1108720021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.3,
+    39.0,
+    48.3,
+    39.0
+],
+  "geometry": {"coordinates":[48.3,39.0],"type":"Point"}
+}

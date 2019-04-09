@@ -1,0 +1,75 @@
+{
+  "id": 1327323037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.02578,34.82701,49.02578,34.82701",
+    "geom:latitude":34.82701,
+    "geom:longitude":49.02578,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Dashteh",
+    "gn:country_code":"IR",
+    "gn:dem":1623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":137249,
+    "gn:latitude":34.82701,
+    "gn:longitude":49.02578,
+    "gn:modification_date":"2018-06-28",
+    "gn:name":"Dashteh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0634\u062a\u0647"
+    ],
+    "name:und_x_variant":[
+        "Dashta",
+        "Dashteh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":137249,
+        "wk:page":"Dashteh,_Hamadan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3154bbadd3091a7845562936fa6e3059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720047,
+            "locality_id":1327323037,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1327323037,
+    "wof:lastmodified":1537645561,
+    "wof:name":"Dashteh",
+    "wof:parent_id":1108720047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.02578,
+    34.82700999999999,
+    49.02578,
+    34.82700999999999
+],
+  "geometry": {"coordinates":[49.02578,34.82700999999999],"type":"Point"}
+}

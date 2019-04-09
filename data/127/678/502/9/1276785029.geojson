@@ -1,0 +1,77 @@
+{
+  "id": 1276785029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.64205,34.94447,48.64205,34.94447",
+    "geom:latitude":34.94447,
+    "geom:longitude":48.64205,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Solujeh",
+    "gn:country_code":"IR",
+    "gn:dem":1883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":114072,
+    "gn:latitude":34.94447,
+    "gn:longitude":48.64205,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sol\u016bjeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0633\u064f\u0644\u0648\u062c\u0650\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Sol\u016bjeh",
+        "\u0633\u0644\u0648\u062c\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0633\u0644\u0648\u062c\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":114072
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a39712936521579f07d7f7c62f69c870",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720047,
+            "locality_id":1276785029,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1276785029,
+    "wof:lastmodified":1537643245,
+    "wof:name":"Solujeh",
+    "wof:parent_id":1108720047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.64205,
+    34.94447,
+    48.64205,
+    34.94447
+],
+  "geometry": {"coordinates":[48.64205,34.94447],"type":"Point"}
+}

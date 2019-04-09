@@ -1,0 +1,73 @@
+{
+  "id": 1293054501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.27114,36.78915,53.27114,36.78915",
+    "geom:latitude":36.78915,
+    "geom:longitude":53.27114,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Shaterabad",
+    "gn:country_code":"IR",
+    "gn:dem":-14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11118,
+    "gn:latitude":36.78915,
+    "gn:longitude":53.27114,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sh\u0101\u0163er\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0637\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Sh\u0101\u0163er\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11118
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8789538b81ae7e269728e89eea9cfb03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720275,
+            "locality_id":1293054501,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1293054501,
+    "wof:lastmodified":1537640610,
+    "wof:name":"Shaterabad",
+    "wof:parent_id":1108720275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.27114,
+    36.78915,
+    53.27114,
+    36.78915
+],
+  "geometry": {"coordinates":[53.27114,36.78915],"type":"Point"}
+}

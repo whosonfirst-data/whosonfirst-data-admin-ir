@@ -1,0 +1,74 @@
+{
+  "id": 1310409289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.01413,36.48853,47.01413,36.48853",
+    "geom:latitude":36.48853,
+    "geom:longitude":47.01413,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Tarmakchi",
+    "gn:country_code":"IR",
+    "gn:dem":1816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":26282,
+    "gn:latitude":36.48853,
+    "gn:longitude":47.01413,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Tarmakch\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0645\u06a9\u0686\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Tarmakch\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":26282,
+        "wk:page":"Tarmakchi"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7e4ea8fff3d362f5911adb69496830e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720477,
+            "locality_id":1310409289,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1310409289,
+    "wof:lastmodified":1537641385,
+    "wof:name":"Tarmakchi",
+    "wof:parent_id":1108720477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.01413,
+    36.48853,
+    47.01413,
+    36.48853
+],
+  "geometry": {"coordinates":[47.01413,36.48853],"type":"Point"}
+}

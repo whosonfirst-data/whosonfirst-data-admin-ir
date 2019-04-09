@@ -1,0 +1,74 @@
+{
+  "id": 1243445127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.6757,28.92585,53.6757,28.92585",
+    "geom:latitude":28.92585,
+    "geom:longitude":53.6757,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dasht-e Ahmad",
+    "gn:country_code":"IR",
+    "gn:dem":1346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":391357,
+    "gn:latitude":28.92585,
+    "gn:longitude":53.6757,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Dasht-e A\u1e29mad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0634\u062a \u0627\u062d\u0645\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Dasht-e A\u1e29mad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":391357,
+        "wk:page":"Dasht-e_Ahmad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a694db12c7b2524139f89ba64b5bd2b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720003,
+            "locality_id":1243445127,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1243445127,
+    "wof:lastmodified":1537646486,
+    "wof:name":"Dasht-e Ahmad",
+    "wof:parent_id":1108720003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.6757,
+    28.92585,
+    53.6757,
+    28.92585
+],
+  "geometry": {"coordinates":[53.6757,28.92585],"type":"Point"}
+}

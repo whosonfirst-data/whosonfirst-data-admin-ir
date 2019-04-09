@@ -1,0 +1,74 @@
+{
+  "id": 1225905325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.29917,28.82472,56.29917,28.82472",
+    "geom:latitude":28.82472,
+    "geom:longitude":56.29917,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Pichgah",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":121145,
+    "gn:latitude":28.82472,
+    "gn:longitude":56.29917,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"P\u012bchg\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "P\u012bchg\u0101h"
+    ],
+    "name:und_x_variant":[
+        "H\u012bchg\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":121145
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"590fdeff88165de73a67c9d7cb9754b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719851,
+            "locality_id":1225905325,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1225905325,
+    "wof:lastmodified":1537643922,
+    "wof:name":"Pichgah",
+    "wof:parent_id":1108719851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.29917,
+    28.82472000000001,
+    56.29917,
+    28.82472000000001
+],
+  "geometry": {"coordinates":[56.29917,28.82472000000001],"type":"Point"}
+}

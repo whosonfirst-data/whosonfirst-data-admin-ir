@@ -1,0 +1,73 @@
+{
+  "id": 1293532539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.98152,36.00751,47.98152,36.00751",
+    "geom:latitude":36.00751,
+    "geom:longitude":47.98152,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Suteh Hesari",
+    "gn:country_code":"IR",
+    "gn:dem":1498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":26322,
+    "gn:latitude":36.00751,
+    "gn:longitude":47.98152,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"S\u016bteh \u1e28e\u015f\u0101r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u062a\u0647 \u062d\u0635\u0627\u0631\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "S\u016bteh \u1e28e\u015f\u0101r\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672361,
+        1108720135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":26322
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c04efe5141ded1ba365b4c9fa7a2bfce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720135,
+            "locality_id":1293532539,
+            "region_id":85672361
+        }
+    ],
+    "wof:id":1293532539,
+    "wof:lastmodified":1537641388,
+    "wof:name":"Suteh Hesari",
+    "wof:parent_id":1108720135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.98152,
+    36.00751,
+    47.98152,
+    36.00751
+],
+  "geometry": {"coordinates":[47.98152,36.00751],"type":"Point"}
+}

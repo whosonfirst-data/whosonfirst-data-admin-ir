@@ -1,0 +1,73 @@
+{
+  "id": 1243353545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.95133,37.7366,48.95133,37.7366",
+    "geom:latitude":37.7366,
+    "geom:longitude":48.95133,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Qasem Mahalleh",
+    "gn:country_code":"IR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11171920,
+    "gn:latitude":37.7366,
+    "gn:longitude":48.95133,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Q\u0101sem Ma\u1e29alleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0627\u0633\u0645 \u0645\u062d\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "Q\u0101sem Ma\u1e29alleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11171920
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ebc0f837bba9ee343270bc0bd342eddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720487,
+            "locality_id":1243353545,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1243353545,
+    "wof:lastmodified":1537648735,
+    "wof:name":"Qasem Mahalleh",
+    "wof:parent_id":1108720487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.95133,
+    37.7366,
+    48.95133,
+    37.7366
+],
+  "geometry": {"coordinates":[48.95133,37.7366],"type":"Point"}
+}

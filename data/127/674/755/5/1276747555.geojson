@@ -1,0 +1,81 @@
+{
+  "id": 1276747555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.91832,34.11748,48.91832,34.11748",
+    "geom:latitude":34.11748,
+    "geom:longitude":48.91832,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Ta'emeh",
+    "gn:country_code":"IR",
+    "gn:dem":1957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":113004,
+    "gn:latitude":34.11748,
+    "gn:longitude":48.91832,
+    "gn:modification_date":"2018-06-30",
+    "gn:name":"\u0162\u0101\u2019emeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0162\u0101\u2019emeh"
+    ],
+    "name:fas_x_variant":[
+        "\u0637\u0627\u0626\u0645\u0647",
+        "\u0637\u06cc\u0627\u06cc\u0645\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0162a\u2019emeh",
+        "\u0162\u0101yemeh",
+        "\u0637\u0627\u0626\u0645\u0647",
+        "\u0162\u012b\u0101\u012bmeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":113004,
+        "wk:page":"Tayemeh,_Malayer"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"27f3925b8c38c8ffef46a0c4c0cad6f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720205,
+            "locality_id":1276747555,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1276747555,
+    "wof:lastmodified":1537643147,
+    "wof:name":"Ta'emeh",
+    "wof:parent_id":1108720205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.91832,
+    34.11748,
+    48.91832,
+    34.11748
+],
+  "geometry": {"coordinates":[48.91832,34.11748],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1326725633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.75536,36.73331,49.75536,36.73331",
+    "geom:latitude":36.73331,
+    "geom:longitude":49.75536,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lavarbon",
+    "gn:country_code":"IR",
+    "gn:dem":2036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10180,
+    "gn:latitude":36.73331,
+    "gn:longitude":49.75536,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"L\u0101varbon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "L\u0101b\u0101rbon"
+    ],
+    "name:fas_x_variant":[
+        "\u0644\u0627\u0628\u0627\u0631\u0628\u0646",
+        "\u0644\u0627\u0648\u0631\u0628\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0644\u0627\u0628\u0627\u0631\u0628\u0646",
+        "L\u0101varbon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10180
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"acd8aed4425a474f519d2e7b5bff01de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720361,
+            "locality_id":1326725633,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1326725633,
+    "wof:lastmodified":1537640546,
+    "wof:name":"Lavarbon",
+    "wof:parent_id":1108720361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.75536,
+    36.73331,
+    49.75536,
+    36.73331
+],
+  "geometry": {"coordinates":[49.75536,36.73331],"type":"Point"}
+}

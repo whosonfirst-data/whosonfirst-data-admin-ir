@@ -1,0 +1,73 @@
+{
+  "id": 1310088233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.20069,30.35931,48.20069,30.35931",
+    "geom:latitude":30.35931,
+    "geom:longitude":48.20069,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Seyyed Gharib",
+    "gn:country_code":"IR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6687686,
+    "gn:latitude":30.35931,
+    "gn:longitude":48.20069,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Seyyed Ghar\u012bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0651\u062f \u063a\u0631\u06cc\u0628"
+    ],
+    "name:fas_x_variant":[
+        "Seyyed Ghar\u012bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6687686
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f52224b597fa4ed2288a680b3eddca2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720151,
+            "locality_id":1310088233,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1310088233,
+    "wof:lastmodified":1537647400,
+    "wof:name":"Seyyed Gharib",
+    "wof:parent_id":1108720151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.20069,
+    30.35931,
+    48.20069,
+    30.35931
+],
+  "geometry": {"coordinates":[48.20069,30.35931],"type":"Point"}
+}

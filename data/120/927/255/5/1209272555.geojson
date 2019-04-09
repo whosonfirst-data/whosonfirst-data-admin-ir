@@ -1,0 +1,72 @@
+{
+  "id": 1209272555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.8343,33.4949,48.8343,33.4949",
+    "geom:latitude":33.4949,
+    "geom:longitude":48.8343,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Hajatan",
+    "gn:country_code":"IR",
+    "gn:dem":1874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":132403,
+    "gn:latitude":33.4949,
+    "gn:longitude":48.8343,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28\u0101jat\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0627\u062c\u062a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u062d\u0627\u062c\u0627\u062a",
+        "\u1e28\u0101jat\u0101n"
+    ],
+    "name:und_x_variant":[
+        "\u1e28\u0101j\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":132403,
+        "wk:page":"Hajatan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"79a6fdbff00e1273d412224d047408db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209272555
+        }
+    ],
+    "wof:id":1209272555,
+    "wof:lastmodified":1537645063,
+    "wof:name":"Hajatan",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.8343,
+    33.4949,
+    48.8343,
+    33.4949
+],
+  "geometry": {"coordinates":[48.8343,33.4949],"type":"Point"}
+}

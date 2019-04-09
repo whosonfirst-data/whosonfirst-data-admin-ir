@@ -1,0 +1,79 @@
+{
+  "id": 1259822233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.14806,37.12307,55.14806,37.12307",
+    "geom:latitude":37.12307,
+    "geom:longitude":55.14806,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Sabzevari",
+    "gn:country_code":"IR",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":39940,
+    "gn:latitude":37.12307,
+    "gn:longitude":55.14806,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Sabzev\u0101r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Gol Cheshmeh-ye Sabzv\u0101r\u012b\u0101"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0628\u0632\u0648\u0627\u0631\u06cc",
+        "\u0627\u0628\u0647 \u0633\u0628\u0632\u0648\u0627\u0631\u06cc\u0647\u0627"
+    ],
+    "name:und_x_variant":[
+        "Sabzev\u0101r\u012b",
+        "Abeh Sabzev\u0101r\u012bh\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108719839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":39940,
+        "wk:page":"Abeh-ye_Sabzvariha"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"19dc192161cc7ffd3711a9290b4ac24d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719839,
+            "locality_id":1259822233,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1259822233,
+    "wof:lastmodified":1537642236,
+    "wof:name":"Sabzevari",
+    "wof:parent_id":1108719839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.14806,
+    37.12307,
+    55.14806,
+    37.12307
+],
+  "geometry": {"coordinates":[55.14806,37.12307],"type":"Point"}
+}

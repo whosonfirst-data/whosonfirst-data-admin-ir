@@ -1,0 +1,77 @@
+{
+  "id": 1226090721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.2693,39.0499,48.2693,39.0499",
+    "geom:latitude":39.0499,
+    "geom:longitude":48.2693,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Salaleh",
+    "gn:country_code":"IR",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6689381,
+    "gn:latitude":39.0499,
+    "gn:longitude":48.2693,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sal\u0101leh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0644\u0627\u0644\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Sal\u0101leh"
+    ],
+    "name:und_x_variant":[
+        "Shal\u016bh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6689381,
+        "wk:page":"Salaleh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e700abd69ad52edf3d28af3851f73998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720021,
+            "locality_id":1226090721,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1226090721,
+    "wof:lastmodified":1537647429,
+    "wof:name":"Salaleh",
+    "wof:parent_id":1108720021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.2693,
+    39.0499,
+    48.2693,
+    39.0499
+],
+  "geometry": {"coordinates":[48.2693,39.0499],"type":"Point"}
+}

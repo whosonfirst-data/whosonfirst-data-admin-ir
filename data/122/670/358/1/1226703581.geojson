@@ -1,0 +1,73 @@
+{
+  "id": 1226703581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.75,36.23333,53.75,36.23333",
+    "geom:latitude":36.23333,
+    "geom:longitude":53.75,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Voluyeh",
+    "gn:country_code":"IR",
+    "gn:dem":1474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":111970,
+    "gn:latitude":36.23333,
+    "gn:longitude":53.75,
+    "gn:modification_date":"2011-08-07",
+    "gn:name":"Vol\u016byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u064f\u0644\u0648\u064a\u0650\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Vol\u016byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":111970
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8a2eb210b3a88592490701f61e7f102d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720401,
+            "locality_id":1226703581,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1226703581,
+    "wof:lastmodified":1537643031,
+    "wof:name":"Voluyeh",
+    "wof:parent_id":1108720401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.75,
+    36.23333,
+    53.75,
+    36.23333
+],
+  "geometry": {"coordinates":[53.75,36.23333],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1344002321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.14881,36.49044,51.14881,36.49044",
+    "geom:latitude":36.49044,
+    "geom:longitude":51.14881,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ujab'it",
+    "gn:country_code":"IR",
+    "gn:dem":1351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7875,
+    "gn:latitude":36.49044,
+    "gn:longitude":51.14881,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"\u016aj\u0101b\u2019\u012bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Aj\u0101b\u012b\u2019at"
+    ],
+    "name:fas_x_variant":[
+        "Aj\u0101b\u012bt",
+        "\u0627\u062c\u0627\u0628\u06cc\u0626\u062a",
+        "\u0627\u0648\u062c\u0627\u0628\u0626\u06cc\u062a"
+    ],
+    "name:und_x_variant":[
+        "Oj\u0101\u2019beyt",
+        "\u0627\u062c\u0627\u0628\u06cc\u0626\u062a",
+        "\u016aj\u0101b\u2019\u012bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7875
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a09b11ea5e8a4310e934a5bde9acf362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719925,
+            "locality_id":1344002321,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1344002321,
+    "wof:lastmodified":1537640396,
+    "wof:name":"Ujab'it",
+    "wof:parent_id":1108719925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.14881,
+    36.49044,
+    51.14881,
+    36.49044
+],
+  "geometry": {"coordinates":[51.14881,36.49044],"type":"Point"}
+}

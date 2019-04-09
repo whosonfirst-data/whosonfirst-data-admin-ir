@@ -1,0 +1,73 @@
+{
+  "id": 1276383283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.6578,38.7417,45.6578,38.7417",
+    "geom:latitude":38.7417,
+    "geom:longitude":45.6578,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Qarah Gaz",
+    "gn:country_code":"IR",
+    "gn:dem":1890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":35027,
+    "gn:latitude":38.7417,
+    "gn:longitude":45.6578,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Qarah Gaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0642\u064e\u0631\u0650\u0647 \u06af\u064e\u0632"
+    ],
+    "name:fas_x_variant":[
+        "\u0642\u0631\u0647 \u06af\u0632"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":35027
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dd49f51cb482a2c21803c63b441005f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720219,
+            "locality_id":1276383283,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1276383283,
+    "wof:lastmodified":1537641924,
+    "wof:name":"Qarah Gaz",
+    "wof:parent_id":1108720219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.6578,
+    38.7417,
+    45.6578,
+    38.7417
+],
+  "geometry": {"coordinates":[45.6578,38.7417],"type":"Point"}
+}

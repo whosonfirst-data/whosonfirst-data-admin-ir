@@ -1,0 +1,80 @@
+{
+  "id": 1343303427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.9602,38.4425,47.9602,38.4425",
+    "geom:latitude":38.4425,
+    "geom:longitude":47.9602,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Dashbolagh",
+    "gn:country_code":"IR",
+    "gn:dem":1850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":13640,
+    "gn:latitude":38.4425,
+    "gn:longitude":47.9602,
+    "gn:modification_date":"2018-05-15",
+    "gn:name":"D\u0101shbol\u0101gh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0634\u0628\u0644\u0627\u063a"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0627\u0634 \u0628\u0644\u0627\u063a",
+        "D\u0101shbol\u0101gh",
+        "D\u0101sh Bol\u0101gh",
+        "\u062f\u0627\u0634 \u0628\u0644\u0627\u063a\u06cc"
+    ],
+    "name:und_x_variant":[
+        "D\u0101sh Bol\u0101gh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13640,
+        "wk:page":"Dash_Bolagh,_Nir"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"427740e3d3c65dfb569902a8ecf28e89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720237,
+            "locality_id":1343303427,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1343303427,
+    "wof:lastmodified":1537640734,
+    "wof:name":"Dashbolagh",
+    "wof:parent_id":1108720237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.9602,
+    38.4425,
+    47.9602,
+    38.4425
+],
+  "geometry": {"coordinates":[47.9602,38.4425],"type":"Point"}
+}

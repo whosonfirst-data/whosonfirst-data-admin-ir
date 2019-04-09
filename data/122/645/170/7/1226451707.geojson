@@ -1,0 +1,74 @@
+{
+  "id": 1226451707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.8946,39.2919,44.8946,39.2919",
+    "geom:latitude":39.2919,
+    "geom:longitude":44.8946,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Varmazyar",
+    "gn:country_code":"IR",
+    "gn:dem":877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":13916,
+    "gn:latitude":39.2919,
+    "gn:longitude":44.8946,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Varmazy\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u064e\u0631\u0645\u064e\u0632\u064a\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0648\u0631\u0645\u0632\u06cc\u0627\u0631",
+        "Varmazy\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13916
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"525f3cbb198079955a5a7b7eae16757e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720203,
+            "locality_id":1226451707,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1226451707,
+    "wof:lastmodified":1537640759,
+    "wof:name":"Varmazyar",
+    "wof:parent_id":1108720203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.8946,
+    39.2919,
+    44.8946,
+    39.2919
+],
+  "geometry": {"coordinates":[44.8946,39.2919],"type":"Point"}
+}

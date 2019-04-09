@@ -1,0 +1,76 @@
+{
+  "id": 1360314461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.73947,32.82353,58.73947,32.82353",
+    "geom:latitude":32.82353,
+    "geom:longitude":58.73947,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Shur Ab",
+    "gn:country_code":"IR",
+    "gn:dem":1421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":66628,
+    "gn:latitude":32.82353,
+    "gn:longitude":58.73947,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sh\u016br \u0100b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sh\u016br \u0100b"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u0648\u0631 \u0622\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u0634\u0648\u0631 \u0622\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108719895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":66628
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8561e678a7d7ae905748fe1f03dc5711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719895,
+            "locality_id":1360314461,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1360314461,
+    "wof:lastmodified":1537642810,
+    "wof:name":"Shur Ab",
+    "wof:parent_id":1108719895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.73947,
+    32.82353,
+    58.73947,
+    32.82353
+],
+  "geometry": {"coordinates":[58.73947,32.82353],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209844695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.31276,36.55062,60.31276,36.55062",
+    "geom:latitude":36.55062,
+    "geom:longitude":60.31276,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Seh Panjeh",
+    "gn:country_code":"IR",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1159649,
+    "gn:latitude":36.55062,
+    "gn:longitude":60.31276,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Seh Panjeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0647 \u067e\u0646\u062c\u0647"
+    ],
+    "name:und_x_variant":[
+        "Sipanja",
+        "Seh Panjeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1159649,
+        "wk:page":"Seh_Panjeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"58ce82ab3d5510d365f80c3533643677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720095,
+            "locality_id":1209844695,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1209844695,
+    "wof:lastmodified":1537646983,
+    "wof:name":"Seh Panjeh",
+    "wof:parent_id":1108720095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.31276,
+    36.55062,
+    60.31276,
+    36.55062
+],
+  "geometry": {"coordinates":[60.31276,36.55062],"type":"Point"}
+}

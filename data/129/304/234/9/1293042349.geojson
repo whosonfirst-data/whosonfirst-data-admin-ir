@@ -1,0 +1,74 @@
+{
+  "id": 1293042349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.3311,38.5113,48.3311,38.5113",
+    "geom:latitude":38.5113,
+    "geom:longitude":48.3311,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"`Ali Kamar",
+    "gn:country_code":"IR",
+    "gn:dem":1538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":38066,
+    "gn:latitude":38.5113,
+    "gn:longitude":48.3311,
+    "gn:modification_date":"2018-05-15",
+    "gn:name":"\u2018Al\u012b Kamar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0639\u0644\u06cc \u06a9\u0645\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u2018Al\u012b Kamar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":38066,
+        "wk:page":"Ali_Kamar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d058b3657c99129f435fbff4e69d0778",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720263,
+            "locality_id":1293042349,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1293042349,
+    "wof:lastmodified":1537642149,
+    "wof:name":"`Ali Kamar",
+    "wof:parent_id":1108720263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.3311,
+    38.5113,
+    48.3311,
+    38.5113
+],
+  "geometry": {"coordinates":[48.3311,38.5113],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1242573649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.35153,35.2317,48.35153,35.2317",
+    "geom:latitude":35.2317,
+    "geom:longitude":48.35153,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Vashur",
+    "gn:country_code":"IR",
+    "gn:dem":1991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112102,
+    "gn:latitude":35.2317,
+    "gn:longitude":48.35153,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"V\u0101sh\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0634\u0648\u0631"
+    ],
+    "name:fas_x_variant":[
+        "V\u0101sh\u016br"
+    ],
+    "name:und_x_variant":[
+        "B\u0101ch\u016br",
+        "Vashoor",
+        "B\u0101sh\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112102,
+        "wk:page":"Vashur"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5de4d9b903d2bd4fcf0c4a936b234567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720087,
+            "locality_id":1242573649,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1242573649,
+    "wof:lastmodified":1537643048,
+    "wof:name":"Vashur",
+    "wof:parent_id":1108720087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.35153,
+    35.2317,
+    48.35153,
+    35.2317
+],
+  "geometry": {"coordinates":[48.35153,35.2317],"type":"Point"}
+}

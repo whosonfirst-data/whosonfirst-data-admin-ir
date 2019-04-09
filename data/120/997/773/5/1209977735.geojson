@@ -1,0 +1,73 @@
+{
+  "id": 1209977735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.759,29.8327,56.759,29.8327",
+    "geom:latitude":29.8327,
+    "geom:longitude":56.759,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"`Eshqabad",
+    "gn:country_code":"IR",
+    "gn:dem":2080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7022525,
+    "gn:latitude":29.8327,
+    "gn:longitude":56.759,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u2018Eshq\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0639\u0634\u0642 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u2018Eshq\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7022525
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"eac21666ee5a4c5a0ab9fbfae5d351af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719879,
+            "locality_id":1209977735,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1209977735,
+    "wof:lastmodified":1537647900,
+    "wof:name":"`Eshqabad",
+    "wof:parent_id":1108719879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.75899999999999,
+    29.8327,
+    56.75899999999999,
+    29.8327
+],
+  "geometry": {"coordinates":[56.75899999999999,29.8327],"type":"Point"}
+}

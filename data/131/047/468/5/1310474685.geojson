@@ -1,0 +1,70 @@
+{
+  "id": 1310474685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.25,32.18333,48.25,32.18333",
+    "geom:latitude":32.18333,
+    "geom:longitude":48.25,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Razi",
+    "gn:country_code":"IR",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":56,
+    "gn:latitude":32.18333,
+    "gn:longitude":48.25,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Raz\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Raz\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":56
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"86096de638dc1d7d8acc7ba58a50ef8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720455,
+            "locality_id":1310474685,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1310474685,
+    "wof:lastmodified":1537640119,
+    "wof:name":"Razi",
+    "wof:parent_id":1108720455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.25,
+    32.18333,
+    48.25,
+    32.18333
+],
+  "geometry": {"coordinates":[48.25,32.18333],"type":"Point"}
+}

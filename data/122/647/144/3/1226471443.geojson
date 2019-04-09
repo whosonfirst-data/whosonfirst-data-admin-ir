@@ -1,0 +1,83 @@
+{
+  "id": 1226471443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.47169,32.31395,59.47169,32.31395",
+    "geom:latitude":32.31395,
+    "geom:longitude":59.47169,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Zeydar",
+    "gn:country_code":"IR",
+    "gn:dem":1831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":111123,
+    "gn:latitude":32.31395,
+    "gn:longitude":59.47169,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Zeydar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u064a\u062f\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Zeynal\u0101b\u0101d",
+        "Zainal\u0101b\u0101d",
+        "\u062d\u0633\u064a\u0646 \u0622\u0628\u0627\u062f \u0632\u064a\u062f\u0631"
+    ],
+    "name:und_x_variant":[
+        "Zainal\u0101b\u0101d",
+        "Zaidar",
+        "Zeynal\u0101b\u0101d",
+        "Zeydar",
+        "\u0632\u064a\u062f\u0631",
+        "\u1e28oseyn\u0101b\u0101d-e Zeydar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108720397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":111123
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"10c6b349057a3cc63253cef926e9b7dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720397,
+            "locality_id":1226471443,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1226471443,
+    "wof:lastmodified":1537642947,
+    "wof:name":"Zeydar",
+    "wof:parent_id":1108720397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.47169,
+    32.31395,
+    59.47169,
+    32.31395
+],
+  "geometry": {"coordinates":[59.47169,32.31395],"type":"Point"}
+}

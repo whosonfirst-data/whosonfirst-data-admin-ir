@@ -1,0 +1,77 @@
+{
+  "id": 1209805547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.42859,37.25852,49.42859,37.25852",
+    "geom:latitude":37.25852,
+    "geom:longitude":49.42859,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Fashalam",
+    "gn:country_code":"IR",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":134717,
+    "gn:latitude":37.25852,
+    "gn:longitude":49.42859,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"Fash\u0101lam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0641\u0634\u0627\u0644\u0645"
+    ],
+    "name:fas_x_variant":[
+        "Fash\u0101lam"
+    ],
+    "name:und_x_variant":[
+        "Pshalym"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":134717,
+        "wk:page":"Fashalam"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"626a72bcdfe44079b65f89c499f51c0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720427,
+            "locality_id":1209805547,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1209805547,
+    "wof:lastmodified":1537645298,
+    "wof:name":"Fashalam",
+    "wof:parent_id":1108720427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.42859,
+    37.25852,
+    49.42859,
+    37.25852
+],
+  "geometry": {"coordinates":[49.42859,37.25852],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1309965485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.3621,37.9361,48.3621,37.9361",
+    "geom:latitude":37.9361,
+    "geom:longitude":48.3621,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Narlu",
+    "gn:country_code":"IR",
+    "gn:dem":1648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":37561,
+    "gn:latitude":37.9361,
+    "gn:longitude":48.3621,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Narl\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0631\u0644\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0631\u0644\u06cc",
+        "Narl\u016b",
+        "Narl\u012b"
+    ],
+    "name:und_x_variant":[
+        "T\u016bl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":37561,
+        "wk:page":"Narlu"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e56ab374e764ef4969324152a349c416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720167,
+            "locality_id":1309965485,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1309965485,
+    "wof:lastmodified":1537642106,
+    "wof:name":"Narlu",
+    "wof:parent_id":1108720167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.3621,
+    37.9361,
+    48.3621,
+    37.9361
+],
+  "geometry": {"coordinates":[48.3621,37.9361],"type":"Point"}
+}

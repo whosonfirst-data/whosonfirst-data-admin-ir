@@ -1,0 +1,77 @@
+{
+  "id": 1343782375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.4567,29.7243,52.4567,29.7243",
+    "geom:latitude":29.7243,
+    "geom:longitude":52.4567,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mehrabad",
+    "gn:country_code":"IR",
+    "gn:dem":1686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6683939,
+    "gn:latitude":29.7243,
+    "gn:longitude":52.4567,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Mehr\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u06a9 \u0645\u0647\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Shahrak-e Mehr\u0101b\u0101d",
+        "\u0645\u0647\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Mehr\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6683939
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7feab719556f2dd0bb0015b724523817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720447,
+            "locality_id":1343782375,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1343782375,
+    "wof:lastmodified":1537647369,
+    "wof:name":"Mehrabad",
+    "wof:parent_id":1108720447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.4567,
+    29.7243,
+    52.4567,
+    29.7243
+],
+  "geometry": {"coordinates":[52.4567,29.7243],"type":"Point"}
+}

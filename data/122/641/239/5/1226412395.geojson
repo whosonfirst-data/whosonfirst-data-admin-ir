@@ -1,0 +1,78 @@
+{
+  "id": 1226412395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.99168,31.41544,49.99168,31.41544",
+    "geom:latitude":31.41544,
+    "geom:longitude":49.99168,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Pas Kareh",
+    "gn:country_code":"IR",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388490,
+    "gn:latitude":31.41544,
+    "gn:longitude":49.99168,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Pas Kareh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0633 \u06a9\u0631\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u0633\u06a9\u0631\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u067e\u0633 \u06a9\u0631\u0647",
+        "Paskareh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388490,
+        "wk:page":"Pas_Kareh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f78e9ac9dbf8e8793973b71dcd3a1a11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719853,
+            "locality_id":1226412395,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1226412395,
+    "wof:lastmodified":1537646449,
+    "wof:name":"Pas Kareh",
+    "wof:parent_id":1108719853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.99168,
+    31.41544,
+    49.99168,
+    31.41544
+],
+  "geometry": {"coordinates":[49.99168,31.41544],"type":"Point"}
+}

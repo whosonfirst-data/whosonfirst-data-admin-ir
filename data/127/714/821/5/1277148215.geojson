@@ -1,0 +1,86 @@
+{
+  "id": 1277148215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.7029,34.5483,45.7029,34.5483",
+    "geom:latitude":34.5483,
+    "geom:longitude":45.7029,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Dar Khowr",
+    "gn:country_code":"IR",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":137721,
+    "gn:latitude":34.5483,
+    "gn:longitude":45.7029,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"D\u0101r Khowr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0631\u062e\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "D\u0101r-e Khvor",
+        "D\u0101r Kh\u016br",
+        "D\u0101r-i-Kh\u016br",
+        "D\u0101r Khowr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720311,
+        85632191,
+        85672481,
+        1108562651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":137721
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bde13773de25d35c2f943a9d87f4f1b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720311,
+            "locality_id":1277148215,
+            "region_id":85672379
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632191,
+            "county_id":1108562651,
+            "locality_id":1277148215,
+            "region_id":85672481
+        }
+    ],
+    "wof:id":1277148215,
+    "wof:lastmodified":1537645606,
+    "wof:name":"Dar Khowr",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.7029,
+    34.5483,
+    45.7029,
+    34.5483
+],
+  "geometry": {"coordinates":[45.7029,34.5483],"type":"Point"}
+}

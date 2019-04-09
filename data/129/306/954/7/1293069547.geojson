@@ -1,0 +1,80 @@
+{
+  "id": 1293069547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.6314,33.9914,47.6314,33.9914",
+    "geom:latitude":33.9914,
+    "geom:longitude":47.6314,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Zirtang Tarikeh",
+    "gn:country_code":"IR",
+    "gn:dem":1723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":113580,
+    "gn:latitude":33.9914,
+    "gn:longitude":47.6314,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Z\u012brtang T\u0101r\u012bkeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u064e\u062d\u0631\u064a\u0643\u0650\u06c0 \u0631\u064e\u0646\u06af\u0631\u064e\u0632\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u062d\u0631\u06cc\u06a9\u0647 \u0633\u0628\u0632\u06cc \u0628\u06cc\u06af",
+        "Ta\u1e29r\u012bkeh-ye Rangraz\u0101n",
+        "Ta\u1e29r\u012bkeh-ye Sabz\u012b Beyg",
+        "\u0632\u06cc\u0631\u062a\u0646\u06af \u062a\u0627\u0631\u06cc\u06a9\u0647"
+    ],
+    "name:und_x_variant":[
+        "Tahr\u012bkeh",
+        "Z\u012brtang T\u0101r\u012bkeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":113580
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fa607950480c3f2c3e8e84a41b893e39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719959,
+            "locality_id":1293069547,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1293069547,
+    "wof:lastmodified":1537643201,
+    "wof:name":"Zirtang Tarikeh",
+    "wof:parent_id":1108719959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.6314,
+    33.9914,
+    47.6314,
+    33.9914
+],
+  "geometry": {"coordinates":[47.6314,33.9914],"type":"Point"}
+}

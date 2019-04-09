@@ -1,0 +1,73 @@
+{
+  "id": 1259736655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.17732,36.47692,52.17732,36.47692",
+    "geom:latitude":36.47692,
+    "geom:longitude":52.17732,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Khatib Kola",
+    "gn:country_code":"IR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8760,
+    "gn:latitude":36.47692,
+    "gn:longitude":52.17732,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kha\u0163\u012bb Kol\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0637\u06cc\u0628 \u06a9\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "Kha\u0163\u012bb Kol\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8760
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4e4b6ff55c4ef050eb605267e2a386b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720283,
+            "locality_id":1259736655,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1259736655,
+    "wof:lastmodified":1537640454,
+    "wof:name":"Khatib Kola",
+    "wof:parent_id":1108720283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.17732,
+    36.47692,
+    52.17732,
+    36.47692
+],
+  "geometry": {"coordinates":[52.17732,36.47692],"type":"Point"}
+}

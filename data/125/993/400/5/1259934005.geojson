@@ -1,0 +1,80 @@
+{
+  "id": 1259934005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.66667,34.0,50.66667,34.0",
+    "geom:latitude":34.0,
+    "geom:longitude":50.66667,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Jalaliyeh",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":130483,
+    "gn:latitude":34.0,
+    "gn:longitude":50.66667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Jal\u0101l\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u064e\u0644\u0627\u0644\u064a\u0650\u0651\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0643\u064e\u0647\u0631\u064a\u0632\u0650 \u0646\u064f\u0648",
+        "Jal\u0101l\u012byeh"
+    ],
+    "name:und_x_variant":[
+        "Kahr\u012bz-e Now",
+        "Jal\u0101lieh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108719961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":130483,
+        "wk:page":"Kahriz-e_Now"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"67335c53ad2887b07aaeb7d231cda93a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719961,
+            "locality_id":1259934005,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1259934005,
+    "wof:lastmodified":1537644871,
+    "wof:name":"Jalaliyeh",
+    "wof:parent_id":1108719961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.66667,
+    34.0,
+    50.66667,
+    34.0
+],
+  "geometry": {"coordinates":[50.66667,34.0],"type":"Point"}
+}

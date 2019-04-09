@@ -1,0 +1,77 @@
+{
+  "id": 1226471431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.47112,37.41755,57.47112,37.41755",
+    "geom:latitude":37.41755,
+    "geom:longitude":57.47112,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Pighu",
+    "gn:country_code":"IR",
+    "gn:dem":1184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":40790,
+    "gn:latitude":37.41755,
+    "gn:longitude":57.47112,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"P\u012bgh\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "P\u012bgh\u016b"
+    ],
+    "name:fas_x_variant":[
+        "P\u012bq\u016b",
+        "\u067e\u06cc\u063a\u0648"
+    ],
+    "name:und_x_variant":[
+        "\u067e\u06cc\u063a\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672401,
+        1108719897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":40790
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f267058d45d6c972dde134f2efe67e77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719897,
+            "locality_id":1226471431,
+            "region_id":85672401
+        }
+    ],
+    "wof:id":1226471431,
+    "wof:lastmodified":1537642300,
+    "wof:name":"Pighu",
+    "wof:parent_id":1108719897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.47111999999999,
+    37.41755,
+    57.47111999999999,
+    37.41755
+],
+  "geometry": {"coordinates":[57.47111999999999,37.41755],"type":"Point"}
+}

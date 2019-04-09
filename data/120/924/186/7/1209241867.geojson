@@ -1,0 +1,71 @@
+{
+  "id": 1209241867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.2243,36.1193,60.2243,36.1193",
+    "geom:latitude":36.1193,
+    "geom:longitude":60.2243,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Chahar Gonbad",
+    "gn:country_code":"IR",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1161586,
+    "gn:latitude":36.1193,
+    "gn:longitude":60.2243,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chah\u0101r Gonbad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0686\u0647\u0627\u0631 \u06af\u0646\u0628\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Chah\u0101r Gonbad",
+        "Chah\u0101r Gumbaz"
+    ],
+    "name:und_x_variant":[
+        "Chah\u0101r Gumbaz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1161586
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cf0fd2d2c19611fa3adc62d653558a22",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209241867
+        }
+    ],
+    "wof:id":1209241867,
+    "wof:lastmodified":1537647130,
+    "wof:name":"Chahar Gonbad",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.2243,
+    36.1193,
+    60.2243,
+    36.1193
+],
+  "geometry": {"coordinates":[60.2243,36.1193],"type":"Point"}
+}

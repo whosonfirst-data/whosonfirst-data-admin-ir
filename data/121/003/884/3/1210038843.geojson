@@ -1,0 +1,70 @@
+{
+  "id": 1210038843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.45,30.93333,50.45,30.93333",
+    "geom:latitude":30.93333,
+    "geom:longitude":50.45,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Tagargi",
+    "gn:country_code":"IR",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":45616,
+    "gn:latitude":30.93333,
+    "gn:longitude":50.45,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Tagarg\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Tagarg\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":45616
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6e482dd510de4c4c314538c03a112557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1210038843,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1210038843,
+    "wof:lastmodified":1537642552,
+    "wof:name":"Tagargi",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.45,
+    30.93333,
+    50.45,
+    30.93333
+],
+  "geometry": {"coordinates":[50.45,30.93333],"type":"Point"}
+}

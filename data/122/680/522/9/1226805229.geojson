@@ -1,0 +1,70 @@
+{
+  "id": 1226805229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.46667,33.8,48.46667,33.8",
+    "geom:latitude":33.8,
+    "geom:longitude":48.46667,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Malekeh",
+    "gn:country_code":"IR",
+    "gn:dem":2060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1951,
+    "gn:latitude":33.8,
+    "gn:longitude":48.46667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Malekeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u064e\u0644\u0650\u0643\u0650\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1951
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e699ac32ff3fd1de2ebab6a450b0504a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720145,
+            "locality_id":1226805229,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1226805229,
+    "wof:lastmodified":1537640192,
+    "wof:name":"Malekeh",
+    "wof:parent_id":1108720145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.46667,
+    33.8,
+    48.46667,
+    33.8
+],
+  "geometry": {"coordinates":[48.46667,33.8],"type":"Point"}
+}

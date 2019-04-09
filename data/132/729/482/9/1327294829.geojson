@@ -1,0 +1,73 @@
+{
+  "id": 1327294829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.9541,27.6439,57.9541,27.6439",
+    "geom:latitude":27.6439,
+    "geom:longitude":57.9541,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Bolbolabad",
+    "gn:country_code":"IR",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6961542,
+    "gn:latitude":27.6439,
+    "gn:longitude":57.9541,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Bolbol\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0628\u0644 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Bolbol\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6961542
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"927ea92d9723f04a831f33e4006cca53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720029,
+            "locality_id":1327294829,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1327294829,
+    "wof:lastmodified":1537647777,
+    "wof:name":"Bolbolabad",
+    "wof:parent_id":1108720029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.9541,
+    27.6439,
+    57.9541,
+    27.6439
+],
+  "geometry": {"coordinates":[57.9541,27.6439],"type":"Point"}
+}

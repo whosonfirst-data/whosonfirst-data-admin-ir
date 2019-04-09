@@ -1,0 +1,81 @@
+{
+  "id": 1276880119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.80362,31.54499,50.80362,31.54499",
+    "geom:latitude":31.54499,
+    "geom:longitude":50.80362,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kal Gachi",
+    "gn:country_code":"IR",
+    "gn:dem":1680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":129190,
+    "gn:latitude":31.54499,
+    "gn:longitude":50.80362,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Kal Gach\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u064e\u0644 \u06af\u0650\u0686\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Kal Gach\u012b",
+        "\u0643\u0644 \u06af\u0686\u06cc",
+        "Gol Gach\u012b",
+        "\u06af\u0644 \u06af\u0686\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Kal Gech\u012b",
+        "\u06af\u0644 \u06af\u0686\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672319,
+        1108720189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":129190,
+        "wk:page":"Kal_Gechi"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5317b174e4317b7236af1cd7fd28c294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720189,
+            "locality_id":1276880119,
+            "region_id":85672319
+        }
+    ],
+    "wof:id":1276880119,
+    "wof:lastmodified":1537644736,
+    "wof:name":"Kal Gachi",
+    "wof:parent_id":1108720189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.80362,
+    31.54499,
+    50.80362,
+    31.54499
+],
+  "geometry": {"coordinates":[50.80362,31.54499],"type":"Point"}
+}

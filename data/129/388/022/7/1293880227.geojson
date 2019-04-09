@@ -1,0 +1,74 @@
+{
+  "id": 1293880227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.9153,28.5859,52.9153,28.5859",
+    "geom:latitude":28.5859,
+    "geom:longitude":52.9153,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Ab `Araq",
+    "gn:country_code":"IR",
+    "gn:dem":1246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6907798,
+    "gn:latitude":28.5859,
+    "gn:longitude":52.9153,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"\u0100b \u2018Ar\u0101q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0628 \u0639\u0631\u0627\u0642"
+    ],
+    "name:fas_x_variant":[
+        "\u0100b \u2018Ar\u0101q"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6907798,
+        "wk:page":"Ab_Araq"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"59d10b03630df4725f7792b1bad339fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720009,
+            "locality_id":1293880227,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1293880227,
+    "wof:lastmodified":1537647701,
+    "wof:name":"Ab `Araq",
+    "wof:parent_id":1108720009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.9153,
+    28.5859,
+    52.9153,
+    28.5859
+],
+  "geometry": {"coordinates":[52.9153,28.5859],"type":"Point"}
+}

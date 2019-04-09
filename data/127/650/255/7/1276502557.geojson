@@ -1,0 +1,82 @@
+{
+  "id": 1276502557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.91477,33.55157,48.91477,33.55157",
+    "geom:latitude":33.55157,
+    "geom:longitude":48.91477,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Abkot",
+    "gn:country_code":"IR",
+    "gn:dem":1706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":144993,
+    "gn:latitude":33.55157,
+    "gn:longitude":48.91477,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"\u0100bkot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0628 \u0643\u062a \u0633\u0641\u0644\u0649"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u0628\u06a9\u062a",
+        "\u0100b Kot-e P\u0101\u2019\u012bn",
+        "\u0100bkot"
+    ],
+    "name:und_x_variant":[
+        "\u0100b-i-K\u016bt",
+        "\u0100bk\u016bt-e Sofl\u00e1",
+        "\u0100b Kot-e Sofl\u00e1",
+        "\u0100bkowt-e P\u0101\u2019\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":144993,
+        "wk:page":"Abkot"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d16299f00e7be5f0314ec1533ad20626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720145,
+            "locality_id":1276502557,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1276502557,
+    "wof:lastmodified":1537646322,
+    "wof:name":"Abkot",
+    "wof:parent_id":1108720145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.91477,
+    33.55157,
+    48.91477,
+    33.55157
+],
+  "geometry": {"coordinates":[48.91477,33.55157],"type":"Point"}
+}

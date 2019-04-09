@@ -1,0 +1,73 @@
+{
+  "id": 1293838259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.3385,35.5866,51.3385,35.5866",
+    "geom:latitude":35.5866,
+    "geom:longitude":51.3385,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"`Abbasabad",
+    "gn:country_code":"IR",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":404497,
+    "gn:latitude":35.5866,
+    "gn:longitude":51.3385,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Abb\u0101s\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0639\u0628\u0627\u0633 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u2018Abb\u0101s\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672313,
+        1108720491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":404497
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2c492b9c372c29a549cb75189113919d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720491,
+            "locality_id":1293838259,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1293838259,
+    "wof:lastmodified":1537646568,
+    "wof:name":"`Abbasabad",
+    "wof:parent_id":1108720491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.3385,
+    35.5866,
+    51.3385,
+    35.5866
+],
+  "geometry": {"coordinates":[51.3385,35.5866],"type":"Point"}
+}

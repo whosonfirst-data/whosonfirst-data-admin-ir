@@ -1,0 +1,73 @@
+{
+  "id": 1309833881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.92247,35.5665,59.92247,35.5665",
+    "geom:latitude":35.5665,
+    "geom:longitude":59.92247,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Sang-e Hajji",
+    "gn:country_code":"IR",
+    "gn:dem":1504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":33917,
+    "gn:latitude":35.5665,
+    "gn:longitude":59.92247,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sang-e \u1e28\u0101jj\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u06af \u062d\u0627\u062c\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Sang-e \u1e28\u0101jj\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108719995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":33917
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"beff3f95e3851b8043821e47c248738b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719995,
+            "locality_id":1309833881,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1309833881,
+    "wof:lastmodified":1537641882,
+    "wof:name":"Sang-e Hajji",
+    "wof:parent_id":1108719995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.92247,
+    35.5665,
+    59.92247,
+    35.5665
+],
+  "geometry": {"coordinates":[59.92247,35.5665],"type":"Point"}
+}

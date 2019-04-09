@@ -1,0 +1,79 @@
+{
+  "id": 1293041077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.6159,36.90308,50.6159,36.90308",
+    "geom:latitude":36.90308,
+    "geom:longitude":50.6159,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Gavramak",
+    "gn:country_code":"IR",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7625452,
+    "gn:latitude":36.90308,
+    "gn:longitude":50.6159,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"G\u0101vramak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "G\u0101vramak-e P\u0101\u2019\u012bn"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u0627\u0648\u0631\u0645\u06a9 \u067e\u0627\u0626\u06cc\u0646",
+        "\u06af\u0627\u0648\u0631\u0645\u06a9"
+    ],
+    "name:und_x_variant":[
+        "\u06af\u0627\u0648\u0631\u0645\u06a9 \u067e\u0627\u0626\u06cc\u0646",
+        "G\u0101vramak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7625452,
+        "wk:page":"Gavramak"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"200f7dde1240db2d6f19be60161f9659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720333,
+            "locality_id":1293041077,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1293041077,
+    "wof:lastmodified":1537648462,
+    "wof:name":"Gavramak",
+    "wof:parent_id":1108720333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.6159,
+    36.90308,
+    50.6159,
+    36.90308
+],
+  "geometry": {"coordinates":[50.6159,36.90308],"type":"Point"}
+}

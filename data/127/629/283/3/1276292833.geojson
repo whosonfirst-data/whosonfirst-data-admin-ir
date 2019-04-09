@@ -1,0 +1,70 @@
+{
+  "id": 1276292833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.12861,32.69833,52.12861,32.69833",
+    "geom:latitude":32.69833,
+    "geom:longitude":52.12861,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Sistan",
+    "gn:country_code":"IR",
+    "gn:dem":1542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":418462,
+    "gn:latitude":32.69833,
+    "gn:longitude":52.12861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"S\u012bst\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "S\u012bst\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108719977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":418462
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ffaaef4b0519d384f0d1ea46c675d66b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719977,
+            "locality_id":1276292833,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1276292833,
+    "wof:lastmodified":1537646720,
+    "wof:name":"Sistan",
+    "wof:parent_id":1108719977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.12861,
+    32.69833,
+    52.12861,
+    32.69833
+],
+  "geometry": {"coordinates":[52.12861,32.69833],"type":"Point"}
+}

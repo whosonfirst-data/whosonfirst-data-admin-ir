@@ -1,0 +1,70 @@
+{
+  "id": 1243401619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.34194,32.73778,50.34194,32.73778",
+    "geom:latitude":32.73778,
+    "geom:longitude":50.34194,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Zaherabad",
+    "gn:country_code":"IR",
+    "gn:dem":2493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":33310,
+    "gn:latitude":32.73778,
+    "gn:longitude":50.34194,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Z\u0327\u0101her\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Z\u0327\u0101her\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108719921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":33310
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c83769f8fbfb0a00e0a3dcbf36d02d26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719921,
+            "locality_id":1243401619,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1243401619,
+    "wof:lastmodified":1537641860,
+    "wof:name":"Zaherabad",
+    "wof:parent_id":1108719921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.34194,
+    32.73778,
+    50.34194,
+    32.73778
+],
+  "geometry": {"coordinates":[50.34194,32.73778],"type":"Point"}
+}

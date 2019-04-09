@@ -1,0 +1,73 @@
+{
+  "id": 1209839203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.8724,28.6557,60.8724,28.6557",
+    "geom:latitude":28.6557,
+    "geom:longitude":60.8724,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Milman",
+    "gn:country_code":"IR",
+    "gn:dem":2139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1113800,
+    "gn:latitude":28.6557,
+    "gn:longitude":60.8724,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"M\u012blm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0644\u0645\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "M\u012blm\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1113800
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d2853394e42453f53ab27d700df96a83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720131,
+            "locality_id":1209839203,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1209839203,
+    "wof:lastmodified":1537646875,
+    "wof:name":"Milman",
+    "wof:parent_id":1108720131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.8724,
+    28.6557,
+    60.8724,
+    28.6557
+],
+  "geometry": {"coordinates":[60.8724,28.6557],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1310150621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.74171,34.7032,49.74171,34.7032",
+    "geom:latitude":34.7032,
+    "geom:longitude":49.74171,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Ayr",
+    "gn:country_code":"IR",
+    "gn:dem":2086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":22104,
+    "gn:latitude":34.7032,
+    "gn:longitude":49.74171,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ayr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "L\u012br"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u0627\u064a\u0631",
+        "Ayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":22104
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"17e682d3ab992404e6b10a00eb641c8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720473,
+            "locality_id":1310150621,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1310150621,
+    "wof:lastmodified":1537641108,
+    "wof:name":"Ayr",
+    "wof:parent_id":1108720473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.74171,
+    34.7032,
+    49.74171,
+    34.7032
+],
+  "geometry": {"coordinates":[49.74171,34.7032],"type":"Point"}
+}

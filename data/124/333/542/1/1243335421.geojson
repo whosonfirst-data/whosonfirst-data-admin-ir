@@ -1,0 +1,67 @@
+{
+  "id": 1243335421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.03593,35.60748,46.03593,35.60748",
+    "geom:latitude":35.60748,
+    "geom:longitude":46.03593,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bashmakh",
+    "gn:country_code":"IR",
+    "gn:dem":1358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9256561,
+    "gn:latitude":35.60748,
+    "gn:longitude":46.03593,
+    "gn:modification_date":"2014-07-29",
+    "gn:name":"Bashmakh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9256561
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"872764df0a364f5e7cee703bcea6b1b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720221,
+            "locality_id":1243335421,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1243335421,
+    "wof:lastmodified":1536965520,
+    "wof:name":"Bashmakh",
+    "wof:parent_id":1108720221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.03593,
+    35.60747999999999,
+    46.03593,
+    35.60747999999999
+],
+  "geometry": {"coordinates":[46.03593,35.60747999999999],"type":"Point"}
+}

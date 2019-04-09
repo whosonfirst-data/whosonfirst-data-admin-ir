@@ -1,0 +1,79 @@
+{
+  "id": 1360184593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.47272,26.72092,61.47272,26.72092",
+    "geom:latitude":26.72092,
+    "geom:longitude":61.47272,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Karchan",
+    "gn:country_code":"IR",
+    "gn:dem":1112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1160836,
+    "gn:latitude":26.72092,
+    "gn:longitude":61.47272,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"K\u0101rch\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0631\u0686\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "K\u0101rch\u0101n",
+        "K\u0101chon",
+        "K\u0101rchan"
+    ],
+    "name:und_x_variant":[
+        "K\u0101rchan",
+        "K\u0101chon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1160836
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"edaa5f62677743a4ebd8c8d2080c3600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720393,
+            "locality_id":1360184593,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1360184593,
+    "wof:lastmodified":1537647073,
+    "wof:name":"Karchan",
+    "wof:parent_id":1108720393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.47272,
+    26.72092,
+    61.47272,
+    26.72092
+],
+  "geometry": {"coordinates":[61.47272,26.72092],"type":"Point"}
+}

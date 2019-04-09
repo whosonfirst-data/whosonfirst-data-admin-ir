@@ -1,0 +1,76 @@
+{
+  "id": 1226138721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.1995,35.0511,49.1995,35.0511",
+    "geom:latitude":35.0511,
+    "geom:longitude":49.1995,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Chergezlik",
+    "gn:country_code":"IR",
+    "gn:dem":1616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6756381,
+    "gn:latitude":35.0511,
+    "gn:longitude":49.1995,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Chergezl\u012bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Chergezl\u012bk"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u0631\u06af\u0632\u0644\u064a\u06a9"
+    ],
+    "name:und_x_variant":[
+        "\u0686\u0631\u06af\u0632\u0644\u064a\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6756381
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d7b3cad82ce83ff8a00e030b1d6ac09d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720047,
+            "locality_id":1226138721,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1226138721,
+    "wof:lastmodified":1537647623,
+    "wof:name":"Chergezlik",
+    "wof:parent_id":1108720047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.1995,
+    35.0511,
+    49.1995,
+    35.0511
+],
+  "geometry": {"coordinates":[49.1995,35.0511],"type":"Point"}
+}

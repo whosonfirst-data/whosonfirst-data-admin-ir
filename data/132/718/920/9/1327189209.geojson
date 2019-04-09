@@ -1,0 +1,77 @@
+{
+  "id": 1327189209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.3322,36.0483,54.3322,36.0483",
+    "geom:latitude":36.0483,
+    "geom:longitude":54.3322,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Kela",
+    "gn:country_code":"IR",
+    "gn:dem":1078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":129547,
+    "gn:latitude":36.0483,
+    "gn:longitude":54.3322,
+    "gn:modification_date":"2013-11-07",
+    "gn:name":"Kel\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0643\u064e\u0644\u0627",
+        "Kel\u0101"
+    ],
+    "name:und_x_variant":[
+        "Kal\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672309,
+        1108719937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":129547
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ae8519b4a791d6689fac74d180c6d6c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719937,
+            "locality_id":1327189209,
+            "region_id":85672309
+        }
+    ],
+    "wof:id":1327189209,
+    "wof:lastmodified":1537644771,
+    "wof:name":"Kela",
+    "wof:parent_id":1108719937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.3322,
+    36.0483,
+    54.3322,
+    36.0483
+],
+  "geometry": {"coordinates":[54.3322,36.0483],"type":"Point"}
+}

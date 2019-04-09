@@ -1,0 +1,76 @@
+{
+  "id": 1343388873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.32634,37.73702,56.32634,37.73702",
+    "geom:latitude":37.73702,
+    "geom:longitude":56.32634,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Garmab",
+    "gn:country_code":"IR",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":133998,
+    "gn:latitude":37.73702,
+    "gn:longitude":56.32634,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Garm\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Garm\u0101b"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u0631\u0645\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u06af\u0631\u0645\u0627\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672401,
+        1108720211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":133998
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1cec638cfaaecf9e8d5001b6c5d1da30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720211,
+            "locality_id":1343388873,
+            "region_id":85672401
+        }
+    ],
+    "wof:id":1343388873,
+    "wof:lastmodified":1537645231,
+    "wof:name":"Garmab",
+    "wof:parent_id":1108720211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.32634,
+    37.73702,
+    56.32634,
+    37.73702
+],
+  "geometry": {"coordinates":[56.32634,37.73702],"type":"Point"}
+}

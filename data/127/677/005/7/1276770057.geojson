@@ -1,0 +1,76 @@
+{
+  "id": 1276770057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.98582,32.23923,49.98582,32.23923",
+    "geom:latitude":32.23923,
+    "geom:longitude":49.98582,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Baz Garun",
+    "gn:country_code":"IR",
+    "gn:dem":1777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":140997,
+    "gn:latitude":32.23923,
+    "gn:longitude":49.98582,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"B\u0101z Gar\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "B\u0101z Gar\u016bn"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0627\u0632 \u06af\u0631\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0628\u0627\u0632 \u06af\u0631\u0648\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672319,
+        1108720171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140997
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bd35734bae2b354a73130285c13a1809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720171,
+            "locality_id":1276770057,
+            "region_id":85672319
+        }
+    ],
+    "wof:id":1276770057,
+    "wof:lastmodified":1537645930,
+    "wof:name":"Baz Garun",
+    "wof:parent_id":1108720171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.98582,
+    32.23923,
+    49.98582,
+    32.23923
+],
+  "geometry": {"coordinates":[49.98582,32.23923],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226297261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.18278,35.59059,52.18278,35.59059",
+    "geom:latitude":35.59059,
+    "geom:longitude":52.18278,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Luman",
+    "gn:country_code":"IR",
+    "gn:dem":1893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":406878,
+    "gn:latitude":35.59059,
+    "gn:longitude":52.18278,
+    "gn:modification_date":"2018-05-11",
+    "gn:name":"L\u016bm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0645\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "L\u016bm\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672313,
+        1108719935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":406878,
+        "wk:page":"Luman,_Iran"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5c5d21f41c0792a92e6323351d888415",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719935,
+            "locality_id":1226297261,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1226297261,
+    "wof:lastmodified":1537646625,
+    "wof:name":"Luman",
+    "wof:parent_id":1108719935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.18278,
+    35.59059,
+    52.18278,
+    35.59059
+],
+  "geometry": {"coordinates":[52.18278,35.59059],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226281537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.6137,36.87824,48.6137,36.87824",
+    "geom:latitude":36.87824,
+    "geom:longitude":48.6137,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Sandestan",
+    "gn:country_code":"IR",
+    "gn:dem":2643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11595566,
+    "gn:latitude":36.87824,
+    "gn:longitude":48.6137,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Sandest\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062f\u0633\u062a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Sandest\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672361,
+        1108720519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11595566
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3ba90596ea31d0f9cbb2121259ea1fa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720519,
+            "locality_id":1226281537,
+            "region_id":85672361
+        }
+    ],
+    "wof:id":1226281537,
+    "wof:lastmodified":1537648793,
+    "wof:name":"Sandestan",
+    "wof:parent_id":1108720519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.6137,
+    36.87824000000001,
+    48.6137,
+    36.87824000000001
+],
+  "geometry": {"coordinates":[48.6137,36.87824000000001],"type":"Point"}
+}

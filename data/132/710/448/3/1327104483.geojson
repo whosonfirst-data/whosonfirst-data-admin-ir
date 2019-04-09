@@ -1,0 +1,83 @@
+{
+  "id": 1327104483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.82381,31.61938,49.82381,31.61938",
+    "geom:latitude":31.61938,
+    "geom:longitude":49.82381,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Darreh Estel",
+    "gn:country_code":"IR",
+    "gn:dem":835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":135062,
+    "gn:latitude":31.61938,
+    "gn:longitude":49.82381,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Darreh Estel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Est\u012bl"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0631\u0651\u0647 \u0627\u0633\u062a\u06cc\u0644",
+        "Darreh Est\u012bl",
+        "\u062f\u0631\u0647 \u0627\u0633\u062a\u0644",
+        "\u0627\u0633\u0637\u0644"
+    ],
+    "name:und_x_variant":[
+        "Darreh-ye Est\u012bl",
+        "Darreh Est\u012bl",
+        "Darreh Estel",
+        "Es\u0163el"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":135062,
+        "wk:page":"Estil"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2ced180a52ad2e75ff7d2914e75edb02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719853,
+            "locality_id":1327104483,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1327104483,
+    "wof:lastmodified":1537645334,
+    "wof:name":"Darreh Estel",
+    "wof:parent_id":1108719853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.82381,
+    31.61938,
+    49.82381,
+    31.61938
+],
+  "geometry": {"coordinates":[49.82381,31.61938],"type":"Point"}
+}

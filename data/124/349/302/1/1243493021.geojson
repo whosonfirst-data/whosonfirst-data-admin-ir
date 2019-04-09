@@ -1,0 +1,73 @@
+{
+  "id": 1243493021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.59167,36.93806,54.59167,36.93806",
+    "geom:latitude":36.93806,
+    "geom:longitude":54.59167,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Kuran Tappeh",
+    "gn:country_code":"IR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":39585,
+    "gn:latitude":36.93806,
+    "gn:longitude":54.59167,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"K\u016br\u0101n Tappeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0648\u0631\u0627\u0646 \u062a\u064e\u067e\u0650\u0651\u0647"
+    ],
+    "name:fas_x_variant":[
+        "K\u016br\u0101n Tappeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":39585
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"16bdee0ce27b832d0b823f2563ad88d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720041,
+            "locality_id":1243493021,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1243493021,
+    "wof:lastmodified":1537642220,
+    "wof:name":"Kuran Tappeh",
+    "wof:parent_id":1108720041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.59166999999999,
+    36.93806,
+    54.59166999999999,
+    36.93806
+],
+  "geometry": {"coordinates":[54.59166999999999,36.93806],"type":"Point"}
+}

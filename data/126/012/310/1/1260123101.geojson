@@ -1,0 +1,79 @@
+{
+  "id": 1260123101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.03333,36.65,48.03333,36.65",
+    "geom:latitude":36.65,
+    "geom:longitude":48.03333,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Nasrabad",
+    "gn:country_code":"IR",
+    "gn:dem":2400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":122579,
+    "gn:latitude":36.65,
+    "gn:longitude":48.03333,
+    "gn:modification_date":"2018-05-02",
+    "gn:name":"Nasrabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0635\u0650\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u064e\u0633\u0631\u064e\u0628\u064e\u062f",
+        "\u0646\u064e\u0635\u064a\u0631 \u0622\u0628\u0627\u062f",
+        "N\u0101\u015fer\u0101b\u0101d"
+    ],
+    "name:und_x_variant":[
+        "Na\u015f\u012br\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672361,
+        1108720519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":122579,
+        "wk:page":"Nasirabad,_Mahneshan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1b729c42930e69e866e763a87267dbf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720519,
+            "locality_id":1260123101,
+            "region_id":85672361
+        }
+    ],
+    "wof:id":1260123101,
+    "wof:lastmodified":1537644073,
+    "wof:name":"Nasrabad",
+    "wof:parent_id":1108720519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.03333,
+    36.65,
+    48.03333,
+    36.65
+],
+  "geometry": {"coordinates":[48.03333,36.65],"type":"Point"}
+}

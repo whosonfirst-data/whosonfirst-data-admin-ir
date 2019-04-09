@@ -1,0 +1,78 @@
+{
+  "id": 1310465863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.93496,35.95677,46.93496,35.95677",
+    "geom:latitude":35.95677,
+    "geom:longitude":46.93496,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Katak",
+    "gn:country_code":"IR",
+    "gn:dem":1939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":413985,
+    "gn:latitude":35.95677,
+    "gn:longitude":46.93496,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Katak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u064e\u062a\u064e\u0643"
+    ],
+    "name:fas_x_variant":[
+        "\u0643\u064f\u062a\u0650\u0643",
+        "\u06a9\u062a\u06a9"
+    ],
+    "name:und_x_variant":[
+        "Kotek",
+        "Katak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108719971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":413985
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0c6ffe9f553359954c52060adfe93e14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719971,
+            "locality_id":1310465863,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1310465863,
+    "wof:lastmodified":1537646647,
+    "wof:name":"Katak",
+    "wof:parent_id":1108719971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.93496,
+    35.95677,
+    46.93496,
+    35.95677
+],
+  "geometry": {"coordinates":[46.93496,35.95677],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293363213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.5565,31.8247,48.5565,31.8247",
+    "geom:latitude":31.8247,
+    "geom:longitude":48.5565,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Mazra`eh-ye Yek Tarafi",
+    "gn:country_code":"IR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":42312,
+    "gn:latitude":31.8247,
+    "gn:longitude":48.5565,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Mazra\u2018eh-ye Yek \u0162araf\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Mazra\u2018eh-ye Sheykh Sh\u0101ye\u2018",
+        "Mazra\u2018eh",
+        "\u0645\u0632\u0631\u0639\u0647 \u06cc\u06a9 \u0637\u0631\u0641\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u2018eh-ye Yek \u0162araf\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":42312
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d2117e545d25ce0e42a50dbd4decfd5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720455,
+            "locality_id":1293363213,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1293363213,
+    "wof:lastmodified":1537642394,
+    "wof:name":"Mazra`eh-ye Yek Tarafi",
+    "wof:parent_id":1108720455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.5565,
+    31.8247,
+    48.5565,
+    31.8247
+],
+  "geometry": {"coordinates":[48.5565,31.8247],"type":"Point"}
+}

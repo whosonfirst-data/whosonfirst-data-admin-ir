@@ -1,0 +1,78 @@
+{
+  "id": 1226043915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.413,32.382,50.413,32.382",
+    "geom:latitude":32.382,
+    "geom:longitude":50.413,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Chahar Muran",
+    "gn:country_code":"IR",
+    "gn:dem":2689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":139674,
+    "gn:latitude":32.382,
+    "gn:longitude":50.413,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chah\u0101r M\u016br\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Chah\u0101r M\u0101r\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u064e\u0647\u0627\u0631 \u0645\u0627\u0631\u0627\u0646",
+        "Chah\u0101r M\u016br\u0101n",
+        "\u0686\u0647\u0627\u0631 \u0645\u0648\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0686\u0647\u0627\u0631 \u0645\u0648\u0631\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672319,
+        1108720171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":139674
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9eee975a7d2ae2d4f31e8b3af875fb4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720171,
+            "locality_id":1226043915,
+            "region_id":85672319
+        }
+    ],
+    "wof:id":1226043915,
+    "wof:lastmodified":1537645795,
+    "wof:name":"Chahar Muran",
+    "wof:parent_id":1108720171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.413,
+    32.382,
+    50.413,
+    32.382
+],
+  "geometry": {"coordinates":[50.413,32.382],"type":"Point"}
+}

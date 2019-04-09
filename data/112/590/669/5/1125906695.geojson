@@ -1,0 +1,87 @@
+{
+  "id": 1125906695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.0553,34.3838,47.0553,34.3838",
+    "geom:latitude":34.3838,
+    "geom:longitude":47.0553,
+    "gn:gn_country":"IR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":766706,
+    "gn:population":766706,
+    "iso:country":"IR",
+    "lbl:latitude":34.3838,
+    "lbl:longitude":47.0553,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fas_x_preferred":[
+        "Kahr\u012bz"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0647\u0631\u06cc\u0632"
+    ],
+    "name:unk_x_variant":[
+        "\u06a9\u0647\u0631\u06cc\u0632"
+    ],
+    "qs_pg:aaroncc":"IR",
+    "qs_pg:gn_country":"IR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":23814,
+    "qs_pg:gn_pop":766706,
+    "qs_pg:name":"Kahr\u012bz",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":11,
+    "qs_pg:qs_id":55917,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":23814,
+        "qs_pg:id":55917
+    },
+    "wof:country":"IR",
+    "wof:created":1497296012,
+    "wof:geomhash":"4c640bcba13379d82466f12b3587f62e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720117,
+            "locality_id":1125906695,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1125906695,
+    "wof:lastmodified":1509399794,
+    "wof:name":"Kahr\u012bz",
+    "wof:parent_id":1108720117,
+    "wof:placetype":"locality",
+    "wof:population":766706,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.0553,
+    34.3838,
+    47.0553,
+    34.3838
+],
+  "geometry": {"coordinates":[47.0553,34.3838],"type":"Point"}
+}

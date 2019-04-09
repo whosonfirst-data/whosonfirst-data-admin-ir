@@ -1,0 +1,73 @@
+{
+  "id": 1343605769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.02917,35.93361,52.02917,35.93361",
+    "geom:latitude":35.93361,
+    "geom:longitude":52.02917,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Torikh",
+    "gn:country_code":"IR",
+    "gn:dem":2866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":32566,
+    "gn:latitude":35.93361,
+    "gn:longitude":52.02917,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Tor\u012bkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u064f\u0631\u064a\u062e"
+    ],
+    "name:fas_x_variant":[
+        "Tor\u012bkh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":32566
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ab6cc51c7d279571727031eb82bbfb3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719807,
+            "locality_id":1343605769,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1343605769,
+    "wof:lastmodified":1537641808,
+    "wof:name":"Torikh",
+    "wof:parent_id":1108719807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.02917,
+    35.93360999999999,
+    52.02917,
+    35.93360999999999
+],
+  "geometry": {"coordinates":[52.02917,35.93360999999999],"type":"Point"}
+}

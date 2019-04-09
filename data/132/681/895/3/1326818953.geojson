@@ -1,0 +1,74 @@
+{
+  "id": 1326818953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.6563,33.659,46.6563,33.659",
+    "geom:latitude":33.659,
+    "geom:longitude":46.6563,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Kolahjub",
+    "gn:country_code":"IR",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6711363,
+    "gn:latitude":33.659,
+    "gn:longitude":46.6563,
+    "gn:modification_date":"2018-07-12",
+    "gn:name":"Kolahj\u016bb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0644\u0647 \u062c\u0648\u0628"
+    ],
+    "name:fas_x_variant":[
+        "Kolahj\u016bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108720453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6711363,
+        "wk:page":"Kolahjub,_Shirvan_and_Chardaval"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"34cfd1b78749b369eb9c3b7b993c71b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720453,
+            "locality_id":1326818953,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1326818953,
+    "wof:lastmodified":1537647473,
+    "wof:name":"Kolahjub",
+    "wof:parent_id":1108720453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.6563,
+    33.659,
+    46.6563,
+    33.659
+],
+  "geometry": {"coordinates":[46.6563,33.659],"type":"Point"}
+}

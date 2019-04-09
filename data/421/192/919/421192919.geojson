@@ -1,0 +1,83 @@
+{
+  "id": 421192919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.250064,32.194789,48.250064,32.194789",
+    "geom:latitude":32.194789,
+    "geom:longitude":48.250064,
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:heb_x_preferred":[
+        "\u05e9\u05d5\u05e9"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0634\u0648\u0634"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Shush",
+    "qs:name_adm0":"Iran",
+    "qs:name_adm1":"Khuzestan",
+    "qs:photos":88,
+    "qs:photos_1k":18,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":88,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1183324,
+    "qs:woe_adm0":23424851,
+    "qs:woe_id":2255208,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":63,
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2255208,
+        "qs:id":1183324,
+        "wd:id":"Q7505455"
+    },
+    "wof:country":"IR",
+    "wof:created":1459009753,
+    "wof:geomhash":"a32d6965df0eee18190df331d8372771",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720455,
+            "locality_id":421192919,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":421192919,
+    "wof:lastmodified":1527716116,
+    "wof:name":"Shush",
+    "wof:parent_id":1108720455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.250064,
+    32.194789,
+    48.250064,
+    32.194789
+],
+  "geometry": {"coordinates":[48.250064,32.194789],"type":"Point"}
+}

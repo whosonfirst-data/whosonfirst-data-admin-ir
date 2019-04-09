@@ -1,0 +1,78 @@
+{
+  "id": 1243410257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.55731,33.76291,48.55731,33.76291",
+    "geom:latitude":33.76291,
+    "geom:longitude":48.55731,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Sarab-e Mir Beyg",
+    "gn:country_code":"IR",
+    "gn:dem":1901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":117331,
+    "gn:latitude":33.76291,
+    "gn:longitude":48.55731,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Sar\u0101b-e M\u012br Beyg",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0627\u0628 \u0645\u064a\u0631 \u0628\u064a\u06af"
+    ],
+    "name:fas_x_variant":[
+        "Sar\u0101b-e M\u012br Beyg"
+    ],
+    "name:und_x_variant":[
+        "Sar\u0101b-e M\u012br Beyk",
+        "Sar\u0101b M\u012br Beg",
+        "Sar\u0101b-e M\u012br Beyg-e P\u0101\u2019\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":117331
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f830a9bf4510411cd08f515f87d71501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720145,
+            "locality_id":1243410257,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1243410257,
+    "wof:lastmodified":1537643531,
+    "wof:name":"Sarab-e Mir Beyg",
+    "wof:parent_id":1108720145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.55731,
+    33.76291,
+    48.55731,
+    33.76291
+],
+  "geometry": {"coordinates":[48.55731,33.76291],"type":"Point"}
+}

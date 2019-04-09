@@ -1,0 +1,73 @@
+{
+  "id": 1360136379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.80279,37.00529,54.80279,37.00529",
+    "geom:latitude":37.00529,
+    "geom:longitude":54.80279,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Sazeman-e Sarhang",
+    "gn:country_code":"IR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10007382,
+    "gn:latitude":37.00529,
+    "gn:longitude":54.80279,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"S\u0101zem\u0101n-e Sarhang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0632\u0645\u0627\u0646 \u0633\u0631\u0647\u0646\u06af"
+    ],
+    "name:und_x_variant":[
+        "S\u0101zem\u0101n-e Sarhang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108719799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10007382
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"706761da5697758256ae16d1a686ca83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719799,
+            "locality_id":1360136379,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1360136379,
+    "wof:lastmodified":1537648665,
+    "wof:name":"Sazeman-e Sarhang",
+    "wof:parent_id":1108719799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.80279,
+    37.00529,
+    54.80279,
+    37.00529
+],
+  "geometry": {"coordinates":[54.80279,37.00529],"type":"Point"}
+}

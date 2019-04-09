@@ -1,0 +1,73 @@
+{
+  "id": 1259765213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.96667,35.53333,46.96667,35.53333",
+    "geom:latitude":35.53333,
+    "geom:longitude":46.96667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Almalu",
+    "gn:country_code":"IR",
+    "gn:dem":2072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4001,
+    "gn:latitude":35.53333,
+    "gn:longitude":46.96667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Almal\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u064e\u0644\u0645\u064e\u0644\u0648"
+    ],
+    "name:fas_x_variant":[
+        "Almal\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4001
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cf8767e4c02b9ec2043281f36d295ec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720379,
+            "locality_id":1259765213,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1259765213,
+    "wof:lastmodified":1537640284,
+    "wof:name":"Almalu",
+    "wof:parent_id":1108720379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.96667,
+    35.53333,
+    46.96667,
+    35.53333
+],
+  "geometry": {"coordinates":[46.96667,35.53333],"type":"Point"}
+}

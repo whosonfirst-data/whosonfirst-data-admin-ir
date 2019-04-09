@@ -1,0 +1,74 @@
+{
+  "id": 1343640655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.6587,34.5225,45.6587,34.5225",
+    "geom:latitude":34.5225,
+    "geom:longitude":45.6587,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Seyyed Ayaz",
+    "gn:country_code":"IR",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6686068,
+    "gn:latitude":34.5225,
+    "gn:longitude":45.6587,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Seyyed Ay\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u064a\u0651\u062f\u0627\u064a\u0627\u0632"
+    ],
+    "name:fas_x_variant":[
+        "Seyyed Ay\u0101z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6686068,
+        "wk:page":"Seyyed_Ayaz"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9df72f613afd349e1a57ce6ace3ef7fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720311,
+            "locality_id":1343640655,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1343640655,
+    "wof:lastmodified":1537647377,
+    "wof:name":"Seyyed Ayaz",
+    "wof:parent_id":1108720311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.6587,
+    34.5225,
+    45.6587,
+    34.5225
+],
+  "geometry": {"coordinates":[45.6587,34.5225],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327315789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.75444,34.84833,46.75444,34.84833",
+    "geom:latitude":34.84833,
+    "geom:longitude":46.75444,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Sar Shilaneh",
+    "gn:country_code":"IR",
+    "gn:dem":2019,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":24360,
+    "gn:latitude":34.84833,
+    "gn:longitude":46.75444,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sar Sh\u012bl\u0101neh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u064e\u0631 \u0634\u064a\u0644\u0627\u0646\u0650\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Sar Sh\u012bl\u0101neh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":24360
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"617fb2cc1eca035fc825d395bc2f7af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720099,
+            "locality_id":1327315789,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1327315789,
+    "wof:lastmodified":1537641275,
+    "wof:name":"Sar Shilaneh",
+    "wof:parent_id":1108720099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.75444,
+    34.84833,
+    46.75444,
+    34.84833
+],
+  "geometry": {"coordinates":[46.75444,34.84833],"type":"Point"}
+}

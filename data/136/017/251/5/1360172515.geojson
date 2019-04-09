@@ -1,0 +1,77 @@
+{
+  "id": 1360172515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.634,27.2207,55.634,27.2207",
+    "geom:latitude":27.2207,
+    "geom:longitude":55.634,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Gachu",
+    "gn:country_code":"IR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6649553,
+    "gn:latitude":27.2207,
+    "gn:longitude":55.634,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Gach\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0639\u0647 \u067e\u0631 \u0622\u0628"
+    ],
+    "name:fas_x_variant":[
+        "Qal\u2018eh-ye Por \u0100b",
+        "\u06af\u0686\u0648"
+    ],
+    "name:und_x_variant":[
+        "Gach\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6649553
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7b925206f6407ee29a48bd59adbb430c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720127,
+            "locality_id":1360172515,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1360172515,
+    "wof:lastmodified":1537647190,
+    "wof:name":"Gachu",
+    "wof:parent_id":1108720127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.63399999999999,
+    27.2207,
+    55.63399999999999,
+    27.2207
+],
+  "geometry": {"coordinates":[55.63399999999999,27.2207],"type":"Point"}
+}

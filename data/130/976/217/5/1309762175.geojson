@@ -1,0 +1,73 @@
+{
+  "id": 1309762175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.6774,33.682,47.6774,33.682",
+    "geom:latitude":33.682,
+    "geom:longitude":47.6774,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Mirza Rahim",
+    "gn:country_code":"IR",
+    "gn:dem":1886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6727054,
+    "gn:latitude":33.682,
+    "gn:longitude":47.6774,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"M\u012brza Ra\u1e29\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0631\u0632\u0627 \u0631\u062d\u06cc\u0645"
+    ],
+    "name:fas_x_variant":[
+        "M\u012brza Ra\u1e29\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6727054
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ccf6965c3c9287b6fa42770d664c2f71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720169,
+            "locality_id":1309762175,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1309762175,
+    "wof:lastmodified":1537647522,
+    "wof:name":"Mirza Rahim",
+    "wof:parent_id":1108720169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.6774,
+    33.682,
+    47.6774,
+    33.682
+],
+  "geometry": {"coordinates":[47.6774,33.682],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1276377863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.19954,35.90675,52.19954,35.90675",
+    "geom:latitude":35.90675,
+    "geom:longitude":52.19954,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Shahidabad",
+    "gn:country_code":"IR",
+    "gn:dem":2178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":33111,
+    "gn:latitude":35.90675,
+    "gn:longitude":52.19954,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"Shah\u012bd\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u064a\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Am\u012br\u0101b\u0101d",
+        "\u0634\u0647\u064a\u062f \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Shah\u012bd\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":33111
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"684afa3ffe312b29d430df2f22f2e45e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719807,
+            "locality_id":1276377863,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1276377863,
+    "wof:lastmodified":1537641842,
+    "wof:name":"Shahidabad",
+    "wof:parent_id":1108719807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.19954,
+    35.90675,
+    52.19954,
+    35.90675
+],
+  "geometry": {"coordinates":[52.19954,35.90675],"type":"Point"}
+}

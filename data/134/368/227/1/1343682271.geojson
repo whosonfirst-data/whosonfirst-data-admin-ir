@@ -1,0 +1,73 @@
+{
+  "id": 1343682271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.50841,30.3368,51.50841,30.3368",
+    "geom:latitude":30.3368,
+    "geom:longitude":51.50841,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dashtak Naseh",
+    "gn:country_code":"IR",
+    "gn:dem":1071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7453687,
+    "gn:latitude":30.3368,
+    "gn:longitude":51.50841,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dashtak Naseh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0634\u062a\u06a9 \u0646\u0633\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u062f\u0634\u062a\u06a9 \u0646\u0633\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7453687
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9cfcd38f77e8a55e7ee5d82344618a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720209,
+            "locality_id":1343682271,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1343682271,
+    "wof:lastmodified":1537648216,
+    "wof:name":"Dashtak Naseh",
+    "wof:parent_id":1108720209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.50841,
+    30.3368,
+    51.50841,
+    30.3368
+],
+  "geometry": {"coordinates":[51.50841,30.3368],"type":"Point"}
+}

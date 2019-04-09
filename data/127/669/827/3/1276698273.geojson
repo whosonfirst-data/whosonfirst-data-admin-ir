@@ -1,0 +1,78 @@
+{
+  "id": 1276698273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.6432,36.25548,49.6432,36.25548",
+    "geom:latitude":36.25548,
+    "geom:longitude":49.6432,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Andaq",
+    "gn:country_code":"IR",
+    "gn:dem":1452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":143444,
+    "gn:latitude":36.25548,
+    "gn:longitude":49.6432,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"And\u0101q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u062f\u0627\u0642"
+    ],
+    "name:fas_x_variant":[
+        "And\u0101q"
+    ],
+    "name:und_x_variant":[
+        "Andak",
+        "And\u0101kh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108720479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":143444,
+        "wk:page":"Andaq"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ca15205b14b1c4ef157fc15e4b51a0e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720479,
+            "locality_id":1276698273,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1276698273,
+    "wof:lastmodified":1537646178,
+    "wof:name":"Andaq",
+    "wof:parent_id":1108720479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.6432,
+    36.25548,
+    49.6432,
+    36.25548
+],
+  "geometry": {"coordinates":[49.6432,36.25548],"type":"Point"}
+}

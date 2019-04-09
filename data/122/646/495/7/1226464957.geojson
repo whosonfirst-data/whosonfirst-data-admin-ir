@@ -1,0 +1,76 @@
+{
+  "id": 1226464957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.34133,30.9172,51.34133,30.9172",
+    "geom:latitude":30.9172,
+    "geom:longitude":51.34133,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Owba",
+    "gn:country_code":"IR",
+    "gn:dem":1731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":121765,
+    "gn:latitude":30.9172,
+    "gn:longitude":51.34133,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Owb\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Owb\u0101"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0648\u0628\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u0627\u0648\u0628\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108719965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":121765
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a6a4ca233227ce82c90350fc7d38986c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719965,
+            "locality_id":1226464957,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1226464957,
+    "wof:lastmodified":1537643984,
+    "wof:name":"Owba",
+    "wof:parent_id":1108719965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.34133,
+    30.9172,
+    51.34133,
+    30.9172
+],
+  "geometry": {"coordinates":[51.34133,30.9172],"type":"Point"}
+}

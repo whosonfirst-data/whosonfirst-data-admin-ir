@@ -1,0 +1,73 @@
+{
+  "id": 1327184571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.66952,28.23328,58.66952,28.23328",
+    "geom:latitude":28.23328,
+    "geom:longitude":58.66952,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mahdabad",
+    "gn:country_code":"IR",
+    "gn:dem":1078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9101713,
+    "gn:latitude":28.23328,
+    "gn:longitude":58.66952,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Mahd\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0647\u062f \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Mahd\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9101713
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3a216502dbcaf7cb50281b2f04ed6c68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719861,
+            "locality_id":1327184571,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1327184571,
+    "wof:lastmodified":1537648631,
+    "wof:name":"Mahdabad",
+    "wof:parent_id":1108719861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.66952,
+    28.23328,
+    58.66952,
+    28.23328
+],
+  "geometry": {"coordinates":[58.66952,28.23328],"type":"Point"}
+}

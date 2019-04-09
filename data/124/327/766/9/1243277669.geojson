@@ -1,0 +1,73 @@
+{
+  "id": 1243277669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.5343,36.6854,46.5343,36.6854",
+    "geom:latitude":36.6854,
+    "geom:longitude":46.5343,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Mastanabad",
+    "gn:country_code":"IR",
+    "gn:dem":1344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":26638,
+    "gn:latitude":36.6854,
+    "gn:longitude":46.5343,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mast\u0101n\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0633\u062a\u0627\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Mast\u0101n\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":26638
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"307b00e5bec0dfd8d8269d543dbaa880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720429,
+            "locality_id":1243277669,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1243277669,
+    "wof:lastmodified":1537641409,
+    "wof:name":"Mastanabad",
+    "wof:parent_id":1108720429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.5343,
+    36.6854,
+    46.5343,
+    36.6854
+],
+  "geometry": {"coordinates":[46.5343,36.6854],"type":"Point"}
+}

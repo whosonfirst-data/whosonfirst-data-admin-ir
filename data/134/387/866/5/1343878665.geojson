@@ -1,0 +1,74 @@
+{
+  "id": 1343878665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.18333,30.98333,52.18333,30.98333",
+    "geom:latitude":30.98333,
+    "geom:longitude":52.18333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Baba Sheykh Ahmad",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":2400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":142402,
+    "gn:latitude":30.98333,
+    "gn:longitude":52.18333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"B\u0101b\u0101 Sheykh A\u1e29mad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "B\u0101b\u0101 Sheykh A\u1e29mad"
+    ],
+    "name:und_x_variant":[
+        "B\u0101ba Shaikh Ahmad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108719975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":142402
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4883836ee76c19aa98a89ad269ae6f55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719975,
+            "locality_id":1343878665,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1343878665,
+    "wof:lastmodified":1537646069,
+    "wof:name":"Baba Sheykh Ahmad",
+    "wof:parent_id":1108719975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.18333,
+    30.98333,
+    52.18333,
+    30.98333
+],
+  "geometry": {"coordinates":[52.18333,30.98333],"type":"Point"}
+}

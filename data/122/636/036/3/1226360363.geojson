@@ -1,0 +1,73 @@
+{
+  "id": 1226360363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.5656,26.9219,57.5656,26.9219",
+    "geom:latitude":26.9219,
+    "geom:longitude":57.5656,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Nakht-e Namard",
+    "gn:country_code":"IR",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6958666,
+    "gn:latitude":26.9219,
+    "gn:longitude":57.5656,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Nakht-e Nam\u0101rd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u062e\u062a \u0646\u0645\u0627\u0631\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Nakht-e Nam\u0101rd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6958666
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"983fab979ac4095f39d9cdb9de967db6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720243,
+            "locality_id":1226360363,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1226360363,
+    "wof:lastmodified":1537647764,
+    "wof:name":"Nakht-e Namard",
+    "wof:parent_id":1108720243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.5656,
+    26.9219,
+    57.5656,
+    26.9219
+],
+  "geometry": {"coordinates":[57.5656,26.9219],"type":"Point"}
+}

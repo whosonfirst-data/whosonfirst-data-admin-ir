@@ -1,0 +1,73 @@
+{
+  "id": 1343458561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.7711,28.8683,60.7711,28.8683",
+    "geom:latitude":28.8683,
+    "geom:longitude":60.7711,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Gazikeh",
+    "gn:country_code":"IR",
+    "gn:dem":2028,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7010030,
+    "gn:latitude":28.8683,
+    "gn:longitude":60.7711,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Gaz\u012bkeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0632\u06cc\u06a9\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Gaz\u012bkeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7010030
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"171e9db36f8cb994a3acd2a9ea88f7ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720131,
+            "locality_id":1343458561,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1343458561,
+    "wof:lastmodified":1537647893,
+    "wof:name":"Gazikeh",
+    "wof:parent_id":1108720131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.7711,
+    28.8683,
+    60.7711,
+    28.8683
+],
+  "geometry": {"coordinates":[60.7711,28.8683],"type":"Point"}
+}

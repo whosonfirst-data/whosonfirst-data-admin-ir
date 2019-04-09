@@ -1,0 +1,77 @@
+{
+  "id": 1310515149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.2968,36.3202,45.2968,36.3202",
+    "geom:latitude":36.3202,
+    "geom:longitude":45.2968,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Dowlahtu",
+    "gn:country_code":"IR",
+    "gn:dem":1399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":135713,
+    "gn:latitude":36.3202,
+    "gn:longitude":45.2968,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dowlaht\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0644\u0647 \u062a\u0648"
+    ],
+    "name:fas_x_variant":[
+        "Dowlat\u016b",
+        "Dowlaht\u016b"
+    ],
+    "name:und_x_variant":[
+        "Dolat\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":135713
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c46a4fee99502a6dbf2fcbea52c7099a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720399,
+            "locality_id":1310515149,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1310515149,
+    "wof:lastmodified":1537645403,
+    "wof:name":"Dowlahtu",
+    "wof:parent_id":1108720399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.2968,
+    36.3202,
+    45.2968,
+    36.3202
+],
+  "geometry": {"coordinates":[45.2968,36.3202],"type":"Point"}
+}

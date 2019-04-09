@@ -1,0 +1,74 @@
+{
+  "id": 1293214209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.7341,36.5443,46.7341,36.5443",
+    "geom:latitude":36.5443,
+    "geom:longitude":46.7341,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Zeyd Kandi",
+    "gn:country_code":"IR",
+    "gn:dem":1592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":26208,
+    "gn:latitude":36.5443,
+    "gn:longitude":46.7341,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Zeyd Kand\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u06cc\u062f \u06a9\u0646\u062f\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Zeyd Kand\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":26208,
+        "wk:page":"Zeyd_Kandi"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b0d86a86a6ca40248943adb36162563c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720429,
+            "locality_id":1293214209,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1293214209,
+    "wof:lastmodified":1537641379,
+    "wof:name":"Zeyd Kandi",
+    "wof:parent_id":1108720429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.7341,
+    36.5443,
+    46.7341,
+    36.5443
+],
+  "geometry": {"coordinates":[46.7341,36.5443],"type":"Point"}
+}

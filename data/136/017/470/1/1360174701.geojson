@@ -1,0 +1,73 @@
+{
+  "id": 1360174701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.81142,37.48573,48.81142,37.48573",
+    "geom:latitude":37.48573,
+    "geom:longitude":48.81142,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Chal Nakhvar",
+    "gn:country_code":"IR",
+    "gn:dem":1154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11014193,
+    "gn:latitude":37.48573,
+    "gn:longitude":48.81142,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Ch\u0101l Nakhv\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0644 \u0646\u062e\u0648\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ch\u0101l Nakhv\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11014193
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"45b7094197e52ee117e51b3533ffb8bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720353,
+            "locality_id":1360174701,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1360174701,
+    "wof:lastmodified":1537648691,
+    "wof:name":"Chal Nakhvar",
+    "wof:parent_id":1108720353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.81142,
+    37.48573,
+    48.81142,
+    37.48573
+],
+  "geometry": {"coordinates":[48.81142,37.48573],"type":"Point"}
+}

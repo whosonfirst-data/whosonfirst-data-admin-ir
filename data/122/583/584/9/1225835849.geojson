@@ -1,0 +1,78 @@
+{
+  "id": 1225835849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.47613,27.94313,52.47613,27.94313",
+    "geom:latitude":27.94313,
+    "geom:longitude":52.47613,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Gavchah-e Bala",
+    "gn:country_code":"IR",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":41019,
+    "gn:latitude":27.94313,
+    "gn:longitude":52.47613,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"G\u0101vch\u0101h-e B\u0101l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0627\u0648 \u0686\u0627\u0647"
+    ],
+    "name:fas_x_variant":[
+        "G\u0101vch\u0101h",
+        "\u06af\u0627\u0648 \u0686\u0627\u0647 \u0628\u0627\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "G\u0101vch\u0101h-e B\u0101l\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":41019,
+        "wk:page":"Gavchah"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e89ce2d6411281976ee68e2f82748fe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720253,
+            "locality_id":1225835849,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1225835849,
+    "wof:lastmodified":1537642313,
+    "wof:name":"Gavchah-e Bala",
+    "wof:parent_id":1108720253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.47613000000001,
+    27.94313,
+    52.47613000000001,
+    27.94313
+],
+  "geometry": {"coordinates":[52.47613000000001,27.94313],"type":"Point"}
+}

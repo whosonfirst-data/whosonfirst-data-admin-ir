@@ -1,0 +1,82 @@
+{
+  "id": 1293679919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.57122,28.55011,53.57122,28.55011",
+    "geom:latitude":28.55011,
+    "geom:longitude":53.57122,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Janqan",
+    "gn:country_code":"IR",
+    "gn:dem":1031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":130398,
+    "gn:latitude":28.55011,
+    "gn:longitude":53.57122,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"J\u0101nq\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0645\u0642\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "J\u0101mq\u0101n",
+        "Ch\u0101mq\u0101n",
+        "\u062c\u0627\u0646\u0642\u0627\u0646",
+        "\u062c\u0627\u0645\u063a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "J\u0101 Mogh\u0101n",
+        "Jamoq\u0101n",
+        "J\u0101nq\u0101n",
+        "J\u0101mogh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":130398
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fc0c0a84b4bdc5c4b6fbbdb770e5fd5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720069,
+            "locality_id":1293679919,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1293679919,
+    "wof:lastmodified":1537644862,
+    "wof:name":"Janqan",
+    "wof:parent_id":1108720069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.57122,
+    28.55011,
+    53.57122,
+    28.55011
+],
+  "geometry": {"coordinates":[53.57122,28.55011],"type":"Point"}
+}

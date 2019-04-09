@@ -1,0 +1,74 @@
+{
+  "id": 1277060489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.76447,35.13311,48.76447,35.13311",
+    "geom:latitude":35.13311,
+    "geom:longitude":48.76447,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Nowabad",
+    "gn:country_code":"IR",
+    "gn:dem":1646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":35948,
+    "gn:latitude":35.13311,
+    "gn:longitude":48.76447,
+    "gn:modification_date":"2018-06-29",
+    "gn:name":"Now\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0648 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Now\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":35948,
+        "wk:page":"Nowabad,_Hamadan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2be73feff80e034198ec9e44d1ae3b36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720087,
+            "locality_id":1277060489,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1277060489,
+    "wof:lastmodified":1537641977,
+    "wof:name":"Nowabad",
+    "wof:parent_id":1108720087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.76447,
+    35.13310999999999,
+    48.76447,
+    35.13310999999999
+],
+  "geometry": {"coordinates":[48.76447,35.13310999999999],"type":"Point"}
+}

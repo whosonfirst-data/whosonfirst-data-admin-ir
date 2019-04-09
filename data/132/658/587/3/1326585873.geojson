@@ -1,0 +1,80 @@
+{
+  "id": 1326585873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.40516,33.36269,49.40516,33.36269",
+    "geom:latitude":33.36269,
+    "geom:longitude":49.40516,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Siavoshabad",
+    "gn:country_code":"IR",
+    "gn:dem":1891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":114373,
+    "gn:latitude":33.36269,
+    "gn:longitude":49.40516,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"S\u012b\u0101vosh\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u064a\u0627\u0648\u0634"
+    ],
+    "name:fas_x_variant":[
+        "S\u012b\u0101vosh\u0101b\u0101d",
+        "S\u012b\u0101vosh",
+        "\u0633\u06cc\u0627\u0648\u0634 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Sey\u0101vash\u0101b\u0101d",
+        "S\u012b\u0101vash\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":114373,
+        "wk:page":"Siavashabad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"374ad8c222a58b21f7437ce8090f9915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719843,
+            "locality_id":1326585873,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1326585873,
+    "wof:lastmodified":1537643273,
+    "wof:name":"Siavoshabad",
+    "wof:parent_id":1108719843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.40516,
+    33.36269,
+    49.40516,
+    33.36269
+],
+  "geometry": {"coordinates":[49.40516,33.36269],"type":"Point"}
+}

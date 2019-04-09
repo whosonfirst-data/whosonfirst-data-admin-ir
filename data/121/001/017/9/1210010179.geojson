@@ -1,0 +1,73 @@
+{
+  "id": 1210010179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.18733,32.78293,47.18733,32.78293",
+    "geom:latitude":32.78293,
+    "geom:longitude":47.18733,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Hazer Mil",
+    "gn:country_code":"IR",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":42125,
+    "gn:latitude":32.78293,
+    "gn:longitude":47.18733,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"\u1e28\u0101\u1e95er M\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0627\u0636\u0631 \u0645\u06cc\u0644"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28\u0101\u1e95er M\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108719957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":42125
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b43236f80721d48f37642d938517637e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719957,
+            "locality_id":1210010179,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1210010179,
+    "wof:lastmodified":1537642376,
+    "wof:name":"Hazer Mil",
+    "wof:parent_id":1108719957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.18733,
+    32.78293,
+    47.18733,
+    32.78293
+],
+  "geometry": {"coordinates":[47.18733,32.78293],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1242776599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.62116,31.34559,50.62116,31.34559",
+    "geom:latitude":31.34559,
+    "geom:longitude":50.62116,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Survazin",
+    "gn:country_code":"IR",
+    "gn:dem":1616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7529683,
+    "gn:latitude":31.34559,
+    "gn:longitude":50.62116,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"S\u016brvaz\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "S\u016brvaz\u012bn"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0648\u0631\u0648\u0632\u06cc\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0633\u0648\u0631\u0648\u0632\u06cc\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7529683
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"beaeaf0bb9353760d75c10398be85fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1242776599,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1242776599,
+    "wof:lastmodified":1537648308,
+    "wof:name":"Survazin",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.62116,
+    31.34559,
+    50.62116,
+    31.34559
+],
+  "geometry": {"coordinates":[50.62116,31.34559],"type":"Point"}
+}

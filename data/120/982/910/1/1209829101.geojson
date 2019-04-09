@@ -1,0 +1,75 @@
+{
+  "id": 1209829101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.2226,37.4099,45.2226,37.4099",
+    "geom:latitude":37.4099,
+    "geom:longitude":45.2226,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Naybin",
+    "gn:country_code":"IR",
+    "gn:dem":1284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":17808,
+    "gn:latitude":37.4099,
+    "gn:longitude":45.2226,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"N\u0101yb\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u06cc \u0628\u06cc\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0627\u064a\u0628\u064a\u0646",
+        "N\u0101yb\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":17808,
+        "wk:page":"Naybin"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cbb423f1902650d4df71906a34162ecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720289,
+            "locality_id":1209829101,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1209829101,
+    "wof:lastmodified":1537640982,
+    "wof:name":"Naybin",
+    "wof:parent_id":1108720289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.2226,
+    37.4099,
+    45.2226,
+    37.4099
+],
+  "geometry": {"coordinates":[45.2226,37.4099],"type":"Point"}
+}

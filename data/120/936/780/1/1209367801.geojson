@@ -1,0 +1,67 @@
+{
+  "id": 1209367801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.63285,36.78999,48.63285,36.78999",
+    "geom:latitude":36.78999,
+    "geom:longitude":48.63285,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Qinar",
+    "gn:country_code":"IR",
+    "gn:dem":2286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11595559,
+    "gn:latitude":36.78999,
+    "gn:longitude":48.63285,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Q\u012bnar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0642\u06cc\u0646\u0631"
+    ],
+    "name:und_x_variant":[
+        "Q\u012bnar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11595559
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"788d6bfc74314f5eda47f955f6a514cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209367801
+        }
+    ],
+    "wof:id":1209367801,
+    "wof:lastmodified":1537648792,
+    "wof:name":"Qinar",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.63285,
+    36.78999,
+    48.63285,
+    36.78999
+],
+  "geometry": {"coordinates":[48.63285,36.78999],"type":"Point"}
+}

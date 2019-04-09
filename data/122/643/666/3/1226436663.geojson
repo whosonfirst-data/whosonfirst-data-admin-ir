@@ -1,0 +1,78 @@
+{
+  "id": 1226436663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.9047,27.2486,53.9047,27.2486",
+    "geom:latitude":27.2486,
+    "geom:longitude":53.9047,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Lavarmistan",
+    "gn:country_code":"IR",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":48729,
+    "gn:latitude":27.2486,
+    "gn:longitude":53.9047,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"L\u0101varm\u012bst\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "L\u0101var-e M\u012b\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u0644\u0627\u0648\u0631\u0645\u06cc\u0633\u062a\u0627\u0646",
+        "\u0644\u0627\u0648\u0631 \u06a9\u0627\u0644"
+    ],
+    "name:und_x_variant":[
+        "L\u0101varm\u012bst\u0101n",
+        "L\u0101var K\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":48729
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"53e0981343ea69c37ad7a90747a29c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720181,
+            "locality_id":1226436663,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1226436663,
+    "wof:lastmodified":1537642745,
+    "wof:name":"Lavarmistan",
+    "wof:parent_id":1108720181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.9047,
+    27.2486,
+    53.9047,
+    27.2486
+],
+  "geometry": {"coordinates":[53.9047,27.2486],"type":"Point"}
+}

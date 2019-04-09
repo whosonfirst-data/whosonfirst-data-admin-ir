@@ -1,0 +1,73 @@
+{
+  "id": 1343401305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.919,36.496,52.919,36.496",
+    "geom:latitude":36.496,
+    "geom:longitude":52.919,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Pa'in Lamuk",
+    "gn:country_code":"IR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7649294,
+    "gn:latitude":36.496,
+    "gn:longitude":52.919,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"P\u0101\u2019\u012bn Lam\u016bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "P\u0101\u2019\u012bn Lam\u016bk"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u0627\u0626\u064a\u0646 \u0644\u0645\u0648\u0643"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7649294
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"50fe3fb394b0df8277fc7eeca5ceb276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720309,
+            "locality_id":1343401305,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1343401305,
+    "wof:lastmodified":1537648493,
+    "wof:name":"Pa'in Lamuk",
+    "wof:parent_id":1108720309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.919,
+    36.496,
+    52.919,
+    36.496
+],
+  "geometry": {"coordinates":[52.919,36.496],"type":"Point"}
+}

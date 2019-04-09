@@ -1,0 +1,74 @@
+{
+  "id": 1192967153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.0043,39.0189,48.0043,39.0189",
+    "geom:latitude":39.0189,
+    "geom:longitude":48.0043,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Majidlu",
+    "gn:country_code":"IR",
+    "gn:dem":987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":38182,
+    "gn:latitude":39.0189,
+    "gn:longitude":48.0043,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Maj\u012bdl\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u062c\u064a\u062f\u0644\u0648"
+    ],
+    "name:fas_x_variant":[
+        "Maj\u012bdl\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":38182,
+        "wk:page":"Majidlu"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ac81b905e2dc8054608004db7f0a9c6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720021,
+            "locality_id":1192967153,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1192967153,
+    "wof:lastmodified":1537642160,
+    "wof:name":"Majidlu",
+    "wof:parent_id":1108720021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.0043,
+    39.0189,
+    48.0043,
+    39.0189
+],
+  "geometry": {"coordinates":[48.0043,39.0189],"type":"Point"}
+}

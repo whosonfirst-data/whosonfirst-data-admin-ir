@@ -1,0 +1,73 @@
+{
+  "id": 1226706431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.45,28.23333,51.45,28.23333",
+    "geom:latitude":28.23333,
+    "geom:longitude":51.45,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Bizakh",
+    "gn:country_code":"IR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110860,
+    "gn:latitude":28.23333,
+    "gn:longitude":51.45,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"B\u012bzakh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "B\u012bzakh"
+    ],
+    "name:und_x_variant":[
+        "B\u012bzeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108719953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110860
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2f753af86d41ffca18f73f317a4958cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719953,
+            "locality_id":1226706431,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1226706431,
+    "wof:lastmodified":1537642920,
+    "wof:name":"Bizakh",
+    "wof:parent_id":1108719953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.45,
+    28.23333,
+    51.45,
+    28.23333
+],
+  "geometry": {"coordinates":[51.45,28.23333],"type":"Point"}
+}

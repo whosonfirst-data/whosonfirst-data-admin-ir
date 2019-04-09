@@ -1,0 +1,73 @@
+{
+  "id": 1259765947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.8775,31.5199,47.8775,31.5199",
+    "geom:latitude":31.5199,
+    "geom:longitude":47.8775,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Jarayyeh",
+    "gn:country_code":"IR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6722192,
+    "gn:latitude":31.5199,
+    "gn:longitude":47.8775,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Jar\u0101yyeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062c\u0631\u0627\u06cc\u0651\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Jar\u0101yyeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6722192
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d2b6db247817445aaa087e470a9b569f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719949,
+            "locality_id":1259765947,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1259765947,
+    "wof:lastmodified":1537647503,
+    "wof:name":"Jarayyeh",
+    "wof:parent_id":1108719949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.8775,
+    31.5199,
+    47.8775,
+    31.5199
+],
+  "geometry": {"coordinates":[47.8775,31.5199],"type":"Point"}
+}

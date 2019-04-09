@@ -1,0 +1,67 @@
+{
+  "id": 1210045171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.11048,37.57755,59.11048,37.57755",
+    "geom:latitude":37.57755,
+    "geom:longitude":59.11048,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Chaqqer",
+    "gn:country_code":"IR",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":26169,
+    "gn:latitude":37.57755,
+    "gn:longitude":59.11048,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Chaqqer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ashgabat",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108719941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":26169
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c4825b70f7d51336de858246d2809e40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719941,
+            "locality_id":1210045171,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1210045171,
+    "wof:lastmodified":1536379792,
+    "wof:name":"Chaqqer",
+    "wof:parent_id":1108719941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.11048,
+    37.57755,
+    59.11048,
+    37.57755
+],
+  "geometry": {"coordinates":[59.11048,37.57755],"type":"Point"}
+}

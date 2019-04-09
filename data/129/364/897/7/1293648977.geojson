@@ -1,0 +1,73 @@
+{
+  "id": 1293648977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.4585,37.2477,48.4585,37.2477",
+    "geom:latitude":37.2477,
+    "geom:longitude":48.4585,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Tuvistan",
+    "gn:country_code":"IR",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6689145,
+    "gn:latitude":37.2477,
+    "gn:longitude":48.4585,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"T\u016bv\u012bst\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0648\u06cc\u0633\u062a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "T\u016bv\u012bst\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6689145
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1eb02422f5e08f6b8985d94dce870d62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720123,
+            "locality_id":1293648977,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1293648977,
+    "wof:lastmodified":1537647424,
+    "wof:name":"Tuvistan",
+    "wof:parent_id":1108720123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.4585,
+    37.2477,
+    48.4585,
+    37.2477
+],
+  "geometry": {"coordinates":[48.4585,37.2477],"type":"Point"}
+}

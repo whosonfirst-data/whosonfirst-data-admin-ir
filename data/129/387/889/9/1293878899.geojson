@@ -1,0 +1,73 @@
+{
+  "id": 1293878899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.9323,37.2605,48.9323,37.2605",
+    "geom:latitude":37.2605,
+    "geom:longitude":48.9323,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Sund Poshteh",
+    "gn:country_code":"IR",
+    "gn:dem":1582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6742009,
+    "gn:latitude":37.2605,
+    "gn:longitude":48.9323,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"S\u016bnd Poshteh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0646\u062f \u067e\u0634\u062a\u0647"
+    ],
+    "name:fas_x_variant":[
+        "S\u016bnd Poshteh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6742009
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b4bccafa9781f13661c3e9c919c17f34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720013,
+            "locality_id":1293878899,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1293878899,
+    "wof:lastmodified":1537647586,
+    "wof:name":"Sund Poshteh",
+    "wof:parent_id":1108720013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.9323,
+    37.2605,
+    48.9323,
+    37.2605
+],
+  "geometry": {"coordinates":[48.9323,37.2605],"type":"Point"}
+}

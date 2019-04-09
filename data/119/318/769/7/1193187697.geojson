@@ -1,0 +1,82 @@
+{
+  "id": 1193187697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.3835,38.3688,47.3835,38.3688",
+    "geom:latitude":38.3688,
+    "geom:longitude":47.3835,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Khorda Guran",
+    "gn:country_code":"IR",
+    "gn:dem":1234,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":13608,
+    "gn:latitude":38.3688,
+    "gn:longitude":47.3835,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"Khord\u0101 G\u016br\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0631\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "G\u016bzv\u0101n-e K\u016bchak",
+        "G\u016br\u0101n",
+        "\u062e\u0631\u062f\u0627 \u06af\u0648\u0631\u0627\u0646",
+        "\u06af\u0648\u0631\u0648\u0627\u0646 \u06a9\u0648\u0686\u06a9"
+    ],
+    "name:und_x_variant":[
+        "Khord\u0101 G\u016br\u0101n",
+        "G\u016brv\u0101n-e K\u016bchak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13608,
+        "wk:page":"Gurvan-e_Kuchak"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c4380c14fd1b8ce38c272b981c4fe839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720237,
+            "locality_id":1193187697,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1193187697,
+    "wof:lastmodified":1537640730,
+    "wof:name":"Khorda Guran",
+    "wof:parent_id":1108720237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.3835,
+    38.3688,
+    47.3835,
+    38.3688
+],
+  "geometry": {"coordinates":[47.3835,38.3688],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1343565767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.18861,31.00799,50.18861,31.00799",
+    "geom:latitude":31.00799,
+    "geom:longitude":50.18861,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Darreh Kharzaleh",
+    "gn:country_code":"IR",
+    "gn:dem":1264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":138797,
+    "gn:latitude":31.00799,
+    "gn:longitude":50.18861,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Darreh Kharzaleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0650\u0647 \u0686\u0650\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u0650\u0644\u06cc",
+        "Deh Chel\u012b",
+        "\u062f\u0631\u0647 \u062e\u0631\u0632\u0644\u0647",
+        "\u062f\u0631\u0651\u0647 \u0646\u0627\u0648\u0646\u062c\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Chel\u012b",
+        "Darreh Kharzaleh",
+        "Darreh N\u0101vanj\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108719859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":138797
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0aa82580ed025f33e568be93be99340d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719859,
+            "locality_id":1343565767,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1343565767,
+    "wof:lastmodified":1537645714,
+    "wof:name":"Darreh Kharzaleh",
+    "wof:parent_id":1108719859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.18861,
+    31.00799,
+    50.18861,
+    31.00799
+],
+  "geometry": {"coordinates":[50.18861,31.00799],"type":"Point"}
+}

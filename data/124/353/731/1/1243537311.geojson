@@ -1,0 +1,82 @@
+{
+  "id": 1243537311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.72499,30.65626,48.72499,30.65626",
+    "geom:latitude":30.65626,
+    "geom:longitude":48.72499,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Buzi-ye Seyf",
+    "gn:country_code":"IR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":139789,
+    "gn:latitude":30.65626,
+    "gn:longitude":48.72499,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"B\u016bz\u012b-ye Seyf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "B\u016bz\u012b"
+    ],
+    "name:fas_x_variant":[
+        "B\u016bz",
+        "\u0628\u0648\u0632",
+        "\u0628\u0648\u0632\u06cc",
+        "\u0628\u0648\u0632\u06cc \u0633\u06cc\u0641"
+    ],
+    "name:und_x_variant":[
+        "Boz\u012byeh",
+        "Buz\u012byeh",
+        "\u0628\u0648\u0632\u06cc",
+        "B\u016bz\u012b-ye Seyf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":139789
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1a62f6a19ff791f1c493882b8a7d0b19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720425,
+            "locality_id":1243537311,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1243537311,
+    "wof:lastmodified":1537645808,
+    "wof:name":"Buzi-ye Seyf",
+    "wof:parent_id":1108720425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.72499000000001,
+    30.65626,
+    48.72499000000001,
+    30.65626
+],
+  "geometry": {"coordinates":[48.72499000000001,30.65626],"type":"Point"}
+}

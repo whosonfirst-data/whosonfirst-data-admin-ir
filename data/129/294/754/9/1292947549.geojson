@@ -1,0 +1,73 @@
+{
+  "id": 1292947549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.20715,28.20624,58.20715,28.20624",
+    "geom:latitude":28.20624,
+    "geom:longitude":58.20715,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Zahra'i",
+    "gn:country_code":"IR",
+    "gn:dem":707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6928560,
+    "gn:latitude":28.20624,
+    "gn:longitude":58.20715,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Zahr\u0101\u2019\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0632\u0647\u0631\u0627\u0626\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Zahr\u0101\u2019\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6928560
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1bb5658a963d24421e79bf78ba398035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719809,
+            "locality_id":1292947549,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1292947549,
+    "wof:lastmodified":1537647752,
+    "wof:name":"Zahra'i",
+    "wof:parent_id":1108719809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.20715,
+    28.20624,
+    58.20715,
+    28.20624
+],
+  "geometry": {"coordinates":[58.20715,28.20624],"type":"Point"}
+}

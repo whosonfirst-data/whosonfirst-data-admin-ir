@@ -1,0 +1,78 @@
+{
+  "id": 1327020679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.61781,27.85534,53.61781,27.85534",
+    "geom:latitude":27.85534,
+    "geom:longitude":53.61781,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Bigherd",
+    "gn:country_code":"IR",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":140528,
+    "gn:latitude":27.85534,
+    "gn:longitude":53.61781,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"B\u012bgherd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u063a\u0631\u062f"
+    ],
+    "name:fas_x_variant":[
+        "B\u012bgherd"
+    ],
+    "name:und_x_variant":[
+        "Bakhard",
+        "B\u012bqerd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140528,
+        "wk:page":"Bigherd"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"da34f0e98437403b6ae78579bc9f305b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720141,
+            "locality_id":1327020679,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1327020679,
+    "wof:lastmodified":1537645886,
+    "wof:name":"Bigherd",
+    "wof:parent_id":1108720141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.61781,
+    27.85534,
+    53.61781,
+    27.85534
+],
+  "geometry": {"coordinates":[53.61781,27.85534],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1243439005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.93472,37.78278,48.93472,37.78278",
+    "geom:latitude":37.78278,
+    "geom:longitude":48.93472,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Arba Sar",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416639,
+    "gn:latitude":37.78278,
+    "gn:longitude":48.93472,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Arb\u0101 Sar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Arb\u0101 Sar"
+    ],
+    "name:und_x_variant":[
+        "Jowland\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416639,
+        "wk:page":"Arba_Sar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d9c0f72164a389848438ab054d35c305",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720487,
+            "locality_id":1243439005,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1243439005,
+    "wof:lastmodified":1537646658,
+    "wof:name":"Arba Sar",
+    "wof:parent_id":1108720487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.93472,
+    37.78278,
+    48.93472,
+    37.78278
+],
+  "geometry": {"coordinates":[48.93472,37.78278],"type":"Point"}
+}

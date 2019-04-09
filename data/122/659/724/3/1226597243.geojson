@@ -1,0 +1,76 @@
+{
+  "id": 1226597243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.56692,36.3977,48.56692,36.3977",
+    "geom:latitude":36.3977,
+    "geom:longitude":48.56692,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Oapatlu",
+    "gn:country_code":"IR",
+    "gn:dem":2039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":138233,
+    "gn:latitude":36.3977,
+    "gn:longitude":48.56692,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Oapatlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0628\u0627\u0646\u0644\u0648"
+    ],
+    "name:fas_x_variant":[
+        "D\u0101b\u0101nl\u016b"
+    ],
+    "name:und_x_variant":[
+        "Dapatlu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672361,
+        1108720135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":138233
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ffd9c41477250f06c9d4c5a3c1b6bb8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720135,
+            "locality_id":1226597243,
+            "region_id":85672361
+        }
+    ],
+    "wof:id":1226597243,
+    "wof:lastmodified":1537645654,
+    "wof:name":"Oapatlu",
+    "wof:parent_id":1108720135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.56692,
+    36.3977,
+    48.56692,
+    36.3977
+],
+  "geometry": {"coordinates":[48.56692,36.3977],"type":"Point"}
+}

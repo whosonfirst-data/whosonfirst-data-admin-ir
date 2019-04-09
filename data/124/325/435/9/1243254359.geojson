@@ -1,0 +1,77 @@
+{
+  "id": 1243254359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.7403,31.0344,52.7403,31.0344",
+    "geom:latitude":31.0344,
+    "geom:longitude":52.7403,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Chenar",
+    "gn:country_code":"IR",
+    "gn:dem":1970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":138765,
+    "gn:latitude":31.0344,
+    "gn:longitude":52.7403,
+    "gn:modification_date":"2018-06-02",
+    "gn:name":"Chen\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Chen\u0101r"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u0646\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u0686\u0646\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108719779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":138765,
+        "wk:page":"Chenar,_Sepidan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1cc76710b1f2020f328e80676f4878a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719779,
+            "locality_id":1243254359,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1243254359,
+    "wof:lastmodified":1537645711,
+    "wof:name":"Chenar",
+    "wof:parent_id":1108719779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.7403,
+    31.0344,
+    52.7403,
+    31.0344
+],
+  "geometry": {"coordinates":[52.7403,31.0344],"type":"Point"}
+}

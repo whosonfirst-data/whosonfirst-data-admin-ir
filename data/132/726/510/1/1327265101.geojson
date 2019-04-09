@@ -1,0 +1,78 @@
+{
+  "id": 1327265101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.03696,30.79324,51.03696,30.79324",
+    "geom:latitude":30.79324,
+    "geom:longitude":51.03696,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kandal",
+    "gn:country_code":"IR",
+    "gn:dem":2110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":47625,
+    "gn:latitude":30.79324,
+    "gn:longitude":51.03696,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kand\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u064e\u0632\u0631\u064e\u0639\u0650\u06c0 \u0643\u064e\u0646\u062f\u0627\u0644"
+    ],
+    "name:fas_x_variant":[
+        "Kand\u0101l",
+        "Mazra\u2018eh-ye Kand\u0101l",
+        "\u0643\u0646\u062f\u0627\u0644"
+    ],
+    "name:und_x_variant":[
+        "\u0643\u0646\u062f\u0627\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":47625
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2caac8f1281f5e03ff8897adb6f87db4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1327265101,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1327265101,
+    "wof:lastmodified":1537642683,
+    "wof:name":"Kandal",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.03696,
+    30.79324,
+    51.03696,
+    30.79324
+],
+  "geometry": {"coordinates":[51.03696,30.79324],"type":"Point"}
+}

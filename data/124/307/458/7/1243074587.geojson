@@ -1,0 +1,73 @@
+{
+  "id": 1243074587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.44667,32.44778,50.44667,32.44778",
+    "geom:latitude":32.44778,
+    "geom:longitude":50.44667,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Uj Boghaz",
+    "gn:country_code":"IR",
+    "gn:dem":2408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":33419,
+    "gn:latitude":32.44778,
+    "gn:longitude":50.44667,
+    "gn:modification_date":"2010-08-09",
+    "gn:name":"\u016aj Bogh\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u062c \u0628\u064f\u063a\u0627\u0632"
+    ],
+    "name:fas_x_variant":[
+        "\u016aj Bogh\u0101z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672319,
+        1108720435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":33419
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"52a5dce19da06abf817fbb377eea3a2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720435,
+            "locality_id":1243074587,
+            "region_id":85672319
+        }
+    ],
+    "wof:id":1243074587,
+    "wof:lastmodified":1537641868,
+    "wof:name":"Uj Boghaz",
+    "wof:parent_id":1108720435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.44667000000001,
+    32.44778,
+    50.44667000000001,
+    32.44778
+],
+  "geometry": {"coordinates":[50.44667000000001,32.44778],"type":"Point"}
+}

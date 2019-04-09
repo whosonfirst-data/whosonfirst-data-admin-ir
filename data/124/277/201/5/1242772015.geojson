@@ -1,0 +1,74 @@
+{
+  "id": 1242772015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.74955,29.41063,54.74955,29.41063",
+    "geom:latitude":29.41063,
+    "geom:longitude":54.74955,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Deh-e Barin",
+    "gn:country_code":"IR",
+    "gn:dem":1927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9532083,
+    "gn:latitude":29.41063,
+    "gn:longitude":54.74955,
+    "gn:modification_date":"2018-06-20",
+    "gn:name":"Deh-e Bar\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647 \u0628\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Deh-e Bar\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9532083,
+        "wk:page":"Deh_Barin"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f15e0a824461c286f1de76375db0fae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720277,
+            "locality_id":1242772015,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1242772015,
+    "wof:lastmodified":1537648648,
+    "wof:name":"Deh-e Barin",
+    "wof:parent_id":1108720277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.74955,
+    29.41063,
+    54.74955,
+    29.41063
+],
+  "geometry": {"coordinates":[54.74955,29.41063],"type":"Point"}
+}

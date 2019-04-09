@@ -1,0 +1,74 @@
+{
+  "id": 1225825817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.2886,27.8247,57.2886,27.8247",
+    "geom:latitude":27.8247,
+    "geom:longitude":57.2886,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Faryab",
+    "gn:country_code":"IR",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":134736,
+    "gn:latitude":27.8247,
+    "gn:longitude":57.2886,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"F\u0101ry\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0641\u0627\u0631\u06cc\u0627\u0628"
+    ],
+    "name:fas_x_variant":[
+        "F\u0101ry\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":134736,
+        "wk:page":"Faryab,_Rudan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9a53190ffa63919fb30d86ec3a5af757",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720357,
+            "locality_id":1225825817,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1225825817,
+    "wof:lastmodified":1537645300,
+    "wof:name":"Faryab",
+    "wof:parent_id":1108720357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.2886,
+    27.8247,
+    57.2886,
+    27.8247
+],
+  "geometry": {"coordinates":[57.2886,27.8247],"type":"Point"}
+}

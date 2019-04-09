@@ -1,0 +1,77 @@
+{
+  "id": 1259873945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.40603,27.74282,53.40603,27.74282",
+    "geom:latitude":27.74282,
+    "geom:longitude":53.40603,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ashena",
+    "gn:country_code":"IR",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":142762,
+    "gn:latitude":27.74282,
+    "gn:longitude":53.40603,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"\u0100shen\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0634\u0646\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0100shn\u0101"
+    ],
+    "name:und_x_variant":[
+        "\u0100shen\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":142762,
+        "wk:page":"Ashna"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3823aa383ea81700c801969d0fe4d3be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720141,
+            "locality_id":1259873945,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1259873945,
+    "wof:lastmodified":1537646106,
+    "wof:name":"Ashena",
+    "wof:parent_id":1108720141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.40603,
+    27.74282,
+    53.40603,
+    27.74282
+],
+  "geometry": {"coordinates":[53.40603,27.74282],"type":"Point"}
+}

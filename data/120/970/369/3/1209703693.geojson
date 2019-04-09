@@ -1,0 +1,74 @@
+{
+  "id": 1209703693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.9996,27.0807,55.9996,27.0807",
+    "geom:latitude":27.0807,
+    "geom:longitude":55.9996,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bostanu",
+    "gn:country_code":"IR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6654157,
+    "gn:latitude":27.0807,
+    "gn:longitude":55.9996,
+    "gn:modification_date":"2018-07-08",
+    "gn:name":"Bost\u0101n\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0633\u062a\u0627\u0646\u0648"
+    ],
+    "name:fas_x_variant":[
+        "Bost\u0101n\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108719863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6654157,
+        "wk:page":"Bostanu,_Hormozgan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3462c5fd5da907fdcc8f1bcac746ec18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719863,
+            "locality_id":1209703693,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1209703693,
+    "wof:lastmodified":1537647233,
+    "wof:name":"Bostanu",
+    "wof:parent_id":1108719863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.9996,
+    27.0807,
+    55.9996,
+    27.0807
+],
+  "geometry": {"coordinates":[55.9996,27.0807],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209862547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.0875,29.9049,56.0875,29.9049",
+    "geom:latitude":29.9049,
+    "geom:longitude":56.0875,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Deh Khodadad",
+    "gn:country_code":"IR",
+    "gn:dem":2484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":43538,
+    "gn:latitude":29.9049,
+    "gn:longitude":56.0875,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Deh Khod\u0101d\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647 \u062e\u062f\u0627\u062f\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Deh Khod\u0101d\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":43538
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8cdd06a03a691695fde81d4f1d68f1a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719879,
+            "locality_id":1209862547,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1209862547,
+    "wof:lastmodified":1537642457,
+    "wof:name":"Deh Khodadad",
+    "wof:parent_id":1108719879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.0875,
+    29.9049,
+    56.0875,
+    29.9049
+],
+  "geometry": {"coordinates":[56.0875,29.9049],"type":"Point"}
+}

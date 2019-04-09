@@ -1,0 +1,76 @@
+{
+  "id": 1193001019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.7156,32.36047,49.7156,32.36047",
+    "geom:latitude":32.36047,
+    "geom:longitude":49.7156,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Sarshatt",
+    "gn:country_code":"IR",
+    "gn:dem":1231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":116348,
+    "gn:latitude":32.36047,
+    "gn:longitude":49.7156,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Sarsha\u0163\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0634\u0637"
+    ],
+    "name:und_x_variant":[
+        "Sar-i-Shat",
+        "Seresht",
+        "Sarsha\u0163\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":116348,
+        "wk:page":"Seresht"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e50599148254eec04eeb74c0fef25297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720229,
+            "locality_id":1193001019,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1193001019,
+    "wof:lastmodified":1537643441,
+    "wof:name":"Sarshatt",
+    "wof:parent_id":1108720229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.7156,
+    32.36047,
+    49.7156,
+    32.36047
+],
+  "geometry": {"coordinates":[49.7156,32.36047],"type":"Point"}
+}

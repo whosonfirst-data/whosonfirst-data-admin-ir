@@ -1,0 +1,67 @@
+{
+  "id": 1310378123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.28333,31.51667,48.28333,31.51667",
+    "geom:latitude":31.51667,
+    "geom:longitude":48.28333,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Laqeyr",
+    "gn:country_code":"IR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":125878,
+    "gn:latitude":31.51667,
+    "gn:longitude":48.28333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Laqeyr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":125878
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"91822000e9d611e924d55165b0f7d84f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719949,
+            "locality_id":1310378123,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1310378123,
+    "wof:lastmodified":1536600116,
+    "wof:name":"Laqeyr",
+    "wof:parent_id":1108719949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.28333,
+    31.51667,
+    48.28333,
+    31.51667
+],
+  "geometry": {"coordinates":[48.28333,31.51667],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1293445969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.1624,33.41858,49.1624,33.41858",
+    "geom:latitude":33.41858,
+    "geom:longitude":49.1624,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Lasur-e Sofla",
+    "gn:country_code":"IR",
+    "gn:dem":1700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":114265,
+    "gn:latitude":33.41858,
+    "gn:longitude":49.1624,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"L\u0101s\u016br-e Sofl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u064a\u0631\u0647 \u0633\u0641\u0644\u0649"
+    ],
+    "name:fas_x_variant":[
+        "S\u012breh-ye P\u0101\u2019\u012bn",
+        "S\u012breh-ye Sofl\u00e1",
+        "\u0644\u0627\u0633\u0648\u0631 \u0633\u0641\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "L\u0101s\u016br-e Sofl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":114265,
+        "wk:page":"Sireh-ye_Sofla"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4750b9813e09cf158e14bb438d8e72e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719973,
+            "locality_id":1293445969,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1293445969,
+    "wof:lastmodified":1537643262,
+    "wof:name":"Lasur-e Sofla",
+    "wof:parent_id":1108719973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.1624,
+    33.41858,
+    49.1624,
+    33.41858
+],
+  "geometry": {"coordinates":[49.1624,33.41858],"type":"Point"}
+}

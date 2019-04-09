@@ -1,0 +1,74 @@
+{
+  "id": 1276983919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.8228,37.6723,44.8228,37.6723",
+    "geom:latitude":37.6723,
+    "geom:longitude":44.8228,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Mirdavud",
+    "gn:country_code":"IR",
+    "gn:dem":1434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":20922,
+    "gn:latitude":37.6723,
+    "gn:longitude":44.8228,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"M\u012brd\u0101v\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0631\u062f\u0627\u0648\u0648\u062f"
+    ],
+    "name:fas_x_variant":[
+        "M\u012brd\u0101v\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":20922,
+        "wk:page":"Mirdavud"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b8874babab13a22b0f17e7ba728b00e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720289,
+            "locality_id":1276983919,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1276983919,
+    "wof:lastmodified":1537641044,
+    "wof:name":"Mirdavud",
+    "wof:parent_id":1108720289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.8228,
+    37.6723,
+    44.8228,
+    37.6723
+],
+  "geometry": {"coordinates":[44.8228,37.6723],"type":"Point"}
+}

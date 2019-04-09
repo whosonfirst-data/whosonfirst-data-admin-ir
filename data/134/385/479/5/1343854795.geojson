@@ -1,0 +1,75 @@
+{
+  "id": 1343854795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.97341,37.3384,49.97341,37.3384",
+    "geom:latitude":37.3384,
+    "geom:longitude":49.97341,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Safrabasteh",
+    "gn:country_code":"IR",
+    "gn:dem":-13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":117906,
+    "gn:latitude":37.3384,
+    "gn:longitude":49.97341,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"\u015eafr\u0101basteh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0635\u0641\u0631\u0627 \u0628\u0633\u062a\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u015eafr\u0101basteh",
+        "\u0635\u0641\u0631\u0627 \u0628\u0633\u062a\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108719833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":117906,
+        "wk:page":"Safra_Basteh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"432f0d91c4c54a8e7f7566e9e8d3a3dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719833,
+            "locality_id":1343854795,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1343854795,
+    "wof:lastmodified":1537643588,
+    "wof:name":"Safrabasteh",
+    "wof:parent_id":1108719833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.97341,
+    37.3384,
+    49.97341,
+    37.3384
+],
+  "geometry": {"coordinates":[49.97341,37.3384],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293906993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.95444,27.65556,59.95444,27.65556",
+    "geom:latitude":27.65556,
+    "geom:longitude":59.95444,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Maksan",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":125468,
+    "gn:latitude":27.65556,
+    "gn:longitude":59.95444,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Maks\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Maks\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Makas\u0101n",
+        "Magas\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":125468,
+        "wk:page":"Maksan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6e0ea39493301d3678110947c17d778e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720063,
+            "locality_id":1293906993,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1293906993,
+    "wof:lastmodified":1537644353,
+    "wof:name":"Maksan",
+    "wof:parent_id":1108720063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.95444000000001,
+    27.65556,
+    59.95444000000001,
+    27.65556
+],
+  "geometry": {"coordinates":[59.95444000000001,27.65556],"type":"Point"}
+}

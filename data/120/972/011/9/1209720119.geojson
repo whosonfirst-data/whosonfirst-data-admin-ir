@@ -1,0 +1,81 @@
+{
+  "id": 1209720119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.4011,31.29844,50.4011,31.29844",
+    "geom:latitude":31.29844,
+    "geom:longitude":50.4011,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Dishmuk",
+    "gn:country_code":"IR",
+    "gn:dem":1722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":136164,
+    "gn:latitude":31.29844,
+    "gn:longitude":50.4011,
+    "gn:modification_date":"2012-10-06",
+    "gn:name":"D\u012bshm\u016bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u064a\u0634\u0645\u0648\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u064a\u0634\u0645\u064f\u0651\u0643",
+        "D\u012bshmok",
+        "D\u012bshm\u016bk",
+        "\u062f\u06cc\u0634\u0645\u06a9"
+    ],
+    "name:und_x_variant":[
+        "D\u012bshmook",
+        "\u062f\u06cc\u0634\u0645\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":136164,
+        "wk:page":"Dishmok"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"23f98e8f5d30975a8653f0e01aea15d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1209720119,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1209720119,
+    "wof:lastmodified":1537645448,
+    "wof:name":"Dishmuk",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.4011,
+    31.29844000000001,
+    50.4011,
+    31.29844000000001
+],
+  "geometry": {"coordinates":[50.4011,31.29844000000001],"type":"Point"}
+}

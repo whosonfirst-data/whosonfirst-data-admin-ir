@@ -1,0 +1,72 @@
+{
+  "id": 1209309473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.03639,32.68556,47.03639,32.68556",
+    "geom:latitude":32.68556,
+    "geom:longitude":47.03639,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Barziyeh",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":141171,
+    "gn:latitude":32.68556,
+    "gn:longitude":47.03639,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Barz\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Barz\u012byeh"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0631\u0632\u064a\u0650\u0647",
+        "\u0633\u064e\u0631\u0632\u064a\u0650\u0651\u0647"
+    ],
+    "name:und_x_variant":[
+        "Sarz\u012byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":141171
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c948da39c6537d8e930d7714aaf0efeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209309473
+        }
+    ],
+    "wof:id":1209309473,
+    "wof:lastmodified":1537645950,
+    "wof:name":"Barziyeh",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.03639,
+    32.68556,
+    47.03639,
+    32.68556
+],
+  "geometry": {"coordinates":[47.03639,32.68556],"type":"Point"}
+}

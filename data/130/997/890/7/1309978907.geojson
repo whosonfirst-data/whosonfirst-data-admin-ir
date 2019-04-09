@@ -1,0 +1,67 @@
+{
+  "id": 1309978907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.40833,30.29278,48.40833,30.29278",
+    "geom:latitude":30.29278,
+    "geom:longitude":48.40833,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Darveshteh",
+    "gn:country_code":"IR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":45037,
+    "gn:latitude":30.29278,
+    "gn:longitude":48.40833,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Darveshteh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":45037
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"787a4e7662ce5e726516c8dac1676d39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719777,
+            "locality_id":1309978907,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1309978907,
+    "wof:lastmodified":1536681666,
+    "wof:name":"Darveshteh",
+    "wof:parent_id":1108719777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.40833,
+    30.29278,
+    48.40833,
+    30.29278
+],
+  "geometry": {"coordinates":[48.40833,30.29278],"type":"Point"}
+}

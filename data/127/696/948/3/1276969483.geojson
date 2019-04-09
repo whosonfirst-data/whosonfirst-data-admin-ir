@@ -1,0 +1,77 @@
+{
+  "id": 1276969483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.4657,36.89785,49.4657,36.89785",
+    "geom:latitude":36.89785,
+    "geom:longitude":49.4657,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Kaluraz",
+    "gn:country_code":"IR",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":41269,
+    "gn:latitude":36.89785,
+    "gn:longitude":49.4657,
+    "gn:modification_date":"2018-06-15",
+    "gn:name":"Kal\u016braz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0644\u0648\u0631\u0632"
+    ],
+    "name:fas_x_variant":[
+        "Kal\u016braz"
+    ],
+    "name:und_x_variant":[
+        "Kal\u016braz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":41269,
+        "wk:page":"Kaluraz_(village)"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0c943e6c2b5db655a2d1498aa7311cd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720361,
+            "locality_id":1276969483,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1276969483,
+    "wof:lastmodified":1537642328,
+    "wof:name":"Kaluraz",
+    "wof:parent_id":1108720361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.4657,
+    36.89785,
+    49.4657,
+    36.89785
+],
+  "geometry": {"coordinates":[49.4657,36.89785],"type":"Point"}
+}

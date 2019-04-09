@@ -1,0 +1,76 @@
+{
+  "id": 1326739649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.9886,38.6062,44.9886,38.6062",
+    "geom:latitude":38.6062,
+    "geom:longitude":44.9886,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Sarab",
+    "gn:country_code":"IR",
+    "gn:dem":1088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":40395,
+    "gn:latitude":38.6062,
+    "gn:longitude":44.9886,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sar\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sar\u0101b"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0631\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u0633\u0631\u0627\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":40395
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1a963f110376053640025dda67199911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720153,
+            "locality_id":1326739649,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1326739649,
+    "wof:lastmodified":1537642268,
+    "wof:name":"Sarab",
+    "wof:parent_id":1108720153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.9886,
+    38.6062,
+    44.9886,
+    38.6062
+],
+  "geometry": {"coordinates":[44.9886,38.6062],"type":"Point"}
+}

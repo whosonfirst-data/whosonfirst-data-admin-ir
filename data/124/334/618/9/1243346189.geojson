@@ -1,0 +1,78 @@
+{
+  "id": 1243346189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.19314,32.97337,48.19314,32.97337",
+    "geom:latitude":32.97337,
+    "geom:longitude":48.19314,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sar Kuseh",
+    "gn:country_code":"IR",
+    "gn:dem":904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6688185,
+    "gn:latitude":32.97337,
+    "gn:longitude":48.19314,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Sar K\u016bseh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0622\u0645\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Sar\u0101mad",
+        "\u0633\u0631 \u06a9\u0648\u0633\u0647"
+    ],
+    "name:und_x_variant":[
+        "Sar K\u016bseh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6688185,
+        "wk:page":"Saramad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b851ab934f652015b637fced119c4632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720307,
+            "locality_id":1243346189,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1243346189,
+    "wof:lastmodified":1537647421,
+    "wof:name":"Sar Kuseh",
+    "wof:parent_id":1108720307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.19314,
+    32.97337,
+    48.19314,
+    32.97337
+],
+  "geometry": {"coordinates":[48.19314,32.97337],"type":"Point"}
+}

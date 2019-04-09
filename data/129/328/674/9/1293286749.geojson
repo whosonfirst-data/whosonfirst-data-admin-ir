@@ -1,0 +1,74 @@
+{
+  "id": 1293286749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.4352,30.03,52.4352,30.03",
+    "geom:latitude":30.03,
+    "geom:longitude":52.4352,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Beheshtabad",
+    "gn:country_code":"IR",
+    "gn:dem":1607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":47230,
+    "gn:latitude":30.03,
+    "gn:longitude":52.4352,
+    "gn:modification_date":"2018-06-02",
+    "gn:name":"Behesht\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0647\u0634\u062a \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Behesht\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":47230,
+        "wk:page":"Beheshtabad,_Fars"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7fe1681bbd27818df8fdc3ee3351d3cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720421,
+            "locality_id":1293286749,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1293286749,
+    "wof:lastmodified":1537642670,
+    "wof:name":"Beheshtabad",
+    "wof:parent_id":1108720421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.4352,
+    30.03,
+    52.4352,
+    30.03
+],
+  "geometry": {"coordinates":[52.4352,30.03],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209444725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.74841,31.83103,59.74841,31.83103",
+    "geom:latitude":31.83103,
+    "geom:longitude":59.74841,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Chah-e Azu",
+    "gn:country_code":"IR",
+    "gn:dem":1861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":111794,
+    "gn:latitude":31.83103,
+    "gn:longitude":59.74841,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Ch\u0101h-e Az\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Yek Ch\u0101h"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u0627\u0647 \u0627\u0632\u0648",
+        "\u06cc\u06a9 \u0686\u0627\u0647"
+    ],
+    "name:und_x_variant":[
+        "Yak Ch\u0101h",
+        "Ch\u0101h-e Az\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":111794
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"10a3f4af71161dd9835a90ea3550bf55",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209444725
+        }
+    ],
+    "wof:id":1209444725,
+    "wof:lastmodified":1537643011,
+    "wof:name":"Chah-e Azu",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.74841,
+    31.83103,
+    59.74841,
+    31.83103
+],
+  "geometry": {"coordinates":[59.74841,31.83103],"type":"Point"}
+}

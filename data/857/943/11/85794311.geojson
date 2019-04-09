@@ -1,0 +1,120 @@
+{
+  "id": 85794311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000176,
+    "geom:area_square_m":1296987.799767,
+    "geom:bbox":"-6.2411716438,53.3931565654,-6.22375488281,53.4062572997",
+    "geom:latitude":53.399934,
+    "geom:longitude":-6.232138,
+    "gn:latitude":53.39639,
+    "gn:longitude":-6.22806,
+    "iso:country":"IE",
+    "lbl:latitude":53.394159,
+    "lbl:longitude":-6.221207,
+    "mps:latitude":53.400204,
+    "mps:longitude":-6.232303,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":1,
+    "name:ceb_x_preferred":[
+        "Kilmore"
+    ],
+    "name:eng_x_preferred":[
+        "Kilmore"
+    ],
+    "name:fin_x_preferred":[
+        "Kilmore"
+    ],
+    "name:nld_x_preferred":[
+        "Kilmore"
+    ],
+    "name:swe_x_preferred":[
+        "Kilmore"
+    ],
+    "name:unk_x_variant":[
+        "Kilmore"
+    ],
+    "qs:gn_adm0_cc":"IE",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":2964574,
+    "qs:gn_nam_loc":"Dublin, Dublin, IE",
+    "qs:gn_namadm1":"L",
+    "qs:gn_name":"Kilmore",
+    "qs:local_max":52338,
+    "qs:local_sum":267955,
+    "qs:localhoods":62,
+    "qs:name":"Kilmore",
+    "qs:name_adm0":"Ireland",
+    "qs:name_adm1":"Dublin",
+    "qs:name_lau":"Kilmore A",
+    "qs:name_local":"Dublin",
+    "qs:photo_max":42,
+    "qs:photo_sum":109,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":11,
+    "qs:woe_adm0":23424803,
+    "qs:woe_adm1":2345254,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":20072190,
+    "qs:woe_local":560743,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191581,
+        101751737,
+        85633241,
+        85685015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3315310,
+        "gp:id":561353,
+        "qs:id":228797,
+        "qs_pg:id":228797
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"75a548d314ee48a5d9876619c21470f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633241,
+            "locality_id":101751737,
+            "neighbourhood_id":85794311,
+            "region_id":85685015
+        }
+    ],
+    "wof:id":85794311,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1497314977,
+    "wof:name":"Kilmore",
+    "wof:parent_id":101751737,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -6.24117164379561,
+    53.39315656540008,
+    -6.22375488281,
+    53.40625729970004
+],
+  "geometry": {"coordinates":[[[-6.22729581350291,53.40298243120027],[-6.22729551297851,53.40298217915024],[-6.22570726643738,53.40298217915024],[-6.22375488281,53.40134483942519],[-6.22375488281,53.39970743670007],[-6.22375488281,53.3964321271],[-6.22375488281,53.39643206407511],[-6.2244300930235,53.39529968326413],[-6.22453056025387,53.39445727454365],[-6.22831067070172,53.39318945854605],[-6.22924804686988,53.39397544007339],[-6.22924804686988,53.39315656540008],[-6.23474121093989,53.39315656540008],[-6.23474121093884,53.39471747920682],[-6.23474121093838,53.39487112170208],[-6.2374877929698,53.39640650376587],[-6.2374877929698,53.3964321271],[-6.2374877929698,53.39806980421277],[-6.24083964927297,53.39806979765028],[-6.24116513734094,53.39970743670007],[-6.24117164379561,53.39974017284347],[-6.24023437500006,53.40052618532506],[-6.24023437500006,53.40298249420012],[-6.24023437500006,53.40625729970004],[-6.23995450112736,53.40625729970004],[-6.23474121093989,53.40625729970004],[-6.22924804686988,53.40625729970004],[-6.22924804687139,53.40625723667428],[-6.22729581350291,53.40298243120027]]],"type":"Polygon"}
+}

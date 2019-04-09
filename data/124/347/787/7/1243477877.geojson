@@ -1,0 +1,73 @@
+{
+  "id": 1243477877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.6352,31.1351,61.6352,31.1351",
+    "geom:latitude":31.1351,
+    "geom:longitude":61.6352,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chil Khaneh",
+    "gn:country_code":"IR",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6651384,
+    "gn:latitude":31.1351,
+    "gn:longitude":61.6352,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ch\u012bl Kh\u0101neh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u06cc\u0644 \u062e\u0627\u0646\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Ch\u012bl Kh\u0101neh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6651384
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3c7a1da834f3ed23c543d3cd847afcdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720513,
+            "locality_id":1243477877,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1243477877,
+    "wof:lastmodified":1537647212,
+    "wof:name":"Chil Khaneh",
+    "wof:parent_id":1108720513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.6352,
+    31.1351,
+    61.6352,
+    31.1351
+],
+  "geometry": {"coordinates":[61.6352,31.1351],"type":"Point"}
+}

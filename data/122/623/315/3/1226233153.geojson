@@ -1,0 +1,73 @@
+{
+  "id": 1226233153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.3299,29.0944,52.3299,29.0944",
+    "geom:latitude":29.0944,
+    "geom:longitude":52.3299,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Cheshmeh Buluqu",
+    "gn:country_code":"IR",
+    "gn:dem":1861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6652846,
+    "gn:latitude":29.0944,
+    "gn:longitude":52.3299,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Cheshmeh B\u016bl\u016bq\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0634\u0645\u0647 \u0628\u0648\u0644\u0648\u0642\u0648"
+    ],
+    "name:fas_x_variant":[
+        "Cheshmeh B\u016bl\u016bq\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6652846
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"31107eb41dda04d33d21cf36b360fc54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720009,
+            "locality_id":1226233153,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1226233153,
+    "wof:lastmodified":1537647229,
+    "wof:name":"Cheshmeh Buluqu",
+    "wof:parent_id":1108720009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.3299,
+    29.0944,
+    52.3299,
+    29.0944
+],
+  "geometry": {"coordinates":[52.3299,29.0944],"type":"Point"}
+}

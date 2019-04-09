@@ -1,0 +1,74 @@
+{
+  "id": 1310261153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.37087,27.91616,52.37087,27.91616",
+    "geom:latitude":27.91616,
+    "geom:longitude":52.37087,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Khanicheh",
+    "gn:country_code":"IR",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":41006,
+    "gn:latitude":27.91616,
+    "gn:longitude":52.37087,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Kh\u0101n\u012bcheh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0627\u0646\u06cc\u0686\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Kh\u0101n\u012bcheh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108720075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":41006,
+        "wk:page":"Khanicheh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5c93fe01b2bd6eb0d60bb5ab74ba1111",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720075,
+            "locality_id":1310261153,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1310261153,
+    "wof:lastmodified":1537642312,
+    "wof:name":"Khanicheh",
+    "wof:parent_id":1108720075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.37087,
+    27.91616,
+    52.37087,
+    27.91616
+],
+  "geometry": {"coordinates":[52.37087,27.91616],"type":"Point"}
+}

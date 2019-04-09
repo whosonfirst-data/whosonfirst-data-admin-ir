@@ -1,0 +1,74 @@
+{
+  "id": 1309715659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.86925,36.57683,46.86925,36.57683",
+    "geom:latitude":36.57683,
+    "geom:longitude":46.86925,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Khan Qoli",
+    "gn:country_code":"IR",
+    "gn:dem":1894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":26719,
+    "gn:latitude":36.57683,
+    "gn:longitude":46.86925,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Kh\u0101n Qol\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0627\u0646 \u0642\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Kh\u0101n Qol\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":26719,
+        "wk:page":"Khan_Qoli"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d8bf14691687eca9f86e2947408efef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720429,
+            "locality_id":1309715659,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1309715659,
+    "wof:lastmodified":1537641415,
+    "wof:name":"Khan Qoli",
+    "wof:parent_id":1108720429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.86925,
+    36.57683,
+    46.86925,
+    36.57683
+],
+  "geometry": {"coordinates":[46.86925,36.57683],"type":"Point"}
+}

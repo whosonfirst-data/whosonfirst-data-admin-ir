@@ -1,0 +1,78 @@
+{
+  "id": 1259685341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.85348,32.56063,50.85348,32.56063",
+    "geom:latitude":32.56063,
+    "geom:longitude":50.85348,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Hureh",
+    "gn:country_code":"IR",
+    "gn:dem":1907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":130852,
+    "gn:latitude":32.56063,
+    "gn:longitude":50.85348,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"H\u016breh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "H\u016breh"
+    ],
+    "name:fas_x_variant":[
+        "\u0647\u064f\u0631\u064e",
+        "\u0647\u0648\u0631\u0647"
+    ],
+    "name:und_x_variant":[
+        "Hora",
+        "\u0647\u0648\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672319,
+        1108720435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":130852
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2313920e120919c47b29e7e53b11736c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720435,
+            "locality_id":1259685341,
+            "region_id":85672319
+        }
+    ],
+    "wof:id":1259685341,
+    "wof:lastmodified":1537644907,
+    "wof:name":"Hureh",
+    "wof:parent_id":1108720435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.85348,
+    32.56063,
+    50.85348,
+    32.56063
+],
+  "geometry": {"coordinates":[50.85348,32.56063],"type":"Point"}
+}

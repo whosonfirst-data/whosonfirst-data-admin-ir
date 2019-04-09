@@ -1,0 +1,73 @@
+{
+  "id": 1276497205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.12354,31.58396,54.12354,31.58396",
+    "geom:latitude":31.58396,
+    "geom:longitude":54.12354,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Lay-e Darak",
+    "gn:country_code":"IR",
+    "gn:dem":2620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8627372,
+    "gn:latitude":31.58396,
+    "gn:longitude":54.12354,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"L\u0101y-e Darak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u06cc \u062f\u0631\u06a9"
+    ],
+    "name:und_x_variant":[
+        "L\u0101y-e Darak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108720475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8627372
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"acb1b9a7c44d6e15c2f7e677df026b37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720475,
+            "locality_id":1276497205,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1276497205,
+    "wof:lastmodified":1537648595,
+    "wof:name":"Lay-e Darak",
+    "wof:parent_id":1108720475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.12354000000001,
+    31.58396,
+    54.12354000000001,
+    31.58396
+],
+  "geometry": {"coordinates":[54.12354000000001,31.58396],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1327010349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.22294,27.13746,55.22294,27.13746",
+    "geom:latitude":27.13746,
+    "geom:longitude":55.22294,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kerzeh",
+    "gn:country_code":"IR",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":48945,
+    "gn:latitude":27.13746,
+    "gn:longitude":55.22294,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Kerzeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Ker\u1e95\u0101"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0631\u0636\u0627",
+        "Kerz\u0101",
+        "\u06a9\u0631\u0632\u0647"
+    ],
+    "name:und_x_variant":[
+        "Kerz\u0101",
+        "\u06a9\u0631\u0636\u0627",
+        "Kerzeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108719881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":48945,
+        "wk:page":"Kerzeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b039fd94d2f8c4564691762758b9eaba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719881,
+            "locality_id":1327010349,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1327010349,
+    "wof:lastmodified":1537642760,
+    "wof:name":"Kerzeh",
+    "wof:parent_id":1108719881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.22294,
+    27.13746,
+    55.22294,
+    27.13746
+],
+  "geometry": {"coordinates":[55.22294,27.13746],"type":"Point"}
+}

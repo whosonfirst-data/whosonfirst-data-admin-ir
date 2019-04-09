@@ -1,0 +1,73 @@
+{
+  "id": 1293245813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.46172,35.94901,52.46172,35.94901",
+    "geom:latitude":35.94901,
+    "geom:longitude":52.46172,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Voshdan",
+    "gn:country_code":"IR",
+    "gn:dem":3301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8441531,
+    "gn:latitude":35.94901,
+    "gn:longitude":52.46172,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Voshd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0634\u062f\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Voshd\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8441531
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a5c6bacec9bc5d808e695da01c07843f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719807,
+            "locality_id":1293245813,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1293245813,
+    "wof:lastmodified":1537648562,
+    "wof:name":"Voshdan",
+    "wof:parent_id":1108719807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.46171999999999,
+    35.94900999999999,
+    52.46171999999999,
+    35.94900999999999
+],
+  "geometry": {"coordinates":[52.46171999999999,35.94900999999999],"type":"Point"}
+}

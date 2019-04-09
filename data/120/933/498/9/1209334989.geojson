@@ -1,0 +1,71 @@
+{
+  "id": 1209334989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.2782,27.4269,53.2782,27.4269",
+    "geom:latitude":27.4269,
+    "geom:longitude":53.2782,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Patakhteh",
+    "gn:country_code":"IR",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":48710,
+    "gn:latitude":27.4269,
+    "gn:longitude":53.2782,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"P\u0101takhteh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u062a\u062e\u062a\u0647"
+    ],
+    "name:fas_x_variant":[
+        "P\u0101takhteh",
+        "\u062a\u062e\u062a \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Takht\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":48710
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0599b36567e9ac6ae6048a965f46491f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209334989
+        }
+    ],
+    "wof:id":1209334989,
+    "wof:lastmodified":1537642744,
+    "wof:name":"Patakhteh",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.2782,
+    27.4269,
+    53.2782,
+    27.4269
+],
+  "geometry": {"coordinates":[53.2782,27.4269],"type":"Point"}
+}

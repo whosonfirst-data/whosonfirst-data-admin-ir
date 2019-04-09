@@ -1,0 +1,74 @@
+{
+  "id": 1243607039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.6492,36.8535,47.6492,36.8535",
+    "geom:latitude":36.8535,
+    "geom:longitude":47.6492,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Seyyedlar",
+    "gn:country_code":"IR",
+    "gn:dem":1936,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":26370,
+    "gn:latitude":36.8535,
+    "gn:longitude":47.6492,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Seyyedlar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0633\u064a\u0651\u062f\u0644\u0631"
+    ],
+    "name:und_x_variant":[
+        "Seyyed Lar",
+        "Seyyedlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672361,
+        1108720201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":26370
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d3fa7baee5ebd7c6607a35dee3ba8fa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720201,
+            "locality_id":1243607039,
+            "region_id":85672361
+        }
+    ],
+    "wof:id":1243607039,
+    "wof:lastmodified":1537641390,
+    "wof:name":"Seyyedlar",
+    "wof:parent_id":1108720201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.6492,
+    36.8535,
+    47.6492,
+    36.8535
+],
+  "geometry": {"coordinates":[47.6492,36.8535],"type":"Point"}
+}

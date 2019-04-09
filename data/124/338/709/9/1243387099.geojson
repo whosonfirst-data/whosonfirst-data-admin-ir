@@ -1,0 +1,85 @@
+{
+  "id": 1243387099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.7375,31.2405,61.7375,31.2405",
+    "geom:latitude":31.2405,
+    "geom:longitude":61.7375,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Padai",
+    "gn:country_code":"IR",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1160057,
+    "gn:latitude":31.2405,
+    "gn:longitude":61.7375,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Padai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u062f\u0627\u06cc\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Pad\u0101\u2019\u012b",
+        "Pad\u012b",
+        "Padeh\u012b",
+        "Padeg\u012b",
+        "\u067e\u062f\u0647 \u0627\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Pad\u012b",
+        "Padai",
+        "Padeh\u012b",
+        "Padeg\u012b",
+        "Padeh\u2019\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1160057,
+        "wk:page":"Padehi,_Sistan_and_Baluchestan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9c9bb8aaec28880484a28211e38dafc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720513,
+            "locality_id":1243387099,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1243387099,
+    "wof:lastmodified":1537647013,
+    "wof:name":"Padai",
+    "wof:parent_id":1108720513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.7375,
+    31.2405,
+    61.7375,
+    31.2405
+],
+  "geometry": {"coordinates":[61.7375,31.2405],"type":"Point"}
+}

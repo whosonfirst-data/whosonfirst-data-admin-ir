@@ -1,0 +1,73 @@
+{
+  "id": 1343945815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.90066,27.64048,55.90066,27.64048",
+    "geom:latitude":27.64048,
+    "geom:longitude":55.90066,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Si Dastgah",
+    "gn:country_code":"IR",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8528052,
+    "gn:latitude":27.64048,
+    "gn:longitude":55.90066,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"S\u012b Dastg\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u06cc \u062f\u0633\u062a\u06af\u0627\u0647"
+    ],
+    "name:und_x_variant":[
+        "S\u012b Dastg\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108719863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8528052
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c3205bd4a804992773cd0dc50e0d723f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719863,
+            "locality_id":1343945815,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1343945815,
+    "wof:lastmodified":1537648573,
+    "wof:name":"Si Dastgah",
+    "wof:parent_id":1108719863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.90066,
+    27.64048,
+    55.90066,
+    27.64048
+],
+  "geometry": {"coordinates":[55.90066,27.64048],"type":"Point"}
+}

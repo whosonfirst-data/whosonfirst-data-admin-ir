@@ -1,0 +1,73 @@
+{
+  "id": 1209893689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.9572,28.7286,55.9572,28.7286",
+    "geom:latitude":28.7286,
+    "geom:longitude":55.9572,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Chah Bashir",
+    "gn:country_code":"IR",
+    "gn:dem":1677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6983964,
+    "gn:latitude":28.7286,
+    "gn:longitude":55.9572,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ch\u0101h Bash\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0647 \u0628\u0634\u06cc\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Ch\u0101h Bash\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6983964
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8c1e8a366d9725395d18f9fc1c34d307",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720045,
+            "locality_id":1209893689,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1209893689,
+    "wof:lastmodified":1537647833,
+    "wof:name":"Chah Bashir",
+    "wof:parent_id":1108720045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.9572,
+    28.7286,
+    55.9572,
+    28.7286
+],
+  "geometry": {"coordinates":[55.9572,28.7286],"type":"Point"}
+}

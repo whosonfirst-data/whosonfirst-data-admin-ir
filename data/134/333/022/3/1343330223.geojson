@@ -1,0 +1,77 @@
+{
+  "id": 1343330223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.19223,33.43178,49.19223,33.43178",
+    "geom:latitude":33.43178,
+    "geom:longitude":49.19223,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Chamanar",
+    "gn:country_code":"IR",
+    "gn:dem":1621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":139210,
+    "gn:latitude":33.43178,
+    "gn:longitude":49.19223,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Chaman\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0645\u0646\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Chamn\u0101r"
+    ],
+    "name:und_x_variant":[
+        "Chaman\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":139210,
+        "wk:page":"Chamnar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0f0aea312d28d7e228ef243ab1515870",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719973,
+            "locality_id":1343330223,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1343330223,
+    "wof:lastmodified":1537645755,
+    "wof:name":"Chamanar",
+    "wof:parent_id":1108719973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.19223,
+    33.43178,
+    49.19223,
+    33.43178
+],
+  "geometry": {"coordinates":[49.19223,33.43178],"type":"Point"}
+}

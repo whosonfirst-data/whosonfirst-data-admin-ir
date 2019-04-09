@@ -1,0 +1,78 @@
+{
+  "id": 1310225515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.335,29.5918,53.335,29.5918",
+    "geom:latitude":29.5918,
+    "geom:longitude":53.335,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Sofla",
+    "gn:country_code":"IR",
+    "gn:dem":1568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":114199,
+    "gn:latitude":29.5918,
+    "gn:longitude":53.335,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Sofl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0641\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Sofl\u00e1"
+    ],
+    "name:und_x_variant":[
+        "Seyfoll\u0101h",
+        "Sufla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":114199,
+        "wk:page":"Sofla,_Shiraz"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"94399f2c8e4bb279e0c3acc36532ff5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720447,
+            "locality_id":1310225515,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1310225515,
+    "wof:lastmodified":1537643258,
+    "wof:name":"Sofla",
+    "wof:parent_id":1108720447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.335,
+    29.5918,
+    53.335,
+    29.5918
+],
+  "geometry": {"coordinates":[53.335,29.5918],"type":"Point"}
+}

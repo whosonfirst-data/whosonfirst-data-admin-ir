@@ -1,0 +1,80 @@
+{
+  "id": 1260150545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.93056,30.45584,49.93056,30.45584",
+    "geom:latitude":30.45584,
+    "geom:longitude":49.93056,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Qal`eh Tim",
+    "gn:country_code":"IR",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":120416,
+    "gn:latitude":30.45584,
+    "gn:longitude":49.93056,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Qal\u2018eh T\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0639\u0647 \u062a\u0645\u06cc\u0645"
+    ],
+    "name:fas_x_variant":[
+        "Qal\u2018eh T\u012bm\u012b",
+        "Qal\u2018eh Tem\u012b",
+        "\u0642\u0644\u0639\u0647 \u062a\u06cc\u0645",
+        "\u0642\u0644\u0639\u0647 \u062a\u06cc\u0645\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Qal\u2018eh T\u012bm",
+        "Qal\u2018eh Tam\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":120416
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d9fbd9e93287e2caa6fc1e82c258a8eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719885,
+            "locality_id":1260150545,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1260150545,
+    "wof:lastmodified":1537643856,
+    "wof:name":"Qal`eh Tim",
+    "wof:parent_id":1108719885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.93056,
+    30.45584,
+    49.93056,
+    30.45584
+],
+  "geometry": {"coordinates":[49.93056,30.45584],"type":"Point"}
+}

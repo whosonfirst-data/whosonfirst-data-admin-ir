@@ -1,0 +1,78 @@
+{
+  "id": 1343304823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.11238,37.92311,55.11238,37.92311",
+    "geom:latitude":37.92311,
+    "geom:longitude":55.11238,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Kolijeh",
+    "gn:country_code":"IR",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":39950,
+    "gn:latitude":37.92311,
+    "gn:longitude":55.11238,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Kol\u012bjeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Kol\u012bcheh"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0644\u064a\u062c\u0647"
+    ],
+    "name:und_x_variant":[
+        "Kol\u012bjeh",
+        "Goll\u012bjeh",
+        "Gol\u012bjeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":39950
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"00c5afa6f551071911829682c3ada3d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720039,
+            "locality_id":1343304823,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1343304823,
+    "wof:lastmodified":1537642238,
+    "wof:name":"Kolijeh",
+    "wof:parent_id":1108720039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.11238,
+    37.92311,
+    55.11238,
+    37.92311
+],
+  "geometry": {"coordinates":[55.11238,37.92311],"type":"Point"}
+}

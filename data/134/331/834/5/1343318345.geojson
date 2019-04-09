@@ -1,0 +1,76 @@
+{
+  "id": 1343318345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.68333,28.18333,51.68333,28.18333",
+    "geom:latitude":28.18333,
+    "geom:longitude":51.68333,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Javinak",
+    "gn:country_code":"IR",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":68111,
+    "gn:latitude":28.18333,
+    "gn:longitude":51.68333,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"J\u0101v\u012bnak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u0627\u0648\u064a\u0646\u064e\u0643"
+    ],
+    "name:fas_x_variant":[
+        "J\u0101v\u012bnak"
+    ],
+    "name:und_x_variant":[
+        "Ja vi Shak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108719955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":68111
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"53ade806c97f064acd97fa1e32abb85d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719955,
+            "locality_id":1343318345,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1343318345,
+    "wof:lastmodified":1537642865,
+    "wof:name":"Javinak",
+    "wof:parent_id":1108719955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.68333,
+    28.18333,
+    51.68333,
+    28.18333
+],
+  "geometry": {"coordinates":[51.68333,28.18333],"type":"Point"}
+}

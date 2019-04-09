@@ -1,0 +1,79 @@
+{
+  "id": 1260171509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.09586,36.86928,50.09586,36.86928",
+    "geom:latitude":36.86928,
+    "geom:longitude":50.09586,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Siah Khalak",
+    "gn:country_code":"IR",
+    "gn:dem":1453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7621862,
+    "gn:latitude":36.86928,
+    "gn:longitude":50.09586,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"S\u012b\u0101h Khalak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "S\u012b\u0101h Khalak"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u06cc\u0627\u0647 \u062e\u0644\u06a9",
+        "\u0633\u06cc\u0627\u0647 \u062e\u0648\u0644\u06a9"
+    ],
+    "name:und_x_variant":[
+        "\u0633\u06cc\u0627\u0647 \u062e\u0644\u06a9",
+        "S\u012b\u0101h Kh\u016blak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108719805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7621862,
+        "wk:page":"Siah_Khulak"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b9ba6832c386ac5509c0f1db9e8b5881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719805,
+            "locality_id":1260171509,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1260171509,
+    "wof:lastmodified":1537648420,
+    "wof:name":"Siah Khalak",
+    "wof:parent_id":1108719805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.09586,
+    36.86928,
+    50.09586,
+    36.86928
+],
+  "geometry": {"coordinates":[50.09586,36.86928],"type":"Point"}
+}

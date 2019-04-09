@@ -1,0 +1,77 @@
+{
+  "id": 1343864101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.6913,26.6515,61.6913,26.6515",
+    "geom:latitude":26.6515,
+    "geom:longitude":61.6913,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Afshan",
+    "gn:country_code":"IR",
+    "gn:dem":1010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1161885,
+    "gn:latitude":26.6515,
+    "gn:longitude":61.6913,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Afsh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0641\u0634\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Afsh\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Afsh\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1161885,
+        "wk:page":"Afshan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"75b7b4c554b5c5f92df2b7396855d37a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720389,
+            "locality_id":1343864101,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1343864101,
+    "wof:lastmodified":1537647151,
+    "wof:name":"Afshan",
+    "wof:parent_id":1108720389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.6913,
+    26.6515,
+    61.6913,
+    26.6515
+],
+  "geometry": {"coordinates":[61.6913,26.6515],"type":"Point"}
+}

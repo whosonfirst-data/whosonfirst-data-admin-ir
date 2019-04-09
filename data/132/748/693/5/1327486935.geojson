@@ -1,0 +1,73 @@
+{
+  "id": 1327486935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.86667,36.28333,52.86667,36.28333",
+    "geom:latitude":36.28333,
+    "geom:longitude":52.86667,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Hajjiabad",
+    "gn:country_code":"IR",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1460,
+    "gn:latitude":36.28333,
+    "gn:longitude":52.86667,
+    "gn:modification_date":"2010-08-09",
+    "gn:name":"\u1e28\u0101jj\u012b\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0627\u062c\u0651\u06cc \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28\u0101jj\u012b\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1460
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8fb252f8306a4bbcd486dd685fa54a88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720405,
+            "locality_id":1327486935,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1327486935,
+    "wof:lastmodified":1537640166,
+    "wof:name":"Hajjiabad",
+    "wof:parent_id":1108720405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.86666999999999,
+    36.28333,
+    52.86666999999999,
+    36.28333
+],
+  "geometry": {"coordinates":[52.86666999999999,36.28333],"type":"Point"}
+}

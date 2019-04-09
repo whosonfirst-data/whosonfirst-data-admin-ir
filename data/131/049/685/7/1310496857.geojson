@@ -1,0 +1,80 @@
+{
+  "id": 1310496857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.48576,37.28174,49.48576,37.28174",
+    "geom:latitude":37.28174,
+    "geom:longitude":49.48576,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mahalleh-ye Kesar",
+    "gn:country_code":"IR",
+    "gn:dem":-6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416840,
+    "gn:latitude":37.28174,
+    "gn:longitude":49.48576,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Ma\u1e29alleh-ye Kes\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0634\u062a \u0645\u0633\u062c\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Kes\u0101r-e Kheshtmasjed",
+        "\u0645\u062d\u0644\u0647 \u06a9\u0633\u0627\u0631",
+        "\u06a9\u0633\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Khesht Masjed",
+        "Ma\u1e29alleh-ye Kes\u0101r",
+        "Kes\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416840
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f184f6da3f391a6cf07524d46914bd43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720339,
+            "locality_id":1310496857,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1310496857,
+    "wof:lastmodified":1537646679,
+    "wof:name":"Mahalleh-ye Kesar",
+    "wof:parent_id":1108720339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.48576,
+    37.28174,
+    49.48576,
+    37.28174
+],
+  "geometry": {"coordinates":[49.48576,37.28174],"type":"Point"}
+}

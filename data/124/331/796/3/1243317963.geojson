@@ -1,0 +1,74 @@
+{
+  "id": 1243317963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.97417,35.54833,50.97417,35.54833",
+    "geom:latitude":35.54833,
+    "geom:longitude":50.97417,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Saqarchin",
+    "gn:country_code":"IR",
+    "gn:dem":1113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5641,
+    "gn:latitude":35.54833,
+    "gn:longitude":50.97417,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Saqarch\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u064e\u0642\u064e\u0631\u0686\u064a\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Saqarch\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672313,
+        1108720355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5641,
+        "wk:page":"Saqarchin,_Tehran"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ac29976e61ffec19b32a37a99af46398",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720355,
+            "locality_id":1243317963,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1243317963,
+    "wof:lastmodified":1537640306,
+    "wof:name":"Saqarchin",
+    "wof:parent_id":1108720355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.97417,
+    35.54833,
+    50.97417,
+    35.54833
+],
+  "geometry": {"coordinates":[50.97417,35.54833],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226172255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.59925,35.58136,59.59925,35.58136",
+    "geom:latitude":35.58136,
+    "geom:longitude":59.59925,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Cheshmeh Jalal",
+    "gn:country_code":"IR",
+    "gn:dem":1884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7075063,
+    "gn:latitude":35.58136,
+    "gn:longitude":59.59925,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Cheshmeh Jal\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0686\u0634\u0645\u0647 \u062c\u0644\u0627\u0644"
+    ],
+    "name:fas_x_variant":[
+        "Cheshmeh Jal\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108719995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7075063,
+        "wk:page":"Cheshmeh_Jalal"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2e80305c0b45533399a05cb0350fd60b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719995,
+            "locality_id":1226172255,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1226172255,
+    "wof:lastmodified":1537648005,
+    "wof:name":"Cheshmeh Jalal",
+    "wof:parent_id":1108719995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.59925,
+    35.58136,
+    59.59925,
+    35.58136
+],
+  "geometry": {"coordinates":[59.59925,35.58136],"type":"Point"}
+}

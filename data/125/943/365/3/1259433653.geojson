@@ -1,0 +1,81 @@
+{
+  "id": 1259433653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.78901,32.70092,51.78901,32.70092",
+    "geom:latitude":32.70092,
+    "geom:longitude":51.78901,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Haftshuyeh",
+    "gn:country_code":"IR",
+    "gn:dem":1552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":418819,
+    "gn:latitude":32.70092,
+    "gn:longitude":51.78901,
+    "gn:modification_date":"2018-07-21",
+    "gn:name":"Haftsh\u016byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Haftsh\u016b\u2019\u012byeh"
+    ],
+    "name:fas_x_variant":[
+        "Haftsh\u016byeh",
+        "Haft Sh\u016byeh",
+        "\u0647\u0641\u062a\u0634\u0648\u06cc\u0647",
+        "\u0647\u0641\u062a \u0634\u0648\u0626\u06cc\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0647\u0641\u062a\u0634\u0648\u06cc\u0647",
+        "Haft Sh\u016b\u2019\u012byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108719977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":418819,
+        "wk:page":"Haftshuiyeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1a0bbd1b78f6ef16337329bf13d15ad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719977,
+            "locality_id":1259433653,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1259433653,
+    "wof:lastmodified":1537646744,
+    "wof:name":"Haftshuyeh",
+    "wof:parent_id":1108719977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.78901,
+    32.70092,
+    51.78901,
+    32.70092
+],
+  "geometry": {"coordinates":[51.78901,32.70092],"type":"Point"}
+}

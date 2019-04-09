@@ -1,0 +1,74 @@
+{
+  "id": 1343547285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.9441,34.5377,47.9441,34.5377",
+    "geom:latitude":34.5377,
+    "geom:longitude":47.9441,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Dom Badam",
+    "gn:country_code":"IR",
+    "gn:dem":1534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":23950,
+    "gn:latitude":34.5377,
+    "gn:longitude":47.9441,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Dom B\u0101d\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0645 \u0628\u0627\u062f\u0627\u0645"
+    ],
+    "name:fas_x_variant":[
+        "Dom B\u0101d\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":23950,
+        "wk:page":"Dom_Badam"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"820a70746fce57ac4602f03a49acc3e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720103,
+            "locality_id":1343547285,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1343547285,
+    "wof:lastmodified":1537641246,
+    "wof:name":"Dom Badam",
+    "wof:parent_id":1108720103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.9441,
+    34.5377,
+    47.9441,
+    34.5377
+],
+  "geometry": {"coordinates":[47.9441,34.5377],"type":"Point"}
+}

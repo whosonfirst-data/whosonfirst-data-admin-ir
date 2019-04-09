@@ -1,0 +1,74 @@
+{
+  "id": 1243014955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.065,28.9671,57.065,28.9671",
+    "geom:latitude":28.9671,
+    "geom:longitude":57.065,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Nimrudi",
+    "gn:country_code":"IR",
+    "gn:dem":1623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6989277,
+    "gn:latitude":28.9671,
+    "gn:longitude":57.065,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"N\u012bmr\u016bd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0645\u0631\u0648\u062f\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "N\u012bmr\u016bd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6989277,
+        "wk:page":"Nimrudi"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6f5f552784a760e86929e2afda1b9c96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720081,
+            "locality_id":1243014955,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1243014955,
+    "wof:lastmodified":1537647882,
+    "wof:name":"Nimrudi",
+    "wof:parent_id":1108720081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.065,
+    28.9671,
+    57.065,
+    28.9671
+],
+  "geometry": {"coordinates":[57.065,28.9671],"type":"Point"}
+}

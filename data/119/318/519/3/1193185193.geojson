@@ -1,0 +1,73 @@
+{
+  "id": 1193185193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.17482,37.14455,55.17482,37.14455",
+    "geom:latitude":37.14455,
+    "geom:longitude":55.17482,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Rasulabad",
+    "gn:country_code":"IR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11140027,
+    "gn:latitude":37.14455,
+    "gn:longitude":55.17482,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Ras\u016bl\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u0633\u0648\u0644 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Ras\u016bl\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108719839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11140027
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f8539bf166e7fb532e4ac188159ab865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719839,
+            "locality_id":1193185193,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1193185193,
+    "wof:lastmodified":1537648731,
+    "wof:name":"Rasulabad",
+    "wof:parent_id":1108719839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.17482,
+    37.14455,
+    55.17482,
+    37.14455
+],
+  "geometry": {"coordinates":[55.17482,37.14455],"type":"Point"}
+}

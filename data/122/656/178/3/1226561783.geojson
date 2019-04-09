@@ -1,0 +1,74 @@
+{
+  "id": 1226561783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.89296,37.93699,48.89296,37.93699",
+    "geom:latitude":37.93699,
+    "geom:longitude":48.89296,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Davan",
+    "gn:country_code":"IR",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":37170,
+    "gn:latitude":37.93699,
+    "gn:longitude":48.89296,
+    "gn:modification_date":"2018-06-07",
+    "gn:name":"D\u0101v\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0648\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "D\u0101v\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":37170,
+        "wk:page":"Davan,_Gilan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7b714412b5fbbf86693dc137b14d4f50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720487,
+            "locality_id":1226561783,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1226561783,
+    "wof:lastmodified":1537642067,
+    "wof:name":"Davan",
+    "wof:parent_id":1108720487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.89296,
+    37.93699,
+    48.89296,
+    37.93699
+],
+  "geometry": {"coordinates":[48.89296,37.93699],"type":"Point"}
+}

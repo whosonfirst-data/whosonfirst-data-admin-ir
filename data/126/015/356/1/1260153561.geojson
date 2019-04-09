@@ -1,0 +1,78 @@
+{
+  "id": 1260153561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.56889,32.10325,49.56889,32.10325",
+    "geom:latitude":32.10325,
+    "geom:longitude":49.56889,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sang Bast",
+    "gn:country_code":"IR",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7542028,
+    "gn:latitude":32.10325,
+    "gn:longitude":49.56889,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Sang Bast",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0100bdasht"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u0628\u062f\u0634\u062a",
+        "\u0633\u0646\u06af \u0628\u0633\u062a"
+    ],
+    "name:und_x_variant":[
+        "\u0622\u0628\u062f\u0634\u062a",
+        "Sang Bast"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7542028
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"becf857d34648d7577f6d9dbf361f4c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720229,
+            "locality_id":1260153561,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1260153561,
+    "wof:lastmodified":1537648324,
+    "wof:name":"Sang Bast",
+    "wof:parent_id":1108720229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.56889,
+    32.10325,
+    49.56889,
+    32.10325
+],
+  "geometry": {"coordinates":[49.56889,32.10325],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259847983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.93405,33.78532,47.93405,33.78532",
+    "geom:latitude":33.78532,
+    "geom:longitude":47.93405,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Shineh-ye Vosta",
+    "gn:country_code":"IR",
+    "gn:dem":1412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":27974,
+    "gn:latitude":33.78532,
+    "gn:longitude":47.93405,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Sh\u012bneh-ye Vos\u0163\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0646\u0647 \u0648\u0633\u0637\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Sh\u012bneh-ye Vos\u0163\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":27974
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"419de2f100389dd194931b0c2a7e45e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720411,
+            "locality_id":1259847983,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1259847983,
+    "wof:lastmodified":1537641496,
+    "wof:name":"Shineh-ye Vosta",
+    "wof:parent_id":1108720411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.93405,
+    33.78532,
+    47.93405,
+    33.78532
+],
+  "geometry": {"coordinates":[47.93405,33.78532],"type":"Point"}
+}

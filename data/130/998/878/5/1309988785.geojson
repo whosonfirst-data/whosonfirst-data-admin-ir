@@ -1,0 +1,79 @@
+{
+  "id": 1309988785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.89508,32.47875,48.89508,32.47875",
+    "geom:latitude":32.47875,
+    "geom:longitude":48.89508,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ab-e Kharzahreh",
+    "gn:country_code":"IR",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6660497,
+    "gn:latitude":32.47875,
+    "gn:longitude":48.89508,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"\u0100b-e Kharzahreh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0628 \u062d\u0632\u0631 \u062d\u0644\u0651\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0100b \u1e28azar \u1e28elleh",
+        "\u0622\u0628 \u062e\u0631\u0632\u0647\u0631\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0100b \u1e28azar \u1e28elleh",
+        "\u0100b-e Kharzahreh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6660497,
+        "wk:page":"Ab_Hazar_Helleh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cb0d61d9877dfbd976cb87d498823d6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719969,
+            "locality_id":1309988785,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1309988785,
+    "wof:lastmodified":1537647275,
+    "wof:name":"Ab-e Kharzahreh",
+    "wof:parent_id":1108719969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.89508,
+    32.47875,
+    48.89508,
+    32.47875
+],
+  "geometry": {"coordinates":[48.89508,32.47875],"type":"Point"}
+}

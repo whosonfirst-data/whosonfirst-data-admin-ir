@@ -1,0 +1,73 @@
+{
+  "id": 1343721603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.5909,38.55602,47.5909,38.55602",
+    "geom:latitude":38.55602,
+    "geom:longitude":47.5909,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Malek Agholi",
+    "gn:country_code":"IR",
+    "gn:dem":1138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11197106,
+    "gn:latitude":38.55602,
+    "gn:longitude":47.5909,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Malek \u0100ghol\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u06a9 \u0622\u063a\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Malek \u0100ghol\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11197106
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bed19ee8b176572adc78016aa3e14eab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720237,
+            "locality_id":1343721603,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1343721603,
+    "wof:lastmodified":1537648746,
+    "wof:name":"Malek Agholi",
+    "wof:parent_id":1108720237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.5909,
+    38.55602,
+    47.5909,
+    38.55602
+],
+  "geometry": {"coordinates":[47.5909,38.55602],"type":"Point"}
+}

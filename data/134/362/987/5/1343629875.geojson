@@ -1,0 +1,78 @@
+{
+  "id": 1343629875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.10574,33.21404,49.10574,33.21404",
+    "geom:latitude":33.21404,
+    "geom:longitude":49.10574,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Sheykhan-e Sofla",
+    "gn:country_code":"IR",
+    "gn:dem":1931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":32194,
+    "gn:latitude":33.21404,
+    "gn:longitude":49.10574,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Sheykh\u0101n-e Sofl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u062e\u0627\u0646 \u0633\u0641\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Sheykh\u0101n-e D\u0101v\u016bd Kh\u016bn\u012b-ye Sofl\u00e1",
+        "Sheykh\u0101n-e Sofl\u00e1",
+        "\u0634\u06cc\u0641\u0627\u0646 \u0633\u0641\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Sheyf\u0101n-e Sofl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":32194
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e962303c796578d3f9fae355f7b794b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719803,
+            "locality_id":1343629875,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1343629875,
+    "wof:lastmodified":1537641770,
+    "wof:name":"Sheykhan-e Sofla",
+    "wof:parent_id":1108719803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.10574,
+    33.21404,
+    49.10574,
+    33.21404
+],
+  "geometry": {"coordinates":[49.10574,33.21404],"type":"Point"}
+}

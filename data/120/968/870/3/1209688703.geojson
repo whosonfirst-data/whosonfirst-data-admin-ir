@@ -1,0 +1,73 @@
+{
+  "id": 1209688703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.04175,31.44309,50.04175,31.44309",
+    "geom:latitude":31.44309,
+    "geom:longitude":50.04175,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Lakowm",
+    "gn:country_code":"IR",
+    "gn:dem":955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":125998,
+    "gn:latitude":31.44309,
+    "gn:longitude":50.04175,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"L\u0101kowm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "L\u0101kom"
+    ],
+    "name:fas_x_variant":[
+        "\u0644\u0627\u06a9\u0645",
+        "\u0644\u0627\u06a9\u0648\u0645"
+    ],
+    "name:und_x_variant":[
+        "L\u0101k\u0101m",
+        "L\u0101kowm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":125998,
+        "wk:page":"Lakom"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cd1f1e2c06e94b5f8aa8095e7bb76e2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209688703
+        }
+    ],
+    "wof:id":1209688703,
+    "wof:lastmodified":1537644403,
+    "wof:name":"Lakowm",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.04175,
+    31.44309,
+    50.04175,
+    31.44309
+],
+  "geometry": {"coordinates":[50.04175,31.44309],"type":"Point"}
+}

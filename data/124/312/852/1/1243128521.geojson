@@ -1,0 +1,78 @@
+{
+  "id": 1243128521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.5162,27.9716,51.5162,27.9716",
+    "geom:latitude":27.9716,
+    "geom:longitude":51.5162,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Zeydun",
+    "gn:country_code":"IR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":111128,
+    "gn:latitude":27.9716,
+    "gn:longitude":51.5162,
+    "gn:modification_date":"2018-05-31",
+    "gn:name":"Zeyd\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u064a\u062f\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0632\u064a\u062f\u0648\u0646",
+        "Zeyd\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Zeyd\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108719955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":111128,
+        "wk:page":"Zeydan,_Bushehr"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ebcac77fbfa2c7483bf89909730c4288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719955,
+            "locality_id":1243128521,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1243128521,
+    "wof:lastmodified":1537642947,
+    "wof:name":"Zeydun",
+    "wof:parent_id":1108719955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.5162,
+    27.9716,
+    51.5162,
+    27.9716
+],
+  "geometry": {"coordinates":[51.5162,27.9716],"type":"Point"}
+}

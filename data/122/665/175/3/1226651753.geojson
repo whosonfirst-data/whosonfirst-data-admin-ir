@@ -1,0 +1,77 @@
+{
+  "id": 1226651753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.0556,26.2281,60.0556,26.2281",
+    "geom:latitude":26.2281,
+    "geom:longitude":60.0556,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Karidin",
+    "gn:country_code":"IR",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1160633,
+    "gn:latitude":26.2281,
+    "gn:longitude":60.0556,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"K\u0101r\u012bd\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0631\u06cc\u062f\u06cc\u0646"
+    ],
+    "name:fas_x_variant":[
+        "K\u0101rped\u012bn",
+        "K\u0101r\u012bd\u012bn"
+    ],
+    "name:und_x_variant":[
+        "K\u0101r Pad\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1160633
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"978c851d291a18f60d6a3f1f4e4b7cce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720271,
+            "locality_id":1226651753,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1226651753,
+    "wof:lastmodified":1537647057,
+    "wof:name":"Karidin",
+    "wof:parent_id":1108720271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.0556,
+    26.2281,
+    60.0556,
+    26.2281
+],
+  "geometry": {"coordinates":[60.0556,26.2281],"type":"Point"}
+}

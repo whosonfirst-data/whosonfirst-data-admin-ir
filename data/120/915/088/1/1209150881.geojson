@@ -1,0 +1,65 @@
+{
+  "id": 1209150881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.4273,36.11839,50.4273,36.11839",
+    "geom:latitude":36.11839,
+    "geom:longitude":50.4273,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Jazmeh",
+    "gn:country_code":"IR",
+    "gn:dem":1367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":130207,
+    "gn:latitude":36.11839,
+    "gn:longitude":50.4273,
+    "gn:modification_date":"2015-08-06",
+    "gn:name":"Jazmeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u0645\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":130207,
+        "wk:page":"Jazmeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1c930e469f12ca7403ba5a7668bc9d30",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209150881
+        }
+    ],
+    "wof:id":1209150881,
+    "wof:lastmodified":1537644843,
+    "wof:name":"Jazmeh",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.4273,
+    36.11839000000001,
+    50.4273,
+    36.11839000000001
+],
+  "geometry": {"coordinates":[50.4273,36.11839000000001],"type":"Point"}
+}

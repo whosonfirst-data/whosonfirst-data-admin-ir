@@ -1,0 +1,67 @@
+{
+  "id": 1293351785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.72417,33.47111,54.72417,33.47111",
+    "geom:latitude":33.47111,
+    "geom:longitude":54.72417,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Papashi",
+    "gn:country_code":"IR",
+    "gn:dem":1234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":121499,
+    "gn:latitude":33.47111,
+    "gn:longitude":54.72417,
+    "gn:modification_date":"1996-12-11",
+    "gn:name":"P\u0101p\u0101sh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":121499
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ee275dc5e862db237971363aba1df1e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720255,
+            "locality_id":1293351785,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1293351785,
+    "wof:lastmodified":1536982120,
+    "wof:name":"Papashi",
+    "wof:parent_id":1108720255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.72417,
+    33.47111,
+    54.72417,
+    33.47111
+],
+  "geometry": {"coordinates":[54.72417,33.47111],"type":"Point"}
+}

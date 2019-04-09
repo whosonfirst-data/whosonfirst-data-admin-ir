@@ -1,0 +1,68 @@
+{
+  "id": 1209455223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.35825,36.56355,52.35825,36.56355",
+    "geom:latitude":36.56355,
+    "geom:longitude":52.35825,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Zaghedeh",
+    "gn:country_code":"IR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8540,
+    "gn:latitude":36.56355,
+    "gn:longitude":52.35825,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Z\u0101ghedeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u0627\u063a\u062f\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Z\u0101ghedeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8540,
+        "wk:page":"Zaghedeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"41d6b6ef2430dd329419fb0f717a801e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209455223
+        }
+    ],
+    "wof:id":1209455223,
+    "wof:lastmodified":1537640435,
+    "wof:name":"Zaghedeh",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.35825,
+    36.56355,
+    52.35825,
+    36.56355
+],
+  "geometry": {"coordinates":[52.35825,36.56355],"type":"Point"}
+}

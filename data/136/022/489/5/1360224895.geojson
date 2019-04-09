@@ -1,0 +1,78 @@
+{
+  "id": 1360224895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.25341,36.56212,51.25341,36.56212",
+    "geom:latitude":36.56212,
+    "geom:longitude":51.25341,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Halistan",
+    "gn:country_code":"IR",
+    "gn:dem":1488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8002,
+    "gn:latitude":36.56212,
+    "gn:longitude":51.25341,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Hal\u012bst\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Halest\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u0647\u0644\u0633\u062a\u0627\u0646",
+        "\u0647\u0644\u06cc\u0633\u062a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0647\u0644\u0633\u062a\u0627\u0646",
+        "Hal\u012bst\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"da6c6547dbffc257d302af2b3ff9c7cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719925,
+            "locality_id":1360224895,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1360224895,
+    "wof:lastmodified":1537640409,
+    "wof:name":"Halistan",
+    "wof:parent_id":1108719925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.25341,
+    36.56212,
+    51.25341,
+    36.56212
+],
+  "geometry": {"coordinates":[51.25341,36.56212],"type":"Point"}
+}

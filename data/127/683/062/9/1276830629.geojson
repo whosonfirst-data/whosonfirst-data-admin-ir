@@ -1,0 +1,77 @@
+{
+  "id": 1276830629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.9423,32.6402,52.9423,32.6402",
+    "geom:latitude":32.6402,
+    "geom:longitude":52.9423,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Owshen",
+    "gn:country_code":"IR",
+    "gn:dem":2071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381681,
+    "gn:latitude":32.6402,
+    "gn:longitude":52.9423,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Owshen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0634\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u016ashen"
+    ],
+    "name:und_x_variant":[
+        "Ushan",
+        "Owshen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381681
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d72c7268917f8f74fa5757a95ac550b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720255,
+            "locality_id":1276830629,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1276830629,
+    "wof:lastmodified":1537646373,
+    "wof:name":"Owshen",
+    "wof:parent_id":1108720255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.9423,
+    32.6402,
+    52.9423,
+    32.6402
+],
+  "geometry": {"coordinates":[52.9423,32.6402],"type":"Point"}
+}

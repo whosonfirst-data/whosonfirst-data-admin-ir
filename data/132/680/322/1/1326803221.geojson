@@ -1,0 +1,80 @@
+{
+  "id": 1326803221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.51244,32.07953,48.51244,32.07953",
+    "geom:latitude":32.07953,
+    "geom:longitude":48.51244,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Lazm Zobeydi",
+    "gn:country_code":"IR",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":140201,
+    "gn:latitude":32.07953,
+    "gn:longitude":48.51244,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"L\u0101zm Zobeyd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u062e \u0644\u0627\u0632\u0645"
+    ],
+    "name:fas_x_variant":[
+        "Boneh-ye L\u0101zem",
+        "Sheykh L\u0101zem",
+        "\u0644\u0627\u0632\u0645 \u0632\u0628\u06cc\u062f\u06cc",
+        "\u0628\u0646\u0647 \u0644\u0627\u0632\u0645"
+    ],
+    "name:und_x_variant":[
+        "Boneh Lazem",
+        "L\u0101zm Zobeyd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140201
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"18e0054034cfa4cb08ca526b58959c84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719969,
+            "locality_id":1326803221,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1326803221,
+    "wof:lastmodified":1537645853,
+    "wof:name":"Lazm Zobeydi",
+    "wof:parent_id":1108719969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.51244000000001,
+    32.07953,
+    48.51244000000001,
+    32.07953
+],
+  "geometry": {"coordinates":[48.51244000000001,32.07953],"type":"Point"}
+}

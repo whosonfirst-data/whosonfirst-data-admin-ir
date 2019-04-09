@@ -1,0 +1,73 @@
+{
+  "id": 1309889861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.85528,34.79091,48.85528,34.79091",
+    "geom:latitude":34.79091,
+    "geom:longitude":48.85528,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Jagan Bolaghi",
+    "gn:country_code":"IR",
+    "gn:dem":2023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11264197,
+    "gn:latitude":34.79091,
+    "gn:longitude":48.85528,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Jagan Bol\u0101gh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062c\u06af\u0646 \u0628\u0644\u0627\u063a\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Jagan Bol\u0101gh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11264197
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ae9b5a8efb999f93fcd9c08370fbf55f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720047,
+            "locality_id":1309889861,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1309889861,
+    "wof:lastmodified":1537648759,
+    "wof:name":"Jagan Bolaghi",
+    "wof:parent_id":1108720047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.85528,
+    34.79091,
+    48.85528,
+    34.79091
+],
+  "geometry": {"coordinates":[48.85528,34.79091],"type":"Point"}
+}

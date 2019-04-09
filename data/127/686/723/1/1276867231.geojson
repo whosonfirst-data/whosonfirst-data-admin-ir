@@ -1,0 +1,80 @@
+{
+  "id": 1276867231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.19478,36.90281,50.19478,36.90281",
+    "geom:latitude":36.90281,
+    "geom:longitude":50.19478,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mazi Bon",
+    "gn:country_code":"IR",
+    "gn:dem":1030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10110,
+    "gn:latitude":36.90281,
+    "gn:longitude":50.19478,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"M\u0101\u1e95\u012b Bon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "M\u0101z\u016bbon"
+    ],
+    "name:fas_x_variant":[
+        "M\u0101\u1e95\u012b Bon",
+        "\u0645\u0627\u0636\u06cc \u0628\u0646",
+        "\u0645\u0627\u0632\u06cc \u0628\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0645\u0627\u0636\u06cc \u0628\u0646",
+        "M\u0101z\u012b Bon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10110,
+        "wk:page":"Mazi_Bon"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"afb62ae2397b6cba47a0ada139ebdc4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720365,
+            "locality_id":1276867231,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1276867231,
+    "wof:lastmodified":1537640540,
+    "wof:name":"Mazi Bon",
+    "wof:parent_id":1108720365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.19478,
+    36.90281,
+    50.19478,
+    36.90281
+],
+  "geometry": {"coordinates":[50.19478,36.90281],"type":"Point"}
+}

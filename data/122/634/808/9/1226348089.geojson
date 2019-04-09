@@ -1,0 +1,77 @@
+{
+  "id": 1226348089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.57899,31.19244,61.57899,31.19244",
+    "geom:latitude":31.19244,
+    "geom:longitude":61.57899,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dashak",
+    "gn:country_code":"IR",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6651286,
+    "gn:latitude":31.19244,
+    "gn:longitude":61.57899,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"D\u0101shak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0634\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "D\u0101shak"
+    ],
+    "name:und_x_variant":[
+        "D\u0101shak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6651286,
+        "wk:page":"Dashak"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4611942c8e7795ad6da8eac444a28f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720513,
+            "locality_id":1226348089,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1226348089,
+    "wof:lastmodified":1537647207,
+    "wof:name":"Dashak",
+    "wof:parent_id":1108720513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.57899000000001,
+    31.19244,
+    61.57899000000001,
+    31.19244
+],
+  "geometry": {"coordinates":[61.57899000000001,31.19244],"type":"Point"}
+}

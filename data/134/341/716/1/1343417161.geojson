@@ -1,0 +1,73 @@
+{
+  "id": 1343417161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.24738,33.0901,48.24738,33.0901",
+    "geom:latitude":33.0901,
+    "geom:longitude":48.24738,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Anarrud-e Bozorg",
+    "gn:country_code":"IR",
+    "gn:dem":1224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10251543,
+    "gn:latitude":33.0901,
+    "gn:longitude":48.24738,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"An\u0101rr\u016bd-e Bozorg",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u0627\u0631\u0631\u0648\u062f \u0628\u0632\u0631\u06af"
+    ],
+    "name:und_x_variant":[
+        "An\u0101rr\u016bd-e Bozorg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10251543
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ff3d3a70a99d82a27355848f45b083e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720307,
+            "locality_id":1343417161,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1343417161,
+    "wof:lastmodified":1537648671,
+    "wof:name":"Anarrud-e Bozorg",
+    "wof:parent_id":1108720307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.24738,
+    33.0901,
+    48.24738,
+    33.0901
+],
+  "geometry": {"coordinates":[48.24738,33.0901],"type":"Point"}
+}

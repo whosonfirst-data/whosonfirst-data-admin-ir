@@ -1,0 +1,74 @@
+{
+  "id": 1226675117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.29029,37.31297,58.29029,37.31297",
+    "geom:latitude":37.31297,
+    "geom:longitude":58.29029,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Khabushan",
+    "gn:country_code":"IR",
+    "gn:dem":1279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":128147,
+    "gn:latitude":37.31297,
+    "gn:longitude":58.29029,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Khab\u016bsh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Khab\u016bsh\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u062e\u0628\u0648\u0634\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672401,
+        1108720001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":128147,
+        "wk:page":"Khabushan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0019f25e264c49088be2d7c8d5164070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720001,
+            "locality_id":1226675117,
+            "region_id":85672401
+        }
+    ],
+    "wof:id":1226675117,
+    "wof:lastmodified":1537644633,
+    "wof:name":"Khabushan",
+    "wof:parent_id":1108720001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.29029,
+    37.31297,
+    58.29029,
+    37.31297
+],
+  "geometry": {"coordinates":[58.29029,37.31297],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242671257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.2712,33.8544,46.2712,33.8544",
+    "geom:latitude":33.8544,
+    "geom:longitude":46.2712,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sharak-e Nobovvat",
+    "gn:country_code":"IR",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6201,
+    "gn:latitude":33.8544,
+    "gn:longitude":46.2712,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sharak-e Nobovvat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u06a9 \u0646\u0628\u0648\u0651\u062a"
+    ],
+    "name:und_x_variant":[
+        "Shahrak-e Nabovvat",
+        "Sharak-e Nobovvat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108720065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6201
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9e588813f27fb579d8e2dee63218f5a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720065,
+            "locality_id":1242671257,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1242671257,
+    "wof:lastmodified":1537640324,
+    "wof:name":"Sharak-e Nobovvat",
+    "wof:parent_id":1108720065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.2712,
+    33.8544,
+    46.2712,
+    33.8544
+],
+  "geometry": {"coordinates":[46.2712,33.8544],"type":"Point"}
+}

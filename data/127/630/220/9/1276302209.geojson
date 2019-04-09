@@ -1,0 +1,80 @@
+{
+  "id": 1276302209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.35011,32.82271,48.35011,32.82271",
+    "geom:latitude":32.82271,
+    "geom:longitude":48.35011,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Pas Akhowr",
+    "gn:country_code":"IR",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":121350,
+    "gn:latitude":32.82271,
+    "gn:longitude":48.35011,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Pas \u0100khowr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0633 \u0622\u062e\u0648\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u0633\u0627\u062e\u0631",
+        "\u067e\u064e\u0633 \u0622\u062e\u064f\u0648\u0631",
+        "Pas \u0100khvor",
+        "Pas\u0101khor"
+    ],
+    "name:und_x_variant":[
+        "Pas \u0100khowr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":121350,
+        "wk:page":"Pasakhor"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"be03ab0ce1f472fb03bf878933d27aa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719811,
+            "locality_id":1276302209,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1276302209,
+    "wof:lastmodified":1537643945,
+    "wof:name":"Pas Akhowr",
+    "wof:parent_id":1108719811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.35011,
+    32.82271,
+    48.35011,
+    32.82271
+],
+  "geometry": {"coordinates":[48.35011,32.82271],"type":"Point"}
+}

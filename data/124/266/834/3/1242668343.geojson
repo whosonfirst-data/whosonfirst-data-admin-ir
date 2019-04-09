@@ -1,0 +1,74 @@
+{
+  "id": 1242668343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.462,29.9578,53.462,29.9578",
+    "geom:latitude":29.9578,
+    "geom:longitude":53.462,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Najafabad",
+    "gn:country_code":"IR",
+    "gn:dem":2053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7033988,
+    "gn:latitude":29.9578,
+    "gn:longitude":53.462,
+    "gn:modification_date":"2018-06-20",
+    "gn:name":"Najaf\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u062c\u0641 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Najaf\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7033988,
+        "wk:page":"Najafabad,_Pasargad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2da105236763f58d09b6d9d54d977aa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720299,
+            "locality_id":1242668343,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1242668343,
+    "wof:lastmodified":1537647920,
+    "wof:name":"Najafabad",
+    "wof:parent_id":1108720299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.462,
+    29.9578,
+    53.462,
+    29.9578
+],
+  "geometry": {"coordinates":[53.462,29.9578],"type":"Point"}
+}

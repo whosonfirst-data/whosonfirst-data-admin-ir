@@ -1,0 +1,77 @@
+{
+  "id": 1193064011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.52965,36.60188,52.52965,36.60188",
+    "geom:latitude":36.60188,
+    "geom:longitude":52.52965,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Jezin",
+    "gn:country_code":"IR",
+    "gn:dem":-11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":385160,
+    "gn:latitude":36.60188,
+    "gn:longitude":52.52965,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Jez\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u064a\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u062c\u064f\u0632\u064a\u0646",
+        "Jez\u012bn"
+    ],
+    "name:und_x_variant":[
+        "Joz\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385160
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e484d72b4e1ceb41ef0d27f23c62c524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719847,
+            "locality_id":1193064011,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1193064011,
+    "wof:lastmodified":1537646389,
+    "wof:name":"Jezin",
+    "wof:parent_id":1108719847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.52965,
+    36.60188,
+    52.52965,
+    36.60188
+],
+  "geometry": {"coordinates":[52.52965,36.60188],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1327224615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.5218,30.3239,53.5218,30.3239",
+    "geom:latitude":30.3239,
+    "geom:longitude":53.5218,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Abu Tarbiyeh",
+    "gn:country_code":"IR",
+    "gn:dem":2420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":144810,
+    "gn:latitude":30.3239,
+    "gn:longitude":53.5218,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Ab\u016b Tarb\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u0648 \u062a\u0631\u0628\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Ab\u016b Tarbeh",
+        "\u0627\u0628\u0648 \u062a\u0631\u0628\u064a\u0647"
+    ],
+    "name:und_x_variant":[
+        "B\u0101tarbeh",
+        "Ab\u016b Taryeh",
+        "Ab\u016b Tarb\u012byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108719883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":144810,
+        "wk:page":"Abu_Tarbeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d0748689ae5159e290d01602018085bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719883,
+            "locality_id":1327224615,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1327224615,
+    "wof:lastmodified":1537646305,
+    "wof:name":"Abu Tarbiyeh",
+    "wof:parent_id":1108719883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.5218,
+    30.3239,
+    53.5218,
+    30.3239
+],
+  "geometry": {"coordinates":[53.5218,30.3239],"type":"Point"}
+}

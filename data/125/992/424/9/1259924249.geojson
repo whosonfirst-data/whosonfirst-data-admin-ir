@@ -1,0 +1,78 @@
+{
+  "id": 1259924249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.2905,36.51065,51.2905,36.51065",
+    "geom:latitude":36.51065,
+    "geom:longitude":51.2905,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Sanar-e `Olya",
+    "gn:country_code":"IR",
+    "gn:dem":941,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7831,
+    "gn:latitude":36.51065,
+    "gn:longitude":51.2905,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"San\u0101r-e \u2018Oly\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "San\u0101r-e B\u0101l\u0101"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0646\u0627\u0631 \u0628\u0627\u0644\u0627",
+        "\u0633\u0646\u0627\u0631 \u0639\u0644\u06cc\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u0633\u0646\u0627\u0631 \u0628\u0627\u0644\u0627",
+        "San\u0101r-e \u2018Oly\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7831
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dd169c9630177ecd93869766bfcf504d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719925,
+            "locality_id":1259924249,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1259924249,
+    "wof:lastmodified":1537640391,
+    "wof:name":"Sanar-e `Olya",
+    "wof:parent_id":1108719925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.2905,
+    36.51065,
+    51.2905,
+    36.51065
+],
+  "geometry": {"coordinates":[51.2905,36.51065],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1327074443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.09312,36.32617,51.09312,36.32617",
+    "geom:latitude":36.32617,
+    "geom:longitude":51.09312,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Dalir",
+    "gn:country_code":"IR",
+    "gn:dem":2058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":136395,
+    "gn:latitude":36.32617,
+    "gn:longitude":51.09312,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Dal\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0644\u06cc\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Dal\u012br"
+    ],
+    "name:und_x_variant":[
+        "Del\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":136395,
+        "wk:page":"Dalir"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b77abe146e81058ae032c61c65df9832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719925,
+            "locality_id":1327074443,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1327074443,
+    "wof:lastmodified":1537645466,
+    "wof:name":"Dalir",
+    "wof:parent_id":1108719925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.09312,
+    36.32617,
+    51.09312,
+    36.32617
+],
+  "geometry": {"coordinates":[51.09312,36.32617],"type":"Point"}
+}

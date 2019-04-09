@@ -1,0 +1,73 @@
+{
+  "id": 1260334745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.89716,28.19007,56.89716,28.19007",
+    "geom:latitude":28.19007,
+    "geom:longitude":56.89716,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Bagh Jamali",
+    "gn:country_code":"IR",
+    "gn:dem":2259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8750823,
+    "gn:latitude":28.19007,
+    "gn:longitude":56.89716,
+    "gn:modification_date":"2014-04-08",
+    "gn:name":"B\u0101gh Jam\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u063a \u062c\u0645\u0627\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "B\u0101gh Jam\u0101l\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8750823
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1892f6091b157a9adb7961a01be722d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720045,
+            "locality_id":1260334745,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1260334745,
+    "wof:lastmodified":1537648617,
+    "wof:name":"Bagh Jamali",
+    "wof:parent_id":1108720045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.89716,
+    28.19007,
+    56.89716,
+    28.19007
+],
+  "geometry": {"coordinates":[56.89716,28.19007],"type":"Point"}
+}

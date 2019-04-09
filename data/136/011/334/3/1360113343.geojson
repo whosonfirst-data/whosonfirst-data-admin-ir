@@ -1,0 +1,74 @@
+{
+  "id": 1360113343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.6888,34.828,60.6888,34.828",
+    "geom:latitude":34.828,
+    "geom:longitude":60.6888,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Kheyrabad",
+    "gn:country_code":"IR",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6748641,
+    "gn:latitude":34.828,
+    "gn:longitude":60.6888,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kheyr\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u064a\u0631\u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Kheyr\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6748641,
+        "wk:page":"Kheyrabad,_Taybad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d1b434545072988a8e372a101ad341bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720489,
+            "locality_id":1360113343,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1360113343,
+    "wof:lastmodified":1537647622,
+    "wof:name":"Kheyrabad",
+    "wof:parent_id":1108720489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.6888,
+    34.828,
+    60.6888,
+    34.828
+],
+  "geometry": {"coordinates":[60.6888,34.828],"type":"Point"}
+}

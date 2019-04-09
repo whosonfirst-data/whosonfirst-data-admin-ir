@@ -1,0 +1,80 @@
+{
+  "id": 1276375971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.66376,36.40492,49.66376,36.40492",
+    "geom:latitude":36.40492,
+    "geom:longitude":49.66376,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Asadabad",
+    "gn:country_code":"IR",
+    "gn:dem":1604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":142867,
+    "gn:latitude":36.40492,
+    "gn:longitude":49.66376,
+    "gn:modification_date":"2018-07-13",
+    "gn:name":"Asad\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062f \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Asad\u0101b\u0101d",
+        "\u0627\u0633\u062f \u0622\u0628\u0627\u062f \u062e\u0648\u0631\u06cc\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u1e28\u016br\u012bn",
+        "Kh\u016breh",
+        "Asad\u0101b\u0101d-e Kh\u016br\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108720315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":142867,
+        "wk:page":"Asadabad,_Qazvin"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0cb541ffcae7bfa6a2695133838c3f55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720315,
+            "locality_id":1276375971,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1276375971,
+    "wof:lastmodified":1537646116,
+    "wof:name":"Asadabad",
+    "wof:parent_id":1108720315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.66376,
+    36.40492,
+    49.66376,
+    36.40492
+],
+  "geometry": {"coordinates":[49.66376,36.40492],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209628927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.8042,36.4528,45.8042,36.4528",
+    "geom:latitude":36.4528,
+    "geom:longitude":45.8042,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ozuntash",
+    "gn:country_code":"IR",
+    "gn:dem":1493,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3417,
+    "gn:latitude":36.4528,
+    "gn:longitude":45.8042,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Oz\u016bnt\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0632\u0648\u0646 \u062a\u0627\u0634"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u064e\u0632\u0648\u062a\u0627\u0634",
+        "Az\u016bt\u0101sh",
+        "Oz\u016bnt\u0101sh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3417
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"709c7d341e3927806a32b33e326862da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209628927
+        }
+    ],
+    "wof:id":1209628927,
+    "wof:lastmodified":1537640252,
+    "wof:name":"Ozuntash",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.8042,
+    36.4528,
+    45.8042,
+    36.4528
+],
+  "geometry": {"coordinates":[45.8042,36.4528],"type":"Point"}
+}

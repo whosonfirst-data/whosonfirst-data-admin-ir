@@ -1,0 +1,78 @@
+{
+  "id": 1193275541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.5278,31.0137,61.5278,31.0137",
+    "geom:latitude":31.0137,
+    "geom:longitude":61.5278,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Golabad-e Sofla",
+    "gn:country_code":"IR",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1113018,
+    "gn:latitude":31.0137,
+    "gn:longitude":61.5278,
+    "gn:modification_date":"2013-10-03",
+    "gn:name":"Gol\u0101b\u0101d-e Sofl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0644 \u0622\u0628\u0627\u062f \u0633\u0641\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Gol\u0101b\u0101d",
+        "Gol\u0101b\u0101d-e Sofl\u00e1",
+        "\u06af\u0644 \u0622\u0628\u0627\u062f \u0627\u0648\u0644"
+    ],
+    "name:und_x_variant":[
+        "Gol\u0101b\u0101d-e Avval"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1113018
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8a03f9bb53e1688955444aa51c4bfadb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720513,
+            "locality_id":1193275541,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1193275541,
+    "wof:lastmodified":1537646829,
+    "wof:name":"Golabad-e Sofla",
+    "wof:parent_id":1108720513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.5278,
+    31.0137,
+    61.5278,
+    31.0137
+],
+  "geometry": {"coordinates":[61.5278,31.0137],"type":"Point"}
+}

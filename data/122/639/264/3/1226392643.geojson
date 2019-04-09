@@ -1,0 +1,72 @@
+{
+  "id": 1226392643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.89306,29.35278,57.89306,29.35278",
+    "geom:latitude":29.35278,
+    "geom:longitude":57.89306,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Qal`eh-ye Posht",
+    "gn:country_code":"IR",
+    "gn:dem":1679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":120178,
+    "gn:latitude":29.35278,
+    "gn:longitude":57.89306,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qal\u2018eh-ye Posht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qal\u2019eh Posht",
+        "Qal\u2018eh-ye Posht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":120178,
+        "wk:page":"Posht_Qaleh,_Anbarabad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c006eb5d5a44d43a561435dd58ae9ca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719861,
+            "locality_id":1226392643,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1226392643,
+    "wof:lastmodified":1537643828,
+    "wof:name":"Qal`eh-ye Posht",
+    "wof:parent_id":1108719861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.89306,
+    29.35278,
+    57.89306,
+    29.35278
+],
+  "geometry": {"coordinates":[57.89306,29.35278],"type":"Point"}
+}

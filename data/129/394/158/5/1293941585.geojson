@@ -1,0 +1,75 @@
+{
+  "id": 1293941585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.6555,34.102,47.6555,34.102",
+    "geom:latitude":34.102,
+    "geom:longitude":47.6555,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Tarom",
+    "gn:country_code":"IR",
+    "gn:dem":1630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":23446,
+    "gn:latitude":34.102,
+    "gn:longitude":47.6555,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u0162\u0101rom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0637\u0627\u0631\u064f\u0645"
+    ],
+    "name:fas_x_variant":[
+        "\u0637\u0627\u0631\u0645",
+        "\u0162\u0101rom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":23446,
+        "wk:page":"Tarom%2C_Lorestan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"356709a15d21ff7e1fcb20af14c4778b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719959,
+            "locality_id":1293941585,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1293941585,
+    "wof:lastmodified":1537641207,
+    "wof:name":"Tarom",
+    "wof:parent_id":1108719959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.6555,
+    34.102,
+    47.6555,
+    34.102
+],
+  "geometry": {"coordinates":[47.6555,34.102],"type":"Point"}
+}

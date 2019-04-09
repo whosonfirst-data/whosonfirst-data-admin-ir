@@ -1,0 +1,77 @@
+{
+  "id": 1310015075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.8993,37.446,44.8993,37.446",
+    "geom:latitude":37.446,
+    "geom:longitude":44.8993,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Kheri",
+    "gn:country_code":"IR",
+    "gn:dem":1528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":20864,
+    "gn:latitude":37.446,
+    "gn:longitude":44.8993,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kher\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0650\u0631\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Kher\u012b",
+        "\u062e\u0631\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u062e\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":20864
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b10aaef04cbde19910516fb231c3df7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720289,
+            "locality_id":1310015075,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1310015075,
+    "wof:lastmodified":1537641038,
+    "wof:name":"Kheri",
+    "wof:parent_id":1108720289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.8993,
+    37.446,
+    44.8993,
+    37.446
+],
+  "geometry": {"coordinates":[44.8993,37.446],"type":"Point"}
+}

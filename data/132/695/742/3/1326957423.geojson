@@ -1,0 +1,67 @@
+{
+  "id": 1326957423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.06667,32.6,60.06667,32.6",
+    "geom:latitude":32.6,
+    "geom:longitude":60.06667,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Kafaz",
+    "gn:country_code":"IR",
+    "gn:dem":1596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1160829,
+    "gn:latitude":32.6,
+    "gn:longitude":60.06667,
+    "gn:modification_date":"2011-02-07",
+    "gn:name":"Kaf\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108720397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1160829
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"200af3a44d52544f8741889ef001abbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720397,
+            "locality_id":1326957423,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1326957423,
+    "wof:lastmodified":1536867418,
+    "wof:name":"Kafaz",
+    "wof:parent_id":1108720397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.06667,
+    32.6,
+    60.06667,
+    32.6
+],
+  "geometry": {"coordinates":[60.06667,32.6],"type":"Point"}
+}

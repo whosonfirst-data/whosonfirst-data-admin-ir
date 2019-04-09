@@ -1,0 +1,73 @@
+{
+  "id": 1344142979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.6038,34.6866,46.6038,34.6866",
+    "geom:latitude":34.6866,
+    "geom:longitude":46.6038,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kani Kabud",
+    "gn:country_code":"IR",
+    "gn:dem":1434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":23780,
+    "gn:latitude":34.6866,
+    "gn:longitude":46.6038,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"K\u0101n\u012b Kab\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0646\u06cc \u06a9\u0628\u0648\u062f"
+    ],
+    "name:fas_x_variant":[
+        "K\u0101n\u012b Kab\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":23780
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d71110ab7e6f9b725420f793a946cac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720345,
+            "locality_id":1344142979,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1344142979,
+    "wof:lastmodified":1537641234,
+    "wof:name":"Kani Kabud",
+    "wof:parent_id":1108720345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.6038,
+    34.6866,
+    46.6038,
+    34.6866
+],
+  "geometry": {"coordinates":[46.6038,34.6866],"type":"Point"}
+}

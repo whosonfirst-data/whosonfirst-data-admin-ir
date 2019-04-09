@@ -1,0 +1,80 @@
+{
+  "id": 1242617731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.4074,36.20983,51.4074,36.20983",
+    "geom:latitude":36.20983,
+    "geom:longitude":51.4074,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Elika",
+    "gn:country_code":"IR",
+    "gn:dem":2572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":403212,
+    "gn:latitude":36.20983,
+    "gn:longitude":51.4074,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"El\u012bk\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u012al\u012bk\u0101"
+    ],
+    "name:fas_x_variant":[
+        "\u012alk\u0101",
+        "\u0627\u06cc\u0644\u06a9\u0627",
+        "\u0627\u0644\u06cc\u06a9\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u012alk\u0101",
+        "\u0627\u06cc\u0644\u06a9\u0627",
+        "El\u012bk\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":403212
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5824559951bc691b31ab12285187bc8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720283,
+            "locality_id":1242617731,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1242617731,
+    "wof:lastmodified":1537646547,
+    "wof:name":"Elika",
+    "wof:parent_id":1108720283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.4074,
+    36.20983,
+    51.4074,
+    36.20983
+],
+  "geometry": {"coordinates":[51.4074,36.20983],"type":"Point"}
+}

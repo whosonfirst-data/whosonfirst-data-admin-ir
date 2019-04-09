@@ -1,0 +1,75 @@
+{
+  "id": 1343661757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.25,25.6166,60.25,25.6166",
+    "geom:latitude":25.6166,
+    "geom:longitude":60.25,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shameh Sar",
+    "gn:country_code":"IR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1159586,
+    "gn:latitude":25.6166,
+    "gn:longitude":60.25,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Shameh Sar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0645\u0647 \u0633\u0631"
+    ],
+    "name:und_x_variant":[
+        "Sham\u0101sar",
+        "Shamsar",
+        "Shameh Sar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1159586
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7f208d32f97723f26ebac1c18272d5b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720163,
+            "locality_id":1343661757,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1343661757,
+    "wof:lastmodified":1537646978,
+    "wof:name":"Shameh Sar",
+    "wof:parent_id":1108720163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.25,
+    25.6166,
+    60.25,
+    25.6166
+],
+  "geometry": {"coordinates":[60.25,25.6166],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1209739019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.18093,25.56129,61.18093,25.56129",
+    "geom:latitude":25.56129,
+    "geom:longitude":61.18093,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Baluchi-ye Pa'in",
+    "gn:country_code":"IR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1113474,
+    "gn:latitude":25.56129,
+    "gn:longitude":61.18093,
+    "gn:modification_date":"2018-07-26",
+    "gn:name":"Bal\u016bch\u012b-ye P\u0101\u2019\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Bal\u016bch\u012b-ye P\u0101\u2019\u012bn"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0644\u0648\u0686\u06cc \u067e\u0627\u0626\u06cc\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0628\u0644\u0648\u0686\u06cc \u067e\u0627\u0626\u06cc\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108719919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1113474,
+        "wk:page":"Baluchi-ye_Pain"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"21aefb9afe1ae7372810d8a4aec881b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719919,
+            "locality_id":1209739019,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1209739019,
+    "wof:lastmodified":1537646859,
+    "wof:name":"Baluchi-ye Pa'in",
+    "wof:parent_id":1108719919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.18093,
+    25.56129,
+    61.18093,
+    25.56129
+],
+  "geometry": {"coordinates":[61.18093,25.56129],"type":"Point"}
+}

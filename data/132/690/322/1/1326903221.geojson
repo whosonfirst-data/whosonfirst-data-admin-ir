@@ -1,0 +1,78 @@
+{
+  "id": 1326903221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.73098,31.33819,49.73098,31.33819",
+    "geom:latitude":31.33819,
+    "geom:longitude":49.73098,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Khadijeh",
+    "gn:country_code":"IR",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":128139,
+    "gn:latitude":31.33819,
+    "gn:longitude":49.73098,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Khad\u012bjeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Khad\u012bjeh"
+    ],
+    "name:fas_x_variant":[
+        "\u062e\u062f\u06cc\u062c\u0647"
+    ],
+    "name:und_x_variant":[
+        "Khv\u0101jeh",
+        "Khodeja",
+        "\u062e\u062f\u06cc\u062c\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":128139
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6566eec65a4d693f93478e99b1c818b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720331,
+            "locality_id":1326903221,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1326903221,
+    "wof:lastmodified":1537644633,
+    "wof:name":"Khadijeh",
+    "wof:parent_id":1108720331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.73098,
+    31.33819,
+    49.73098,
+    31.33819
+],
+  "geometry": {"coordinates":[49.73098,31.33819],"type":"Point"}
+}

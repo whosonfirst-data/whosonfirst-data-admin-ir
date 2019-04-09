@@ -1,0 +1,74 @@
+{
+  "id": 1310075601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.18333,32.15,49.18333,32.15",
+    "geom:latitude":32.15,
+    "geom:longitude":49.18333,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Salar-e Shahidan",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":36359,
+    "gn:latitude":32.15,
+    "gn:longitude":49.18333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u0101l\u0101r-e Shah\u012bd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "S\u0101l\u0101r-e Shah\u012bd\u0101n"
+    ],
+    "name:und_x_variant":[
+        "\u015eale\u1e29 D\u0101v\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":36359
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d28a5cc357e9bf27e2f8c52702aea42a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720229,
+            "locality_id":1310075601,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1310075601,
+    "wof:lastmodified":1537642004,
+    "wof:name":"Salar-e Shahidan",
+    "wof:parent_id":1108720229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.18333,
+    32.15,
+    49.18333,
+    32.15
+],
+  "geometry": {"coordinates":[49.18333,32.15],"type":"Point"}
+}

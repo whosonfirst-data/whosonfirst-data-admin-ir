@@ -1,0 +1,73 @@
+{
+  "id": 1343826301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.78842,33.27584,47.78842,33.27584",
+    "geom:latitude":33.27584,
+    "geom:longitude":47.78842,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Melleh Batiar",
+    "gn:country_code":"IR",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8263419,
+    "gn:latitude":33.27584,
+    "gn:longitude":47.78842,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Melleh Bat\u012b\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0647 \u0628\u062a\u06cc\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Melleh Bat\u012b\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8263419
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"30949f25e294048f529a7efb4a426856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720307,
+            "locality_id":1343826301,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1343826301,
+    "wof:lastmodified":1537648534,
+    "wof:name":"Melleh Batiar",
+    "wof:parent_id":1108720307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.78842,
+    33.27584,
+    47.78842,
+    33.27584
+],
+  "geometry": {"coordinates":[47.78842,33.27584],"type":"Point"}
+}

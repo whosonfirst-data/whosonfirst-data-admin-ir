@@ -1,0 +1,73 @@
+{
+  "id": 1193274413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.23482,30.82004,51.23482,30.82004",
+    "geom:latitude":30.82004,
+    "geom:longitude":51.23482,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gandom Kesh",
+    "gn:country_code":"IR",
+    "gn:dem":1964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7490878,
+    "gn:latitude":30.82004,
+    "gn:longitude":51.23482,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Gandom Kesh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0646\u062f\u0645 \u06a9\u0634"
+    ],
+    "name:und_x_variant":[
+        "\u06af\u0646\u062f\u0645 \u06a9\u0634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108719965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7490878
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1f478a08a6adf5d16c3f6511b029eece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719965,
+            "locality_id":1193274413,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1193274413,
+    "wof:lastmodified":1537648265,
+    "wof:name":"Gandom Kesh",
+    "wof:parent_id":1108719965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.23482,
+    30.82004,
+    51.23482,
+    30.82004
+],
+  "geometry": {"coordinates":[51.23482,30.82004],"type":"Point"}
+}

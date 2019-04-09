@@ -1,0 +1,75 @@
+{
+  "id": 1360253509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.76341,33.6394,48.76341,33.6394",
+    "geom:latitude":33.6394,
+    "geom:longitude":48.76341,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Khan Amir",
+    "gn:country_code":"IR",
+    "gn:dem":1915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":127961,
+    "gn:latitude":33.6394,
+    "gn:longitude":48.76341,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Kh\u0101n Am\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0627\u0646 \u0645\u064a\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u062e\u0627\u0646 \u0627\u0645\u06cc\u0631",
+        "Kh\u0101n M\u012br",
+        "Kh\u0101n Am\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":127961
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"116650e3dc3c5c1f7ae7775a8be07950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719905,
+            "locality_id":1360253509,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1360253509,
+    "wof:lastmodified":1537644613,
+    "wof:name":"Khan Amir",
+    "wof:parent_id":1108719905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.76341,
+    33.6394,
+    48.76341,
+    33.6394
+],
+  "geometry": {"coordinates":[48.76341,33.6394],"type":"Point"}
+}

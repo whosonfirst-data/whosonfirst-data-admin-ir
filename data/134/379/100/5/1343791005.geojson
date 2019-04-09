@@ -1,0 +1,78 @@
+{
+  "id": 1343791005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.70073,36.46675,57.70073,36.46675",
+    "geom:latitude":36.46675,
+    "geom:longitude":57.70073,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Cheru",
+    "gn:country_code":"IR",
+    "gn:dem":1315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":138620,
+    "gn:latitude":36.46675,
+    "gn:longitude":57.70073,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Cher\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Cher\u016b"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u0631\u0648"
+    ],
+    "name:und_x_variant":[
+        "Cherv\u012b",
+        "\u0686\u0631\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":138620,
+        "wk:page":"Cheru,_Razavi_Khorasan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6d48389d63ef10a64d141ecde74e80c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720367,
+            "locality_id":1343791005,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1343791005,
+    "wof:lastmodified":1537645696,
+    "wof:name":"Cheru",
+    "wof:parent_id":1108720367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.70073000000001,
+    36.46675,
+    57.70073000000001,
+    36.46675
+],
+  "geometry": {"coordinates":[57.70073000000001,36.46675],"type":"Point"}
+}

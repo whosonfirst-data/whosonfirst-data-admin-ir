@@ -1,0 +1,81 @@
+{
+  "id": 1310643633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.25788,36.67643,48.25788,36.67643",
+    "geom:latitude":36.67643,
+    "geom:longitude":48.25788,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Mohsenabad",
+    "gn:country_code":"IR",
+    "gn:dem":1705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":41134,
+    "gn:latitude":36.67643,
+    "gn:longitude":48.25788,
+    "gn:modification_date":"2018-05-01",
+    "gn:name":"Mo\u1e29sen\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u062d\u0633\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Mo\u1e29sen\u0101b\u0101d",
+        "\u0627\u0634\u0643\u0686\u06cc",
+        "\u064a\u0634\u064e\u0643\u0686\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Ishikchi",
+        "\u012ashakch\u012b",
+        "Eshakch\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672361,
+        1108720519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":41134,
+        "wk:page":"Mohsenabad,_Zanjan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4a816a129266ea68035f47f782d2e60d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720519,
+            "locality_id":1310643633,
+            "region_id":85672361
+        }
+    ],
+    "wof:id":1310643633,
+    "wof:lastmodified":1537642320,
+    "wof:name":"Mohsenabad",
+    "wof:parent_id":1108720519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.25788,
+    36.67643,
+    48.25788,
+    36.67643
+],
+  "geometry": {"coordinates":[48.25788,36.67643],"type":"Point"}
+}

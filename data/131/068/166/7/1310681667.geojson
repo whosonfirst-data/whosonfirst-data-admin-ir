@@ -1,0 +1,77 @@
+{
+  "id": 1310681667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.33032,26.86294,54.33032,26.86294",
+    "geom:latitude":26.86294,
+    "geom:longitude":54.33032,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Maragh",
+    "gn:country_code":"IR",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":124881,
+    "gn:latitude":26.86294,
+    "gn:longitude":54.33032,
+    "gn:modification_date":"2018-07-08",
+    "gn:name":"Mar\u0101gh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Mar\u0101gh"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0631\u0627\u063a"
+    ],
+    "name:und_x_variant":[
+        "\u0645\u0631\u0627\u063a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108719869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":124881,
+        "wk:page":"Maragh,_Hormozgan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8b14a59510a4391de0fc2edc03ffd83d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719869,
+            "locality_id":1310681667,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1310681667,
+    "wof:lastmodified":1537644294,
+    "wof:name":"Maragh",
+    "wof:parent_id":1108719869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.33031999999999,
+    26.86294,
+    54.33031999999999,
+    26.86294
+],
+  "geometry": {"coordinates":[54.33031999999999,26.86294],"type":"Point"}
+}

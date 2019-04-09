@@ -1,0 +1,73 @@
+{
+  "id": 1209344223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.10061,36.17173,51.10061,36.17173",
+    "geom:latitude":36.17173,
+    "geom:longitude":51.10061,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Dera Pey",
+    "gn:country_code":"IR",
+    "gn:dem":2442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8045,
+    "gn:latitude":36.17173,
+    "gn:longitude":51.10061,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Der\u0101 Pey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u064e\u0631\u0627\u067e\u0650\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Der\u0101 Pey",
+        "\u062f\u0631\u0627 \u067e\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Dar\u0101pey",
+        "\u062f\u0631\u0627 \u067e\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8045,
+        "wk:page":"Dera_Pey"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cc7c070937521afb8d09234ec475ac31",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209344223
+        }
+    ],
+    "wof:id":1209344223,
+    "wof:lastmodified":1537640414,
+    "wof:name":"Dera Pey",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.10061,
+    36.17173,
+    51.10061,
+    36.17173
+],
+  "geometry": {"coordinates":[51.10061,36.17173],"type":"Point"}
+}

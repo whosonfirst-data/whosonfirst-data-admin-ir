@@ -1,0 +1,76 @@
+{
+  "id": 1277043895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.8463,33.857,48.8463,33.857",
+    "geom:latitude":33.857,
+    "geom:longitude":48.8463,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Darreh Vileh",
+    "gn:country_code":"IR",
+    "gn:dem":1659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":137479,
+    "gn:latitude":33.857,
+    "gn:longitude":48.8463,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Darreh V\u012bleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0647 \u0648\u064a\u0644\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Darreh V\u012bleh"
+    ],
+    "name:und_x_variant":[
+        "Darreh V\u012blleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":137479
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7383479eea8f397da998322f01e697e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719905,
+            "locality_id":1277043895,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1277043895,
+    "wof:lastmodified":1537645583,
+    "wof:name":"Darreh Vileh",
+    "wof:parent_id":1108719905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.8463,
+    33.857,
+    48.8463,
+    33.857
+],
+  "geometry": {"coordinates":[48.8463,33.857],"type":"Point"}
+}

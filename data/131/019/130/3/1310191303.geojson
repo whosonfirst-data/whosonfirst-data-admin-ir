@@ -1,0 +1,77 @@
+{
+  "id": 1310191303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.90642,34.31314,45.90642,34.31314",
+    "geom:latitude":34.31314,
+    "geom:longitude":45.90642,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Shahrak-e Direh",
+    "gn:country_code":"IR",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":25101,
+    "gn:latitude":34.31314,
+    "gn:longitude":45.90642,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Shahrak-e D\u012breh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u06a9 \u062f\u06cc\u0631\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Shahrak-e D\u012breh"
+    ],
+    "name:und_x_variant":[
+        "Shahrak",
+        "Shahre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":25101
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"580f21bd49d2bab3db8a8f5b69e35e42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720031,
+            "locality_id":1310191303,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1310191303,
+    "wof:lastmodified":1537641312,
+    "wof:name":"Shahrak-e Direh",
+    "wof:parent_id":1108720031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.90642,
+    34.31314,
+    45.90642,
+    34.31314
+],
+  "geometry": {"coordinates":[45.90642,34.31314],"type":"Point"}
+}

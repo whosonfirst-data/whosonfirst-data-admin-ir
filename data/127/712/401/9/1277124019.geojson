@@ -1,0 +1,74 @@
+{
+  "id": 1277124019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.9577,32.8066,52.9577,32.8066",
+    "geom:latitude":32.8066,
+    "geom:longitude":52.9577,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Kharzan",
+    "gn:country_code":"IR",
+    "gn:dem":1824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2606,
+    "gn:latitude":32.8066,
+    "gn:longitude":52.9577,
+    "gn:modification_date":"2018-07-23",
+    "gn:name":"Kh\u0101rzan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0627\u0631\u0632\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Kh\u0101rzan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2606,
+        "wk:page":"Kharzan,_Isfahan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0cd05fdf0281dbf2169f5e4cff94fbb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720255,
+            "locality_id":1277124019,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1277124019,
+    "wof:lastmodified":1537640216,
+    "wof:name":"Kharzan",
+    "wof:parent_id":1108720255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.9577,
+    32.8066,
+    52.9577,
+    32.8066
+],
+  "geometry": {"coordinates":[52.9577,32.8066],"type":"Point"}
+}

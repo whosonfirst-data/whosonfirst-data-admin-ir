@@ -1,0 +1,73 @@
+{
+  "id": 1193160631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.7674,30.8254,61.7674,30.8254",
+    "geom:latitude":30.8254,
+    "geom:longitude":61.7674,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Davazdah Sahmi",
+    "gn:country_code":"IR",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6677775,
+    "gn:latitude":30.8254,
+    "gn:longitude":61.7674,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Dav\u0101zdah Sahm\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0627\u0632\u062f\u0647 \u0633\u0647\u0645\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Dav\u0101zdah Sahm\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6677775
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"038b8675312c01ed4a51286cc208c0bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720515,
+            "locality_id":1193160631,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1193160631,
+    "wof:lastmodified":1537647347,
+    "wof:name":"Davazdah Sahmi",
+    "wof:parent_id":1108720515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.7674,
+    30.8254,
+    61.7674,
+    30.8254
+],
+  "geometry": {"coordinates":[61.7674,30.8254],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243404611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.8676,28.3311,56.8676,28.3311",
+    "geom:latitude":28.3311,
+    "geom:longitude":56.8676,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Tall Yahya",
+    "gn:country_code":"IR",
+    "gn:dem":1513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6986540,
+    "gn:latitude":28.3311,
+    "gn:longitude":56.8676,
+    "gn:modification_date":"2014-04-07",
+    "gn:name":"Tall Ya\u1e29y\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062a\u0644 \u06cc\u062d\u06cc\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Tall Ya\u1e29y\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6986540
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"781bfbbd10f2d4c4a8f0bf81ec9e0821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719851,
+            "locality_id":1243404611,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1243404611,
+    "wof:lastmodified":1537647856,
+    "wof:name":"Tall Yahya",
+    "wof:parent_id":1108719851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.8676,
+    28.3311,
+    56.8676,
+    28.3311
+],
+  "geometry": {"coordinates":[56.8676,28.3311],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1310234621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.79567,35.17149,60.79567,35.17149",
+    "geom:latitude":35.17149,
+    "geom:longitude":60.79567,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Qezel Hasar",
+    "gn:country_code":"IR",
+    "gn:dem":821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1159871,
+    "gn:latitude":35.17149,
+    "gn:longitude":60.79567,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qezel \u1e28a\u015f\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0642\u0632\u0644 \u062d\u0635\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Qezel \u1e28a\u015f\u0101r"
+    ],
+    "name:und_x_variant":[
+        "Qezel Sh\u012br",
+        "Qazalsh\u012br",
+        "Qezel \u1e28e\u015f\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1159871,
+        "wk:page":"Qezel_Hasar,_Torbat-e_Jam"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"670ac3ccbd34c5bc13100b1d124c2bfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720499,
+            "locality_id":1310234621,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1310234621,
+    "wof:lastmodified":1537646998,
+    "wof:name":"Qezel Hasar",
+    "wof:parent_id":1108720499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.79567,
+    35.17149000000001,
+    60.79567,
+    35.17149000000001
+],
+  "geometry": {"coordinates":[60.79567,35.17149000000001],"type":"Point"}
+}

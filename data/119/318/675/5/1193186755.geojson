@@ -1,0 +1,77 @@
+{
+  "id": 1193186755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.52556,36.99167,55.52556,36.99167",
+    "geom:latitude":36.99167,
+    "geom:longitude":55.52556,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Vamenan",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112267,
+    "gn:latitude":36.99167,
+    "gn:longitude":55.52556,
+    "gn:modification_date":"2006-08-21",
+    "gn:name":"V\u0101men\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0645\u0650\u0646\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0648\u064e\u0645\u0646\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Vamn\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108719839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112267
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e7fd4d49c8fc7a23be86a60f7ef40aac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719839,
+            "locality_id":1193186755,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1193186755,
+    "wof:lastmodified":1537643066,
+    "wof:name":"Vamenan",
+    "wof:parent_id":1108719839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.52556,
+    36.99167,
+    55.52556,
+    36.99167
+],
+  "geometry": {"coordinates":[55.52556,36.99167],"type":"Point"}
+}

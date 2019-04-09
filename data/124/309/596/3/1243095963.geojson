@@ -1,0 +1,74 @@
+{
+  "id": 1243095963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.27087,35.22521,58.27087,35.22521",
+    "geom:latitude":35.22521,
+    "geom:longitude":58.27087,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Bezanjerd",
+    "gn:country_code":"IR",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":15418,
+    "gn:latitude":35.22521,
+    "gn:longitude":58.27087,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Bezanjerd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0632\u0646\u062c\u0631\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u0628\u0632\u0646\u062c\u0631\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":15418,
+        "wk:page":"Bezanjerd"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a9c6d77c2964416f6a4e6eeda8a4e0dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720121,
+            "locality_id":1243095963,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1243095963,
+    "wof:lastmodified":1537640902,
+    "wof:name":"Bezanjerd",
+    "wof:parent_id":1108720121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.27087,
+    35.22521,
+    58.27087,
+    35.22521
+],
+  "geometry": {"coordinates":[58.27087,35.22521],"type":"Point"}
+}

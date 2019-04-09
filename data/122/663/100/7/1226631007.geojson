@@ -1,0 +1,80 @@
+{
+  "id": 1226631007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.89052,37.34457,49.89052,37.34457",
+    "geom:latitude":37.34457,
+    "geom:longitude":49.89052,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Kord Khil",
+    "gn:country_code":"IR",
+    "gn:dem":-16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":28883,
+    "gn:latitude":37.34457,
+    "gn:longitude":49.89052,
+    "gn:modification_date":"2018-06-16",
+    "gn:name":"Kord Kh\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Kord Kh\u012bl"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0631\u062f \u062e\u06cc\u0644",
+        "\u06a9\u0631\u062f \u062e\u06cc\u0644 \u0648\u0644\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u06a9\u0631\u062f \u062e\u06cc\u0644",
+        "Kord Kh\u012bl Valam",
+        "Valam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":28883,
+        "wk:page":"Kord_Khil-e_Valam"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4fb972f262c83bce557fd666953523e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720339,
+            "locality_id":1226631007,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1226631007,
+    "wof:lastmodified":1537641587,
+    "wof:name":"Kord Khil",
+    "wof:parent_id":1108720339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.89052,
+    37.34457,
+    49.89052,
+    37.34457
+],
+  "geometry": {"coordinates":[49.89052,37.34457],"type":"Point"}
+}

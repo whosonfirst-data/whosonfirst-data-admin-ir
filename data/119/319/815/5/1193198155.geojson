@@ -1,0 +1,75 @@
+{
+  "id": 1193198155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.86667,31.58333,53.86667,31.58333",
+    "geom:latitude":31.58333,
+    "geom:longitude":53.86667,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Deh-e Rashk",
+    "gn:country_code":"IR",
+    "gn:dem":2781,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":68609,
+    "gn:latitude":31.58333,
+    "gn:longitude":53.86667,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Deh-e Rashk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0650\u0647\u0650 \u0631\u064e\u0634\u0643"
+    ],
+    "name:und_x_variant":[
+        "Dah Aisak",
+        "Deh Rishk",
+        "Deh-e Rashk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108720475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":68609
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d572909b3277b0acddc590106e5c0bd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720475,
+            "locality_id":1193198155,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1193198155,
+    "wof:lastmodified":1537642883,
+    "wof:name":"Deh-e Rashk",
+    "wof:parent_id":1108720475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.86666999999999,
+    31.58333,
+    53.86666999999999,
+    31.58333
+],
+  "geometry": {"coordinates":[53.86666999999999,31.58333],"type":"Point"}
+}

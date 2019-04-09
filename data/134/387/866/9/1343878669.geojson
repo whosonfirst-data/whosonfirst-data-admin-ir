@@ -1,0 +1,70 @@
+{
+  "id": 1343878669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.98833,27.51944,52.98833,27.51944",
+    "geom:latitude":27.51944,
+    "geom:longitude":52.98833,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Darbi",
+    "gn:country_code":"IR",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":41026,
+    "gn:latitude":27.51944,
+    "gn:longitude":52.98833,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Darb\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Darb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":41026
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3bc806568b5867016938ff64dc34b8f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720253,
+            "locality_id":1343878669,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1343878669,
+    "wof:lastmodified":1537642313,
+    "wof:name":"Darbi",
+    "wof:parent_id":1108720253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.98833000000001,
+    27.51944,
+    52.98833000000001,
+    27.51944
+],
+  "geometry": {"coordinates":[52.98833000000001,27.51944],"type":"Point"}
+}

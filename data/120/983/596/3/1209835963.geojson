@@ -1,0 +1,78 @@
+{
+  "id": 1209835963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.00417,27.7622,54.00417,27.7622",
+    "geom:latitude":27.7622,
+    "geom:longitude":54.00417,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Evaz",
+    "gn:country_code":"IR",
+    "gn:dem":968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":135053,
+    "gn:latitude":27.7622,
+    "gn:longitude":54.00417,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Evaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0632"
+    ],
+    "name:und_x_variant":[
+        "Avaz",
+        "\u2018Iwaz",
+        "\u2018Avaz",
+        "Evazeh",
+        "Evaz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":135053,
+        "wk:page":"Evaz"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7f255f953c51afd939182cb528f01798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720185,
+            "locality_id":1209835963,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1209835963,
+    "wof:lastmodified":1537645333,
+    "wof:name":"Evaz",
+    "wof:parent_id":1108720185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.00417,
+    27.7622,
+    54.00417,
+    27.7622
+],
+  "geometry": {"coordinates":[54.00417,27.7622],"type":"Point"}
+}

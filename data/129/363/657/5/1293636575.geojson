@@ -1,0 +1,80 @@
+{
+  "id": 1293636575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.13171,33.19538,50.13171,33.19538",
+    "geom:latitude":33.19538,
+    "geom:longitude":50.13171,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Tokhmaghlu",
+    "gn:country_code":"IR",
+    "gn:dem":2294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112733,
+    "gn:latitude":33.19538,
+    "gn:longitude":50.13171,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Tokhm\u0101ghl\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Tokhm\u0101ql\u016b"
+    ],
+    "name:fas_x_variant":[
+        "Tokhm\u0101ghl\u016b",
+        "\u062a\u062e\u0645\u0627\u063a\u0644\u0648",
+        "\u062a\u062e\u0645\u0627\u0642\u0644\u0648"
+    ],
+    "name:und_x_variant":[
+        "Tukhm \u0100qlu",
+        "\u062a\u062e\u0645\u0627\u063a\u0644\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108719993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112733,
+        "wk:page":"Tokhmaqlu"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"40bc3b142dd402f5b3363c0e74a72ebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719993,
+            "locality_id":1293636575,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1293636575,
+    "wof:lastmodified":1537643118,
+    "wof:name":"Tokhmaghlu",
+    "wof:parent_id":1108719993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.13171,
+    33.19538,
+    50.13171,
+    33.19538
+],
+  "geometry": {"coordinates":[50.13171,33.19538],"type":"Point"}
+}

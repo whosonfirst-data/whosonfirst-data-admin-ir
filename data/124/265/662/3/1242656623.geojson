@@ -1,0 +1,67 @@
+{
+  "id": 1242656623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.9025,34.32972,45.9025,34.32972",
+    "geom:latitude":34.32972,
+    "geom:longitude":45.9025,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Namdar",
+    "gn:country_code":"IR",
+    "gn:dem":695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":447349,
+    "gn:latitude":34.32972,
+    "gn:longitude":45.9025,
+    "gn:modification_date":"2002-12-17",
+    "gn:name":"N\u0101md\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":447349
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"688be449a886e1eb803d9c49ec3f52f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720031,
+            "locality_id":1242656623,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1242656623,
+    "wof:lastmodified":1536950307,
+    "wof:name":"Namdar",
+    "wof:parent_id":1108720031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.9025,
+    34.32972,
+    45.9025,
+    34.32972
+],
+  "geometry": {"coordinates":[45.9025,34.32972],"type":"Point"}
+}

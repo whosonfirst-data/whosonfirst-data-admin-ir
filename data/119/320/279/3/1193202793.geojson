@@ -1,0 +1,80 @@
+{
+  "id": 1193202793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.2133,37.07707,55.2133,37.07707",
+    "geom:latitude":37.07707,
+    "geom:longitude":55.2133,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Sar Kahriza",
+    "gn:country_code":"IR",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":39977,
+    "gn:latitude":37.07707,
+    "gn:longitude":55.2133,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Sar Kahr\u012bz\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sar Kahz\u0101"
+    ],
+    "name:fas_x_variant":[
+        "Sar Kahr\u012bz\u0101",
+        "\u0633\u0631 \u06a9\u0647\u0632\u0627",
+        "\u0633\u0631 \u0643\u0647\u0631\u064a\u0632\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u0633\u0631 \u0643\u0647\u0631\u064a\u0632\u0627",
+        "\u0633\u0631 \u06a9\u0647\u0632\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108719839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":39977,
+        "wk:page":"Sar_Kahriza"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b0b0d86ff2bbe0234829c1d991e8c977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719839,
+            "locality_id":1193202793,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1193202793,
+    "wof:lastmodified":1537642241,
+    "wof:name":"Sar Kahriza",
+    "wof:parent_id":1108719839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.2133,
+    37.07707,
+    55.2133,
+    37.07707
+],
+  "geometry": {"coordinates":[55.2133,37.07707],"type":"Point"}
+}

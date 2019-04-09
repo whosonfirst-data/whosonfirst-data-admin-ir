@@ -1,0 +1,73 @@
+{
+  "id": 1242958051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.05568,37.44871,49.05568,37.44871",
+    "geom:latitude":37.44871,
+    "geom:longitude":49.05568,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Khaleh Zhiyeh",
+    "gn:country_code":"IR",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11056562,
+    "gn:latitude":37.44871,
+    "gn:longitude":49.05568,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Kh\u0101leh Zh\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0627\u0644\u0647 \u0698\u06cc\u0647"
+    ],
+    "name:und_x_variant":[
+        "Kh\u0101leh Zh\u012byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11056562
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0126d82e8cf31b112c97d563f5393420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720225,
+            "locality_id":1242958051,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1242958051,
+    "wof:lastmodified":1537648702,
+    "wof:name":"Khaleh Zhiyeh",
+    "wof:parent_id":1108720225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.05568,
+    37.44871,
+    49.05568,
+    37.44871
+],
+  "geometry": {"coordinates":[49.05568,37.44871],"type":"Point"}
+}

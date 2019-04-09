@@ -1,0 +1,67 @@
+{
+  "id": 1209965583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.73333,37.31667,48.73333,37.31667",
+    "geom:latitude":37.31667,
+    "geom:longitude":48.73333,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Isto",
+    "gn:country_code":"IR",
+    "gn:dem":1490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":68141,
+    "gn:latitude":37.31667,
+    "gn:longitude":48.73333,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Isto",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":68141
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fd7c9c98409b303b2090fe936c94963c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720123,
+            "locality_id":1209965583,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1209965583,
+    "wof:lastmodified":1536368766,
+    "wof:name":"Isto",
+    "wof:parent_id":1108720123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.73333,
+    37.31667,
+    48.73333,
+    37.31667
+],
+  "geometry": {"coordinates":[48.73333,37.31667],"type":"Point"}
+}

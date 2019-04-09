@@ -1,0 +1,76 @@
+{
+  "id": 1327203949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.59518,31.65373,48.59518,31.65373",
+    "geom:latitude":31.65373,
+    "geom:longitude":48.59518,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Al Hayi",
+    "gn:country_code":"IR",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":144222,
+    "gn:latitude":31.65373,
+    "gn:longitude":48.59518,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Al Hayi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0647\u0627\u0626\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Alh\u0101\u2019\u012b"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28\u0101\u2019\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":144222
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9426468b39ae5fdd238ecff95b2d4412",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719793,
+            "locality_id":1327203949,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1327203949,
+    "wof:lastmodified":1537646247,
+    "wof:name":"Al Hayi",
+    "wof:parent_id":1108719793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.59518,
+    31.65373,
+    48.59518,
+    31.65373
+],
+  "geometry": {"coordinates":[48.59518,31.65373],"type":"Point"}
+}

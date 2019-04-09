@@ -1,0 +1,78 @@
+{
+  "id": 1259739353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.7043,33.346,48.7043,33.346",
+    "geom:latitude":33.346,
+    "geom:longitude":48.7043,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Sarab-e Jaldan",
+    "gn:country_code":"IR",
+    "gn:dem":1846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":117334,
+    "gn:latitude":33.346,
+    "gn:longitude":48.7043,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sar\u0101b-e Jald\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0627\u0628 \u062c\u0644\u062f\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u064e\u0631\u0627\u0628\u0650 \u062c\u064e\u0644\u062f\u0648\u0646",
+        "Sar\u0101b-e Jald\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Sar\u0101b-e Jald\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":117334,
+        "wk:page":"Sarab-e_Jaldan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8fd61dc59e449864fd5afc1926fe8736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720145,
+            "locality_id":1259739353,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1259739353,
+    "wof:lastmodified":1537643531,
+    "wof:name":"Sarab-e Jaldan",
+    "wof:parent_id":1108720145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.7043,
+    33.346,
+    48.7043,
+    33.346
+],
+  "geometry": {"coordinates":[48.7043,33.346],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226114179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.8633,35.9567,45.8633,35.9567",
+    "geom:latitude":35.9567,
+    "geom:longitude":45.8633,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kani Sarv",
+    "gn:country_code":"IR",
+    "gn:dem":1596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6686250,
+    "gn:latitude":35.9567,
+    "gn:longitude":45.8633,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"K\u0101n\u012b Sarv",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0646\u06cc \u0633\u0631\u0648"
+    ],
+    "name:fas_x_variant":[
+        "K\u0101n\u012b Sarv"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108719875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6686250
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"63330588c09d8fd99b7394b02c23a665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719875,
+            "locality_id":1226114179,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1226114179,
+    "wof:lastmodified":1537647378,
+    "wof:name":"Kani Sarv",
+    "wof:parent_id":1108719875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.8633,
+    35.9567,
+    45.8633,
+    35.9567
+],
+  "geometry": {"coordinates":[45.8633,35.9567],"type":"Point"}
+}

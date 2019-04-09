@@ -1,0 +1,77 @@
+{
+  "id": 1326815111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.73441,37.5232,48.73441,37.5232",
+    "geom:latitude":37.5232,
+    "geom:longitude":48.73441,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Zangaluneh",
+    "gn:country_code":"IR",
+    "gn:dem":1718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6743827,
+    "gn:latitude":37.5232,
+    "gn:longitude":48.73441,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Zangal\u016bneh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u0646\u06af\u0644\u06cc\u0644\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Zangal\u012bleh",
+        "\u0632\u0646\u06af\u0644\u0648\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "Zangal\u016bneh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6743827
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"66fea10eac9b96deb9d3962a5904a590",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720353,
+            "locality_id":1326815111,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1326815111,
+    "wof:lastmodified":1537647603,
+    "wof:name":"Zangaluneh",
+    "wof:parent_id":1108720353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.73441,
+    37.5232,
+    48.73441,
+    37.5232
+],
+  "geometry": {"coordinates":[48.73441,37.5232],"type":"Point"}
+}

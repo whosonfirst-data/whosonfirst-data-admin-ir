@@ -1,0 +1,77 @@
+{
+  "id": 1327293411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.0941,38.6279,48.0941,38.6279",
+    "geom:latitude":38.6279,
+    "geom:longitude":48.0941,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Razi",
+    "gn:country_code":"IR",
+    "gn:dem":1422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":118653,
+    "gn:latitude":38.6279,
+    "gn:longitude":48.0941,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ra\u1e95\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u0636\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0631\u064f\u0632\u06cc",
+        "Ra\u1e95\u012b"
+    ],
+    "name:und_x_variant":[
+        "Roz\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":118653
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d4173d6adefb6223fae58d462dca4c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720237,
+            "locality_id":1327293411,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1327293411,
+    "wof:lastmodified":1537643658,
+    "wof:name":"Razi",
+    "wof:parent_id":1108720237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.0941,
+    38.6279,
+    48.0941,
+    38.6279
+],
+  "geometry": {"coordinates":[48.0941,38.6279],"type":"Point"}
+}

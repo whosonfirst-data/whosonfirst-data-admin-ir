@@ -1,0 +1,74 @@
+{
+  "id": 1209986389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.39268,32.9288,48.39268,32.9288",
+    "geom:latitude":32.9288,
+    "geom:longitude":48.39268,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Mira Ali",
+    "gn:country_code":"IR",
+    "gn:dem":958,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":123923,
+    "gn:latitude":32.9288,
+    "gn:longitude":48.39268,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"M\u012br\u0101 Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "M\u012br\u0101 Al\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u06cc\u0631\u0627 \u0639\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":123923,
+        "wk:page":"Mira_Ali"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"25c867c70fe47f6f0d42839c2992ea84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719811,
+            "locality_id":1209986389,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1209986389,
+    "wof:lastmodified":1537644200,
+    "wof:name":"Mira Ali",
+    "wof:parent_id":1108719811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.39268,
+    32.9288,
+    48.39268,
+    32.9288
+],
+  "geometry": {"coordinates":[48.39268,32.9288],"type":"Point"}
+}

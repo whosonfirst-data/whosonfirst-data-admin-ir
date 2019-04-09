@@ -1,0 +1,77 @@
+{
+  "id": 1259739349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.73205,33.13645,49.73205,33.13645",
+    "geom:latitude":33.13645,
+    "geom:longitude":49.73205,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Kicheh",
+    "gn:country_code":"IR",
+    "gn:dem":2243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":128307,
+    "gn:latitude":33.13645,
+    "gn:longitude":49.73205,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"K\u012bcheh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0650\u0647\u0686\u0650\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u06cc\u0686\u0647"
+    ],
+    "name:und_x_variant":[
+        "Kehcheh",
+        "K\u012bcheh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":128307
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c6ce82582a1b9f6394438a78f90d27fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719803,
+            "locality_id":1259739349,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1259739349,
+    "wof:lastmodified":1537644649,
+    "wof:name":"Kicheh",
+    "wof:parent_id":1108719803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.73205,
+    33.13645,
+    49.73205,
+    33.13645
+],
+  "geometry": {"coordinates":[49.73205,33.13645],"type":"Point"}
+}

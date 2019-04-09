@@ -1,0 +1,73 @@
+{
+  "id": 1225974099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.4195,36.364,59.4195,36.364",
+    "geom:latitude":36.364,
+    "geom:longitude":59.4195,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Shahrak-e Bildar",
+    "gn:country_code":"IR",
+    "gn:dem":1132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6678223,
+    "gn:latitude":36.364,
+    "gn:longitude":59.4195,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Shahrak-e B\u012bldar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u06a9 \u0628\u06cc\u0644\u062f\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Shahrak-e B\u012bldar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6678223
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"862841ecb8b6b846a05021ee4cfe0e4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720227,
+            "locality_id":1225974099,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1225974099,
+    "wof:lastmodified":1537647353,
+    "wof:name":"Shahrak-e Bildar",
+    "wof:parent_id":1108720227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.4195,
+    36.364,
+    59.4195,
+    36.364
+],
+  "geometry": {"coordinates":[59.4195,36.364],"type":"Point"}
+}

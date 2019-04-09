@@ -1,0 +1,75 @@
+{
+  "id": 1310304831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.6239,28.737,60.6239,28.737",
+    "geom:latitude":28.737,
+    "geom:longitude":60.6239,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Naril",
+    "gn:country_code":"IR",
+    "gn:dem":1753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1160124,
+    "gn:latitude":28.737,
+    "gn:longitude":60.6239,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"N\u0101r\u012bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0631\u06cc\u0644"
+    ],
+    "name:fas_x_variant":[
+        "N\u0101z\u012bl",
+        "N\u0101r\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1160124,
+        "wk:page":"Nazil"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"10eed2e4b7953d0e786d160803581d91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720131,
+            "locality_id":1310304831,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1310304831,
+    "wof:lastmodified":1537647018,
+    "wof:name":"Naril",
+    "wof:parent_id":1108720131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.6239,
+    28.737,
+    60.6239,
+    28.737
+],
+  "geometry": {"coordinates":[60.6239,28.737],"type":"Point"}
+}

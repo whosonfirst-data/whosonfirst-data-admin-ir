@@ -1,0 +1,67 @@
+{
+  "id": 1209165281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.26667,33.75,51.26667,33.75",
+    "geom:latitude":33.75,
+    "geom:longitude":51.26667,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Vishang",
+    "gn:country_code":"IR",
+    "gn:dem":2412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":66345,
+    "gn:latitude":33.75,
+    "gn:longitude":51.26667,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"V\u012bshang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u064a\u0634\u064e\u0646\u06af"
+    ],
+    "name:fas_x_variant":[
+        "V\u012bshang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":66345
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8bdf4a774bd7cb2602714039d24479c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209165281
+        }
+    ],
+    "wof:id":1209165281,
+    "wof:lastmodified":1537642802,
+    "wof:name":"Vishang",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.26667,
+    33.75,
+    51.26667,
+    33.75
+],
+  "geometry": {"coordinates":[51.26667,33.75],"type":"Point"}
+}

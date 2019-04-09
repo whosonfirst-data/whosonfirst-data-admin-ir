@@ -1,0 +1,76 @@
+{
+  "id": 1226303769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.25169,30.34256,57.25169,30.34256",
+    "geom:latitude":30.34256,
+    "geom:longitude":57.25169,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Safarabad",
+    "gn:country_code":"IR",
+    "gn:dem":2151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7103501,
+    "gn:latitude":30.34256,
+    "gn:longitude":57.25169,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"\u015eafar\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0635\u0641\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u015eafar\u0101b\u0101d"
+    ],
+    "name:und_x_variant":[
+        "\u015eafar\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7103501
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ac0c15eda3b8763ac5a9f58a9b684278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720115,
+            "locality_id":1226303769,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1226303769,
+    "wof:lastmodified":1537648082,
+    "wof:name":"Safarabad",
+    "wof:parent_id":1108720115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.25169,
+    30.34256,
+    57.25169,
+    30.34256
+],
+  "geometry": {"coordinates":[57.25169,30.34256],"type":"Point"}
+}

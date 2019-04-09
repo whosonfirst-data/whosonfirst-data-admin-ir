@@ -1,0 +1,74 @@
+{
+  "id": 1276363943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.265,35.00085,60.265,35.00085",
+    "geom:latitude":35.00085,
+    "geom:longitude":60.265,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Jizabad",
+    "gn:country_code":"IR",
+    "gn:dem":1336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6999170,
+    "gn:latitude":35.00085,
+    "gn:longitude":60.265,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"J\u012bz\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u064a\u0632 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "J\u012bz\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6999170,
+        "wk:page":"Jizabad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"78ef94f99312d13c9851c1595026e307",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720489,
+            "locality_id":1276363943,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1276363943,
+    "wof:lastmodified":1537647883,
+    "wof:name":"Jizabad",
+    "wof:parent_id":1108720489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.265,
+    35.00085,
+    60.265,
+    35.00085
+],
+  "geometry": {"coordinates":[60.265,35.00085],"type":"Point"}
+}

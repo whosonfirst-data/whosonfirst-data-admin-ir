@@ -1,0 +1,82 @@
+{
+  "id": 1343543915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.22892,30.75657,49.22892,30.75657",
+    "geom:latitude":30.75657,
+    "geom:longitude":49.22892,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Moksar-e `Olya",
+    "gn:country_code":"IR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":125454,
+    "gn:latitude":30.75657,
+    "gn:longitude":49.22892,
+    "gn:modification_date":"2016-11-17",
+    "gn:name":"Moksar-e \u2018Oly\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u06a9\u0633\u0631 \u0639\u0644\u06cc\u0627"
+    ],
+    "name:fas_x_variant":[
+        "Maksar-e B\u0101l\u0101",
+        "Moksar-e \u2018Oly\u0101"
+    ],
+    "name:und_x_variant":[
+        "Mesgar",
+        "Benv\u0101r-e K\u016bchek",
+        "Magsar",
+        "Muksar",
+        "Maksar",
+        "Magsar-e \u2018Oly\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":125454
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a81f1a068e8d0df400b18e7ada3f1102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719871,
+            "locality_id":1343543915,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1343543915,
+    "wof:lastmodified":1537644352,
+    "wof:name":"Moksar-e `Olya",
+    "wof:parent_id":1108719871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.22892,
+    30.75657,
+    49.22892,
+    30.75657
+],
+  "geometry": {"coordinates":[49.22892,30.75657],"type":"Point"}
+}

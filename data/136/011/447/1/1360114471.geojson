@@ -1,0 +1,70 @@
+{
+  "id": 1360114471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.9,32.81667,58.9,32.81667",
+    "geom:latitude":32.81667,
+    "geom:longitude":58.9,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Tilk",
+    "gn:country_code":"IR",
+    "gn:dem":1322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":66409,
+    "gn:latitude":32.81667,
+    "gn:longitude":58.9,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"T\u012blk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "T\u012blk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108719895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":66409
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b2057b4929594d6aa085eb191c02947d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719895,
+            "locality_id":1360114471,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1360114471,
+    "wof:lastmodified":1537642804,
+    "wof:name":"Tilk",
+    "wof:parent_id":1108719895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.9,
+    32.81667,
+    58.9,
+    32.81667
+],
+  "geometry": {"coordinates":[58.9,32.81667],"type":"Point"}
+}

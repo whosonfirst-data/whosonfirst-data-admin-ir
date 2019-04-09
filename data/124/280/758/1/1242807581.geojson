@@ -1,0 +1,76 @@
+{
+  "id": 1242807581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.14589,37.47781,59.14589,37.47781",
+    "geom:latitude":37.47781,
+    "geom:longitude":59.14589,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Kalateh-ye Darband",
+    "gn:country_code":"IR",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":26148,
+    "gn:latitude":37.47781,
+    "gn:longitude":59.14589,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kal\u0101teh-ye Darband",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0644\u0627\u062a\u0647 \u062f\u0631\u0628\u0646\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Kal\u0101teh-ye Darband"
+    ],
+    "name:und_x_variant":[
+        "Darband"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108719941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":26148
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9590ae4f93a7756b1850201a426db199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719941,
+            "locality_id":1242807581,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1242807581,
+    "wof:lastmodified":1537641375,
+    "wof:name":"Kalateh-ye Darband",
+    "wof:parent_id":1108719941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.14589,
+    37.47781,
+    59.14589,
+    37.47781
+],
+  "geometry": {"coordinates":[59.14589,37.47781],"type":"Point"}
+}

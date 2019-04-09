@@ -1,0 +1,77 @@
+{
+  "id": 1243214097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.15918,28.35162,58.15918,28.35162",
+    "geom:latitude":28.35162,
+    "geom:longitude":58.15918,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Mardehek",
+    "gn:country_code":"IR",
+    "gn:dem":892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":124833,
+    "gn:latitude":28.35162,
+    "gn:longitude":58.15918,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Mardehek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u062f\u0647\u06a9"
+    ],
+    "name:und_x_variant":[
+        "Mardehak",
+        "Mardeh",
+        "Mardehk",
+        "Mardehek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":124833,
+        "wk:page":"Mardehek"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c0442e8262c06864ce6c10f51dac7e68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719809,
+            "locality_id":1243214097,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1243214097,
+    "wof:lastmodified":1537644290,
+    "wof:name":"Mardehek",
+    "wof:parent_id":1108719809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.15918000000001,
+    28.35162,
+    58.15918000000001,
+    28.35162
+],
+  "geometry": {"coordinates":[58.15918000000001,28.35162],"type":"Point"}
+}

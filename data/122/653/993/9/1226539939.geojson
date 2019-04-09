@@ -1,0 +1,74 @@
+{
+  "id": 1226539939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.8323,25.3578,60.8323,25.3578",
+    "geom:latitude":25.3578,
+    "geom:longitude":60.8323,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Palani",
+    "gn:country_code":"IR",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1160046,
+    "gn:latitude":25.3578,
+    "gn:longitude":60.8323,
+    "gn:modification_date":"2018-07-27",
+    "gn:name":"P\u0101l\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0644\u0627\u0646\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "P\u0101l\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108719919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1160046,
+        "wk:page":"Palani,_Iran"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1a2c0d993974d21d8c70f7b4af5edff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719919,
+            "locality_id":1226539939,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1226539939,
+    "wof:lastmodified":1537647012,
+    "wof:name":"Palani",
+    "wof:parent_id":1108719919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.8323,
+    25.3578,
+    60.8323,
+    25.3578
+],
+  "geometry": {"coordinates":[60.8323,25.3578],"type":"Point"}
+}

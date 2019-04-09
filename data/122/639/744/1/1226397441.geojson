@@ -1,0 +1,79 @@
+{
+  "id": 1226397441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.0854,35.406,53.0854,35.406",
+    "geom:latitude":35.406,
+    "geom:longitude":53.0854,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Lasjerd",
+    "gn:country_code":"IR",
+    "gn:dem":1234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":125820,
+    "gn:latitude":35.406,
+    "gn:longitude":53.0854,
+    "gn:modification_date":"2013-11-07",
+    "gn:name":"L\u0101sjerd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0633\u062c\u0631\u062f"
+    ],
+    "name:fas_x_variant":[
+        "L\u0101sjerd"
+    ],
+    "name:und_x_variant":[
+        "L\u0101sgird",
+        "L\u0101sgerd",
+        "L\u0101sjird"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672309,
+        1108720419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":125820,
+        "wk:page":"Lasjerd"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ec3aeddb4ae03f7af71c6bde67748dc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720419,
+            "locality_id":1226397441,
+            "region_id":85672309
+        }
+    ],
+    "wof:id":1226397441,
+    "wof:lastmodified":1537644389,
+    "wof:name":"Lasjerd",
+    "wof:parent_id":1108720419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.0854,
+    35.406,
+    53.0854,
+    35.406
+],
+  "geometry": {"coordinates":[53.0854,35.406],"type":"Point"}
+}

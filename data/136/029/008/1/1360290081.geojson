@@ -1,0 +1,80 @@
+{
+  "id": 1360290081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.92646,30.51612,50.92646,30.51612",
+    "geom:latitude":30.51612,
+    "geom:longitude":50.92646,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Tang Tiseh",
+    "gn:country_code":"IR",
+    "gn:dem":1742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":113303,
+    "gn:latitude":30.51612,
+    "gn:longitude":50.92646,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Tang T\u012bseh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u064e\u0646\u06af\u0650 \u062a\u064a\u0633\u0650\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u064e\u0646\u06af \u062a\u064a\u0633\u064e\u0647",
+        "Tang T\u012bseh",
+        "Tang-e T\u012bseh",
+        "\u062a\u0646\u06af \u062a\u06cc\u0633\u0647"
+    ],
+    "name:und_x_variant":[
+        "Tang T\u012bsah",
+        "\u062a\u0646\u06af \u062a\u06cc\u0633\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":113303
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"857a7c2af6e17d58d2fcfeea4daaded7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720015,
+            "locality_id":1360290081,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1360290081,
+    "wof:lastmodified":1537643177,
+    "wof:name":"Tang Tiseh",
+    "wof:parent_id":1108720015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.92646,
+    30.51612,
+    50.92646,
+    30.51612
+],
+  "geometry": {"coordinates":[50.92646,30.51612],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1276638359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.1398,32.3527,48.1398,32.3527",
+    "geom:latitude":32.3527,
+    "geom:longitude":48.1398,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Salar-e Shahidan",
+    "gn:country_code":"IR",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6688033,
+    "gn:latitude":32.3527,
+    "gn:longitude":48.1398,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"S\u0101l\u0101r-e Shah\u012bd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0644\u0627\u0631 \u0634\u0647\u06cc\u062f\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "S\u0101l\u0101r-e Shah\u012bd\u0101n",
+        "\u0635\u0627\u0644\u062d \u062f\u0627\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "S\u0101la\u1e29 D\u0101v\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6688033
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f542ceca711b351fb57f8be4c7d6b88c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720455,
+            "locality_id":1276638359,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1276638359,
+    "wof:lastmodified":1537647416,
+    "wof:name":"Salar-e Shahidan",
+    "wof:parent_id":1108720455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.1398,
+    32.3527,
+    48.1398,
+    32.3527
+],
+  "geometry": {"coordinates":[48.1398,32.3527],"type":"Point"}
+}

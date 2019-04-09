@@ -1,0 +1,80 @@
+{
+  "id": 1243357805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.045,30.0581,53.045,30.0581",
+    "geom:latitude":30.0581,
+    "geom:longitude":53.045,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Chisqan",
+    "gn:country_code":"IR",
+    "gn:dem":1760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":130105,
+    "gn:latitude":30.0581,
+    "gn:longitude":53.045,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Ch\u012bsq\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "J\u012bsq\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u062c\u06cc\u0633\u0642\u0627\u0646",
+        "\u0686\u06cc\u0633\u0642\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "J\u012bq\u0101n",
+        "J\u012bsaq\u0101n",
+        "\u062c\u06cc\u0633\u0642\u0627\u0646",
+        "Ch\u012bsq\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":130105
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"92154abbb962c00014f40404011666b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720299,
+            "locality_id":1243357805,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1243357805,
+    "wof:lastmodified":1537644831,
+    "wof:name":"Chisqan",
+    "wof:parent_id":1108720299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.045,
+    30.0581,
+    53.045,
+    30.0581
+],
+  "geometry": {"coordinates":[53.045,30.0581],"type":"Point"}
+}

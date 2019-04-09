@@ -1,0 +1,73 @@
+{
+  "id": 1293574085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.8688,37.3688,48.8688,37.3688",
+    "geom:latitude":37.3688,
+    "geom:longitude":48.8688,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Shullish",
+    "gn:country_code":"IR",
+    "gn:dem":1913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6741856,
+    "gn:latitude":37.3688,
+    "gn:longitude":48.8688,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Sh\u016bll\u012bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u0644\u0644\u06cc\u0634"
+    ],
+    "name:fas_x_variant":[
+        "Sh\u016bll\u012bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6741856
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8c2ac8d0ce2fffabbcc36a1b727d3767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720225,
+            "locality_id":1293574085,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1293574085,
+    "wof:lastmodified":1537647577,
+    "wof:name":"Shullish",
+    "wof:parent_id":1108720225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.8688,
+    37.3688,
+    48.8688,
+    37.3688
+],
+  "geometry": {"coordinates":[48.8688,37.3688],"type":"Point"}
+}

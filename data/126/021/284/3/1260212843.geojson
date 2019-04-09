@@ -1,0 +1,79 @@
+{
+  "id": 1260212843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.39395,33.95656,59.39395,33.95656",
+    "geom:latitude":33.95656,
+    "geom:longitude":59.39395,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Bezanabad",
+    "gn:country_code":"IR",
+    "gn:dem":1277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":139953,
+    "gn:latitude":33.95656,
+    "gn:longitude":59.39395,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Bezan\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0632\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Bozn\u0101b\u0101d",
+        "B\u016bzn\u0101b\u0101d",
+        "\u0628\u0632\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Buzn\u0101b\u0101d",
+        "Bezan\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108720313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":139953
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7b1eeace53f95ab555dec847de6d1214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720313,
+            "locality_id":1260212843,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1260212843,
+    "wof:lastmodified":1537645826,
+    "wof:name":"Bezanabad",
+    "wof:parent_id":1108720313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.39395,
+    33.95656,
+    59.39395,
+    33.95656
+],
+  "geometry": {"coordinates":[59.39395,33.95656],"type":"Point"}
+}

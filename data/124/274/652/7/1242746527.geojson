@@ -1,0 +1,73 @@
+{
+  "id": 1242746527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.8035,33.7286,47.8035,33.7286",
+    "geom:latitude":33.7286,
+    "geom:longitude":47.8035,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Balut Ban",
+    "gn:country_code":"IR",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":28527,
+    "gn:latitude":33.7286,
+    "gn:longitude":47.8035,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Bal\u016b\u0163 B\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0648\u0637 \u0628\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Bal\u016b\u0163 B\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":28527
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6d7addf1f7b872cf65e1c14f1d5d6739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720145,
+            "locality_id":1242746527,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1242746527,
+    "wof:lastmodified":1537641550,
+    "wof:name":"Balut Ban",
+    "wof:parent_id":1108720145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.8035,
+    33.7286,
+    47.8035,
+    33.7286
+],
+  "geometry": {"coordinates":[47.8035,33.7286],"type":"Point"}
+}

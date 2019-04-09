@@ -1,0 +1,78 @@
+{
+  "id": 1225925947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.38562,36.00234,47.38562,36.00234",
+    "geom:latitude":36.00234,
+    "geom:longitude":47.38562,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Qezkeh",
+    "gn:country_code":"IR",
+    "gn:dem":1660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":119288,
+    "gn:latitude":36.00234,
+    "gn:longitude":47.38562,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Qezkeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0632\u06a9\u0647"
+    ],
+    "name:und_x_variant":[
+        "Qizkha",
+        "Qezkheh",
+        "Qezhek",
+        "Qezgeh",
+        "Qezkeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108719971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":119288,
+        "wk:page":"Qezgeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e636e92851e74fccbf853e6fb20f4779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719971,
+            "locality_id":1225925947,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1225925947,
+    "wof:lastmodified":1537643725,
+    "wof:name":"Qezkeh",
+    "wof:parent_id":1108719971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.38562,
+    36.00234000000001,
+    47.38562,
+    36.00234000000001
+],
+  "geometry": {"coordinates":[47.38562,36.00234000000001],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1260212799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.15493,33.3055,60.15493,33.3055",
+    "geom:latitude":33.3055,
+    "geom:longitude":60.15493,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Shushk",
+    "gn:country_code":"IR",
+    "gn:dem":1813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1159501,
+    "gn:latitude":33.3055,
+    "gn:longitude":60.15493,
+    "gn:modification_date":"2018-05-29",
+    "gn:name":"Sh\u016bshk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Qal\u2018eh S\u016bsak"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u0648\u0634\u06a9",
+        "Sh\u016bshk",
+        "Sh\u016bshak"
+    ],
+    "name:und_x_variant":[
+        "Sh\u016bshak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108720313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1159501
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"279f2e5a2bd6ec7cdfe5c8eff07ba5b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720313,
+            "locality_id":1260212799,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1260212799,
+    "wof:lastmodified":1537646973,
+    "wof:name":"Shushk",
+    "wof:parent_id":1108720313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.15493000000001,
+    33.3055,
+    60.15493000000001,
+    33.3055
+],
+  "geometry": {"coordinates":[60.15493000000001,33.3055],"type":"Point"}
+}

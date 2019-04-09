@@ -1,0 +1,75 @@
+{
+  "id": 1225841749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.65,36.61667,49.65,36.61667",
+    "geom:latitude":36.61667,
+    "geom:longitude":49.65,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Darband",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":137882,
+    "gn:latitude":36.61667,
+    "gn:longitude":49.65,
+    "gn:modification_date":"2018-06-15",
+    "gn:name":"Darband",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kishlak-i-Darvand",
+        "Qishl\u0101q-i-Darwand",
+        "Qeshl\u0101q-e Darvand",
+        "Darband"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":137882,
+        "wk:page":"Darband,_Rudbar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"835ac24d36c10168dc0acc969594ef6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720361,
+            "locality_id":1225841749,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1225841749,
+    "wof:lastmodified":1537645622,
+    "wof:name":"Darband",
+    "wof:parent_id":1108720361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.65,
+    36.61667,
+    49.65,
+    36.61667
+],
+  "geometry": {"coordinates":[49.65,36.61667],"type":"Point"}
+}

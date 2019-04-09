@@ -1,0 +1,75 @@
+{
+  "id": 1209989307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.23288,32.84189,49.23288,32.84189",
+    "geom:latitude":32.84189,
+    "geom:longitude":49.23288,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Odelun",
+    "gn:country_code":"IR",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":36805,
+    "gn:latitude":32.84189,
+    "gn:longitude":49.23288,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Odel\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0627\u062f\u0644\u0648\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u2018\u016adel\u016b",
+        "Odel\u016bn",
+        "\u0627\u0648\u062f\u0644\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":36805
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1d19c08920fa723a3ca10e7334a6703b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719969,
+            "locality_id":1209989307,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1209989307,
+    "wof:lastmodified":1537642036,
+    "wof:name":"Odelun",
+    "wof:parent_id":1108719969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.23288,
+    32.84189,
+    49.23288,
+    32.84189
+],
+  "geometry": {"coordinates":[49.23288,32.84189],"type":"Point"}
+}

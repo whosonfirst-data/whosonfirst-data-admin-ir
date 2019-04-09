@@ -1,0 +1,75 @@
+{
+  "id": 1326948199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.13333,33.31667,50.13333,33.31667",
+    "geom:latitude":33.31667,
+    "geom:longitude":50.13333,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Kert",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":2195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":67867,
+    "gn:latitude":33.31667,
+    "gn:longitude":50.13333,
+    "gn:modification_date":"2010-08-09",
+    "gn:name":"Kert",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0650\u0631\u062a"
+    ],
+    "name:und_x_variant":[
+        "Khirt",
+        "Kert"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":67867
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"396ec31dfe1c2a5dab782c43418e2c83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720129,
+            "locality_id":1326948199,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1326948199,
+    "wof:lastmodified":1537642855,
+    "wof:name":"Kert",
+    "wof:parent_id":1108720129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.13333,
+    33.31667,
+    50.13333,
+    33.31667
+],
+  "geometry": {"coordinates":[50.13333,33.31667],"type":"Point"}
+}

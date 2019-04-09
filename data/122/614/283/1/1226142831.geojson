@@ -1,0 +1,73 @@
+{
+  "id": 1226142831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.65,30.15,60.65,30.15",
+    "geom:latitude":30.15,
+    "geom:longitude":60.65,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bijarab",
+    "gn:country_code":"IR",
+    "gn:dem":1143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1159192,
+    "gn:latitude":30.15,
+    "gn:longitude":60.65,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"B\u012bj\u0101r\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u064a\u062c\u0627\u0631\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "B\u012bj\u0101r\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1159192
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6b96e527bd332416338277cb93fc816f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720517,
+            "locality_id":1226142831,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1226142831,
+    "wof:lastmodified":1537646954,
+    "wof:name":"Bijarab",
+    "wof:parent_id":1108720517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.65,
+    30.15,
+    60.65,
+    30.15
+],
+  "geometry": {"coordinates":[60.65,30.15],"type":"Point"}
+}

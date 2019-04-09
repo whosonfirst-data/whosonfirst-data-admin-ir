@@ -1,0 +1,78 @@
+{
+  "id": 1360232077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.6023,33.2486,52.6023,33.2486",
+    "geom:latitude":33.2486,
+    "geom:longitude":52.6023,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Zaghel",
+    "gn:country_code":"IR",
+    "gn:dem":1768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":111640,
+    "gn:latitude":33.2486,
+    "gn:longitude":52.6023,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Z\u0304\u0101ghel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0630\u0627\u063a\u0644"
+    ],
+    "name:fas_x_variant":[
+        "Z\u0304\u0101ghel"
+    ],
+    "name:und_x_variant":[
+        "Z\u0101ghal",
+        "Z\u0304\u0101ghel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108719825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":111640,
+        "wk:page":"Zaghel"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c0535732ea7e32559238eae3efe2d3d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719825,
+            "locality_id":1360232077,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1360232077,
+    "wof:lastmodified":1537642992,
+    "wof:name":"Zaghel",
+    "wof:parent_id":1108719825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.6023,
+    33.2486,
+    52.6023,
+    33.2486
+],
+  "geometry": {"coordinates":[52.6023,33.2486],"type":"Point"}
+}

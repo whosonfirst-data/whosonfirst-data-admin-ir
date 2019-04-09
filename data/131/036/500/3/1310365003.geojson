@@ -1,0 +1,75 @@
+{
+  "id": 1310365003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.168,38.9901,48.168,38.9901",
+    "geom:latitude":38.9901,
+    "geom:longitude":48.168,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Bi`araq",
+    "gn:country_code":"IR",
+    "gn:dem":1098,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":37983,
+    "gn:latitude":38.9901,
+    "gn:longitude":48.168,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"B\u012b\u2018araq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u064a\u0639\u064e\u0631\u0650\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u06cc\u0639\u0631\u0642",
+        "B\u012b\u2018areh",
+        "B\u012b\u2018araq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":37983
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5722bd798b2573657daf1296365c638a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720021,
+            "locality_id":1310365003,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1310365003,
+    "wof:lastmodified":1537642141,
+    "wof:name":"Bi`araq",
+    "wof:parent_id":1108720021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.168,
+    38.9901,
+    48.168,
+    38.9901
+],
+  "geometry": {"coordinates":[48.168,38.9901],"type":"Point"}
+}

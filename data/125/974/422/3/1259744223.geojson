@@ -1,0 +1,77 @@
+{
+  "id": 1259744223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.21494,26.84825,58.21494,26.84825",
+    "geom:latitude":26.84825,
+    "geom:longitude":58.21494,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Namgaz",
+    "gn:country_code":"IR",
+    "gn:dem":1170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7082713,
+    "gn:latitude":26.84825,
+    "gn:longitude":58.21494,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Namg\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0645 \u06af\u0648\u0627\u0632"
+    ],
+    "name:fas_x_variant":[
+        "N\u0101m Gov\u0101z",
+        "\u0646\u0645\u06af\u0627\u0632"
+    ],
+    "name:und_x_variant":[
+        "Namg\u0101z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7082713
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d867b14286b3b4d34ae4ad82a666abf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720029,
+            "locality_id":1259744223,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1259744223,
+    "wof:lastmodified":1537648032,
+    "wof:name":"Namgaz",
+    "wof:parent_id":1108720029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.21494000000001,
+    26.84825,
+    58.21494000000001,
+    26.84825
+],
+  "geometry": {"coordinates":[58.21494000000001,26.84825],"type":"Point"}
+}

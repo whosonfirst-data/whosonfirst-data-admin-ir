@@ -1,0 +1,73 @@
+{
+  "id": 1343318491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.1858,35.6677,51.1858,35.6677",
+    "geom:latitude":35.6677,
+    "geom:longitude":51.1858,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Sa`idabad",
+    "gn:country_code":"IR",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":117814,
+    "gn:latitude":35.6677,
+    "gn:longitude":51.1858,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sa\u2018\u012bd\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0639\u064a\u062f \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Sa\u2018\u012bd\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672313,
+        1108720439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":117814
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"669f7bdf60818d8a0628dd66a7e8bfb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720439,
+            "locality_id":1343318491,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1343318491,
+    "wof:lastmodified":1537643579,
+    "wof:name":"Sa`idabad",
+    "wof:parent_id":1108720439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.1858,
+    35.6677,
+    51.1858,
+    35.6677
+],
+  "geometry": {"coordinates":[51.1858,35.6677],"type":"Point"}
+}

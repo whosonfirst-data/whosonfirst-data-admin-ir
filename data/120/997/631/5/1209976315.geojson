@@ -1,0 +1,74 @@
+{
+  "id": 1209976315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.944,39.5602,47.944,39.5602",
+    "geom:latitude":39.5602,
+    "geom:longitude":47.944,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Hallajabad",
+    "gn:country_code":"IR",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":17042,
+    "gn:latitude":39.5602,
+    "gn:longitude":47.944,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28all\u0101j\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0644\u0627\u062c \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28all\u0101j\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":17042,
+        "wk:page":"Hallajabad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"60a8f8c5728f7cb2d93d75fbc6dbaaf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720297,
+            "locality_id":1209976315,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1209976315,
+    "wof:lastmodified":1537640919,
+    "wof:name":"Hallajabad",
+    "wof:parent_id":1108720297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.944,
+    39.5602,
+    47.944,
+    39.5602
+],
+  "geometry": {"coordinates":[47.944,39.5602],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1193037713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.1443,37.51052,49.1443,37.51052",
+    "geom:latitude":37.51052,
+    "geom:longitude":49.1443,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Khushabar",
+    "gn:country_code":"IR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11035025,
+    "gn:latitude":37.51052,
+    "gn:longitude":49.1443,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Kh\u016bsh\u0101bar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0634\u0627\u0628\u0631"
+    ],
+    "name:und_x_variant":[
+        "Kh\u016bsh\u0101bar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11035025
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"66328711c0f05dae63de4355bfeceea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720353,
+            "locality_id":1193037713,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1193037713,
+    "wof:lastmodified":1537648698,
+    "wof:name":"Khushabar",
+    "wof:parent_id":1108720353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.1443,
+    37.51052,
+    49.1443,
+    37.51052
+],
+  "geometry": {"coordinates":[49.1443,37.51052],"type":"Point"}
+}

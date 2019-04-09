@@ -1,0 +1,79 @@
+{
+  "id": 1226084287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.44996,31.54311,54.44996,31.54311",
+    "geom:latitude":31.54311,
+    "geom:longitude":54.44996,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Mirokabad",
+    "gn:country_code":"IR",
+    "gn:dem":1494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":401993,
+    "gn:latitude":31.54311,
+    "gn:longitude":54.44996,
+    "gn:modification_date":"2013-10-09",
+    "gn:name":"M\u012brok\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u064a\u0631\u064f\u0643 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u064a\u0631\u0648\u0643 \u0622\u0628\u0627\u062f",
+        "M\u012brok\u0101b\u0101d",
+        "\u0645\u064a\u0631\u06a9 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "M\u012br\u016bk\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108720235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401993,
+        "wk:page":"Mirokabad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"eb23bcc2707637e66152bce6c3e4ca41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720235,
+            "locality_id":1226084287,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1226084287,
+    "wof:lastmodified":1537646534,
+    "wof:name":"Mirokabad",
+    "wof:parent_id":1108720235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.44996,
+    31.54311,
+    54.44996,
+    31.54311
+],
+  "geometry": {"coordinates":[54.44996,31.54311],"type":"Point"}
+}

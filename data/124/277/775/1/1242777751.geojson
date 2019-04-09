@@ -1,0 +1,73 @@
+{
+  "id": 1242777751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.67765,26.87173,59.67765,26.87173",
+    "geom:latitude":26.87173,
+    "geom:longitude":59.67765,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chah-e Gaz",
+    "gn:country_code":"IR",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9876047,
+    "gn:latitude":26.87173,
+    "gn:longitude":59.67765,
+    "gn:modification_date":"2014-12-04",
+    "gn:name":"Ch\u0101h-e Gaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0647 \u06af\u0632"
+    ],
+    "name:und_x_variant":[
+        "Ch\u0101h-e Gaz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9876047
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"78aded12b96c9648734cba9a698f58c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720271,
+            "locality_id":1242777751,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1242777751,
+    "wof:lastmodified":1537648655,
+    "wof:name":"Chah-e Gaz",
+    "wof:parent_id":1108720271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.67765,
+    26.87173,
+    59.67765,
+    26.87173
+],
+  "geometry": {"coordinates":[59.67765,26.87173],"type":"Point"}
+}

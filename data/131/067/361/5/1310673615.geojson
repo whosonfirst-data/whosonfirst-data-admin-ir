@@ -1,0 +1,80 @@
+{
+  "id": 1310673615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.76528,30.70989,48.76528,30.70989",
+    "geom:latitude":30.70989,
+    "geom:longitude":48.76528,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Shakheh Alqanem",
+    "gn:country_code":"IR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":115625,
+    "gn:latitude":30.70989,
+    "gn:longitude":48.76528,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Sh\u0101kheh Alq\u0101nem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sh\u0101kheh-ye Gh\u0101nem"
+    ],
+    "name:fas_x_variant":[
+        "Sh\u0101kheh",
+        "\u0634\u0627\u062e\u0647 \u063a\u0627\u0646\u0645",
+        "\u0634\u0627\u062e\u0647 \u0627\u0644\u0642\u0627\u0646\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u0634\u0627\u062e\u0647 \u063a\u0627\u0646\u0645",
+        "Sh\u0101kheh Alq\u0101nem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":115625,
+        "wk:page":"Shakheh-ye_Ghanem"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ee8e08281acc5fec0470d64e56ae3cdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720425,
+            "locality_id":1310673615,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1310673615,
+    "wof:lastmodified":1537643378,
+    "wof:name":"Shakheh Alqanem",
+    "wof:parent_id":1108720425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.76528,
+    30.70989,
+    48.76528,
+    30.70989
+],
+  "geometry": {"coordinates":[48.76528,30.70989],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226457437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.31667,36.5,58.31667,36.5",
+    "geom:latitude":36.5,
+    "geom:longitude":58.31667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Razu",
+    "gn:country_code":"IR",
+    "gn:dem":1473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7428,
+    "gn:latitude":36.5,
+    "gn:longitude":58.31667,
+    "gn:modification_date":"2002-04-18",
+    "gn:name":"Raz\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7428
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ca685acff63468c7a61854b0e7323d20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720279,
+            "locality_id":1226457437,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1226457437,
+    "wof:lastmodified":1536626744,
+    "wof:name":"Razu",
+    "wof:parent_id":1108720279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.31667,
+    36.5,
+    58.31667,
+    36.5
+],
+  "geometry": {"coordinates":[58.31667,36.5],"type":"Point"}
+}

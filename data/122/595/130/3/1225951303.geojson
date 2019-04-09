@@ -1,0 +1,81 @@
+{
+  "id": 1225951303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.0,31.50219,51.0,31.50219",
+    "geom:latitude":31.50219,
+    "geom:longitude":51.0,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Bard Bor",
+    "gn:country_code":"IR",
+    "gn:dem":1865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":140095,
+    "gn:latitude":31.50219,
+    "gn:longitude":51.0,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bard Bor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0650\u0647 \u0646\u064f\u0648\u0650 \u0628\u064e\u0631\u062f\u0628\u064f\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u064f\u0631\u062f \u0628\u064e\u0631",
+        "\u0628\u0631\u062f \u0628\u0631"
+    ],
+    "name:und_x_variant":[
+        "Deh Now-e Bardbor",
+        "Bord Bar",
+        "\u0628\u0631\u062f \u0628\u0631",
+        "Bard Bor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672319,
+        1108720189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140095,
+        "wk:page":"Bard_Bor"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"26eabc26f165abf2a1e9369c753d0a76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720189,
+            "locality_id":1225951303,
+            "region_id":85672319
+        }
+    ],
+    "wof:id":1225951303,
+    "wof:lastmodified":1537645842,
+    "wof:name":"Bard Bor",
+    "wof:parent_id":1108720189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.0,
+    31.50219,
+    51.0,
+    31.50219
+],
+  "geometry": {"coordinates":[51.0,31.50219],"type":"Point"}
+}

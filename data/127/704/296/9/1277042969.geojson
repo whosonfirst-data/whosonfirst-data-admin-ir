@@ -1,0 +1,87 @@
+{
+  "id": 1277042969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.84803,36.57518,55.84803,36.57518",
+    "geom:latitude":36.57518,
+    "geom:longitude":55.84803,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Hunestan",
+    "gn:country_code":"IR",
+    "gn:dem":990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":130863,
+    "gn:latitude":36.57518,
+    "gn:longitude":55.84803,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"H\u016bnest\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0646\u0650\u0633\u062a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u062e\u064f\u0646\u0650\u0633\u062a\u0627\u0646",
+        "\u0647\u064f\u0646\u0650\u0633\u062a\u0627\u0646",
+        "H\u016bnest\u0101n",
+        "\u0647\u0648\u0646\u0633\u062a\u0627\u0646",
+        "Kh\u016bnist\u0101n",
+        "Khonest\u0101n",
+        "H\u016bnist\u0101n",
+        "Honest\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Kh\u016bnist\u0101n",
+        "Honest\u0101n",
+        "Khonest\u0101n",
+        "H\u016bnist\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672309,
+        1108720441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":130863,
+        "wk:page":"Hunestan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ff9166968c89f52950313e0d7b14dc2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720441,
+            "locality_id":1277042969,
+            "region_id":85672309
+        }
+    ],
+    "wof:id":1277042969,
+    "wof:lastmodified":1537644908,
+    "wof:name":"Hunestan",
+    "wof:parent_id":1108720441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.84803,
+    36.57518,
+    55.84803,
+    36.57518
+],
+  "geometry": {"coordinates":[55.84803,36.57518],"type":"Point"}
+}

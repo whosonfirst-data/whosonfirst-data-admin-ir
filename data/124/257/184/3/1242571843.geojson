@@ -1,0 +1,67 @@
+{
+  "id": 1242571843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.43361,30.31139,51.43361,30.31139",
+    "geom:latitude":30.31139,
+    "geom:longitude":51.43361,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Konari",
+    "gn:country_code":"IR",
+    "gn:dem":1003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":46873,
+    "gn:latitude":30.31139,
+    "gn:longitude":51.43361,
+    "gn:modification_date":"1998-04-07",
+    "gn:name":"Kon\u0101r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":46873
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"897fe9278c594497489bf728f5d786fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720209,
+            "locality_id":1242571843,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1242571843,
+    "wof:lastmodified":1537068978,
+    "wof:name":"Konari",
+    "wof:parent_id":1108720209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.43361,
+    30.31139000000001,
+    51.43361,
+    30.31139000000001
+],
+  "geometry": {"coordinates":[51.43361,30.31139000000001],"type":"Point"}
+}

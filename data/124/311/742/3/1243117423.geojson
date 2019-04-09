@@ -1,0 +1,74 @@
+{
+  "id": 1243117423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.4009,37.2662,47.4009,37.2662",
+    "geom:latitude":37.2662,
+    "geom:longitude":47.4009,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Chekhmur",
+    "gn:country_code":"IR",
+    "gn:dem":1694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":22788,
+    "gn:latitude":37.2662,
+    "gn:longitude":47.4009,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Chekhm\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u062e\u0645\u0648\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Chekhm\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":22788,
+        "wk:page":"Chekhmur"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"81e8a92af5501f49a41512c75ddd9477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720247,
+            "locality_id":1243117423,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1243117423,
+    "wof:lastmodified":1537641167,
+    "wof:name":"Chekhmur",
+    "wof:parent_id":1108720247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.4009,
+    37.2662,
+    47.4009,
+    37.2662
+],
+  "geometry": {"coordinates":[47.4009,37.2662],"type":"Point"}
+}

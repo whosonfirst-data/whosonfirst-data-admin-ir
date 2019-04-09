@@ -1,0 +1,78 @@
+{
+  "id": 1193202341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.01135,31.49811,54.01135,31.49811",
+    "geom:latitude":31.49811,
+    "geom:longitude":54.01135,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Gazdumeh",
+    "gn:country_code":"IR",
+    "gn:dem":2442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7891116,
+    "gn:latitude":31.49811,
+    "gn:longitude":54.01135,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Gazd\u016bmeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Gaz\u016bmeh"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u0632\u0648\u0645\u0647",
+        "\u06af\u0632\u062f\u0648\u0645\u0647"
+    ],
+    "name:und_x_variant":[
+        "Gazd\u016bmeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108720475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7891116,
+        "wk:page":"Gazumeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3c6191a8f73863870d018b0fad3e57cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720475,
+            "locality_id":1193202341,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1193202341,
+    "wof:lastmodified":1537648521,
+    "wof:name":"Gazdumeh",
+    "wof:parent_id":1108720475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.01135,
+    31.49811,
+    54.01135,
+    31.49811
+],
+  "geometry": {"coordinates":[54.01135,31.49811],"type":"Point"}
+}

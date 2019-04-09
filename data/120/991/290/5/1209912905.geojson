@@ -1,0 +1,76 @@
+{
+  "id": 1209912905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.56359,30.99861,50.56359,30.99861",
+    "geom:latitude":30.99861,
+    "geom:longitude":50.56359,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Gardan Tul",
+    "gn:country_code":"IR",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":45774,
+    "gn:latitude":30.99861,
+    "gn:longitude":50.56359,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Gard\u0101n T\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Gard\u0101n T\u016bl"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u0631\u062f\u0627\u0646 \u062a\u0648\u0644"
+    ],
+    "name:und_x_variant":[
+        "\u06af\u0631\u062f\u0627\u0646 \u062a\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":45774
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d832c2fe08f5b111a79eb314f40ec5ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1209912905,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1209912905,
+    "wof:lastmodified":1537642569,
+    "wof:name":"Gardan Tul",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.56359000000001,
+    30.99861,
+    50.56359000000001,
+    30.99861
+],
+  "geometry": {"coordinates":[50.56359000000001,30.99861],"type":"Point"}
+}

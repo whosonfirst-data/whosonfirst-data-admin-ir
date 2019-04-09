@@ -1,0 +1,73 @@
+{
+  "id": 1344186249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.48491,37.04568,57.48491,37.04568",
+    "geom:latitude":37.04568,
+    "geom:longitude":57.48491,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Sheykh `Eyazer",
+    "gn:country_code":"IR",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7888921,
+    "gn:latitude":37.04568,
+    "gn:longitude":57.48491,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Sheykh \u2018Ey\u0101zer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sheykh \u2018Ey\u0101zer"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u06cc\u062e \u0639\u06cc\u0627\u0632\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672401,
+        1108719979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7888921
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"67dc6345df1c1c5bc8744611f466149a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719979,
+            "locality_id":1344186249,
+            "region_id":85672401
+        }
+    ],
+    "wof:id":1344186249,
+    "wof:lastmodified":1537648520,
+    "wof:name":"Sheykh `Eyazer",
+    "wof:parent_id":1108719979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.48491,
+    37.04568,
+    57.48491,
+    37.04568
+],
+  "geometry": {"coordinates":[57.48491,37.04568],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1293343699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.35322,36.15974,53.35322,36.15974",
+    "geom:latitude":36.15974,
+    "geom:longitude":53.35322,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Part Kola",
+    "gn:country_code":"IR",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":385703,
+    "gn:latitude":36.15974,
+    "gn:longitude":53.35322,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"P\u0101rt Kol\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0631\u062a \u0643\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u0627\u0631\u062a \u0643\u064f\u0644\u0627",
+        "\u067e\u0627\u0631\u062a \u0643\u064e\u0644\u0627",
+        "P\u0101rt-e Kol\u0101"
+    ],
+    "name:und_x_variant":[
+        "P\u0101rt Kal\u0101",
+        "P\u0101rt Kol\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385703,
+        "wk:page":"Part-e_Kola"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"76669b023ddf69f6b2489cf50bd942ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720401,
+            "locality_id":1293343699,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1293343699,
+    "wof:lastmodified":1537646438,
+    "wof:name":"Part Kola",
+    "wof:parent_id":1108720401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.35321999999999,
+    36.15974,
+    53.35321999999999,
+    36.15974
+],
+  "geometry": {"coordinates":[53.35321999999999,36.15974],"type":"Point"}
+}

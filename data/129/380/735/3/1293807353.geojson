@@ -1,0 +1,74 @@
+{
+  "id": 1293807353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.7322,31.1476,61.7322,31.1476",
+    "geom:latitude":31.1476,
+    "geom:longitude":61.7322,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kachkul",
+    "gn:country_code":"IR",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1113015,
+    "gn:latitude":31.1476,
+    "gn:longitude":61.7322,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kachk\u016bl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0686\u06a9\u0648\u0644"
+    ],
+    "name:fas_x_variant":[
+        "Kachk\u016bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1113015,
+        "wk:page":"Kachkul"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cc11bef26baf1bc50a49c842070b4651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720513,
+            "locality_id":1293807353,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1293807353,
+    "wof:lastmodified":1537646828,
+    "wof:name":"Kachkul",
+    "wof:parent_id":1108720513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.7322,
+    31.1476,
+    61.7322,
+    31.1476
+],
+  "geometry": {"coordinates":[61.7322,31.1476],"type":"Point"}
+}

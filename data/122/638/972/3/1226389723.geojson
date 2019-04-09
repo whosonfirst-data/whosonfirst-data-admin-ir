@@ -1,0 +1,78 @@
+{
+  "id": 1226389723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.5021,31.8257,52.5021,31.8257",
+    "geom:latitude":31.8257,
+    "geom:longitude":52.5021,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Ramsheh",
+    "gn:country_code":"IR",
+    "gn:dem":1552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":118806,
+    "gn:latitude":31.8257,
+    "gn:longitude":52.5021,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"R\u0101msheh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0645\u0634\u0647"
+    ],
+    "name:fas_x_variant":[
+        "R\u0101msheh"
+    ],
+    "name:und_x_variant":[
+        "R\u0101mshah",
+        "R\u016bm Sh\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108719977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":118806,
+        "wk:page":"Ramsheh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"65c8bae8ea96fce50b0964276640a248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719977,
+            "locality_id":1226389723,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1226389723,
+    "wof:lastmodified":1537643673,
+    "wof:name":"Ramsheh",
+    "wof:parent_id":1108719977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.5021,
+    31.8257,
+    52.5021,
+    31.8257
+],
+  "geometry": {"coordinates":[52.5021,31.8257],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1327070391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.30271,36.38689,51.30271,36.38689",
+    "geom:latitude":36.38689,
+    "geom:longitude":51.30271,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Velasht",
+    "gn:country_code":"IR",
+    "gn:dem":1132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7773,
+    "gn:latitude":36.38689,
+    "gn:longitude":51.30271,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Velasht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u0634\u062a"
+    ],
+    "name:und_x_variant":[
+        "\u0648\u0644\u0634\u062a",
+        "Velasht",
+        "Valasht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7773,
+        "wk:page":"Velasht"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"97acf380d85fb41ab11bbd1d03794046",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719925,
+            "locality_id":1327070391,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1327070391,
+    "wof:lastmodified":1537640386,
+    "wof:name":"Velasht",
+    "wof:parent_id":1108719925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.30271,
+    36.38689,
+    51.30271,
+    36.38689
+],
+  "geometry": {"coordinates":[51.30271,36.38689],"type":"Point"}
+}

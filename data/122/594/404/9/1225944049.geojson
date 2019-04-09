@@ -1,0 +1,75 @@
+{
+  "id": 1225944049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.71514,27.26932,61.71514,27.26932",
+    "geom:latitude":27.26932,
+    "geom:longitude":61.71514,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Porken",
+    "gn:country_code":"IR",
+    "gn:dem":1297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1160030,
+    "gn:latitude":27.26932,
+    "gn:longitude":61.71514,
+    "gn:modification_date":"2014-02-06",
+    "gn:name":"Porken",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kal\u0101n Kaur",
+        "Parkan",
+        "Kal\u0101n K\u016br",
+        "Qal\u2018eh-ye Kh\u016br",
+        "Purk\u0101n",
+        "Porken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1160030
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4fe5eb516a64719e9ce951b241c4584c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720389,
+            "locality_id":1225944049,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1225944049,
+    "wof:lastmodified":1537647011,
+    "wof:name":"Porken",
+    "wof:parent_id":1108720389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.71514000000001,
+    27.26932,
+    61.71514000000001,
+    27.26932
+],
+  "geometry": {"coordinates":[61.71514000000001,27.26932],"type":"Point"}
+}

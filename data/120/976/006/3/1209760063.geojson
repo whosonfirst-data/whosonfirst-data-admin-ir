@@ -1,0 +1,74 @@
+{
+  "id": 1209760063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.76293,36.45146,52.76293,36.45146",
+    "geom:latitude":36.45146,
+    "geom:longitude":52.76293,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Vaki Kola",
+    "gn:country_code":"IR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11210,
+    "gn:latitude":36.45146,
+    "gn:longitude":52.76293,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"V\u0101k\u012b Kol\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0643\u06cc \u0643\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "V\u0101k\u012b Kol\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11210,
+        "wk:page":"Vaki_Kola"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"72a1d9afcca920eb357d23250332022f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720309,
+            "locality_id":1209760063,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1209760063,
+    "wof:lastmodified":1537640616,
+    "wof:name":"Vaki Kola",
+    "wof:parent_id":1108720309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.76293,
+    36.45146,
+    52.76293,
+    36.45146
+],
+  "geometry": {"coordinates":[52.76293,36.45146],"type":"Point"}
+}

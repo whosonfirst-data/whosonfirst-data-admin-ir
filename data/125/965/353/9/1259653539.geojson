@@ -1,0 +1,76 @@
+{
+  "id": 1259653539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.29775,31.56339,50.29775,31.56339",
+    "geom:latitude":31.56339,
+    "geom:longitude":50.29775,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kuzeh Vak",
+    "gn:country_code":"IR",
+    "gn:dem":978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7565771,
+    "gn:latitude":31.56339,
+    "gn:longitude":50.29775,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"K\u016bzeh Vak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "K\u016bzeh Vak"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0648\u0632\u0647 \u0648\u06a9"
+    ],
+    "name:und_x_variant":[
+        "\u06a9\u0648\u0632\u0647 \u0648\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7565771
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ce222b301e689aebeaec9d2333f400f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720067,
+            "locality_id":1259653539,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1259653539,
+    "wof:lastmodified":1537648355,
+    "wof:name":"Kuzeh Vak",
+    "wof:parent_id":1108720067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.29775,
+    31.56339,
+    50.29775,
+    31.56339
+],
+  "geometry": {"coordinates":[50.29775,31.56339],"type":"Point"}
+}

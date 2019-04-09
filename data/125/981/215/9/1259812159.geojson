@@ -1,0 +1,74 @@
+{
+  "id": 1259812159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.11482,36.11037,59.11482,36.11037",
+    "geom:latitude":36.11037,
+    "geom:longitude":59.11482,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Harimabad",
+    "gn:country_code":"IR",
+    "gn:dem":1422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":31388,
+    "gn:latitude":36.11037,
+    "gn:longitude":59.11482,
+    "gn:modification_date":"2016-11-12",
+    "gn:name":"\u1e28ar\u012bm\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0631\u06cc\u0645 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28ar\u012bm\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":31388,
+        "wk:page":"Harimabad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fd5bdd88aa6b754aa16be2895b7d3833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720279,
+            "locality_id":1259812159,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1259812159,
+    "wof:lastmodified":1537641715,
+    "wof:name":"Harimabad",
+    "wof:parent_id":1108720279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.11482,
+    36.11037,
+    59.11482,
+    36.11037
+],
+  "geometry": {"coordinates":[59.11482,36.11037],"type":"Point"}
+}

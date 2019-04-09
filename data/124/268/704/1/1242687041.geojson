@@ -1,0 +1,75 @@
+{
+  "id": 1242687041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.4706,38.201,44.4706,38.201",
+    "geom:latitude":38.201,
+    "geom:longitude":44.4706,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Agh Barzeh",
+    "gn:country_code":"IR",
+    "gn:dem":2263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":40652,
+    "gn:latitude":38.201,
+    "gn:longitude":44.4706,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u0100gh Barzeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u063a \u0628\u0631\u0632\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0100ghbarzeh",
+        "\u0100gh Barzeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":40652,
+        "wk:page":"Agh_Barzeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"15d4263fca3e96398cf433b19fc2f693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720375,
+            "locality_id":1242687041,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1242687041,
+    "wof:lastmodified":1537642289,
+    "wof:name":"Agh Barzeh",
+    "wof:parent_id":1108720375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.4706,
+    38.201,
+    44.4706,
+    38.201
+],
+  "geometry": {"coordinates":[44.4706,38.201],"type":"Point"}
+}

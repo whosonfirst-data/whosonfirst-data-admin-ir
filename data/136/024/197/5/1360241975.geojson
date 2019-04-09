@@ -1,0 +1,73 @@
+{
+  "id": 1360241975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.28512,35.9975,53.28512,35.9975",
+    "geom:latitude":35.9975,
+    "geom:longitude":53.28512,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Otaq Sara",
+    "gn:country_code":"IR",
+    "gn:dem":2630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7108076,
+    "gn:latitude":35.9975,
+    "gn:longitude":53.28512,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"O\u0163\u0101q Sar\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0637\u0627\u0642 \u0633\u0631\u0627"
+    ],
+    "name:fas_x_variant":[
+        "O\u0163\u0101q Sar\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672309,
+        1108720419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7108076
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cb8053e9b4ec38601590c72e1834b9b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720419,
+            "locality_id":1360241975,
+            "region_id":85672309
+        }
+    ],
+    "wof:id":1360241975,
+    "wof:lastmodified":1537648088,
+    "wof:name":"Otaq Sara",
+    "wof:parent_id":1108720419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.28511999999999,
+    35.9975,
+    53.28511999999999,
+    35.9975
+],
+  "geometry": {"coordinates":[53.28511999999999,35.9975],"type":"Point"}
+}

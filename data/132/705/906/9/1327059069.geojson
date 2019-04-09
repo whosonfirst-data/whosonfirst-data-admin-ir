@@ -1,0 +1,76 @@
+{
+  "id": 1327059069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.30094,32.78757,59.30094,32.78757",
+    "geom:latitude":32.78757,
+    "geom:longitude":59.30094,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Kanduki",
+    "gn:country_code":"IR",
+    "gn:dem":1852,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":21817,
+    "gn:latitude":32.78757,
+    "gn:longitude":59.30094,
+    "gn:modification_date":"2015-07-02",
+    "gn:name":"Kand\u016bk\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Kand\u016bk\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0646\u062f\u0648\u06a9\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u06a9\u0646\u062f\u0648\u06a9\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108719895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":21817
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bb7a4d7d093b3863b5f76acba70cd967",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719895,
+            "locality_id":1327059069,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1327059069,
+    "wof:lastmodified":1537641090,
+    "wof:name":"Kanduki",
+    "wof:parent_id":1108719895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.30094,
+    32.78757,
+    59.30094,
+    32.78757
+],
+  "geometry": {"coordinates":[59.30094,32.78757],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1327029825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.44004,27.27186,62.44004,27.27186",
+    "geom:latitude":27.27186,
+    "geom:longitude":62.44004,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Nagan",
+    "gn:country_code":"IR",
+    "gn:dem":1119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1114035,
+    "gn:latitude":27.27186,
+    "gn:longitude":62.44004,
+    "gn:modification_date":"2016-01-06",
+    "gn:name":"N\u0101g\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u06af\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "N\u0101g\u0101n",
+        "Nag\u0101n",
+        "\u0646\u0627\u06af\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1114035
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c1cbf0c155c71a005d40cea92f3fd987",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720389,
+            "locality_id":1327029825,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1327029825,
+    "wof:lastmodified":1537646886,
+    "wof:name":"Nagan",
+    "wof:parent_id":1108720389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.44004,
+    27.27186,
+    62.44004,
+    27.27186
+],
+  "geometry": {"coordinates":[62.44004,27.27186],"type":"Point"}
+}

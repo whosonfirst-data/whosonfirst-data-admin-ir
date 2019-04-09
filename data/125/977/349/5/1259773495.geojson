@@ -1,0 +1,76 @@
+{
+  "id": 1259773495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.95245,36.9668,49.95245,36.9668",
+    "geom:latitude":36.9668,
+    "geom:longitude":49.95245,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Katim",
+    "gn:country_code":"IR",
+    "gn:dem":1781,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":10247,
+    "gn:latitude":36.9668,
+    "gn:longitude":49.95245,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kat\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Kat\u012bm"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u062a\u06cc\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u06a9\u062a\u06cc\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10247
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"74e218eb6df7ff8509bd4c0e8286a8d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720459,
+            "locality_id":1259773495,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1259773495,
+    "wof:lastmodified":1537640553,
+    "wof:name":"Katim",
+    "wof:parent_id":1108720459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.95245,
+    36.9668,
+    49.95245,
+    36.9668
+],
+  "geometry": {"coordinates":[49.95245,36.9668],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276986403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.25492,28.04015,59.25492,28.04015",
+    "geom:latitude":28.04015,
+    "geom:longitude":59.25492,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Pir Kohan",
+    "gn:country_code":"IR",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":121090,
+    "gn:latitude":28.04015,
+    "gn:longitude":59.25492,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"P\u012br Kohan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "P\u012br-e Gov\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u06cc\u0631 \u06a9\u0647\u0646"
+    ],
+    "name:und_x_variant":[
+        "P\u012br Kohan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":121090
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6424173ac488dff5f8dfca1ff37330f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720063,
+            "locality_id":1276986403,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1276986403,
+    "wof:lastmodified":1537643917,
+    "wof:name":"Pir Kohan",
+    "wof:parent_id":1108720063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.25492,
+    28.04015,
+    59.25492,
+    28.04015
+],
+  "geometry": {"coordinates":[59.25492,28.04015],"type":"Point"}
+}

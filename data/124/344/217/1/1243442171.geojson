@@ -1,0 +1,77 @@
+{
+  "id": 1243442171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.38247,26.63913,58.38247,26.63913",
+    "geom:latitude":26.63913,
+    "geom:longitude":58.38247,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Huju",
+    "gn:country_code":"IR",
+    "gn:dem":894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":130878,
+    "gn:latitude":26.63913,
+    "gn:longitude":58.38247,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"H\u016bj\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u062c\u0648"
+    ],
+    "name:fas_x_variant":[
+        "H\u016bj\u016b",
+        "\u0647\u0648\u062c\u0648\u0645"
+    ],
+    "name:und_x_variant":[
+        "H\u016bj\u016bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":130878
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7cb1283d963b2a90da779ed9f69dc8e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720077,
+            "locality_id":1243442171,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1243442171,
+    "wof:lastmodified":1537644910,
+    "wof:name":"Huju",
+    "wof:parent_id":1108720077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.38247,
+    26.63913,
+    58.38247,
+    26.63913
+],
+  "geometry": {"coordinates":[58.38247,26.63913],"type":"Point"}
+}

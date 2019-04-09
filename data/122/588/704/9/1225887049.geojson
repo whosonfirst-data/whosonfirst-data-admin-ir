@@ -1,0 +1,73 @@
+{
+  "id": 1225887049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.86722,31.3125,54.86722,31.3125",
+    "geom:latitude":31.3125,
+    "geom:longitude":54.86722,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Kermanshah",
+    "gn:country_code":"IR",
+    "gn:dem":1497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":128227,
+    "gn:latitude":31.3125,
+    "gn:longitude":54.86722,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Kerm\u0101nsh\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0631\u0645\u0627\u0646\u0634\u0627\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Kerm\u0101nsh\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108720235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":128227
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ab9ce3945188ab6f2ca2415f3686c3d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720235,
+            "locality_id":1225887049,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1225887049,
+    "wof:lastmodified":1537644640,
+    "wof:name":"Kermanshah",
+    "wof:parent_id":1108720235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.86722,
+    31.3125,
+    54.86722,
+    31.3125
+],
+  "geometry": {"coordinates":[54.86722,31.3125],"type":"Point"}
+}

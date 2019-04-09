@@ -1,0 +1,73 @@
+{
+  "id": 1327237275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.6941,27.28142,61.6941,27.28142",
+    "geom:latitude":27.28142,
+    "geom:longitude":61.6941,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pir Chah",
+    "gn:country_code":"IR",
+    "gn:dem":1312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8698795,
+    "gn:latitude":27.28142,
+    "gn:longitude":61.6941,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"P\u012br Ch\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u064a\u0631 \u0686\u0627\u0647"
+    ],
+    "name:und_x_variant":[
+        "P\u012br Ch\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8698795
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"52cbad4d61509ebdd76144b0d28d10d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720389,
+            "locality_id":1327237275,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1327237275,
+    "wof:lastmodified":1537648607,
+    "wof:name":"Pir Chah",
+    "wof:parent_id":1108720389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.6941,
+    27.28142,
+    61.6941,
+    27.28142
+],
+  "geometry": {"coordinates":[61.6941,27.28142],"type":"Point"}
+}

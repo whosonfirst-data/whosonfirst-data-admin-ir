@@ -1,0 +1,74 @@
+{
+  "id": 1226428555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.3967,34.0603,46.3967,34.0603",
+    "geom:latitude":34.0603,
+    "geom:longitude":46.3967,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Shirazi",
+    "gn:country_code":"IR",
+    "gn:dem":1565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":25904,
+    "gn:latitude":34.0603,
+    "gn:longitude":46.3967,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sh\u012br\u0101z\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0631\u0627\u0632\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u015eeyd Ay\u0101z-e Sh\u012brz\u0101d\u012b",
+        "Sh\u012br\u0101z\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":25904
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"929d89663a30e02055bd23f5bf22cd50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720031,
+            "locality_id":1226428555,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1226428555,
+    "wof:lastmodified":1537641358,
+    "wof:name":"Shirazi",
+    "wof:parent_id":1108720031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.3967,
+    34.0603,
+    46.3967,
+    34.0603
+],
+  "geometry": {"coordinates":[46.3967,34.0603],"type":"Point"}
+}

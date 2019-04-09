@@ -1,0 +1,80 @@
+{
+  "id": 1360191707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.62208,31.68227,50.62208,31.68227",
+    "geom:latitude":31.68227,
+    "geom:longitude":50.62208,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Qa'edan-e Shiasi",
+    "gn:country_code":"IR",
+    "gn:dem":1420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":14412,
+    "gn:latitude":31.68227,
+    "gn:longitude":50.62208,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Q\u0101\u2019ed\u0101n-e Sh\u012b\u0101s\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0627\u0626\u064a\u062f\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Q\u0101\u2019\u012bd\u0101n",
+        "Q\u0101\u2019\u012bd\u0101n Sh\u012b\u0101s\u012b",
+        "\u0642\u0627\u0626\u064a\u062f\u0627\u0646 \u0634\u06cc\u0627\u0633\u06cc",
+        "\u0642\u0627\u0626\u062f\u0627\u0646 \u0634\u06cc\u0627\u0633\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0642\u0627\u0626\u064a\u062f\u0627\u0646 \u0634\u06cc\u0627\u0633\u06cc",
+        "Q\u0101\u2019ed\u0101n-e Sh\u012b\u0101s\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672319,
+        1108719821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":14412
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5bf1c41fb9501d3db8a58d81a7f6ccde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719821,
+            "locality_id":1360191707,
+            "region_id":85672319
+        }
+    ],
+    "wof:id":1360191707,
+    "wof:lastmodified":1537640812,
+    "wof:name":"Qa'edan-e Shiasi",
+    "wof:parent_id":1108719821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.62208,
+    31.68227000000001,
+    50.62208,
+    31.68227000000001
+],
+  "geometry": {"coordinates":[50.62208,31.68227000000001],"type":"Point"}
+}

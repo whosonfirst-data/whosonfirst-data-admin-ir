@@ -1,0 +1,73 @@
+{
+  "id": 1327353971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.4377,29.2379,52.4377,29.2379",
+    "geom:latitude":29.2379,
+    "geom:longitude":52.4377,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tang Bonestan",
+    "gn:country_code":"IR",
+    "gn:dem":1775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6652894,
+    "gn:latitude":29.2379,
+    "gn:longitude":52.4377,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Tang Bonest\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0646\u06af \u0628\u0646\u0633\u062a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Tang Bonest\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6652894
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0c10562df521d10b57d6e1a8cf7e6303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720009,
+            "locality_id":1327353971,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1327353971,
+    "wof:lastmodified":1537647230,
+    "wof:name":"Tang Bonestan",
+    "wof:parent_id":1108720009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.4377,
+    29.2379,
+    52.4377,
+    29.2379
+],
+  "geometry": {"coordinates":[52.4377,29.2379],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209218169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.5228,38.1066,44.5228,38.1066",
+    "geom:latitude":38.1066,
+    "geom:longitude":44.5228,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Garmavich",
+    "gn:country_code":"IR",
+    "gn:dem":1930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":40550,
+    "gn:latitude":38.1066,
+    "gn:longitude":44.5228,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Garm\u0101v\u012bch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Garm\u0101v\u012bch"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u0631\u0645\u0627\u0648\u06cc\u0686"
+    ],
+    "name:und_x_variant":[
+        "\u06af\u0631\u0645\u0627\u0648\u06cc\u0686"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":40550,
+        "wk:page":"Garmavich"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3344657eaa094de0109c8b4fa28dd7e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209218169
+        }
+    ],
+    "wof:id":1209218169,
+    "wof:lastmodified":1537642281,
+    "wof:name":"Garmavich",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.5228,
+    38.1066,
+    44.5228,
+    38.1066
+],
+  "geometry": {"coordinates":[44.5228,38.1066],"type":"Point"}
+}

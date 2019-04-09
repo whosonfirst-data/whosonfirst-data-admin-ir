@@ -1,0 +1,71 @@
+{
+  "id": 1209488165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.1073,32.5308,49.1073,32.5308",
+    "geom:latitude":32.5308,
+    "geom:longitude":49.1073,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Biuzeh",
+    "gn:country_code":"IR",
+    "gn:dem":644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6746126,
+    "gn:latitude":32.5308,
+    "gn:longitude":49.1073,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"B\u012b\u016bzeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0648\u0632\u0647"
+    ],
+    "name:fas_x_variant":[
+        "B\u012b\u016bzeh",
+        "\u0628\u06cc \u0622\u0648\u0632\u0647"
+    ],
+    "name:und_x_variant":[
+        "B\u012b \u0100vzeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6746126
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"22adfba14680eb8645bc9acb0c713cbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209488165
+        }
+    ],
+    "wof:id":1209488165,
+    "wof:lastmodified":1537647615,
+    "wof:name":"Biuzeh",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.1073,
+    32.5308,
+    49.1073,
+    32.5308
+],
+  "geometry": {"coordinates":[49.1073,32.5308],"type":"Point"}
+}

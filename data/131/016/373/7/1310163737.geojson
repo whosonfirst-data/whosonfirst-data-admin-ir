@@ -1,0 +1,73 @@
+{
+  "id": 1310163737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.8925,33.50597,46.8925,33.50597",
+    "geom:latitude":33.50597,
+    "geom:longitude":46.8925,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Hasan",
+    "gn:country_code":"IR",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8333490,
+    "gn:latitude":33.50597,
+    "gn:longitude":46.8925,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"\u1e28asan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0633\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u1e28asan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8333490
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5385d883af831a8c66453528c9c842ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720169,
+            "locality_id":1310163737,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1310163737,
+    "wof:lastmodified":1537648545,
+    "wof:name":"Hasan",
+    "wof:parent_id":1108720169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.8925,
+    33.50597,
+    46.8925,
+    33.50597
+],
+  "geometry": {"coordinates":[46.8925,33.50597],"type":"Point"}
+}

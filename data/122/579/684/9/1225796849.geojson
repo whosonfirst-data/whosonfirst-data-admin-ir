@@ -1,0 +1,78 @@
+{
+  "id": 1225796849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.30127,36.79303,55.30127,36.79303",
+    "geom:latitude":36.79303,
+    "geom:longitude":55.30127,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Aram Estala",
+    "gn:country_code":"IR",
+    "gn:dem":1893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5526,
+    "gn:latitude":36.79303,
+    "gn:longitude":55.30127,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"\u0100ram Est\u0101l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u064e\u0632\u064e\u0645 \u0627\u0650\u0633\u062a\u0627\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0100ram Est\u0101l\u0101",
+        "Azam Est\u0101l\u0101",
+        "\u0622\u0631\u0645 \u0627\u0633\u062a\u0627\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u0622\u0631\u0645 \u0627\u0633\u062a\u0627\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672309,
+        1108720441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5526
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e137d4c8b09ddaf8fc8643e1db41ce62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720441,
+            "locality_id":1225796849,
+            "region_id":85672309
+        }
+    ],
+    "wof:id":1225796849,
+    "wof:lastmodified":1537640301,
+    "wof:name":"Aram Estala",
+    "wof:parent_id":1108720441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.30127,
+    36.79303,
+    55.30127,
+    36.79303
+],
+  "geometry": {"coordinates":[55.30127,36.79303],"type":"Point"}
+}

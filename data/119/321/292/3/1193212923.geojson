@@ -1,0 +1,70 @@
+{
+  "id": 1193212923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.11667,34.0,50.11667,34.0",
+    "geom:latitude":34.0,
+    "geom:longitude":50.11667,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Latadar",
+    "gn:country_code":"IR",
+    "gn:dem":2246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":13817,
+    "gn:latitude":34.0,
+    "gn:longitude":50.11667,
+    "gn:modification_date":"2006-08-20",
+    "gn:name":"Latadar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u064e\u062a\u064e\u062f\u064e\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13817
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"eb19c777693e39db247b4822ff8acc8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720443,
+            "locality_id":1193212923,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1193212923,
+    "wof:lastmodified":1537640749,
+    "wof:name":"Latadar",
+    "wof:parent_id":1108720443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.11667,
+    34.0,
+    50.11667,
+    34.0
+],
+  "geometry": {"coordinates":[50.11667,34.0],"type":"Point"}
+}

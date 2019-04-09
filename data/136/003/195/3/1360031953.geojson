@@ -1,0 +1,73 @@
+{
+  "id": 1360031953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.55244,28.97039,58.55244,28.97039",
+    "geom:latitude":28.97039,
+    "geom:longitude":58.55244,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Zeynabad",
+    "gn:country_code":"IR",
+    "gn:dem":832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6920445,
+    "gn:latitude":28.97039,
+    "gn:longitude":58.55244,
+    "gn:modification_date":"2014-07-09",
+    "gn:name":"Zeyn\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0632\u06cc\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Zeyn\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6920445
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8a90b830ab56b558be48d8a2dfa3f1d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719861,
+            "locality_id":1360031953,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1360031953,
+    "wof:lastmodified":1537647726,
+    "wof:name":"Zeynabad",
+    "wof:parent_id":1108719861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.55244,
+    28.97039,
+    58.55244,
+    28.97039
+],
+  "geometry": {"coordinates":[58.55244,28.97039],"type":"Point"}
+}

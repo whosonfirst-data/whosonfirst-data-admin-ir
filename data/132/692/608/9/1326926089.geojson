@@ -1,0 +1,73 @@
+{
+  "id": 1326926089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.63406,37.91905,48.63406,37.91905",
+    "geom:latitude":37.91905,
+    "geom:longitude":48.63406,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Espi Ovi",
+    "gn:country_code":"IR",
+    "gn:dem":2475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11597080,
+    "gn:latitude":37.91905,
+    "gn:longitude":48.63406,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Esp\u012b Ov\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u067e\u06cc \u0627\u0648\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Esp\u012b Ov\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11597080
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9db3a49581cb7798aa58c648e6996a15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720487,
+            "locality_id":1326926089,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1326926089,
+    "wof:lastmodified":1537648799,
+    "wof:name":"Espi Ovi",
+    "wof:parent_id":1108720487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.63406,
+    37.91905,
+    48.63406,
+    37.91905
+],
+  "geometry": {"coordinates":[48.63406,37.91905],"type":"Point"}
+}

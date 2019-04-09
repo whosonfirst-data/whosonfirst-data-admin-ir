@@ -1,0 +1,73 @@
+{
+  "id": 1326599841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.1429,30.484,48.1429,30.484",
+    "geom:latitude":30.484,
+    "geom:longitude":48.1429,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mohavvaleh",
+    "gn:country_code":"IR",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6687645,
+    "gn:latitude":30.484,
+    "gn:longitude":48.1429,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Mo\u1e29avvaleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0645\u062d\u0648\u0644\u0651\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Mo\u1e29avvaleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6687645
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f92d9f877dd6927a69e63f0be6174d0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720151,
+            "locality_id":1326599841,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1326599841,
+    "wof:lastmodified":1537647398,
+    "wof:name":"Mohavvaleh",
+    "wof:parent_id":1108720151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.1429,
+    30.484,
+    48.1429,
+    30.484
+],
+  "geometry": {"coordinates":[48.1429,30.484],"type":"Point"}
+}

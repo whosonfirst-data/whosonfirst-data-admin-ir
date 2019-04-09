@@ -1,0 +1,80 @@
+{
+  "id": 1260153559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.67251,32.39699,49.67251,32.39699",
+    "geom:latitude":32.39699,
+    "geom:longitude":49.67251,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tang Chelow",
+    "gn:country_code":"IR",
+    "gn:dem":992,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8304963,
+    "gn:latitude":32.39699,
+    "gn:longitude":49.67251,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Tang Chelow",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0646\u06af \u0686\u0644\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0647\u0648\u0644\u0648\u062f\u0648",
+        "\u0633\u0631\u062a\u0646\u06af \u0686\u0644\u0648",
+        "\u0633\u0631\u062a\u0646\u06af"
+    ],
+    "name:und_x_variant":[
+        "H\u016bl\u016bd\u016b",
+        "Sartang Chel\u016b",
+        "Sartang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8304963
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b032792a48a71d64f2024d7f6d4b30c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720229,
+            "locality_id":1260153559,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1260153559,
+    "wof:lastmodified":1537648541,
+    "wof:name":"Tang Chelow",
+    "wof:parent_id":1108720229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.67251,
+    32.39699,
+    49.67251,
+    32.39699
+],
+  "geometry": {"coordinates":[49.67251,32.39699],"type":"Point"}
+}

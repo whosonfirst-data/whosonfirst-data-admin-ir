@@ -1,0 +1,67 @@
+{
+  "id": 1242864285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.90417,37.32278,49.90417,37.32278",
+    "geom:latitude":37.32278,
+    "geom:longitude":49.90417,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Malek Deh",
+    "gn:country_code":"IR",
+    "gn:dem":-13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":28738,
+    "gn:latitude":37.32278,
+    "gn:longitude":49.90417,
+    "gn:modification_date":"2000-12-01",
+    "gn:name":"Malek Deh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":28738
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"52cc4036c419be691cec291c4128e936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720339,
+            "locality_id":1242864285,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1242864285,
+    "wof:lastmodified":1536650523,
+    "wof:name":"Malek Deh",
+    "wof:parent_id":1108720339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.90417,
+    37.32278,
+    49.90417,
+    37.32278
+],
+  "geometry": {"coordinates":[49.90417,37.32278],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1242573647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.30186,35.15526,49.30186,35.15526",
+    "geom:latitude":35.15526,
+    "geom:longitude":49.30186,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Seydabad",
+    "gn:country_code":"IR",
+    "gn:dem":1634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":116323,
+    "gn:latitude":35.15526,
+    "gn:longitude":49.30186,
+    "gn:modification_date":"2018-06-28",
+    "gn:name":"\u015eeyd\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0635\u06cc\u062f \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0650\u064a\u0650\u0651\u062f \u0622\u0628\u0627\u062f",
+        "\u015eeyd\u0101b\u0101d"
+    ],
+    "name:und_x_variant":[
+        "Saiyid\u0101b\u0101d",
+        "Seid Abad",
+        "Seyyed\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":116323,
+        "wk:page":"Seydabad,_Hamadan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d1b22476cbd0ae17132e8ee2495877c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720047,
+            "locality_id":1242573647,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1242573647,
+    "wof:lastmodified":1537643438,
+    "wof:name":"Seydabad",
+    "wof:parent_id":1108720047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.30186,
+    35.15526,
+    49.30186,
+    35.15526
+],
+  "geometry": {"coordinates":[49.30186,35.15526],"type":"Point"}
+}

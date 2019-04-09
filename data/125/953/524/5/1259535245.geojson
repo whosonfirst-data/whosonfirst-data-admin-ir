@@ -1,0 +1,73 @@
+{
+  "id": 1259535245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.45483,37.37659,55.45483,37.37659",
+    "geom:latitude":37.37659,
+    "geom:longitude":55.45483,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Iki Qad",
+    "gn:country_code":"IR",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11133482,
+    "gn:latitude":37.37659,
+    "gn:longitude":55.45483,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"\u012ak\u012b Qad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u06a9\u06cc \u0642\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u012ak\u012b Qad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11133482
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"72c72e1d6ea7d328d8740879f02c6085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720093,
+            "locality_id":1259535245,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1259535245,
+    "wof:lastmodified":1537648725,
+    "wof:name":"Iki Qad",
+    "wof:parent_id":1108720093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.45483,
+    37.37659,
+    55.45483,
+    37.37659
+],
+  "geometry": {"coordinates":[55.45483,37.37659],"type":"Point"}
+}

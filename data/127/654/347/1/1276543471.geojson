@@ -1,0 +1,78 @@
+{
+  "id": 1276543471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.4123,27.4731,53.4123,27.4731",
+    "geom:latitude":27.4731,
+    "geom:longitude":53.4123,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Nahmeh",
+    "gn:country_code":"IR",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":122979,
+    "gn:latitude":27.4731,
+    "gn:longitude":53.4123,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Nahmeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0647\u0645\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0639\u0645\u0647"
+    ],
+    "name:und_x_variant":[
+        "Na\u2018ameh",
+        "Naghmeh",
+        "Nahmeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":122979
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"be03cbc86c3f4c91346d7385b8be08b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720181,
+            "locality_id":1276543471,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1276543471,
+    "wof:lastmodified":1537644109,
+    "wof:name":"Nahmeh",
+    "wof:parent_id":1108720181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.4123,
+    27.4731,
+    53.4123,
+    27.4731
+],
+  "geometry": {"coordinates":[53.4123,27.4731],"type":"Point"}
+}

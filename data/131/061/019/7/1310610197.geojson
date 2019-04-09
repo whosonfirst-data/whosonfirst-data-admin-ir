@@ -1,0 +1,79 @@
+{
+  "id": 1310610197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.588,37.9805,44.588,37.9805",
+    "geom:latitude":37.9805,
+    "geom:longitude":44.588,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Lulikabad-e Bala",
+    "gn:country_code":"IR",
+    "gn:dem":2089,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":21021,
+    "gn:latitude":37.9805,
+    "gn:longitude":44.588,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"L\u016bl\u012bk\u0101b\u0101d-e B\u0101l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0644\u064a\u0643\u0650 \u0639\u064f\u0644\u064a\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0644\u0648\u0644\u06cc\u06a9 \u0622\u0628\u0627\u062f \u0628\u0627\u0644\u0627",
+        "L\u016bl\u012bk-e \u2018Oly\u0101",
+        "L\u016bl\u012bk\u0101b\u0101d-e B\u0101l\u0101",
+        "\u0644\u0648\u0644\u064a\u0643\u0627\u0628\u0627\u062f\u0650 \u0639\u064f\u0644\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "L\u016bl\u012bk\u0101b\u0101d-e \u2018Oly\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":21021
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"03d1b06550f857b54ea924435cfc79c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720375,
+            "locality_id":1310610197,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1310610197,
+    "wof:lastmodified":1537641056,
+    "wof:name":"Lulikabad-e Bala",
+    "wof:parent_id":1108720375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.588,
+    37.9805,
+    44.588,
+    37.9805
+],
+  "geometry": {"coordinates":[44.588,37.9805],"type":"Point"}
+}

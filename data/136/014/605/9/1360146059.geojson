@@ -1,0 +1,74 @@
+{
+  "id": 1360146059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.6024,33.3672,50.6024,33.3672",
+    "geom:latitude":33.3672,
+    "geom:longitude":50.6024,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Nik Bey",
+    "gn:country_code":"IR",
+    "gn:dem":2155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":13744,
+    "gn:latitude":33.3672,
+    "gn:longitude":50.6024,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"N\u012bk Bey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u06a9 \u0628\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "N\u012bkpey",
+        "N\u012bk Bey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13744
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7b2dddcd253dcee70a4cba79ea940c49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720033,
+            "locality_id":1360146059,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1360146059,
+    "wof:lastmodified":1537640745,
+    "wof:name":"Nik Bey",
+    "wof:parent_id":1108720033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.6024,
+    33.3672,
+    50.6024,
+    33.3672
+],
+  "geometry": {"coordinates":[50.6024,33.3672],"type":"Point"}
+}

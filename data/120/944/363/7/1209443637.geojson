@@ -1,0 +1,70 @@
+{
+  "id": 1209443637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.23681,36.54035,59.23681,36.54035",
+    "geom:latitude":36.54035,
+    "geom:longitude":59.23681,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Gavternav",
+    "gn:country_code":"IR",
+    "gn:dem":1188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":133781,
+    "gn:latitude":36.54035,
+    "gn:longitude":59.23681,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"G\u0101v\u0163ern\u0101v",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0627\u0648\u062a\u0631\u0646\u0627"
+    ],
+    "name:fas_x_variant":[
+        "G\u0101v\u0163ern\u0101v",
+        "G\u0101vtern\u0101",
+        "\u06af\u0627\u0648 \u0637\u0631\u0646\u0627\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":133781,
+        "wk:page":"Gavterna"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ca43f948f5c81beff8bbb04aa030495a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209443637
+        }
+    ],
+    "wof:id":1209443637,
+    "wof:lastmodified":1537645206,
+    "wof:name":"Gavternav",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.23681,
+    36.54035,
+    59.23681,
+    36.54035
+],
+  "geometry": {"coordinates":[59.23681,36.54035],"type":"Point"}
+}

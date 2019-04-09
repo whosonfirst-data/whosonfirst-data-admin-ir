@@ -1,0 +1,77 @@
+{
+  "id": 1327362851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.502,32.2205,59.502,32.2205",
+    "geom:latitude":32.2205,
+    "geom:longitude":59.502,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Bisheh",
+    "gn:country_code":"IR",
+    "gn:dem":1972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":140447,
+    "gn:latitude":32.2205,
+    "gn:longitude":59.502,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"B\u012bsheh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0634\u0647"
+    ],
+    "name:fas_x_variant":[
+        "B\u012bsheh"
+    ],
+    "name:und_x_variant":[
+        "B\u012bj\u012br",
+        "B\u012bj\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108720259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140447
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"347c5f63497597330c2544bd6d626ee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720259,
+            "locality_id":1327362851,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1327362851,
+    "wof:lastmodified":1537645877,
+    "wof:name":"Bisheh",
+    "wof:parent_id":1108720259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.502,
+    32.2205,
+    59.502,
+    32.2205
+],
+  "geometry": {"coordinates":[59.502,32.2205],"type":"Point"}
+}

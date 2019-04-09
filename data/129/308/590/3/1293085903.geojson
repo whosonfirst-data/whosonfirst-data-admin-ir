@@ -1,0 +1,79 @@
+{
+  "id": 1293085903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.317,36.99406,50.317,36.99406",
+    "geom:latitude":36.99406,
+    "geom:longitude":50.317,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Akhuneh Melk",
+    "gn:country_code":"IR",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10603,
+    "gn:latitude":36.99406,
+    "gn:longitude":50.317,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"\u0100kh\u016bneh Melk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0100kh\u016bnd Melk"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u062e\u0648\u0646\u062f \u0645\u0644\u06a9",
+        "\u0622\u062e\u0648\u0646\u0647 \u0645\u0644\u06a9"
+    ],
+    "name:und_x_variant":[
+        "\u0622\u062e\u0648\u0646\u062f \u0645\u0644\u06a9",
+        "\u0100kh\u016bneh Melk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10603,
+        "wk:page":"Akhund_Melk"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e03117d6583b576ab70133aad5e81f64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720365,
+            "locality_id":1293085903,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1293085903,
+    "wof:lastmodified":1537640584,
+    "wof:name":"Akhuneh Melk",
+    "wof:parent_id":1108720365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.317,
+    36.99406,
+    50.317,
+    36.99406
+],
+  "geometry": {"coordinates":[50.317,36.99406],"type":"Point"}
+}

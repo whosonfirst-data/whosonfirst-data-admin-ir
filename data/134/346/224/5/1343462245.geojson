@@ -1,0 +1,70 @@
+{
+  "id": 1343462245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.5,36.45,46.5,36.45",
+    "geom:latitude":36.45,
+    "geom:longitude":46.5,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Qeshlaq",
+    "gn:country_code":"IR",
+    "gn:dem":1454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":26481,
+    "gn:latitude":36.45,
+    "gn:longitude":46.5,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qeshl\u0101q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Qeshl\u0101q"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":26481
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5f18244cfd8b3cbb3a81a904a9118c01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720429,
+            "locality_id":1343462245,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1343462245,
+    "wof:lastmodified":1537641398,
+    "wof:name":"Qeshlaq",
+    "wof:parent_id":1108720429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.5,
+    36.45,
+    46.5,
+    36.45
+],
+  "geometry": {"coordinates":[46.5,36.45],"type":"Point"}
+}

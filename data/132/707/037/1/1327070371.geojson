@@ -1,0 +1,78 @@
+{
+  "id": 1327070371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.36631,36.6662,51.36631,36.6662",
+    "geom:latitude":36.6662,
+    "geom:longitude":51.36631,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Sepideh",
+    "gn:country_code":"IR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8605,
+    "gn:latitude":36.6662,
+    "gn:longitude":51.36631,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Sep\u012bdeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u067e\u06cc\u062f\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Sef\u012bdeh",
+        "Sep\u012bdeh",
+        "\u0633\u0641\u06cc\u062f\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0633\u0641\u06cc\u062f\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8605
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0eb7ff4086ea1db9063e229d3551e804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719925,
+            "locality_id":1327070371,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1327070371,
+    "wof:lastmodified":1537640441,
+    "wof:name":"Sepideh",
+    "wof:parent_id":1108719925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.36631,
+    36.6662,
+    51.36631,
+    36.6662
+],
+  "geometry": {"coordinates":[51.36631,36.6662],"type":"Point"}
+}

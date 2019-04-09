@@ -1,0 +1,74 @@
+{
+  "id": 1309833281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.48851,35.58092,60.48851,35.58092",
+    "geom:latitude":35.58092,
+    "geom:longitude":60.48851,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Bidak",
+    "gn:country_code":"IR",
+    "gn:dem":1474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1161657,
+    "gn:latitude":35.58092,
+    "gn:longitude":60.48851,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"B\u012bdak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u062f\u0643"
+    ],
+    "name:fas_x_variant":[
+        "B\u012bdak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1161657,
+        "wk:page":"Bidak,_Torbat-e_Jam"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"22ded48a88aa2aad360b3a5cd8add8b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720499,
+            "locality_id":1309833281,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1309833281,
+    "wof:lastmodified":1537647135,
+    "wof:name":"Bidak",
+    "wof:parent_id":1108720499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.48851,
+    35.58092,
+    60.48851,
+    35.58092
+],
+  "geometry": {"coordinates":[60.48851,35.58092],"type":"Point"}
+}

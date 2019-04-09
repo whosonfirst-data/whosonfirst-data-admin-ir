@@ -1,0 +1,75 @@
+{
+  "id": 1243290927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.90777,35.35618,57.90777,35.35618",
+    "geom:latitude":35.35618,
+    "geom:longitude":57.90777,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Khomeyn",
+    "gn:country_code":"IR",
+    "gn:dem":1231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":15357,
+    "gn:latitude":35.35618,
+    "gn:longitude":57.90777,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Khomeyn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Khomm\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u062e\u0645\u06cc\u0646",
+        "\u062e\u0645\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108719877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":15357,
+        "wk:page":"Khommi"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"91f885a5a96aa4e55bb82b185b61ef51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719877,
+            "locality_id":1243290927,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1243290927,
+    "wof:lastmodified":1537640897,
+    "wof:name":"Khomeyn",
+    "wof:parent_id":1108719877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.90776999999999,
+    35.35618,
+    57.90776999999999,
+    35.35618
+],
+  "geometry": {"coordinates":[57.90776999999999,35.35618],"type":"Point"}
+}

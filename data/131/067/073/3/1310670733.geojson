@@ -1,0 +1,73 @@
+{
+  "id": 1310670733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.24413,32.66462,48.24413,32.66462",
+    "geom:latitude":32.66462,
+    "geom:longitude":48.24413,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Dokhtar Borji",
+    "gn:country_code":"IR",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":135984,
+    "gn:latitude":32.66462,
+    "gn:longitude":48.24413,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Dokhtar Borj\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u062e\u062a\u0631 \u0628\u0631\u062c\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Dokhtar Borj\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":135984
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"eb407819364e31a0ea3f487155f0b289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719811,
+            "locality_id":1310670733,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1310670733,
+    "wof:lastmodified":1537645428,
+    "wof:name":"Dokhtar Borji",
+    "wof:parent_id":1108719811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.24413,
+    32.66462,
+    48.24413,
+    32.66462
+],
+  "geometry": {"coordinates":[48.24413,32.66462],"type":"Point"}
+}

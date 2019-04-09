@@ -1,0 +1,64 @@
+{
+  "id": 1209305335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.53028,30.02556,51.53028,30.02556",
+    "geom:latitude":30.02556,
+    "geom:longitude":51.53028,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Shur-e Bakesh",
+    "gn:country_code":"IR",
+    "gn:dem":1263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":46612,
+    "gn:latitude":30.02556,
+    "gn:longitude":51.53028,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sh\u016br-e Bakesh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sh\u016br-e Bakesh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":46612
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a508d50434ea932a0d3234198e7efd70",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209305335
+        }
+    ],
+    "wof:id":1209305335,
+    "wof:lastmodified":1537642621,
+    "wof:name":"Shur-e Bakesh",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.53028,
+    30.02556,
+    51.53028,
+    30.02556
+],
+  "geometry": {"coordinates":[51.53028,30.02556],"type":"Point"}
+}

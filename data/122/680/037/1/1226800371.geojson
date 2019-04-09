@@ -1,0 +1,80 @@
+{
+  "id": 1226800371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.33333,31.65,55.33333,31.65",
+    "geom:latitude":31.65,
+    "geom:longitude":55.33333,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Dasht Agun",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":137296,
+    "gn:latitude":31.65,
+    "gn:longitude":55.33333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dasht \u0100g\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u064e\u0634\u062a \u0622\u06af\u0648\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u064e\u0634\u062a \u062e\u064f\u0651\u0646",
+        "\u062f\u064e\u0634\u062a \u0622\u0643\u0648\u0646",
+        "Dasht \u0100g\u016bn"
+    ],
+    "name:und_x_variant":[
+        "Dasht Khoon",
+        "Dasht \u0100k\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108719849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":137296
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8edb257891e71270b8e5e46b9904b98c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719849,
+            "locality_id":1226800371,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1226800371,
+    "wof:lastmodified":1537645565,
+    "wof:name":"Dasht Agun",
+    "wof:parent_id":1108719849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.33333,
+    31.65,
+    55.33333,
+    31.65
+],
+  "geometry": {"coordinates":[55.33333,31.65],"type":"Point"}
+}

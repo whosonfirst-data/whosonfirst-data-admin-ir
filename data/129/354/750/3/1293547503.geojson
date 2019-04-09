@@ -1,0 +1,83 @@
+{
+  "id": 1293547503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.58917,33.315,49.58917,33.315",
+    "geom:latitude":33.315,
+    "geom:longitude":49.58917,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Bavki",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":2114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110862,
+    "gn:latitude":33.315,
+    "gn:longitude":49.58917,
+    "gn:modification_date":"2010-08-09",
+    "gn:name":"B\u0101vk\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0648\u0643\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0648\u0643",
+        "\u0639\u064e\u0644\u06cc \u0622\u0642\u0627",
+        "\u0628\u0627\u0648\u064e\u0643\u06cc",
+        "B\u0101vk\u012b"
+    ],
+    "name:und_x_variant":[
+        "B\u016bk",
+        "B\u0101vak\u012b",
+        "\u2018Al\u012b \u0100q\u0101",
+        "Bauki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110862
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c51de62a3db9ed4c0d338bd3c360339e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719803,
+            "locality_id":1293547503,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1293547503,
+    "wof:lastmodified":1537642920,
+    "wof:name":"Bavki",
+    "wof:parent_id":1108719803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.58917,
+    33.315,
+    49.58917,
+    33.315
+],
+  "geometry": {"coordinates":[49.58917,33.315],"type":"Point"}
+}

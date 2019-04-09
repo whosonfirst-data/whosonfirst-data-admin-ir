@@ -1,0 +1,83 @@
+{
+  "id": 1292956815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.8355,33.9919,48.8355,33.9919",
+    "geom:latitude":33.9919,
+    "geom:longitude":48.8355,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Janbolaq",
+    "gn:country_code":"IR",
+    "gn:dem":2225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":130542,
+    "gn:latitude":33.9919,
+    "gn:longitude":48.8355,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"J\u0101nbol\u0101q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u0646\u0628\u0644\u0627\u0642"
+    ],
+    "name:fas_x_variant":[
+        "Ch\u0101h Bol\u0101gh",
+        "J\u0101n Bol\u0101gh",
+        "Janbol\u0101q",
+        "\u062c\u0627\u0646\u0628\u0644\u0627\u0642"
+    ],
+    "name:und_x_variant":[
+        "J\u0101h Bol\u0101gh",
+        "Jenbol\u0101q",
+        "Jinbul\u0101gh",
+        "J\u0101nbol\u0101q"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":130542,
+        "wk:page":"Janbolaq"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f143701a1b9a01a1aab8191f6cf37979",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719905,
+            "locality_id":1292956815,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1292956815,
+    "wof:lastmodified":1537644876,
+    "wof:name":"Janbolaq",
+    "wof:parent_id":1108719905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.8355,
+    33.9919,
+    48.8355,
+    33.9919
+],
+  "geometry": {"coordinates":[48.8355,33.9919],"type":"Point"}
+}

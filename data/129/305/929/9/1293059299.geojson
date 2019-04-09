@@ -1,0 +1,78 @@
+{
+  "id": 1293059299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.8523,33.9671,48.8523,33.9671",
+    "geom:latitude":33.9671,
+    "geom:longitude":48.8523,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Kushk",
+    "gn:country_code":"IR",
+    "gn:dem":2238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":126158,
+    "gn:latitude":33.9671,
+    "gn:longitude":48.8523,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"K\u016bshk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0643\u0648\u0634\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "K\u016bshk-e Sofl\u00e1",
+        "K\u016bshk"
+    ],
+    "name:und_x_variant":[
+        "K\u016bshkeh",
+        "Kushka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":126158
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9fe9bddf6942648bfac4ca097379e34e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719905,
+            "locality_id":1293059299,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1293059299,
+    "wof:lastmodified":1537644420,
+    "wof:name":"Kushk",
+    "wof:parent_id":1108719905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.8523,
+    33.9671,
+    48.8523,
+    33.9671
+],
+  "geometry": {"coordinates":[48.8523,33.9671],"type":"Point"}
+}

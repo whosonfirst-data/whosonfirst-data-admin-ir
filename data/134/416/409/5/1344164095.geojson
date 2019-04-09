@@ -1,0 +1,80 @@
+{
+  "id": 1344164095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.70793,31.53699,50.70793,31.53699",
+    "geom:latitude":31.53699,
+    "geom:longitude":50.70793,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Darreh Shur Khong",
+    "gn:country_code":"IR",
+    "gn:dem":1491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":14949,
+    "gn:latitude":31.53699,
+    "gn:longitude":50.70793,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Darreh Sh\u016br Khong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u064f\u0646\u06af\u0650 \u0639\u064f\u0644\u064a\u0627"
+    ],
+    "name:fas_x_variant":[
+        "Khong-e \u2018Oly\u0101",
+        "\u062e\u0646\u06af",
+        "\u062f\u0631\u0647 \u0634\u0648\u0631 \u062e\u0646\u06af"
+    ],
+    "name:und_x_variant":[
+        "Khong",
+        "\u062e\u0646\u06af",
+        "Darreh Sh\u016br Khong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672319,
+        1108720189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":14949
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"67e9f415392ee33ea45efe7b69fa31bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720189,
+            "locality_id":1344164095,
+            "region_id":85672319
+        }
+    ],
+    "wof:id":1344164095,
+    "wof:lastmodified":1537640861,
+    "wof:name":"Darreh Shur Khong",
+    "wof:parent_id":1108720189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.70793,
+    31.53699000000001,
+    50.70793,
+    31.53699000000001
+],
+  "geometry": {"coordinates":[50.70793,31.53699000000001],"type":"Point"}
+}

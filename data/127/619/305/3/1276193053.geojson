@@ -1,0 +1,77 @@
+{
+  "id": 1276193053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.51081,36.02434,53.51081,36.02434",
+    "geom:latitude":36.02434,
+    "geom:longitude":53.51081,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Gomla",
+    "gn:country_code":"IR",
+    "gn:dem":2325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":385328,
+    "gn:latitude":36.02434,
+    "gn:longitude":53.51081,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Goml\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u06af\u0645\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u0650\u0645\u0644\u0627",
+        "Goml\u0101"
+    ],
+    "name:und_x_variant":[
+        "Geml\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672309,
+        1108720419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385328
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bdfe4c29aaaaa5d5cd26fb07550a0647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720419,
+            "locality_id":1276193053,
+            "region_id":85672309
+        }
+    ],
+    "wof:id":1276193053,
+    "wof:lastmodified":1537646407,
+    "wof:name":"Gomla",
+    "wof:parent_id":1108720419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.51081,
+    36.02434,
+    53.51081,
+    36.02434
+],
+  "geometry": {"coordinates":[53.51081,36.02434],"type":"Point"}
+}

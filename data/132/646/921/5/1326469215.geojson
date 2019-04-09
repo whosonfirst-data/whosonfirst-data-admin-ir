@@ -1,0 +1,80 @@
+{
+  "id": 1326469215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.49373,37.05622,55.49373,37.05622",
+    "geom:latitude":37.05622,
+    "geom:longitude":55.49373,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Kafsh Mahalleh",
+    "gn:country_code":"IR",
+    "gn:dem":1236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":40116,
+    "gn:latitude":37.05622,
+    "gn:longitude":55.49373,
+    "gn:modification_date":"2016-01-06",
+    "gn:name":"Kafsh Ma\u1e29alleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Kanesh Ma\u1e29alleh"
+    ],
+    "name:fas_x_variant":[
+        "Kafsh Ma\u1e29alleh",
+        "\u0643\u0646\u0634 \u0645\u062d\u0644\u0647",
+        "\u0643\u0641\u0634 \u0645\u062d\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0643\u0641\u0634 \u0645\u062d\u0644\u0647",
+        "\u0643\u0646\u0634 \u0645\u062d\u0644\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":40116,
+        "wk:page":"Kafsh_Mahalleh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e61177f8d57e072fe8f6f31baa8fd37a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720245,
+            "locality_id":1326469215,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1326469215,
+    "wof:lastmodified":1537642255,
+    "wof:name":"Kafsh Mahalleh",
+    "wof:parent_id":1108720245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.49373000000001,
+    37.05622,
+    55.49373000000001,
+    37.05622
+],
+  "geometry": {"coordinates":[55.49373000000001,37.05622],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1193019529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.1148,36.9218,46.1148,36.9218",
+    "geom:latitude":36.9218,
+    "geom:longitude":46.1148,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sowgoli Tappeh",
+    "gn:country_code":"IR",
+    "gn:dem":1311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":401279,
+    "gn:latitude":36.9218,
+    "gn:longitude":46.1148,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sowgol\u012b Tappeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u06af\u0644\u06cc \u062a\u067e\u0651\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Sowgol\u012b Tappeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":401279,
+        "wk:page":"Sowgoli_Tappeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"df2d36f86a806091374ead7fa67ed90b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720241,
+            "locality_id":1193019529,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1193019529,
+    "wof:lastmodified":1537646526,
+    "wof:name":"Sowgoli Tappeh",
+    "wof:parent_id":1108720241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.1148,
+    36.9218,
+    46.1148,
+    36.9218
+],
+  "geometry": {"coordinates":[46.1148,36.9218],"type":"Point"}
+}

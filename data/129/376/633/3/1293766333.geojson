@@ -1,0 +1,79 @@
+{
+  "id": 1293766333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.6067,30.6108,48.6067,30.6108",
+    "geom:latitude":30.6108,
+    "geom:longitude":48.6067,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Hanafareh",
+    "gn:country_code":"IR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":127968,
+    "gn:latitude":30.6108,
+    "gn:longitude":48.6067,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"\u1e28an\u0101fareh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Khan\u0101fereh"
+    ],
+    "name:fas_x_variant":[
+        "\u062d\u0646\u0627\u0641\u0631\u0647",
+        "\u1e28an\u0101fareh"
+    ],
+    "name:und_x_variant":[
+        "\u1e28an\u0101fareh",
+        "\u062d\u0646\u0627\u0641\u0631\u0647",
+        "Garmeh-ye Khan\u0101fereh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":127968
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1c3427a0d0e78b22a7a792047808c3ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720425,
+            "locality_id":1293766333,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1293766333,
+    "wof:lastmodified":1537644614,
+    "wof:name":"Hanafareh",
+    "wof:parent_id":1108720425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.6067,
+    30.6108,
+    48.6067,
+    30.6108
+],
+  "geometry": {"coordinates":[48.6067,30.6108],"type":"Point"}
+}

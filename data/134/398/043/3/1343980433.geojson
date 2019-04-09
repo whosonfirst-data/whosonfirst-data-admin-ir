@@ -1,0 +1,76 @@
+{
+  "id": 1343980433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.04432,31.15251,50.04432,31.15251",
+    "geom:latitude":31.15251,
+    "geom:longitude":50.04432,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Narmun",
+    "gn:country_code":"IR",
+    "gn:dem":997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7380861,
+    "gn:latitude":31.15251,
+    "gn:longitude":50.04432,
+    "gn:modification_date":"2012-11-09",
+    "gn:name":"Narm\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Narm\u016bn"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0631\u0645\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0646\u0631\u0645\u0648\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108719859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7380861
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f833fbbe1302882938f3f9117d787546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719859,
+            "locality_id":1343980433,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1343980433,
+    "wof:lastmodified":1537648137,
+    "wof:name":"Narmun",
+    "wof:parent_id":1108719859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.04432,
+    31.15251,
+    50.04432,
+    31.15251
+],
+  "geometry": {"coordinates":[50.04432,31.15251],"type":"Point"}
+}

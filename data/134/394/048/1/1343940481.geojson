@@ -1,0 +1,75 @@
+{
+  "id": 1343940481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.50361,30.96333,49.50361,30.96333",
+    "geom:latitude":30.96333,
+    "geom:longitude":49.50361,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Shakariat",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":115279,
+    "gn:latitude":30.96333,
+    "gn:longitude":49.50361,
+    "gn:modification_date":"2010-08-09",
+    "gn:name":"Shakar\u012b\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Shakar\u012b\u0101t"
+    ],
+    "name:und_x_variant":[
+        "Shekar\u012by\u0101t",
+        "Shekar\u012b\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":115279
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2c0f60580ca8a9955e0c9d39752cd2d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720335,
+            "locality_id":1343940481,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1343940481,
+    "wof:lastmodified":1537643346,
+    "wof:name":"Shakariat",
+    "wof:parent_id":1108720335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.50361,
+    30.96333,
+    49.50361,
+    30.96333
+],
+  "geometry": {"coordinates":[49.50361,30.96333],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1243096995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.32943,36.66101,58.32943,36.66101",
+    "geom:latitude":36.66101,
+    "geom:longitude":58.32943,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Golbin",
+    "gn:country_code":"IR",
+    "gn:dem":1423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":133190,
+    "gn:latitude":36.66101,
+    "gn:longitude":58.32943,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Golb\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Golb\u012bn"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u0644\u0628\u06cc\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u06af\u0644\u0628\u06cc\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":133190,
+        "wk:page":"Golbin"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ca42d605d2ff43ad507ffb6eb4e7ea29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720279,
+            "locality_id":1243096995,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1243096995,
+    "wof:lastmodified":1537645148,
+    "wof:name":"Golbin",
+    "wof:parent_id":1108720279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.32943,
+    36.66101,
+    58.32943,
+    36.66101
+],
+  "geometry": {"coordinates":[58.32943,36.66101],"type":"Point"}
+}

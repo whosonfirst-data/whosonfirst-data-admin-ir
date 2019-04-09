@@ -1,0 +1,76 @@
+{
+  "id": 1276485497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.56012,35.94174,52.56012,35.94174",
+    "geom:latitude":35.94174,
+    "geom:longitude":52.56012,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Robat",
+    "gn:country_code":"IR",
+    "gn:dem":3367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":33677,
+    "gn:latitude":35.94174,
+    "gn:longitude":52.56012,
+    "gn:modification_date":"2013-10-03",
+    "gn:name":"Rob\u0101\u0163",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Rab\u0101\u0163"
+    ],
+    "name:fas_x_variant":[
+        "\u0631\u0628\u0627\u0637"
+    ],
+    "name:und_x_variant":[
+        "Rob\u0101\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672313,
+        1108720011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":33677
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0e7f85801c4d1d6dd53d8948988ab4a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720011,
+            "locality_id":1276485497,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1276485497,
+    "wof:lastmodified":1537641874,
+    "wof:name":"Robat",
+    "wof:parent_id":1108720011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.56012,
+    35.94174,
+    52.56012,
+    35.94174
+],
+  "geometry": {"coordinates":[52.56012,35.94174],"type":"Point"}
+}

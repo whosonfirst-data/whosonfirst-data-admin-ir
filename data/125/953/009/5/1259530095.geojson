@@ -1,0 +1,75 @@
+{
+  "id": 1259530095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.71667,28.86667,57.71667,28.86667",
+    "geom:latitude":28.86667,
+    "geom:longitude":57.71667,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Sheykh Bakhtiar",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":66673,
+    "gn:latitude":28.86667,
+    "gn:longitude":57.71667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sheykh Bakht\u012b\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sheykh Bakht\u012b\u0101r"
+    ],
+    "name:und_x_variant":[
+        "Shaikh Bakht\u012b\u0101r",
+        "Sheykh Bakhtar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":66673
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"de39c2a3b98db85a271b7377453057e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720081,
+            "locality_id":1259530095,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1259530095,
+    "wof:lastmodified":1537642811,
+    "wof:name":"Sheykh Bakhtiar",
+    "wof:parent_id":1108720081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.71666999999999,
+    28.86667000000001,
+    57.71666999999999,
+    28.86667000000001
+],
+  "geometry": {"coordinates":[57.71666999999999,28.86667000000001],"type":"Point"}
+}

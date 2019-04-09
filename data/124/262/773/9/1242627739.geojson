@@ -1,0 +1,78 @@
+{
+  "id": 1242627739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.27081,28.1583,57.27081,28.1583",
+    "geom:latitude":28.1583,
+    "geom:longitude":57.27081,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Khoshk Avari",
+    "gn:country_code":"IR",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":46335,
+    "gn:latitude":28.1583,
+    "gn:longitude":57.27081,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"Khoshk \u0100var\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Ch\u0101h-e Khoshk\u0101vor\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u062e\u0634\u06a9 \u0622\u0648\u0631\u06cc",
+        "\u0645\u0648\u062a\u0648\u0631\u0647\u0627\u06cc \u062e\u0634\u06a9 \u0622\u0648\u0631\u06cc \u062d\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Khoshk \u0100var\u012b",
+        "Mowtowrh\u0101-ye Khowshk \u0100var\u012b \u1e28owr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":46335
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4941d724317fe094ca188ff95c79c50c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720091,
+            "locality_id":1242627739,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1242627739,
+    "wof:lastmodified":1537642607,
+    "wof:name":"Khoshk Avari",
+    "wof:parent_id":1108720091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.27081,
+    28.1583,
+    57.27081,
+    28.1583
+],
+  "geometry": {"coordinates":[57.27081,28.1583],"type":"Point"}
+}

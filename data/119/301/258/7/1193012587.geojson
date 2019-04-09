@@ -1,0 +1,77 @@
+{
+  "id": 1193012587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.66034,30.08577,53.66034,30.08577",
+    "geom:latitude":30.08577,
+    "geom:longitude":53.66034,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Siahu",
+    "gn:country_code":"IR",
+    "gn:dem":2161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7889664,
+    "gn:latitude":30.08577,
+    "gn:longitude":53.66034,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"S\u012b\u0101h\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "S\u012b\u0101h\u016b"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u064a\u0627\u0647\u0648",
+        "\u0633\u064a\u0627\u0647\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "S\u012b\u0101h\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108719883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7889664
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2d4c1bbaa812aad4860da9e51df68c9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719883,
+            "locality_id":1193012587,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1193012587,
+    "wof:lastmodified":1537648521,
+    "wof:name":"Siahu",
+    "wof:parent_id":1108719883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.66034000000001,
+    30.08577,
+    53.66034000000001,
+    30.08577
+],
+  "geometry": {"coordinates":[53.66034000000001,30.08577],"type":"Point"}
+}

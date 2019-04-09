@@ -1,0 +1,67 @@
+{
+  "id": 1310184253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.53667,34.50778,46.53667,34.50778",
+    "geom:latitude":34.50778,
+    "geom:longitude":46.53667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Haftkadeh",
+    "gn:country_code":"IR",
+    "gn:dem":1447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":24572,
+    "gn:latitude":34.50778,
+    "gn:longitude":46.53667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Haftkadeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":24572
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"89ae29288ee558cd07d43309eec1fb50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720117,
+            "locality_id":1310184253,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1310184253,
+    "wof:lastmodified":1536882352,
+    "wof:name":"Haftkadeh",
+    "wof:parent_id":1108720117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.53667,
+    34.50778,
+    46.53667,
+    34.50778
+],
+  "geometry": {"coordinates":[46.53667,34.50778],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276827243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.27584,33.85511,48.27584,33.85511",
+    "geom:latitude":33.85511,
+    "geom:longitude":48.27584,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Zirgar",
+    "gn:country_code":"IR",
+    "gn:dem":1595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":32155,
+    "gn:latitude":33.85511,
+    "gn:longitude":48.27584,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Z\u012brgar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0632\u064a\u0631 \u06af\u064e\u0631\u0650 \u0639\u064f\u0644\u064a\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0632\u06cc\u0631\u06af\u0631",
+        "Z\u012br Gar-e \u2018Oly\u0101",
+        "Z\u012brgar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":32155
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2230af4d5583bd9e2ba1897ed12512c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720411,
+            "locality_id":1276827243,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1276827243,
+    "wof:lastmodified":1537641765,
+    "wof:name":"Zirgar",
+    "wof:parent_id":1108720411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.27584,
+    33.85511,
+    48.27584,
+    33.85511
+],
+  "geometry": {"coordinates":[48.27584,33.85511],"type":"Point"}
+}

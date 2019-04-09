@@ -1,0 +1,80 @@
+{
+  "id": 1293120613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.11591,37.24503,50.11591,37.24503",
+    "geom:latitude":37.24503,
+    "geom:longitude":50.11591,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Arbastan",
+    "gn:country_code":"IR",
+    "gn:dem":-3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":143094,
+    "gn:latitude":37.24503,
+    "gn:longitude":50.11591,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Arb\u0101st\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Arb\u0101st\u0101n-e B\u0101l\u0101"
+    ],
+    "name:fas_x_variant":[
+        "Arb\u0101st\u0101n",
+        "\u0627\u0631\u0628\u0627\u0633\u062a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Arb\u0101set\u0101n",
+        "Arb\u0101st\u0101n",
+        "\u0627\u0631\u0628\u0627\u0633\u062a\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":143094,
+        "wk:page":"Arbastan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2a7855aae2a187a83a3601c6c7f8dddf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720173,
+            "locality_id":1293120613,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1293120613,
+    "wof:lastmodified":1537646140,
+    "wof:name":"Arbastan",
+    "wof:parent_id":1108720173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.11591,
+    37.24503,
+    50.11591,
+    37.24503
+],
+  "geometry": {"coordinates":[50.11591,37.24503],"type":"Point"}
+}

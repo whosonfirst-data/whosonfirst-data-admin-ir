@@ -1,0 +1,73 @@
+{
+  "id": 1326680251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.18793,31.45854,56.18793,31.45854",
+    "geom:latitude":31.45854,
+    "geom:longitude":56.18793,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Qasemabad",
+    "gn:country_code":"IR",
+    "gn:dem":2111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9642641,
+    "gn:latitude":31.45854,
+    "gn:longitude":56.18793,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Q\u0101sem\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0627\u0633\u0645 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Q\u0101sem\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9642641
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"103034b9d41c5bc9dfff4c44defc30a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720155,
+            "locality_id":1326680251,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1326680251,
+    "wof:lastmodified":1537648650,
+    "wof:name":"Qasemabad",
+    "wof:parent_id":1108720155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.18793,
+    31.45854000000001,
+    56.18793,
+    31.45854000000001
+],
+  "geometry": {"coordinates":[56.18793,31.45854000000001],"type":"Point"}
+}

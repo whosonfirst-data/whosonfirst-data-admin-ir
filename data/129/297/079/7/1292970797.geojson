@@ -1,0 +1,73 @@
+{
+  "id": 1292970797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.0819,30.3473,50.0819,30.3473",
+    "geom:latitude":30.3473,
+    "geom:longitude":50.0819,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Dar `Ala'i",
+    "gn:country_code":"IR",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":45844,
+    "gn:latitude":30.3473,
+    "gn:longitude":50.0819,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"D\u0101r \u2018Al\u0101\u2019\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0631 \u0639\u0644\u0627\u0626\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "D\u0101r \u2018Al\u0101\u2019\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":45844
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0405c2865f28f5d1ff7f61bb2f73c59a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719885,
+            "locality_id":1292970797,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1292970797,
+    "wof:lastmodified":1537642576,
+    "wof:name":"Dar `Ala'i",
+    "wof:parent_id":1108719885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.0819,
+    30.3473,
+    50.0819,
+    30.3473
+],
+  "geometry": {"coordinates":[50.0819,30.3473],"type":"Point"}
+}

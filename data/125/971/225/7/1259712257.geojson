@@ -1,0 +1,75 @@
+{
+  "id": 1259712257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.10402,32.80265,59.10402,32.80265",
+    "geom:latitude":32.80265,
+    "geom:longitude":59.10402,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Nowkand",
+    "gn:country_code":"IR",
+    "gn:dem":1836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":121995,
+    "gn:latitude":32.80265,
+    "gn:longitude":59.10402,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Nowkand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u06a9\u0646\u062f"
+    ],
+    "name:und_x_variant":[
+        "Naukand",
+        "Nowkand",
+        "\u0646\u0648\u06a9\u0646\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108719895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":121995
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8389a7bd7ea5b1b94404946effebd0a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719895,
+            "locality_id":1259712257,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1259712257,
+    "wof:lastmodified":1537644010,
+    "wof:name":"Nowkand",
+    "wof:parent_id":1108719895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.10402,
+    32.80265,
+    59.10402,
+    32.80265
+],
+  "geometry": {"coordinates":[59.10402,32.80265],"type":"Point"}
+}

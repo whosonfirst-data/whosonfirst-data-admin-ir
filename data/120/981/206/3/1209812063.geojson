@@ -1,0 +1,76 @@
+{
+  "id": 1209812063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.14325,30.59266,51.14325,30.59266",
+    "geom:latitude":30.59266,
+    "geom:longitude":51.14325,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Sar Astaneh",
+    "gn:country_code":"IR",
+    "gn:dem":1647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":117245,
+    "gn:latitude":30.59266,
+    "gn:longitude":51.14325,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sar \u0100st\u0101neh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sar \u0100st\u0101neh"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0631 \u0622\u0633\u062a\u0627\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0633\u0631 \u0622\u0633\u062a\u0627\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":117245
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"39cc477955b709fd9340ba49a8558f4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720209,
+            "locality_id":1209812063,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1209812063,
+    "wof:lastmodified":1537643520,
+    "wof:name":"Sar Astaneh",
+    "wof:parent_id":1108720209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.14325,
+    30.59266,
+    51.14325,
+    30.59266
+],
+  "geometry": {"coordinates":[51.14325,30.59266],"type":"Point"}
+}

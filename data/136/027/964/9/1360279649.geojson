@@ -1,0 +1,77 @@
+{
+  "id": 1360279649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.5487,28.7531,52.5487,28.7531",
+    "geom:latitude":28.7531,
+    "geom:longitude":52.5487,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Sangar",
+    "gn:country_code":"IR",
+    "gn:dem":1272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":117037,
+    "gn:latitude":28.7531,
+    "gn:longitude":52.5487,
+    "gn:modification_date":"2018-06-19",
+    "gn:name":"Sangar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u06af\u0631"
+    ],
+    "name:und_x_variant":[
+        "Sar-e Gar",
+        "Sar Gar Bor\u0101zj\u0101n",
+        "Sar Gar",
+        "Sangar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":117037,
+        "wk:page":"Sangar,_Darab"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"78d5ce6fbdd8a52ee70a32f4f86dc55e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720009,
+            "locality_id":1360279649,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1360279649,
+    "wof:lastmodified":1537643501,
+    "wof:name":"Sangar",
+    "wof:parent_id":1108720009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.5487,
+    28.7531,
+    52.5487,
+    28.7531
+],
+  "geometry": {"coordinates":[52.5487,28.7531],"type":"Point"}
+}

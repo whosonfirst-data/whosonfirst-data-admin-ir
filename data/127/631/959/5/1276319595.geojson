@@ -1,0 +1,73 @@
+{
+  "id": 1276319595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.66142,33.98367,46.66142,33.98367",
+    "geom:latitude":33.98367,
+    "geom:longitude":46.66142,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Valiabad",
+    "gn:country_code":"IR",
+    "gn:dem":1312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8372970,
+    "gn:latitude":33.98367,
+    "gn:longitude":46.66142,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Val\u012b\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0644\u06cc \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Val\u012b\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108719983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8372970
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"962845a38af1bafd067afbb6439ca2ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719983,
+            "locality_id":1276319595,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1276319595,
+    "wof:lastmodified":1537648551,
+    "wof:name":"Valiabad",
+    "wof:parent_id":1108719983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.66142,
+    33.98367,
+    46.66142,
+    33.98367
+],
+  "geometry": {"coordinates":[46.66142,33.98367],"type":"Point"}
+}

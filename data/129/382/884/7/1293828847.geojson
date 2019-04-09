@@ -1,0 +1,73 @@
+{
+  "id": 1293828847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.9368,33.50632,49.9368,33.50632",
+    "geom:latitude":33.50632,
+    "geom:longitude":49.9368,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Zeynalabad",
+    "gn:country_code":"IR",
+    "gn:dem":2046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":111089,
+    "gn:latitude":33.50632,
+    "gn:longitude":49.9368,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Zeynal\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u06cc\u0646\u0644 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Zeynal\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":111089
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"09ee7590149504359cd8318d63c3ff59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720137,
+            "locality_id":1293828847,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1293828847,
+    "wof:lastmodified":1537642944,
+    "wof:name":"Zeynalabad",
+    "wof:parent_id":1108720137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.9368,
+    33.50632,
+    49.9368,
+    33.50632
+],
+  "geometry": {"coordinates":[49.9368,33.50632],"type":"Point"}
+}

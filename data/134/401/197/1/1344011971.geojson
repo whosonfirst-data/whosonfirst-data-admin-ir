@@ -1,0 +1,80 @@
+{
+  "id": 1344011971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.69797,34.34528,49.69797,34.34528",
+    "geom:latitude":34.34528,
+    "geom:longitude":49.69797,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Horrabad",
+    "gn:country_code":"IR",
+    "gn:dem":1684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":131212,
+    "gn:latitude":34.34528,
+    "gn:longitude":49.69797,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"\u1e28orr\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u064f\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28or\u0101b\u0101d",
+        "\u1e28orr\u0101b\u0101d",
+        "\u062d\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Hur\u0101b\u0101d",
+        "\u1e28orr\u0101b\u0101d",
+        "\u062d\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":131212
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"beaf4a7c7f290c83d1a74a94e4fb6bde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720443,
+            "locality_id":1344011971,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1344011971,
+    "wof:lastmodified":1537644943,
+    "wof:name":"Horrabad",
+    "wof:parent_id":1108720443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.69797,
+    34.34528,
+    49.69797,
+    34.34528
+],
+  "geometry": {"coordinates":[49.69797,34.34528],"type":"Point"}
+}

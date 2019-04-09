@@ -1,0 +1,76 @@
+{
+  "id": 1276714613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.18308,35.89512,52.18308,35.89512",
+    "geom:latitude":35.89512,
+    "geom:longitude":52.18308,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Garna",
+    "gn:country_code":"IR",
+    "gn:dem":2055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":33062,
+    "gn:latitude":35.89512,
+    "gn:longitude":52.18308,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"Garn\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0631\u0646\u0627"
+    ],
+    "name:fas_x_variant":[
+        "Garn\u0101",
+        "Gazn\u0101",
+        "\u06af\u0632\u0646\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":33062,
+        "wk:page":"Garna"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7e89b855d96fa5065dde0fd234b742c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719807,
+            "locality_id":1276714613,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1276714613,
+    "wof:lastmodified":1537641839,
+    "wof:name":"Garna",
+    "wof:parent_id":1108719807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.18308,
+    35.89512,
+    52.18308,
+    35.89512
+],
+  "geometry": {"coordinates":[52.18308,35.89512],"type":"Point"}
+}

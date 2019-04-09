@@ -1,0 +1,78 @@
+{
+  "id": 1260315001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.01891,35.39177,59.01891,35.39177",
+    "geom:latitude":35.39177,
+    "geom:longitude":59.01891,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Besg",
+    "gn:country_code":"IR",
+    "gn:dem":1581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":141057,
+    "gn:latitude":35.39177,
+    "gn:longitude":59.01891,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Besg",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0633\u06af"
+    ],
+    "name:und_x_variant":[
+        "Bai\u0101q",
+        "B\u0101yak",
+        "B\u0101yg",
+        "Bish Baik",
+        "Besk",
+        "Besg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":141057
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6f737a81fab9e54ff9e99d4c39e26566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720497,
+            "locality_id":1260315001,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1260315001,
+    "wof:lastmodified":1537645938,
+    "wof:name":"Besg",
+    "wof:parent_id":1108720497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.01891,
+    35.39177,
+    59.01891,
+    35.39177
+],
+  "geometry": {"coordinates":[59.01891,35.39177],"type":"Point"}
+}

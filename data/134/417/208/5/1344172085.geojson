@@ -1,0 +1,67 @@
+{
+  "id": 1344172085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.9075,36.48417,56.9075,36.48417",
+    "geom:latitude":36.48417,
+    "geom:longitude":56.9075,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Abrud",
+    "gn:country_code":"IR",
+    "gn:dem":1731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":144925,
+    "gn:latitude":36.48417,
+    "gn:longitude":56.9075,
+    "gn:modification_date":"1996-12-31",
+    "gn:name":"\u0100br\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":144925
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9522155a2dfedefb3c3e499ce23d1235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720367,
+            "locality_id":1344172085,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1344172085,
+    "wof:lastmodified":1536714757,
+    "wof:name":"Abrud",
+    "wof:parent_id":1108720367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.9075,
+    36.48417,
+    56.9075,
+    36.48417
+],
+  "geometry": {"coordinates":[56.9075,36.48417],"type":"Point"}
+}

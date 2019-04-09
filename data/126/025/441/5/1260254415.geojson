@@ -1,0 +1,81 @@
+{
+  "id": 1260254415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.5572,35.1194,46.5572,35.1194",
+    "geom:latitude":35.1194,
+    "geom:longitude":46.5572,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Sorkheh Tut",
+    "gn:country_code":"IR",
+    "gn:dem":1552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":113925,
+    "gn:latitude":35.1194,
+    "gn:longitude":46.5572,
+    "gn:modification_date":"2012-10-06",
+    "gn:name":"Sorkheh T\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sorkheh T\u016bt"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0631\u062e\u0647 \u062a\u0648\u062a",
+        "\u0633\u0648\u0631\u0647 \u062a\u0648"
+    ],
+    "name:und_x_variant":[
+        "Sorkhah T\u016bt",
+        "Surtu",
+        "\u0633\u0631\u062e\u0647 \u062a\u0648\u062a",
+        "S\u016breh T\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":113925,
+        "wk:page":"Sureh_Tu"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"02f16cec18cb32a43b5b17355312de50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720403,
+            "locality_id":1260254415,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1260254415,
+    "wof:lastmodified":1537643235,
+    "wof:name":"Sorkheh Tut",
+    "wof:parent_id":1108720403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.5572,
+    35.1194,
+    46.5572,
+    35.1194
+],
+  "geometry": {"coordinates":[46.5572,35.1194],"type":"Point"}
+}

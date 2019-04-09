@@ -1,0 +1,73 @@
+{
+  "id": 1225799635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.03621,35.61077,51.03621,35.61077",
+    "geom:latitude":35.61077,
+    "geom:longitude":51.03621,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Kuy-e Vahdat",
+    "gn:country_code":"IR",
+    "gn:dem":1119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8420880,
+    "gn:latitude":35.61077,
+    "gn:longitude":51.03621,
+    "gn:modification_date":"2012-11-10",
+    "gn:name":"K\u016by-e Va\u1e29dat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u06cc \u0648\u062d\u062f\u062a"
+    ],
+    "name:und_x_variant":[
+        "K\u016by-e Va\u1e29dat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672313,
+        1108720439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8420880
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"13756e6c1832c03817fd2035481302a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720439,
+            "locality_id":1225799635,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1225799635,
+    "wof:lastmodified":1537648559,
+    "wof:name":"Kuy-e Vahdat",
+    "wof:parent_id":1108720439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.03621,
+    35.61077,
+    51.03621,
+    35.61077
+],
+  "geometry": {"coordinates":[51.03621,35.61077],"type":"Point"}
+}

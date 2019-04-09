@@ -1,0 +1,77 @@
+{
+  "id": 1293716345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.95034,36.79407,56.95034,36.79407",
+    "geom:latitude":36.79407,
+    "geom:longitude":56.95034,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Mazra`eh-ye Seyyedabad",
+    "gn:country_code":"IR",
+    "gn:dem":995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6350,
+    "gn:latitude":36.79407,
+    "gn:longitude":56.95034,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Mazra\u2018eh-ye Seyyed\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Seyyed\u0101b\u0101d"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u06cc\u0651\u062f \u0622\u0628\u0627\u062f",
+        "\u0645\u0632\u0631\u0639\u0647 \u0633\u06cc\u062f \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u2018eh-ye Seyyed\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6350
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"caf22926e66b3c6d2bfa03a913bf7cd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720367,
+            "locality_id":1293716345,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1293716345,
+    "wof:lastmodified":1537640338,
+    "wof:name":"Mazra`eh-ye Seyyedabad",
+    "wof:parent_id":1108720367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.95034,
+    36.79407,
+    56.95034,
+    36.79407
+],
+  "geometry": {"coordinates":[56.95034,36.79407],"type":"Point"}
+}

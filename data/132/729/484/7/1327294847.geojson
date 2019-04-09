@@ -1,0 +1,67 @@
+{
+  "id": 1327294847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.3,31.38333,56.3,31.38333",
+    "geom:latitude":31.38333,
+    "geom:longitude":56.3,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Deh Now",
+    "gn:country_code":"IR",
+    "gn:dem":1984,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":38962,
+    "gn:latitude":31.38333,
+    "gn:longitude":56.3,
+    "gn:modification_date":"2010-08-09",
+    "gn:name":"Deh Now",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":38962
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"caedd4feb8b934a455e5ad5ad56a0706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720155,
+            "locality_id":1327294847,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1327294847,
+    "wof:lastmodified":1536878815,
+    "wof:name":"Deh Now",
+    "wof:parent_id":1108720155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.3,
+    31.38333,
+    56.3,
+    31.38333
+],
+  "geometry": {"coordinates":[56.3,31.38333],"type":"Point"}
+}

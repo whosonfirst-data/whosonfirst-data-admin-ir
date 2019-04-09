@@ -1,0 +1,77 @@
+{
+  "id": 1243412525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.18371,30.16484,50.18371,30.16484",
+    "geom:latitude":30.16484,
+    "geom:longitude":50.18371,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Amri",
+    "gn:country_code":"IR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":143699,
+    "gn:latitude":30.16484,
+    "gn:longitude":50.18371,
+    "gn:modification_date":"2018-05-29",
+    "gn:name":"Amri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0639\u0627\u0645\u0631\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u2018\u0100mer\u012b"
+    ],
+    "name:und_x_variant":[
+        "\u0100mer\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108719967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":143699,
+        "wk:page":"Ameri,_Tangestan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e6ae0bd4439b79736703fdc6598a9293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719967,
+            "locality_id":1243412525,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1243412525,
+    "wof:lastmodified":1537646201,
+    "wof:name":"Amri",
+    "wof:parent_id":1108719967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.18371,
+    30.16484,
+    50.18371,
+    30.16484
+],
+  "geometry": {"coordinates":[50.18371,30.16484],"type":"Point"}
+}

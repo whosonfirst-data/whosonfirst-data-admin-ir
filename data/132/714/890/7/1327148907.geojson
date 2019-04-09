@@ -1,0 +1,73 @@
+{
+  "id": 1327148907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.4837,28.4694,55.4837,28.4694",
+    "geom:latitude":28.4694,
+    "geom:longitude":55.4837,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Nasu'iyeh",
+    "gn:country_code":"IR",
+    "gn:dem":1436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6980076,
+    "gn:latitude":28.4694,
+    "gn:longitude":55.4837,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Nas\u016b\u2019\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0633\u0648\u0626\u06cc\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Nas\u016b\u2019\u012byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6980076
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d8fd204c26abf29ec9630568ef35d484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720045,
+            "locality_id":1327148907,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1327148907,
+    "wof:lastmodified":1537647810,
+    "wof:name":"Nasu'iyeh",
+    "wof:parent_id":1108720045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.4837,
+    28.4694,
+    55.4837,
+    28.4694
+],
+  "geometry": {"coordinates":[55.4837,28.4694],"type":"Point"}
+}

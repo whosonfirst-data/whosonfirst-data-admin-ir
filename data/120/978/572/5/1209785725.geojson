@@ -1,0 +1,78 @@
+{
+  "id": 1209785725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.1492,31.5351,48.1492,31.5351",
+    "geom:latitude":31.5351,
+    "geom:longitude":48.1492,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Malekiyeh-ye Sofla",
+    "gn:country_code":"IR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":125113,
+    "gn:latitude":31.5351,
+    "gn:longitude":48.1492,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"M\u0101lek\u012byeh-ye Sofl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0644\u06a9\u06cc\u0647 \u0633\u0641\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "M\u0101lek\u012byeh-ye Jon\u016bb\u012b",
+        "M\u0101lek\u012byeh-ye Sofl\u00e1"
+    ],
+    "name:und_x_variant":[
+        "M\u0101lek\u012byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":125113,
+        "wk:page":"Malekiyeh-ye_Sofla"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8a5301fc2cccbb149e29842ab5fc4203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719949,
+            "locality_id":1209785725,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1209785725,
+    "wof:lastmodified":1537644318,
+    "wof:name":"Malekiyeh-ye Sofla",
+    "wof:parent_id":1108719949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.1492,
+    31.5351,
+    48.1492,
+    31.5351
+],
+  "geometry": {"coordinates":[48.1492,31.5351],"type":"Point"}
+}

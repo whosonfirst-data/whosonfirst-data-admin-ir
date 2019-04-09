@@ -1,0 +1,79 @@
+{
+  "id": 1293321253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.12293,36.82156,58.12293,36.82156",
+    "geom:latitude":36.82156,
+    "geom:longitude":58.12293,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Malekabad",
+    "gn:country_code":"IR",
+    "gn:dem":1662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7189,
+    "gn:latitude":36.82156,
+    "gn:longitude":58.12293,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"M\u0101lek\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Malek Sh\u0101h"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0644\u06a9 \u0634\u0627\u0647",
+        "\u0645\u0627\u0644\u06a9 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u0645\u0644\u06a9 \u0634\u0627\u0647",
+        "M\u0101lek\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7189,
+        "wk:page":"Malekabad,_Khoshab"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a1b6198162a8476920ab992d689b76e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720367,
+            "locality_id":1293321253,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1293321253,
+    "wof:lastmodified":1537640359,
+    "wof:name":"Malekabad",
+    "wof:parent_id":1108720367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.12293,
+    36.82156,
+    58.12293,
+    36.82156
+],
+  "geometry": {"coordinates":[58.12293,36.82156],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276257815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.01598,36.95125,58.01598,36.95125",
+    "geom:latitude":36.95125,
+    "geom:longitude":58.01598,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Kharq",
+    "gn:country_code":"IR",
+    "gn:dem":1769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":127726,
+    "gn:latitude":36.95125,
+    "gn:longitude":58.01598,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Kharq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0631\u0642"
+    ],
+    "name:und_x_variant":[
+        "Darreh-ye Palang\u0101b\u0101d",
+        "Kharaq",
+        "\u062e\u0631\u0642",
+        "Kharq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672401,
+        1108720001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":127726
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2872dfa77f186ecb891bb659a8706509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720001,
+            "locality_id":1276257815,
+            "region_id":85672401
+        }
+    ],
+    "wof:id":1276257815,
+    "wof:lastmodified":1537644587,
+    "wof:name":"Kharq",
+    "wof:parent_id":1108720001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.01598000000001,
+    36.95125,
+    58.01598000000001,
+    36.95125
+],
+  "geometry": {"coordinates":[58.01598000000001,36.95125],"type":"Point"}
+}

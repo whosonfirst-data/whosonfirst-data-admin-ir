@@ -1,0 +1,76 @@
+{
+  "id": 1309869689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.9421,34.965,46.9421,34.965",
+    "geom:latitude":34.965,
+    "geom:longitude":46.9421,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Ta'ineh",
+    "gn:country_code":"IR",
+    "gn:dem":1604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":23376,
+    "gn:latitude":34.965,
+    "gn:longitude":46.9421,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"T\u0101\u2019\u012bneh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0626\u064a\u0646\u0650\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0627\u0626\u06cc\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "T\u0101\u2019\u012bneh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":23376
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3e0435ec7155b0fa2f3c3221c91221d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720099,
+            "locality_id":1309869689,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1309869689,
+    "wof:lastmodified":1537641201,
+    "wof:name":"Ta'ineh",
+    "wof:parent_id":1108720099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.9421,
+    34.965,
+    46.9421,
+    34.965
+],
+  "geometry": {"coordinates":[46.9421,34.965],"type":"Point"}
+}

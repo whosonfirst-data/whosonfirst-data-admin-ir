@@ -1,0 +1,67 @@
+{
+  "id": 1293460977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.48361,34.69778,46.48361,34.69778",
+    "geom:latitude":34.69778,
+    "geom:longitude":46.48361,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Darkeh",
+    "gn:country_code":"IR",
+    "gn:dem":1603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":25584,
+    "gn:latitude":34.69778,
+    "gn:longitude":46.48361,
+    "gn:modification_date":"1998-09-21",
+    "gn:name":"Darkeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":25584
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b0605e3595ad5544a7e36a683bd0fceb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720345,
+            "locality_id":1293460977,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1293460977,
+    "wof:lastmodified":1536824514,
+    "wof:name":"Darkeh",
+    "wof:parent_id":1108720345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.48361,
+    34.69778,
+    46.48361,
+    34.69778
+],
+  "geometry": {"coordinates":[46.48361,34.69778],"type":"Point"}
+}

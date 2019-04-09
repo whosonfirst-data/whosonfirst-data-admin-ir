@@ -1,0 +1,82 @@
+{
+  "id": 1193006065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.07222,27.36639,55.07222,27.36639",
+    "geom:latitude":27.36639,
+    "geom:longitude":55.07222,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Sar-e Tall",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":117054,
+    "gn:latitude":27.36639,
+    "gn:longitude":55.07222,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sar-e Tall",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u064e\u0631\u0650 \u062a\u064e\u0644\u0651"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u064e\u0631\u0650 \u062a\u064f\u0644",
+        "\u0633\u064e\u0631\u0650 \u062a\u064e\u0644",
+        "\u0633\u064e\u0631 \u062a\u064e\u0644"
+    ],
+    "name:und_x_variant":[
+        "Sar-e Tol",
+        "Sar Tal",
+        "Sar-e Tal",
+        "Sar-e Tall"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":117054
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2a33e6b19c1c5c668c15e0ba642999a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720127,
+            "locality_id":1193006065,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1193006065,
+    "wof:lastmodified":1537643502,
+    "wof:name":"Sar-e Tall",
+    "wof:parent_id":1108720127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.07222,
+    27.36639000000001,
+    55.07222,
+    27.36639000000001
+],
+  "geometry": {"coordinates":[55.07222,27.36639000000001],"type":"Point"}
+}

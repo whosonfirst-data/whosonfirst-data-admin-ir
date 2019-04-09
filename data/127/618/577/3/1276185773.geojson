@@ -1,0 +1,73 @@
+{
+  "id": 1276185773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.53219,29.96811,56.53219,29.96811",
+    "geom:latitude":29.96811,
+    "geom:longitude":56.53219,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Khalilabad",
+    "gn:country_code":"IR",
+    "gn:dem":2005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":128033,
+    "gn:latitude":29.96811,
+    "gn:longitude":56.53219,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Khal\u012bl\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062e\u0644\u06cc\u0644 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Khal\u012bl\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":128033
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4d4c8b9896a764bffc5cffa5e1a334dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719879,
+            "locality_id":1276185773,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1276185773,
+    "wof:lastmodified":1537644621,
+    "wof:name":"Khalilabad",
+    "wof:parent_id":1108719879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.53219,
+    29.96811,
+    56.53219,
+    29.96811
+],
+  "geometry": {"coordinates":[56.53219,29.96811],"type":"Point"}
+}

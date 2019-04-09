@@ -1,0 +1,71 @@
+{
+  "id": 1193060765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.46937,30.88069,53.46937,30.88069",
+    "geom:latitude":30.88069,
+    "geom:longitude":53.46937,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Heneshk",
+    "gn:country_code":"IR",
+    "gn:dem":1465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":131546,
+    "gn:latitude":30.88069,
+    "gn:longitude":53.46937,
+    "gn:modification_date":"2014-09-30",
+    "gn:name":"Heneshk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Heneshg",
+        "Heneshk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108719781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":131546
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dd243025726aca267f60f62a26434970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719781,
+            "locality_id":1193060765,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1193060765,
+    "wof:lastmodified":1537644980,
+    "wof:name":"Heneshk",
+    "wof:parent_id":1108719781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.46937,
+    30.88069,
+    53.46937,
+    30.88069
+],
+  "geometry": {"coordinates":[53.46937,30.88069],"type":"Point"}
+}

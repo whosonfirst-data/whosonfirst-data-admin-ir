@@ -1,0 +1,77 @@
+{
+  "id": 1293220885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.68834,29.8128,51.68834,29.8128",
+    "geom:latitude":29.8128,
+    "geom:longitude":51.68834,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Chekak",
+    "gn:country_code":"IR",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":130517,
+    "gn:latitude":29.8128,
+    "gn:longitude":51.68834,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Chekak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u06a9\u06a9"
+    ],
+    "name:und_x_variant":[
+        "Jakak",
+        "Chegak",
+        "Chekak",
+        "\u0686\u06a9\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":130517,
+        "wk:page":"Chekak"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a2666f44087507c7e4fcb524e24d8ae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720113,
+            "locality_id":1293220885,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1293220885,
+    "wof:lastmodified":1537644873,
+    "wof:name":"Chekak",
+    "wof:parent_id":1108720113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.68834,
+    29.8128,
+    51.68834,
+    29.8128
+],
+  "geometry": {"coordinates":[51.68834,29.8128],"type":"Point"}
+}

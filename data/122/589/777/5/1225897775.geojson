@@ -1,0 +1,73 @@
+{
+  "id": 1225897775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.07208,36.56738,51.07208,36.56738",
+    "geom:latitude":36.56738,
+    "geom:longitude":51.07208,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Zirgav",
+    "gn:country_code":"IR",
+    "gn:dem":1364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":950,
+    "gn:latitude":36.56738,
+    "gn:longitude":51.07208,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Z\u012brg\u0101v",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0632\u064a\u0631\u06af\u0627\u0648"
+    ],
+    "name:fas_x_variant":[
+        "Z\u012brg\u0101v"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":950
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"48d0d9eaa96b528928f0ddfae87f3637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720495,
+            "locality_id":1225897775,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1225897775,
+    "wof:lastmodified":1537640151,
+    "wof:name":"Zirgav",
+    "wof:parent_id":1108720495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.07208,
+    36.56738,
+    51.07208,
+    36.56738
+],
+  "geometry": {"coordinates":[51.07208,36.56738],"type":"Point"}
+}

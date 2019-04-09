@@ -1,0 +1,74 @@
+{
+  "id": 1226013557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.0607,29.0769,51.0607,29.0769",
+    "geom:latitude":29.0769,
+    "geom:longitude":51.0607,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ahmadi",
+    "gn:country_code":"IR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412754,
+    "gn:latitude":29.0769,
+    "gn:longitude":51.0607,
+    "gn:modification_date":"2018-05-30",
+    "gn:name":"A\u1e29mad\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u062d\u0645\u062f\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "A\u1e29mad\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108719917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412754,
+        "wk:page":"Ahmadi,_Dashtestan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2627ad33597b62b456e789a36acfb5a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719917,
+            "locality_id":1226013557,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1226013557,
+    "wof:lastmodified":1537646644,
+    "wof:name":"Ahmadi",
+    "wof:parent_id":1108719917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.0607,
+    29.0769,
+    51.0607,
+    29.0769
+],
+  "geometry": {"coordinates":[51.0607,29.0769],"type":"Point"}
+}

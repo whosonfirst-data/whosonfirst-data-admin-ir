@@ -1,0 +1,82 @@
+{
+  "id": 1259778679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.66405,37.20876,49.66405,37.20876",
+    "geom:latitude":37.20876,
+    "geom:longitude":49.66405,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Gil-e Pardesar",
+    "gn:country_code":"IR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":133039,
+    "gn:latitude":37.20876,
+    "gn:longitude":49.66405,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"G\u012bl-e Pardesar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "G\u012bleh Pordesar"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u06cc\u0644 \u067e\u0631\u062f\u0633\u0631",
+        "\u06af\u06cc\u0644 \u067e\u0631\u062f\u0647 \u0633\u0631"
+    ],
+    "name:und_x_variant":[
+        "Gulpardsar",
+        "G\u012bl-e Pardesar",
+        "Gul-Pardasar",
+        "Gol Pardehsar",
+        "Gol Pardsar",
+        "G\u012bl-e Pardeh Sar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":133039
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"003d33fb8cd2c7993a2ad1a0d3bd81a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720339,
+            "locality_id":1259778679,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1259778679,
+    "wof:lastmodified":1537645132,
+    "wof:name":"Gil-e Pardesar",
+    "wof:parent_id":1108720339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.66405,
+    37.20876,
+    49.66405,
+    37.20876
+],
+  "geometry": {"coordinates":[49.66405,37.20876],"type":"Point"}
+}

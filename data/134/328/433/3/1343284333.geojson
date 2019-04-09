@@ -1,0 +1,77 @@
+{
+  "id": 1343284333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.79936,31.02316,50.79936,31.02316",
+    "geom:latitude":31.02316,
+    "geom:longitude":50.79936,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kamak",
+    "gn:country_code":"IR",
+    "gn:dem":1882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":14468,
+    "gn:latitude":31.02316,
+    "gn:longitude":50.79936,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Kamak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Kamak-e \u2018Oly\u0101"
+    ],
+    "name:fas_x_variant":[
+        "Kamak-e Vos\u0163\u00e1",
+        "\u06a9\u0645\u06a9"
+    ],
+    "name:und_x_variant":[
+        "\u06a9\u0645\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108719911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":14468
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"018cabc519b32419522bf9a30b84ff59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719911,
+            "locality_id":1343284333,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1343284333,
+    "wof:lastmodified":1537640818,
+    "wof:name":"Kamak",
+    "wof:parent_id":1108719911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.79936,
+    31.02316,
+    50.79936,
+    31.02316
+],
+  "geometry": {"coordinates":[50.79936,31.02316],"type":"Point"}
+}

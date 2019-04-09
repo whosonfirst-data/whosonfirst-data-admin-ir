@@ -1,0 +1,75 @@
+{
+  "id": 1293089705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.0602,33.9152,46.0602,33.9152",
+    "geom:latitude":33.9152,
+    "geom:longitude":46.0602,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sayenri",
+    "gn:country_code":"IR",
+    "gn:dem":855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6212,
+    "gn:latitude":33.9152,
+    "gn:longitude":46.0602,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u0101yenr\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u06cc\u0646\u0631\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "S\u0101n Neyr\u012b",
+        "\u0633\u0627\u0646 \u0646\u0650\u064a\u0631\u06cc",
+        "S\u0101yenr\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108720065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6212
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"816bcc86ce4be9b4c86f0b5f70f8bbc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720065,
+            "locality_id":1293089705,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1293089705,
+    "wof:lastmodified":1537640325,
+    "wof:name":"Sayenri",
+    "wof:parent_id":1108720065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.0602,
+    33.9152,
+    46.0602,
+    33.9152
+],
+  "geometry": {"coordinates":[46.0602,33.9152],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1259467147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.06601,34.84398,48.06601,34.84398",
+    "geom:latitude":34.84398,
+    "geom:longitude":48.06601,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Charoq",
+    "gn:country_code":"IR",
+    "gn:dem":1840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":138975,
+    "gn:latitude":34.84398,
+    "gn:longitude":48.06601,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ch\u0101roq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0631\u064f\u0642"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u0627\u0631\u0650\u0642",
+        "Ch\u0101r\u016bq",
+        "Ch\u0101roq",
+        "\u0686\u0627\u0631\u0648\u0642",
+        "\u0686\u0627\u0631\u0642"
+    ],
+    "name:und_x_variant":[
+        "Ch\u0101req",
+        "\u0686\u0627\u0631\u0648\u0642"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108719829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":138975,
+        "wk:page":"Charoq"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b3457df5e835bae7a5985aeca530d4e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719829,
+            "locality_id":1259467147,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1259467147,
+    "wof:lastmodified":1537645730,
+    "wof:name":"Charoq",
+    "wof:parent_id":1108719829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.06601,
+    34.84398,
+    48.06601,
+    34.84398
+],
+  "geometry": {"coordinates":[48.06601,34.84398],"type":"Point"}
+}

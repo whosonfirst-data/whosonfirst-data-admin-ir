@@ -1,0 +1,73 @@
+{
+  "id": 1343318051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.0,33.86667,48.0,33.86667",
+    "geom:latitude":33.86667,
+    "geom:longitude":48.0,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Shokrabad",
+    "gn:country_code":"IR",
+    "gn:dem":1862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":27499,
+    "gn:latitude":33.86667,
+    "gn:longitude":48.0,
+    "gn:modification_date":"2010-08-09",
+    "gn:name":"Shokr\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u064f\u0643\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Shokr\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":27499
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0182fcf8f82cba6e8cc61ab26244870d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720411,
+            "locality_id":1343318051,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1343318051,
+    "wof:lastmodified":1537641478,
+    "wof:name":"Shokrabad",
+    "wof:parent_id":1108720411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.0,
+    33.86667,
+    48.0,
+    33.86667
+],
+  "geometry": {"coordinates":[48.0,33.86667],"type":"Point"}
+}

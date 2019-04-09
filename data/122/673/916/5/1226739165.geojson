@@ -1,0 +1,71 @@
+{
+  "id": 1226739165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.99889,34.03056,48.99889,34.03056",
+    "geom:latitude":34.03056,
+    "geom:longitude":48.99889,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Darreh Rast",
+    "gn:country_code":"IR",
+    "gn:dem":2219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":137523,
+    "gn:latitude":34.03056,
+    "gn:longitude":48.99889,
+    "gn:modification_date":"2018-06-29",
+    "gn:name":"Darreh R\u0101st",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u064e\u0631\u0650\u0651\u0647 \u0631\u0627\u0633\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":137523,
+        "wk:page":"Darreh_Rast"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1568133d4245d24c688d44f8b149ae30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720205,
+            "locality_id":1226739165,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1226739165,
+    "wof:lastmodified":1537645588,
+    "wof:name":"Darreh Rast",
+    "wof:parent_id":1108720205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.99889,
+    34.03055999999999,
+    48.99889,
+    34.03055999999999
+],
+  "geometry": {"coordinates":[48.99889,34.03055999999999],"type":"Point"}
+}

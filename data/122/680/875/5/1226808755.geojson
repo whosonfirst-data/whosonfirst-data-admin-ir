@@ -1,0 +1,73 @@
+{
+  "id": 1226808755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.34175,37.8457,48.34175,37.8457",
+    "geom:latitude":37.8457,
+    "geom:longitude":48.34175,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Aslanlu",
+    "gn:country_code":"IR",
+    "gn:dem":1540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6689234,
+    "gn:latitude":37.8457,
+    "gn:longitude":48.34175,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"A\u015fl\u0101nl\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0635\u0644\u0627\u0646\u0644\u0648"
+    ],
+    "name:fas_x_variant":[
+        "A\u015fl\u0101nl\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6689234
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"918b7a78e96b7936021370fb6f3e7efb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720167,
+            "locality_id":1226808755,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1226808755,
+    "wof:lastmodified":1537647425,
+    "wof:name":"Aslanlu",
+    "wof:parent_id":1108720167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.34175,
+    37.8457,
+    48.34175,
+    37.8457
+],
+  "geometry": {"coordinates":[48.34175,37.8457],"type":"Point"}
+}

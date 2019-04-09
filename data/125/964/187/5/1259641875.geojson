@@ -1,0 +1,73 @@
+{
+  "id": 1259641875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.4481,29.0282,51.4481,29.0282",
+    "geom:latitude":29.0282,
+    "geom:longitude":51.4481,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Quchi",
+    "gn:country_code":"IR",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6651718,
+    "gn:latitude":29.0282,
+    "gn:longitude":51.4481,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Q\u016bch\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0642\u0648\u0686\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Q\u016bch\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108719951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6651718
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"09923f04847b152cbdb079e91cf037d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719951,
+            "locality_id":1259641875,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1259641875,
+    "wof:lastmodified":1537647227,
+    "wof:name":"Quchi",
+    "wof:parent_id":1108719951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.4481,
+    29.0282,
+    51.4481,
+    29.0282
+],
+  "geometry": {"coordinates":[51.4481,29.0282],"type":"Point"}
+}

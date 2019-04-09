@@ -1,0 +1,64 @@
+{
+  "id": 1209505171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.86791,37.5458,48.86791,37.5458",
+    "geom:latitude":37.5458,
+    "geom:longitude":48.86791,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Andal",
+    "gn:country_code":"IR",
+    "gn:dem":917,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":37063,
+    "gn:latitude":37.5458,
+    "gn:longitude":48.86791,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Andal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u062f\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":37063
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6157cc88cd95353b889f1dbbe9f271b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209505171
+        }
+    ],
+    "wof:id":1209505171,
+    "wof:lastmodified":1537642056,
+    "wof:name":"Andal",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.86791,
+    37.5458,
+    48.86791,
+    37.5458
+],
+  "geometry": {"coordinates":[48.86791,37.5458],"type":"Point"}
+}

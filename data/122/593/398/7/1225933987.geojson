@@ -1,0 +1,80 @@
+{
+  "id": 1225933987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.9232,37.04404,49.9232,37.04404",
+    "geom:latitude":37.04404,
+    "geom:longitude":49.9232,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Lusha Deh",
+    "gn:country_code":"IR",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":28628,
+    "gn:latitude":37.04404,
+    "gn:longitude":49.9232,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"L\u016bsh\u0101 Deh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "L\u016bsh\u0101 Deh"
+    ],
+    "name:fas_x_variant":[
+        "L\u016bsh\u0101d\u012b",
+        "\u0644\u0648\u0634\u0627\u062f\u06cc",
+        "\u0644\u0648\u0634\u0627\u062f\u0647"
+    ],
+    "name:und_x_variant":[
+        "L\u016bsh\u0101d\u012b",
+        "\u0644\u0648\u0634\u0627\u062f\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":28628,
+        "wk:page":"Lusha_Deh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a6f528a849dbdd88833c9576d6cf3de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720459,
+            "locality_id":1225933987,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1225933987,
+    "wof:lastmodified":1537641559,
+    "wof:name":"Lusha Deh",
+    "wof:parent_id":1108720459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.9232,
+    37.04404,
+    49.9232,
+    37.04404
+],
+  "geometry": {"coordinates":[49.9232,37.04404],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260360761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.9868,34.3154,46.9868,34.3154",
+    "geom:latitude":34.3154,
+    "geom:longitude":46.9868,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Chavoshan",
+    "gn:country_code":"IR",
+    "gn:dem":1626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":24076,
+    "gn:latitude":34.3154,
+    "gn:longitude":46.9868,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ch\u0101vosh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0648\u0634\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Ch\u0101vosh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":24076,
+        "wk:page":"Chavoshan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a5cee269c8edf76854a61982e18b8547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720117,
+            "locality_id":1260360761,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1260360761,
+    "wof:lastmodified":1537641256,
+    "wof:name":"Chavoshan",
+    "wof:parent_id":1108720117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.9868,
+    34.3154,
+    46.9868,
+    34.3154
+],
+  "geometry": {"coordinates":[46.9868,34.3154],"type":"Point"}
+}

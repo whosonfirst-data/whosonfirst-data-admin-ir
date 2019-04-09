@@ -1,0 +1,73 @@
+{
+  "id": 1310083169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.1494,27.8774,56.1494,27.8774",
+    "geom:latitude":27.8774,
+    "geom:longitude":56.1494,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Bejtiyabi",
+    "gn:country_code":"IR",
+    "gn:dem":1221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6984345,
+    "gn:latitude":27.8774,
+    "gn:longitude":56.1494,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Bejt\u012by\u0101b\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u062c\u062a\u06cc\u06cc\u0627\u0628\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Bejt\u012by\u0101b\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108719863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6984345
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"61954ebc002f9d329147d1a895b6dda3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719863,
+            "locality_id":1310083169,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1310083169,
+    "wof:lastmodified":1537647839,
+    "wof:name":"Bejtiyabi",
+    "wof:parent_id":1108719863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.1494,
+    27.8774,
+    56.1494,
+    27.8774
+],
+  "geometry": {"coordinates":[56.1494,27.8774],"type":"Point"}
+}

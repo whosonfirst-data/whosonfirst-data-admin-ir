@@ -1,0 +1,79 @@
+{
+  "id": 1344139647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.50406,32.79107,48.50406,32.79107",
+    "geom:latitude":32.79107,
+    "geom:longitude":48.50406,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sarqala",
+    "gn:country_code":"IR",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11056003,
+    "gn:latitude":32.79107,
+    "gn:longitude":48.50406,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Sarqal\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0642\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0642\u0644\u0639\u0647 \u0634\u064a\u062e",
+        "\u0642\u0644\u0639\u0647 \u0634\u064a\u062e \u0645\u0627\u0632\u0648"
+    ],
+    "name:und_x_variant":[
+        "Sarqal\u0101",
+        "Qal\u2018eh-ye Sheykh",
+        "Qal\u2018eh-ye Sheykh M\u0101z\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11056003
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5bd2264c7ecb36fc9620ab3800205f79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719811,
+            "locality_id":1344139647,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1344139647,
+    "wof:lastmodified":1537648702,
+    "wof:name":"Sarqala",
+    "wof:parent_id":1108719811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.50406,
+    32.79107,
+    48.50406,
+    32.79107
+],
+  "geometry": {"coordinates":[48.50406,32.79107],"type":"Point"}
+}

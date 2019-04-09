@@ -1,0 +1,74 @@
+{
+  "id": 1193212509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.42542,36.49732,52.42542,36.49732",
+    "geom:latitude":36.49732,
+    "geom:longitude":52.42542,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Hashtal",
+    "gn:country_code":"IR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8795,
+    "gn:latitude":36.49732,
+    "gn:longitude":52.42542,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Hashtal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0647\u064e\u0634\u062a\u064e\u0644\u0650 \u067e\u0627\u0626\u064a\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Hashtal-e P\u0101\u2019\u012bn",
+        "\u0647\u0634\u062a\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8795
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"04419b2fdfd7c2bf879866191051304e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719807,
+            "locality_id":1193212509,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1193212509,
+    "wof:lastmodified":1537640457,
+    "wof:name":"Hashtal",
+    "wof:parent_id":1108719807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.42542,
+    36.49732,
+    52.42542,
+    36.49732
+],
+  "geometry": {"coordinates":[52.42542,36.49732],"type":"Point"}
+}

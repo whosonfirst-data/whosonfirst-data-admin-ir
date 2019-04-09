@@ -1,0 +1,80 @@
+{
+  "id": 1243310143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.74816,30.93524,56.74816,30.93524",
+    "geom:latitude":30.93524,
+    "geom:longitude":56.74816,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Bidan",
+    "gn:country_code":"IR",
+    "gn:dem":1939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":140659,
+    "gn:latitude":30.93524,
+    "gn:longitude":56.74816,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"B\u012bd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "B\u0101bb\u012bd\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "B\u012bd\u0101n",
+        "\u0628\u06cc\u062f\u0627\u0646",
+        "B\u012bd\u016bn"
+    ],
+    "name:und_x_variant":[
+        "B\u012bd\u0101n",
+        "B\u012bd\u016bn",
+        "\u0628\u06cc\u062f\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140659
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2c4a576ae1c7a0ff535fc4be7e58a0ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720523,
+            "locality_id":1243310143,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1243310143,
+    "wof:lastmodified":1537645897,
+    "wof:name":"Bidan",
+    "wof:parent_id":1108720523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.74816,
+    30.93524,
+    56.74816,
+    30.93524
+],
+  "geometry": {"coordinates":[56.74816,30.93524],"type":"Point"}
+}

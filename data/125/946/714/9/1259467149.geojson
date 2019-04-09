@@ -1,0 +1,78 @@
+{
+  "id": 1259467149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.14031,35.3007,49.14031,35.3007",
+    "geom:latitude":35.3007,
+    "geom:longitude":49.14031,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Kaj",
+    "gn:country_code":"IR",
+    "gn:dem":1798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":129616,
+    "gn:latitude":35.3007,
+    "gn:longitude":49.14031,
+    "gn:modification_date":"2018-07-02",
+    "gn:name":"K\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u062c"
+    ],
+    "name:fas_x_variant":[
+        "\u0643\u064e\u0686",
+        "K\u0101j"
+    ],
+    "name:und_x_variant":[
+        "Kach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":129616,
+        "wk:page":"Kaj,_Hamadan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b722ed823dcf3722e6c01c2ecf1477df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720349,
+            "locality_id":1259467149,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1259467149,
+    "wof:lastmodified":1537644777,
+    "wof:name":"Kaj",
+    "wof:parent_id":1108720349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.14031,
+    35.3007,
+    49.14031,
+    35.3007
+],
+  "geometry": {"coordinates":[49.14031,35.3007],"type":"Point"}
+}

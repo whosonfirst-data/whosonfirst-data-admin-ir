@@ -1,0 +1,76 @@
+{
+  "id": 1276172769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.15,38.68333,48.15,38.68333",
+    "geom:latitude":38.68333,
+    "geom:longitude":48.15,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Karamlu",
+    "gn:country_code":"IR",
+    "gn:dem":1640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":128734,
+    "gn:latitude":38.68333,
+    "gn:longitude":48.15,
+    "gn:modification_date":"2018-05-17",
+    "gn:name":"Karaml\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Karaml\u016b"
+    ],
+    "name:und_x_variant":[
+        "Karamshakli",
+        "Karam Chalk\u012b",
+        "Karam Sh\u0101hl\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":128734,
+        "wk:page":"Karamlu,_Ardabil"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"381e7823a7bb808f1a0cead4c4850e89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720237,
+            "locality_id":1276172769,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1276172769,
+    "wof:lastmodified":1537644691,
+    "wof:name":"Karamlu",
+    "wof:parent_id":1108720237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.15,
+    38.68333,
+    48.15,
+    38.68333
+],
+  "geometry": {"coordinates":[48.15,38.68333],"type":"Point"}
+}

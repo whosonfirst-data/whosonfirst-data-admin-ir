@@ -1,0 +1,74 @@
+{
+  "id": 1327072901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.56128,36.95571,54.56128,36.95571",
+    "geom:latitude":36.95571,
+    "geom:longitude":54.56128,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Pir Aghaj",
+    "gn:country_code":"IR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":39276,
+    "gn:latitude":36.95571,
+    "gn:longitude":54.56128,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"P\u012br \u0100gh\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0631 \u0622\u063a\u0627\u062c"
+    ],
+    "name:fas_x_variant":[
+        "P\u012br \u0100gh\u0101j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108719813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":39276,
+        "wk:page":"Pir_Aghach"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e7b096b189c73c0faa9325a9b222e179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719813,
+            "locality_id":1327072901,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1327072901,
+    "wof:lastmodified":1537642207,
+    "wof:name":"Pir Aghaj",
+    "wof:parent_id":1108719813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.56128,
+    36.95571,
+    54.56128,
+    36.95571
+],
+  "geometry": {"coordinates":[54.56128,36.95571],"type":"Point"}
+}

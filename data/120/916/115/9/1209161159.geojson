@@ -1,0 +1,67 @@
+{
+  "id": 1209161159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.34502,29.23118,57.34502,29.23118",
+    "geom:latitude":29.23118,
+    "geom:longitude":57.34502,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mahalleh-ye Eslamabad",
+    "gn:country_code":"IR",
+    "gn:dem":2605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9073390,
+    "gn:latitude":29.23118,
+    "gn:longitude":57.34502,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Ma\u1e29alleh-ye Esl\u0101m\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u062d\u0644\u0647 \u0627\u0633\u0644\u0627\u0645 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29alleh-ye Esl\u0101m\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9073390
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a68744fe5ece300a1dbae4e9b3b12ceb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209161159
+        }
+    ],
+    "wof:id":1209161159,
+    "wof:lastmodified":1537648621,
+    "wof:name":"Mahalleh-ye Eslamabad",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.34502,
+    29.23118,
+    57.34502,
+    29.23118
+],
+  "geometry": {"coordinates":[57.34502,29.23118],"type":"Point"}
+}

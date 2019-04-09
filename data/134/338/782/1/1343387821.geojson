@@ -1,0 +1,84 @@
+{
+  "id": 1343387821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.84301,36.01819,50.84301,36.01819",
+    "geom:latitude":36.01819,
+    "geom:longitude":50.84301,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Bineh",
+    "gn:country_code":"IR",
+    "gn:dem":1816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112283,
+    "gn:latitude":36.01819,
+    "gn:longitude":50.84301,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"B\u012bneh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0650\u0644\u0650\u064a\u064e\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Val\u012b\u0101n",
+        "\u0648\u0644\u064a\u0627\u0646",
+        "\u0628\u06cc\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "Vili\u0101n",
+        "Vel\u012b\u0101n",
+        "Valiyan",
+        "V\u012blau",
+        "Veleyan",
+        "\u0648\u0644\u064a\u0627\u0646",
+        "B\u012bneh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672415,
+        1108720409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112283
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"56b80f8dc9b10f128aeb374b3d0934ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720409,
+            "locality_id":1343387821,
+            "region_id":85672415
+        }
+    ],
+    "wof:id":1343387821,
+    "wof:lastmodified":1537643068,
+    "wof:name":"Bineh",
+    "wof:parent_id":1108720409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.84301,
+    36.01819000000001,
+    50.84301,
+    36.01819000000001
+],
+  "geometry": {"coordinates":[50.84301,36.01819000000001],"type":"Point"}
+}

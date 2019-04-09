@@ -1,0 +1,75 @@
+{
+  "id": 1326721309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.89,29.2274,53.89,29.2274",
+    "geom:latitude":29.2274,
+    "geom:longitude":53.89,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Damaneh",
+    "gn:country_code":"IR",
+    "gn:dem":1601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":44487,
+    "gn:latitude":29.2274,
+    "gn:longitude":53.89,
+    "gn:modification_date":"2018-06-26",
+    "gn:name":"D\u0101maneh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0645\u0646\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Dav\u0101neh",
+        "D\u0101maneh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108719987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":44487,
+        "wk:page":"Damaneh,_Fars"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f9ffa898435ff9b2c48551bc10dc58d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719987,
+            "locality_id":1326721309,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1326721309,
+    "wof:lastmodified":1537642496,
+    "wof:name":"Damaneh",
+    "wof:parent_id":1108719987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.89,
+    29.2274,
+    53.89,
+    29.2274
+],
+  "geometry": {"coordinates":[53.89,29.2274],"type":"Point"}
+}

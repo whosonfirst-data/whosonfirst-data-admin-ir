@@ -1,0 +1,73 @@
+{
+  "id": 1277048445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.4409,31.9824,49.4409,31.9824",
+    "geom:latitude":31.9824,
+    "geom:longitude":49.4409,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Por Surakh",
+    "gn:country_code":"IR",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6661655,
+    "gn:latitude":31.9824,
+    "gn:longitude":49.4409,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Por S\u016br\u0101kh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0631 \u0633\u0648\u0631\u0627\u062e"
+    ],
+    "name:fas_x_variant":[
+        "Por S\u016br\u0101kh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6661655
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9a6a45779db51cdebe7e9c5f2b3cd10e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720229,
+            "locality_id":1277048445,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1277048445,
+    "wof:lastmodified":1537647283,
+    "wof:name":"Por Surakh",
+    "wof:parent_id":1108720229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.4409,
+    31.9824,
+    49.4409,
+    31.9824
+],
+  "geometry": {"coordinates":[49.4409,31.9824],"type":"Point"}
+}

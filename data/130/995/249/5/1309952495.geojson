@@ -1,0 +1,76 @@
+{
+  "id": 1309952495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.89323,30.86975,56.89323,30.86975",
+    "geom:latitude":30.86975,
+    "geom:longitude":56.89323,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Hilkuyeh",
+    "gn:country_code":"IR",
+    "gn:dem":2045,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7625900,
+    "gn:latitude":30.86975,
+    "gn:longitude":56.89323,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"H\u012blk\u016byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "H\u012blk\u016byeh"
+    ],
+    "name:fas_x_variant":[
+        "\u0647\u06cc\u0644\u06a9\u0648\u06cc\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0647\u06cc\u0644\u06a9\u0648\u06cc\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7625900
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"96b4ec80540c1fe6eb0e6fcab12316c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720523,
+            "locality_id":1309952495,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1309952495,
+    "wof:lastmodified":1537648470,
+    "wof:name":"Hilkuyeh",
+    "wof:parent_id":1108720523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.89323,
+    30.86975,
+    56.89323,
+    30.86975
+],
+  "geometry": {"coordinates":[56.89323,30.86975],"type":"Point"}
+}

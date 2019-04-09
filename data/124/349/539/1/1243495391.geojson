@@ -1,0 +1,74 @@
+{
+  "id": 1243495391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.5226,38.7858,45.5226,38.7858",
+    "geom:latitude":38.7858,
+    "geom:longitude":45.5226,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Qal`eh Zir",
+    "gn:country_code":"IR",
+    "gn:dem":1567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":388571,
+    "gn:latitude":38.7858,
+    "gn:longitude":45.5226,
+    "gn:modification_date":"2014-01-14",
+    "gn:name":"Qal\u2018eh Z\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0639\u0647 \u0632\u06cc\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Qal\u2018eh R\u012bz",
+        "Qal\u2018eh Z\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388571
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"011d09078b44d3b55c62ea89cec3d878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720083,
+            "locality_id":1243495391,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1243495391,
+    "wof:lastmodified":1537646454,
+    "wof:name":"Qal`eh Zir",
+    "wof:parent_id":1108720083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.5226,
+    38.7858,
+    45.5226,
+    38.7858
+],
+  "geometry": {"coordinates":[45.5226,38.7858],"type":"Point"}
+}

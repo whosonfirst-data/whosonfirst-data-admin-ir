@@ -1,0 +1,67 @@
+{
+  "id": 1242774511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.63389,38.39361,48.63389,38.39361",
+    "geom:latitude":38.39361,
+    "geom:longitude":48.63389,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sidzh",
+    "gn:country_code":"IR",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388812,
+    "gn:latitude":38.39361,
+    "gn:longitude":48.63389,
+    "gn:modification_date":"1996-01-29",
+    "gn:name":"Sidzh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108719835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388812
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"55b13a7b17f1deab026e63ca88dbc3fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719835,
+            "locality_id":1242774511,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1242774511,
+    "wof:lastmodified":1536780611,
+    "wof:name":"Sidzh",
+    "wof:parent_id":1108719835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.63389,
+    38.39361,
+    48.63389,
+    38.39361
+],
+  "geometry": {"coordinates":[48.63389,38.39361],"type":"Point"}
+}

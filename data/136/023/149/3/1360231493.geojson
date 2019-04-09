@@ -1,0 +1,76 @@
+{
+  "id": 1360231493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.66596,29.59135,56.66596,29.59135",
+    "geom:latitude":29.59135,
+    "geom:longitude":56.66596,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Chaman Rang",
+    "gn:country_code":"IR",
+    "gn:dem":2493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":43558,
+    "gn:latitude":29.59135,
+    "gn:longitude":56.66596,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Chaman Rang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0645\u0646 \u0631\u0646\u06af"
+    ],
+    "name:und_x_variant":[
+        "Chamanrang",
+        "Chaman Rang",
+        "Rang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":43558,
+        "wk:page":"Chamanrang"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"94c264b4438cd0d081ff58f242e31add",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719879,
+            "locality_id":1360231493,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1360231493,
+    "wof:lastmodified":1537642458,
+    "wof:name":"Chaman Rang",
+    "wof:parent_id":1108719879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.66596,
+    29.59135,
+    56.66596,
+    29.59135
+],
+  "geometry": {"coordinates":[56.66596,29.59135],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1193204257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.748,36.694,52.748,36.694",
+    "geom:latitude":36.694,
+    "geom:longitude":52.748,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Ganeh",
+    "gn:country_code":"IR",
+    "gn:dem":-21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":129219,
+    "gn:latitude":36.694,
+    "gn:longitude":52.748,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"G\u0101neh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0627\u0644\u0650\u0647"
+    ],
+    "name:fas_x_variant":[
+        "K\u0101leh",
+        "G\u0101neh",
+        "\u06af\u0627\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":129219
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e9e5078059ce95b6a876e9f003be1ebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719847,
+            "locality_id":1193204257,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1193204257,
+    "wof:lastmodified":1537644740,
+    "wof:name":"Ganeh",
+    "wof:parent_id":1108719847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.74800000000001,
+    36.694,
+    52.74800000000001,
+    36.694
+],
+  "geometry": {"coordinates":[52.74800000000001,36.694],"type":"Point"}
+}

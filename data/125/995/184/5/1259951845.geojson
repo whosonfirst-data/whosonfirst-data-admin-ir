@@ -1,0 +1,77 @@
+{
+  "id": 1259951845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.5015,36.0015,46.5015,36.0015",
+    "geom:latitude":36.0015,
+    "geom:longitude":46.5015,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Masidar-e Soleyman",
+    "gn:country_code":"IR",
+    "gn:dem":1767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6648319,
+    "gn:latitude":36.0015,
+    "gn:longitude":46.5015,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"M\u0101s\u012bdar-e Soleym\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0633\u06cc\u062f\u0631 \u0633\u0644\u06cc\u0645\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "M\u0101s\u012bdar-e Soleym\u0101n",
+        "\u0645\u0627\u0647\u06cc\u062f\u0631 \u0633\u0641\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "M\u0101h\u012bdar-e Sofl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6648319
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"da3038153de81e082d58a10e2c4d88ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720381,
+            "locality_id":1259951845,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1259951845,
+    "wof:lastmodified":1537647176,
+    "wof:name":"Masidar-e Soleyman",
+    "wof:parent_id":1108720381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.5015,
+    36.0015,
+    46.5015,
+    36.0015
+],
+  "geometry": {"coordinates":[46.5015,36.0015],"type":"Point"}
+}

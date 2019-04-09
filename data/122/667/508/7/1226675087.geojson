@@ -1,0 +1,80 @@
+{
+  "id": 1226675087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.99177,36.9049,57.99177,36.9049",
+    "geom:latitude":36.9049,
+    "geom:longitude":57.99177,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Qarzi",
+    "gn:country_code":"IR",
+    "gn:dem":1656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7162,
+    "gn:latitude":36.9049,
+    "gn:longitude":57.99177,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Q\u0101r\u1e95\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Q\u0101r\u1e95\u012b"
+    ],
+    "name:fas_x_variant":[
+        "Q\u0101rz\u012b B\u0101m",
+        "\u0642\u0627\u0631\u0636\u06cc",
+        "\u0642\u0627\u0631\u0636\u06cc \u06a9\u0631\u062c\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Q\u0101rz\u012b",
+        "\u0642\u0627\u0631\u0636\u06cc",
+        "Q\u0101r\u1e95\u012b Karaj\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672401,
+        1108719979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7162
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e98d3d9b7124f63ee7e7b90372765955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719979,
+            "locality_id":1226675087,
+            "region_id":85672401
+        }
+    ],
+    "wof:id":1226675087,
+    "wof:lastmodified":1537640356,
+    "wof:name":"Qarzi",
+    "wof:parent_id":1108719979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.99177,
+    36.9049,
+    57.99177,
+    36.9049
+],
+  "geometry": {"coordinates":[57.99177,36.9049],"type":"Point"}
+}

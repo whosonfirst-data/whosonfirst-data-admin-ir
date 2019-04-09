@@ -1,0 +1,76 @@
+{
+  "id": 1242864263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.06868,37.27339,50.06868,37.27339",
+    "geom:latitude":37.27339,
+    "geom:longitude":50.06868,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Gaviyeh",
+    "gn:country_code":"IR",
+    "gn:dem":-15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7622134,
+    "gn:latitude":37.27339,
+    "gn:longitude":50.06868,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"G\u0101v\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "G\u0101v\u012byeh"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u0627\u0648\u06cc\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u06af\u0627\u0648\u06cc\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7622134
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"54979eac4b3c97be9b49e4967d652560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720173,
+            "locality_id":1242864263,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1242864263,
+    "wof:lastmodified":1537648435,
+    "wof:name":"Gaviyeh",
+    "wof:parent_id":1108720173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.06868,
+    37.27339,
+    50.06868,
+    37.27339
+],
+  "geometry": {"coordinates":[50.06868,37.27339],"type":"Point"}
+}

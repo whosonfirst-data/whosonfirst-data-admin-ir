@@ -1,0 +1,73 @@
+{
+  "id": 1326881355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.63333,31.25,54.63333,31.25",
+    "geom:latitude":31.25,
+    "geom:longitude":54.63333,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Chah Puzeh",
+    "gn:country_code":"IR",
+    "gn:dem":1739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":68807,
+    "gn:latitude":31.25,
+    "gn:longitude":54.63333,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Ch\u0101h P\u016bzeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0647 \u067e\u0648\u0632\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Ch\u0101h P\u016bzeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108720235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":68807
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"456c3d4c1d647162ceab71897a03d539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720235,
+            "locality_id":1326881355,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1326881355,
+    "wof:lastmodified":1537642890,
+    "wof:name":"Chah Puzeh",
+    "wof:parent_id":1108720235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.63333000000001,
+    31.25,
+    54.63333000000001,
+    31.25
+],
+  "geometry": {"coordinates":[54.63333000000001,31.25],"type":"Point"}
+}

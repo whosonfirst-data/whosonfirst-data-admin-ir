@@ -1,0 +1,78 @@
+{
+  "id": 1243427215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.73164,32.0404,49.73164,32.0404",
+    "geom:latitude":32.0404,
+    "geom:longitude":49.73164,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Sartang-e Davudi",
+    "gn:country_code":"IR",
+    "gn:dem":788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":116779,
+    "gn:latitude":32.0404,
+    "gn:longitude":49.73164,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Sartang-e D\u0101v\u016bd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631 \u062a\u0646\u06af"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0631\u062a\u0646\u06af \u062f\u0627\u0648\u0648\u062f\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Sar Tang",
+        "\u0633\u0631 \u062a\u0646\u06af",
+        "Sartang-e D\u0101v\u016bd\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":116779
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5efc59ea94f6a36d5f64a7b914d9abc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720067,
+            "locality_id":1243427215,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1243427215,
+    "wof:lastmodified":1537643476,
+    "wof:name":"Sartang-e Davudi",
+    "wof:parent_id":1108720067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.73164000000001,
+    32.0404,
+    49.73164000000001,
+    32.0404
+],
+  "geometry": {"coordinates":[49.73164000000001,32.0404],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242634445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.50882,36.38239,55.50882,36.38239",
+    "geom:latitude":36.38239,
+    "geom:longitude":55.50882,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Judaneh",
+    "gn:country_code":"IR",
+    "gn:dem":1235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7781826,
+    "gn:latitude":36.38239,
+    "gn:longitude":55.50882,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"J\u016bd\u0101neh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "J\u016bd\u0101neh"
+    ],
+    "name:fas_x_variant":[
+        "\u062c\u0648\u062f\u0627\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672309,
+        1108720441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7781826,
+        "wk:page":"Judaneh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8d4db9a0384ce2cf3d34a7efbc8695c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720441,
+            "locality_id":1242634445,
+            "region_id":85672309
+        }
+    ],
+    "wof:id":1242634445,
+    "wof:lastmodified":1537648496,
+    "wof:name":"Judaneh",
+    "wof:parent_id":1108720441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.50881999999999,
+    36.38239,
+    55.50881999999999,
+    36.38239
+],
+  "geometry": {"coordinates":[55.50881999999999,36.38239],"type":"Point"}
+}

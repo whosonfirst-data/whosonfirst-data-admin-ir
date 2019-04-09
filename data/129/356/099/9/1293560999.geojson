@@ -1,0 +1,74 @@
+{
+  "id": 1293560999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.85335,36.27079,46.85335,36.27079",
+    "geom:latitude":36.27079,
+    "geom:longitude":46.85335,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Karaftu",
+    "gn:country_code":"IR",
+    "gn:dem":1991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":128749,
+    "gn:latitude":36.27079,
+    "gn:longitude":46.85335,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Karaft\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0631\u0641\u062a\u0648"
+    ],
+    "name:fas_x_variant":[
+        "Karaft\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108719971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":128749,
+        "wk:page":"Karaftu"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"85cf5e5f9f9498cac2c9ae6abfe228e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719971,
+            "locality_id":1293560999,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1293560999,
+    "wof:lastmodified":1537644692,
+    "wof:name":"Karaftu",
+    "wof:parent_id":1108719971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.85335,
+    36.27079000000001,
+    46.85335,
+    36.27079000000001
+],
+  "geometry": {"coordinates":[46.85335,36.27079000000001],"type":"Point"}
+}

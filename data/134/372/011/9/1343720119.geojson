@@ -1,0 +1,76 @@
+{
+  "id": 1343720119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.44549,33.29665,48.44549,33.29665",
+    "geom:latitude":33.29665,
+    "geom:longitude":48.44549,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Taf",
+    "gn:country_code":"IR",
+    "gn:dem":1785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":113641,
+    "gn:latitude":33.29665,
+    "gn:longitude":48.44549,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"T\u0101f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "T\u0101f"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0627\u0641"
+    ],
+    "name:und_x_variant":[
+        "\u062a\u0627\u0641"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":113641
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6b4049a569a1b5f87a4d36836a1ef9e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720145,
+            "locality_id":1343720119,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1343720119,
+    "wof:lastmodified":1537643206,
+    "wof:name":"Taf",
+    "wof:parent_id":1108720145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.44549,
+    33.29665,
+    48.44549,
+    33.29665
+],
+  "geometry": {"coordinates":[48.44549,33.29665],"type":"Point"}
+}

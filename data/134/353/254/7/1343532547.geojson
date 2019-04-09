@@ -1,0 +1,74 @@
+{
+  "id": 1343532547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.68981,34.55912,47.68981,34.55912",
+    "geom:latitude":34.55912,
+    "geom:longitude":47.68981,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Sar Dehlaq",
+    "gn:country_code":"IR",
+    "gn:dem":1824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":23453,
+    "gn:latitude":34.55912,
+    "gn:longitude":47.68981,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Sar Dehlaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631 \u062f\u0647\u0644\u0642"
+    ],
+    "name:fas_x_variant":[
+        "Sardehl\u0101q"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":23453,
+        "wk:page":"Sar_Dehlaq"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8e7a4318c7bc149fd53e72197c5796e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720371,
+            "locality_id":1343532547,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1343532547,
+    "wof:lastmodified":1537641207,
+    "wof:name":"Sar Dehlaq",
+    "wof:parent_id":1108720371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.68981,
+    34.55912,
+    47.68981,
+    34.55912
+],
+  "geometry": {"coordinates":[47.68981,34.55912],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1343429719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.529,28.9016,51.529,28.9016",
+    "geom:latitude":28.9016,
+    "geom:longitude":51.529,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Khun",
+    "gn:country_code":"IR",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":127165,
+    "gn:latitude":28.9016,
+    "gn:longitude":51.529,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kh\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u062e\u064f\u0651\u0646",
+        "Kh\u016bn"
+    ],
+    "name:und_x_variant":[
+        "Khoon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108719951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":127165
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"842c446fbec4fd09588f213d16191371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719951,
+            "locality_id":1343429719,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1343429719,
+    "wof:lastmodified":1537644530,
+    "wof:name":"Khun",
+    "wof:parent_id":1108719951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.529,
+    28.9016,
+    51.529,
+    28.9016
+],
+  "geometry": {"coordinates":[51.529,28.9016],"type":"Point"}
+}

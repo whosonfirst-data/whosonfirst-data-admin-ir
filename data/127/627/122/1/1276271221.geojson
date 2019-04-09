@@ -1,0 +1,75 @@
+{
+  "id": 1276271221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.07953,37.29748,46.07953,37.29748",
+    "geom:latitude":37.29748,
+    "geom:longitude":46.07953,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Zavaraq",
+    "gn:country_code":"IR",
+    "gn:dem":1296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":17591,
+    "gn:latitude":37.29748,
+    "gn:longitude":46.07953,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Zav\u0101raq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u0627\u0631\u0642"
+    ],
+    "name:fas_x_variant":[
+        "T\u0101zeh Kand-e Zav\u0101raq",
+        "Zav\u0101raq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108719899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":17591,
+        "wk:page":"Zavaraq"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"40d01dfe4f3f667178f2334138adcd1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719899,
+            "locality_id":1276271221,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1276271221,
+    "wof:lastmodified":1537640967,
+    "wof:name":"Zavaraq",
+    "wof:parent_id":1108719899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.07953,
+    37.29748,
+    46.07953,
+    37.29748
+],
+  "geometry": {"coordinates":[46.07953,37.29748],"type":"Point"}
+}

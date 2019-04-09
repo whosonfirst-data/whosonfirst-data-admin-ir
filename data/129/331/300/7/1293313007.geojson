@@ -1,0 +1,70 @@
+{
+  "id": 1293313007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.04778,28.92556,52.04778,28.92556",
+    "geom:latitude":28.92556,
+    "geom:longitude":52.04778,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Habeh",
+    "gn:country_code":"IR",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":45589,
+    "gn:latitude":28.92556,
+    "gn:longitude":52.04778,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28abeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u1e28abeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108719991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":45589
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a7327726ab5fc0a6e1eb4dffe22dacce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719991,
+            "locality_id":1293313007,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1293313007,
+    "wof:lastmodified":1537642549,
+    "wof:name":"Habeh",
+    "wof:parent_id":1108719991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.04778,
+    28.92556,
+    52.04778,
+    28.92556
+],
+  "geometry": {"coordinates":[52.04778,28.92556],"type":"Point"}
+}

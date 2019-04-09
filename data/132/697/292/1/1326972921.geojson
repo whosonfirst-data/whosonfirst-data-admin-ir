@@ -1,0 +1,77 @@
+{
+  "id": 1326972921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.82646,36.76441,54.82646,36.76441",
+    "geom:latitude":36.76441,
+    "geom:longitude":54.82646,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Nersu",
+    "gn:country_code":"IR",
+    "gn:dem":1251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":39661,
+    "gn:latitude":36.76441,
+    "gn:longitude":54.82646,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"Ners\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Ners\u016b"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0631\u0633\u0648"
+    ],
+    "name:und_x_variant":[
+        "\u0646\u0631\u0633\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108719799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":39661,
+        "wk:page":"Nersu"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4665f6131aba7da504453182bd62f673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719799,
+            "locality_id":1326972921,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1326972921,
+    "wof:lastmodified":1537642224,
+    "wof:name":"Nersu",
+    "wof:parent_id":1108719799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.82646,
+    36.76441,
+    54.82646,
+    36.76441
+],
+  "geometry": {"coordinates":[54.82646,36.76441],"type":"Point"}
+}

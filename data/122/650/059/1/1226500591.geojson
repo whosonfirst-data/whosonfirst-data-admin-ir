@@ -1,0 +1,74 @@
+{
+  "id": 1226500591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.6078,34.08,47.6078,34.08",
+    "geom:latitude":34.08,
+    "geom:longitude":47.6078,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Sormeh",
+    "gn:country_code":"IR",
+    "gn:dem":1577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":113898,
+    "gn:latitude":34.08,
+    "gn:longitude":47.6078,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sormeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u064f\u0631\u0645\u0650\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0631\u0645\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":113898,
+        "wk:page":"Sormeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e23932cc197427e36eef047e2fd9a476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719959,
+            "locality_id":1226500591,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1226500591,
+    "wof:lastmodified":1537643232,
+    "wof:name":"Sormeh",
+    "wof:parent_id":1108719959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.6078,
+    34.08,
+    47.6078,
+    34.08
+],
+  "geometry": {"coordinates":[47.6078,34.08],"type":"Point"}
+}

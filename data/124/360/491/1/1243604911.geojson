@@ -1,0 +1,77 @@
+{
+  "id": 1243604911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.50053,31.03753,51.50053,31.03753",
+    "geom:latitude":31.03753,
+    "geom:longitude":51.50053,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Khineh",
+    "gn:country_code":"IR",
+    "gn:dem":2174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":127445,
+    "gn:latitude":31.03753,
+    "gn:longitude":51.50053,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kh\u012bneh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Kh\u012bneh"
+    ],
+    "name:fas_x_variant":[
+        "\u062e\u06cc\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u062e\u06cc\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":127445,
+        "wk:page":"Khineh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9f9b1db902a98b04f73e461af8cacf9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720415,
+            "locality_id":1243604911,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1243604911,
+    "wof:lastmodified":1537644561,
+    "wof:name":"Khineh",
+    "wof:parent_id":1108720415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.50053,
+    31.03753,
+    51.50053,
+    31.03753
+],
+  "geometry": {"coordinates":[51.50053,31.03753],"type":"Point"}
+}

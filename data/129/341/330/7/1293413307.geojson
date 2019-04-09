@@ -1,0 +1,70 @@
+{
+  "id": 1293413307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.0,27.65,60.0,27.65",
+    "geom:latitude":27.65,
+    "geom:longitude":60.0,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Espidez",
+    "gn:country_code":"IR",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1114508,
+    "gn:latitude":27.65,
+    "gn:longitude":60.0,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Esp\u012bdez",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Esp\u012bdez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1114508
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1394d4a9b304c7183bf56d7bca258380",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720063,
+            "locality_id":1293413307,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1293413307,
+    "wof:lastmodified":1537646917,
+    "wof:name":"Espidez",
+    "wof:parent_id":1108720063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.0,
+    27.65,
+    60.0,
+    27.65
+],
+  "geometry": {"coordinates":[60.0,27.65],"type":"Point"}
+}

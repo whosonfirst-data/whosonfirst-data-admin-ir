@@ -1,0 +1,73 @@
+{
+  "id": 1259931899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.93611,36.95722,54.93611,36.95722",
+    "geom:latitude":36.95722,
+    "geom:longitude":54.93611,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Aqsanabad",
+    "gn:country_code":"IR",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":39621,
+    "gn:latitude":36.95722,
+    "gn:longitude":54.93611,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u0100qsan\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0642\u0633\u064e\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0100qsan\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":39621
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d1b2661940d7dee6ccc20b2ff4f68d1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720337,
+            "locality_id":1259931899,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1259931899,
+    "wof:lastmodified":1537642223,
+    "wof:name":"Aqsanabad",
+    "wof:parent_id":1108720337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.93611,
+    36.95722,
+    54.93611,
+    36.95722
+],
+  "geometry": {"coordinates":[54.93611,36.95722],"type":"Point"}
+}

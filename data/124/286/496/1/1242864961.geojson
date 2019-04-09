@@ -1,0 +1,79 @@
+{
+  "id": 1242864961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.2133,28.68,55.2133,28.68",
+    "geom:latitude":28.68,
+    "geom:longitude":55.2133,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Ow Khungu",
+    "gn:country_code":"IR",
+    "gn:dem":1751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6980389,
+    "gn:latitude":28.68,
+    "gn:longitude":55.2133,
+    "gn:modification_date":"2013-11-12",
+    "gn:name":"Ow Kh\u016bng\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0647 \u062e\u0627\u0646\u06af\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Ch\u0101h Kh\u0101ngeh",
+        "\u0627\u0648 \u062e\u0648\u0646\u06af\u0648",
+        "\u0686\u0627\u0647 \u062e\u0646\u06af\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Ow Kh\u016bng\u016b",
+        "Ch\u0101h Khang\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108719939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6980389
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"379bd42660271446e7afb2b8f3ac61e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719939,
+            "locality_id":1242864961,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1242864961,
+    "wof:lastmodified":1537647817,
+    "wof:name":"Ow Khungu",
+    "wof:parent_id":1108719939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.2133,
+    28.68,
+    55.2133,
+    28.68
+],
+  "geometry": {"coordinates":[55.2133,28.68],"type":"Point"}
+}

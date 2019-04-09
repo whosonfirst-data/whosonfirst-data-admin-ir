@@ -1,0 +1,76 @@
+{
+  "id": 1259513017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.36612,33.96389,57.36612,33.96389",
+    "geom:latitude":33.96389,
+    "geom:longitude":57.36612,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Shahrak-e Emam Khomeyni",
+    "gn:country_code":"IR",
+    "gn:dem":859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7596016,
+    "gn:latitude":33.96389,
+    "gn:longitude":57.36612,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Shahrak-e Em\u0101m Khomeyn\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Shahrak-e Em\u0101m Khomeyn\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u0647\u0631\u06a9 \u0627\u0645\u0627\u0645 \u062e\u0645\u06cc\u0646\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0634\u0647\u0631\u06a9 \u0627\u0645\u0627\u0645 \u062e\u0645\u06cc\u0646\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108720005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7596016
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"03aeaf6a26daa859d0462c020977fae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720005,
+            "locality_id":1259513017,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1259513017,
+    "wof:lastmodified":1537648384,
+    "wof:name":"Shahrak-e Emam Khomeyni",
+    "wof:parent_id":1108720005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.36612,
+    33.96389,
+    57.36612,
+    33.96389
+],
+  "geometry": {"coordinates":[57.36612,33.96389],"type":"Point"}
+}

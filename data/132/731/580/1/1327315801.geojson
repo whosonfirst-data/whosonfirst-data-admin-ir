@@ -1,0 +1,82 @@
+{
+  "id": 1327315801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.03704,35.12226,47.03704,35.12226",
+    "geom:latitude":35.12226,
+    "geom:longitude":47.03704,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Bureh Ban",
+    "gn:country_code":"IR",
+    "gn:dem":1598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":139849,
+    "gn:latitude":35.12226,
+    "gn:longitude":47.03704,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"B\u016breh B\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u0628\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "B\u016breb\u0101n",
+        "B\u016brb\u0101n",
+        "\u0628\u0648\u0631\u0647 \u0628\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "B\u016braw\u0101n",
+        "Boorban",
+        "B\u016bry\u0101n",
+        "B\u016brv\u0101n",
+        "B\u016breh B\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":139849
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1e46de6be1afd890a0b5924d60879ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720379,
+            "locality_id":1327315801,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1327315801,
+    "wof:lastmodified":1537645815,
+    "wof:name":"Bureh Ban",
+    "wof:parent_id":1108720379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.03704000000001,
+    35.12226,
+    47.03704000000001,
+    35.12226
+],
+  "geometry": {"coordinates":[47.03704000000001,35.12226],"type":"Point"}
+}

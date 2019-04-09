@@ -1,0 +1,73 @@
+{
+  "id": 1259933559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.27075,36.6073,52.27075,36.6073",
+    "geom:latitude":36.6073,
+    "geom:longitude":52.27075,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Talik-e Sar",
+    "gn:country_code":"IR",
+    "gn:dem":-17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8578,
+    "gn:latitude":36.6073,
+    "gn:longitude":52.27075,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Tal\u012bk-e Sar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0644\u064a\u06a9 \u0633\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Tal\u012bk-e Sar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8578
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c18b59122ee00a5011f9423e869bfe34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720199,
+            "locality_id":1259933559,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1259933559,
+    "wof:lastmodified":1537640438,
+    "wof:name":"Talik-e Sar",
+    "wof:parent_id":1108720199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.27075,
+    36.6073,
+    52.27075,
+    36.6073
+],
+  "geometry": {"coordinates":[52.27075,36.6073],"type":"Point"}
+}

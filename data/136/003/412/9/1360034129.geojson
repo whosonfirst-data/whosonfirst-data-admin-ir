@@ -1,0 +1,78 @@
+{
+  "id": 1360034129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.39152,37.43055,48.39152,37.43055",
+    "geom:latitude":37.43055,
+    "geom:longitude":48.39152,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Bildeh",
+    "gn:country_code":"IR",
+    "gn:dem":1628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":36824,
+    "gn:latitude":37.43055,
+    "gn:longitude":48.39152,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"B\u012bldeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0628\u064a\u0644\u0647 \u062f\u0647"
+    ],
+    "name:fas_x_variant":[
+        "B\u012bleh Deh",
+        "\u0628\u06cc\u0644\u062f\u0647"
+    ],
+    "name:und_x_variant":[
+        "B\u012bldeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":36824,
+        "wk:page":"Bileh_Deh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"61e1e0533600bdb09206fd0a16073611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720123,
+            "locality_id":1360034129,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1360034129,
+    "wof:lastmodified":1537642038,
+    "wof:name":"Bildeh",
+    "wof:parent_id":1108720123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.39152,
+    37.43055,
+    48.39152,
+    37.43055
+],
+  "geometry": {"coordinates":[48.39152,37.43055],"type":"Point"}
+}

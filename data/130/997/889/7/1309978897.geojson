@@ -1,0 +1,73 @@
+{
+  "id": 1309978897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.56378,31.35781,48.56378,31.35781",
+    "geom:latitude":31.35781,
+    "geom:longitude":48.56378,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Omm-e Ahyal",
+    "gn:country_code":"IR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11244728,
+    "gn:latitude":31.35781,
+    "gn:longitude":48.56378,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Omm-e Ahy\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0645 \u0627\u0647\u06cc\u0627\u0644"
+    ],
+    "name:und_x_variant":[
+        "Omm-e Ahy\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11244728
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6c4fe633a550c390d10460fb160b1b2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719793,
+            "locality_id":1309978897,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1309978897,
+    "wof:lastmodified":1537648756,
+    "wof:name":"Omm-e Ahyal",
+    "wof:parent_id":1108719793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.56378,
+    31.35781,
+    48.56378,
+    31.35781
+],
+  "geometry": {"coordinates":[48.56378,31.35781],"type":"Point"}
+}

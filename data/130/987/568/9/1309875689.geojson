@@ -1,0 +1,73 @@
+{
+  "id": 1309875689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.64178,30.69986,48.64178,30.69986",
+    "geom:latitude":30.69986,
+    "geom:longitude":48.64178,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Shabishi-ye Bozorg",
+    "gn:country_code":"IR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11242761,
+    "gn:latitude":30.69986,
+    "gn:longitude":48.64178,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Shab\u012bsh\u012b-ye Bozorg",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0628\u06cc\u0634\u06cc \u0628\u0632\u0631\u06af"
+    ],
+    "name:und_x_variant":[
+        "Shab\u012bsh\u012b-ye Bozorg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11242761
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bdff6c8e46969002bb90322ee002dfb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720425,
+            "locality_id":1309875689,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1309875689,
+    "wof:lastmodified":1537648755,
+    "wof:name":"Shabishi-ye Bozorg",
+    "wof:parent_id":1108720425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.64178,
+    30.69986,
+    48.64178,
+    30.69986
+],
+  "geometry": {"coordinates":[48.64178,30.69986],"type":"Point"}
+}

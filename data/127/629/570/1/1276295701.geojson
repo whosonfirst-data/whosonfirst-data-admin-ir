@@ -1,0 +1,73 @@
+{
+  "id": 1276295701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.79539,36.15909,47.79539,36.15909",
+    "geom:latitude":36.15909,
+    "geom:longitude":47.79539,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Seyyed Hoseyn",
+    "gn:country_code":"IR",
+    "gn:dem":1497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":26371,
+    "gn:latitude":36.15909,
+    "gn:longitude":47.79539,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Seyyed \u1e28oseyn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u064a\u0651\u062f \u062d\u0633\u064a\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Seyyed \u1e28oseyn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108719889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":26371
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"433d2c44ad4a1834dad3980b376e1d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719889,
+            "locality_id":1276295701,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1276295701,
+    "wof:lastmodified":1537641390,
+    "wof:name":"Seyyed Hoseyn",
+    "wof:parent_id":1108719889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.79539000000001,
+    36.15909,
+    47.79539000000001,
+    36.15909
+],
+  "geometry": {"coordinates":[47.79539000000001,36.15909],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226776315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.05667,36.14278,59.05667,36.14278",
+    "geom:latitude":36.14278,
+    "geom:longitude":59.05667,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Bagh-e Ershadiyeh",
+    "gn:country_code":"IR",
+    "gn:dem":1416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":31145,
+    "gn:latitude":36.14278,
+    "gn:longitude":59.05667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"B\u0101gh-e Ersh\u0101d\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "B\u0101gh-e Ersh\u0101d\u012byeh"
+    ],
+    "name:und_x_variant":[
+        "B\u0101gh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":31145
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"466e8417dfc4b8d606829ab9f4b59624",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720279,
+            "locality_id":1226776315,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1226776315,
+    "wof:lastmodified":1537641699,
+    "wof:name":"Bagh-e Ershadiyeh",
+    "wof:parent_id":1108720279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.05667,
+    36.14278,
+    59.05667,
+    36.14278
+],
+  "geometry": {"coordinates":[59.05667,36.14278],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1242607301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.96953,35.91269,58.96953,35.91269",
+    "geom:latitude":35.91269,
+    "geom:longitude":58.96953,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Shahr-e Kohneh",
+    "gn:country_code":"IR",
+    "gn:dem":1221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":34411,
+    "gn:latitude":35.91269,
+    "gn:longitude":58.96953,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Shahr-e Kohneh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631 \u06a9\u0647\u0646\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0637\u0627\u0647\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u0162\u0101her\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":34411
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"69c6784986dc0e59781ade058fb27c1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720279,
+            "locality_id":1242607301,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1242607301,
+    "wof:lastmodified":1537641914,
+    "wof:name":"Shahr-e Kohneh",
+    "wof:parent_id":1108720279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.96953000000001,
+    35.91269000000001,
+    58.96953000000001,
+    35.91269000000001
+],
+  "geometry": {"coordinates":[58.96953000000001,35.91269000000001],"type":"Point"}
+}

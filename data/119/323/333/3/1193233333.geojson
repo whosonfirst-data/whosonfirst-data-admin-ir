@@ -1,0 +1,77 @@
+{
+  "id": 1193233333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.84875,35.55853,52.84875,35.55853",
+    "geom:latitude":35.55853,
+    "geom:longitude":52.84875,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Khonar",
+    "gn:country_code":"IR",
+    "gn:dem":2408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":33577,
+    "gn:latitude":35.55853,
+    "gn:longitude":52.84875,
+    "gn:modification_date":"2013-10-03",
+    "gn:name":"Khon\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0646\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Khon\u0101r",
+        "\u062e\u0648\u0646\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Kh\u016bn\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672309,
+        1108720419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":33577
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0da370883cd456fc8a5966d5d79baf22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720419,
+            "locality_id":1193233333,
+            "region_id":85672309
+        }
+    ],
+    "wof:id":1193233333,
+    "wof:lastmodified":1537641873,
+    "wof:name":"Khonar",
+    "wof:parent_id":1108720419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.84875,
+    35.55853,
+    52.84875,
+    35.55853
+],
+  "geometry": {"coordinates":[52.84875,35.55853],"type":"Point"}
+}

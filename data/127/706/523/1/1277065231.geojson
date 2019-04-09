@@ -1,0 +1,79 @@
+{
+  "id": 1277065231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.5619,32.35754,47.5619,32.35754",
+    "geom:latitude":32.35754,
+    "geom:longitude":47.5619,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Cham Sarim",
+    "gn:country_code":"IR",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":139083,
+    "gn:latitude":32.35754,
+    "gn:longitude":47.5619,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"Cham \u015ear\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Chamsar\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u0645\u0633\u0631\u06cc",
+        "\u0686\u0645 \u0635\u0631\u064a\u0645",
+        "\u0686\u064e\u0645\u0633\u064e\u0631\u0626 \u067e\u0627\u0626\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Chamsar\u012b-ye P\u0101\u2019\u012bn",
+        "Cham \u015ear\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108719957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":139083
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"01d3cbc7a13700a79c304f8360f7f904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719957,
+            "locality_id":1277065231,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1277065231,
+    "wof:lastmodified":1537645741,
+    "wof:name":"Cham Sarim",
+    "wof:parent_id":1108719957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.5619,
+    32.35754,
+    47.5619,
+    32.35754
+],
+  "geometry": {"coordinates":[47.5619,32.35754],"type":"Point"}
+}

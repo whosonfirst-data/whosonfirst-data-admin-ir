@@ -1,0 +1,77 @@
+{
+  "id": 1259780001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.2342,29.7978,53.2342,29.7978",
+    "geom:latitude":29.7978,
+    "geom:longitude":53.2342,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Anarak",
+    "gn:country_code":"IR",
+    "gn:dem":1588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":44338,
+    "gn:latitude":29.7978,
+    "gn:longitude":53.2342,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"An\u0101rak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0639\u0627\u062f\u062a \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Sa\u2018\u0101dat\u0101b\u0101d",
+        "\u0627\u0646\u0627\u0631\u06a9"
+    ],
+    "name:und_x_variant":[
+        "An\u0101rak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108719827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":44338
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"490ef356e424410918b78f284f8e56ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719827,
+            "locality_id":1259780001,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1259780001,
+    "wof:lastmodified":1537642492,
+    "wof:name":"Anarak",
+    "wof:parent_id":1108719827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.2342,
+    29.7978,
+    53.2342,
+    29.7978
+],
+  "geometry": {"coordinates":[53.2342,29.7978],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209687751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.0665,36.2567,46.0665,36.2567",
+    "geom:latitude":36.2567,
+    "geom:longitude":46.0665,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kandalan",
+    "gn:country_code":"IR",
+    "gn:dem":1645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3554,
+    "gn:latitude":36.2567,
+    "gn:longitude":46.0665,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kandal\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u064e\u0646\u062f\u064e\u0644\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0646\u062f\u0644\u0627\u0646",
+        "Kandal\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3554
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"275cd3338bab2f8b1f6e63ddbb0cb973",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209687751
+        }
+    ],
+    "wof:id":1209687751,
+    "wof:lastmodified":1537640261,
+    "wof:name":"Kandalan",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.0665,
+    36.2567,
+    46.0665,
+    36.2567
+],
+  "geometry": {"coordinates":[46.0665,36.2567],"type":"Point"}
+}

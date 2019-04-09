@@ -1,0 +1,73 @@
+{
+  "id": 1259712739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.51869,35.52462,59.51869,35.52462",
+    "geom:latitude":35.52462,
+    "geom:longitude":59.51869,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Shahrud",
+    "gn:country_code":"IR",
+    "gn:dem":1913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7075057,
+    "gn:latitude":35.52462,
+    "gn:longitude":59.51869,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sh\u0101hr\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0647\u0631\u0648\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Sh\u0101hr\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108719995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7075057
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"265a547cce37565ca9ed5c22c58b1e03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719995,
+            "locality_id":1259712739,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1259712739,
+    "wof:lastmodified":1537648005,
+    "wof:name":"Shahrud",
+    "wof:parent_id":1108719995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.51869,
+    35.52462,
+    59.51869,
+    35.52462
+],
+  "geometry": {"coordinates":[59.51869,35.52462],"type":"Point"}
+}

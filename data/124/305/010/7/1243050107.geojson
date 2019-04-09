@@ -1,0 +1,78 @@
+{
+  "id": 1243050107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.4366,35.4306,46.4366,35.4306",
+    "geom:latitude":35.4306,
+    "geom:longitude":46.4366,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Galan",
+    "gn:country_code":"IR",
+    "gn:dem":1711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":133204,
+    "gn:latitude":35.4306,
+    "gn:longitude":46.4366,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Gal\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0644\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Gal\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Gul\u0101n",
+        "K\u016bl\u0101n",
+        "Gol\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":133204
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e35d35344b1ef31c69489bd36edf7d0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720221,
+            "locality_id":1243050107,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1243050107,
+    "wof:lastmodified":1537645151,
+    "wof:name":"Galan",
+    "wof:parent_id":1108720221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.4366,
+    35.4306,
+    46.4366,
+    35.4306
+],
+  "geometry": {"coordinates":[46.4366,35.4306],"type":"Point"}
+}

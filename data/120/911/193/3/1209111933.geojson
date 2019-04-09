@@ -1,0 +1,70 @@
+{
+  "id": 1209111933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.7952,31.1222,61.7952,31.1222",
+    "geom:latitude":31.1222,
+    "geom:longitude":61.7952,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Deh-e Shadi",
+    "gn:country_code":"IR",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7501430,
+    "gn:latitude":31.1222,
+    "gn:longitude":61.7952,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Deh-e Sh\u0101d\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Deh-e Sh\u0101d\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0647 \u0634\u0627\u062f\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u062f\u0647 \u0634\u0627\u062f\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7501430
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"36cf76e1ff0b11a9aec59e6e446a153b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209111933
+        }
+    ],
+    "wof:id":1209111933,
+    "wof:lastmodified":1537648271,
+    "wof:name":"Deh-e Shadi",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.7952,
+    31.1222,
+    61.7952,
+    31.1222
+],
+  "geometry": {"coordinates":[61.7952,31.1222],"type":"Point"}
+}

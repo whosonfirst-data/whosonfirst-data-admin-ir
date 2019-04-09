@@ -1,0 +1,76 @@
+{
+  "id": 1259826105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.67827,29.86712,55.67827,29.86712",
+    "geom:latitude":29.86712,
+    "geom:longitude":55.67827,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Bid Sirun-e Bala",
+    "gn:country_code":"IR",
+    "gn:dem":2159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7519903,
+    "gn:latitude":29.86712,
+    "gn:longitude":55.67827,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"B\u012bd S\u012br\u016bn-e B\u0101l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "B\u012bd S\u012br\u016bn-e B\u0101l\u0101"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u06cc\u062f \u0633\u06cc\u0631\u0648\u0646 \u0628\u0627\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u0628\u06cc\u062f \u0633\u06cc\u0631\u0648\u0646 \u0628\u0627\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7519903
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4a0c25550db903decea7e1aafde11985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720461,
+            "locality_id":1259826105,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1259826105,
+    "wof:lastmodified":1537648285,
+    "wof:name":"Bid Sirun-e Bala",
+    "wof:parent_id":1108720461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.67827,
+    29.86712,
+    55.67827,
+    29.86712
+],
+  "geometry": {"coordinates":[55.67827,29.86712],"type":"Point"}
+}

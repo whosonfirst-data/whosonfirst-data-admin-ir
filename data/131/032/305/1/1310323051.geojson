@@ -1,0 +1,77 @@
+{
+  "id": 1310323051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.91667,37.1,48.91667,37.1",
+    "geom:latitude":37.1,
+    "geom:longitude":48.91667,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Asyab",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":69168,
+    "gn:latitude":37.1,
+    "gn:longitude":48.91667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u0100sy\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0633\u064a\u0627\u0628"
+    ],
+    "name:fas_x_variant":[
+        "\u0100sy\u0101b"
+    ],
+    "name:und_x_variant":[
+        "Siyab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672361,
+        1108720483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":69168
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b9a6e8b325140bceb2b9caf1d21cb99c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720483,
+            "locality_id":1310323051,
+            "region_id":85672361
+        }
+    ],
+    "wof:id":1310323051,
+    "wof:lastmodified":1537642903,
+    "wof:name":"Asyab",
+    "wof:parent_id":1108720483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.91667,
+    37.1,
+    48.91667,
+    37.1
+],
+  "geometry": {"coordinates":[48.91667,37.1],"type":"Point"}
+}

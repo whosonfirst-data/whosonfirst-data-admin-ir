@@ -1,0 +1,80 @@
+{
+  "id": 1243176693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.2827,30.7999,50.2827,30.7999",
+    "geom:latitude":30.7999,
+    "geom:longitude":50.2827,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Khowsh Ab-e Shirin",
+    "gn:country_code":"IR",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":127003,
+    "gn:latitude":30.7999,
+    "gn:longitude":50.2827,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Khowsh \u0100b-e Sh\u012br\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0634 \u0622\u0628 \u0634\u064a\u0631\u064a\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Khowsh \u0100b-e Sh\u012br\u012bn",
+        "Khvosh \u0100b-e Sh\u012br\u012bn"
+    ],
+    "name:und_x_variant":[
+        "Sh\u012br\u012bn",
+        "Khvosh\u0101b",
+        "Khvosh\u0101b-e Sh\u012br\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108719859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":127003,
+        "wk:page":"Khvosh_Ab-e_Shirin"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"835f12a81dad1e693975b93f10f0f92c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719859,
+            "locality_id":1243176693,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1243176693,
+    "wof:lastmodified":1537644509,
+    "wof:name":"Khowsh Ab-e Shirin",
+    "wof:parent_id":1108719859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.2827,
+    30.7999,
+    50.2827,
+    30.7999
+],
+  "geometry": {"coordinates":[50.2827,30.7999],"type":"Point"}
+}

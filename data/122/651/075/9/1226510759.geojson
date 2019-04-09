@@ -1,0 +1,80 @@
+{
+  "id": 1226510759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.7747,33.5216,48.7747,33.5216",
+    "geom:latitude":33.5216,
+    "geom:longitude":48.7747,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Pol Haru",
+    "gn:country_code":"IR",
+    "gn:dem":1754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":114491,
+    "gn:latitude":33.5216,
+    "gn:longitude":48.7747,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Pol Har\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u064a\u0627\u0647 \u06af\u0648\u0634\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "S\u012b\u0101h G\u016bsh\u012b",
+        "\u067e\u0644 \u0647\u0631\u0648"
+    ],
+    "name:und_x_variant":[
+        "Sey\u0101h G\u016bsh\u012b",
+        "S\u012b\u0101h Kushi",
+        "S\u012b\u0101 G\u016bsh\u012b",
+        "Pol Har\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":114491
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7b4734c144d75b3843bc974eec1e64ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720145,
+            "locality_id":1226510759,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1226510759,
+    "wof:lastmodified":1537643283,
+    "wof:name":"Pol Haru",
+    "wof:parent_id":1108720145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.7747,
+    33.5216,
+    48.7747,
+    33.5216
+],
+  "geometry": {"coordinates":[48.7747,33.5216],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259962575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.6513,31.227,48.6513,31.227",
+    "geom:latitude":31.227,
+    "geom:longitude":48.6513,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Hadiabad",
+    "gn:country_code":"IR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7416832,
+    "gn:latitude":31.227,
+    "gn:longitude":48.6513,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"H\u0101d\u012b\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "H\u0101d\u012b\u0101b\u0101d"
+    ],
+    "name:fas_x_variant":[
+        "\u0647\u0627\u062f\u06cc \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u0647\u0627\u062f\u06cc \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7416832
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1cab931c8daad0371ec183cb3d42cd55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719793,
+            "locality_id":1259962575,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1259962575,
+    "wof:lastmodified":1537648173,
+    "wof:name":"Hadiabad",
+    "wof:parent_id":1108719793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.6513,
+    31.227,
+    48.6513,
+    31.227
+],
+  "geometry": {"coordinates":[48.6513,31.227],"type":"Point"}
+}

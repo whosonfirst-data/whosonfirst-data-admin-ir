@@ -1,0 +1,78 @@
+{
+  "id": 1242633379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.32806,33.70139,48.32806,33.70139",
+    "geom:latitude":33.70139,
+    "geom:longitude":48.32806,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Vartakhtan",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112135,
+    "gn:latitude":33.70139,
+    "gn:longitude":48.32806,
+    "gn:modification_date":"2010-08-09",
+    "gn:name":"Vartakht\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u064e\u0631\u062a\u064e\u062e\u062a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u064e\u0631\u062a\u064e\u062e\u062a\u0627\u0646",
+        "Vartakht\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Dartakht\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112135
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b67b752d9517775b49427c0b122bdb3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720145,
+            "locality_id":1242633379,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1242633379,
+    "wof:lastmodified":1537643051,
+    "wof:name":"Vartakhtan",
+    "wof:parent_id":1108720145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.32806,
+    33.70139,
+    48.32806,
+    33.70139
+],
+  "geometry": {"coordinates":[48.32806,33.70139],"type":"Point"}
+}

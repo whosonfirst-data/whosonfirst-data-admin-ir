@@ -1,0 +1,77 @@
+{
+  "id": 1310255891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.9,31.48333,53.9,31.48333",
+    "geom:latitude":31.48333,
+    "geom:longitude":53.9,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Kavireh",
+    "gn:country_code":"IR",
+    "gn:dem":2315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":67879,
+    "gn:latitude":31.48333,
+    "gn:longitude":53.9,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Kav\u012breh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u064e\u0648\u064a\u0631\u0650\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0643\u064e\u0648\u064a\u0631\u064e\u0647",
+        "Kav\u012breh"
+    ],
+    "name:und_x_variant":[
+        "Kav\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108720475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":67879
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c1a782a17f36e01227da5691e9e4454f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720475,
+            "locality_id":1310255891,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1310255891,
+    "wof:lastmodified":1537642855,
+    "wof:name":"Kavireh",
+    "wof:parent_id":1108720475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.9,
+    31.48333,
+    53.9,
+    31.48333
+],
+  "geometry": {"coordinates":[53.9,31.48333],"type":"Point"}
+}

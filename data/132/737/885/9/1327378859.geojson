@@ -1,0 +1,76 @@
+{
+  "id": 1327378859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.179,35.3027,50.179,35.3027",
+    "geom:latitude":35.3027,
+    "geom:longitude":50.179,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Kushkak",
+    "gn:country_code":"IR",
+    "gn:dem":1624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":126142,
+    "gn:latitude":35.3027,
+    "gn:longitude":50.179,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"K\u016bshkak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0648\u0634\u06a9\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "K\u016bshkak"
+    ],
+    "name:und_x_variant":[
+        "Kushg\u0101k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":126142
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"077ca87397185054c184d7765f5e173a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720525,
+            "locality_id":1327378859,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1327378859,
+    "wof:lastmodified":1537644418,
+    "wof:name":"Kushkak",
+    "wof:parent_id":1108720525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.179,
+    35.3027,
+    50.179,
+    35.3027
+],
+  "geometry": {"coordinates":[50.179,35.3027],"type":"Point"}
+}

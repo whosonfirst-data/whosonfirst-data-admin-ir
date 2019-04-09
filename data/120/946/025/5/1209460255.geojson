@@ -1,0 +1,72 @@
+{
+  "id": 1209460255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.448,38.4586,46.448,38.4586",
+    "geom:latitude":38.4586,
+    "geom:longitude":46.448,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Moshirabad",
+    "gn:country_code":"IR",
+    "gn:dem":2149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":123208,
+    "gn:latitude":38.4586,
+    "gn:longitude":46.448,
+    "gn:modification_date":"2018-05-21",
+    "gn:name":"Mosh\u012br\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0634\u06cc\u0631\u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Mosh\u012br\u0101b\u0101d"
+    ],
+    "name:und_x_variant":[
+        "Shaitan\u0101b\u0101d",
+        "Mushur\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":123208,
+        "wk:page":"Moshirabad,_Heris"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"eab5040eb69e9bab8a3b36aa8eac8411",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209460255
+        }
+    ],
+    "wof:id":1209460255,
+    "wof:lastmodified":1537644132,
+    "wof:name":"Moshirabad",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.448,
+    38.4586,
+    46.448,
+    38.4586
+],
+  "geometry": {"coordinates":[46.448,38.4586],"type":"Point"}
+}

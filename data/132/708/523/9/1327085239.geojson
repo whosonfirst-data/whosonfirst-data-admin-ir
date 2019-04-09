@@ -1,0 +1,77 @@
+{
+  "id": 1327085239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.2212,34.0002,51.2212,34.0002",
+    "geom:latitude":34.0002,
+    "geom:longitude":51.2212,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Kusanj",
+    "gn:country_code":"IR",
+    "gn:dem":1306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":15860,
+    "gn:latitude":34.0002,
+    "gn:longitude":51.2212,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"K\u016bsanj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0647 \u0633\u0646\u062c"
+    ],
+    "name:fas_x_variant":[
+        "K\u016bh Sanj",
+        "\u06a9\u0648\u0633\u0646\u062c"
+    ],
+    "name:und_x_variant":[
+        "K\u016bsanj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":15860
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3710cfcfb7c46fd16625170cdbf78150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720109,
+            "locality_id":1327085239,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1327085239,
+    "wof:lastmodified":1537640913,
+    "wof:name":"Kusanj",
+    "wof:parent_id":1108720109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.2212,
+    34.0002,
+    51.2212,
+    34.0002
+],
+  "geometry": {"coordinates":[51.2212,34.0002],"type":"Point"}
+}

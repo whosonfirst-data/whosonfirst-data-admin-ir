@@ -1,0 +1,73 @@
+{
+  "id": 1344112963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.9391,33.2503,47.9391,33.2503",
+    "geom:latitude":33.2503,
+    "geom:longitude":47.9391,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Shahid Reja'i",
+    "gn:country_code":"IR",
+    "gn:dem":991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6723666,
+    "gn:latitude":33.2503,
+    "gn:longitude":47.9391,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Shah\u012bd Rej\u0101'\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u06cc\u062f \u0631\u0686\u0627\u06cc\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Shah\u012bd Rej\u0101'\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6723666
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c8ca52abbc8b4a3ed0333d214e568182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720307,
+            "locality_id":1344112963,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1344112963,
+    "wof:lastmodified":1537647509,
+    "wof:name":"Shahid Reja'i",
+    "wof:parent_id":1108720307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.9391,
+    33.2503,
+    47.9391,
+    33.2503
+],
+  "geometry": {"coordinates":[47.9391,33.2503],"type":"Point"}
+}

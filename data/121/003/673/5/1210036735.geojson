@@ -1,0 +1,71 @@
+{
+  "id": 1210036735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.78876,27.17276,53.78876,27.17276",
+    "geom:latitude":27.17276,
+    "geom:longitude":53.78876,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Jandak",
+    "gn:country_code":"IR",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":130386,
+    "gn:latitude":27.17276,
+    "gn:longitude":53.78876,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"Jandak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jundak",
+        "Jandak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":130386
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"68d3a18f4a66d5c71be5f7695a5edeeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720181,
+            "locality_id":1210036735,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1210036735,
+    "wof:lastmodified":1537644860,
+    "wof:name":"Jandak",
+    "wof:parent_id":1108720181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.78876,
+    27.17276,
+    53.78876,
+    27.17276
+],
+  "geometry": {"coordinates":[53.78876,27.17276],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293154215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.59627,36.29893,53.59627,36.29893",
+    "geom:latitude":36.29893,
+    "geom:longitude":53.59627,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Tuseh",
+    "gn:country_code":"IR",
+    "gn:dem":1439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":385797,
+    "gn:latitude":36.29893,
+    "gn:longitude":53.59627,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"T\u016bseh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "T\u016bseh"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0648\u0633\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u062a\u0648\u0633\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385797
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"eabde952a423eb398386fd7bf04d30e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720401,
+            "locality_id":1293154215,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1293154215,
+    "wof:lastmodified":1537646441,
+    "wof:name":"Tuseh",
+    "wof:parent_id":1108720401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.59627,
+    36.29893,
+    53.59627,
+    36.29893
+],
+  "geometry": {"coordinates":[53.59627,36.29893],"type":"Point"}
+}

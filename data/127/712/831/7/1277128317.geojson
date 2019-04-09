@@ -1,0 +1,80 @@
+{
+  "id": 1277128317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.40068,36.8561,54.40068,36.8561",
+    "geom:latitude":36.8561,
+    "geom:longitude":54.40068,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Zangian",
+    "gn:country_code":"IR",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":111469,
+    "gn:latitude":36.8561,
+    "gn:longitude":54.40068,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"Zang\u012b\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u064e\u0646\u06af\u0650\u0646\u0650\u0647 \u0645\u064e\u062d\u064e\u0644\u0650\u0651\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Zang\u012b\u0101n",
+        "\u0632\u0646\u06af\u064a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Zangiyan",
+        "Zangeneh Ma\u1e29alleh",
+        "Zang\u012b Ma\u1e29all\u0113h",
+        "\u0632\u0646\u06af\u064a\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":111469
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"211cc263bc35e4f6e81799f984deb94e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720041,
+            "locality_id":1277128317,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1277128317,
+    "wof:lastmodified":1537642976,
+    "wof:name":"Zangian",
+    "wof:parent_id":1108720041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.40068,
+    36.8561,
+    54.40068,
+    36.8561
+],
+  "geometry": {"coordinates":[54.40068,36.8561],"type":"Point"}
+}

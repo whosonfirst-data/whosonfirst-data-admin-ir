@@ -1,0 +1,73 @@
+{
+  "id": 1343551965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.4306,30.2941,52.4306,30.2941",
+    "geom:latitude":30.2941,
+    "geom:longitude":52.4306,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Dasht Kenar",
+    "gn:country_code":"IR",
+    "gn:dem":1696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6872477,
+    "gn:latitude":30.2941,
+    "gn:longitude":52.4306,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Dasht Ken\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0634\u062a \u06a9\u0646\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Dasht Ken\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6872477
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e51041c2af5b3445ffcbc17814dd6066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720223,
+            "locality_id":1343551965,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1343551965,
+    "wof:lastmodified":1537647691,
+    "wof:name":"Dasht Kenar",
+    "wof:parent_id":1108720223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.4306,
+    30.2941,
+    52.4306,
+    30.2941
+],
+  "geometry": {"coordinates":[52.4306,30.2941],"type":"Point"}
+}

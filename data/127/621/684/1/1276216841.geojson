@@ -1,0 +1,76 @@
+{
+  "id": 1276216841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.6275,37.34155,49.6275,37.34155",
+    "geom:latitude":37.34155,
+    "geom:longitude":49.6275,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Suqeh",
+    "gn:country_code":"IR",
+    "gn:dem":-14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":28983,
+    "gn:latitude":37.34155,
+    "gn:longitude":49.6275,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"S\u016bqeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "S\u016bqeh"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0648\u0642\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0633\u0648\u0642\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":28983
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"93d6168c4e7b62fe47ace89d6afc8481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720339,
+            "locality_id":1276216841,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1276216841,
+    "wof:lastmodified":1537641598,
+    "wof:name":"Suqeh",
+    "wof:parent_id":1108720339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.6275,
+    37.34155,
+    49.6275,
+    37.34155
+],
+  "geometry": {"coordinates":[49.6275,37.34155],"type":"Point"}
+}

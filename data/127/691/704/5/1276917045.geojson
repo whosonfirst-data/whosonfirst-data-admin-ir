@@ -1,0 +1,73 @@
+{
+  "id": 1276917045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.5607,37.44731,48.5607,37.44731",
+    "geom:latitude":37.44731,
+    "geom:longitude":48.5607,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Qizil Bolagh",
+    "gn:country_code":"IR",
+    "gn:dem":2539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11595879,
+    "gn:latitude":37.44731,
+    "gn:longitude":48.5607,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Q\u012bz\u012bl Bol\u0101gh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0642\u06cc\u0632\u06cc\u0644 \u0628\u0644\u0627\u063a"
+    ],
+    "name:und_x_variant":[
+        "Q\u012bz\u012bl Bol\u0101gh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11595879
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"aafecb1120675a9936fb967a3a1f445a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720123,
+            "locality_id":1276917045,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1276917045,
+    "wof:lastmodified":1537648794,
+    "wof:name":"Qizil Bolagh",
+    "wof:parent_id":1108720123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.5607,
+    37.44731,
+    48.5607,
+    37.44731
+],
+  "geometry": {"coordinates":[48.5607,37.44731],"type":"Point"}
+}

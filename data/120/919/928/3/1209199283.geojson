@@ -1,0 +1,64 @@
+{
+  "id": 1209199283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.03778,37.10333,50.03778,37.10333",
+    "geom:latitude":37.10333,
+    "geom:longitude":50.03778,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kash Sara",
+    "gn:country_code":"IR",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2134,
+    "gn:latitude":37.10333,
+    "gn:longitude":50.03778,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kash Sar\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Kash Sar\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2134
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5d32da10dc7b139c3f0282ea0a29cbc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209199283
+        }
+    ],
+    "wof:id":1209199283,
+    "wof:lastmodified":1537640205,
+    "wof:name":"Kash Sara",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.03778,
+    37.10333,
+    50.03778,
+    37.10333
+],
+  "geometry": {"coordinates":[50.03778,37.10333],"type":"Point"}
+}

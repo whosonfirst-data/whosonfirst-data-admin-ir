@@ -1,0 +1,82 @@
+{
+  "id": 1293128651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.276,32.9179,60.276,32.9179",
+    "geom:latitude":32.9179,
+    "geom:longitude":60.276,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Gavich",
+    "gn:country_code":"IR",
+    "gn:dem":1270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1161186,
+    "gn:latitude":32.9179,
+    "gn:longitude":60.276,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"G\u0101v\u012bch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u0627\u0648\u064a\u0686"
+    ],
+    "name:fas_x_variant":[
+        "Kal\u0101teh-ye G\u0101voj",
+        "Kal\u0101t-e G\u0101v\u012bch",
+        "G\u0101v\u012bch",
+        "G\u0101wich",
+        "G\u0101voj"
+    ],
+    "name:und_x_variant":[
+        "G\u0101voj",
+        "G\u0101wich",
+        "Kalateh Gavij"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108719943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1161186
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b4a7f54f7cecc45bbe2862a0b946d3bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719943,
+            "locality_id":1293128651,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1293128651,
+    "wof:lastmodified":1537647100,
+    "wof:name":"Gavich",
+    "wof:parent_id":1108719943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.276,
+    32.9179,
+    60.276,
+    32.9179
+],
+  "geometry": {"coordinates":[60.276,32.9179],"type":"Point"}
+}

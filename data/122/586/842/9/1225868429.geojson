@@ -1,0 +1,73 @@
+{
+  "id": 1225868429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.47563,31.19163,61.47563,31.19163",
+    "geom:latitude":31.19163,
+    "geom:longitude":61.47563,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mir Mohammad",
+    "gn:country_code":"IR",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331546,
+    "gn:latitude":31.19163,
+    "gn:longitude":61.47563,
+    "gn:modification_date":"2013-11-13",
+    "gn:name":"M\u012br Mo\u1e29ammad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u064a\u0631 \u0645\u062d\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "M\u012br Mo\u1e29ammad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331546
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"06f1bbc30b9425dfa30ca0e7fcbde130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720513,
+            "locality_id":1225868429,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1225868429,
+    "wof:lastmodified":1537648544,
+    "wof:name":"Mir Mohammad",
+    "wof:parent_id":1108720513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.47563,
+    31.19163,
+    61.47563,
+    31.19163
+],
+  "geometry": {"coordinates":[61.47563,31.19163],"type":"Point"}
+}

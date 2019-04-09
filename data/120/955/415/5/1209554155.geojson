@@ -1,0 +1,64 @@
+{
+  "id": 1209554155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.13333,37.01667,54.13333,37.01667",
+    "geom:latitude":37.01667,
+    "geom:longitude":54.13333,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Gora Keleh",
+    "gn:country_code":"IR",
+    "gn:dem":-23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":132916,
+    "gn:latitude":37.01667,
+    "gn:longitude":54.13333,
+    "gn:modification_date":"2014-09-30",
+    "gn:name":"Gor\u0101 Keleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Gor\u0101 Keleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":132916
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e2dd51d1bb835853479095d58be4a7bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209554155
+        }
+    ],
+    "wof:id":1209554155,
+    "wof:lastmodified":1537645118,
+    "wof:name":"Gora Keleh",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.13333000000001,
+    37.01667,
+    54.13333000000001,
+    37.01667
+],
+  "geometry": {"coordinates":[54.13333000000001,37.01667],"type":"Point"}
+}

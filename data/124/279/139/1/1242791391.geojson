@@ -1,0 +1,71 @@
+{
+  "id": 1242791391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.55,38.45,44.55,38.45",
+    "geom:latitude":38.45,
+    "geom:longitude":44.55,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Chalyan",
+    "gn:country_code":"IR",
+    "gn:dem":1841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":40587,
+    "gn:latitude":38.45,
+    "gn:longitude":44.55,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ch\u0101ly\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Ch\u0101ly\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":40587,
+        "wk:page":"Chalyan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8248aac6127e121102cc9b1b0434586a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720153,
+            "locality_id":1242791391,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1242791391,
+    "wof:lastmodified":1537642283,
+    "wof:name":"Chalyan",
+    "wof:parent_id":1108720153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.55,
+    38.45,
+    44.55,
+    38.45
+],
+  "geometry": {"coordinates":[44.55,38.45],"type":"Point"}
+}

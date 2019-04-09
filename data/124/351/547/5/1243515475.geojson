@@ -1,0 +1,73 @@
+{
+  "id": 1243515475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.94123,29.4318,55.94123,29.4318",
+    "geom:latitude":29.4318,
+    "geom:longitude":55.94123,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Ghazanfari",
+    "gn:country_code":"IR",
+    "gn:dem":1867,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8568045,
+    "gn:latitude":29.4318,
+    "gn:longitude":55.94123,
+    "gn:modification_date":"2013-07-08",
+    "gn:name":"Gha\u1e95anfar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u063a\u0636\u0646\u0641\u0631\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Gha\u1e95anfar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8568045
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"43b2bc95cbb3f06178abe4a2afd83b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720461,
+            "locality_id":1243515475,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1243515475,
+    "wof:lastmodified":1537648586,
+    "wof:name":"Ghazanfari",
+    "wof:parent_id":1108720461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.94123,
+    29.4318,
+    55.94123,
+    29.4318
+],
+  "geometry": {"coordinates":[55.94123,29.4318],"type":"Point"}
+}

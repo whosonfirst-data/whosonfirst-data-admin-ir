@@ -1,0 +1,77 @@
+{
+  "id": 1243458055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.12287,38.69674,45.12287,38.69674",
+    "geom:latitude":38.69674,
+    "geom:longitude":45.12287,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Bizandeh",
+    "gn:country_code":"IR",
+    "gn:dem":992,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":34991,
+    "gn:latitude":38.69674,
+    "gn:longitude":45.12287,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"B\u012bzandeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0632\u0646\u062f\u0647"
+    ],
+    "name:fas_x_variant":[
+        "B\u012bzandeh"
+    ],
+    "name:und_x_variant":[
+        "Bezneh Deh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":34991,
+        "wk:page":"Bizandeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"54aef4523d8b342c9edfbad2e5be6e06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720153,
+            "locality_id":1243458055,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1243458055,
+    "wof:lastmodified":1537641922,
+    "wof:name":"Bizandeh",
+    "wof:parent_id":1108720153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.12287,
+    38.69674000000001,
+    45.12287,
+    38.69674000000001
+],
+  "geometry": {"coordinates":[45.12287,38.69674000000001],"type":"Point"}
+}

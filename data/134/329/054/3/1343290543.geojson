@@ -1,0 +1,83 @@
+{
+  "id": 1343290543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.97677,32.87843,59.97677,32.87843",
+    "geom:latitude":32.87843,
+    "geom:longitude":59.97677,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Sarow",
+    "gn:country_code":"IR",
+    "gn:dem":1631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":116741,
+    "gn:latitude":32.87843,
+    "gn:longitude":59.97677,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Sarow",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0631"
+    ],
+    "name:fas_x_variant":[
+        "S\u016br",
+        "\u0633\u0631\u0648"
+    ],
+    "name:und_x_variant":[
+        "Sowr",
+        "Savar",
+        "Saur",
+        "Sarv",
+        "Sarow",
+        "Gerow",
+        "Gero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108719943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":116741
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d37124177e0841f76c56c67008af41ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719943,
+            "locality_id":1343290543,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1343290543,
+    "wof:lastmodified":1537643472,
+    "wof:name":"Sarow",
+    "wof:parent_id":1108719943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.97677,
+    32.87843,
+    59.97677,
+    32.87843
+],
+  "geometry": {"coordinates":[59.97677,32.87843],"type":"Point"}
+}

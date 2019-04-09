@@ -1,0 +1,76 @@
+{
+  "id": 1243582931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.13363,32.83798,59.13363,32.83798",
+    "geom:latitude":32.83798,
+    "geom:longitude":59.13363,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Narmenj",
+    "gn:country_code":"IR",
+    "gn:dem":1643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":21797,
+    "gn:latitude":32.83798,
+    "gn:longitude":59.13363,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"N\u0101rmenj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "N\u0101rmenj"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0627\u0631\u0645\u0646\u062c"
+    ],
+    "name:und_x_variant":[
+        "\u0646\u0627\u0631\u0645\u0646\u062c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108719895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":21797
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c3f9b5472d0d2c0da2b9c97974d76541",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719895,
+            "locality_id":1243582931,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1243582931,
+    "wof:lastmodified":1537641089,
+    "wof:name":"Narmenj",
+    "wof:parent_id":1108719895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.13363,
+    32.83798,
+    59.13363,
+    32.83798
+],
+  "geometry": {"coordinates":[59.13363,32.83798],"type":"Point"}
+}

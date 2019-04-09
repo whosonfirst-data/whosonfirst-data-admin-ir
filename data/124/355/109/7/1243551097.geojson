@@ -1,0 +1,75 @@
+{
+  "id": 1243551097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.2829,27.3005,53.2829,27.3005",
+    "geom:latitude":27.3005,
+    "geom:longitude":53.2829,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Deh Sheykh",
+    "gn:country_code":"IR",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":136504,
+    "gn:latitude":27.3005,
+    "gn:longitude":53.2829,
+    "gn:modification_date":"2018-06-24",
+    "gn:name":"Deh Sheykh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647 \u0634\u06cc\u062e"
+    ],
+    "name:und_x_variant":[
+        "Deh Sheikh",
+        "Deh Sheykh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":136504,
+        "wk:page":"Deh_Sheykh,_Lamerd"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"17d4749a8a891bc1940ca783c1ccc9f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720181,
+            "locality_id":1243551097,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1243551097,
+    "wof:lastmodified":1537645479,
+    "wof:name":"Deh Sheykh",
+    "wof:parent_id":1108720181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.2829,
+    27.3005,
+    53.2829,
+    27.3005
+],
+  "geometry": {"coordinates":[53.2829,27.3005],"type":"Point"}
+}

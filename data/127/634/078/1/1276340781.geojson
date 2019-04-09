@@ -1,0 +1,74 @@
+{
+  "id": 1276340781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.8266,26.2811,59.8266,26.2811",
+    "geom:latitude":26.2811,
+    "geom:longitude":59.8266,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Sohrak",
+    "gn:country_code":"IR",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7009971,
+    "gn:latitude":26.2811,
+    "gn:longitude":59.8266,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Sohrak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0646 \u0628\u0644\u0648\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "Kan Bol\u016bk",
+        "\u0633\u0647\u0631\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7009971
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"48dc828b424cea0d635492fb260dbea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720271,
+            "locality_id":1276340781,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1276340781,
+    "wof:lastmodified":1537647890,
+    "wof:name":"Sohrak",
+    "wof:parent_id":1108720271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.8266,
+    26.2811,
+    59.8266,
+    26.2811
+],
+  "geometry": {"coordinates":[59.8266,26.2811],"type":"Point"}
+}

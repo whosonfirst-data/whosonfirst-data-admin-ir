@@ -1,0 +1,73 @@
+{
+  "id": 1293068735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.26759,35.41217,53.26759,35.41217",
+    "geom:latitude":35.41217,
+    "geom:longitude":53.26759,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Biabanak",
+    "gn:country_code":"IR",
+    "gn:dem":1035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8630881,
+    "gn:latitude":35.41217,
+    "gn:longitude":53.26759,
+    "gn:modification_date":"2013-11-14",
+    "gn:name":"B\u012b\u0101b\u0101nak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u064a\u0627\u0628\u0627\u0646\u06a9"
+    ],
+    "name:und_x_variant":[
+        "B\u012b\u0101b\u0101nak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672309,
+        1108720419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8630881
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b674bb5f17a4ddbc6976cf43ac1333cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720419,
+            "locality_id":1293068735,
+            "region_id":85672309
+        }
+    ],
+    "wof:id":1293068735,
+    "wof:lastmodified":1537648597,
+    "wof:name":"Biabanak",
+    "wof:parent_id":1108720419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.26759000000001,
+    35.41217,
+    53.26759000000001,
+    35.41217
+],
+  "geometry": {"coordinates":[53.26759000000001,35.41217],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1343668885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.75122,31.78267,50.75122,31.78267",
+    "geom:latitude":31.78267,
+    "geom:longitude":50.75122,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Durak-e Vosta",
+    "gn:country_code":"IR",
+    "gn:dem":1395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11402955,
+    "gn:latitude":31.78267,
+    "gn:longitude":50.75122,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"D\u016brak-e Vos\u0163\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0631\u06a9 \u0648\u0633\u0637\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0648\u0631\u06a9 \u0634\u0627\u067e\u0648\u0631\u06cc"
+    ],
+    "name:und_x_variant":[
+        "D\u016brak-e Vos\u0163\u00e1",
+        "D\u016brak-e Sh\u0101p\u016br\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672319,
+        1108720435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11402955
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0d7431dba0ed33b54da107a1018de23b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720435,
+            "locality_id":1343668885,
+            "region_id":85672319
+        }
+    ],
+    "wof:id":1343668885,
+    "wof:lastmodified":1537648773,
+    "wof:name":"Durak-e Vosta",
+    "wof:parent_id":1108720435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.75122,
+    31.78267,
+    50.75122,
+    31.78267
+],
+  "geometry": {"coordinates":[50.75122,31.78267],"type":"Point"}
+}

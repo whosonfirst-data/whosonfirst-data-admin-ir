@@ -1,0 +1,79 @@
+{
+  "id": 1293095401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.1454,28.4379,53.1454,28.4379",
+    "geom:latitude":28.4379,
+    "geom:longitude":53.1454,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Vahbashk",
+    "gn:country_code":"IR",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":112336,
+    "gn:latitude":28.4379,
+    "gn:longitude":53.1454,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Va\u1e29bashk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0648\u062d\u0628\u0634\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "Va\u1e29bashk",
+        "\u0648\u062c\u0634\u06a9"
+    ],
+    "name:und_x_variant":[
+        "Wajeshk",
+        "Vajeshk",
+        "Va\u1e29bashk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112336
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"20ab0741c11ff67acf4895b480d75323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720319,
+            "locality_id":1293095401,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1293095401,
+    "wof:lastmodified":1537643074,
+    "wof:name":"Vahbashk",
+    "wof:parent_id":1108720319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.1454,
+    28.4379,
+    53.1454,
+    28.4379
+],
+  "geometry": {"coordinates":[53.1454,28.4379],"type":"Point"}
+}

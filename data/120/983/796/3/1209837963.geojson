@@ -1,0 +1,77 @@
+{
+  "id": 1209837963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.04917,30.58975,51.04917,30.58975",
+    "geom:latitude":30.58975,
+    "geom:longitude":51.04917,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Pichab",
+    "gn:country_code":"IR",
+    "gn:dem":1545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":46756,
+    "gn:latitude":30.58975,
+    "gn:longitude":51.04917,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"P\u012bch\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "P\u012bch\u0101b"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u06cc\u0686\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u067e\u06cc\u0686\u0627\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":46756,
+        "wk:page":"Pichab"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7ab885b448a765b0b12e804a6557ff85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720015,
+            "locality_id":1209837963,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1209837963,
+    "wof:lastmodified":1537642633,
+    "wof:name":"Pichab",
+    "wof:parent_id":1108720015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.04917,
+    30.58975,
+    51.04917,
+    30.58975
+],
+  "geometry": {"coordinates":[51.04917,30.58975],"type":"Point"}
+}

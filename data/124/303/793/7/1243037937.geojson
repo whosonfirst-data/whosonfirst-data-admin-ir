@@ -1,0 +1,77 @@
+{
+  "id": 1243037937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.1998,32.1582,49.1998,32.1582",
+    "geom:latitude":32.1582,
+    "geom:longitude":49.1998,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Seliran",
+    "gn:country_code":"IR",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6661918,
+    "gn:latitude":32.1582,
+    "gn:longitude":49.1998,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Sel\u012br\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0644\u06cc\u0631\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Sel\u012br\u0101n",
+        "\u0647\u0627\u062f\u06cc"
+    ],
+    "name:und_x_variant":[
+        "H\u0101d\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6661918
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a70184897fca98bc86dd5d55647b6181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720229,
+            "locality_id":1243037937,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1243037937,
+    "wof:lastmodified":1537647292,
+    "wof:name":"Seliran",
+    "wof:parent_id":1108720229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.1998,
+    32.1582,
+    49.1998,
+    32.1582
+],
+  "geometry": {"coordinates":[49.1998,32.1582],"type":"Point"}
+}

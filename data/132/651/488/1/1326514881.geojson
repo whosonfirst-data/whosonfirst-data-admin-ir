@@ -1,0 +1,83 @@
+{
+  "id": 1326514881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.50501,37.28738,49.50501,37.28738",
+    "geom:latitude":37.28738,
+    "geom:longitude":49.50501,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Pasvisheh",
+    "gn:country_code":"IR",
+    "gn:dem":-9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":28617,
+    "gn:latitude":37.28738,
+    "gn:longitude":49.50501,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"Pasv\u012bsheh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "P\u016bysheh"
+    ],
+    "name:fas_x_variant":[
+        "Pasp\u012bsheh",
+        "\u067e\u0648\u06cc\u0634\u0647",
+        "Pasv\u012bsheh",
+        "\u067e\u0633 \u0648\u06cc\u0634\u0647"
+    ],
+    "name:und_x_variant":[
+        "Pasv\u012bsheh",
+        "Pasv\u012bshad",
+        "\u067e\u0648\u06cc\u0634\u0647",
+        "Pav\u012bsheh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":28617,
+        "wk:page":"Pasvisheh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e1e532bf2befb90bbadddfff2d36c8c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720339,
+            "locality_id":1326514881,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1326514881,
+    "wof:lastmodified":1537641558,
+    "wof:name":"Pasvisheh",
+    "wof:parent_id":1108720339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.50501,
+    37.28738,
+    49.50501,
+    37.28738
+],
+  "geometry": {"coordinates":[49.50501,37.28738],"type":"Point"}
+}

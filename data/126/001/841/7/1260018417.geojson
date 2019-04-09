@@ -1,0 +1,78 @@
+{
+  "id": 1260018417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.56494,37.08945,55.56494,37.08945",
+    "geom:latitude":37.08945,
+    "geom:longitude":55.56494,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Tarseh",
+    "gn:country_code":"IR",
+    "gn:dem":1191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9705,
+    "gn:latitude":37.08945,
+    "gn:longitude":55.56494,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Tarseh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u064e\u0631\u0634\u0650\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0631\u0633\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u062a\u0631\u0633\u0647",
+        "Tarsheh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9705,
+        "wk:page":"Tarseh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"685d9797e7a7158662d049e7ebc0dfa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720245,
+            "locality_id":1260018417,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1260018417,
+    "wof:lastmodified":1537640501,
+    "wof:name":"Tarseh",
+    "wof:parent_id":1108720245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.56494,
+    37.08945,
+    55.56494,
+    37.08945
+],
+  "geometry": {"coordinates":[55.56494,37.08945],"type":"Point"}
+}

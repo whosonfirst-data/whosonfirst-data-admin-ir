@@ -1,0 +1,78 @@
+{
+  "id": 1277067487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.29547,30.34034,51.29547,30.34034",
+    "geom:latitude":30.34034,
+    "geom:longitude":51.29547,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kupon-e Sorna",
+    "gn:country_code":"IR",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":46723,
+    "gn:latitude":30.34034,
+    "gn:longitude":51.29547,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"K\u016bpon-e Sorn\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "K\u016bpon-e Sorn\u0101"
+    ],
+    "name:fas_x_variant":[
+        "P\u016bzeh-ye Sorn\u0101",
+        "\u06a9\u0648\u067e\u0646 \u0633\u0631\u0646\u0627",
+        "\u067e\u0648\u0632\u0647 \u0633\u0631\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u06a9\u0648\u067e\u0646 \u0633\u0631\u0646\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":46723
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"539c72d1d6cd59422f21f2dd0b70d8d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720209,
+            "locality_id":1277067487,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1277067487,
+    "wof:lastmodified":1537642630,
+    "wof:name":"Kupon-e Sorna",
+    "wof:parent_id":1108720209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.29547,
+    30.34034,
+    51.29547,
+    30.34034
+],
+  "geometry": {"coordinates":[51.29547,30.34034],"type":"Point"}
+}

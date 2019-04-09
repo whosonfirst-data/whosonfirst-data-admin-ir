@@ -1,0 +1,75 @@
+{
+  "id": 1310152427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.88405,30.3741,57.88405,30.3741",
+    "geom:latitude":30.3741,
+    "geom:longitude":57.88405,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Rudkhaneh",
+    "gn:country_code":"IR",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":42880,
+    "gn:latitude":30.3741,
+    "gn:longitude":57.88405,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"R\u016bdkh\u0101neh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u062f\u062e\u0627\u0646\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Mo\u1e29ammad\u0101b\u0101d",
+        "\u0645\u062d\u0645\u0651\u062f \u0622\u0628\u0627\u062f",
+        "R\u016bdkh\u0101neh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":42880
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8488ab346a16a9bc45f626d203cad4d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720115,
+            "locality_id":1310152427,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1310152427,
+    "wof:lastmodified":1537642430,
+    "wof:name":"Rudkhaneh",
+    "wof:parent_id":1108720115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.88405,
+    30.3741,
+    57.88405,
+    30.3741
+],
+  "geometry": {"coordinates":[57.88405,30.3741],"type":"Point"}
+}

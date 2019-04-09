@@ -1,0 +1,74 @@
+{
+  "id": 1344042271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.93639,37.2275,49.93639,37.2275",
+    "geom:latitude":37.2275,
+    "geom:longitude":49.93639,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Gukeh-ye Amirhandeh",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":-9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2164,
+    "gn:latitude":37.2275,
+    "gn:longitude":49.93639,
+    "gn:modification_date":"2010-08-09",
+    "gn:name":"G\u016bkeh-ye Am\u012brhandeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "G\u016bkeh-ye Am\u012brhandeh"
+    ],
+    "name:und_x_variant":[
+        "G\u016bkeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2164
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"73ec2488df0d28cadb10cb86d0259e65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720173,
+            "locality_id":1344042271,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1344042271,
+    "wof:lastmodified":1537640208,
+    "wof:name":"Gukeh-ye Amirhandeh",
+    "wof:parent_id":1108720173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.93639,
+    37.2275,
+    49.93639,
+    37.2275
+],
+  "geometry": {"coordinates":[49.93639,37.2275],"type":"Point"}
+}

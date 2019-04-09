@@ -1,0 +1,73 @@
+{
+  "id": 1343762013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.1335,25.9939,60.1335,25.9939",
+    "geom:latitude":25.9939,
+    "geom:longitude":60.1335,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ramazan Kallak",
+    "gn:country_code":"IR",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1113340,
+    "gn:latitude":25.9939,
+    "gn:longitude":60.1335,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Rama\u1e95\u0101n Kallak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u0645\u0636\u0627\u0646 \u06a9\u0644\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "Rama\u1e95\u0101n Kallak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1113340
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6d63a04078d4b8c7daad3503c39dc115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720271,
+            "locality_id":1343762013,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1343762013,
+    "wof:lastmodified":1537646849,
+    "wof:name":"Ramazan Kallak",
+    "wof:parent_id":1108720271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.1335,
+    25.9939,
+    60.1335,
+    25.9939
+],
+  "geometry": {"coordinates":[60.1335,25.9939],"type":"Point"}
+}

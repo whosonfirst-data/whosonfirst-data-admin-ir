@@ -1,0 +1,73 @@
+{
+  "id": 1259535239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.27226,37.74494,55.27226,37.74494",
+    "geom:latitude":37.74494,
+    "geom:longitude":55.27226,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Narali Dagh",
+    "gn:country_code":"IR",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9981536,
+    "gn:latitude":37.74494,
+    "gn:longitude":55.27226,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"N\u0101ral\u012b D\u0101gh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0631\u0644\u064a \u062f\u0627\u063a"
+    ],
+    "name:und_x_variant":[
+        "N\u0101ral\u012b D\u0101gh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9981536
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0743d246e55b4c340853d4f105606614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720039,
+            "locality_id":1259535239,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1259535239,
+    "wof:lastmodified":1537648659,
+    "wof:name":"Narali Dagh",
+    "wof:parent_id":1108720039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.27226,
+    37.74494,
+    55.27226,
+    37.74494
+],
+  "geometry": {"coordinates":[55.27226,37.74494],"type":"Point"}
+}

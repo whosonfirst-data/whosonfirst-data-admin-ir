@@ -1,0 +1,80 @@
+{
+  "id": 1293478441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.74698,33.45627,46.74698,33.45627",
+    "geom:latitude":33.45627,
+    "geom:longitude":46.74698,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Pakal Garab",
+    "gn:country_code":"IR",
+    "gn:dem":1176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":134103,
+    "gn:latitude":33.45627,
+    "gn:longitude":46.74698,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"P\u0101kal Gar\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Gar\u0101b"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u0627\u06a9\u0644 \u06af\u0631\u0627\u0628",
+        "\u067e\u0627\u06a9\u0644 \u06af\u062f\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "Pay-e Kal-e Gar\u0101b",
+        "Gorab",
+        "P\u0101kal Gar\u0101b",
+        "P\u0101kal Gad\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108720061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":134103
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b3cf7b4f84413332aceb47826a12bf2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720061,
+            "locality_id":1293478441,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1293478441,
+    "wof:lastmodified":1537645241,
+    "wof:name":"Pakal Garab",
+    "wof:parent_id":1108720061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.74698,
+    33.45627,
+    46.74698,
+    33.45627
+],
+  "geometry": {"coordinates":[46.74698,33.45627],"type":"Point"}
+}

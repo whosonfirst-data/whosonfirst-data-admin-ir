@@ -1,0 +1,76 @@
+{
+  "id": 1209918693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.51121,31.07112,50.51121,31.07112",
+    "geom:latitude":31.07112,
+    "geom:longitude":50.51121,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pagareh",
+    "gn:country_code":"IR",
+    "gn:dem":1649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7529551,
+    "gn:latitude":31.07112,
+    "gn:longitude":50.51121,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"P\u0101g\u0101reh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "P\u0101g\u0101reh"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u0627\u06af\u0627\u0631\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u067e\u0627\u06af\u0627\u0631\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7529551
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f18b7b0938609f29fd00131a4881ae80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1209918693,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1209918693,
+    "wof:lastmodified":1537648301,
+    "wof:name":"Pagareh",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.51121,
+    31.07112,
+    50.51121,
+    31.07112
+],
+  "geometry": {"coordinates":[50.51121,31.07112],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209026101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.80722,37.22583,49.80722,37.22583",
+    "geom:latitude":37.22583,
+    "geom:longitude":49.80722,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Shir Kuh",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":114949,
+    "gn:latitude":37.22583,
+    "gn:longitude":49.80722,
+    "gn:modification_date":"2000-12-01",
+    "gn:name":"Sh\u012br K\u016bh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shirkukh",
+        "ShirKooh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":114949
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2e041027c8ac1167bba486575ba5eaf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209026101
+        }
+    ],
+    "wof:id":1209026101,
+    "wof:lastmodified":1537643314,
+    "wof:name":"Shir Kuh",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.80722,
+    37.22583,
+    49.80722,
+    37.22583
+],
+  "geometry": {"coordinates":[49.80722,37.22583],"type":"Point"}
+}

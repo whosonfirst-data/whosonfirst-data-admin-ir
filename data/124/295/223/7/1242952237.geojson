@@ -1,0 +1,73 @@
+{
+  "id": 1242952237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.79587,34.87885,47.79587,34.87885",
+    "geom:latitude":34.87885,
+    "geom:longitude":47.79587,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"`Arababad",
+    "gn:country_code":"IR",
+    "gn:dem":1910,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":24232,
+    "gn:latitude":34.87885,
+    "gn:longitude":47.79587,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"\u2018Arab\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0639\u0631\u0628 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u2018Arab\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":24232
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6928ff55c08c54edb2b36d84dc9a2b3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720463,
+            "locality_id":1242952237,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1242952237,
+    "wof:lastmodified":1537641269,
+    "wof:name":"`Arababad",
+    "wof:parent_id":1108720463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.79587,
+    34.87885,
+    47.79587,
+    34.87885
+],
+  "geometry": {"coordinates":[47.79587,34.87885],"type":"Point"}
+}

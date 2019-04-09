@@ -1,0 +1,73 @@
+{
+  "id": 1243224701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.31056,27.64139,57.31056,27.64139",
+    "geom:latitude":27.64139,
+    "geom:longitude":57.31056,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Siparyan",
+    "gn:country_code":"IR",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":114289,
+    "gn:latitude":27.64139,
+    "gn:longitude":57.31056,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u012bpary\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u064a\u067e\u064e\u0631\u064a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "S\u012bpary\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":114289
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7e10b8151745f549423e19c3f74f820c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720213,
+            "locality_id":1243224701,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1243224701,
+    "wof:lastmodified":1537643265,
+    "wof:name":"Siparyan",
+    "wof:parent_id":1108720213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.31056,
+    27.64139,
+    57.31056,
+    27.64139
+],
+  "geometry": {"coordinates":[57.31056,27.64139],"type":"Point"}
+}

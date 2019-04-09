@@ -1,0 +1,70 @@
+{
+  "id": 1243415243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.41667,27.65,57.41667,27.65",
+    "geom:latitude":27.65,
+    "geom:longitude":57.41667,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Koniun",
+    "gn:country_code":"IR",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":48354,
+    "gn:latitude":27.65,
+    "gn:longitude":57.41667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kon\u012b\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Kon\u012b\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":48354
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"274597ec7176ad134efa30b700dc467e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720213,
+            "locality_id":1243415243,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1243415243,
+    "wof:lastmodified":1537642720,
+    "wof:name":"Koniun",
+    "wof:parent_id":1108720213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.41667,
+    27.65,
+    57.41667,
+    27.65
+],
+  "geometry": {"coordinates":[57.41667,27.65],"type":"Point"}
+}

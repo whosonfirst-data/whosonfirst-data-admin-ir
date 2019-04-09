@@ -1,0 +1,79 @@
+{
+  "id": 1259436225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.06531,36.43338,51.06531,36.43338",
+    "geom:latitude":36.43338,
+    "geom:longitude":51.06531,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Akat",
+    "gn:country_code":"IR",
+    "gn:dem":2063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8519,
+    "gn:latitude":36.43338,
+    "gn:longitude":51.06531,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Akat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0100lar"
+    ],
+    "name:fas_x_variant":[
+        "\u0100kar",
+        "\u0622\u0644\u0631",
+        "\u0627\u06a9\u062a"
+    ],
+    "name:und_x_variant":[
+        "\u0622\u0644\u0631",
+        "Akat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8519
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"47ee6a33712069bf672890c2cc519152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719925,
+            "locality_id":1259436225,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1259436225,
+    "wof:lastmodified":1537640434,
+    "wof:name":"Akat",
+    "wof:parent_id":1108719925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.06531,
+    36.43338,
+    51.06531,
+    36.43338
+],
+  "geometry": {"coordinates":[51.06531,36.43338],"type":"Point"}
+}

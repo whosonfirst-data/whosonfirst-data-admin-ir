@@ -1,0 +1,74 @@
+{
+  "id": 1326633635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.8769,38.4725,44.8769,38.4725",
+    "geom:latitude":38.4725,
+    "geom:longitude":44.8769,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Bozgush",
+    "gn:country_code":"IR",
+    "gn:dem":1221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":40594,
+    "gn:latitude":38.4725,
+    "gn:longitude":44.8769,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bozg\u016bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0632\u06af\u0648\u0634"
+    ],
+    "name:fas_x_variant":[
+        "Bozg\u016bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":40594,
+        "wk:page":"Bozgush"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ad36f7298c936e9a47e848e26d763b5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720153,
+            "locality_id":1326633635,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1326633635,
+    "wof:lastmodified":1537642284,
+    "wof:name":"Bozgush",
+    "wof:parent_id":1108720153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.8769,
+    38.4725,
+    44.8769,
+    38.4725
+],
+  "geometry": {"coordinates":[44.8769,38.4725],"type":"Point"}
+}

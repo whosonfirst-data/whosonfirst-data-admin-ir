@@ -1,0 +1,67 @@
+{
+  "id": 1209735915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.70556,30.19722,51.70556,30.19722",
+    "geom:latitude":30.19722,
+    "geom:longitude":51.70556,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Zir Rud",
+    "gn:country_code":"IR",
+    "gn:dem":1595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":110962,
+    "gn:latitude":30.19722,
+    "gn:longitude":51.70556,
+    "gn:modification_date":"1997-01-30",
+    "gn:name":"Z\u012br R\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":110962
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1ea62d1b042bbc06ee131aa959d2a292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720209,
+            "locality_id":1209735915,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1209735915,
+    "wof:lastmodified":1536373753,
+    "wof:name":"Zir Rud",
+    "wof:parent_id":1108720209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.70556,
+    30.19722,
+    51.70556,
+    30.19722
+],
+  "geometry": {"coordinates":[51.70556,30.19722],"type":"Point"}
+}

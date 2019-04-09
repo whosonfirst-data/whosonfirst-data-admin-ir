@@ -1,0 +1,76 @@
+{
+  "id": 1226796025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.15222,27.96833,57.15222,27.96833",
+    "geom:latitude":27.96833,
+    "geom:longitude":57.15222,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Galashgerd",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":133196,
+    "gn:latitude":27.96833,
+    "gn:longitude":57.15222,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Gal\u0101shgerd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Gal\u0101shgerd"
+    ],
+    "name:und_x_variant":[
+        "Kol\u0101shkerd",
+        "Gol\u0101shkerd",
+        "Q\u016bl\u0101shgird"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":133196
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d3469408c3939abb3a174918e3893269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720091,
+            "locality_id":1226796025,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1226796025,
+    "wof:lastmodified":1537645149,
+    "wof:name":"Galashgerd",
+    "wof:parent_id":1108720091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.15221999999999,
+    27.96833,
+    57.15221999999999,
+    27.96833
+],
+  "geometry": {"coordinates":[57.15221999999999,27.96833],"type":"Point"}
+}

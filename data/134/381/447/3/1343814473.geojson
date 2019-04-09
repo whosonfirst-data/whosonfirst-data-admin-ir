@@ -1,0 +1,67 @@
+{
+  "id": 1343814473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.71361,28.58,51.71361,28.58",
+    "geom:latitude":28.58,
+    "geom:longitude":51.71361,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Sowhuk",
+    "gn:country_code":"IR",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":113874,
+    "gn:latitude":28.58,
+    "gn:longitude":51.71361,
+    "gn:modification_date":"2001-04-19",
+    "gn:name":"Sowh\u016bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108719953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":113874
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0977e19e9dca2aab70e5f9d27ec5f674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719953,
+            "locality_id":1343814473,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1343814473,
+    "wof:lastmodified":1536733355,
+    "wof:name":"Sowhuk",
+    "wof:parent_id":1108719953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.71361,
+    28.58,
+    51.71361,
+    28.58
+],
+  "geometry": {"coordinates":[51.71361,28.58],"type":"Point"}
+}

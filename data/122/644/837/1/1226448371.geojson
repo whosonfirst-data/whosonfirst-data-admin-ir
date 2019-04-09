@@ -1,0 +1,73 @@
+{
+  "id": 1226448371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.7213,31.2824,61.7213,31.2824",
+    "geom:latitude":31.2824,
+    "geom:longitude":61.7213,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kandukeh",
+    "gn:country_code":"IR",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6651555,
+    "gn:latitude":31.2824,
+    "gn:longitude":61.7213,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kand\u016bkeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0646\u062f\u0648\u06a9\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Kand\u016bkeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6651555
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a4a4130017a9a999fd4720d8c12f8dda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720513,
+            "locality_id":1226448371,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1226448371,
+    "wof:lastmodified":1537647223,
+    "wof:name":"Kandukeh",
+    "wof:parent_id":1108720513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.7213,
+    31.2824,
+    61.7213,
+    31.2824
+],
+  "geometry": {"coordinates":[61.7213,31.2824],"type":"Point"}
+}

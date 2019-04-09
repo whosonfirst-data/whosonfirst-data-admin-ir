@@ -1,0 +1,70 @@
+{
+  "id": 1243572189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.3,27.8,57.3,27.8",
+    "geom:latitude":27.8,
+    "geom:longitude":57.3,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Papar",
+    "gn:country_code":"IR",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":67217,
+    "gn:latitude":27.8,
+    "gn:longitude":57.3,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Papar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u064e\u067e\u064e\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":67217
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1200ef3211314718b79ce296fca4ef29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720357,
+            "locality_id":1243572189,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1243572189,
+    "wof:lastmodified":1537642831,
+    "wof:name":"Papar",
+    "wof:parent_id":1108720357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.3,
+    27.8,
+    57.3,
+    27.8
+],
+  "geometry": {"coordinates":[57.3,27.8],"type":"Point"}
+}

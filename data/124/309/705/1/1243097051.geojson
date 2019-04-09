@@ -1,0 +1,73 @@
+{
+  "id": 1243097051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.73972,32.85,59.73972,32.85",
+    "geom:latitude":32.85,
+    "geom:longitude":59.73972,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Beshgar",
+    "gn:country_code":"IR",
+    "gn:dem":2503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":140790,
+    "gn:latitude":32.85,
+    "gn:longitude":59.73972,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Beshgar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beshgaz\u012b",
+        "Bashgaz Sofl\u00e1",
+        "Beshgaz-e Sofl\u00e1",
+        "Beshgar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108720397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140790
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"44ad9ddb523eba5033329d1298260785",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720397,
+            "locality_id":1243097051,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1243097051,
+    "wof:lastmodified":1537645910,
+    "wof:name":"Beshgar",
+    "wof:parent_id":1108720397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.73972,
+    32.85,
+    59.73972,
+    32.85
+],
+  "geometry": {"coordinates":[59.73972,32.85],"type":"Point"}
+}

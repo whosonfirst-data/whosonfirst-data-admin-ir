@@ -1,0 +1,77 @@
+{
+  "id": 1276142593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.68808,29.99955,52.68808,29.99955",
+    "geom:latitude":29.99955,
+    "geom:longitude":52.68808,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Abgarm",
+    "gn:country_code":"IR",
+    "gn:dem":1607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":44545,
+    "gn:latitude":29.99955,
+    "gn:longitude":52.68808,
+    "gn:modification_date":"2013-09-05",
+    "gn:name":"\u0100bgarm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0100b Garm-e Bozorg"
+    ],
+    "name:fas_x_variant":[
+        "\u0100bgarm",
+        "\u0622\u0628\u06af\u0631\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u0622\u0628\u06af\u0631\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":44545
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3a64982cf6bd7d47e4d060bb32a5e177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720223,
+            "locality_id":1276142593,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1276142593,
+    "wof:lastmodified":1537642498,
+    "wof:name":"Abgarm",
+    "wof:parent_id":1108720223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.68808000000001,
+    29.99955,
+    52.68808000000001,
+    29.99955
+],
+  "geometry": {"coordinates":[52.68808000000001,29.99955],"type":"Point"}
+}

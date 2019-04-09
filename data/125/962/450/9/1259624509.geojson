@@ -1,0 +1,73 @@
+{
+  "id": 1259624509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.3214,38.767,47.3214,38.767",
+    "geom:latitude":38.767,
+    "geom:longitude":47.3214,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Suli Daraq",
+    "gn:country_code":"IR",
+    "gn:dem":1569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6689652,
+    "gn:latitude":38.767,
+    "gn:longitude":47.3214,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"S\u016bl\u012b Daraq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0644\u06cc \u062f\u0631\u0642"
+    ],
+    "name:fas_x_variant":[
+        "S\u016bl\u012b Daraq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108719791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6689652
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2a898a94a70cf971b97df717f5ae1f85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719791,
+            "locality_id":1259624509,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1259624509,
+    "wof:lastmodified":1537647435,
+    "wof:name":"Suli Daraq",
+    "wof:parent_id":1108719791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.3214,
+    38.767,
+    47.3214,
+    38.767
+],
+  "geometry": {"coordinates":[47.3214,38.767],"type":"Point"}
+}

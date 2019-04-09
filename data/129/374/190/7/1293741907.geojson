@@ -1,0 +1,73 @@
+{
+  "id": 1293741907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.33679,33.14838,49.33679,33.14838",
+    "geom:latitude":33.14838,
+    "geom:longitude":49.33679,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Nasrabad",
+    "gn:country_code":"IR",
+    "gn:dem":1824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":32020,
+    "gn:latitude":33.14838,
+    "gn:longitude":49.33679,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Na\u015fr\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0635\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Na\u015fr\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":32020
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6aa406113984847fef310b72e9bd42cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719803,
+            "locality_id":1293741907,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1293741907,
+    "wof:lastmodified":1537641752,
+    "wof:name":"Nasrabad",
+    "wof:parent_id":1108719803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.33679,
+    33.14838,
+    49.33679,
+    33.14838
+],
+  "geometry": {"coordinates":[49.33679,33.14838],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226210847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.85545,33.67019,47.85545,33.67019",
+    "geom:latitude":33.67019,
+    "geom:longitude":47.85545,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Qal`eh Bahador",
+    "gn:country_code":"IR",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":27258,
+    "gn:latitude":33.67019,
+    "gn:longitude":47.85545,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Qal\u2018eh Bah\u0101dor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0639\u0647 \u0628\u0647\u0627\u062f\u0631"
+    ],
+    "name:und_x_variant":[
+        "Qal\u2018eh Bah\u0101dor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":27258
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"96209ce34c64ed7540055b766c95d60c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720145,
+            "locality_id":1226210847,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1226210847,
+    "wof:lastmodified":1537641455,
+    "wof:name":"Qal`eh Bahador",
+    "wof:parent_id":1108720145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.85545,
+    33.67019000000001,
+    47.85545,
+    33.67019000000001
+],
+  "geometry": {"coordinates":[47.85545,33.67019000000001],"type":"Point"}
+}

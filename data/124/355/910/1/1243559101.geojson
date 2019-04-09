@@ -1,0 +1,77 @@
+{
+  "id": 1243559101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.25081,30.28427,51.25081,30.28427",
+    "geom:latitude":30.28427,
+    "geom:longitude":51.25081,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zamen",
+    "gn:country_code":"IR",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8718131,
+    "gn:latitude":30.28427,
+    "gn:longitude":51.25081,
+    "gn:modification_date":"2014-03-11",
+    "gn:name":"\u1e94\u0101men",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0636\u0627\u0645\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0645\u0627\u0645 \u0636\u0627\u0645\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u1e94\u0101men",
+        "Em\u0101m \u1e94\u0101men"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8718131
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"be2b5b54430d8d539177274e9df4b4be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720015,
+            "locality_id":1243559101,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1243559101,
+    "wof:lastmodified":1537648610,
+    "wof:name":"Zamen",
+    "wof:parent_id":1108720015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.25081,
+    30.28427000000001,
+    51.25081,
+    30.28427000000001
+],
+  "geometry": {"coordinates":[51.25081,30.28427000000001],"type":"Point"}
+}

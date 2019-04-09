@@ -1,0 +1,67 @@
+{
+  "id": 1242989309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.06833,35.58472,58.06833,35.58472",
+    "geom:latitude":35.58472,
+    "geom:longitude":58.06833,
+    "gn:admin1_code":"30",
+    "gn:asciiname":"Kalaleh",
+    "gn:country_code":"IR",
+    "gn:dem":1630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":15604,
+    "gn:latitude":35.58472,
+    "gn:longitude":58.06833,
+    "gn:modification_date":"2002-03-29",
+    "gn:name":"Kal\u0101leh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":15604
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d9bb6414e1a09c80cfc3832e11adbef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720367,
+            "locality_id":1242989309,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1242989309,
+    "wof:lastmodified":1536967348,
+    "wof:name":"Kalaleh",
+    "wof:parent_id":1108720367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.06833,
+    35.58472000000001,
+    58.06833,
+    35.58472000000001
+],
+  "geometry": {"coordinates":[58.06833,35.58472000000001],"type":"Point"}
+}

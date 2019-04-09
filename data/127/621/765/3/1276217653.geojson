@@ -1,0 +1,73 @@
+{
+  "id": 1276217653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.1242,27.3755,53.1242,27.3755",
+    "geom:latitude":27.3755,
+    "geom:longitude":53.1242,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Kahur Sukhteh",
+    "gn:country_code":"IR",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":48746,
+    "gn:latitude":27.3755,
+    "gn:longitude":53.1242,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kah\u016br S\u016bkhteh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0647\u0648\u0631 \u0633\u0648\u062e\u062a\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Kah\u016br S\u016bkhteh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":48746
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3917274eaf110e4be6a13d44765b1de0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720181,
+            "locality_id":1276217653,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1276217653,
+    "wof:lastmodified":1537642746,
+    "wof:name":"Kahur Sukhteh",
+    "wof:parent_id":1108720181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.1242,
+    27.3755,
+    53.1242,
+    27.3755
+],
+  "geometry": {"coordinates":[53.1242,27.3755],"type":"Point"}
+}

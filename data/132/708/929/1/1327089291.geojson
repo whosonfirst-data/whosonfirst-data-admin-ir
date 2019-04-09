@@ -1,0 +1,70 @@
+{
+  "id": 1327089291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.35,35.15,52.35,35.15",
+    "geom:latitude":35.15,
+    "geom:longitude":52.35,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Nasard",
+    "gn:country_code":"IR",
+    "gn:dem":809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":32983,
+    "gn:latitude":35.15,
+    "gn:longitude":52.35,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Nasard",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u064e\u0633\u064e\u0631\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672309,
+        1108720023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":32983
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"126f31c1e536f30345854655005d4fef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720023,
+            "locality_id":1327089291,
+            "region_id":85672309
+        }
+    ],
+    "wof:id":1327089291,
+    "wof:lastmodified":1537641834,
+    "wof:name":"Nasard",
+    "wof:parent_id":1108720023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.35,
+    35.15,
+    52.35,
+    35.15
+],
+  "geometry": {"coordinates":[52.35,35.15],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243262507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.50044,31.1319,50.50044,31.1319",
+    "geom:latitude":31.1319,
+    "geom:longitude":50.50044,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Patal-e Ganbuli",
+    "gn:country_code":"IR",
+    "gn:dem":1077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11265927,
+    "gn:latitude":31.1319,
+    "gn:longitude":50.50044,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"P\u0101tal-e Ganb\u016bl\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u062a\u0644 \u06af\u0646\u0628\u0648\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "P\u0101tal-e Ganb\u016bl\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11265927
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"28e6e257725b687b9f96f9bf4eac14c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1243262507,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1243262507,
+    "wof:lastmodified":1537648761,
+    "wof:name":"Patal-e Ganbuli",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.50044000000001,
+    31.1319,
+    50.50044000000001,
+    31.1319
+],
+  "geometry": {"coordinates":[50.50044000000001,31.1319],"type":"Point"}
+}

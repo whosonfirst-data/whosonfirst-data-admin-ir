@@ -1,0 +1,83 @@
+{
+  "id": 1242844383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.36258,32.79546,48.36258,32.79546",
+    "geom:latitude":32.79546,
+    "geom:longitude":48.36258,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Khowsh Ab",
+    "gn:country_code":"IR",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":127193,
+    "gn:latitude":32.79546,
+    "gn:longitude":48.36258,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Khowsh \u0100b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u064f\u0648\u0634\u0627\u0628"
+    ],
+    "name:fas_x_variant":[
+        "\u062e\u064e\u0634\u0627\u0648\u0650\u0647",
+        "\u062e\u0648\u0634 \u0622\u0628",
+        "Khowsh\u0101b",
+        "Khvosh \u0100b"
+    ],
+    "name:und_x_variant":[
+        "Khash\u0101veh",
+        "Khash\u0101weh",
+        "Sar Ch\u0101h-e Khosh\u0101b",
+        "Khowsh \u0100b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":127193,
+        "wk:page":"Sar_Chah-e_Khoshab"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f2b3a0422b490db98808e4dbd79161a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719811,
+            "locality_id":1242844383,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1242844383,
+    "wof:lastmodified":1537644534,
+    "wof:name":"Khowsh Ab",
+    "wof:parent_id":1108719811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.36258,
+    32.79546,
+    48.36258,
+    32.79546
+],
+  "geometry": {"coordinates":[48.36258,32.79546],"type":"Point"}
+}

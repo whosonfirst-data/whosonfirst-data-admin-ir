@@ -1,0 +1,74 @@
+{
+  "id": 1242760403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.4425,31.55,48.4425,31.55",
+    "geom:latitude":31.55,
+    "geom:longitude":48.4425,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Vasileh Yek",
+    "gn:country_code":"IR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6687881,
+    "gn:latitude":31.55,
+    "gn:longitude":48.4425,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Vas\u012bleh Yek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0633\u06cc\u0644\u0647 \u06cc\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "Vas\u012bleh Yek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6687881,
+        "wk:page":"Vasileh_Yek"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d3da61307a5b78a73a438f90800def4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719793,
+            "locality_id":1242760403,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1242760403,
+    "wof:lastmodified":1537647410,
+    "wof:name":"Vasileh Yek",
+    "wof:parent_id":1108719793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.4425,
+    31.55,
+    48.4425,
+    31.55
+],
+  "geometry": {"coordinates":[48.4425,31.55],"type":"Point"}
+}

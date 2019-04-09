@@ -1,0 +1,77 @@
+{
+  "id": 1210011797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.7623,37.90797,48.7623,37.90797",
+    "geom:latitude":37.90797,
+    "geom:longitude":48.7623,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Nesaru",
+    "gn:country_code":"IR",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6743494,
+    "gn:latitude":37.90797,
+    "gn:longitude":48.7623,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Nes\u0101r\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0633\u0627 \u0631\u0648\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Nes\u0101 R\u016bd",
+        "\u0646\u0633\u0627\u0631\u0648"
+    ],
+    "name:und_x_variant":[
+        "Nes\u0101r\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6743494
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2474c48f11a97aca4fc0fd61b0182f41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720487,
+            "locality_id":1210011797,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1210011797,
+    "wof:lastmodified":1537647590,
+    "wof:name":"Nesaru",
+    "wof:parent_id":1108720487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.7623,
+    37.90797,
+    48.7623,
+    37.90797
+],
+  "geometry": {"coordinates":[48.7623,37.90797],"type":"Point"}
+}

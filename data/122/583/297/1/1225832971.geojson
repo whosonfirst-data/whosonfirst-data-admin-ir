@@ -1,0 +1,73 @@
+{
+  "id": 1225832971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.5356,27.7744,56.5356,27.7744",
+    "geom:latitude":27.7744,
+    "geom:longitude":56.5356,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Sarkam-e Kharut",
+    "gn:country_code":"IR",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6985879,
+    "gn:latitude":27.7744,
+    "gn:longitude":56.5356,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sarkam-e Kh\u0101r\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u06a9\u0645 \u062e\u0627\u0631\u0648\u062a"
+    ],
+    "name:fas_x_variant":[
+        "Sarkam-e Kh\u0101r\u016bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108719863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6985879
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0a920e1adb6c15e36f365a876ce555d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719863,
+            "locality_id":1225832971,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1225832971,
+    "wof:lastmodified":1537647850,
+    "wof:name":"Sarkam-e Kharut",
+    "wof:parent_id":1108719863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.5356,
+    27.7744,
+    56.5356,
+    27.7744
+],
+  "geometry": {"coordinates":[56.5356,27.7744],"type":"Point"}
+}

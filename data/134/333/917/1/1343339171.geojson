@@ -1,0 +1,77 @@
+{
+  "id": 1343339171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.37519,26.36799,58.37519,26.36799",
+    "geom:latitude":26.36799,
+    "geom:longitude":58.37519,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sit",
+    "gn:country_code":"IR",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":390559,
+    "gn:latitude":26.36799,
+    "gn:longitude":58.37519,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"S\u012bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u062a"
+    ],
+    "name:fas_x_variant":[
+        "S\u012bt",
+        "\u0633\u06cc\u062a \u0628\u0646\u062f \u062e\u0631\u0633"
+    ],
+    "name:und_x_variant":[
+        "Sit Band-e Khers"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":390559
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"863b932038d9edfe058b50bc63f2635a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720077,
+            "locality_id":1343339171,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1343339171,
+    "wof:lastmodified":1537646479,
+    "wof:name":"Sit",
+    "wof:parent_id":1108720077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.37519,
+    26.36799,
+    58.37519,
+    26.36799
+],
+  "geometry": {"coordinates":[58.37519,26.36799],"type":"Point"}
+}

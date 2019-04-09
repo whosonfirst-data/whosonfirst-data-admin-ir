@@ -1,0 +1,77 @@
+{
+  "id": 1226231583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.31553,34.11325,48.31553,34.11325",
+    "geom:latitude":34.11325,
+    "geom:longitude":48.31553,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tazeh Nab Tappeh",
+    "gn:country_code":"IR",
+    "gn:dem":1872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11222825,
+    "gn:latitude":34.11325,
+    "gn:longitude":48.31553,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"T\u0101zeh N\u0101b Tappeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0632\u0647 \u0646\u0627\u0628 \u062a\u067e\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0627\u0632\u0647 \u0646\u0627\u0628 \u0648\u0633\u0637\u06cc"
+    ],
+    "name:und_x_variant":[
+        "T\u0101zeh N\u0101b Tappeh",
+        "T\u0101zeh N\u0101b-e Vos\u0163\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11222825
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"337cc50c90e2987d4fc6c4aa2cb665b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720257,
+            "locality_id":1226231583,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1226231583,
+    "wof:lastmodified":1537648750,
+    "wof:name":"Tazeh Nab Tappeh",
+    "wof:parent_id":1108720257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.31553,
+    34.11325,
+    48.31553,
+    34.11325
+],
+  "geometry": {"coordinates":[48.31553,34.11325],"type":"Point"}
+}

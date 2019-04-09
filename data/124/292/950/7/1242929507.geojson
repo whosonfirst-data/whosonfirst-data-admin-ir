@@ -1,0 +1,73 @@
+{
+  "id": 1242929507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.90472,33.63083,48.90472,33.63083",
+    "geom:latitude":33.63083,
+    "geom:longitude":48.90472,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Hozhabrabad",
+    "gn:country_code":"IR",
+    "gn:dem":1482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":130895,
+    "gn:latitude":33.63083,
+    "gn:longitude":48.90472,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Hozhabr\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0647\u064f\u0698\u064e\u0628\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Hozhabr\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":130895
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fdf75fb3b24ddb5fed526570c9cb502f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719973,
+            "locality_id":1242929507,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1242929507,
+    "wof:lastmodified":1537644911,
+    "wof:name":"Hozhabrabad",
+    "wof:parent_id":1108719973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.90472000000001,
+    33.63083,
+    48.90472000000001,
+    33.63083
+],
+  "geometry": {"coordinates":[48.90472000000001,33.63083],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1327289925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.69504,33.52718,49.69504,33.52718",
+    "geom:latitude":33.52718,
+    "geom:longitude":49.69504,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Kondar",
+    "gn:country_code":"IR",
+    "gn:dem":2153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":126657,
+    "gn:latitude":33.52718,
+    "gn:longitude":49.69504,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Kondar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0646\u062f\u0631"
+    ],
+    "name:und_x_variant":[
+        "Kundar",
+        "\u06a9\u0646\u062f\u0631",
+        "Kondor",
+        "Kondar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":126657
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f090eb475ca92ed5d92cf7f5e983cf69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719803,
+            "locality_id":1327289925,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1327289925,
+    "wof:lastmodified":1537644473,
+    "wof:name":"Kondar",
+    "wof:parent_id":1108719803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.69504000000001,
+    33.52718,
+    49.69504000000001,
+    33.52718
+],
+  "geometry": {"coordinates":[49.69504000000001,33.52718],"type":"Point"}
+}

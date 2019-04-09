@@ -1,0 +1,67 @@
+{
+  "id": 1343430913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.80972,31.4725,47.80972,31.4725",
+    "geom:latitude":31.4725,
+    "geom:longitude":47.80972,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Deymeh",
+    "gn:country_code":"IR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388199,
+    "gn:latitude":31.4725,
+    "gn:longitude":47.80972,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Deymeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388199
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f4afa624555619d54386be57284329cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719949,
+            "locality_id":1343430913,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1343430913,
+    "wof:lastmodified":1536789442,
+    "wof:name":"Deymeh",
+    "wof:parent_id":1108719949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.80972,
+    31.4725,
+    47.80972,
+    31.4725
+],
+  "geometry": {"coordinates":[47.80972,31.4725],"type":"Point"}
+}

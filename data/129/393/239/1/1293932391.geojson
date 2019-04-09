@@ -1,0 +1,74 @@
+{
+  "id": 1293932391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.5775,38.8984,47.5775,38.8984",
+    "geom:latitude":38.8984,
+    "geom:longitude":47.5775,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Shakram",
+    "gn:country_code":"IR",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":13423,
+    "gn:latitude":38.8984,
+    "gn:longitude":47.5775,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Shakram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0627\u0647\u0643\u064e\u0631\u064e\u0645"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u0643\u0631\u0645",
+        "Sh\u0101hkaram"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13423
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"02fe5d6dd025e08dee01976e7fafe181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720021,
+            "locality_id":1293932391,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1293932391,
+    "wof:lastmodified":1537640708,
+    "wof:name":"Shakram",
+    "wof:parent_id":1108720021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.5775,
+    38.8984,
+    47.5775,
+    38.8984
+],
+  "geometry": {"coordinates":[47.5775,38.8984],"type":"Point"}
+}

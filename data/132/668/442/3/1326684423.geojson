@@ -1,0 +1,73 @@
+{
+  "id": 1326684423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.03183,35.69422,52.03183,35.69422",
+    "geom:latitude":35.69422,
+    "geom:longitude":52.03183,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Shahrak-e Jahad",
+    "gn:country_code":"IR",
+    "gn:dem":1954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8452652,
+    "gn:latitude":35.69422,
+    "gn:longitude":52.03183,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"Shahrak-e Jah\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u06a9 \u062c\u0647\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Shahrak-e Jah\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672313,
+        1108719935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8452652
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1bc3b9ee4da208a9a5e9d833ae304abf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719935,
+            "locality_id":1326684423,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1326684423,
+    "wof:lastmodified":1537648565,
+    "wof:name":"Shahrak-e Jahad",
+    "wof:parent_id":1108719935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.03183,
+    35.69422,
+    52.03183,
+    35.69422
+],
+  "geometry": {"coordinates":[52.03183,35.69422],"type":"Point"}
+}

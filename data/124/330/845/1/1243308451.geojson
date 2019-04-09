@@ -1,0 +1,76 @@
+{
+  "id": 1243308451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.17257,34.65858,49.17257,34.65858",
+    "geom:latitude":34.65858,
+    "geom:longitude":49.17257,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Nahr-e Poshteh",
+    "gn:country_code":"IR",
+    "gn:dem":1640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":122880,
+    "gn:latitude":34.65858,
+    "gn:longitude":49.17257,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Nahr-e Poshteh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0647\u0631 \u067e\u0634\u062a\u0647"
+    ],
+    "name:und_x_variant":[
+        "Nahr Poshteh",
+        "Nahrpushteh",
+        "Nahr-e Poshteh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":122880,
+        "wk:page":"Nahr-e_Poshteh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4b917250f8fd0c2c36fc92debad228fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720159,
+            "locality_id":1243308451,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1243308451,
+    "wof:lastmodified":1537644098,
+    "wof:name":"Nahr-e Poshteh",
+    "wof:parent_id":1108720159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.17257,
+    34.65858,
+    49.17257,
+    34.65858
+],
+  "geometry": {"coordinates":[49.17257,34.65858],"type":"Point"}
+}

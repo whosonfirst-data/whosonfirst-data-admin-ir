@@ -1,0 +1,74 @@
+{
+  "id": 1226424479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.32825,35.56972,47.32825,35.56972",
+    "geom:latitude":35.56972,
+    "geom:longitude":47.32825,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Haqqeh",
+    "gn:country_code":"IR",
+    "gn:dem":1993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":132016,
+    "gn:latitude":35.56972,
+    "gn:longitude":47.32825,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"\u1e28aqqeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0642\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28aqqeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":132016,
+        "wk:page":"Haqqeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5bc73dcd3ba93f29e2d91222076393b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720325,
+            "locality_id":1226424479,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1226424479,
+    "wof:lastmodified":1537645024,
+    "wof:name":"Haqqeh",
+    "wof:parent_id":1108720325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.32825,
+    35.56972000000001,
+    47.32825,
+    35.56972000000001
+],
+  "geometry": {"coordinates":[47.32825,35.56972000000001],"type":"Point"}
+}

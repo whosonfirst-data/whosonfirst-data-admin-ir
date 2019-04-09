@@ -1,0 +1,73 @@
+{
+  "id": 1276976873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.26326,36.895,50.26326,36.895",
+    "geom:latitude":36.895,
+    "geom:longitude":50.26326,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Dul'i Si",
+    "gn:country_code":"IR",
+    "gn:dem":1143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8718885,
+    "gn:latitude":36.895,
+    "gn:longitude":50.26326,
+    "gn:modification_date":"2014-03-11",
+    "gn:name":"D\u016bl\u2019\u012b S\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0644\u06cc\u06cc \u0633\u06cc"
+    ],
+    "name:und_x_variant":[
+        "D\u016bl\u2019\u012b S\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8718885
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d81006f86d0d5fe2a8a3d1051dc38db6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720365,
+            "locality_id":1276976873,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1276976873,
+    "wof:lastmodified":1537648611,
+    "wof:name":"Dul'i Si",
+    "wof:parent_id":1108720365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.26326,
+    36.895,
+    50.26326,
+    36.895
+],
+  "geometry": {"coordinates":[50.26326,36.895],"type":"Point"}
+}

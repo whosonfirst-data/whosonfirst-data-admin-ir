@@ -1,0 +1,77 @@
+{
+  "id": 1276364667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.28169,35.23023,58.28169,35.23023",
+    "geom:latitude":35.23023,
+    "geom:longitude":58.28169,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Ebrahimabad",
+    "gn:country_code":"IR",
+    "gn:dem":964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7547655,
+    "gn:latitude":35.23023,
+    "gn:longitude":58.28169,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ebr\u0101h\u012bm\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Ebr\u0101h\u012bm\u0101b\u0101d"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0628\u0631\u0627\u0647\u06cc\u0645 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u0627\u0628\u0631\u0627\u0647\u06cc\u0645 \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7547655,
+        "wk:page":"Ebrahimabad,_Khalilabad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5176f4a44f6c38e8c2b66d6ccbfeaf50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720121,
+            "locality_id":1276364667,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1276364667,
+    "wof:lastmodified":1537648334,
+    "wof:name":"Ebrahimabad",
+    "wof:parent_id":1108720121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.28169000000001,
+    35.23023,
+    58.28169000000001,
+    35.23023
+],
+  "geometry": {"coordinates":[58.28169000000001,35.23023],"type":"Point"}
+}

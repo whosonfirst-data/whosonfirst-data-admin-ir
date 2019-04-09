@@ -1,0 +1,74 @@
+{
+  "id": 1276698289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.81301,35.81066,48.81301,35.81066",
+    "geom:latitude":35.81066,
+    "geom:longitude":48.81301,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Shahrbaz",
+    "gn:country_code":"IR",
+    "gn:dem":1929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":35849,
+    "gn:latitude":35.81066,
+    "gn:longitude":48.81301,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Shahrb\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0628\u0627\u0632"
+    ],
+    "name:fas_x_variant":[
+        "Shahrb\u0101z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108719913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":35849,
+        "wk:page":"Shahrbaz"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"73a5050ffa100dc9fa1616ab1d2483af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719913,
+            "locality_id":1276698289,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1276698289,
+    "wof:lastmodified":1537641974,
+    "wof:name":"Shahrbaz",
+    "wof:parent_id":1108719913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.81301,
+    35.81066,
+    48.81301,
+    35.81066
+],
+  "geometry": {"coordinates":[48.81301,35.81066],"type":"Point"}
+}

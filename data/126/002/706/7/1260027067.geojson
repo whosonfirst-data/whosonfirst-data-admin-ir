@@ -1,0 +1,78 @@
+{
+  "id": 1260027067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.74323,32.84343,51.74323,32.84343",
+    "geom:latitude":32.84343,
+    "geom:longitude":51.74323,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Shahpurabad",
+    "gn:country_code":"IR",
+    "gn:dem":1569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":418484,
+    "gn:latitude":32.84343,
+    "gn:longitude":51.74323,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sh\u0101hp\u016br\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sh\u0101hp\u016br\u0101b\u0101d"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u0627\u0647\u067e\u0648\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Sh\u0101p\u016br\u0101b\u0101d",
+        "\u0634\u0627\u0647\u067e\u0648\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108719901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":418484,
+        "wk:page":"Shahpurabad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ada2bc1804296d42dfa85bd9cb4a5214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719901,
+            "locality_id":1260027067,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1260027067,
+    "wof:lastmodified":1537646721,
+    "wof:name":"Shahpurabad",
+    "wof:parent_id":1108719901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.74323,
+    32.84343,
+    51.74323,
+    32.84343
+],
+  "geometry": {"coordinates":[51.74323,32.84343],"type":"Point"}
+}

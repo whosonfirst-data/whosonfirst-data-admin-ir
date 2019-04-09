@@ -1,0 +1,76 @@
+{
+  "id": 1343313491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.29286,36.53405,49.29286,36.53405",
+    "geom:latitude":36.53405,
+    "geom:longitude":49.29286,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Palangeh",
+    "gn:country_code":"IR",
+    "gn:dem":1422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":121593,
+    "gn:latitude":36.53405,
+    "gn:longitude":49.29286,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Palangeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0644\u0646\u06af\u0647"
+    ],
+    "name:und_x_variant":[
+        "Palangah",
+        "Palangakh",
+        "Palangeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108720315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":121593,
+        "wk:page":"Palangeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"88fea91a6f3fca2dfa9cd2fe8eb64751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720315,
+            "locality_id":1343313491,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1343313491,
+    "wof:lastmodified":1537643966,
+    "wof:name":"Palangeh",
+    "wof:parent_id":1108720315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.29286,
+    36.53405,
+    49.29286,
+    36.53405
+],
+  "geometry": {"coordinates":[49.29286,36.53405],"type":"Point"}
+}

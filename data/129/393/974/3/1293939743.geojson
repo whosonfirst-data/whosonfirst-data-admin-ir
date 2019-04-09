@@ -1,0 +1,74 @@
+{
+  "id": 1293939743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.06571,28.93125,51.06571,28.93125",
+    "geom:latitude":28.93125,
+    "geom:longitude":51.06571,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"`Ali Shahr",
+    "gn:country_code":"IR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8522943,
+    "gn:latitude":28.93125,
+    "gn:longitude":51.06571,
+    "gn:modification_date":"2018-06-01",
+    "gn:name":"\u2018\u0100l\u012b Shahr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0639\u0627\u0644\u06cc \u0634\u0647\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u2018\u0100l\u012b Shahr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108720481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8522943,
+        "wk:page":"Askari,_Bushehr"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d2506f9751213cf72f7edff33f90e257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720481,
+            "locality_id":1293939743,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1293939743,
+    "wof:lastmodified":1537648571,
+    "wof:name":"`Ali Shahr",
+    "wof:parent_id":1108720481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.06571,
+    28.93125,
+    51.06571,
+    28.93125
+],
+  "geometry": {"coordinates":[51.06571,28.93125],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1326903213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.33848,31.8551,48.33848,31.8551",
+    "geom:latitude":31.8551,
+    "geom:longitude":48.33848,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Beyt-e Saleh",
+    "gn:country_code":"IR",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":42506,
+    "gn:latitude":31.8551,
+    "gn:longitude":48.33848,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Beyt-e \u015e\u0101le\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u062a \u0634\u06cc\u062e \u0635\u0627\u0644\u062d"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28\u0101jj\u012b \u015e\u0101le\u1e29",
+        "Beyt-e Sheykh \u015e\u0101le\u1e29",
+        "\u0628\u06cc\u062a \u0635\u0627\u0644\u062d",
+        "\u0634\u06cc\u062e \u0635\u0627\u0644\u062d"
+    ],
+    "name:und_x_variant":[
+        "Beyt-e \u015e\u0101le\u1e29",
+        "Sheykh \u015e\u0101le\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":42506
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"67250c03c2512e2e0e052d8cfe8c9970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720455,
+            "locality_id":1326903213,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1326903213,
+    "wof:lastmodified":1537642411,
+    "wof:name":"Beyt-e Saleh",
+    "wof:parent_id":1108720455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.33848,
+    31.8551,
+    48.33848,
+    31.8551
+],
+  "geometry": {"coordinates":[48.33848,31.8551],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326702183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.17222,35.53083,46.17222,35.53083",
+    "geom:latitude":35.53083,
+    "geom:longitude":46.17222,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Dasiran",
+    "gn:country_code":"IR",
+    "gn:dem":1356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3066,
+    "gn:latitude":35.53083,
+    "gn:longitude":46.17222,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"D\u0101s\u012br\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0633\u064a\u0631\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "D\u0101s\u012br\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3066
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a23fa470f7c023b474c8a7d868f8d0ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720221,
+            "locality_id":1326702183,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1326702183,
+    "wof:lastmodified":1537640226,
+    "wof:name":"Dasiran",
+    "wof:parent_id":1108720221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.17222,
+    35.53083,
+    46.17222,
+    35.53083
+],
+  "geometry": {"coordinates":[46.17222,35.53083],"type":"Point"}
+}

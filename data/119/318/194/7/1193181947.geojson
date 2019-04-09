@@ -1,0 +1,73 @@
+{
+  "id": 1193181947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.2337,33.7853,49.2337,33.7853",
+    "geom:latitude":33.7853,
+    "geom:longitude":49.2337,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Shahid Chamran Shahrak",
+    "gn:country_code":"IR",
+    "gn:dem":2079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6746748,
+    "gn:latitude":33.7853,
+    "gn:longitude":49.2337,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Shah\u012bd Chamr\u0101n Shahrak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u06cc\u062f \u0686\u0645\u0631\u0627\u0646 \u0634\u0647\u0631\u0643"
+    ],
+    "name:fas_x_variant":[
+        "Shah\u012bd Chamr\u0101n Shahrak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6746748
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"561cb8af9bd81eb3e755dcc21061eecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720443,
+            "locality_id":1193181947,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1193181947,
+    "wof:lastmodified":1537647618,
+    "wof:name":"Shahid Chamran Shahrak",
+    "wof:parent_id":1108720443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.2337,
+    33.7853,
+    49.2337,
+    33.7853
+],
+  "geometry": {"coordinates":[49.2337,33.7853],"type":"Point"}
+}

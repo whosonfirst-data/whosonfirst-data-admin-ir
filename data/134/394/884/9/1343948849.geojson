@@ -1,0 +1,76 @@
+{
+  "id": 1343948849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.3702,28.7865,52.3702,28.7865",
+    "geom:latitude":28.7865,
+    "geom:longitude":52.3702,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Mangowk",
+    "gn:country_code":"IR",
+    "gn:dem":1008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":124231,
+    "gn:latitude":28.7865,
+    "gn:longitude":52.3702,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mangowk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u06af\u0648\u0643"
+    ],
+    "name:und_x_variant":[
+        "Mengarak",
+        "Mangar\u0101n",
+        "Mangowk",
+        "Mangerak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108719991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":124231
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2466894501711e8efdf9be2cbfb44460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719991,
+            "locality_id":1343948849,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1343948849,
+    "wof:lastmodified":1537644231,
+    "wof:name":"Mangowk",
+    "wof:parent_id":1108719991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.3702,
+    28.7865,
+    52.3702,
+    28.7865
+],
+  "geometry": {"coordinates":[52.3702,28.7865],"type":"Point"}
+}

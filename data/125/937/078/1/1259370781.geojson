@@ -1,0 +1,73 @@
+{
+  "id": 1259370781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.68255,27.35805,56.68255,27.35805",
+    "geom:latitude":27.35805,
+    "geom:longitude":56.68255,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mazra`eh-ye Kahr",
+    "gn:country_code":"IR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8624335,
+    "gn:latitude":27.35805,
+    "gn:longitude":56.68255,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Mazra\u2018eh-ye Kahr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0647 \u06a9\u0647\u0631"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u2018eh-ye Kahr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108719863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8624335
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"68f4bfeec58ce903aa68cc6aa60a9d86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719863,
+            "locality_id":1259370781,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1259370781,
+    "wof:lastmodified":1537648594,
+    "wof:name":"Mazra`eh-ye Kahr",
+    "wof:parent_id":1108719863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.68255,
+    27.35805,
+    56.68255,
+    27.35805
+],
+  "geometry": {"coordinates":[56.68255,27.35805],"type":"Point"}
+}

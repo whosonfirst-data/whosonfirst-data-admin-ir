@@ -1,0 +1,73 @@
+{
+  "id": 1293389939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.35377,27.00387,61.35377,27.00387",
+    "geom:latitude":27.00387,
+    "geom:longitude":61.35377,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shak Sheychi",
+    "gn:country_code":"IR",
+    "gn:dem":1417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8675473,
+    "gn:latitude":27.00387,
+    "gn:longitude":61.35377,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Shak Sheych\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u06a9 \u0634\u06cc\u0686\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Shak Sheych\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8675473
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cb428689e67eb87032308f2d9148df1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720389,
+            "locality_id":1293389939,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1293389939,
+    "wof:lastmodified":1537648599,
+    "wof:name":"Shak Sheychi",
+    "wof:parent_id":1108720389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.35377,
+    27.00387000000001,
+    61.35377,
+    27.00387000000001
+],
+  "geometry": {"coordinates":[61.35377,27.00387000000001],"type":"Point"}
+}

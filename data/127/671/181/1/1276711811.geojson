@@ -1,0 +1,77 @@
+{
+  "id": 1276711811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.2076,33.6484,52.2076,33.6484",
+    "geom:latitude":33.6484,
+    "geom:longitude":52.2076,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Sarajebeh",
+    "gn:country_code":"IR",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":117282,
+    "gn:latitude":33.6484,
+    "gn:longitude":52.2076,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sar\u0101jebeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0627\u062c\u0628\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Sar\u0101j\u012byeh",
+        "Sar\u0101jebeh"
+    ],
+    "name:und_x_variant":[
+        "Sarr\u0101jeyeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108719825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":117282
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8d809aa21b3cba50739879c4cce702c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719825,
+            "locality_id":1276711811,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1276711811,
+    "wof:lastmodified":1537643525,
+    "wof:name":"Sarajebeh",
+    "wof:parent_id":1108719825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.2076,
+    33.6484,
+    52.2076,
+    33.6484
+],
+  "geometry": {"coordinates":[52.2076,33.6484],"type":"Point"}
+}

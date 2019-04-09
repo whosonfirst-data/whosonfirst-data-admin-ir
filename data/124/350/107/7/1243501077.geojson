@@ -1,0 +1,67 @@
+{
+  "id": 1243501077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.8148,30.328,56.8148,30.328",
+    "geom:latitude":30.328,
+    "geom:longitude":56.8148,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Dahaneh",
+    "gn:country_code":"IR",
+    "gn:dem":2044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7011470,
+    "gn:latitude":30.328,
+    "gn:longitude":56.8148,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Dahaneh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7011470
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"47d01e37c8ae592a0cf83bd60c400ac5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720115,
+            "locality_id":1243501077,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1243501077,
+    "wof:lastmodified":1536727222,
+    "wof:name":"Dahaneh",
+    "wof:parent_id":1108720115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.8148,
+    30.32800000000001,
+    56.8148,
+    30.32800000000001
+],
+  "geometry": {"coordinates":[56.8148,30.32800000000001],"type":"Point"}
+}

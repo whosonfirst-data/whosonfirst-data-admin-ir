@@ -1,0 +1,73 @@
+{
+  "id": 1259429351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.29838,28.01092,58.29838,28.01092",
+    "geom:latitude":28.01092,
+    "geom:longitude":58.29838,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mollamardeh",
+    "gn:country_code":"IR",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9074389,
+    "gn:latitude":28.01092,
+    "gn:longitude":58.29838,
+    "gn:modification_date":"2014-06-06",
+    "gn:name":"Moll\u0101mardeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0627\u0645\u0631\u062f\u0647"
+    ],
+    "name:und_x_variant":[
+        "Moll\u0101mardeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9074389
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e9588ee6e47ce014c85026f7ac4b5373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720363,
+            "locality_id":1259429351,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1259429351,
+    "wof:lastmodified":1537648623,
+    "wof:name":"Mollamardeh",
+    "wof:parent_id":1108720363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.29838,
+    28.01092,
+    58.29838,
+    28.01092
+],
+  "geometry": {"coordinates":[58.29838,28.01092],"type":"Point"}
+}

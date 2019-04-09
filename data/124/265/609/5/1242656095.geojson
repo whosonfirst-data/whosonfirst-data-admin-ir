@@ -1,0 +1,77 @@
+{
+  "id": 1242656095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.1502,33.5704,46.1502,33.5704",
+    "geom:latitude":33.5704,
+    "geom:longitude":46.1502,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Lizan",
+    "gn:country_code":"IR",
+    "gn:dem":712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":125636,
+    "gn:latitude":33.5704,
+    "gn:longitude":46.1502,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"L\u012bzan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0644\u064a\u0632\u064e\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0644\u06cc\u0632\u0646",
+        "L\u016bzan",
+        "\u0644\u0648\u0632\u064e\u0646",
+        "L\u012bzan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108720231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":125636,
+        "wk:page":"Lizan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a57e94156b0a9360bb26ff67673937ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720231,
+            "locality_id":1242656095,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1242656095,
+    "wof:lastmodified":1537644368,
+    "wof:name":"Lizan",
+    "wof:parent_id":1108720231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.1502,
+    33.5704,
+    46.1502,
+    33.5704
+],
+  "geometry": {"coordinates":[46.1502,33.5704],"type":"Point"}
+}

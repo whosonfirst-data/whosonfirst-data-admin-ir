@@ -1,0 +1,81 @@
+{
+  "id": 1309962187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.445,29.9366,50.445,29.9366",
+    "geom:latitude":29.9366,
+    "geom:longitude":50.445,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Gorbeh'i",
+    "gn:country_code":"IR",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":132908,
+    "gn:latitude":29.9366,
+    "gn:longitude":50.445,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Gorbeh\u2019\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u064f\u0631\u0628\u0650\u0647\u0626\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u064f\u0648\u0631\u0628\u0650\u0647",
+        "\u06af\u064f\u0631\u0628\u0650\u0647",
+        "\u06af\u0631\u0628\u0647 \u0627\u06cc",
+        "Gorbeh\u2019\u012b"
+    ],
+    "name:und_x_variant":[
+        "Gowrbeh",
+        "Gorbeh",
+        "Gurbehi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108719967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":132908
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"20e33cb6d0ce457b1172f6fde6acd9d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719967,
+            "locality_id":1309962187,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1309962187,
+    "wof:lastmodified":1537645117,
+    "wof:name":"Gorbeh'i",
+    "wof:parent_id":1108719967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.445,
+    29.9366,
+    50.445,
+    29.9366
+],
+  "geometry": {"coordinates":[50.445,29.9366],"type":"Point"}
+}

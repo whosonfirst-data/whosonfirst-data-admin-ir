@@ -1,0 +1,75 @@
+{
+  "id": 1327313009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.3358,34.554,47.3358,34.554",
+    "geom:latitude":34.554,
+    "geom:longitude":47.3358,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Cheshmeh Kareh",
+    "gn:country_code":"IR",
+    "gn:dem":1819,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":138561,
+    "gn:latitude":34.554,
+    "gn:longitude":47.3358,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cheshmeh Kareh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0634\u0645\u0647 \u06a9\u0631\u0647"
+    ],
+    "name:und_x_variant":[
+        "Chashmeh Karan",
+        "Cheshmeh Karan",
+        "Cheshmeh Kareh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":138561
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7c5cc56ff91ee61257fd4276feac1dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720051,
+            "locality_id":1327313009,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1327313009,
+    "wof:lastmodified":1537645690,
+    "wof:name":"Cheshmeh Kareh",
+    "wof:parent_id":1108720051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.3358,
+    34.554,
+    47.3358,
+    34.554
+],
+  "geometry": {"coordinates":[47.3358,34.554],"type":"Point"}
+}

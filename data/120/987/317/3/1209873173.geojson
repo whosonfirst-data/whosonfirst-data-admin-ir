@@ -1,0 +1,74 @@
+{
+  "id": 1209873173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.75542,35.5761,56.75542,35.5761",
+    "geom:latitude":35.5761,
+    "geom:longitude":56.75542,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Barm",
+    "gn:country_code":"IR",
+    "gn:dem":1215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":141235,
+    "gn:latitude":35.5761,
+    "gn:longitude":56.75542,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Barm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0645"
+    ],
+    "name:und_x_variant":[
+        "Beram",
+        "Barm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672309,
+        1108720441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":141235
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e95f9c491eb55a4d00ba75f40dd31f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720441,
+            "locality_id":1209873173,
+            "region_id":85672309
+        }
+    ],
+    "wof:id":1209873173,
+    "wof:lastmodified":1537645957,
+    "wof:name":"Barm",
+    "wof:parent_id":1108720441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.75542,
+    35.5761,
+    56.75542,
+    35.5761
+],
+  "geometry": {"coordinates":[56.75542,35.5761],"type":"Point"}
+}

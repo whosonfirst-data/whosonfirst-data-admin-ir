@@ -1,0 +1,74 @@
+{
+  "id": 1310698245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.87416,29.96919,53.87416,29.96919",
+    "geom:latitude":29.96919,
+    "geom:longitude":53.87416,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Hesami",
+    "gn:country_code":"IR",
+    "gn:dem":2076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":131508,
+    "gn:latitude":29.96919,
+    "gn:longitude":53.87416,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"\u1e28es\u0101m\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0633\u0627\u0645\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28es\u0101m\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108719883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":131508,
+        "wk:page":"Hesami"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"124e61d0a431973e4de746762142d68e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719883,
+            "locality_id":1310698245,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1310698245,
+    "wof:lastmodified":1537644975,
+    "wof:name":"Hesami",
+    "wof:parent_id":1108719883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.87416,
+    29.96919,
+    53.87416,
+    29.96919
+],
+  "geometry": {"coordinates":[53.87416,29.96919],"type":"Point"}
+}

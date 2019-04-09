@@ -1,0 +1,74 @@
+{
+  "id": 1259382665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.94028,26.90278,62.94028,26.90278",
+    "geom:latitude":26.90278,
+    "geom:longitude":62.94028,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kuh Kanar",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1160459,
+    "gn:latitude":26.90278,
+    "gn:longitude":62.94028,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"K\u016bh Kan\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "K\u016bh Kan\u0101r"
+    ],
+    "name:und_x_variant":[
+        "K\u016bh-e Kan\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1160459
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"40f99d4c8c059a276e4216f2d14ce187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720389,
+            "locality_id":1259382665,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1259382665,
+    "wof:lastmodified":1537647044,
+    "wof:name":"Kuh Kanar",
+    "wof:parent_id":1108720389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.94028,
+    26.90278,
+    62.94028,
+    26.90278
+],
+  "geometry": {"coordinates":[62.94028,26.90278],"type":"Point"}
+}

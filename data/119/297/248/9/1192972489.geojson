@@ -1,0 +1,82 @@
+{
+  "id": 1192972489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.6781,38.1297,46.6781,38.1297",
+    "geom:latitude":38.1297,
+    "geom:longitude":46.6781,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Shamlu",
+    "gn:country_code":"IR",
+    "gn:dem":1539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":115553,
+    "gn:latitude":38.1297,
+    "gn:longitude":46.6781,
+    "gn:modification_date":"2018-05-21",
+    "gn:name":"Sh\u0101ml\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u064f\u0645\u064a\u062f\u0686\u0650\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Sh\u0101ml\u016b",
+        "\u0634\u064e\u0645\u0644\u064f\u0651",
+        "\u0634\u0627\u0645\u0644\u0648"
+    ],
+    "name:und_x_variant":[
+        "Om\u012bdcheh",
+        "Shamloo",
+        "Imicha",
+        "\u0634\u0627\u0645\u0644\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":115553,
+        "wk:page":"Shamlu,_East_Azerbaijan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1b74d634c6b1f1e0168d438b654c5bb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720049,
+            "locality_id":1192972489,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1192972489,
+    "wof:lastmodified":1537643371,
+    "wof:name":"Shamlu",
+    "wof:parent_id":1108720049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.6781,
+    38.1297,
+    46.6781,
+    38.1297
+],
+  "geometry": {"coordinates":[46.6781,38.1297],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1360213651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.611,35.91713,57.611,35.91713",
+    "geom:latitude":35.91713,
+    "geom:longitude":57.611,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Estaj",
+    "gn:country_code":"IR",
+    "gn:dem":1716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":135091,
+    "gn:latitude":35.91713,
+    "gn:longitude":57.611,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Est\u0101j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u062c"
+    ],
+    "name:fas_x_variant":[
+        "Est\u0101ch",
+        "Est\u0101j"
+    ],
+    "name:und_x_variant":[
+        "Usmaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":135091,
+        "wk:page":"Estaj,_Sabzevar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f069c4b0bcc253631bbfbeca17b7175b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720367,
+            "locality_id":1360213651,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1360213651,
+    "wof:lastmodified":1537645338,
+    "wof:name":"Estaj",
+    "wof:parent_id":1108720367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.611,
+    35.91713,
+    57.611,
+    35.91713
+],
+  "geometry": {"coordinates":[57.611,35.91713],"type":"Point"}
+}

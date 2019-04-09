@@ -1,0 +1,73 @@
+{
+  "id": 1343767949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.38522,28.11512,60.38522,28.11512",
+    "geom:latitude":28.11512,
+    "geom:longitude":60.38522,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Buk Dardari",
+    "gn:country_code":"IR",
+    "gn:dem":1628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7075681,
+    "gn:latitude":28.11512,
+    "gn:longitude":60.38522,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"B\u016bk Dardar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06a9 \u062f\u0631\u062f\u0631\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "B\u016bk Dardar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7075681
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"acec4e9ba6353382b3460f3a9b669c14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720131,
+            "locality_id":1343767949,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1343767949,
+    "wof:lastmodified":1537648011,
+    "wof:name":"Buk Dardari",
+    "wof:parent_id":1108720131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.38522,
+    28.11512,
+    60.38522,
+    28.11512
+],
+  "geometry": {"coordinates":[60.38522,28.11512],"type":"Point"}
+}

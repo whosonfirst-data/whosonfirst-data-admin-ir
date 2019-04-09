@@ -1,0 +1,67 @@
+{
+  "id": 1276281065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.9,28.95,57.9,28.95",
+    "geom:latitude":28.95,
+    "geom:longitude":57.9,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Sarcheshmeh",
+    "gn:country_code":"IR",
+    "gn:dem":2228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":46091,
+    "gn:latitude":28.95,
+    "gn:longitude":57.9,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sarcheshmeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":46091
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"322c278ade9383b974d07204252dc373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720081,
+            "locality_id":1276281065,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1276281065,
+    "wof:lastmodified":1536847731,
+    "wof:name":"Sarcheshmeh",
+    "wof:parent_id":1108720081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.9,
+    28.95,
+    57.9,
+    28.95
+],
+  "geometry": {"coordinates":[57.9,28.95],"type":"Point"}
+}

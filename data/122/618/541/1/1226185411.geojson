@@ -1,0 +1,74 @@
+{
+  "id": 1226185411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.5463,36.6364,48.5463,36.6364",
+    "geom:latitude":36.6364,
+    "geom:longitude":48.5463,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Kharab Akh",
+    "gn:country_code":"IR",
+    "gn:dem":1649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10784,
+    "gn:latitude":36.6364,
+    "gn:longitude":48.5463,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Khar\u0101b Akh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0631\u0627\u0628 \u0627\u062e"
+    ],
+    "name:fas_x_variant":[
+        "Khar\u0101b \u0100kh",
+        "Khar\u0101b Akh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672361,
+        1108720519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10784
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f94b5ee3392085228824b80c3ecbdda1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720519,
+            "locality_id":1226185411,
+            "region_id":85672361
+        }
+    ],
+    "wof:id":1226185411,
+    "wof:lastmodified":1537640592,
+    "wof:name":"Kharab Akh",
+    "wof:parent_id":1108720519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.5463,
+    36.6364,
+    48.5463,
+    36.6364
+],
+  "geometry": {"coordinates":[48.5463,36.6364],"type":"Point"}
+}

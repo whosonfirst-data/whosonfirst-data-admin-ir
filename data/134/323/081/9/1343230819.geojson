@@ -1,0 +1,73 @@
+{
+  "id": 1343230819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.71667,29.2,50.71667,29.2",
+    "geom:latitude":29.2,
+    "geom:longitude":50.71667,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Rudkhaneh-ye Khoshk",
+    "gn:country_code":"IR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":44229,
+    "gn:latitude":29.2,
+    "gn:longitude":50.71667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"R\u016bdkh\u0101neh-ye Khoshk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u062f\u062e\u0627\u0646\u0650\u06c0 \u062e\u064f\u0634\u0643"
+    ],
+    "name:fas_x_variant":[
+        "R\u016bdkh\u0101neh-ye Khoshk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108720027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":44229
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"68ef9ac8fdeb5ac120ab1cfb4425a0a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720027,
+            "locality_id":1343230819,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1343230819,
+    "wof:lastmodified":1537642489,
+    "wof:name":"Rudkhaneh-ye Khoshk",
+    "wof:parent_id":1108720027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.71667,
+    29.2,
+    50.71667,
+    29.2
+],
+  "geometry": {"coordinates":[50.71667,29.2],"type":"Point"}
+}

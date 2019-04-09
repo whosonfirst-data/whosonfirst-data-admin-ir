@@ -1,0 +1,73 @@
+{
+  "id": 1276643933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.96504,27.26257,52.96504,27.26257",
+    "geom:latitude":27.26257,
+    "geom:longitude":52.96504,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mahalleh-ye Hoseynabad",
+    "gn:country_code":"IR",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8596592,
+    "gn:latitude":27.26257,
+    "gn:longitude":52.96504,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"Ma\u1e29alleh-ye \u1e28oseyn\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u062d\u0644\u0647 \u062d\u0633\u06cc\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Ma\u1e29alleh-ye \u1e28oseyn\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8596592
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6c723aba9221d6ed45cfd3b15493f456",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720025,
+            "locality_id":1276643933,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1276643933,
+    "wof:lastmodified":1537648590,
+    "wof:name":"Mahalleh-ye Hoseynabad",
+    "wof:parent_id":1108720025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.96504,
+    27.26257,
+    52.96504,
+    27.26257
+],
+  "geometry": {"coordinates":[52.96504,27.26257],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243058559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.1616,28.19,55.1616,28.19",
+    "geom:latitude":28.19,
+    "geom:longitude":55.1616,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Bostanabad",
+    "gn:country_code":"IR",
+    "gn:dem":734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6980124,
+    "gn:latitude":28.19,
+    "gn:longitude":55.1616,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Bost\u0101n\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0633\u062a\u0627\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Bost\u0101n\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108719939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6980124
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"294e3f62966ba021b767a39e116bc03f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719939,
+            "locality_id":1243058559,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1243058559,
+    "wof:lastmodified":1537647810,
+    "wof:name":"Bostanabad",
+    "wof:parent_id":1108719939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.1616,
+    28.19,
+    55.1616,
+    28.19
+],
+  "geometry": {"coordinates":[55.1616,28.19],"type":"Point"}
+}

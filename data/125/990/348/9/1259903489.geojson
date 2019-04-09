@@ -1,0 +1,79 @@
+{
+  "id": 1259903489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.38333,25.66667,61.38333,25.66667",
+    "geom:latitude":25.66667,
+    "geom:longitude":61.38333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chut",
+    "gn:country_code":"IR",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1159140,
+    "gn:latitude":25.66667,
+    "gn:longitude":61.38333,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Ch\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u062a"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u064f\u062a",
+        "\u0634\u064f\u062a",
+        "Ch\u016bt"
+    ],
+    "name:und_x_variant":[
+        "Shot",
+        "Chot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108719919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1159140
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d11f5ac1fd0588c1d292972b3d2e89dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719919,
+            "locality_id":1259903489,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1259903489,
+    "wof:lastmodified":1537646954,
+    "wof:name":"Chut",
+    "wof:parent_id":1108719919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.38333000000001,
+    25.66667,
+    61.38333000000001,
+    25.66667
+],
+  "geometry": {"coordinates":[61.38333000000001,25.66667],"type":"Point"}
+}

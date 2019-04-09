@@ -1,0 +1,73 @@
+{
+  "id": 1343350823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.95313,35.41441,48.95313,35.41441",
+    "geom:latitude":35.41441,
+    "geom:longitude":48.95313,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Gholam`ali",
+    "gn:country_code":"IR",
+    "gn:dem":1945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":36049,
+    "gn:latitude":35.41441,
+    "gn:longitude":48.95313,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Ghol\u0101m\u2018al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u063a\u0644\u0627\u0645\u0639\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Ghol\u0101m\u2018al\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":36049
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7c445c80c862792de2c0aeddd7dd2f68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720349,
+            "locality_id":1343350823,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1343350823,
+    "wof:lastmodified":1537641983,
+    "wof:name":"Gholam`ali",
+    "wof:parent_id":1108720349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.95313,
+    35.41441,
+    48.95313,
+    35.41441
+],
+  "geometry": {"coordinates":[48.95313,35.41441],"type":"Point"}
+}

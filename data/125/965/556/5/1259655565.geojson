@@ -1,0 +1,73 @@
+{
+  "id": 1259655565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.00375,35.13123,48.00375,35.13123",
+    "geom:latitude":35.13123,
+    "geom:longitude":48.00375,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Zangabad",
+    "gn:country_code":"IR",
+    "gn:dem":1795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":35805,
+    "gn:latitude":35.13123,
+    "gn:longitude":48.00375,
+    "gn:modification_date":"2016-11-13",
+    "gn:name":"Zang\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u0646\u06af \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Zang\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":35805
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"137bd1abe5e1fe7c35868e5f89c6fe39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720325,
+            "locality_id":1259655565,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1259655565,
+    "wof:lastmodified":1537641972,
+    "wof:name":"Zangabad",
+    "wof:parent_id":1108720325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.00375,
+    35.13123,
+    48.00375,
+    35.13123
+],
+  "geometry": {"coordinates":[48.00375,35.13123],"type":"Point"}
+}

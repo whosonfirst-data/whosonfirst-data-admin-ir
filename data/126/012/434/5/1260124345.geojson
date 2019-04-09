@@ -1,0 +1,77 @@
+{
+  "id": 1260124345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.08685,36.68321,51.08685,36.68321",
+    "geom:latitude":36.68321,
+    "geom:longitude":51.08685,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Parchevar",
+    "gn:country_code":"IR",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7863,
+    "gn:latitude":36.68321,
+    "gn:longitude":51.08685,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Parchevar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u0686\u0648\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u0631\u0686\u0647 \u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u067e\u0631\u0686\u0647 \u0648\u0631",
+        "Parchehvar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7863
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1b9a390bea09fc12fec32b3a9498f147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720495,
+            "locality_id":1260124345,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1260124345,
+    "wof:lastmodified":1537640394,
+    "wof:name":"Parchevar",
+    "wof:parent_id":1108720495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.08685,
+    36.68321,
+    51.08685,
+    36.68321
+],
+  "geometry": {"coordinates":[51.08685,36.68321],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276720115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.75034,28.06833,51.75034,28.06833",
+    "geom:latitude":28.06833,
+    "geom:longitude":51.75034,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Malgeh",
+    "gn:country_code":"IR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8549090,
+    "gn:latitude":28.06833,
+    "gn:longitude":51.75034,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Malgeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u06af\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0644 \u06af\u0627\u0647"
+    ],
+    "name:und_x_variant":[
+        "Mal G\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108719955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8549090
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4e92db9661872124d95c120eedb3a3c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719955,
+            "locality_id":1276720115,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1276720115,
+    "wof:lastmodified":1537648584,
+    "wof:name":"Malgeh",
+    "wof:parent_id":1108719955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.75034,
+    28.06833,
+    51.75034,
+    28.06833
+],
+  "geometry": {"coordinates":[51.75034,28.06833],"type":"Point"}
+}

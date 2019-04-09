@@ -1,0 +1,73 @@
+{
+  "id": 1242706969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.27708,33.09589,59.27708,33.09589",
+    "geom:latitude":33.09589,
+    "geom:longitude":59.27708,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Khunik",
+    "gn:country_code":"IR",
+    "gn:dem":1966,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8534052,
+    "gn:latitude":33.09589,
+    "gn:longitude":59.27708,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Kh\u016bn\u012bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0646\u06cc\u06a9"
+    ],
+    "name:und_x_variant":[
+        "Kh\u016bn\u012bk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108719895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8534052
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5a13441bd0c25e94e09ade766e0a8313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719895,
+            "locality_id":1242706969,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1242706969,
+    "wof:lastmodified":1537648573,
+    "wof:name":"Khunik",
+    "wof:parent_id":1108719895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.27708000000001,
+    33.09589,
+    59.27708000000001,
+    33.09589
+],
+  "geometry": {"coordinates":[59.27708000000001,33.09589],"type":"Point"}
+}

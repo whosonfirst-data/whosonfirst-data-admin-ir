@@ -1,0 +1,68 @@
+{
+  "id": 1309888531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.7648,32.84735,48.7648,32.84735",
+    "geom:latitude":32.84735,
+    "geom:longitude":48.7648,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Torbeh",
+    "gn:country_code":"IR",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":36221,
+    "gn:latitude":32.84735,
+    "gn:longitude":48.7648,
+    "gn:modification_date":"2016-01-06",
+    "gn:name":"Torbeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":36221,
+        "wk:page":"Torbeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d8469edfe60a69e9ecc8f02a31b6a606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719969,
+            "locality_id":1309888531,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1309888531,
+    "wof:lastmodified":1537565634,
+    "wof:name":"Torbeh",
+    "wof:parent_id":1108719969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.7648,
+    32.84735,
+    48.7648,
+    32.84735
+],
+  "geometry": {"coordinates":[48.7648,32.84735],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293229649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.16637,35.40779,60.16637,35.40779",
+    "geom:latitude":35.40779,
+    "geom:longitude":60.16637,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Hasanak",
+    "gn:country_code":"IR",
+    "gn:dem":1346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1161007,
+    "gn:latitude":35.40779,
+    "gn:longitude":60.16637,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28asanak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0633\u0646\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28asanak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1161007,
+        "wk:page":"Hasanak,_Razavi_Khorasan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a912b88bdc53dc243acc86f9ff837290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720499,
+            "locality_id":1293229649,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1293229649,
+    "wof:lastmodified":1537647085,
+    "wof:name":"Hasanak",
+    "wof:parent_id":1108720499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.16636999999999,
+    35.40779000000001,
+    60.16636999999999,
+    35.40779000000001
+],
+  "geometry": {"coordinates":[60.16636999999999,35.40779000000001],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242827293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.88248,36.76826,48.88248,36.76826",
+    "geom:latitude":36.76826,
+    "geom:longitude":48.88248,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Kharmanjeh",
+    "gn:country_code":"IR",
+    "gn:dem":1428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11595666,
+    "gn:latitude":36.76826,
+    "gn:longitude":48.88248,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Kharmanjeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0631\u0645\u0646\u062c\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672361,
+        1108720519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11595666
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c813348cb1e8904ccf64bdfd66395f43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720519,
+            "locality_id":1242827293,
+            "region_id":85672361
+        }
+    ],
+    "wof:id":1242827293,
+    "wof:lastmodified":1537648793,
+    "wof:name":"Kharmanjeh",
+    "wof:parent_id":1108720519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.88248,
+    36.76826,
+    48.88248,
+    36.76826
+],
+  "geometry": {"coordinates":[48.88248,36.76826],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1276175591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.0682,36.6456,49.0682,36.6456",
+    "geom:latitude":36.6456,
+    "geom:longitude":49.0682,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Dizeh Jin",
+    "gn:country_code":"IR",
+    "gn:dem":1203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":136104,
+    "gn:latitude":36.6456,
+    "gn:longitude":49.0682,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"D\u012bzeh J\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u064a\u0632\u0647 \u062c\u064a\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u064a\u0632\u062c\u064a\u0646",
+        "D\u012bzeh J\u012bn"
+    ],
+    "name:und_x_variant":[
+        "D\u012bzahj\u012bn",
+        "D\u012bzaj\u012bn",
+        "Dizjin",
+        "D\u012bzej\u012bn",
+        "Dizadzhin",
+        "D\u012bz J\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108720315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":136104,
+        "wk:page":"Dizajin"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3544b32507237cb1d584d8a7cdf93e36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720315,
+            "locality_id":1276175591,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1276175591,
+    "wof:lastmodified":1537645439,
+    "wof:name":"Dizeh Jin",
+    "wof:parent_id":1108720315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.0682,
+    36.6456,
+    49.0682,
+    36.6456
+],
+  "geometry": {"coordinates":[49.0682,36.6456],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343981463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.1955,25.94999,60.1955,25.94999",
+    "geom:latitude":25.94999,
+    "geom:longitude":60.1955,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Puzak",
+    "gn:country_code":"IR",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1113354,
+    "gn:latitude":25.94999,
+    "gn:longitude":60.1955,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"P\u016bzak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "P\u016bzak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1113354
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"95297049177a2ad2b661a3dd5baab6e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720271,
+            "locality_id":1343981463,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1343981463,
+    "wof:lastmodified":1537646850,
+    "wof:name":"Puzak",
+    "wof:parent_id":1108720271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.1955,
+    25.94999,
+    60.1955,
+    25.94999
+],
+  "geometry": {"coordinates":[60.1955,25.94999],"type":"Point"}
+}

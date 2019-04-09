@@ -1,0 +1,73 @@
+{
+  "id": 1276464295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.5314,29.0553,54.5314,29.0553",
+    "geom:latitude":29.0553,
+    "geom:longitude":54.5314,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Eslamabad",
+    "gn:country_code":"IR",
+    "gn:dem":1905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6980014,
+    "gn:latitude":29.0553,
+    "gn:longitude":54.5314,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Esl\u0101m\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u0644\u0627\u0645 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Esl\u0101m\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6980014
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"13a9c2f4c3d4257b0bdc980505b1d449",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720277,
+            "locality_id":1276464295,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1276464295,
+    "wof:lastmodified":1537647808,
+    "wof:name":"Eslamabad",
+    "wof:parent_id":1108720277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.5314,
+    29.0553,
+    54.5314,
+    29.0553
+],
+  "geometry": {"coordinates":[54.5314,29.0553],"type":"Point"}
+}

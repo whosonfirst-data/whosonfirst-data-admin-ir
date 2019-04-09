@@ -1,0 +1,80 @@
+{
+  "id": 1309802467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.86151,31.05905,50.86151,31.05905",
+    "geom:latitude":31.05905,
+    "geom:longitude":50.86151,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Nahliun",
+    "gn:country_code":"IR",
+    "gn:dem":1791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7529476,
+    "gn:latitude":31.05905,
+    "gn:longitude":50.86151,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Nahl\u012b\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Nahl\u012b\u016bn"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0647\u0644\u06cc\u0648\u0646",
+        "\u062f\u0647 \u067e\u0627\u06cc \u062a\u0648\u0641",
+        "\u062a\u0647\u0644\u06cc\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0646\u0647\u0644\u06cc\u0648\u0646",
+        "Deh-e P\u0101y T\u016bf",
+        "Tahl\u012b\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108719911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7529476
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"eeb1f2c71bd2856fcc25fad64dd68de5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719911,
+            "locality_id":1309802467,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1309802467,
+    "wof:lastmodified":1537648295,
+    "wof:name":"Nahliun",
+    "wof:parent_id":1108719911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.86151,
+    31.05905,
+    50.86151,
+    31.05905
+],
+  "geometry": {"coordinates":[50.86151,31.05905],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360031983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.5543,28.8416,57.5543,28.8416",
+    "geom:latitude":28.8416,
+    "geom:longitude":57.5543,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Beshuran",
+    "gn:country_code":"IR",
+    "gn:dem":1201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6925574,
+    "gn:latitude":28.8416,
+    "gn:longitude":57.5543,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Besh\u016br\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0634\u0648\u0631\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Besh\u016br\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6925574
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5256be41d0fe200d532968eff3a82c4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720081,
+            "locality_id":1360031983,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1360031983,
+    "wof:lastmodified":1537647735,
+    "wof:name":"Beshuran",
+    "wof:parent_id":1108720081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.5543,
+    28.8416,
+    57.5543,
+    28.8416
+],
+  "geometry": {"coordinates":[57.5543,28.8416],"type":"Point"}
+}

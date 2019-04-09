@@ -1,0 +1,79 @@
+{
+  "id": 1343940503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.35326,30.68765,50.35326,30.68765",
+    "geom:latitude":30.68765,
+    "geom:longitude":50.35326,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Mantaqeh-ye Tang-e Tekab",
+    "gn:country_code":"IR",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":113304,
+    "gn:latitude":30.68765,
+    "gn:longitude":50.35326,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Man\u0163aqeh-ye Tang-e Tek\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062a\u0646\u06af \u062a\u06a9\u0627\u0628"
+    ],
+    "name:fas_x_variant":[
+        "Tang-e Tek\u0101b",
+        "\u0645\u0646\u0637\u0642\u0647 \u062a\u0646\u06af \u062a\u06a9\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "Tang T\u0101k\u0101b",
+        "Man\u0163aqeh-ye Tang-e Tek\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":113304,
+        "wk:page":"Tang-e_Tekab"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"07760dbf730a4e836e11a674d7dca7bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719885,
+            "locality_id":1343940503,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1343940503,
+    "wof:lastmodified":1537643178,
+    "wof:name":"Mantaqeh-ye Tang-e Tekab",
+    "wof:parent_id":1108719885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.35326,
+    30.68765,
+    50.35326,
+    30.68765
+],
+  "geometry": {"coordinates":[50.35326,30.68765],"type":"Point"}
+}

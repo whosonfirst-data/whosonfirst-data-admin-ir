@@ -1,0 +1,73 @@
+{
+  "id": 1226098137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.72216,33.41647,48.72216,33.41647",
+    "geom:latitude":33.41647,
+    "geom:longitude":48.72216,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Sarab Qurchi",
+    "gn:country_code":"IR",
+    "gn:dem":1940,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10306989,
+    "gn:latitude":33.41647,
+    "gn:longitude":48.72216,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Sar\u0101b Q\u016brch\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0627\u0628 \u0642\u0648\u0631\u0686\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Sar\u0101b Q\u016brch\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10306989
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"de1dc041c164a4c4ef0dd7e730b73153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720145,
+            "locality_id":1226098137,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1226098137,
+    "wof:lastmodified":1537648675,
+    "wof:name":"Sarab Qurchi",
+    "wof:parent_id":1108720145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.72216,
+    33.41647,
+    48.72216,
+    33.41647
+],
+  "geometry": {"coordinates":[48.72216,33.41647],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259438961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.78945,33.72014,48.78945,33.72014",
+    "geom:latitude":33.72014,
+    "geom:longitude":48.78945,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Qal`eh Shekar",
+    "gn:country_code":"IR",
+    "gn:dem":1533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":32251,
+    "gn:latitude":33.72014,
+    "gn:longitude":48.78945,
+    "gn:modification_date":"2015-07-02",
+    "gn:name":"Qal\u2018eh Shek\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0639\u0647 \u0634\u0643\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Qal\u2018eh Shek\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":32251
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"22b86eb3de4fd8219286e873f2b8edcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719905,
+            "locality_id":1259438961,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1259438961,
+    "wof:lastmodified":1537641775,
+    "wof:name":"Qal`eh Shekar",
+    "wof:parent_id":1108719905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.78945,
+    33.72014,
+    48.78945,
+    33.72014
+],
+  "geometry": {"coordinates":[48.78945,33.72014],"type":"Point"}
+}

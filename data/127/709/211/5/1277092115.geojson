@@ -1,0 +1,73 @@
+{
+  "id": 1277092115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.6251,27.4623,57.6251,27.4623",
+    "geom:latitude":27.4623,
+    "geom:longitude":57.6251,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Rig Sohrabi",
+    "gn:country_code":"IR",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6959949,
+    "gn:latitude":27.4623,
+    "gn:longitude":57.6251,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"R\u012bg Sohr\u0101b\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u06af \u0633\u0647\u0631\u0627\u0628\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "R\u012bg Sohr\u0101b\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6959949
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"db4ced5830e26e0f9a7850d3d6fcb9be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720213,
+            "locality_id":1277092115,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1277092115,
+    "wof:lastmodified":1537647773,
+    "wof:name":"Rig Sohrabi",
+    "wof:parent_id":1108720213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.6251,
+    27.4623,
+    57.6251,
+    27.4623
+],
+  "geometry": {"coordinates":[57.6251,27.4623],"type":"Point"}
+}

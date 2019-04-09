@@ -1,0 +1,73 @@
+{
+  "id": 1343886739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.92729,36.97752,59.92729,36.97752",
+    "geom:latitude":36.97752,
+    "geom:longitude":59.92729,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Khesht Bakhtiar",
+    "gn:country_code":"IR",
+    "gn:dem":1002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7075110,
+    "gn:latitude":36.97752,
+    "gn:longitude":59.92729,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Khesht Bakht\u012b\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0634\u062a \u0628\u062e\u062a\u06cc\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Khesht Bakht\u012b\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7075110
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b4ca333b3211ca75f1e21ce665dc8ca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720095,
+            "locality_id":1343886739,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1343886739,
+    "wof:lastmodified":1537648006,
+    "wof:name":"Khesht Bakhtiar",
+    "wof:parent_id":1108720095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.92729,
+    36.97752,
+    59.92729,
+    36.97752
+],
+  "geometry": {"coordinates":[59.92729,36.97752],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243583615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.81667,34.41667,50.81667,34.41667",
+    "geom:latitude":34.41667,
+    "geom:longitude":50.81667,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Nurabad",
+    "gn:country_code":"IR",
+    "gn:dem":1423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":22169,
+    "gn:latitude":34.41667,
+    "gn:longitude":50.81667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"N\u016br\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "N\u016br\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672351,
+        1108720321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":22169
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1d2621827bb206631bf5d91ed94c4422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720321,
+            "locality_id":1243583615,
+            "region_id":85672351
+        }
+    ],
+    "wof:id":1243583615,
+    "wof:lastmodified":1537641114,
+    "wof:name":"Nurabad",
+    "wof:parent_id":1108720321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.81667,
+    34.41667,
+    50.81667,
+    34.41667
+],
+  "geometry": {"coordinates":[50.81667,34.41667],"type":"Point"}
+}

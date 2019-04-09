@@ -1,0 +1,73 @@
+{
+  "id": 1326744007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.5933,37.6658,44.5933,37.6658",
+    "geom:latitude":37.6658,
+    "geom:longitude":44.5933,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Alusan",
+    "gn:country_code":"IR",
+    "gn:dem":2298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":20917,
+    "gn:latitude":37.6658,
+    "gn:longitude":44.5933,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u0100l\u016bs\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0622\u0644\u0648\u0633\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0100l\u016bs\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":20917
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"72484eca48e577287ddfb47f2a12d148",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720289,
+            "locality_id":1326744007,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1326744007,
+    "wof:lastmodified":1537641044,
+    "wof:name":"Alusan",
+    "wof:parent_id":1108720289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.5933,
+    37.6658,
+    44.5933,
+    37.6658
+],
+  "geometry": {"coordinates":[44.5933,37.6658],"type":"Point"}
+}

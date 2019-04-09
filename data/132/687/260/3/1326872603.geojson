@@ -1,0 +1,80 @@
+{
+  "id": 1326872603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.13169,31.62934,54.13169,31.62934",
+    "geom:latitude":31.62934,
+    "geom:longitude":54.13169,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Tudeh",
+    "gn:country_code":"IR",
+    "gn:dem":2310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112541,
+    "gn:latitude":31.62934,
+    "gn:longitude":54.13169,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"T\u016bdeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u062f\u0650\u06c0 \u062f\u0650\u0647\u0650 \u0628\u0627\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0648\u062f\u0650\u0646",
+        "\u062a\u0648\u062f\u0647",
+        "T\u016bdeh-ye Deh-e B\u0101l\u0101",
+        "T\u016bdeh"
+    ],
+    "name:und_x_variant":[
+        "T\u016bdeh",
+        "T\u016bden"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108720475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112541
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"151c7bf9a487fded41a838e8f0993827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720475,
+            "locality_id":1326872603,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1326872603,
+    "wof:lastmodified":1537643098,
+    "wof:name":"Tudeh",
+    "wof:parent_id":1108720475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.13169,
+    31.62934000000001,
+    54.13169,
+    31.62934000000001
+],
+  "geometry": {"coordinates":[54.13169,31.62934000000001],"type":"Point"}
+}

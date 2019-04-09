@@ -1,0 +1,77 @@
+{
+  "id": 1242583369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.0815,29.5344,61.0815,29.5344",
+    "geom:latitude":29.5344,
+    "geom:longitude":61.0815,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shuru",
+    "gn:country_code":"IR",
+    "gn:dem":1491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6650862,
+    "gn:latitude":29.5344,
+    "gn:longitude":61.0815,
+    "gn:modification_date":"2013-10-09",
+    "gn:name":"Sh\u016br\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u0631\u0648"
+    ],
+    "name:fas_x_variant":[
+        "Sh\u016br\u016b",
+        "\u0634\u0648\u0631\u0647 \u063a\u0631\u0628\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Sh\u016breh Gharb\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6650862
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8672a7d3645c4ae7d20d65888c7abe7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720517,
+            "locality_id":1242583369,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1242583369,
+    "wof:lastmodified":1537647198,
+    "wof:name":"Shuru",
+    "wof:parent_id":1108720517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.0815,
+    29.5344,
+    61.0815,
+    29.5344
+],
+  "geometry": {"coordinates":[61.0815,29.5344],"type":"Point"}
+}

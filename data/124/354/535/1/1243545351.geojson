@@ -1,0 +1,74 @@
+{
+  "id": 1243545351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.0383,30.5641,52.0383,30.5641",
+    "geom:latitude":30.5641,
+    "geom:longitude":52.0383,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Ab Mahi",
+    "gn:country_code":"IR",
+    "gn:dem":1853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":47301,
+    "gn:latitude":30.5641,
+    "gn:longitude":52.0383,
+    "gn:modification_date":"2018-06-20",
+    "gn:name":"\u0100b M\u0101h\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0628 \u0645\u0627\u0647\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0100b M\u0101h\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":47301,
+        "wk:page":"Ab_Mahi,_Fars"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1390d30e25154a4d5cbc273a3e2ebb3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720223,
+            "locality_id":1243545351,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1243545351,
+    "wof:lastmodified":1537642677,
+    "wof:name":"Ab Mahi",
+    "wof:parent_id":1108720223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.0383,
+    30.5641,
+    52.0383,
+    30.5641
+],
+  "geometry": {"coordinates":[52.0383,30.5641],"type":"Point"}
+}

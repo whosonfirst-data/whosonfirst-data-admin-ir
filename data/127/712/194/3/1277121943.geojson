@@ -1,0 +1,79 @@
+{
+  "id": 1277121943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.74,38.6798,45.74,38.6798",
+    "geom:latitude":38.6798,
+    "geom:longitude":45.74,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Babereh-ye Bala",
+    "gn:country_code":"IR",
+    "gn:dem":1704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388563,
+    "gn:latitude":38.6798,
+    "gn:longitude":45.74,
+    "gn:modification_date":"2018-05-24",
+    "gn:name":"B\u0101bereh-ye B\u0101l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0628\u0631\u062a\u06cc\u0646 \u0639\u0644\u06cc\u0627"
+    ],
+    "name:fas_x_variant":[
+        "B\u0101bereh-ye B\u0101l\u0101",
+        "B\u0101bert\u012bn-e \u2018Oly\u0101",
+        "\u0628\u0627\u0628\u0631\u0647 \u0628\u0627\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "B\u0101bereh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388563,
+        "wk:page":"Babereh-ye_Olya"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d94c2701649d381e4ded2c74e66def2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720219,
+            "locality_id":1277121943,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1277121943,
+    "wof:lastmodified":1537646453,
+    "wof:name":"Babereh-ye Bala",
+    "wof:parent_id":1108720219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.74,
+    38.6798,
+    45.74,
+    38.6798
+],
+  "geometry": {"coordinates":[45.74,38.6798],"type":"Point"}
+}

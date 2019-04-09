@@ -1,0 +1,74 @@
+{
+  "id": 1310492397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.868,29.987,52.868,29.987",
+    "geom:latitude":29.987,
+    "geom:longitude":52.868,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Omidiyeh",
+    "gn:country_code":"IR",
+    "gn:dem":1624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6680335,
+    "gn:latitude":29.987,
+    "gn:longitude":52.868,
+    "gn:modification_date":"2018-06-21",
+    "gn:name":"Om\u012bd\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u06cc\u062f\u06cc\u0651\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Om\u012bd\u012byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6680335,
+        "wk:page":"Omidiyeh,_Fars"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d162ea14ae7e6bdce547c8beed1864d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720223,
+            "locality_id":1310492397,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1310492397,
+    "wof:lastmodified":1537647357,
+    "wof:name":"Omidiyeh",
+    "wof:parent_id":1108720223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.868,
+    29.987,
+    52.868,
+    29.987
+],
+  "geometry": {"coordinates":[52.868,29.987],"type":"Point"}
+}

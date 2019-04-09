@@ -1,0 +1,76 @@
+{
+  "id": 1343380785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.10171,37.38801,49.10171,37.38801",
+    "geom:latitude":37.38801,
+    "geom:longitude":49.10171,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mashkeh",
+    "gn:country_code":"IR",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11056592,
+    "gn:latitude":37.38801,
+    "gn:longitude":49.10171,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Mashkeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0634\u06a9\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0634\u0647 \u06a9\u0647"
+    ],
+    "name:und_x_variant":[
+        "Masheh Keh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11056592
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"823635306e4f53aec0441b07bd738384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720225,
+            "locality_id":1343380785,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1343380785,
+    "wof:lastmodified":1537648703,
+    "wof:name":"Mashkeh",
+    "wof:parent_id":1108720225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.10171,
+    37.38801,
+    49.10171,
+    37.38801
+],
+  "geometry": {"coordinates":[49.10171,37.38801],"type":"Point"}
+}

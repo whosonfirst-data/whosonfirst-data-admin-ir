@@ -1,0 +1,73 @@
+{
+  "id": 1343715401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.24661,36.6932,51.24661,36.6932",
+    "geom:latitude":36.6932,
+    "geom:longitude":51.24661,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Shahrak-e Shahin",
+    "gn:country_code":"IR",
+    "gn:dem":-9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11473472,
+    "gn:latitude":36.6932,
+    "gn:longitude":51.24661,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Shahrak-e Sh\u0101h\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u06a9 \u0634\u0627\u0647\u06cc\u0646"
+    ],
+    "name:und_x_variant":[
+        "Shahrak-e Sh\u0101h\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11473472
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d7e3c803b5eecffdee5ede0d0ab31ee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720495,
+            "locality_id":1343715401,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1343715401,
+    "wof:lastmodified":1537648785,
+    "wof:name":"Shahrak-e Shahin",
+    "wof:parent_id":1108720495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.24661,
+    36.6932,
+    51.24661,
+    36.6932
+],
+  "geometry": {"coordinates":[51.24661,36.6932],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343603965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.30748,36.49774,50.30748,36.49774",
+    "geom:latitude":36.49774,
+    "geom:longitude":50.30748,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Safarin",
+    "gn:country_code":"IR",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9883,
+    "gn:latitude":36.49774,
+    "gn:longitude":50.30748,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"\u015eafar\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0631\u064a\u0646"
+    ],
+    "name:fas_x_variant":[
+        "S\u016br\u012bn",
+        "\u0635\u0641\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u015eafar\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108720315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9883,
+        "wk:page":"Safarin"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9b20e430b4625380a7127b46e9739938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720315,
+            "locality_id":1343603965,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1343603965,
+    "wof:lastmodified":1537640518,
+    "wof:name":"Safarin",
+    "wof:parent_id":1108720315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.30748,
+    36.49774,
+    50.30748,
+    36.49774
+],
+  "geometry": {"coordinates":[50.30748,36.49774],"type":"Point"}
+}

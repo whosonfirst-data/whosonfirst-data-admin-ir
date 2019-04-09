@@ -1,0 +1,73 @@
+{
+  "id": 1276132421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.0569,37.0522,45.0569,37.0522",
+    "geom:latitude":37.0522,
+    "geom:longitude":45.0569,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zemeh",
+    "gn:country_code":"IR",
+    "gn:dem":1749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6677320,
+    "gn:latitude":37.0522,
+    "gn:longitude":45.0569,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Z\u0304emeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0630\u0645\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Z\u0304emeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6677320
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bf763c8df1e7745164a4614dea97f0f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720291,
+            "locality_id":1276132421,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1276132421,
+    "wof:lastmodified":1537647341,
+    "wof:name":"Zemeh",
+    "wof:parent_id":1108720291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.0569,
+    37.0522,
+    45.0569,
+    37.0522
+],
+  "geometry": {"coordinates":[45.0569,37.0522],"type":"Point"}
+}

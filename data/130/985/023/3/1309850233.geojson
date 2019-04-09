@@ -1,0 +1,73 @@
+{
+  "id": 1309850233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.52769,36.52453,51.52769,36.52453",
+    "geom:latitude":36.52453,
+    "geom:longitude":51.52769,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kola Mard",
+    "gn:country_code":"IR",
+    "gn:dem":1182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7637122,
+    "gn:latitude":36.52453,
+    "gn:longitude":51.52769,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Kol\u0101 Mard",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Kol\u0101 Mard"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0644\u0627 \u0645\u0631\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7637122
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5c0048036645329b672d9ee2d2837698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720281,
+            "locality_id":1309850233,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1309850233,
+    "wof:lastmodified":1537648479,
+    "wof:name":"Kola Mard",
+    "wof:parent_id":1108720281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.52769,
+    36.52453,
+    51.52769,
+    36.52453
+],
+  "geometry": {"coordinates":[51.52769,36.52453],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209375889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.6662,29.1983,56.6662,29.1983",
+    "geom:latitude":29.1983,
+    "geom:longitude":56.6662,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Shurbaz",
+    "gn:country_code":"IR",
+    "gn:dem":2224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":114664,
+    "gn:latitude":29.1983,
+    "gn:longitude":56.6662,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sh\u016brb\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u0631\u0628\u0627\u0632"
+    ],
+    "name:fas_x_variant":[
+        "Sh\u016brb\u0101z"
+    ],
+    "name:und_x_variant":[
+        "Shur B\u0101z-e Sufl\u0101",
+        "Sh\u016br B\u0101z-e P\u0101\u2019\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":114664
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3be0b393ac3bebdfb828d3819b8d7f57",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209375889
+        }
+    ],
+    "wof:id":1209375889,
+    "wof:lastmodified":1537643294,
+    "wof:name":"Shurbaz",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.6662,
+    29.1983,
+    56.6662,
+    29.1983
+],
+  "geometry": {"coordinates":[56.6662,29.1983],"type":"Point"}
+}

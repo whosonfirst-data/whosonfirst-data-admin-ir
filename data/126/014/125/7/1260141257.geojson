@@ -1,0 +1,74 @@
+{
+  "id": 1260141257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.33027,29.66916,56.33027,29.66916",
+    "geom:latitude":29.66916,
+    "geom:longitude":56.33027,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Siruyeh",
+    "gn:country_code":"IR",
+    "gn:dem":2736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":43328,
+    "gn:latitude":29.66916,
+    "gn:longitude":56.33027,
+    "gn:modification_date":"2014-04-05",
+    "gn:name":"S\u012br\u016byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0631\u0648\u06cc\u0647"
+    ],
+    "name:fas_x_variant":[
+        "S\u012br\u016b\u2019\u012byeh",
+        "S\u012br\u016byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":43328
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0d751c3df3d6c8f5db170f9e1eb4228d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720461,
+            "locality_id":1260141257,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1260141257,
+    "wof:lastmodified":1537642449,
+    "wof:name":"Siruyeh",
+    "wof:parent_id":1108720461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.33027,
+    29.66916,
+    56.33027,
+    29.66916
+],
+  "geometry": {"coordinates":[56.33027,29.66916],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259586769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.0343,36.6736,46.0343,36.6736",
+    "geom:latitude":36.6736,
+    "geom:longitude":46.0343,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Utmesh",
+    "gn:country_code":"IR",
+    "gn:dem":1419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3274,
+    "gn:latitude":36.6736,
+    "gn:longitude":46.0343,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u016a\u0163mesh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0637\u0645\u064a\u0634"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0648\u0637\u0645\u0634",
+        "\u016a\u0163m\u012bsh",
+        "\u016a\u0163mesh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3274,
+        "wk:page":"Utmish"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"18c2f9b8d363981a5b7bc456196d3a5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720193,
+            "locality_id":1259586769,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1259586769,
+    "wof:lastmodified":1537640240,
+    "wof:name":"Utmesh",
+    "wof:parent_id":1108720193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.0343,
+    36.6736,
+    46.0343,
+    36.6736
+],
+  "geometry": {"coordinates":[46.0343,36.6736],"type":"Point"}
+}

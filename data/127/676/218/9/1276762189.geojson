@@ -1,0 +1,72 @@
+{
+  "id": 1276762189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.56653,26.94994,60.56653,26.94994",
+    "geom:latitude":26.94994,
+    "geom:longitude":60.56653,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Baz Piran",
+    "gn:country_code":"IR",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7027275,
+    "gn:latitude":26.94994,
+    "gn:longitude":60.56653,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Baz P\u012br\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0628\u0632 \u067e\u064a\u0631\u0627\u0646",
+        "Baz P\u012br\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7027275,
+        "wk:page":"Baz_Piran"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"620a27258288e8dce13d659e60121463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720063,
+            "locality_id":1276762189,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1276762189,
+    "wof:lastmodified":1537647903,
+    "wof:name":"Baz Piran",
+    "wof:parent_id":1108720063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.56653000000001,
+    26.94994,
+    60.56653000000001,
+    26.94994
+],
+  "geometry": {"coordinates":[60.56653000000001,26.94994],"type":"Point"}
+}

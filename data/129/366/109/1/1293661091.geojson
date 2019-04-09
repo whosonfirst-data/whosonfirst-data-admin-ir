@@ -1,0 +1,77 @@
+{
+  "id": 1293661091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.99075,34.97166,47.99075,34.97166",
+    "geom:latitude":34.97166,
+    "geom:longitude":47.99075,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Su Tappeh",
+    "gn:country_code":"IR",
+    "gn:dem":1819,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":113692,
+    "gn:latitude":34.97166,
+    "gn:longitude":47.99075,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"S\u016b Tappeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0648 \u062a\u067e\u0647"
+    ],
+    "name:fas_x_variant":[
+        "S\u016b Tappeh"
+    ],
+    "name:und_x_variant":[
+        "Sutapeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":113692,
+        "wk:page":"Su_Tappeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f94e1bffd927127c8790e95ff59399c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720325,
+            "locality_id":1293661091,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1293661091,
+    "wof:lastmodified":1537643211,
+    "wof:name":"Su Tappeh",
+    "wof:parent_id":1108720325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.99075,
+    34.97166,
+    47.99075,
+    34.97166
+],
+  "geometry": {"coordinates":[47.99075,34.97166],"type":"Point"}
+}

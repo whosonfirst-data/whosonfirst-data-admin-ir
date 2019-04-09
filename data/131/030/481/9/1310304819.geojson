@@ -1,0 +1,76 @@
+{
+  "id": 1310304819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.13827,25.42815,61.13827,25.42815",
+    "geom:latitude":25.42815,
+    "geom:longitude":61.13827,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Milan",
+    "gn:country_code":"IR",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7575636,
+    "gn:latitude":25.42815,
+    "gn:longitude":61.13827,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"M\u012bl\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "M\u012bl\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u06cc\u0644\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0645\u06cc\u0644\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108719919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7575636
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b9585891ab1f14dfcb4202befd7cbd4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719919,
+            "locality_id":1310304819,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1310304819,
+    "wof:lastmodified":1537648376,
+    "wof:name":"Milan",
+    "wof:parent_id":1108719919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.13827,
+    25.42815,
+    61.13827,
+    25.42815
+],
+  "geometry": {"coordinates":[61.13827,25.42815],"type":"Point"}
+}

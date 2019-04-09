@@ -1,0 +1,73 @@
+{
+  "id": 1326876859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.79789,30.511,57.79789,30.511",
+    "geom:latitude":30.511,
+    "geom:longitude":57.79789,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Hushangabad",
+    "gn:country_code":"IR",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":42967,
+    "gn:latitude":30.511,
+    "gn:longitude":57.79789,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"H\u016bshang\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0634\u0646\u06af \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "H\u016bshang\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":42967
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5d48702f1cad9290e8e5d35405e179a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720115,
+            "locality_id":1326876859,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1326876859,
+    "wof:lastmodified":1537642431,
+    "wof:name":"Hushangabad",
+    "wof:parent_id":1108720115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.79789,
+    30.511,
+    57.79789,
+    30.511
+],
+  "geometry": {"coordinates":[57.79789,30.511],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243393059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.22711,37.00496,57.22711,37.00496",
+    "geom:latitude":37.00496,
+    "geom:longitude":57.22711,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Kuran",
+    "gn:country_code":"IR",
+    "gn:dem":1027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":126243,
+    "gn:latitude":37.00496,
+    "gn:longitude":57.22711,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"K\u016br\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "K\u016br\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0648\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u06a9\u0648\u0631\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672401,
+        1108719979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":126243
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"12486a8d4735687fbcf3b7715ad93d66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719979,
+            "locality_id":1243393059,
+            "region_id":85672401
+        }
+    ],
+    "wof:id":1243393059,
+    "wof:lastmodified":1537644430,
+    "wof:name":"Kuran",
+    "wof:parent_id":1108719979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.22711,
+    37.00496,
+    57.22711,
+    37.00496
+],
+  "geometry": {"coordinates":[57.22711,37.00496],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243360203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.8045,36.74408,49.8045,36.74408",
+    "geom:latitude":36.74408,
+    "geom:longitude":49.8045,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lavarbon",
+    "gn:country_code":"IR",
+    "gn:dem":2084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":10169,
+    "gn:latitude":36.74408,
+    "gn:longitude":49.8045,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"L\u0101varbon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "L\u0101varbon"
+    ],
+    "name:fas_x_variant":[
+        "\u0644\u0627\u0648\u0631\u0628\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0644\u0627\u0648\u0631\u0628\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10169
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c2c8a196cabaf0e423532bf5ba40bce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720361,
+            "locality_id":1243360203,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1243360203,
+    "wof:lastmodified":1537640545,
+    "wof:name":"Lavarbon",
+    "wof:parent_id":1108720361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.8045,
+    36.74408,
+    49.8045,
+    36.74408
+],
+  "geometry": {"coordinates":[49.8045,36.74408],"type":"Point"}
+}

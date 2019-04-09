@@ -1,0 +1,77 @@
+{
+  "id": 1193261131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.54323,31.55041,49.54323,31.55041",
+    "geom:latitude":31.55041,
+    "geom:longitude":49.54323,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Jaru",
+    "gn:country_code":"IR",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":130289,
+    "gn:latitude":31.55041,
+    "gn:longitude":49.54323,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"J\u0101r\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "J\u0101r\u016b"
+    ],
+    "name:fas_x_variant":[
+        "\u062c\u0627\u0631\u0648"
+    ],
+    "name:und_x_variant":[
+        "J\u0101rn",
+        "\u062c\u0627\u0631\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":130289
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a672c1c8c77afc294a292c7f52721ead",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720331,
+            "locality_id":1193261131,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1193261131,
+    "wof:lastmodified":1537644851,
+    "wof:name":"Jaru",
+    "wof:parent_id":1108720331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.54323,
+    31.55041,
+    49.54323,
+    31.55041
+],
+  "geometry": {"coordinates":[49.54323,31.55041],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1259941013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.61697,28.98172,58.61697,28.98172",
+    "geom:latitude":28.98172,
+    "geom:longitude":58.61697,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Vakilabad",
+    "gn:country_code":"IR",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112329,
+    "gn:latitude":28.98172,
+    "gn:longitude":58.61697,
+    "gn:modification_date":"2014-09-30",
+    "gn:name":"Vak\u012bl\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u06a9\u06cc\u0644 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Vak\u012bl\u0101b\u0101d",
+        "\u062f\u0647 \u0646\u0648",
+        "\u062f\u0647\u0646\u0648 \u0648\u06a9\u06cc\u0644 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Deh Now",
+        "Deh-e Now",
+        "Dehnow-ye Vak\u012bl\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112329
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"da6f5e130262c5d4cab89c21a4bd9ebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719861,
+            "locality_id":1259941013,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1259941013,
+    "wof:lastmodified":1537643073,
+    "wof:name":"Vakilabad",
+    "wof:parent_id":1108719861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.61697,
+    28.98172000000001,
+    58.61697,
+    28.98172000000001
+],
+  "geometry": {"coordinates":[58.61697,28.98172000000001],"type":"Point"}
+}

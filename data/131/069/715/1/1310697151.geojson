@@ -1,0 +1,67 @@
+{
+  "id": 1310697151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.35,36.83333,50.35,36.83333",
+    "geom:latitude":36.83333,
+    "geom:longitude":50.35,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Galandasht Bon",
+    "gn:country_code":"IR",
+    "gn:dem":3201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10383,
+    "gn:latitude":36.83333,
+    "gn:longitude":50.35,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Galandasht Bon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10383
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0ac66f1f0d393381ebf2d40f2d5950c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720365,
+            "locality_id":1310697151,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1310697151,
+    "wof:lastmodified":1536639448,
+    "wof:name":"Galandasht Bon",
+    "wof:parent_id":1108720365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.35,
+    36.83333,
+    50.35,
+    36.83333
+],
+  "geometry": {"coordinates":[50.35,36.83333],"type":"Point"}
+}

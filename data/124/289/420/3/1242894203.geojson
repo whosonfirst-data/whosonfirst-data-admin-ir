@@ -1,0 +1,74 @@
+{
+  "id": 1242894203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.13389,29.21306,53.13389,29.21306",
+    "geom:latitude":29.21306,
+    "geom:longitude":53.13389,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Khezrabad",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":127477,
+    "gn:latitude":29.21306,
+    "gn:longitude":53.13389,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Khezr\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Khezr\u0101b\u0101d"
+    ],
+    "name:und_x_variant":[
+        "Khizr\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":127477
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3e0601bfeca1009d21a81f2480ca2d23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720447,
+            "locality_id":1242894203,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1242894203,
+    "wof:lastmodified":1537644564,
+    "wof:name":"Khezrabad",
+    "wof:parent_id":1108720447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.13389,
+    29.21306,
+    53.13389,
+    29.21306
+],
+  "geometry": {"coordinates":[53.13389,29.21306],"type":"Point"}
+}

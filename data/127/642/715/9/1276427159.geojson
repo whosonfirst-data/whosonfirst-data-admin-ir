@@ -1,0 +1,74 @@
+{
+  "id": 1276427159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.3573,34.0504,46.3573,34.0504",
+    "geom:latitude":34.0504,
+    "geom:longitude":46.3573,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Zhamarg",
+    "gn:country_code":"IR",
+    "gn:dem":1579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":25683,
+    "gn:latitude":34.0504,
+    "gn:longitude":46.3573,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Zh\u0101marg",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0698\u0627\u0645\u0631\u06af"
+    ],
+    "name:fas_x_variant":[
+        "Zh\u0101v Marg-e N\u0101v Kh\u0101\u015f",
+        "Zh\u0101marg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":25683
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3a465a40352b110ae98176145df20509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720031,
+            "locality_id":1276427159,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1276427159,
+    "wof:lastmodified":1537641343,
+    "wof:name":"Zhamarg",
+    "wof:parent_id":1108720031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.3573,
+    34.0504,
+    46.3573,
+    34.0504
+],
+  "geometry": {"coordinates":[46.3573,34.0504],"type":"Point"}
+}

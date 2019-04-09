@@ -1,0 +1,75 @@
+{
+  "id": 1225848633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.8416,38.4738,44.8416,38.4738",
+    "geom:latitude":38.4738,
+    "geom:longitude":44.8416,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Buyla Push",
+    "gn:country_code":"IR",
+    "gn:dem":1256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":40448,
+    "gn:latitude":38.4738,
+    "gn:longitude":44.8416,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"B\u016byl\u0101 P\u016bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06cc\u0644\u0627 \u067e\u0648\u0634"
+    ],
+    "name:fas_x_variant":[
+        "P\u012bleh P\u016bsh",
+        "B\u016byl\u0101 P\u016bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":40448,
+        "wk:page":"Buyla_Push"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9eee33199c3bc25ff156740d9acdfe3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720153,
+            "locality_id":1225848633,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1225848633,
+    "wof:lastmodified":1537642272,
+    "wof:name":"Buyla Push",
+    "wof:parent_id":1108720153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.8416,
+    38.4738,
+    44.8416,
+    38.4738
+],
+  "geometry": {"coordinates":[44.8416,38.4738],"type":"Point"}
+}

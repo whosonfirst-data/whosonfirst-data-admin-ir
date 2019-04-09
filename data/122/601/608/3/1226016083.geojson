@@ -1,0 +1,80 @@
+{
+  "id": 1226016083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.0941,34.9688,46.0941,34.9688",
+    "geom:latitude":34.9688,
+    "geom:longitude":46.0941,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Qalajeh-ye Sofla",
+    "gn:country_code":"IR",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":120654,
+    "gn:latitude":34.9688,
+    "gn:longitude":46.0941,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Qal\u0101jeh-ye Sofl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0627\u062c\u0647 \u0633\u0641\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Qal\u0101j\u012b",
+        "Qal\u0101jeh-ye Sofl\u00e1"
+    ],
+    "name:und_x_variant":[
+        "Qal\u2018ehjeh",
+        "Qal\u0101jeh",
+        "Qal\u0101jeh-ye Sofl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":120654,
+        "wk:page":"Qalaji"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e945a705bb229dfd1d94866f0b918a38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720079,
+            "locality_id":1226016083,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1226016083,
+    "wof:lastmodified":1537643879,
+    "wof:name":"Qalajeh-ye Sofla",
+    "wof:parent_id":1108720079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.0941,
+    34.9688,
+    46.0941,
+    34.9688
+],
+  "geometry": {"coordinates":[46.0941,34.9688],"type":"Point"}
+}

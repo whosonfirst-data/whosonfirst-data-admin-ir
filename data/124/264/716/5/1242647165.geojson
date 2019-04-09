@@ -1,0 +1,70 @@
+{
+  "id": 1242647165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.20583,30.49642,49.20583,30.49642",
+    "geom:latitude":30.49642,
+    "geom:longitude":49.20583,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Bandargah",
+    "gn:country_code":"IR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":12721,
+    "gn:latitude":30.49642,
+    "gn:longitude":49.20583,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"Bandarg\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Bandarg\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12721
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"96ca374b664a267c992a5f83a20e3335",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719871,
+            "locality_id":1242647165,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1242647165,
+    "wof:lastmodified":1537640675,
+    "wof:name":"Bandargah",
+    "wof:parent_id":1108719871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.20583,
+    30.49642,
+    49.20583,
+    30.49642
+],
+  "geometry": {"coordinates":[49.20583,30.49642],"type":"Point"}
+}

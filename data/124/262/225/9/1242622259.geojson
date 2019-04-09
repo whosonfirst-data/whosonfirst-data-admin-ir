@@ -1,0 +1,80 @@
+{
+  "id": 1242622259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.50805,34.559,49.50805,34.559",
+    "geom:latitude":34.559,
+    "geom:longitude":49.50805,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Kudzar",
+    "gn:country_code":"IR",
+    "gn:dem":1844,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":126426,
+    "gn:latitude":34.559,
+    "gn:longitude":49.50805,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"K\u016bdzar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "K\u016bdzar"
+    ],
+    "name:fas_x_variant":[
+        "\u0643\u0648\u062f\u0632\u0631"
+    ],
+    "name:und_x_variant":[
+        "K\u016bz\u0101l",
+        "K\u016bdraz",
+        "Koodraz",
+        "\u0643\u0648\u062f\u0632\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":126426,
+        "wk:page":"Kudzar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c51a4c0d3f25ff59c78905f66722e594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720473,
+            "locality_id":1242622259,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1242622259,
+    "wof:lastmodified":1537644447,
+    "wof:name":"Kudzar",
+    "wof:parent_id":1108720473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.50805,
+    34.559,
+    49.50805,
+    34.559
+],
+  "geometry": {"coordinates":[49.50805,34.559],"type":"Point"}
+}

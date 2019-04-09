@@ -1,0 +1,73 @@
+{
+  "id": 1209745085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.9444,35.8835,50.9444,35.8835",
+    "geom:latitude":35.8835,
+    "geom:longitude":50.9444,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Bidar Cheshmeh",
+    "gn:country_code":"IR",
+    "gn:dem":1510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6657159,
+    "gn:latitude":35.8835,
+    "gn:longitude":50.9444,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"B\u012bd\u0101r Cheshmeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u062f\u0627\u0631 \u0686\u0634\u0645\u0647"
+    ],
+    "name:fas_x_variant":[
+        "B\u012bd\u0101r Cheshmeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672415,
+        1108720105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6657159
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d572cb26fa81065935b23091684dcb4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720105,
+            "locality_id":1209745085,
+            "region_id":85672415
+        }
+    ],
+    "wof:id":1209745085,
+    "wof:lastmodified":1537647256,
+    "wof:name":"Bidar Cheshmeh",
+    "wof:parent_id":1108720105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.9444,
+    35.8835,
+    50.9444,
+    35.8835
+],
+  "geometry": {"coordinates":[50.9444,35.8835],"type":"Point"}
+}

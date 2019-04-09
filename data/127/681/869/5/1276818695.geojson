@@ -1,0 +1,67 @@
+{
+  "id": 1276818695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.52833,27.4825,58.52833,27.4825",
+    "geom:latitude":27.4825,
+    "geom:longitude":58.52833,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Ashkand",
+    "gn:country_code":"IR",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":142771,
+    "gn:latitude":27.4825,
+    "gn:longitude":58.52833,
+    "gn:modification_date":"1996-12-10",
+    "gn:name":"\u0100shkand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":142771
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"34ef814e50d29884cf71aacabad8afcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720029,
+            "locality_id":1276818695,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1276818695,
+    "wof:lastmodified":1536623715,
+    "wof:name":"Ashkand",
+    "wof:parent_id":1108720029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.52833,
+    27.4825,
+    58.52833,
+    27.4825
+],
+  "geometry": {"coordinates":[58.52833,27.4825],"type":"Point"}
+}

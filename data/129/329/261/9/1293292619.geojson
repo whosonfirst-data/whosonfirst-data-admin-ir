@@ -1,0 +1,70 @@
+{
+  "id": 1293292619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.20722,25.58306,61.20722,25.58306",
+    "geom:latitude":25.58306,
+    "geom:longitude":61.20722,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Turu",
+    "gn:country_code":"IR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1341592,
+    "gn:latitude":25.58306,
+    "gn:longitude":61.20722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"T\u016br\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "T\u016br\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108719919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1341592
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ccddf5fd19dc2c0676163c2c113c1cbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719919,
+            "locality_id":1293292619,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1293292619,
+    "wof:lastmodified":1537647163,
+    "wof:name":"Turu",
+    "wof:parent_id":1108719919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.20721999999999,
+    25.58306,
+    61.20721999999999,
+    25.58306
+],
+  "geometry": {"coordinates":[61.20721999999999,25.58306],"type":"Point"}
+}

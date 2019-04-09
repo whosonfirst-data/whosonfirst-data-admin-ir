@@ -1,0 +1,119 @@
+{
+  "id": 85903741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":27612982.078151,
+    "geom:bbox":"51.423232,35.675225,51.423232,35.675225",
+    "geom:latitude":35.675225,
+    "geom:longitude":51.423232,
+    "gn:latitude":35.66667,
+    "gn:longitude":51.43333,
+    "iso:country":"IR",
+    "lbl:latitude":35.675225,
+    "lbl:longitude":51.423232,
+    "mps:latitude":35.66735,
+    "mps:longitude":51.421962,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:eng_x_colloquial":[
+        "Fisherabad"
+    ],
+    "name:eng_x_preferred":[
+        "F\u012bsher\u0101b\u0101d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u064a\u0634\u0650\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "F\u012bsher\u0101b\u0101d"
+    ],
+    "name:unk_x_variant":[
+        "F\u012bsher\u0101b\u0101d"
+    ],
+    "qs:gn_adm0_cc":"IR",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":112931,
+    "qs:gn_nam_loc":"Tehran, Tehran, IR",
+    "qs:gn_namadm1":"26",
+    "qs:gn_name":"F\u012bsher\u0101b\u0101d",
+    "qs:local_max":2427,
+    "qs:local_sum":3725,
+    "qs:localhoods":6,
+    "qs:name":"F\u012bsher\u0101b\u0101d",
+    "qs:name_adm0":"Iran",
+    "qs:name_adm1":"Tehran",
+    "qs:name_local":"Tehran",
+    "qs:photo_max":472,
+    "qs:photo_sum":2427,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":68,
+    "qs:woe_adm0":23424851,
+    "qs:woe_adm1":2345785,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2251945,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85672313,
+        102191569,
+        85632361,
+        1108720491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":134460,
+        "gp:id":2227332,
+        "qs:id":1045857
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ec7f3da0d7f7be3d89bfa5c1d73c484e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720491,
+            "locality_id":-1,
+            "neighbourhood_id":85903741,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":85903741,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379347,
+    "wof:name":"F\u012bsher\u0101b\u0101d",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[
+        1126094349
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.423232,
+    35.675225,
+    51.423232,
+    35.675225
+],
+  "geometry": {"coordinates":[51.423232,35.675225],"type":"Point"}
+}

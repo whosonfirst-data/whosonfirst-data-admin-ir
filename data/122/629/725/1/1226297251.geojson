@@ -1,0 +1,74 @@
+{
+  "id": 1226297251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.59377,35.88699,52.59377,35.88699",
+    "geom:latitude":35.88699,
+    "geom:longitude":52.59377,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Kariz",
+    "gn:country_code":"IR",
+    "gn:dem":2477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":33660,
+    "gn:latitude":35.88699,
+    "gn:longitude":52.59377,
+    "gn:modification_date":"2013-10-03",
+    "gn:name":"Kar\u012bz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Kahr\u012bz"
+    ],
+    "name:fas_x_variant":[
+        "Kar\u012bz",
+        "\u06a9\u0631\u06cc\u0632"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672313,
+        1108720011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":33660
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bb26735ebb5de1cb3787a4b505cd1d52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720011,
+            "locality_id":1226297251,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1226297251,
+    "wof:lastmodified":1537641874,
+    "wof:name":"Kariz",
+    "wof:parent_id":1108720011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.59376999999999,
+    35.88699000000001,
+    52.59376999999999,
+    35.88699000000001
+],
+  "geometry": {"coordinates":[52.59376999999999,35.88699000000001],"type":"Point"}
+}

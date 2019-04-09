@@ -1,0 +1,80 @@
+{
+  "id": 1344046661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.08172,34.27331,48.08172,34.27331",
+    "geom:latitude":34.27331,
+    "geom:longitude":48.08172,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Giraki",
+    "gn:country_code":"IR",
+    "gn:dem":1525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":133291,
+    "gn:latitude":34.27331,
+    "gn:longitude":48.08172,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"G\u012brak\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "G\u012bvahk\u012b"
+    ],
+    "name:fas_x_variant":[
+        "G\u012bvak\u012b",
+        "\u06af\u06cc\u0631\u06a9\u06cc"
+    ],
+    "name:und_x_variant":[
+        "G\u012bvk\u012b",
+        "G\u012bvak\u012b",
+        "G\u012brak\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":133291,
+        "wk:page":"Givaki"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0be92f30af82045909cebdef7e9deddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720257,
+            "locality_id":1344046661,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1344046661,
+    "wof:lastmodified":1537645156,
+    "wof:name":"Giraki",
+    "wof:parent_id":1108720257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.08172,
+    34.27331,
+    48.08172,
+    34.27331
+],
+  "geometry": {"coordinates":[48.08172,34.27331],"type":"Point"}
+}

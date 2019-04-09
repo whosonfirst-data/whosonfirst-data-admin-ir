@@ -1,0 +1,75 @@
+{
+  "id": 1226185163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.43326,37.16405,55.43326,37.16405",
+    "geom:latitude":37.16405,
+    "geom:longitude":55.43326,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Takht",
+    "gn:country_code":"IR",
+    "gn:dem":704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":40167,
+    "gn:latitude":37.16405,
+    "gn:longitude":55.43326,
+    "gn:modification_date":"2018-05-11",
+    "gn:name":"Takht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u062e\u062a"
+    ],
+    "name:und_x_variant":[
+        "\u062a\u062e\u062a",
+        "Takht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":40167,
+        "wk:page":"Takht,_Golestan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"47c2db67fc86aeec51ed4c4976561e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720245,
+            "locality_id":1226185163,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1226185163,
+    "wof:lastmodified":1537642260,
+    "wof:name":"Takht",
+    "wof:parent_id":1108720245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.43326,
+    37.16405,
+    55.43326,
+    37.16405
+],
+  "geometry": {"coordinates":[55.43326,37.16405],"type":"Point"}
+}

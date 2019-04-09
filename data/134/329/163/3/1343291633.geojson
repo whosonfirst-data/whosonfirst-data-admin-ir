@@ -1,0 +1,77 @@
+{
+  "id": 1343291633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.53402,36.48531,57.53402,36.48531",
+    "geom:latitude":36.48531,
+    "geom:longitude":57.53402,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Bid",
+    "gn:country_code":"IR",
+    "gn:dem":1380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":140676,
+    "gn:latitude":36.48531,
+    "gn:longitude":57.53402,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"B\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "B\u012bd"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u0628\u064a\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140676,
+        "wk:page":"Bid,_Razavi_Khorasan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e9ea7b4cb5112b40d8f3f61b1fdd4d3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720367,
+            "locality_id":1343291633,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1343291633,
+    "wof:lastmodified":1537645898,
+    "wof:name":"Bid",
+    "wof:parent_id":1108720367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.53402,
+    36.48531,
+    57.53402,
+    36.48531
+],
+  "geometry": {"coordinates":[57.53402,36.48531],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310067075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.5,33.01667,52.5,33.01667",
+    "geom:latitude":33.01667,
+    "geom:longitude":52.5,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Neh",
+    "gn:country_code":"IR",
+    "gn:dem":2401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":67298,
+    "gn:latitude":33.01667,
+    "gn:longitude":52.5,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Neh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108719825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":67298
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"05be12642c1fc4337e4451e9f9be7ad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719825,
+            "locality_id":1310067075,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1310067075,
+    "wof:lastmodified":1537050000,
+    "wof:name":"Neh",
+    "wof:parent_id":1108719825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.5,
+    33.01667,
+    52.5,
+    33.01667
+],
+  "geometry": {"coordinates":[52.5,33.01667],"type":"Point"}
+}

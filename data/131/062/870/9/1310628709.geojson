@@ -1,0 +1,76 @@
+{
+  "id": 1310628709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.1096,35.8461,51.1096,35.8461",
+    "geom:latitude":35.8461,
+    "geom:longitude":51.1096,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Kondor",
+    "gn:country_code":"IR",
+    "gn:dem":1886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":126655,
+    "gn:latitude":35.8461,
+    "gn:longitude":51.1096,
+    "gn:modification_date":"2012-11-08",
+    "gn:name":"Kondor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0646\u062f\u0631"
+    ],
+    "name:und_x_variant":[
+        "Kundar",
+        "Kondar",
+        "Kondor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672415,
+        1108720105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":126655,
+        "wk:page":"Kondor%2C_Alborz"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8f5b4e1b07318ee7110d9f9dd04b053e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720105,
+            "locality_id":1310628709,
+            "region_id":85672415
+        }
+    ],
+    "wof:id":1310628709,
+    "wof:lastmodified":1537644472,
+    "wof:name":"Kondor",
+    "wof:parent_id":1108720105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.1096,
+    35.8461,
+    51.1096,
+    35.8461
+],
+  "geometry": {"coordinates":[51.1096,35.8461],"type":"Point"}
+}

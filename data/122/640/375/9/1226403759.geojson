@@ -1,0 +1,71 @@
+{
+  "id": 1226403759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.05,34.1612,51.05,34.1612",
+    "geom:latitude":34.1612,
+    "geom:longitude":51.05,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Van",
+    "gn:country_code":"IR",
+    "gn:dem":2034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112266,
+    "gn:latitude":34.1612,
+    "gn:longitude":51.05,
+    "gn:modification_date":"2018-07-22",
+    "gn:name":"Van",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112266,
+        "wk:page":"Van,_Iran"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9b5ea915611bc3f3565c8643c631e189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720109,
+            "locality_id":1226403759,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1226403759,
+    "wof:lastmodified":1537643066,
+    "wof:name":"Van",
+    "wof:parent_id":1108720109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.05,
+    34.1612,
+    51.05,
+    34.1612
+],
+  "geometry": {"coordinates":[51.05,34.1612],"type":"Point"}
+}

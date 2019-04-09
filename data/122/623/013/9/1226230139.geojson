@@ -1,0 +1,79 @@
+{
+  "id": 1226230139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.2982,26.8234,53.2982,26.8234",
+    "geom:latitude":26.8234,
+    "geom:longitude":53.2982,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Deh Kut",
+    "gn:country_code":"IR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":136722,
+    "gn:latitude":26.8234,
+    "gn:longitude":53.2982,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Deh K\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062f\u0647 \u0643\u0648\u062a"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0650\u0647 \u06af\u0648\u0646",
+        "Deh K\u016bt"
+    ],
+    "name:und_x_variant":[
+        "D\u0101ku",
+        "Dekhun",
+        "Deh G\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108719869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":136722
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"086ee2914f8d2b608d3fcdc610f1bc9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719869,
+            "locality_id":1226230139,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1226230139,
+    "wof:lastmodified":1537645504,
+    "wof:name":"Deh Kut",
+    "wof:parent_id":1108719869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.2982,
+    26.8234,
+    53.2982,
+    26.8234
+],
+  "geometry": {"coordinates":[53.2982,26.8234],"type":"Point"}
+}

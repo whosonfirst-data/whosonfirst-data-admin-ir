@@ -1,0 +1,73 @@
+{
+  "id": 1310086177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.0329,27.22641,57.0329,27.22641",
+    "geom:latitude":27.22641,
+    "geom:longitude":57.0329,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kalengi",
+    "gn:country_code":"IR",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":48383,
+    "gn:latitude":27.22641,
+    "gn:longitude":57.0329,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"K\u0101leng\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0627\u0644\u0646\u06af\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "K\u0101leng\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":48383
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0c93fe05d124411594b23c02fd3f843f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720243,
+            "locality_id":1310086177,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1310086177,
+    "wof:lastmodified":1537642722,
+    "wof:name":"Kalengi",
+    "wof:parent_id":1108720243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.0329,
+    27.22641,
+    57.0329,
+    27.22641
+],
+  "geometry": {"coordinates":[57.0329,27.22641],"type":"Point"}
+}

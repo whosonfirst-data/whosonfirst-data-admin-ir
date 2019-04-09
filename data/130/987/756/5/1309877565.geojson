@@ -1,0 +1,73 @@
+{
+  "id": 1309877565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.57872,35.59524,47.57872,35.59524",
+    "geom:latitude":35.59524,
+    "geom:longitude":47.57872,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Zarrinabad",
+    "gn:country_code":"IR",
+    "gn:dem":1878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3670,
+    "gn:latitude":35.59524,
+    "gn:longitude":47.57872,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Zarr\u012bn\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0632\u0631\u06cc\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Zarr\u012bn\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108719889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9a241a9627566957fe04573f27ecae39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719889,
+            "locality_id":1309877565,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1309877565,
+    "wof:lastmodified":1537640269,
+    "wof:name":"Zarrinabad",
+    "wof:parent_id":1108719889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.57872,
+    35.59524000000001,
+    47.57872,
+    35.59524000000001
+],
+  "geometry": {"coordinates":[47.57872,35.59524000000001],"type":"Point"}
+}

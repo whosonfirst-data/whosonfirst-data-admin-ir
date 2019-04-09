@@ -1,0 +1,74 @@
+{
+  "id": 1327148119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.9305,39.507,44.9305,39.507",
+    "geom:latitude":39.507,
+    "geom:longitude":44.9305,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Shedi",
+    "gn:country_code":"IR",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":14053,
+    "gn:latitude":39.507,
+    "gn:longitude":44.9305,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Shed\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0650\u062f\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u062f\u06cc",
+        "Shed\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":14053
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ce52f40450189f164f69a6145d9e5114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720203,
+            "locality_id":1327148119,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1327148119,
+    "wof:lastmodified":1537640775,
+    "wof:name":"Shedi",
+    "wof:parent_id":1108720203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.9305,
+    39.507,
+    44.9305,
+    39.507
+],
+  "geometry": {"coordinates":[44.9305,39.507],"type":"Point"}
+}

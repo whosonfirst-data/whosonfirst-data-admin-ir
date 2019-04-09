@@ -1,0 +1,77 @@
+{
+  "id": 1293418475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.1572,35.9149,51.1572,35.9149",
+    "geom:latitude":35.9149,
+    "geom:longitude":51.1572,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Khur",
+    "gn:country_code":"IR",
+    "gn:dem":2341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":127128,
+    "gn:latitude":35.9149,
+    "gn:longitude":51.1572,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Kh\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Kh\u016br"
+    ],
+    "name:und_x_variant":[
+        "G\u016bra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672415,
+        1108720105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":127128,
+        "wk:page":"Khur,_Savojbolagh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f248290f8d4b91ad5d04fb8b4cba7ce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720105,
+            "locality_id":1293418475,
+            "region_id":85672415
+        }
+    ],
+    "wof:id":1293418475,
+    "wof:lastmodified":1537644526,
+    "wof:name":"Khur",
+    "wof:parent_id":1108720105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.1572,
+    35.9149,
+    51.1572,
+    35.9149
+],
+  "geometry": {"coordinates":[51.1572,35.9149],"type":"Point"}
+}

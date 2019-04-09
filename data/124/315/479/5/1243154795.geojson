@@ -1,0 +1,76 @@
+{
+  "id": 1243154795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.97278,31.19583,48.97278,31.19583",
+    "geom:latitude":31.19583,
+    "geom:longitude":48.97278,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Maliget",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":124241,
+    "gn:latitude":31.19583,
+    "gn:longitude":48.97278,
+    "gn:modification_date":"2010-08-09",
+    "gn:name":"Mal\u012bget",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Mal\u012bget"
+    ],
+    "name:und_x_variant":[
+        "Mel\u012bgeyt",
+        "Malikat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":124241,
+        "wk:page":"Maliget"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"806a512b01b03b8fa24d77b4bbe8d7e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719793,
+            "locality_id":1243154795,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1243154795,
+    "wof:lastmodified":1537644232,
+    "wof:name":"Maliget",
+    "wof:parent_id":1108719793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.97278,
+    31.19583,
+    48.97278,
+    31.19583
+],
+  "geometry": {"coordinates":[48.97278,31.19583],"type":"Point"}
+}

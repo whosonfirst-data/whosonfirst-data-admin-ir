@@ -1,0 +1,74 @@
+{
+  "id": 1343590815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.79063,36.18213,58.79063,36.18213",
+    "geom:latitude":36.18213,
+    "geom:longitude":58.79063,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Bakavol",
+    "gn:country_code":"IR",
+    "gn:dem":1173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":30988,
+    "gn:latitude":36.18213,
+    "gn:longitude":58.79063,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Bak\u0101vol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u06a9\u0627\u0648\u0644"
+    ],
+    "name:fas_x_variant":[
+        "Bak\u0101vol Va Samandeh",
+        "Bak\u0101vol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":30988
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e0f7fcf29da4095ba18bab02f67ed032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720279,
+            "locality_id":1343590815,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1343590815,
+    "wof:lastmodified":1537641690,
+    "wof:name":"Bakavol",
+    "wof:parent_id":1108720279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.79063000000001,
+    36.18213,
+    58.79063000000001,
+    36.18213
+],
+  "geometry": {"coordinates":[58.79063000000001,36.18213],"type":"Point"}
+}

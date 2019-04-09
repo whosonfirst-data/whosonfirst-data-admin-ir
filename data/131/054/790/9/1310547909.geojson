@@ -1,0 +1,77 @@
+{
+  "id": 1310547909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.99387,30.84386,56.99387,30.84386",
+    "geom:latitude":30.84386,
+    "geom:longitude":56.99387,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Eshkoli",
+    "gn:country_code":"IR",
+    "gn:dem":2088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":35276,
+    "gn:latitude":30.84386,
+    "gn:longitude":56.99387,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Eshkol\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Eshkel\u012b"
+    ],
+    "name:fas_x_variant":[
+        "Eshkol\u012b",
+        "\u0627\u0634\u06a9\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0627\u0634\u06a9\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":35276
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0301bca8b5d83745050015caddcb428f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720347,
+            "locality_id":1310547909,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1310547909,
+    "wof:lastmodified":1537641941,
+    "wof:name":"Eshkoli",
+    "wof:parent_id":1108720347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.99387,
+    30.84386,
+    56.99387,
+    30.84386
+],
+  "geometry": {"coordinates":[56.99387,30.84386],"type":"Point"}
+}

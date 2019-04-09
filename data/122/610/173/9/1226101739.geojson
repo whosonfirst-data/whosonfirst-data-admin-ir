@@ -1,0 +1,77 @@
+{
+  "id": 1226101739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.9046,38.4336,47.9046,38.4336",
+    "geom:latitude":38.4336,
+    "geom:longitude":47.9046,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Alardeh",
+    "gn:country_code":"IR",
+    "gn:dem":1817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":13678,
+    "gn:latitude":38.4336,
+    "gn:longitude":47.9046,
+    "gn:modification_date":"2015-07-02",
+    "gn:name":"Alardeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0631\u062f\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0627\u0628\u064a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "B\u0101b\u012b\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13678,
+        "wk:page":"Alardeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"443940f6b8bf8305c007b7b01985be48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720237,
+            "locality_id":1226101739,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1226101739,
+    "wof:lastmodified":1537640737,
+    "wof:name":"Alardeh",
+    "wof:parent_id":1108720237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.9046,
+    38.4336,
+    47.9046,
+    38.4336
+],
+  "geometry": {"coordinates":[47.9046,38.4336],"type":"Point"}
+}

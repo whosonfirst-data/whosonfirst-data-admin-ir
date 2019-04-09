@@ -1,0 +1,67 @@
+{
+  "id": 1209520101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.3547,30.60532,51.3547,30.60532",
+    "geom:latitude":30.60532,
+    "geom:longitude":51.3547,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dam-e Darreh Salehi",
+    "gn:country_code":"IR",
+    "gn:dem":2056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7490704,
+    "gn:latitude":30.60532,
+    "gn:longitude":51.3547,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Dam-e Darreh \u015e\u0101le\u1e29\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Dam-e Darreh \u015e\u0101le\u1e29\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0645 \u062f\u0631\u0651\u0647 \u0635\u0627\u0644\u062d\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7490704
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"17d5afd7cddce0d161ece687f3087db8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209520101
+        }
+    ],
+    "wof:id":1209520101,
+    "wof:lastmodified":1537648260,
+    "wof:name":"Dam-e Darreh Salehi",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.3547,
+    30.60532000000001,
+    51.3547,
+    30.60532000000001
+],
+  "geometry": {"coordinates":[51.3547,30.60532000000001],"type":"Point"}
+}

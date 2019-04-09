@@ -1,0 +1,73 @@
+{
+  "id": 1209444001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.60611,34.39319,59.60611,34.39319",
+    "geom:latitude":34.39319,
+    "geom:longitude":59.60611,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Mahabad",
+    "gn:country_code":"IR",
+    "gn:dem":1071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":123690,
+    "gn:latitude":34.39319,
+    "gn:longitude":59.60611,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Mah\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Mah\u0101b\u0101d"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0647\u0627\u0628\u0627\u062f"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0445\u0430\u0431\u0430\u0434"
+    ],
+    "name:und_x_variant":[
+        "Moh\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":123690
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bfa40354db1d3aed59fbe43e18f093e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209444001
+        }
+    ],
+    "wof:id":1209444001,
+    "wof:lastmodified":1537644178,
+    "wof:name":"Mahabad",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.60611,
+    34.39319,
+    59.60611,
+    34.39319
+],
+  "geometry": {"coordinates":[59.60611,34.39319],"type":"Point"}
+}

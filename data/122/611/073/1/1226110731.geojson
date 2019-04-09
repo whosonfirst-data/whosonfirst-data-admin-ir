@@ -1,0 +1,78 @@
+{
+  "id": 1226110731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.0129,33.9642,48.0129,33.9642",
+    "geom:latitude":33.9642,
+    "geom:longitude":48.0129,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Sohbatabad",
+    "gn:country_code":"IR",
+    "gn:dem":1679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":114188,
+    "gn:latitude":33.9642,
+    "gn:longitude":48.0129,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"\u015eo\u1e29bat\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0635\u0650\u062d\u064e\u0651\u062a \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u0635\u062d\u0628\u062a \u0622\u0628\u0627\u062f",
+        "\u015eo\u1e29bat\u0101b\u0101d"
+    ],
+    "name:und_x_variant":[
+        "\u015ee\u1e29\u1e29at\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":114188,
+        "wk:page":"Sohbatabad%2C_Lorestan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3e8e8e2c5478fa15403eefd138343300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719959,
+            "locality_id":1226110731,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1226110731,
+    "wof:lastmodified":1537643256,
+    "wof:name":"Sohbatabad",
+    "wof:parent_id":1108719959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.0129,
+    33.9642,
+    48.0129,
+    33.9642
+],
+  "geometry": {"coordinates":[48.0129,33.9642],"type":"Point"}
+}

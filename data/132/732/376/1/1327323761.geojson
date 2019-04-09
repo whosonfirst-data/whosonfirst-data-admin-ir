@@ -1,0 +1,73 @@
+{
+  "id": 1327323761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.8597,38.3134,48.8597,38.3134",
+    "geom:latitude":38.3134,
+    "geom:longitude":48.8597,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Mansur Mahalleh",
+    "gn:country_code":"IR",
+    "gn:dem":-12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":37795,
+    "gn:latitude":38.3134,
+    "gn:longitude":48.8597,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Man\u015f\u016br Ma\u1e29alleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0635\u0648\u0631 \u0645\u062d\u0644\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Man\u015f\u016br Ma\u1e29alleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108719835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":37795
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6c2f9f87f0e8b75d9fbc6f51ec142eb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719835,
+            "locality_id":1327323761,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1327323761,
+    "wof:lastmodified":1537642127,
+    "wof:name":"Mansur Mahalleh",
+    "wof:parent_id":1108719835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.8597,
+    38.3134,
+    48.8597,
+    38.3134
+],
+  "geometry": {"coordinates":[48.8597,38.3134],"type":"Point"}
+}

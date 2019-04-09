@@ -1,0 +1,74 @@
+{
+  "id": 1293650299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.56667,29.41667,57.56667,29.41667",
+    "geom:latitude":29.41667,
+    "geom:longitude":57.56667,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Qal`eh-ye Guri",
+    "gn:country_code":"IR",
+    "gn:dem":2165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":67102,
+    "gn:latitude":29.41667,
+    "gn:longitude":57.56667,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Qal\u2018eh-ye Guri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Qal\u2018eh-ye Guri"
+    ],
+    "name:und_x_variant":[
+        "Qal\u2018eh-i-Guri",
+        "Qal\u2018eh-i-Buri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":67102
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f80b29dc4cdc320c3cc5adbba86ea4bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720115,
+            "locality_id":1293650299,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1293650299,
+    "wof:lastmodified":1537642825,
+    "wof:name":"Qal`eh-ye Guri",
+    "wof:parent_id":1108720115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.56667,
+    29.41667,
+    57.56667,
+    29.41667
+],
+  "geometry": {"coordinates":[57.56667,29.41667],"type":"Point"}
+}

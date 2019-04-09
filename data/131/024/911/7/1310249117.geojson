@@ -1,0 +1,77 @@
+{
+  "id": 1310249117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.63866,36.39402,51.63866,36.39402",
+    "geom:latitude":36.39402,
+    "geom:longitude":51.63866,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Shahrak-e Lashak",
+    "gn:country_code":"IR",
+    "gn:dem":1611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535277,
+    "gn:latitude":36.39402,
+    "gn:longitude":51.63866,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Shahrak-e L\u0101shak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0643 \u0644\u0627\u0634\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u0647\u0631\u06a9 \u062c\u062f\u06cc\u062f \u0627\u0644\u062d\u062f\u0627\u062b"
+    ],
+    "name:und_x_variant":[
+        "Shahrak-e L\u0101shak",
+        "Shahrak-e Jad\u012bd ol E\u1e29ad\u0101s\u0304"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535277
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7e5972fb4de2ba68603799ceb27040bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720281,
+            "locality_id":1310249117,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1310249117,
+    "wof:lastmodified":1537648579,
+    "wof:name":"Shahrak-e Lashak",
+    "wof:parent_id":1108720281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.63866,
+    36.39402000000001,
+    51.63866,
+    36.39402000000001
+],
+  "geometry": {"coordinates":[51.63866,36.39402000000001],"type":"Point"}
+}

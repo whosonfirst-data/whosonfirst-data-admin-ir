@@ -1,0 +1,73 @@
+{
+  "id": 1360252103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.2906,35.6102,51.2906,35.6102",
+    "geom:latitude":35.6102,
+    "geom:longitude":51.2906,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"`Abdolabad",
+    "gn:country_code":"IR",
+    "gn:dem":1097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":404547,
+    "gn:latitude":35.6102,
+    "gn:longitude":51.2906,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u2018Abdol\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0639\u0628\u062f\u0644 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u2018Abdol\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672313,
+        1108720491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":404547
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"82c3c13a0c2b688478f44ff6ff5d19ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720491,
+            "locality_id":1360252103,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1360252103,
+    "wof:lastmodified":1537646571,
+    "wof:name":"`Abdolabad",
+    "wof:parent_id":1108720491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.2906,
+    35.6102,
+    51.2906,
+    35.6102
+],
+  "geometry": {"coordinates":[51.2906,35.6102],"type":"Point"}
+}

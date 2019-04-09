@@ -1,0 +1,74 @@
+{
+  "id": 1226427245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.53333,36.98333,49.53333,36.98333",
+    "geom:latitude":36.98333,
+    "geom:longitude":49.53333,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Khowlak",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":127210,
+    "gn:latitude":36.98333,
+    "gn:longitude":49.53333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Khowlak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kholag",
+        "Kholyak",
+        "Kholak",
+        "Khowlak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":127210
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6c850b2a3463988d31f1c3a85c9e7ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720361,
+            "locality_id":1226427245,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1226427245,
+    "wof:lastmodified":1537644536,
+    "wof:name":"Khowlak",
+    "wof:parent_id":1108720361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.53333,
+    36.98333,
+    49.53333,
+    36.98333
+],
+  "geometry": {"coordinates":[49.53333,36.98333],"type":"Point"}
+}

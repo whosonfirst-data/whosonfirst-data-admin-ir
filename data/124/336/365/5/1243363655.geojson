@@ -1,0 +1,74 @@
+{
+  "id": 1243363655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.51971,25.99259,60.51971,25.99259",
+    "geom:latitude":25.99259,
+    "geom:longitude":60.51971,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Michi Govash",
+    "gn:country_code":"IR",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8538832,
+    "gn:latitude":25.99259,
+    "gn:longitude":60.51971,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"M\u012bch\u012b Gov\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u064a\u0686\u06cc \u06af\u0648\u0627\u0634"
+    ],
+    "name:und_x_variant":[
+        "M\u012bch\u012b Gov\u0101sh",
+        "Machg\u016b\u0101sh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8538832
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"81bd12fd191c21d3dba9cb9ffa458599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720271,
+            "locality_id":1243363655,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1243363655,
+    "wof:lastmodified":1537648581,
+    "wof:name":"Michi Govash",
+    "wof:parent_id":1108720271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.51971,
+    25.99259,
+    60.51971,
+    25.99259
+],
+  "geometry": {"coordinates":[60.51971,25.99259],"type":"Point"}
+}

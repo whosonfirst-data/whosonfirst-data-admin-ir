@@ -1,0 +1,74 @@
+{
+  "id": 1309673111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.02086,28.83831,59.02086,28.83831",
+    "geom:latitude":28.83831,
+    "geom:longitude":59.02086,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Seh Kahur",
+    "gn:country_code":"IR",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":116458,
+    "gn:latitude":28.83831,
+    "gn:longitude":59.02086,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Seh Kah\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0647 \u06a9\u0647\u0648\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Seh Kah\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":116458,
+        "wk:page":"Seh_Kahur"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"af6b8fee0c2d519b0318f7aa9737eac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719861,
+            "locality_id":1309673111,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1309673111,
+    "wof:lastmodified":1537643452,
+    "wof:name":"Seh Kahur",
+    "wof:parent_id":1108719861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.02086,
+    28.83831,
+    59.02086,
+    28.83831
+],
+  "geometry": {"coordinates":[59.02086,28.83831],"type":"Point"}
+}

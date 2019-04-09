@@ -1,0 +1,73 @@
+{
+  "id": 1360035571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.2307,27.30612,58.2307,27.30612",
+    "geom:latitude":27.30612,
+    "geom:longitude":58.2307,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Jahadabad",
+    "gn:country_code":"IR",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7060768,
+    "gn:latitude":27.30612,
+    "gn:longitude":58.2307,
+    "gn:modification_date":"2014-04-07",
+    "gn:name":"Jah\u0101d\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u0647\u0627\u062f \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Jah\u0101d\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7060768
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"14249058349f88fc2d64654e0b3bc281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720029,
+            "locality_id":1360035571,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1360035571,
+    "wof:lastmodified":1537647976,
+    "wof:name":"Jahadabad",
+    "wof:parent_id":1108720029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.2307,
+    27.30612,
+    58.2307,
+    27.30612
+],
+  "geometry": {"coordinates":[58.2307,27.30612],"type":"Point"}
+}

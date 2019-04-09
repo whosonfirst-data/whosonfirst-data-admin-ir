@@ -1,0 +1,65 @@
+{
+  "id": 1209485249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.16976,30.94331,49.16976,30.94331",
+    "geom:latitude":30.94331,
+    "geom:longitude":49.16976,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Farheh",
+    "gn:country_code":"IR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6648123,
+    "gn:latitude":30.94331,
+    "gn:longitude":49.16976,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Farheh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0647\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6648123,
+        "wk:page":"Farheh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a440fda9bb5a7891499a114198b66ea5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209485249
+        }
+    ],
+    "wof:id":1209485249,
+    "wof:lastmodified":1537647174,
+    "wof:name":"Farheh",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.16976,
+    30.94331,
+    49.16976,
+    30.94331
+],
+  "geometry": {"coordinates":[49.16976,30.94331],"type":"Point"}
+}

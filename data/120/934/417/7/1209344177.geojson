@@ -1,0 +1,74 @@
+{
+  "id": 1209344177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.39083,35.42,59.39083,35.42",
+    "geom:latitude":35.42,
+    "geom:longitude":59.39083,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Gowji",
+    "gn:country_code":"IR",
+    "gn:dem":1769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":132861,
+    "gn:latitude":35.42,
+    "gn:longitude":59.39083,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Gowj\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "G\u016bb\u012b"
+    ],
+    "name:fas_x_variant":[
+        "Gowj\u012b",
+        "\u06af\u0648\u062c\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Gorj\u012b",
+        "Gowj\u012b",
+        "\u06af\u0648\u062c\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":132861,
+        "wk:page":"Gowji"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e89a28ea128f0d5b5003b404963ff20b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209344177
+        }
+    ],
+    "wof:id":1209344177,
+    "wof:lastmodified":1537645113,
+    "wof:name":"Gowji",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.39083,
+    35.42,
+    59.39083,
+    35.42
+],
+  "geometry": {"coordinates":[59.39083,35.42],"type":"Point"}
+}

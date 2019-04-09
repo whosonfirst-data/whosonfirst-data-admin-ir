@@ -1,0 +1,73 @@
+{
+  "id": 1226789579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.34871,35.98103,52.34871,35.98103",
+    "geom:latitude":35.98103,
+    "geom:longitude":52.34871,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Binjastan",
+    "gn:country_code":"IR",
+    "gn:dem":2420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7633469,
+    "gn:latitude":35.98103,
+    "gn:longitude":52.34871,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"B\u012bnjast\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "B\u012bnjast\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u06cc\u0646\u062c\u0633\u062a\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7633469
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c83416f86b7b59a05888e70cea90769a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719807,
+            "locality_id":1226789579,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1226789579,
+    "wof:lastmodified":1537648475,
+    "wof:name":"Binjastan",
+    "wof:parent_id":1108719807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.34871,
+    35.98103,
+    52.34871,
+    35.98103
+],
+  "geometry": {"coordinates":[52.34871,35.98103],"type":"Point"}
+}

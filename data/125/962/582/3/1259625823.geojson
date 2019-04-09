@@ -1,0 +1,73 @@
+{
+  "id": 1259625823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.61058,36.57506,49.61058,36.57506",
+    "geom:latitude":36.57506,
+    "geom:longitude":49.61058,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Tan Sakhteh",
+    "gn:country_code":"IR",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7431646,
+    "gn:latitude":36.57506,
+    "gn:longitude":49.61058,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Tan Sakhteh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062a\u0646 \u0633\u062e\u062a\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u062a\u0646 \u0633\u062e\u062a\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108720315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7431646
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e4fb9c54d21e2cbfa08d8a6e1e6a3769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720315,
+            "locality_id":1259625823,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1259625823,
+    "wof:lastmodified":1537648194,
+    "wof:name":"Tan Sakhteh",
+    "wof:parent_id":1108720315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.61058,
+    36.57506,
+    49.61058,
+    36.57506
+],
+  "geometry": {"coordinates":[49.61058,36.57506],"type":"Point"}
+}

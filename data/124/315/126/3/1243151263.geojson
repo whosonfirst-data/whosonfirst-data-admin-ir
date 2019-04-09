@@ -1,0 +1,75 @@
+{
+  "id": 1243151263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.9789,35.0386,45.9789,35.0386",
+    "geom:latitude":35.0386,
+    "geom:longitude":45.9789,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Qin Sakht",
+    "gn:country_code":"IR",
+    "gn:dem":554,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3130,
+    "gn:latitude":35.0386,
+    "gn:longitude":45.9789,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Q\u012bn Sakht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0642\u06cc\u0646 \u0633\u062e\u062a"
+    ],
+    "name:fas_x_variant":[
+        "Q\u012bn Sakht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3130,
+        "wk:page":"Qin_Sakht"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0e5125fc210477c8a638eef0bae7d073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720079,
+            "locality_id":1243151263,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1243151263,
+    "wof:lastmodified":1537640229,
+    "wof:name":"Qin Sakht",
+    "wof:parent_id":1108720079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.9789,
+    35.0386,
+    45.9789,
+    35.0386
+],
+  "geometry": {"coordinates":[45.9789,35.0386],"type":"Point"}
+}

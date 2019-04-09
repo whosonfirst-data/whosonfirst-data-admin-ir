@@ -1,0 +1,74 @@
+{
+  "id": 1276729439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.06542,35.61341,52.06542,35.61341",
+    "geom:latitude":35.61341,
+    "geom:longitude":52.06542,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Hashemak",
+    "gn:country_code":"IR",
+    "gn:dem":2038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":33051,
+    "gn:latitude":35.61341,
+    "gn:longitude":52.06542,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"H\u0101shemak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0647\u0627\u0634\u0645\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "H\u0101shemak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672313,
+        1108719935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":33051,
+        "wk:page":"Hashemak"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ac1a51b05b853cc544bb175df8b15743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719935,
+            "locality_id":1276729439,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1276729439,
+    "wof:lastmodified":1537641839,
+    "wof:name":"Hashemak",
+    "wof:parent_id":1108719935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.06542,
+    35.61340999999999,
+    52.06542,
+    35.61340999999999
+],
+  "geometry": {"coordinates":[52.06542,35.61340999999999],"type":"Point"}
+}

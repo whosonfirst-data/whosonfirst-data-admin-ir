@@ -1,0 +1,79 @@
+{
+  "id": 1226312843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.62423,32.25371,49.62423,32.25371",
+    "geom:latitude":32.25371,
+    "geom:longitude":49.62423,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Kartaz",
+    "gn:country_code":"IR",
+    "gn:dem":765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":33373,
+    "gn:latitude":32.25371,
+    "gn:longitude":49.62423,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Kartaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "K\u0101rt\u0101"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0631\u062a\u0631",
+        "\u06a9\u0631\u062a\u0632"
+    ],
+    "name:und_x_variant":[
+        "Kartar",
+        "\u06a9\u0631\u062a\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":33373,
+        "wk:page":"Kartaz"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b1c1d65469e2ab5d24413779edf3c572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720229,
+            "locality_id":1226312843,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1226312843,
+    "wof:lastmodified":1537641865,
+    "wof:name":"Kartaz",
+    "wof:parent_id":1108720229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.62423,
+    32.25371,
+    49.62423,
+    32.25371
+],
+  "geometry": {"coordinates":[49.62423,32.25371],"type":"Point"}
+}

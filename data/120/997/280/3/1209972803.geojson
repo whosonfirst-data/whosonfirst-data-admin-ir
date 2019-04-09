@@ -1,0 +1,77 @@
+{
+  "id": 1209972803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.9945,33.6143,47.9945,33.6143",
+    "geom:latitude":33.6143,
+    "geom:longitude":47.9945,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Harafteh",
+    "gn:country_code":"IR",
+    "gn:dem":1293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":28253,
+    "gn:latitude":33.6143,
+    "gn:longitude":47.9945,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Harafteh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0647\u0631\u0631\u0641\u062a\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0647\u0631\u0641\u062a\u0647"
+    ],
+    "name:und_x_variant":[
+        "Harrafteh",
+        "Harafteh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":28253
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"29c4cf2c1e934fe55acdde5ad5225181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720145,
+            "locality_id":1209972803,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1209972803,
+    "wof:lastmodified":1537641523,
+    "wof:name":"Harafteh",
+    "wof:parent_id":1108720145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.9945,
+    33.6143,
+    47.9945,
+    33.6143
+],
+  "geometry": {"coordinates":[47.9945,33.6143],"type":"Point"}
+}

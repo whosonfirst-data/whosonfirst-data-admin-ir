@@ -1,0 +1,73 @@
+{
+  "id": 1260049861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.5215,32.80376,48.5215,32.80376",
+    "geom:latitude":32.80376,
+    "geom:longitude":48.5215,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Shirin Ab",
+    "gn:country_code":"IR",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":36320,
+    "gn:latitude":32.80376,
+    "gn:longitude":48.5215,
+    "gn:modification_date":"2016-01-06",
+    "gn:name":"Sh\u012br\u012bn \u0100b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0631\u06cc\u0646 \u0622\u0628"
+    ],
+    "name:fas_x_variant":[
+        "Sh\u012br\u012bn \u0100b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":36320
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1acaaf22c70e74f8a6cdac32abbe582d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719811,
+            "locality_id":1260049861,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1260049861,
+    "wof:lastmodified":1537642001,
+    "wof:name":"Shirin Ab",
+    "wof:parent_id":1108719811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.5215,
+    32.80376,
+    48.5215,
+    32.80376
+],
+  "geometry": {"coordinates":[48.5215,32.80376],"type":"Point"}
+}

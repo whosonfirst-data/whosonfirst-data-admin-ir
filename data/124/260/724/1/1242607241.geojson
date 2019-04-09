@@ -1,0 +1,78 @@
+{
+  "id": 1242607241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.98258,36.20328,58.98258,36.20328",
+    "geom:latitude":36.20328,
+    "geom:longitude":58.98258,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Dar Ol Eslam",
+    "gn:country_code":"IR",
+    "gn:dem":1504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":31337,
+    "gn:latitude":36.20328,
+    "gn:longitude":58.98258,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"D\u0101r Ol Esl\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0631 \u0627\u0644\u0633\u0644\u0627\u0645"
+    ],
+    "name:fas_x_variant":[
+        "D\u0101r os Sal\u0101m",
+        "\u062f\u0627\u0631\u0627\u0644\u0627\u0633\u0644\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "D\u0101r Ol Esl\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":31337,
+        "wk:page":"Dar_os_Salam"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8d31908fb421685747b9d50684056d7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720279,
+            "locality_id":1242607241,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1242607241,
+    "wof:lastmodified":1537641711,
+    "wof:name":"Dar Ol Eslam",
+    "wof:parent_id":1108720279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.98258000000001,
+    36.20328,
+    58.98258000000001,
+    36.20328
+],
+  "geometry": {"coordinates":[58.98258000000001,36.20328],"type":"Point"}
+}

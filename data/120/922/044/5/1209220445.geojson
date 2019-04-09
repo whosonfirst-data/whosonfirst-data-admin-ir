@@ -1,0 +1,71 @@
+{
+  "id": 1209220445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.78944,31.13501,61.78944,31.13501",
+    "geom:latitude":31.13501,
+    "geom:longitude":61.78944,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Deh-e Ahmad",
+    "gn:country_code":"IR",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6651114,
+    "gn:latitude":31.13501,
+    "gn:longitude":61.78944,
+    "gn:modification_date":"2018-07-28",
+    "gn:name":"Deh-e A\u1e29mad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Deh-e A\u1e29mad"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0647 \u0627\u062d\u0645\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u062f\u0647 \u0627\u062d\u0645\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6651114,
+        "wk:page":"Deh-e_Ahmad,_Sistan_and_Baluchestan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"73d6d0312459dec0535ea606b9eb903e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209220445
+        }
+    ],
+    "wof:id":1209220445,
+    "wof:lastmodified":1537647203,
+    "wof:name":"Deh-e Ahmad",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.78944,
+    31.13501,
+    61.78944,
+    31.13501
+],
+  "geometry": {"coordinates":[61.78944,31.13501],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1242913683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.82919,36.58152,50.82919,36.58152",
+    "geom:latitude":36.58152,
+    "geom:longitude":50.82919,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Teras",
+    "gn:country_code":"IR",
+    "gn:dem":871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7625121,
+    "gn:latitude":36.58152,
+    "gn:longitude":50.82919,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"Ter\u0101s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Pelleh T\u0101l"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u0644\u0647 \u062a\u0627\u0644",
+        "\u062a\u0631\u0627\u0633",
+        "\u067e\u0644\u0637\u0647\u0627\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u067e\u0644\u0647 \u062a\u0627\u0644",
+        "Ter\u0101s",
+        "Pel\u0163h\u0101leh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7625121
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"612f563c097ec8ca09481811b027a047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720495,
+            "locality_id":1242913683,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1242913683,
+    "wof:lastmodified":1537648443,
+    "wof:name":"Teras",
+    "wof:parent_id":1108720495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.82919,
+    36.58152000000001,
+    50.82919,
+    36.58152000000001
+],
+  "geometry": {"coordinates":[50.82919,36.58152000000001],"type":"Point"}
+}

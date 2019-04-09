@@ -1,0 +1,76 @@
+{
+  "id": 1276142565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.50721,30.41925,51.50721,30.41925",
+    "geom:latitude":30.41925,
+    "geom:longitude":51.50721,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bagushi",
+    "gn:country_code":"IR",
+    "gn:dem":1715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7453682,
+    "gn:latitude":30.41925,
+    "gn:longitude":51.50721,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"B\u0101g\u016bsh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "B\u0101g\u016bsh\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0627 \u06af\u0648\u0634\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0628\u0627 \u06af\u0648\u0634\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7453682
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2dca0925f19ccf7d035bb99811de266b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720209,
+            "locality_id":1276142565,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1276142565,
+    "wof:lastmodified":1537648216,
+    "wof:name":"Bagushi",
+    "wof:parent_id":1108720209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.50721,
+    30.41925,
+    51.50721,
+    30.41925
+],
+  "geometry": {"coordinates":[51.50721,30.41925],"type":"Point"}
+}

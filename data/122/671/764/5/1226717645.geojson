@@ -1,0 +1,73 @@
+{
+  "id": 1226717645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.37696,35.55628,53.37696,35.55628",
+    "geom:latitude":35.55628,
+    "geom:longitude":53.37696,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Kushmaqan",
+    "gn:country_code":"IR",
+    "gn:dem":1122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":33835,
+    "gn:latitude":35.55628,
+    "gn:longitude":53.37696,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"K\u016bshmaq\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0648\u0634\u0645\u0642\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "K\u016bshmaq\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672309,
+        1108720419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":33835
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5048fba5434f6892eef0365f7a972505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720419,
+            "locality_id":1226717645,
+            "region_id":85672309
+        }
+    ],
+    "wof:id":1226717645,
+    "wof:lastmodified":1537641880,
+    "wof:name":"Kushmaqan",
+    "wof:parent_id":1108720419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.37696,
+    35.55628,
+    53.37696,
+    35.55628
+],
+  "geometry": {"coordinates":[53.37696,35.55628],"type":"Point"}
+}

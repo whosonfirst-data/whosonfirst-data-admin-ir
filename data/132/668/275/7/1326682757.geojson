@@ -1,0 +1,83 @@
+{
+  "id": 1326682757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.30528,36.11049,48.30528,36.11049",
+    "geom:latitude":36.11049,
+    "geom:longitude":48.30528,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Ach Tanian",
+    "gn:country_code":"IR",
+    "gn:dem":1702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112374,
+    "gn:latitude":36.11049,
+    "gn:longitude":48.30528,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Ach T\u0101n\u012b\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0634\u062a\u0627\u0646\u064a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0648\u0634\u062a\u0627\u0646\u0650\u064a\u0627\u0646",
+        "\u0627\u0648\u0634\u062a\u0627\u0646\u064a\u0627\u0646",
+        "\u016asht\u0101n\u012b\u0101n",
+        "Owsht\u0101n\u012b\u0101n",
+        "\u0627\u0686 \u062a\u0627\u0646\u06cc\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Usht\u0101niy\u0101n",
+        "\u016asht\u0101ney\u0101n",
+        "Ach T\u0101n\u012b\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672361,
+        1108720135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112374,
+        "wk:page":"Owshtanian"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c96f8b0a67d2d4eab03dad946fe6356d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720135,
+            "locality_id":1326682757,
+            "region_id":85672361
+        }
+    ],
+    "wof:id":1326682757,
+    "wof:lastmodified":1537643079,
+    "wof:name":"Ach Tanian",
+    "wof:parent_id":1108720135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.30528,
+    36.11049000000001,
+    48.30528,
+    36.11049000000001
+],
+  "geometry": {"coordinates":[48.30528,36.11049000000001],"type":"Point"}
+}

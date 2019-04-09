@@ -1,0 +1,75 @@
+{
+  "id": 1293861385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.637,27.503,56.637,27.503",
+    "geom:latitude":27.503,
+    "geom:longitude":56.637,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Sargashan",
+    "gn:country_code":"IR",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":47830,
+    "gn:latitude":27.503,
+    "gn:longitude":56.637,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sarg\u0101sh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u06af\u0627\u0634\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Sarg\u012bsh\u0101n",
+        "\u0633\u0631\u06af\u064a\u0634\u0627\u0646",
+        "Sarg\u0101sh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108719863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":47830
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a238c85212fd09089506cff8c8092a49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719863,
+            "locality_id":1293861385,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1293861385,
+    "wof:lastmodified":1537642691,
+    "wof:name":"Sargashan",
+    "wof:parent_id":1108719863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.637,
+    27.503,
+    56.637,
+    27.503
+],
+  "geometry": {"coordinates":[56.637,27.503],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259869649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.9679,37.7362,48.9679,37.7362",
+    "geom:latitude":37.7362,
+    "geom:longitude":48.9679,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Taheri Mahalleh",
+    "gn:country_code":"IR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6743704,
+    "gn:latitude":37.7362,
+    "gn:longitude":48.9679,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u0162\u0101her\u012b Ma\u1e29alleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0637\u0627\u0647\u0631\u06cc \u0645\u062d\u0644\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0162\u0101her\u012b Ma\u1e29alleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6743704
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"65d4cb03fd718d3e55b849e66132898b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720487,
+            "locality_id":1259869649,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1259869649,
+    "wof:lastmodified":1537647598,
+    "wof:name":"Taheri Mahalleh",
+    "wof:parent_id":1108720487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.9679,
+    37.7362,
+    48.9679,
+    37.7362
+],
+  "geometry": {"coordinates":[48.9679,37.7362],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226833873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.12417,37.43986,49.12417,37.43986",
+    "geom:latitude":37.43986,
+    "geom:longitude":49.12417,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Pireh Sara",
+    "gn:country_code":"IR",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":416544,
+    "gn:latitude":37.43986,
+    "gn:longitude":49.12417,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"P\u012breh Sar\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0631\u0647 \u0633\u0631\u0627"
+    ],
+    "name:fas_x_variant":[
+        "P\u012br Sar\u0101",
+        "P\u012breh Sar\u0101",
+        "\u067e\u06cc\u0631 \u0633\u0631\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":416544
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"051a94c21d3939ab89ec5bfae626197a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720225,
+            "locality_id":1226833873,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1226833873,
+    "wof:lastmodified":1537646654,
+    "wof:name":"Pireh Sara",
+    "wof:parent_id":1108720225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.12417,
+    37.43986,
+    49.12417,
+    37.43986
+],
+  "geometry": {"coordinates":[49.12417,37.43986],"type":"Point"}
+}

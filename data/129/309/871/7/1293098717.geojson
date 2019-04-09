@@ -1,0 +1,74 @@
+{
+  "id": 1293098717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.43345,28.21889,61.43345,28.21889",
+    "geom:latitude":28.21889,
+    "geom:longitude":61.43345,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Chahtuk",
+    "gn:country_code":"IR",
+    "gn:dem":1331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7094470,
+    "gn:latitude":28.21889,
+    "gn:longitude":61.43345,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Ch\u0101ht\u016bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0647\u062a\u0648\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "Ch\u0101ht\u016bk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7094470,
+        "wk:page":"Chahtuk"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"254c64450cfc426e2f0a6be789e31903",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720131,
+            "locality_id":1293098717,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1293098717,
+    "wof:lastmodified":1537648059,
+    "wof:name":"Chahtuk",
+    "wof:parent_id":1108720131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.43345,
+    28.21889,
+    61.43345,
+    28.21889
+],
+  "geometry": {"coordinates":[61.43345,28.21889],"type":"Point"}
+}

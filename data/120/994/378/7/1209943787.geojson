@@ -1,0 +1,80 @@
+{
+  "id": 1209943787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.73173,36.11074,58.73173,36.11074",
+    "geom:latitude":36.11074,
+    "geom:longitude":58.73173,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Dalashu",
+    "gn:country_code":"IR",
+    "gn:dem":1118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":30981,
+    "gn:latitude":36.11074,
+    "gn:longitude":58.73173,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"D\u0101l\u0101sh\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0644\u0627\u0634\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "D\u0101l \u0100shey\u0101n",
+        "D\u0101l\u0101sh\u0101n",
+        "\u062f\u0627\u0644\u0627\u0634\u0648"
+    ],
+    "name:und_x_variant":[
+        "D\u0101l \u0100sh\u012b\u0101n",
+        "D\u0101l\u0101sh\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":30981,
+        "wk:page":"Dalashan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"68b1f9aa28543524863b87a0f8a9c339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720279,
+            "locality_id":1209943787,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1209943787,
+    "wof:lastmodified":1537641689,
+    "wof:name":"Dalashu",
+    "wof:parent_id":1108720279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.73173000000001,
+    36.11074,
+    58.73173000000001,
+    36.11074
+],
+  "geometry": {"coordinates":[58.73173000000001,36.11074],"type":"Point"}
+}

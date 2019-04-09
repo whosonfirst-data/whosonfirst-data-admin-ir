@@ -1,0 +1,79 @@
+{
+  "id": 1193186739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.59439,36.90875,50.59439,36.90875",
+    "geom:latitude":36.90875,
+    "geom:longitude":50.59439,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Vaj Kalayeh",
+    "gn:country_code":"IR",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7625459,
+    "gn:latitude":36.90875,
+    "gn:longitude":50.59439,
+    "gn:modification_date":"2014-03-10",
+    "gn:name":"V\u0101j Kal\u0101yeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "V\u0101chkal\u0101yeh"
+    ],
+    "name:fas_x_variant":[
+        "\u0648\u0627\u0686\u06a9\u0644\u0627\u06cc\u0647",
+        "\u0648\u0627\u062c \u06a9\u0644\u0627\u06cc\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0648\u0627\u0686\u06a9\u0644\u0627\u06cc\u0647",
+        "V\u0101j Kal\u0101yeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7625459,
+        "wk:page":"Vachkalayeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"954aa83cff49c7692135e24f67b506a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720333,
+            "locality_id":1193186739,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1193186739,
+    "wof:lastmodified":1537648463,
+    "wof:name":"Vaj Kalayeh",
+    "wof:parent_id":1108720333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.59439,
+    36.90875,
+    50.59439,
+    36.90875
+],
+  "geometry": {"coordinates":[50.59439,36.90875],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1259999995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.29076,27.65074,54.29076,27.65074",
+    "geom:latitude":27.65074,
+    "geom:longitude":54.29076,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Shahrak-e Golestan",
+    "gn:country_code":"IR",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6970729,
+    "gn:latitude":27.65074,
+    "gn:longitude":54.29076,
+    "gn:modification_date":"2018-06-02",
+    "gn:name":"Shahrak-e Golest\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u06a9 \u062c\u062f\u06cc\u062f \u0627\u0646\u0628\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u0647\u0631\u06a9 \u06af\u0644\u0633\u062a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Shahrak-e Jad\u012bd-e Anb\u0101r",
+        "Shahrak-e Golest\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6970729,
+        "wk:page":"Shahrak-e_Golestan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c27e04ade590bc45569d7f4909cdec65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720185,
+            "locality_id":1259999995,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1259999995,
+    "wof:lastmodified":1537647791,
+    "wof:name":"Shahrak-e Golestan",
+    "wof:parent_id":1108720185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.29076,
+    27.65074000000001,
+    54.29076,
+    27.65074000000001
+],
+  "geometry": {"coordinates":[54.29076,27.65074000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310011699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.36774,28.2803,61.36774,28.2803",
+    "geom:latitude":28.2803,
+    "geom:longitude":61.36774,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Nukabad",
+    "gn:country_code":"IR",
+    "gn:dem":1357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7094438,
+    "gn:latitude":28.2803,
+    "gn:longitude":61.36774,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"N\u016bk\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u06a9 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "N\u016bk\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7094438
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a2981b12005396ee5276547b37f4be76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720131,
+            "locality_id":1310011699,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1310011699,
+    "wof:lastmodified":1537648058,
+    "wof:name":"Nukabad",
+    "wof:parent_id":1108720131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.36774000000001,
+    28.2803,
+    61.36774000000001,
+    28.2803
+],
+  "geometry": {"coordinates":[61.36774000000001,28.2803],"type":"Point"}
+}

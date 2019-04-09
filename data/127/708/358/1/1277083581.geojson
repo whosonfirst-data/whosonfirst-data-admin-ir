@@ -1,0 +1,74 @@
+{
+  "id": 1277083581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.3992,36.4271,45.3992,36.4271",
+    "geom:latitude":36.4271,
+    "geom:longitude":45.3992,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nivash",
+    "gn:country_code":"IR",
+    "gn:dem":1466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6676852,
+    "gn:latitude":36.4271,
+    "gn:longitude":45.3992,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"N\u012bv\u0101sh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0648\u0627\u0634"
+    ],
+    "name:fas_x_variant":[
+        "N\u012bv\u0101sh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6676852,
+        "wk:page":"Nivash"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"62ae61477e68d28492ec1fdda1f699ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720399,
+            "locality_id":1277083581,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1277083581,
+    "wof:lastmodified":1537647324,
+    "wof:name":"Nivash",
+    "wof:parent_id":1108720399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.3992,
+    36.4271,
+    45.3992,
+    36.4271
+],
+  "geometry": {"coordinates":[45.3992,36.4271],"type":"Point"}
+}

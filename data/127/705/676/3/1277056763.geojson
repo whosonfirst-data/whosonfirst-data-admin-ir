@@ -1,0 +1,80 @@
+{
+  "id": 1277056763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.75833,27.48778,56.75833,27.48778",
+    "geom:latitude":27.48778,
+    "geom:longitude":56.75833,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Sark",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":116977,
+    "gn:latitude":27.48778,
+    "gn:longitude":56.75833,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sark",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u064e\u0631\u0643"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u064f\u0631\u064e\u0643",
+        "\u0633\u064e\u0631\u064a\u0643"
+    ],
+    "name:und_x_variant":[
+        "Sorak",
+        "Sar\u012bk",
+        "Sark"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108719863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":116977
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"50e9c5b890d29707e1efd655decc4e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719863,
+            "locality_id":1277056763,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1277056763,
+    "wof:lastmodified":1537643496,
+    "wof:name":"Sark",
+    "wof:parent_id":1108719863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.75833000000001,
+    27.48778,
+    56.75833000000001,
+    27.48778
+],
+  "geometry": {"coordinates":[56.75833000000001,27.48778],"type":"Point"}
+}

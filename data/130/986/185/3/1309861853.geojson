@@ -1,0 +1,74 @@
+{
+  "id": 1309861853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.81197,33.68202,47.81197,33.68202",
+    "geom:latitude":33.68202,
+    "geom:longitude":47.81197,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Khaneh Sorkh",
+    "gn:country_code":"IR",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":28192,
+    "gn:latitude":33.68202,
+    "gn:longitude":47.81197,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Kh\u0101neh Sorkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0627\u0646\u0647 \u0633\u0631\u062e"
+    ],
+    "name:fas_x_variant":[
+        "Kh\u0101neh Sorkh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":28192,
+        "wk:page":"Khaneh_Sorkh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0f8d01a38103dde87cee2633997a03b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720145,
+            "locality_id":1309861853,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1309861853,
+    "wof:lastmodified":1537641517,
+    "wof:name":"Khaneh Sorkh",
+    "wof:parent_id":1108720145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.81197,
+    33.68202,
+    47.81197,
+    33.68202
+],
+  "geometry": {"coordinates":[47.81197,33.68202],"type":"Point"}
+}

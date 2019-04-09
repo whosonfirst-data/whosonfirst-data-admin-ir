@@ -1,0 +1,74 @@
+{
+  "id": 1260151967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.4364,34.4903,47.4364,34.4903",
+    "geom:latitude":34.4903,
+    "geom:longitude":47.4364,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Marantu",
+    "gn:country_code":"IR",
+    "gn:dem":1296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":124856,
+    "gn:latitude":34.4903,
+    "gn:longitude":47.4364,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"M\u0101r\u0101nt\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u0627\u0646\u062a\u0648"
+    ],
+    "name:fas_x_variant":[
+        "M\u0101r\u0101nt\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":124856,
+        "wk:page":"Marantu"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5aec2a8ca9d837874ed676f55645f318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720051,
+            "locality_id":1260151967,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1260151967,
+    "wof:lastmodified":1537644292,
+    "wof:name":"Marantu",
+    "wof:parent_id":1108720051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.4364,
+    34.4903,
+    47.4364,
+    34.4903
+],
+  "geometry": {"coordinates":[47.4364,34.4903],"type":"Point"}
+}

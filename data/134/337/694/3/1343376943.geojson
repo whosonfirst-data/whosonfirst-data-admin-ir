@@ -1,0 +1,73 @@
+{
+  "id": 1343376943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.4119,27.7134,57.4119,27.7134",
+    "geom:latitude":27.7134,
+    "geom:longitude":57.4119,
+    "gn:admin1_code":"0",
+    "gn:asciiname":"Do Dahaneh'i",
+    "gn:country_code":"IR",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6988261,
+    "gn:latitude":27.7134,
+    "gn:longitude":57.4119,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Do Dahaneh\u2019\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u062f\u0647\u0646\u0647 \u0627\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Do Dahaneh\u2019\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6988261
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d64ea00348eb153e5dbc95a8e2944931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720213,
+            "locality_id":1343376943,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1343376943,
+    "wof:lastmodified":1537647870,
+    "wof:name":"Do Dahaneh'i",
+    "wof:parent_id":1108720213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.4119,
+    27.7134,
+    57.4119,
+    27.7134
+],
+  "geometry": {"coordinates":[57.4119,27.7134],"type":"Point"}
+}

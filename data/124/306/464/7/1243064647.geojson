@@ -1,0 +1,73 @@
+{
+  "id": 1243064647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.4086,37.09288,49.4086,37.09288",
+    "geom:latitude":37.09288,
+    "geom:longitude":49.4086,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mireh Sara",
+    "gn:country_code":"IR",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189353,
+    "gn:latitude":37.09288,
+    "gn:longitude":49.4086,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"M\u012breh Sar\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0631\u0647 \u0633\u0631\u0627"
+    ],
+    "name:und_x_variant":[
+        "M\u012breh Sar\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189353
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"09fe5af9fec59844649afea78094348e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720427,
+            "locality_id":1243064647,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1243064647,
+    "wof:lastmodified":1537648743,
+    "wof:name":"Mireh Sara",
+    "wof:parent_id":1108720427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.4086,
+    37.09288,
+    49.4086,
+    37.09288
+],
+  "geometry": {"coordinates":[49.4086,37.09288],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1260030083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.15468,30.67642,57.15468,30.67642",
+    "geom:latitude":30.67642,
+    "geom:longitude":57.15468,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Horjand",
+    "gn:country_code":"IR",
+    "gn:dem":2327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":131235,
+    "gn:latitude":30.67642,
+    "gn:longitude":57.15468,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28orjand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0631\u062c\u0646\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28orjand",
+        "H\u016brjand",
+        "\u1e28orjond"
+    ],
+    "name:und_x_variant":[
+        "\u1e28orjond",
+        "H\u016brjand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":131235,
+        "wk:page":"Horjand"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d31a8d1c388d53f50d71e6e38c5220be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720347,
+            "locality_id":1260030083,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1260030083,
+    "wof:lastmodified":1537644945,
+    "wof:name":"Horjand",
+    "wof:parent_id":1108720347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.15468000000001,
+    30.67642,
+    57.15468000000001,
+    30.67642
+],
+  "geometry": {"coordinates":[57.15468000000001,30.67642],"type":"Point"}
+}

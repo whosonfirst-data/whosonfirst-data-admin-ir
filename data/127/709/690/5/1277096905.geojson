@@ -1,0 +1,76 @@
+{
+  "id": 1277096905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.65142,30.17782,51.65142,30.17782",
+    "geom:latitude":30.17782,
+    "geom:longitude":51.65142,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gorab",
+    "gn:country_code":"IR",
+    "gn:dem":1012,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7453965,
+    "gn:latitude":30.17782,
+    "gn:longitude":51.65142,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Gor\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Gor\u0101b"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u0631\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u06af\u0631\u0627\u0628"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7453965
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"184058aef66eca16c7d55b668888811d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720209,
+            "locality_id":1277096905,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1277096905,
+    "wof:lastmodified":1537648218,
+    "wof:name":"Gorab",
+    "wof:parent_id":1108720209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.65142,
+    30.17782,
+    51.65142,
+    30.17782
+],
+  "geometry": {"coordinates":[51.65142,30.17782],"type":"Point"}
+}

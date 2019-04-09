@@ -1,0 +1,77 @@
+{
+  "id": 1326572083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.80394,31.42296,55.80394,31.42296",
+    "geom:latitude":31.42296,
+    "geom:longitude":55.80394,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Qatram",
+    "gn:country_code":"IR",
+    "gn:dem":1541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7539100,
+    "gn:latitude":31.42296,
+    "gn:longitude":55.80394,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qa\u0163ram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Qa\u0163ram"
+    ],
+    "name:fas_x_variant":[
+        "\u0642\u0637\u0631\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u0642\u0637\u0631\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108719849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7539100,
+        "wk:page":"Qatram"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"04bec47b0d368a18faeba9f1ba6f14bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719849,
+            "locality_id":1326572083,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1326572083,
+    "wof:lastmodified":1537648318,
+    "wof:name":"Qatram",
+    "wof:parent_id":1108719849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.80394,
+    31.42296,
+    55.80394,
+    31.42296
+],
+  "geometry": {"coordinates":[55.80394,31.42296],"type":"Point"}
+}

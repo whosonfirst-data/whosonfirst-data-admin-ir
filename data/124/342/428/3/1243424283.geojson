@@ -1,0 +1,74 @@
+{
+  "id": 1243424283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.13944,31.79806,50.13944,31.79806",
+    "geom:latitude":31.79806,
+    "geom:longitude":50.13944,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Avend",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":121770,
+    "gn:latitude":31.79806,
+    "gn:longitude":50.13944,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Avend",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ovand",
+        "\u0100vand",
+        "Avend"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":121770,
+        "wk:page":"Avend"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4960fd27355263bb62c7f1d1fcf1819a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720067,
+            "locality_id":1243424283,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1243424283,
+    "wof:lastmodified":1537643985,
+    "wof:name":"Avend",
+    "wof:parent_id":1108720067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.13944,
+    31.79806,
+    50.13944,
+    31.79806
+],
+  "geometry": {"coordinates":[50.13944,31.79806],"type":"Point"}
+}

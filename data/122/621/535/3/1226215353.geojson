@@ -1,0 +1,78 @@
+{
+  "id": 1226215353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.72812,30.60413,48.72812,30.60413",
+    "geom:latitude":30.60413,
+    "geom:longitude":48.72812,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Nahr-e Gabin-e Sofla",
+    "gn:country_code":"IR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":12681,
+    "gn:latitude":30.60413,
+    "gn:longitude":48.72812,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Nahr-e Gab\u012bn-e Sofl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Nahr-e Gab\u012bn"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0647\u0631 \u06af\u0628\u06cc\u0646",
+        "\u0646\u0647\u0631 \u06af\u0628\u06cc\u0646 \u0633\u0641\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0646\u0647\u0631 \u06af\u0628\u06cc\u0646",
+        "Nahr-e Gab\u012bn-e Sofl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12681
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"28e6084806e35cd7eba3e4f15e46f6b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720425,
+            "locality_id":1226215353,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1226215353,
+    "wof:lastmodified":1537640671,
+    "wof:name":"Nahr-e Gabin-e Sofla",
+    "wof:parent_id":1108720425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.72812,
+    30.60413,
+    48.72812,
+    30.60413
+],
+  "geometry": {"coordinates":[48.72812,30.60413],"type":"Point"}
+}

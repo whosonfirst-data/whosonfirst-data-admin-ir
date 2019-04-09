@@ -1,0 +1,67 @@
+{
+  "id": 1276762191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.88333,27.6,59.88333,27.6",
+    "geom:latitude":27.6,
+    "geom:longitude":59.88333,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Bonhak",
+    "gn:country_code":"IR",
+    "gn:dem":590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":49061,
+    "gn:latitude":27.6,
+    "gn:longitude":59.88333,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bonhak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":49061
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"df91870d410f45bbc38a25f98e1021d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720063,
+            "locality_id":1276762191,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1276762191,
+    "wof:lastmodified":1536701496,
+    "wof:name":"Bonhak",
+    "wof:parent_id":1108720063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.88333000000001,
+    27.6,
+    59.88333000000001,
+    27.6
+],
+  "geometry": {"coordinates":[59.88333000000001,27.6],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1344186881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.84666,36.15114,50.84666,36.15114",
+    "geom:latitude":36.15114,
+    "geom:longitude":50.84666,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Galird",
+    "gn:country_code":"IR",
+    "gn:dem":2208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10384,
+    "gn:latitude":36.15114,
+    "gn:longitude":50.84666,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"Gal\u012brd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Gal\u012brd"
+    ],
+    "name:fas_x_variant":[
+        "\u06af\u0644\u064a\u0631\u062f",
+        "\u06af\u0644\u06cc\u0631\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u06af\u0644\u064a\u0631\u062f",
+        "Gal\u012br\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672415,
+        1108720409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10384
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c32735b6a9382ee04ed16294c6198031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720409,
+            "locality_id":1344186881,
+            "region_id":85672415
+        }
+    ],
+    "wof:id":1344186881,
+    "wof:lastmodified":1537640565,
+    "wof:name":"Galird",
+    "wof:parent_id":1108720409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.84666,
+    36.15114000000001,
+    50.84666,
+    36.15114000000001
+],
+  "geometry": {"coordinates":[50.84666,36.15114000000001],"type":"Point"}
+}

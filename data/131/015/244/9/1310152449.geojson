@@ -1,0 +1,73 @@
+{
+  "id": 1310152449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.56667,31.61667,56.56667,31.61667",
+    "geom:latitude":31.61667,
+    "geom:longitude":56.56667,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Chahar Gas",
+    "gn:country_code":"IR",
+    "gn:dem":1220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":139690,
+    "gn:latitude":31.61667,
+    "gn:longitude":56.56667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Chah\u0101r Gas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u064e\u0647\u0627\u0631 \u06af\u064e\u0633"
+    ],
+    "name:fas_x_variant":[
+        "Chah\u0101r Gas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":139690
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a6c8cc67ef7b2e3dc1e035717c6088c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720155,
+            "locality_id":1310152449,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1310152449,
+    "wof:lastmodified":1537645796,
+    "wof:name":"Chahar Gas",
+    "wof:parent_id":1108720155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.56667,
+    31.61667000000001,
+    56.56667,
+    31.61667000000001
+],
+  "geometry": {"coordinates":[56.56667,31.61667000000001],"type":"Point"}
+}

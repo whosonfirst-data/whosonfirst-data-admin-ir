@@ -1,0 +1,75 @@
+{
+  "id": 1242913649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.97624,35.94709,52.97624,35.94709",
+    "geom:latitude":35.94709,
+    "geom:longitude":52.97624,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Owrim",
+    "gn:country_code":"IR",
+    "gn:dem":1785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112382,
+    "gn:latitude":35.94709,
+    "gn:longitude":52.97624,
+    "gn:modification_date":"2013-10-04",
+    "gn:name":"Owr\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u016ar\u012bm"
+    ],
+    "name:fas_x_variant":[
+        "Owr\u012bm",
+        "\u0627\u0648\u0631\u06cc\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112382,
+        "wk:page":"Owrim"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0970564ef95480bfe74617aed580c83c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720405,
+            "locality_id":1242913649,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1242913649,
+    "wof:lastmodified":1537643080,
+    "wof:name":"Owrim",
+    "wof:parent_id":1108720405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.97624,
+    35.94709,
+    52.97624,
+    35.94709
+],
+  "geometry": {"coordinates":[52.97624,35.94709],"type":"Point"}
+}

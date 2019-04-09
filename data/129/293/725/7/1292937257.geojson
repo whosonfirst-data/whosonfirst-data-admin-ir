@@ -1,0 +1,73 @@
+{
+  "id": 1292937257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.1567,30.8288,50.1567,30.8288",
+    "geom:latitude":30.8288,
+    "geom:longitude":50.1567,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Talkh Ab-e Vazard",
+    "gn:country_code":"IR",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6729481,
+    "gn:latitude":30.8288,
+    "gn:longitude":50.1567,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Talkh \u0100b-e Vazard",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0644\u062e \u0622\u0628 \u0648\u0632\u0631\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Talkh \u0100b-e Vazard"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6729481
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4f9d2e151387b40103d0a9e21914b112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719885,
+            "locality_id":1292937257,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1292937257,
+    "wof:lastmodified":1537647534,
+    "wof:name":"Talkh Ab-e Vazard",
+    "wof:parent_id":1108719885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.1567,
+    30.8288,
+    50.1567,
+    30.8288
+],
+  "geometry": {"coordinates":[50.1567,30.8288],"type":"Point"}
+}

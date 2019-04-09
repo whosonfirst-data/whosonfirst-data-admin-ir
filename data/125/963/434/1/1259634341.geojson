@@ -1,0 +1,76 @@
+{
+  "id": 1259634341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.6865,30.92675,51.6865,30.92675",
+    "geom:latitude":30.92675,
+    "geom:longitude":51.6865,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Lor Kosh",
+    "gn:country_code":"IR",
+    "gn:dem":2229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":125604,
+    "gn:latitude":30.92675,
+    "gn:longitude":51.6865,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Lor Kosh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0631 \u06a9\u0634"
+    ],
+    "name:und_x_variant":[
+        "L\u016br Kosh",
+        "Lor Kosh",
+        "\u0644\u0631 \u06a9\u0634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":125604,
+        "wk:page":"Lor_Kosh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5cbfe027e046f29fe4edf03d9fa26067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720415,
+            "locality_id":1259634341,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1259634341,
+    "wof:lastmodified":1537644366,
+    "wof:name":"Lor Kosh",
+    "wof:parent_id":1108720415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.6865,
+    30.92675,
+    51.6865,
+    30.92675
+],
+  "geometry": {"coordinates":[51.6865,30.92675],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1343499997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.58358,36.7812,54.58358,36.7812",
+    "geom:latitude":36.7812,
+    "geom:longitude":54.58358,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Tuska Astan",
+    "gn:country_code":"IR",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112462,
+    "gn:latitude":36.7812,
+    "gn:longitude":54.58358,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"T\u016bsk\u0101 Ast\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0633\u0643\u0627\u0633\u062a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "T\u016bsk\u0101st\u0101n",
+        "\u062a\u0648\u0633\u06a9\u0627 \u0627\u0633\u062a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Tosk\u0101st\u0101n",
+        "T\u016bskest\u0101n",
+        "T\u016bsk\u0101 Ast\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112462,
+        "wk:page":"Tuskastan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"16ee5b1e497e13469e41aeddecda068e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720041,
+            "locality_id":1343499997,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1343499997,
+    "wof:lastmodified":1537643090,
+    "wof:name":"Tuska Astan",
+    "wof:parent_id":1108720041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.58358000000001,
+    36.7812,
+    54.58358000000001,
+    36.7812
+],
+  "geometry": {"coordinates":[54.58358000000001,36.7812],"type":"Point"}
+}

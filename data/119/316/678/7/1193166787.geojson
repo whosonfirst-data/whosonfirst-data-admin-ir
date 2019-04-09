@@ -1,0 +1,77 @@
+{
+  "id": 1193166787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.33554,31.53281,59.33554,31.53281",
+    "geom:latitude":31.53281,
+    "geom:longitude":59.33554,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Khurgaz",
+    "gn:country_code":"IR",
+    "gn:dem":1463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7106514,
+    "gn:latitude":31.53281,
+    "gn:longitude":59.33554,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Kh\u016brgaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0631\u06af\u0632"
+    ],
+    "name:fas_x_variant":[
+        "Kh\u016brgaz",
+        "\u062c\u0645\u062c\u0645\u0647"
+    ],
+    "name:und_x_variant":[
+        "Jamjameh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108720259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106514
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7469631e7921f7556260f33841fb5a04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720259,
+            "locality_id":1193166787,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1193166787,
+    "wof:lastmodified":1537648088,
+    "wof:name":"Khurgaz",
+    "wof:parent_id":1108720259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.33554,
+    31.53281,
+    59.33554,
+    31.53281
+],
+  "geometry": {"coordinates":[59.33554,31.53281],"type":"Point"}
+}

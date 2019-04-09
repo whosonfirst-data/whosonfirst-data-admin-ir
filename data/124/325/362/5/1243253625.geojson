@@ -1,0 +1,67 @@
+{
+  "id": 1243253625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.63833,37.85528,48.63833,37.85528",
+    "geom:latitude":37.85528,
+    "geom:longitude":48.63833,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Kandeh Beyn",
+    "gn:country_code":"IR",
+    "gn:dem":1134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":37590,
+    "gn:latitude":37.85528,
+    "gn:longitude":48.63833,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kandeh Beyn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":37590
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ae9fd54dc5ebe15ad0bbefa7affc22ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720487,
+            "locality_id":1243253625,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1243253625,
+    "wof:lastmodified":1537080354,
+    "wof:name":"Kandeh Beyn",
+    "wof:parent_id":1108720487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.63833,
+    37.85528,
+    48.63833,
+    37.85528
+],
+  "geometry": {"coordinates":[48.63833,37.85528],"type":"Point"}
+}

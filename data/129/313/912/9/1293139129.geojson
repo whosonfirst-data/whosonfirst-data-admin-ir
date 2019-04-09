@@ -1,0 +1,73 @@
+{
+  "id": 1293139129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.251,35.7174,49.251,35.7174",
+    "geom:latitude":35.7174,
+    "geom:longitude":49.251,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Najafabad",
+    "gn:country_code":"IR",
+    "gn:dem":1633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6756698,
+    "gn:latitude":35.7174,
+    "gn:longitude":49.251,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Najaf\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0646\u062c\u0641 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Najaf\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108719913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6756698
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ea1f034c41d337bc4c6946ec38598a78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719913,
+            "locality_id":1293139129,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1293139129,
+    "wof:lastmodified":1537647624,
+    "wof:name":"Najafabad",
+    "wof:parent_id":1108719913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.25100000000001,
+    35.7174,
+    49.25100000000001,
+    35.7174
+],
+  "geometry": {"coordinates":[49.25100000000001,35.7174],"type":"Point"}
+}

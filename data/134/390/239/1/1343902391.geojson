@@ -1,0 +1,75 @@
+{
+  "id": 1343902391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.43426,36.29852,52.43426,36.29852",
+    "geom:latitude":36.29852,
+    "geom:longitude":52.43426,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Khalart",
+    "gn:country_code":"IR",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8379,
+    "gn:latitude":36.29852,
+    "gn:longitude":52.43426,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Khal\u0101rt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u064e\u0644\u0627\u0631\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Khal\u0101rd",
+        "Khal\u0101rt",
+        "\u062e\u0644\u0627\u0631\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8379
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"55c46012560dcbec57af68afdacbff30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719807,
+            "locality_id":1343902391,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1343902391,
+    "wof:lastmodified":1537640431,
+    "wof:name":"Khalart",
+    "wof:parent_id":1108719807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.43426,
+    36.29852,
+    52.43426,
+    36.29852
+],
+  "geometry": {"coordinates":[52.43426,36.29852],"type":"Point"}
+}

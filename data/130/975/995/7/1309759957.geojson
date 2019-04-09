@@ -1,0 +1,80 @@
+{
+  "id": 1309759957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.29033,33.68192,50.29033,33.68192",
+    "geom:latitude":33.68192,
+    "geom:longitude":50.29033,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Feshar Rud",
+    "gn:country_code":"IR",
+    "gn:dem":1680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":13834,
+    "gn:latitude":33.68192,
+    "gn:longitude":50.29033,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Fesh\u0101r R\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Fesh\u0101r R\u016bd"
+    ],
+    "name:fas_x_variant":[
+        "Fash\u0101r\u016bd",
+        "\u0641\u0634\u0627\u0631 \u0631\u0648\u062f",
+        "\u0641\u0634\u0627\u0631\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u0641\u0634\u0627\u0631\u0648\u062f",
+        "\u0641\u0634\u0627\u0631 \u0631\u0648\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13834,
+        "wk:page":"Fasharud"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2343cf8ee7dda5f02a69cb65b485f24c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720137,
+            "locality_id":1309759957,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1309759957,
+    "wof:lastmodified":1537640750,
+    "wof:name":"Feshar Rud",
+    "wof:parent_id":1108720137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.29033,
+    33.68192,
+    50.29033,
+    33.68192
+],
+  "geometry": {"coordinates":[50.29033,33.68192],"type":"Point"}
+}

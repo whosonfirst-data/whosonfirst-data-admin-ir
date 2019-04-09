@@ -1,0 +1,76 @@
+{
+  "id": 1293120599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.80759,36.92984,49.80759,36.92984",
+    "geom:latitude":36.92984,
+    "geom:longitude":49.80759,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Alamu",
+    "gn:country_code":"IR",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10600,
+    "gn:latitude":36.92984,
+    "gn:longitude":49.80759,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"\u0100l\u0101m\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0100l\u0101m\u016b"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u0644\u0627\u0645\u0648"
+    ],
+    "name:und_x_variant":[
+        "\u0622\u0644\u0627\u0645\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10600
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1afee5800303b1f659c728861a5b96cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720459,
+            "locality_id":1293120599,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1293120599,
+    "wof:lastmodified":1537640584,
+    "wof:name":"Alamu",
+    "wof:parent_id":1108720459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.80759000000001,
+    36.92984000000001,
+    49.80759000000001,
+    36.92984000000001
+],
+  "geometry": {"coordinates":[49.80759000000001,36.92984000000001],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1209779717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.0203,34.9764,47.0203,34.9764",
+    "geom:latitude":34.9764,
+    "geom:longitude":47.0203,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Shotor Mol",
+    "gn:country_code":"IR",
+    "gn:dem":1628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":114846,
+    "gn:latitude":34.9764,
+    "gn:longitude":47.0203,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Shotor Mol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u064f\u062a\u064f\u0631 \u0645\u064f\u0644"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u064f\u062a\u064f\u0631\u0645\u0650\u0644",
+        "\u0627\u064f\u0634\u062a\u064f\u0631\u0645\u0650\u0644",
+        "\u0634\u062a\u0631 \u0645\u0644"
+    ],
+    "name:und_x_variant":[
+        "Oshtormel",
+        "Ustermil",
+        "Shotormel",
+        "Shotor Mol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":114846
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7fcfd128f707171acf731ac8081da26c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720099,
+            "locality_id":1209779717,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1209779717,
+    "wof:lastmodified":1537643304,
+    "wof:name":"Shotor Mol",
+    "wof:parent_id":1108720099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.0203,
+    34.9764,
+    47.0203,
+    34.9764
+],
+  "geometry": {"coordinates":[47.0203,34.9764],"type":"Point"}
+}

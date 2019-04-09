@@ -1,0 +1,77 @@
+{
+  "id": 1277160065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.02803,32.37785,49.02803,32.37785",
+    "geom:latitude":32.37785,
+    "geom:longitude":49.02803,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Khvajehabad-e Sofla",
+    "gn:country_code":"IR",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":36503,
+    "gn:latitude":32.37785,
+    "gn:longitude":49.02803,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Khv\u0101jeh\u0101b\u0101d-e Sofl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0627\u062c\u0647 \u0622\u0628\u0627\u062f \u0633\u0641\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Khv\u0101jeh\u0101b\u0101d-e Sofl\u00e1",
+        "\u062e\u0648\u0627\u062c\u0647 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Khv\u0101jeh\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":36503
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"770bc64cbaef0ac13ce024de446847c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720177,
+            "locality_id":1277160065,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1277160065,
+    "wof:lastmodified":1537642014,
+    "wof:name":"Khvajehabad-e Sofla",
+    "wof:parent_id":1108720177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.02803,
+    32.37785,
+    49.02803,
+    32.37785
+],
+  "geometry": {"coordinates":[49.02803,32.37785],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1360125327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.67931,33.74776,49.67931,33.74776",
+    "geom:latitude":33.74776,
+    "geom:longitude":49.67931,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Kajarestan",
+    "gn:country_code":"IR",
+    "gn:dem":2219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":129603,
+    "gn:latitude":33.74776,
+    "gn:longitude":49.67931,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Kaj\u0101rest\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Gajarest\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "Kaj\u0101rest\u0101n",
+        "\u06af\u062c\u0631\u0633\u062a\u0627\u0646",
+        "\u06a9\u062c\u0627\u0631\u0633\u062a\u0627\u0646",
+        "\u06a9\u062c\u0631\u0633\u062a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u06af\u062c\u0631\u0633\u062a\u0627\u0646",
+        "Kajarest\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":129603,
+        "wk:page":"Kajarestan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6e35153d778b5f605eabf8d2cdcce81b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720137,
+            "locality_id":1360125327,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1360125327,
+    "wof:lastmodified":1537644776,
+    "wof:name":"Kajarestan",
+    "wof:parent_id":1108720137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.67931,
+    33.74776,
+    49.67931,
+    33.74776
+],
+  "geometry": {"coordinates":[49.67931,33.74776],"type":"Point"}
+}

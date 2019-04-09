@@ -1,0 +1,73 @@
+{
+  "id": 1226239165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.54804,37.02531,49.54804,37.02531",
+    "geom:latitude":37.02531,
+    "geom:longitude":49.54804,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tusrud",
+    "gn:country_code":"IR",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11076638,
+    "gn:latitude":37.02531,
+    "gn:longitude":49.54804,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"T\u016bsr\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0633\u0631\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "T\u016bsr\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11076638
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a91967c8b76ca4a6a4840836f9fca5e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720361,
+            "locality_id":1226239165,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1226239165,
+    "wof:lastmodified":1537648716,
+    "wof:name":"Tusrud",
+    "wof:parent_id":1108720361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.54804,
+    37.02531,
+    49.54804,
+    37.02531
+],
+  "geometry": {"coordinates":[49.54804,37.02531],"type":"Point"}
+}

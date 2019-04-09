@@ -1,0 +1,73 @@
+{
+  "id": 1226286869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.03518,36.72354,51.03518,36.72354",
+    "geom:latitude":36.72354,
+    "geom:longitude":51.03518,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Shahrak-e Aryan",
+    "gn:country_code":"IR",
+    "gn:dem":-16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11473190,
+    "gn:latitude":36.72354,
+    "gn:longitude":51.03518,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Shahrak-e \u0100ryan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u06a9 \u0622\u0631\u06cc\u0646"
+    ],
+    "name:und_x_variant":[
+        "Shahrak-e \u0100ryan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11473190
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"50ba123a0d1a9c9b71faa5d086d680fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720495,
+            "locality_id":1226286869,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1226286869,
+    "wof:lastmodified":1537648784,
+    "wof:name":"Shahrak-e Aryan",
+    "wof:parent_id":1108720495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.03518,
+    36.72354,
+    51.03518,
+    36.72354
+],
+  "geometry": {"coordinates":[51.03518,36.72354],"type":"Point"}
+}

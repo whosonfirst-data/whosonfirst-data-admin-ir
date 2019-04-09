@@ -1,0 +1,78 @@
+{
+  "id": 1226271673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.01649,32.57923,59.01649,32.57923",
+    "geom:latitude":32.57923,
+    "geom:longitude":59.01649,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Mazhan",
+    "gn:country_code":"IR",
+    "gn:dem":1421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":124498,
+    "gn:latitude":32.57923,
+    "gn:longitude":59.01649,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"M\u0101zh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "M\u0101zh\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0627\u0698\u0627\u0646",
+        "M\u0101jan"
+    ],
+    "name:und_x_variant":[
+        "M\u0101jan",
+        "\u0645\u0627\u0698\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108719895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":124498
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"58ef5bd4b13c8b1829cc6de91802cd74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719895,
+            "locality_id":1226271673,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1226271673,
+    "wof:lastmodified":1537644258,
+    "wof:name":"Mazhan",
+    "wof:parent_id":1108719895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.01649000000001,
+    32.57923,
+    59.01649000000001,
+    32.57923
+],
+  "geometry": {"coordinates":[59.01649000000001,32.57923],"type":"Point"}
+}

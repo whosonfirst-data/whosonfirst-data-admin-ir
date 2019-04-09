@@ -1,0 +1,73 @@
+{
+  "id": 1326558999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.50467,32.54652,60.50467,32.54652",
+    "geom:latitude":32.54652,
+    "geom:longitude":60.50467,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Molla Karim",
+    "gn:country_code":"IR",
+    "gn:dem":1202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7069152,
+    "gn:latitude":32.54652,
+    "gn:longitude":60.50467,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Moll\u0101 Kar\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0651\u0627 \u06a9\u0631\u06cc\u0645"
+    ],
+    "name:fas_x_variant":[
+        "Moll\u0101 Kar\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108720397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7069152
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"13aa5bb398e9b4eb09ee2e614be56d24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720397,
+            "locality_id":1326558999,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1326558999,
+    "wof:lastmodified":1537647992,
+    "wof:name":"Molla Karim",
+    "wof:parent_id":1108720397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.50467,
+    32.54652,
+    60.50467,
+    32.54652
+],
+  "geometry": {"coordinates":[60.50467,32.54652],"type":"Point"}
+}

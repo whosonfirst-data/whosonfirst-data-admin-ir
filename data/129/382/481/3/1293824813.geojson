@@ -1,0 +1,75 @@
+{
+  "id": 1293824813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.51976,33.87425,49.51976,33.87425",
+    "geom:latitude":33.87425,
+    "geom:longitude":49.51976,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Tajareh",
+    "gn:country_code":"IR",
+    "gn:dem":1946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":113538,
+    "gn:latitude":33.87425,
+    "gn:longitude":49.51976,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Tajareh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u062c\u0631\u0647"
+    ],
+    "name:und_x_variant":[
+        "Tajra",
+        "\u062a\u062c\u0631\u0647",
+        "Tajareh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":113538
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3fad125a4fb56b479d8845ed2ce0b8ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720443,
+            "locality_id":1293824813,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1293824813,
+    "wof:lastmodified":1537643196,
+    "wof:name":"Tajareh",
+    "wof:parent_id":1108720443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.51976,
+    33.87425,
+    49.51976,
+    33.87425
+],
+  "geometry": {"coordinates":[49.51976,33.87425],"type":"Point"}
+}

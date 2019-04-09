@@ -1,0 +1,80 @@
+{
+  "id": 1344039565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.0659,35.6548,46.0659,35.6548",
+    "geom:latitude":35.6548,
+    "geom:longitude":46.0659,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Khav",
+    "gn:country_code":"IR",
+    "gn:dem":1284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":127661,
+    "gn:latitude":35.6548,
+    "gn:longitude":46.0659,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kh\u0101v",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0627\u064f\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u062e\u0627\u0648",
+        "Kh\u0101v"
+    ],
+    "name:und_x_variant":[
+        "Qala Kh\u0101o",
+        "Kh\u0101ow",
+        "Kh\u0101o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":127661,
+        "wk:page":"Khav"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"db1622458787dd479532d623e7d8f6f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720221,
+            "locality_id":1344039565,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1344039565,
+    "wof:lastmodified":1537644582,
+    "wof:name":"Khav",
+    "wof:parent_id":1108720221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.0659,
+    35.6548,
+    46.0659,
+    35.6548
+],
+  "geometry": {"coordinates":[46.0659,35.6548],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1209872221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.0495,33.8356,48.0495,33.8356",
+    "geom:latitude":33.8356,
+    "geom:longitude":48.0495,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"`Alamabad",
+    "gn:country_code":"IR",
+    "gn:dem":1919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":144289,
+    "gn:latitude":33.8356,
+    "gn:longitude":48.0495,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"\u2018Alam\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0639\u0627\u0644\u064e\u0645\u0650 \u0628\u0627\u0644\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0639\u0627\u0644\u064e\u0645",
+        "\u0639\u0644\u0645 \u0622\u0628\u0627\u062f",
+        "\u2018Alam\u0101b\u0101d"
+    ],
+    "name:und_x_variant":[
+        "\u2018\u0100lam-e B\u0101l\u0101",
+        "\u2018\u0100lam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":144289
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7f7e156af2c068436cf2ca1fe35c9d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720411,
+            "locality_id":1209872221,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1209872221,
+    "wof:lastmodified":1537646256,
+    "wof:name":"`Alamabad",
+    "wof:parent_id":1108720411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.0495,
+    33.8356,
+    48.0495,
+    33.8356
+],
+  "geometry": {"coordinates":[48.0495,33.8356],"type":"Point"}
+}

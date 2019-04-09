@@ -1,0 +1,74 @@
+{
+  "id": 1310445957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.37145,36.68655,51.37145,36.68655",
+    "geom:latitude":36.68655,
+    "geom:longitude":51.37145,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Dujman",
+    "gn:country_code":"IR",
+    "gn:dem":-20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8821,
+    "gn:latitude":36.68655,
+    "gn:longitude":51.37145,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"D\u016bjm\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u062c\u0645\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "D\u016bjm\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8821,
+        "wk:page":"Dujman"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1fe86883164bdfe2f47356e2a9b2390e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719925,
+            "locality_id":1310445957,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1310445957,
+    "wof:lastmodified":1537640459,
+    "wof:name":"Dujman",
+    "wof:parent_id":1108719925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.37145,
+    36.68655,
+    51.37145,
+    36.68655
+],
+  "geometry": {"coordinates":[51.37145,36.68655],"type":"Point"}
+}

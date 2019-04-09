@@ -1,0 +1,72 @@
+{
+  "id": 1209370843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.1625,33.5248,48.1625,33.5248",
+    "geom:latitude":33.5248,
+    "geom:longitude":48.1625,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Chamuri",
+    "gn:country_code":"IR",
+    "gn:dem":1280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":32459,
+    "gn:latitude":33.5248,
+    "gn:longitude":48.1625,
+    "gn:modification_date":"2012-08-04",
+    "gn:name":"Ch\u0101m\u016br\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Ch\u0101h M\u0101r\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u0627\u0647 \u0645\u0627\u0631\u06cc",
+        "\u0686\u0627\u0645\u0648\u0631\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0686\u0627\u0647 \u0645\u0627\u0631\u06cc",
+        "Ch\u0101m\u016br\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":32459
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fb631acb4fa2ca85ec374787a8107294",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209370843
+        }
+    ],
+    "wof:id":1209370843,
+    "wof:lastmodified":1537641799,
+    "wof:name":"Chamuri",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.1625,
+    33.5248,
+    48.1625,
+    33.5248
+],
+  "geometry": {"coordinates":[48.1625,33.5248],"type":"Point"}
+}

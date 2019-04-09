@@ -1,0 +1,73 @@
+{
+  "id": 1292938395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.41919,28.62947,60.41919,28.62947",
+    "geom:latitude":28.62947,
+    "geom:longitude":60.41919,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Hasanabad",
+    "gn:country_code":"IR",
+    "gn:dem":1473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7091433,
+    "gn:latitude":28.62947,
+    "gn:longitude":60.41919,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u1e28asan\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0633\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28asan\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7091433
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c12bc6c85ccf63a776a9f5e8fd9f7681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720517,
+            "locality_id":1292938395,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1292938395,
+    "wof:lastmodified":1537648047,
+    "wof:name":"Hasanabad",
+    "wof:parent_id":1108720517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.41919,
+    28.62947,
+    60.41919,
+    28.62947
+],
+  "geometry": {"coordinates":[60.41919,28.62947],"type":"Point"}
+}

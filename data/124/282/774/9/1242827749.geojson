@@ -1,0 +1,74 @@
+{
+  "id": 1242827749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.33855,36.43001,52.33855,36.43001",
+    "geom:latitude":36.43001,
+    "geom:longitude":52.33855,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Derazan",
+    "gn:country_code":"IR",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8825,
+    "gn:latitude":36.43001,
+    "gn:longitude":52.33855,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Der\u0101z\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0627\u0632\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Der\u0101z\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8825,
+        "wk:page":"Derazan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"996d768c47247ebbf0bcbd9f5ec85579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719807,
+            "locality_id":1242827749,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1242827749,
+    "wof:lastmodified":1537640460,
+    "wof:name":"Derazan",
+    "wof:parent_id":1108719807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.33855,
+    36.43001,
+    52.33855,
+    36.43001
+],
+  "geometry": {"coordinates":[52.33855,36.43001],"type":"Point"}
+}

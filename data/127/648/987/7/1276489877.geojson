@@ -1,0 +1,73 @@
+{
+  "id": 1276489877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.61667,36.5,52.61667,36.5",
+    "geom:latitude":36.5,
+    "geom:longitude":52.61667,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Espu Mahalleh",
+    "gn:country_code":"IR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11154,
+    "gn:latitude":36.5,
+    "gn:longitude":52.61667,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Esp\u016b Ma\u1e29alleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0650\u0633\u067e\u0648 \u0645\u064e\u062d\u064e\u0644\u0650\u0651\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Esp\u016b Ma\u1e29alleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11154
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"db3cae93eb88a6960a83fb0bf5805dec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719845,
+            "locality_id":1276489877,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1276489877,
+    "wof:lastmodified":1537640612,
+    "wof:name":"Espu Mahalleh",
+    "wof:parent_id":1108719845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.61666999999999,
+    36.5,
+    52.61666999999999,
+    36.5
+],
+  "geometry": {"coordinates":[52.61666999999999,36.5],"type":"Point"}
+}

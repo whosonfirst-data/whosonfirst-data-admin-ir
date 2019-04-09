@@ -1,0 +1,78 @@
+{
+  "id": 1293098731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.16629,25.53105,61.16629,25.53105",
+    "geom:latitude":25.53105,
+    "geom:longitude":61.16629,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shiran Bazar",
+    "gn:country_code":"IR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1113345,
+    "gn:latitude":25.53105,
+    "gn:longitude":61.16629,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sh\u012br\u0101n B\u0101z\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "R\u012bpak-e Sh\u012br\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "Sh\u012br\u0101n B\u0101z\u0101r",
+        "\u0634\u06cc\u0631\u0627\u0646 \u0628\u0627\u0632\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u0634\u06cc\u0631\u0627\u0646 \u0628\u0627\u0632\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108719919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1113345,
+        "wk:page":"Ripak-e_Shiran"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"325584383a9d9ffef47f0703a9c7256d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719919,
+            "locality_id":1293098731,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1293098731,
+    "wof:lastmodified":1537646849,
+    "wof:name":"Shiran Bazar",
+    "wof:parent_id":1108719919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.16629,
+    25.53105,
+    61.16629,
+    25.53105
+],
+  "geometry": {"coordinates":[61.16629,25.53105],"type":"Point"}
+}

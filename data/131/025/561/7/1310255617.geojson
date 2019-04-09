@@ -1,0 +1,77 @@
+{
+  "id": 1310255617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.43333,33.61667,54.43333,33.61667",
+    "geom:latitude":33.61667,
+    "geom:longitude":54.43333,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Seruman",
+    "gn:country_code":"IR",
+    "gn:dem":947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":66778,
+    "gn:latitude":33.61667,
+    "gn:longitude":54.43333,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"Ser\u016bman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0650\u0631\u0648\u0645\u064e\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0650\u0647 \u0631\u0648\u0645\u064e\u0646",
+        "Ser\u016bman"
+    ],
+    "name:und_x_variant":[
+        "Seh R\u016bman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":66778
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a2f1b196c9cb6b1777d84bdc678dfe0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720255,
+            "locality_id":1310255617,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1310255617,
+    "wof:lastmodified":1537642814,
+    "wof:name":"Seruman",
+    "wof:parent_id":1108720255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.43333000000001,
+    33.61667,
+    54.43333000000001,
+    33.61667
+],
+  "geometry": {"coordinates":[54.43333000000001,33.61667],"type":"Point"}
+}

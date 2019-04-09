@@ -1,0 +1,73 @@
+{
+  "id": 1343316531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.0419,35.524,51.0419,35.524",
+    "geom:latitude":35.524,
+    "geom:longitude":51.0419,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Hesar Mehtar",
+    "gn:country_code":"IR",
+    "gn:dem":1067,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":406484,
+    "gn:latitude":35.524,
+    "gn:longitude":51.0419,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"\u1e28e\u015f\u0101r Mehtar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0635\u0627\u0631 \u0645\u0647\u062a\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28e\u015f\u0101r Mehtar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672313,
+        1108720355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":406484
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5ac76819f929cf598fd44b6e26b9133e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720355,
+            "locality_id":1343316531,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1343316531,
+    "wof:lastmodified":1537646623,
+    "wof:name":"Hesar Mehtar",
+    "wof:parent_id":1108720355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.0419,
+    35.524,
+    51.0419,
+    35.524
+],
+  "geometry": {"coordinates":[51.0419,35.524],"type":"Point"}
+}

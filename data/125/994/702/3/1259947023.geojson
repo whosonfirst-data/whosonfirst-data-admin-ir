@@ -1,0 +1,81 @@
+{
+  "id": 1259947023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.9645,35.7568,51.9645,35.7568",
+    "geom:latitude":35.7568,
+    "geom:longitude":51.9645,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ahmadiyeh",
+    "gn:country_code":"IR",
+    "gn:dem":2015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":404828,
+    "gn:latitude":35.7568,
+    "gn:longitude":51.9645,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"A\u1e29mad\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u064e\u0631 \u067e\u0648\u0631\u064e\u0643\u0650 \u0622\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Sar B\u016brak-e \u0100h",
+        "\u0633\u0631 \u0628\u0648\u0631\u06a9 \u0622\u0647",
+        "Sar P\u016brak-e \u0100h",
+        "\u0627\u062d\u0645\u062f\u064a\u0647",
+        "\u0633\u0631 \u067e\u0648\u0644\u06a9"
+    ],
+    "name:und_x_variant":[
+        "A\u1e29mad\u012byeh",
+        "Sar P\u016blak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672313,
+        1108719935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":404828
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7aa93766b5902cd47e25be559e1723d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719935,
+            "locality_id":1259947023,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1259947023,
+    "wof:lastmodified":1537646578,
+    "wof:name":"Ahmadiyeh",
+    "wof:parent_id":1108719935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.9645,
+    35.7568,
+    51.9645,
+    35.7568
+],
+  "geometry": {"coordinates":[51.9645,35.7568],"type":"Point"}
+}

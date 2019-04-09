@@ -1,0 +1,77 @@
+{
+  "id": 1209845391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.0717,34.7257,51.0717,34.7257",
+    "geom:latitude":34.7257,
+    "geom:longitude":51.0717,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Qomrud",
+    "gn:country_code":"IR",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":119196,
+    "gn:latitude":34.7257,
+    "gn:longitude":51.0717,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qomr\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0645\u0631\u0648\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Qomr\u016bd"
+    ],
+    "name:und_x_variant":[
+        "Qumr\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672351,
+        1108720321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":119196,
+        "wk:page":"Qomrud"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b8c6d355775c9bce85bf7d5e64e0c329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720321,
+            "locality_id":1209845391,
+            "region_id":85672351
+        }
+    ],
+    "wof:id":1209845391,
+    "wof:lastmodified":1537643712,
+    "wof:name":"Qomrud",
+    "wof:parent_id":1108720321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.0717,
+    34.7257,
+    51.0717,
+    34.7257
+],
+  "geometry": {"coordinates":[51.0717,34.7257],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326872773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.39973,35.69725,49.39973,35.69725",
+    "geom:latitude":35.69725,
+    "geom:longitude":49.39973,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Badgheyn",
+    "gn:country_code":"IR",
+    "gn:dem":1681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":36114,
+    "gn:latitude":35.69725,
+    "gn:longitude":49.39973,
+    "gn:modification_date":"2018-07-13",
+    "gn:name":"B\u0101dgheyn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062f\u063a\u06cc\u0646"
+    ],
+    "name:fas_x_variant":[
+        "B\u0101dgheyn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108719913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":36114,
+        "wk:page":"Badgheyn"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"444722a2edb74696fc38656439dab3c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719913,
+            "locality_id":1326872773,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1326872773,
+    "wof:lastmodified":1537641986,
+    "wof:name":"Badgheyn",
+    "wof:parent_id":1108719913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.39973,
+    35.69725,
+    49.39973,
+    35.69725
+],
+  "geometry": {"coordinates":[49.39973,35.69725],"type":"Point"}
+}

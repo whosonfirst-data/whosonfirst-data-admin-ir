@@ -1,0 +1,76 @@
+{
+  "id": 1260093793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.6323,38.0689,44.6323,38.0689",
+    "geom:latitude":38.0689,
+    "geom:longitude":44.6323,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Qasrik",
+    "gn:country_code":"IR",
+    "gn:dem":1608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":40438,
+    "gn:latitude":38.0689,
+    "gn:longitude":44.6323,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qa\u015fr\u012bk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Qa\u015fr\u012bk"
+    ],
+    "name:fas_x_variant":[
+        "\u0642\u0635\u0631\u06cc\u06a9"
+    ],
+    "name:und_x_variant":[
+        "\u0642\u0635\u0631\u06cc\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":40438
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"562f494e6e0cefbdaeee74b09d20bac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720375,
+            "locality_id":1260093793,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1260093793,
+    "wof:lastmodified":1537642272,
+    "wof:name":"Qasrik",
+    "wof:parent_id":1108720375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.6323,
+    38.0689,
+    44.6323,
+    38.0689
+],
+  "geometry": {"coordinates":[44.6323,38.0689],"type":"Point"}
+}

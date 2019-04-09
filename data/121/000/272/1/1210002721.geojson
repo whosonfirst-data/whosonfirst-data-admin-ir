@@ -1,0 +1,74 @@
+{
+  "id": 1210002721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.19675,34.01098,46.19675,34.01098",
+    "geom:latitude":34.01098,
+    "geom:longitude":46.19675,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Darvish Silgeh",
+    "gn:country_code":"IR",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":25930,
+    "gn:latitude":34.01098,
+    "gn:longitude":46.19675,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Darv\u012bsh S\u012blgeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Darv\u012bs\u012b\u0101"
+    ],
+    "name:fas_x_variant":[
+        "Darv\u012bsh S\u012blgeh",
+        "\u062f\u0631\u0648\u064a\u0634 \u0633\u064a\u0644\u06af\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":25930
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2e6e2a347aaa050197f9f6fe71f49d3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720031,
+            "locality_id":1210002721,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1210002721,
+    "wof:lastmodified":1537641360,
+    "wof:name":"Darvish Silgeh",
+    "wof:parent_id":1108720031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.19675,
+    34.01098,
+    46.19675,
+    34.01098
+],
+  "geometry": {"coordinates":[46.19675,34.01098],"type":"Point"}
+}

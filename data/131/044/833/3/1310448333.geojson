@@ -1,0 +1,67 @@
+{
+  "id": 1310448333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.72111,29.42778,57.72111,29.42778",
+    "geom:latitude":29.42778,
+    "geom:longitude":57.72111,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Hij",
+    "gn:country_code":"IR",
+    "gn:dem":1877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":400654,
+    "gn:latitude":29.42778,
+    "gn:longitude":57.72111,
+    "gn:modification_date":"1996-11-01",
+    "gn:name":"H\u012bj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400654
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cc970d5235911229a16670ad14b244ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720115,
+            "locality_id":1310448333,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1310448333,
+    "wof:lastmodified":1536998703,
+    "wof:name":"Hij",
+    "wof:parent_id":1108720115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.72111,
+    29.42778,
+    57.72111,
+    29.42778
+],
+  "geometry": {"coordinates":[57.72111,29.42778],"type":"Point"}
+}

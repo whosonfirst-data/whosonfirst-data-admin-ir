@@ -1,0 +1,78 @@
+{
+  "id": 1276947601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.74953,32.03675,49.74953,32.03675",
+    "geom:latitude":32.03675,
+    "geom:longitude":49.74953,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Bargapi",
+    "gn:country_code":"IR",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":33195,
+    "gn:latitude":32.03675,
+    "gn:longitude":49.74953,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Bargap\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Bargap\u012b"
+    ],
+    "name:fas_x_variant":[
+        "Bardgap\u012b",
+        "\u0628\u0631\u062f\u06af\u067e\u06cc",
+        "\u0628\u0631\u06af\u067e\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0628\u0631\u062f\u06af\u067e\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":33195
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dc36dc77187a7671c5491ddf4e99e46c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720067,
+            "locality_id":1276947601,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1276947601,
+    "wof:lastmodified":1537641849,
+    "wof:name":"Bargapi",
+    "wof:parent_id":1108720067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.74953,
+    32.03675,
+    49.74953,
+    32.03675
+],
+  "geometry": {"coordinates":[49.74953,32.03675],"type":"Point"}
+}

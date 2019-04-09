@@ -1,0 +1,75 @@
+{
+  "id": 1276666941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.8743,39.2078,44.8743,39.2078",
+    "geom:latitude":39.2078,
+    "geom:longitude":44.8743,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Seneq",
+    "gn:country_code":"IR",
+    "gn:dem":992,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":14061,
+    "gn:latitude":39.2078,
+    "gn:longitude":44.8743,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Seneq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0650\u0646\u064a\u0642"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0646\u0642",
+        "Sen\u012bq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":14061,
+        "wk:page":"Seneq"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ec0c8988975a460ad50b4114bcd3cba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720203,
+            "locality_id":1276666941,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1276666941,
+    "wof:lastmodified":1537640776,
+    "wof:name":"Seneq",
+    "wof:parent_id":1108720203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.8743,
+    39.2078,
+    44.8743,
+    39.2078
+],
+  "geometry": {"coordinates":[44.8743,39.2078],"type":"Point"}
+}

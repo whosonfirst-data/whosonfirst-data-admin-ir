@@ -1,0 +1,76 @@
+{
+  "id": 1292997287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.40394,30.45893,51.40394,30.45893",
+    "geom:latitude":30.45893,
+    "geom:longitude":51.40394,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Si La",
+    "gn:country_code":"IR",
+    "gn:dem":1243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":46679,
+    "gn:latitude":30.45893,
+    "gn:longitude":51.40394,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u012b L\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "S\u012b L\u0101"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u06cc \u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u0633\u06cc \u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":46679
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cb25aeba84b68d35312ec6de35616ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720209,
+            "locality_id":1292997287,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1292997287,
+    "wof:lastmodified":1537642627,
+    "wof:name":"Si La",
+    "wof:parent_id":1108720209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.40394000000001,
+    30.45893,
+    51.40394000000001,
+    30.45893
+],
+  "geometry": {"coordinates":[51.40394000000001,30.45893],"type":"Point"}
+}

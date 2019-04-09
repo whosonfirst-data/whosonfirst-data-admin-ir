@@ -1,0 +1,78 @@
+{
+  "id": 1293856729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.33457,31.35427,49.33457,31.35427",
+    "geom:latitude":31.35427,
+    "geom:longitude":49.33457,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Havir",
+    "gn:country_code":"IR",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":131650,
+    "gn:latitude":31.35427,
+    "gn:longitude":49.33457,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"\u1e28av\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0648\u06cc\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28av\u012br"
+    ],
+    "name:und_x_variant":[
+        "Huv\u012br",
+        "Havair",
+        "\u1e28oveyr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":131650
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1df3336f55ac70fb27f9ecf891dfebd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720331,
+            "locality_id":1293856729,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1293856729,
+    "wof:lastmodified":1537644990,
+    "wof:name":"Havir",
+    "wof:parent_id":1108720331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.33457,
+    31.35427,
+    49.33457,
+    31.35427
+],
+  "geometry": {"coordinates":[49.33457,31.35427],"type":"Point"}
+}

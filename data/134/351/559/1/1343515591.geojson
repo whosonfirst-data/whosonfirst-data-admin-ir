@@ -1,0 +1,75 @@
+{
+  "id": 1343515591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.9778,39.0714,46.9778,39.0714",
+    "geom:latitude":39.0714,
+    "geom:longitude":46.9778,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Kargaran",
+    "gn:country_code":"IR",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":17153,
+    "gn:latitude":39.0714,
+    "gn:longitude":46.9778,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"K\u0101rgar\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0643\u0627\u0631\u06af\u064e\u0631\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0627\u0631\u06af\u0631\u0627\u0646",
+        "K\u0101rgar\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":17153,
+        "wk:page":"Kargaran"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cbbc76e79921de406ff425927ef5fe7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720097,
+            "locality_id":1343515591,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1343515591,
+    "wof:lastmodified":1537640929,
+    "wof:name":"Kargaran",
+    "wof:parent_id":1108720097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.9778,
+    39.0714,
+    46.9778,
+    39.0714
+],
+  "geometry": {"coordinates":[46.9778,39.0714],"type":"Point"}
+}

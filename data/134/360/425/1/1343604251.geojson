@@ -1,0 +1,73 @@
+{
+  "id": 1343604251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.91637,37.81121,55.91637,37.81121",
+    "geom:latitude":37.81121,
+    "geom:longitude":55.91637,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Qara Gol",
+    "gn:country_code":"IR",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7111066,
+    "gn:latitude":37.81121,
+    "gn:longitude":55.91637,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Qar\u0101 Gol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u0627 \u06af\u0644"
+    ],
+    "name:fas_x_variant":[
+        "Qar\u0101 Gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7111066
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e3b4a3764c195331542498ccd14af0c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720093,
+            "locality_id":1343604251,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1343604251,
+    "wof:lastmodified":1537648095,
+    "wof:name":"Qara Gol",
+    "wof:parent_id":1108720093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.91636999999999,
+    37.81121,
+    55.91636999999999,
+    37.81121
+],
+  "geometry": {"coordinates":[55.91636999999999,37.81121],"type":"Point"}
+}

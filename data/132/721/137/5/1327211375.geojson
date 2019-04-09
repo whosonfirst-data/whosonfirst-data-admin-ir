@@ -1,0 +1,78 @@
+{
+  "id": 1327211375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.1755,27.30679,55.1755,27.30679",
+    "geom:latitude":27.30679,
+    "geom:longitude":55.1755,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tushan",
+    "gn:country_code":"IR",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7597269,
+    "gn:latitude":27.30679,
+    "gn:longitude":55.1755,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"T\u016bsh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "T\u012bsh\u016b"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u06cc\u0634\u0648",
+        "\u062a\u0648\u0634\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u062a\u06cc\u0634\u0648",
+        "T\u016bsh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7597269
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"825b9a3827f4cde3cb23a94ce4484556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720127,
+            "locality_id":1327211375,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1327211375,
+    "wof:lastmodified":1537648387,
+    "wof:name":"Tushan",
+    "wof:parent_id":1108720127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.1755,
+    27.30679,
+    55.1755,
+    27.30679
+],
+  "geometry": {"coordinates":[55.1755,27.30679],"type":"Point"}
+}

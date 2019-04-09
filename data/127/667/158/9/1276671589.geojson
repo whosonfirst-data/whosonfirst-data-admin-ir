@@ -1,0 +1,74 @@
+{
+  "id": 1276671589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.8178,36.7555,45.8178,36.7555",
+    "geom:latitude":36.7555,
+    "geom:longitude":45.8178,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Qalat",
+    "gn:country_code":"IR",
+    "gn:dem":1822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":410443,
+    "gn:latitude":36.7555,
+    "gn:longitude":45.8178,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Qal\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0644\u0627\u062a"
+    ],
+    "name:fas_x_variant":[
+        "\u0642\u064e\u0644\u0627\u062a",
+        "Qal\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":410443
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"67c56deb360eb8e7f467f250dd4d3789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720193,
+            "locality_id":1276671589,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1276671589,
+    "wof:lastmodified":1537646639,
+    "wof:name":"Qalat",
+    "wof:parent_id":1108720193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.8178,
+    36.7555,
+    45.8178,
+    36.7555
+],
+  "geometry": {"coordinates":[45.8178,36.7555],"type":"Point"}
+}

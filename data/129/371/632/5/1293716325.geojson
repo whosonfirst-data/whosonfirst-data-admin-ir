@@ -1,0 +1,85 @@
+{
+  "id": 1293716325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.24571,36.84835,59.24571,36.84835",
+    "geom:latitude":36.84835,
+    "geom:longitude":59.24571,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Baq Maj",
+    "gn:country_code":"IR",
+    "gn:dem":1714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":140104,
+    "gn:latitude":36.84835,
+    "gn:longitude":59.24571,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Baq Maj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0642\u0645\u0686"
+    ],
+    "name:fas_x_variant":[
+        "B\u016bqm\u012bch",
+        "B\u016bqmach",
+        "\u0628\u0642\u0645\u062c",
+        "\u0628\u0642\u0645\u0686"
+    ],
+    "name:und_x_variant":[
+        "B\u016bqmaj",
+        "Baghmaj",
+        "Bughmish",
+        "Boqmej",
+        "B\u016bqm\u012bsh",
+        "Baqmach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108719931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140104,
+        "wk:page":"Baqmach"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2a09af1d35ae0b37af4f170bd284197e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719931,
+            "locality_id":1293716325,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1293716325,
+    "wof:lastmodified":1537645843,
+    "wof:name":"Baq Maj",
+    "wof:parent_id":1108719931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.24571,
+    36.84835,
+    59.24571,
+    36.84835
+],
+  "geometry": {"coordinates":[59.24571,36.84835],"type":"Point"}
+}

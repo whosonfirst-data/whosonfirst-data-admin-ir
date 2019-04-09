@@ -1,0 +1,77 @@
+{
+  "id": 1360241193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.56584,28.27572,51.56584,28.27572",
+    "geom:latitude":28.27572,
+    "geom:longitude":51.56584,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Bagh-e Kharreh",
+    "gn:country_code":"IR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":142124,
+    "gn:latitude":28.27572,
+    "gn:longitude":51.56584,
+    "gn:modification_date":"2013-07-04",
+    "gn:name":"B\u0101gh-e Kharreh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062e\u064e\u0631\u0650\u0651\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0627\u063a \u062e\u0631\u0647"
+    ],
+    "name:und_x_variant":[
+        "B\u0101gh-e Kharreh",
+        "Kharreh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108719953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":142124
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7bf99ed3ae8990de4e7a80851ab53803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719953,
+            "locality_id":1360241193,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1360241193,
+    "wof:lastmodified":1537646041,
+    "wof:name":"Bagh-e Kharreh",
+    "wof:parent_id":1108719953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.56584,
+    28.27572,
+    51.56584,
+    28.27572
+],
+  "geometry": {"coordinates":[51.56584,28.27572],"type":"Point"}
+}

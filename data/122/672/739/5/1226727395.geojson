@@ -1,0 +1,74 @@
+{
+  "id": 1226727395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.5754,27.9471,56.5754,27.9471",
+    "geom:latitude":27.9471,
+    "geom:longitude":56.5754,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Chah Morgh",
+    "gn:country_code":"IR",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6985839,
+    "gn:latitude":27.9471,
+    "gn:longitude":56.5754,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ch\u0101h Morgh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0647 \u0645\u0631\u063a"
+    ],
+    "name:fas_x_variant":[
+        "Ch\u0101h Morgh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6985839,
+        "wk:page":"Chah_Morgh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a9137dce545dfd550f12b98952e6fe64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720045,
+            "locality_id":1226727395,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1226727395,
+    "wof:lastmodified":1537647848,
+    "wof:name":"Chah Morgh",
+    "wof:parent_id":1108720045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.5754,
+    27.9471,
+    56.5754,
+    27.9471
+],
+  "geometry": {"coordinates":[56.5754,27.9471],"type":"Point"}
+}

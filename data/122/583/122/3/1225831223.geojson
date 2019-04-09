@@ -1,0 +1,80 @@
+{
+  "id": 1225831223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.92915,34.43499,45.92915,34.43499",
+    "geom:latitude":34.43499,
+    "geom:longitude":45.92915,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Mahaki Pol Mahiyat",
+    "gn:country_code":"IR",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":120941,
+    "gn:latitude":34.43499,
+    "gn:longitude":45.92915,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mahak\u012b Pol M\u0101h\u012byat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0647\u06a9\u06cc \u067e\u0644 \u0645\u0627\u0647\u06cc\u062a"
+    ],
+    "name:fas_x_variant":[
+        "Pol M\u0101h\u012bt",
+        "Mahak\u012b Pol M\u0101h\u012byat"
+    ],
+    "name:und_x_variant":[
+        "Mahak\u012b P\u016bl M\u0101h\u012b",
+        "P\u016bl Mahib",
+        "Mahk\u012b Pol M\u0101h\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":120941,
+        "wk:page":"Pol_Mahit"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a820f66046c5588a8290c8626a9c2a99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720383,
+            "locality_id":1225831223,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1225831223,
+    "wof:lastmodified":1537643905,
+    "wof:name":"Mahaki Pol Mahiyat",
+    "wof:parent_id":1108720383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.92915,
+    34.43499,
+    45.92915,
+    34.43499
+],
+  "geometry": {"coordinates":[45.92915,34.43499],"type":"Point"}
+}

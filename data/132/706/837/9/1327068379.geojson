@@ -1,0 +1,76 @@
+{
+  "id": 1327068379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.09107,32.09308,54.09107,32.09308",
+    "geom:latitude":32.09308,
+    "geom:longitude":54.09107,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Chahar Deh",
+    "gn:country_code":"IR",
+    "gn:dem":1139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":405462,
+    "gn:latitude":32.09308,
+    "gn:longitude":54.09107,
+    "gn:modification_date":"2013-11-11",
+    "gn:name":"Chah\u0101r Deh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Chah\u0101r Deh"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u0647\u0627\u0631 \u062f\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0686\u0647\u0627\u0631 \u062f\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672317,
+        1108720369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":405462
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"33a158cde726ca5be39a8ed6e4f01934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720369,
+            "locality_id":1327068379,
+            "region_id":85672317
+        }
+    ],
+    "wof:id":1327068379,
+    "wof:lastmodified":1537646597,
+    "wof:name":"Chahar Deh",
+    "wof:parent_id":1108720369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.09107,
+    32.09308,
+    54.09107,
+    32.09308
+],
+  "geometry": {"coordinates":[54.09107,32.09308],"type":"Point"}
+}

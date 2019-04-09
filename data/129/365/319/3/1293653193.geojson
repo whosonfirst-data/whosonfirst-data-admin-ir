@@ -1,0 +1,81 @@
+{
+  "id": 1293653193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.267,35.678,46.267,35.678",
+    "geom:latitude":35.678,
+    "geom:longitude":46.267,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Qamishaleh",
+    "gn:country_code":"IR",
+    "gn:dem":1689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":120054,
+    "gn:latitude":35.678,
+    "gn:longitude":46.267,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Q\u0101m\u012bshaleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0627\u0645\u064a\u0634\u064e\u0644\u0650\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0642\u0627\u0645\u064a\u0634\u0644\u0650\u0647",
+        "\u0642\u0627\u0645\u06cc \u0634\u0650\u0644\u0650\u0647",
+        "\u0642\u0627\u0645\u06cc\u0634\u0644\u0647",
+        "Q\u0101m\u012bshaleh",
+        "Q\u0101m\u012bshleh"
+    ],
+    "name:und_x_variant":[
+        "Q\u0101m\u012b Sheleh",
+        "Q\u0101m\u012bshleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":120054
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a191180487e4883f884f151c975ad7ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720221,
+            "locality_id":1293653193,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1293653193,
+    "wof:lastmodified":1537643814,
+    "wof:name":"Qamishaleh",
+    "wof:parent_id":1108720221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.267,
+    35.67800000000001,
+    46.267,
+    35.67800000000001
+],
+  "geometry": {"coordinates":[46.267,35.67800000000001],"type":"Point"}
+}

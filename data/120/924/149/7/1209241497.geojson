@@ -1,0 +1,71 @@
+{
+  "id": 1209241497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.70339,37.20923,58.70339,37.20923",
+    "geom:latitude":37.20923,
+    "geom:longitude":58.70339,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Piranlu",
+    "gn:country_code":"IR",
+    "gn:dem":1516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":26056,
+    "gn:latitude":37.20923,
+    "gn:longitude":58.70339,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"P\u012br\u0101nl\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "P\u012br\u0101nl\u016b"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u06cc\u0631\u0627\u0646\u0644\u0648"
+    ],
+    "name:und_x_variant":[
+        "\u067e\u06cc\u0631\u0627\u0646\u0644\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":26056,
+        "wk:page":"Piranlu,_Razavi_Khorasan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"908aac38ccdbeecd7a194e8170f1a65c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209241497
+        }
+    ],
+    "wof:id":1209241497,
+    "wof:lastmodified":1537641368,
+    "wof:name":"Piranlu",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.70339,
+    37.20923,
+    58.70339,
+    37.20923
+],
+  "geometry": {"coordinates":[58.70339,37.20923],"type":"Point"}
+}

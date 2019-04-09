@@ -1,0 +1,73 @@
+{
+  "id": 1226650627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.65525,31.19429,50.65525,31.19429",
+    "geom:latitude":31.19429,
+    "geom:longitude":50.65525,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ab Za-ye Mahtab",
+    "gn:country_code":"IR",
+    "gn:dem":1819,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11265992,
+    "gn:latitude":31.19429,
+    "gn:longitude":50.65525,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"\u0100b Z\u0101-ye Maht\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0628 \u0632\u0627\u06cc \u0645\u0647\u062a\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u0100b Z\u0101-ye Maht\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11265992
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d56aacf7a269e10ad06eeef970075c85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1226650627,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1226650627,
+    "wof:lastmodified":1537648763,
+    "wof:name":"Ab Za-ye Mahtab",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.65525,
+    31.19429,
+    50.65525,
+    31.19429
+],
+  "geometry": {"coordinates":[50.65525,31.19429],"type":"Point"}
+}

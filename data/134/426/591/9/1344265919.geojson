@@ -1,0 +1,73 @@
+{
+  "id": 1344265919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.0275,30.4801,48.0275,30.4801",
+    "geom:latitude":30.4801,
+    "geom:longitude":48.0275,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Hodud",
+    "gn:country_code":"IR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6687609,
+    "gn:latitude":30.4801,
+    "gn:longitude":48.0275,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"\u1e28od\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Baghdad",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u062f\u0648\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28od\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6687609
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1131cf5b27cc30ae4394d673735b2db3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720151,
+            "locality_id":1344265919,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1344265919,
+    "wof:lastmodified":1537647398,
+    "wof:name":"Hodud",
+    "wof:parent_id":1108720151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.0275,
+    30.4801,
+    48.0275,
+    30.4801
+],
+  "geometry": {"coordinates":[48.0275,30.4801],"type":"Point"}
+}

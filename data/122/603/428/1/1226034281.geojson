@@ -1,0 +1,78 @@
+{
+  "id": 1226034281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.03313,34.32821,48.03313,34.32821",
+    "geom:latitude":34.32821,
+    "geom:longitude":48.03313,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Borjaki",
+    "gn:country_code":"IR",
+    "gn:dem":1462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":140079,
+    "gn:latitude":34.32821,
+    "gn:longitude":48.03313,
+    "gn:modification_date":"2016-08-02",
+    "gn:name":"Borjak\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Borjak\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0631\u062c\u06a9\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Burjaki",
+        "\u0628\u0631\u062c\u06a9\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140079,
+        "wk:page":"Borjaki"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"225847a8bf6865cbb9fde49b2ed1a860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720257,
+            "locality_id":1226034281,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1226034281,
+    "wof:lastmodified":1537645841,
+    "wof:name":"Borjaki",
+    "wof:parent_id":1108720257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.03313,
+    34.32821,
+    48.03313,
+    34.32821
+],
+  "geometry": {"coordinates":[48.03313,34.32821],"type":"Point"}
+}

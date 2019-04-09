@@ -1,0 +1,74 @@
+{
+  "id": 1343525397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.82053,35.2378,47.82053,35.2378",
+    "geom:latitude":35.2378,
+    "geom:longitude":47.82053,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Qaslan",
+    "gn:country_code":"IR",
+    "gn:dem":1816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":119604,
+    "gn:latitude":35.2378,
+    "gn:longitude":47.82053,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Qa\u015fl\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0635\u0644\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Qa\u015fl\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":119604,
+        "wk:page":"Qaslan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8a3826c22a0f8be1ca5166a546163e13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720325,
+            "locality_id":1343525397,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1343525397,
+    "wof:lastmodified":1537643764,
+    "wof:name":"Qaslan",
+    "wof:parent_id":1108720325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.82053,
+    35.2378,
+    47.82053,
+    35.2378
+],
+  "geometry": {"coordinates":[47.82053,35.2378],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1243200791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.76647,33.74436,58.76647,33.74436",
+    "geom:latitude":33.74436,
+    "geom:longitude":58.76647,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Kalateh-ye Mazar",
+    "gn:country_code":"IR",
+    "gn:dem":1733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":21459,
+    "gn:latitude":33.74436,
+    "gn:longitude":58.76647,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Kal\u0101teh-ye Maz\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Kal\u0101teh-ye Maz\u0101r"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0644\u0627\u062a\u0647 \u0645\u0632\u0627\u0631",
+        "\u0645\u0632\u0627\u0631 \u062f\u0647\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u06a9\u0644\u0627\u062a\u0647 \u0645\u0632\u0627\u0631",
+        "Maz\u0101r Dahaneh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108720391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":21459
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e4b3588b235407ec0fd6bb805f4f4c15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720391,
+            "locality_id":1243200791,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1243200791,
+    "wof:lastmodified":1537641070,
+    "wof:name":"Kalateh-ye Mazar",
+    "wof:parent_id":1108720391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.76647,
+    33.74436,
+    58.76647,
+    33.74436
+],
+  "geometry": {"coordinates":[58.76647,33.74436],"type":"Point"}
+}

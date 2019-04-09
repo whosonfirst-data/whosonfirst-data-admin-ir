@@ -1,0 +1,74 @@
+{
+  "id": 1210020981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.1047,30.9232,50.1047,30.9232",
+    "geom:latitude":30.9232,
+    "geom:longitude":50.1047,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Bisheh Khoshku",
+    "gn:country_code":"IR",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":45898,
+    "gn:latitude":30.9232,
+    "gn:longitude":50.1047,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"B\u012bsheh Khoshk\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0634\u0647 \u062e\u0634\u06a9\u0648"
+    ],
+    "name:fas_x_variant":[
+        "B\u012bsheh Khoshk\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108719859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":45898,
+        "wk:page":"Bisheh_Khoshku"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ddd40821542328fd716861d0fb8021dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719859,
+            "locality_id":1210020981,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1210020981,
+    "wof:lastmodified":1537642581,
+    "wof:name":"Bisheh Khoshku",
+    "wof:parent_id":1108719859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.1047,
+    30.9232,
+    50.1047,
+    30.9232
+],
+  "geometry": {"coordinates":[50.1047,30.9232],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1260052809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.88099,32.05361,48.88099,32.05361",
+    "geom:latitude":32.05361,
+    "geom:longitude":48.88099,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Shams od Din",
+    "gn:country_code":"IR",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6660515,
+    "gn:latitude":32.05361,
+    "gn:longitude":48.88099,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Shams od D\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0651\u062f \u0634\u0645\u0633 \u0627\u0644\u062f\u06cc\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Seyyed Shams od D\u012bn",
+        "\u0634\u0645\u0633 \u0627\u0644\u062f\u06cc\u0646",
+        "\u0634\u064a\u062e \u0634\u0645\u0633 \u0627\u0644\u062f\u06cc\u0646"
+    ],
+    "name:und_x_variant":[
+        "Shams od D\u012bn",
+        "Sheykh Shams od D\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6660515
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9d1dba5b9d0c99aebbb21bd7e1179ff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720457,
+            "locality_id":1260052809,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1260052809,
+    "wof:lastmodified":1537647276,
+    "wof:name":"Shams od Din",
+    "wof:parent_id":1108720457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.88099,
+    32.05361,
+    48.88099,
+    32.05361
+],
+  "geometry": {"coordinates":[48.88099,32.05361],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260339825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.41667,36.36667,50.41667,36.36667",
+    "geom:latitude":36.36667,
+    "geom:longitude":50.41667,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Adrud",
+    "gn:country_code":"IR",
+    "gn:dem":1538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10579,
+    "gn:latitude":36.36667,
+    "gn:longitude":50.41667,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"Adr\u016bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Adr\u016bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108720315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10579
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"70edbd8ca82cc8b6cfdd1f12f57d5b6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720315,
+            "locality_id":1260339825,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1260339825,
+    "wof:lastmodified":1537640582,
+    "wof:name":"Adrud",
+    "wof:parent_id":1108720315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.41667,
+    36.36667,
+    50.41667,
+    36.36667
+],
+  "geometry": {"coordinates":[50.41667,36.36667],"type":"Point"}
+}

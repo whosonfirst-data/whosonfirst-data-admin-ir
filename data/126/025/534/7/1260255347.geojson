@@ -1,0 +1,77 @@
+{
+  "id": 1260255347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.64852,31.74376,49.64852,31.74376",
+    "geom:latitude":31.74376,
+    "geom:longitude":49.64852,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Kiamarz",
+    "gn:country_code":"IR",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":138603,
+    "gn:latitude":31.74376,
+    "gn:longitude":49.64852,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"K\u012b\u0101marz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Cheshmeh \u2018Abdoll\u0101h"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u0634\u0645\u0647 \u0639\u0628\u062f \u0627\u0644\u0644\u0651\u0647",
+        "\u06a9\u06cc\u0627\u0645\u0631\u0632"
+    ],
+    "name:und_x_variant":[
+        "K\u012b\u0101marz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":138603
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ee188e207bad8b279c6bf2850d535321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720229,
+            "locality_id":1260255347,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1260255347,
+    "wof:lastmodified":1537645695,
+    "wof:name":"Kiamarz",
+    "wof:parent_id":1108720229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.64852,
+    31.74376,
+    49.64852,
+    31.74376
+],
+  "geometry": {"coordinates":[49.64852,31.74376],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243172023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.27821,27.10641,61.27821,27.10641",
+    "geom:latitude":27.10641,
+    "geom:longitude":61.27821,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Pansin",
+    "gn:country_code":"IR",
+    "gn:dem":1298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7040963,
+    "gn:latitude":27.10641,
+    "gn:longitude":61.27821,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Pans\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u067e\u0646\u0633\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Pans\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7040963
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1c6352bd965e5d8e6029edebdf7a9196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720389,
+            "locality_id":1243172023,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1243172023,
+    "wof:lastmodified":1537647926,
+    "wof:name":"Pansin",
+    "wof:parent_id":1108720389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.27821,
+    27.10641,
+    61.27821,
+    27.10641
+],
+  "geometry": {"coordinates":[61.27821,27.10641],"type":"Point"}
+}

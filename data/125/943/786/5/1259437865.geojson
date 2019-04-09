@@ -1,0 +1,73 @@
+{
+  "id": 1259437865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.3854,36.1546,54.3854,36.1546",
+    "geom:latitude":36.1546,
+    "geom:longitude":54.3854,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Tappeh Hesar",
+    "gn:country_code":"IR",
+    "gn:dem":1122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7108432,
+    "gn:latitude":36.1546,
+    "gn:longitude":54.3854,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Tappeh \u1e28e\u015f\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062a\u067e\u0647 \u062d\u0635\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Tappeh \u1e28e\u015f\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672309,
+        1108719937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7108432
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fd5eece8c94b817ca6286bc153ffbe94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719937,
+            "locality_id":1259437865,
+            "region_id":85672309
+        }
+    ],
+    "wof:id":1259437865,
+    "wof:lastmodified":1537648091,
+    "wof:name":"Tappeh Hesar",
+    "wof:parent_id":1108719937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.3854,
+    36.1546,
+    54.3854,
+    36.1546
+],
+  "geometry": {"coordinates":[54.3854,36.1546],"type":"Point"}
+}

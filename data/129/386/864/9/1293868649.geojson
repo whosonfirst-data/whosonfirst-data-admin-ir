@@ -1,0 +1,80 @@
+{
+  "id": 1293868649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.95149,37.07185,49.95149,37.07185",
+    "geom:latitude":37.07185,
+    "geom:longitude":49.95149,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Sizdah Kuh",
+    "gn:country_code":"IR",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":28965,
+    "gn:latitude":37.07185,
+    "gn:longitude":49.95149,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"S\u012bzdah K\u016bh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "S\u012bzdah K\u016bh"
+    ],
+    "name:fas_x_variant":[
+        "S\u012bzk\u016bh",
+        "\u0633\u06cc\u0632\u062f\u0647 \u06a9\u0648\u0647",
+        "\u0633\u0628\u0632 \u06a9\u0648\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0633\u06cc\u0632\u062f\u0647 \u06a9\u0648\u0647",
+        "Sabz K\u016bh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":28965,
+        "wk:page":"Sizkuh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"29513cd97546e2387e99cdba4eb330e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720183,
+            "locality_id":1293868649,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1293868649,
+    "wof:lastmodified":1537641596,
+    "wof:name":"Sizdah Kuh",
+    "wof:parent_id":1108720183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.95149,
+    37.07185,
+    49.95149,
+    37.07185
+],
+  "geometry": {"coordinates":[49.95149,37.07185],"type":"Point"}
+}

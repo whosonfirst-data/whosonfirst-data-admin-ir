@@ -1,0 +1,81 @@
+{
+  "id": 1242665411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.42694,27.81028,56.42694,27.81028",
+    "geom:latitude":27.81028,
+    "geom:longitude":56.42694,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Naringan",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":122371,
+    "gn:latitude":27.81028,
+    "gn:longitude":56.42694,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Nar\u012bng\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0646\u064e\u0631\u064a\u0646\u06af\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0650\u0631\u064a\u0646\u06af\u0627\u0646",
+        "\u0646\u0650\u0631\u0650\u0646\u06af\u0627\u0646",
+        "Nar\u012bng\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Nereng\u0101n",
+        "Ner\u012bng\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108719863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":122371,
+        "wk:page":"Nerengan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4b54c79b0e0d00b5e2e47e0fe96590d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719863,
+            "locality_id":1242665411,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1242665411,
+    "wof:lastmodified":1537644052,
+    "wof:name":"Naringan",
+    "wof:parent_id":1108719863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.42694,
+    27.81028,
+    56.42694,
+    27.81028
+],
+  "geometry": {"coordinates":[56.42694,27.81028],"type":"Point"}
+}

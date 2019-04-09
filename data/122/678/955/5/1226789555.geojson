@@ -1,0 +1,75 @@
+{
+  "id": 1226789555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.85193,36.53123,52.85193,36.53123",
+    "geom:latitude":36.53123,
+    "geom:longitude":52.85193,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Duk-e Bala",
+    "gn:country_code":"IR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11653,
+    "gn:latitude":36.53123,
+    "gn:longitude":52.85193,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"D\u016bk-e B\u0101l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0643"
+    ],
+    "name:fas_x_variant":[
+        "D\u016bk",
+        "D\u016bk-e B\u0101l\u0101",
+        "\u062f\u0648\u0643 \u0628\u0627\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11653
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b38c7edfa05f464a90a96cf71237adf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720309,
+            "locality_id":1226789555,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1226789555,
+    "wof:lastmodified":1537640653,
+    "wof:name":"Duk-e Bala",
+    "wof:parent_id":1108720309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.85193,
+    36.53123,
+    52.85193,
+    36.53123
+],
+  "geometry": {"coordinates":[52.85193,36.53123],"type":"Point"}
+}

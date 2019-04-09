@@ -1,0 +1,79 @@
+{
+  "id": 1327430363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.155,30.908,50.155,30.908",
+    "geom:latitude":30.908,
+    "geom:longitude":50.155,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Posht Taveh",
+    "gn:country_code":"IR",
+    "gn:dem":743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6729490,
+    "gn:latitude":30.908,
+    "gn:longitude":50.155,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Posht T\u0101veh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0634\u062a \u062a\u0627\u0648\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Posht T\u0101veh",
+        "\u067e\u0634\u062a \u062a\u0627\u0648\u0647 \u0633\u0641\u0644\u06cc",
+        "\u067e\u0634\u062a \u0637\u0627\u0648\u0647 \u0633\u0641\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Posht T\u0101veh-ye Sofl\u00e1",
+        "Posht \u0162\u0101veh-ye Sofl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108719859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6729490
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c3186588e82bf4f0a9d6c5090bdf75c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719859,
+            "locality_id":1327430363,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1327430363,
+    "wof:lastmodified":1537647535,
+    "wof:name":"Posht Taveh",
+    "wof:parent_id":1108719859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.155,
+    30.908,
+    50.155,
+    30.908
+],
+  "geometry": {"coordinates":[50.155,30.908],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1343675469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.1713,39.278,44.1713,39.278",
+    "geom:latitude":39.278,
+    "geom:longitude":44.1713,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Delakverdi",
+    "gn:country_code":"IR",
+    "gn:dem":2040,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":14083,
+    "gn:latitude":39.278,
+    "gn:longitude":44.1713,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Delakverd\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0650\u0644\u064e\u0643\u0648\u0650\u0631\u062f\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u064e\u0644\u0650\u0643 \u0648\u064a\u0631\u062f\u06cc",
+        "Delakverd\u012b",
+        "\u062f\u0644\u06a9 \u0648\u0631\u062f\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Dalek V\u012brd\u012b",
+        "\u062f\u0644\u06a9 \u0648\u0631\u062f\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108719923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":14083,
+        "wk:page":"Delakverdi"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"436fff55ae53453d0cdc102e2505bd76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719923,
+            "locality_id":1343675469,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1343675469,
+    "wof:lastmodified":1537640778,
+    "wof:name":"Delakverdi",
+    "wof:parent_id":1108719923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.1713,
+    39.278,
+    44.1713,
+    39.278
+],
+  "geometry": {"coordinates":[44.1713,39.278],"type":"Point"}
+}

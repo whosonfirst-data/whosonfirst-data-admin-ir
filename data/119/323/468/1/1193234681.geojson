@@ -1,0 +1,81 @@
+{
+  "id": 1193234681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.51222,28.18055,51.51222,28.18055",
+    "geom:latitude":28.18055,
+    "geom:longitude":51.51222,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Mordeh Shuri",
+    "gn:country_code":"IR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":123290,
+    "gn:latitude":28.18055,
+    "gn:longitude":51.51222,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Mordeh Sh\u016br\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0645\u064e\u0631\u062f \u0622\u0628\u0634\u0648\u0631\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u064f\u0631\u062f\u0650\u0647 \u0634\u064f\u0651\u0631",
+        "\u0645\u0631\u062f\u0647 \u0634\u0648\u0631\u06cc",
+        "Mard \u0100bsh\u016br\u012b"
+    ],
+    "name:und_x_variant":[
+        "Murdha Sh\u016bri",
+        "Mord Sh\u016br\u012b",
+        "Mordeh Shoor",
+        "Mordeh Sh\u016br\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108719953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":123290
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a64aa8280938e09a55e806a5f9388b0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719953,
+            "locality_id":1193234681,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1193234681,
+    "wof:lastmodified":1537644139,
+    "wof:name":"Mordeh Shuri",
+    "wof:parent_id":1108719953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.51222,
+    28.18055,
+    51.51222,
+    28.18055
+],
+  "geometry": {"coordinates":[51.51222,28.18055],"type":"Point"}
+}

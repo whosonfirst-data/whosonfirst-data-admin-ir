@@ -1,0 +1,78 @@
+{
+  "id": 1293460995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.88495,34.47874,45.88495,34.47874",
+    "geom:latitude":34.47874,
+    "geom:longitude":45.88495,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Berimvand",
+    "gn:country_code":"IR",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":140828,
+    "gn:latitude":34.47874,
+    "gn:longitude":45.88495,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ber\u012bmvand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u06cc\u0645\u0648\u0646\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Ber\u012bmvand"
+    ],
+    "name:und_x_variant":[
+        "B\u0101li",
+        "Bar\u012bmvand",
+        "Ber\u012bm\u0101vand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140828
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ec3ba30b6b549719f70fbbf200ab235b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720383,
+            "locality_id":1293460995,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1293460995,
+    "wof:lastmodified":1537645913,
+    "wof:name":"Berimvand",
+    "wof:parent_id":1108720383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.88495,
+    34.47874,
+    45.88495,
+    34.47874
+],
+  "geometry": {"coordinates":[45.88495,34.47874],"type":"Point"}
+}

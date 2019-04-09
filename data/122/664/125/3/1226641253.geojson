@@ -1,0 +1,75 @@
+{
+  "id": 1226641253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.812,33.6245,46.812,33.6245",
+    "geom:latitude":33.6245,
+    "geom:longitude":46.812,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Cham Push",
+    "gn:country_code":"IR",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":27380,
+    "gn:latitude":33.6245,
+    "gn:longitude":46.812,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Cham P\u016bsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0645 \u067e\u0648\u0634"
+    ],
+    "name:fas_x_variant":[
+        "Champ\u016bsh",
+        "Cham P\u016bsh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108720453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":27380,
+        "wk:page":"Cham_Push"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d15d9686d1c5501e64a4b15c65a692b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720453,
+            "locality_id":1226641253,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1226641253,
+    "wof:lastmodified":1537641470,
+    "wof:name":"Cham Push",
+    "wof:parent_id":1108720453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.812,
+    33.6245,
+    46.812,
+    33.6245
+],
+  "geometry": {"coordinates":[46.812,33.6245],"type":"Point"}
+}

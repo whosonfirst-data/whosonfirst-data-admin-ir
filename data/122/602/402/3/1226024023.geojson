@@ -1,0 +1,73 @@
+{
+  "id": 1226024023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.0133,34.3323,47.0133,34.3323",
+    "geom:latitude":34.3323,
+    "geom:longitude":47.0133,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Darreh Deraz",
+    "gn:country_code":"IR",
+    "gn:dem":1425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6720811,
+    "gn:latitude":34.3323,
+    "gn:longitude":47.0133,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Darreh Der\u0101z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0651\u0647 \u062f\u0631\u0627\u0632"
+    ],
+    "name:fas_x_variant":[
+        "Darreh Der\u0101z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6720811
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"87bca27c84e7eb855a2305e755fe2055",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720117,
+            "locality_id":1226024023,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1226024023,
+    "wof:lastmodified":1537647499,
+    "wof:name":"Darreh Deraz",
+    "wof:parent_id":1108720117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.0133,
+    34.3323,
+    47.0133,
+    34.3323
+],
+  "geometry": {"coordinates":[47.0133,34.3323],"type":"Point"}
+}

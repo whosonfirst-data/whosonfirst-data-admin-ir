@@ -1,0 +1,73 @@
+{
+  "id": 1293348473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.707,33.6945,48.707,33.6945",
+    "geom:latitude":33.6945,
+    "geom:longitude":48.707,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Darreh-ye Hoseyn",
+    "gn:country_code":"IR",
+    "gn:dem":1876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":32441,
+    "gn:latitude":33.6945,
+    "gn:longitude":48.707,
+    "gn:modification_date":"2015-07-02",
+    "gn:name":"Darreh-ye \u1e28oseyn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u0647 \u062d\u0633\u064a\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Darreh-ye \u1e28oseyn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":32441
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"090c56d4492dbaeb0384f6df4c2ed99b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719905,
+            "locality_id":1293348473,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1293348473,
+    "wof:lastmodified":1537641797,
+    "wof:name":"Darreh-ye Hoseyn",
+    "wof:parent_id":1108719905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.707,
+    33.6945,
+    48.707,
+    33.6945
+],
+  "geometry": {"coordinates":[48.707,33.6945],"type":"Point"}
+}

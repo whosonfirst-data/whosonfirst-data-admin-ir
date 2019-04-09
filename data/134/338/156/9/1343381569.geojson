@@ -1,0 +1,76 @@
+{
+  "id": 1343381569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.1832,29.2895,52.1832,29.2895",
+    "geom:latitude":29.2895,
+    "geom:longitude":52.1832,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Shekaft",
+    "gn:country_code":"IR",
+    "gn:dem":1782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":115303,
+    "gn:latitude":29.2895,
+    "gn:longitude":52.1832,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Shekaft",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u06a9\u0641\u062a"
+    ],
+    "name:und_x_variant":[
+        "Seqaft",
+        "Seguft",
+        "Shekaft"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":115303,
+        "wk:page":"Shekaft"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"57217ff0cd542b6a9aab890f06b69786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720447,
+            "locality_id":1343381569,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1343381569,
+    "wof:lastmodified":1537643347,
+    "wof:name":"Shekaft",
+    "wof:parent_id":1108720447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.1832,
+    29.2895,
+    52.1832,
+    29.2895
+],
+  "geometry": {"coordinates":[52.1832,29.2895],"type":"Point"}
+}

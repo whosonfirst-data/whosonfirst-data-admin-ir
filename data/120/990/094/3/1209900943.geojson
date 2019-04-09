@@ -1,0 +1,73 @@
+{
+  "id": 1209900943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.36854,37.14089,49.36854,37.14089",
+    "geom:latitude":37.14089,
+    "geom:longitude":49.36854,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Pir Mokhtar",
+    "gn:country_code":"IR",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6757429,
+    "gn:latitude":37.14089,
+    "gn:longitude":49.36854,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"P\u012br Mokht\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0631 \u0645\u062e\u062a\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "P\u012br Mokht\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6757429
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d9f3f77d520d67cda9f1372f6353d979",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720427,
+            "locality_id":1209900943,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1209900943,
+    "wof:lastmodified":1537647631,
+    "wof:name":"Pir Mokhtar",
+    "wof:parent_id":1108720427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.36854,
+    37.14089,
+    49.36854,
+    37.14089
+],
+  "geometry": {"coordinates":[49.36854,37.14089],"type":"Point"}
+}

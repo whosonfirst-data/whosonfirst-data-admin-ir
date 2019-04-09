@@ -1,0 +1,80 @@
+{
+  "id": 1243076821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.11699,38.67475,45.11699,38.67475",
+    "geom:latitude":38.67475,
+    "geom:longitude":45.11699,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bilevar",
+    "gn:country_code":"IR",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388502,
+    "gn:latitude":38.67475,
+    "gn:longitude":45.11699,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"B\u012blev\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u064a\u0644 \u0648\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u06cc\u0644\u0648\u0627\u0631",
+        "B\u012bleh V\u0101r",
+        "B\u012blev\u0101r",
+        "\u0628\u064a\u0644\u0647 \u0648\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "B\u012bl V\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388502,
+        "wk:page":"Bileh_Var"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7a119f08a9610474a86e64028876a219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720153,
+            "locality_id":1243076821,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1243076821,
+    "wof:lastmodified":1537646450,
+    "wof:name":"Bilevar",
+    "wof:parent_id":1108720153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.11699,
+    38.67475,
+    45.11699,
+    38.67475
+],
+  "geometry": {"coordinates":[45.11699,38.67475],"type":"Point"}
+}

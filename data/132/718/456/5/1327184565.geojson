@@ -1,0 +1,76 @@
+{
+  "id": 1327184565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.7345,28.385,57.7345,28.385",
+    "geom:latitude":28.385,
+    "geom:longitude":57.7345,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Cheshmeh Shah",
+    "gn:country_code":"IR",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":400106,
+    "gn:latitude":28.385,
+    "gn:longitude":57.7345,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cheshmeh Sh\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0686\u0634\u0645\u0647 \u0634\u0627\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Cheshmeh Sh\u0101h"
+    ],
+    "name:und_x_variant":[
+        "Chashmeh Sh\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":400106
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"97f95091702fb30db6b3dfec3961b932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719809,
+            "locality_id":1327184565,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1327184565,
+    "wof:lastmodified":1537646489,
+    "wof:name":"Cheshmeh Shah",
+    "wof:parent_id":1108719809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.7345,
+    28.385,
+    57.7345,
+    28.385
+],
+  "geometry": {"coordinates":[57.7345,28.385],"type":"Point"}
+}

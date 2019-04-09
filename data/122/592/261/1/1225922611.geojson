@@ -1,0 +1,79 @@
+{
+  "id": 1225922611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.8477,33.6367,46.8477,33.6367",
+    "geom:latitude":33.6367,
+    "geom:longitude":46.8477,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Sar Choqa",
+    "gn:country_code":"IR",
+    "gn:dem":928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":28014,
+    "gn:latitude":33.6367,
+    "gn:longitude":46.8477,
+    "gn:modification_date":"2018-07-12",
+    "gn:name":"Sar Choq\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631 \u0686\u063a\u0627 \u0686\u0627\u0644\u0627\u0628 \u0632\u0631\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Sar Choq\u0101 Ch\u0101l\u0101b Zard",
+        "Sar Chogh\u0101 Ch\u0101l\u0101b Zard",
+        "\u0633\u0631 \u0686\u0642\u0627"
+    ],
+    "name:und_x_variant":[
+        "Sar Choq\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108720453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":28014,
+        "wk:page":"Sar_Choqa,_Ilam"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"26e9cffb88c634ab626514fd201bb14d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720453,
+            "locality_id":1225922611,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1225922611,
+    "wof:lastmodified":1537641500,
+    "wof:name":"Sar Choqa",
+    "wof:parent_id":1108720453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.8477,
+    33.6367,
+    46.8477,
+    33.6367
+],
+  "geometry": {"coordinates":[46.8477,33.6367],"type":"Point"}
+}

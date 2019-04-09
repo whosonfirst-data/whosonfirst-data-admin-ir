@@ -1,0 +1,79 @@
+{
+  "id": 1343930669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.30183,32.02194,49.30183,32.02194",
+    "geom:latitude":32.02194,
+    "geom:longitude":49.30183,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Seyyed Morteza",
+    "gn:country_code":"IR",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":140186,
+    "gn:latitude":32.02194,
+    "gn:longitude":49.30183,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Seyyed Morte\u1e95\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0631 \u0645\u0631\u062a\u0636\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Boneh-ye P\u012br Mortez\u0101",
+        "Deh-e P\u012br Morte\u1e95\u00e1",
+        "P\u012br Morte\u1e95\u00e1",
+        "\u0633\u06cc\u062f \u0645\u0631\u062a\u0636\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Seyyed Morte\u1e95\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140186
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b5df397c07207ca1c212998c8149e636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720229,
+            "locality_id":1343930669,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1343930669,
+    "wof:lastmodified":1537645851,
+    "wof:name":"Seyyed Morteza",
+    "wof:parent_id":1108720229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.30183,
+    32.02194,
+    49.30183,
+    32.02194
+],
+  "geometry": {"coordinates":[49.30183,32.02194],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209967131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.78056,29.68417,56.78056,29.68417",
+    "geom:latitude":29.68417,
+    "geom:longitude":56.78056,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Sang-e Sayyad",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":2359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":117455,
+    "gn:latitude":29.68417,
+    "gn:longitude":56.78056,
+    "gn:modification_date":"2010-08-09",
+    "gn:name":"Sang-e \u015eayy\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sang-e \u015eayy\u0101d"
+    ],
+    "name:und_x_variant":[
+        "Sang \u015eayy\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":117455
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4d7cc8616c3a28575e6135fee3d70c1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719879,
+            "locality_id":1209967131,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1209967131,
+    "wof:lastmodified":1537643546,
+    "wof:name":"Sang-e Sayyad",
+    "wof:parent_id":1108719879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.78056,
+    29.68417,
+    56.78056,
+    29.68417
+],
+  "geometry": {"coordinates":[56.78056,29.68417],"type":"Point"}
+}

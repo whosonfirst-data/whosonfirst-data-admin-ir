@@ -1,0 +1,77 @@
+{
+  "id": 1242750723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.0193,30.5389,50.0193,30.5389",
+    "geom:latitude":30.5389,
+    "geom:longitude":50.0193,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Pazanan",
+    "gn:country_code":"IR",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":121209,
+    "gn:latitude":30.5389,
+    "gn:longitude":50.0193,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"P\u0101zan\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0632\u0646\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "P\u0101 Zan\u0101n",
+        "P\u0101zan\u0101n"
+    ],
+    "name:und_x_variant":[
+        "P\u0101zan\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":121209
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f2e96e283b676280a618c52939857bd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720285,
+            "locality_id":1242750723,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1242750723,
+    "wof:lastmodified":1537643930,
+    "wof:name":"Pazanan",
+    "wof:parent_id":1108720285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.0193,
+    30.5389,
+    50.0193,
+    30.5389
+],
+  "geometry": {"coordinates":[50.0193,30.5389],"type":"Point"}
+}

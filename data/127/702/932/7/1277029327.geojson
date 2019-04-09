@@ -1,0 +1,73 @@
+{
+  "id": 1277029327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.25498,35.98719,54.25498,35.98719",
+    "geom:latitude":35.98719,
+    "geom:longitude":54.25498,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Sharifiyeh",
+    "gn:country_code":"IR",
+    "gn:dem":1121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":6947,
+    "gn:latitude":35.98719,
+    "gn:longitude":54.25498,
+    "gn:modification_date":"2012-02-01",
+    "gn:name":"Shar\u012bf\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Shar\u012bf\u012byeh"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u0631\u064a\u0641\u064a\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672309,
+        1108719937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6947
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0171dc2759245bd497d14cc0a9c18edd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719937,
+            "locality_id":1277029327,
+            "region_id":85672309
+        }
+    ],
+    "wof:id":1277029327,
+    "wof:lastmodified":1537640346,
+    "wof:name":"Sharifiyeh",
+    "wof:parent_id":1108719937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.25498,
+    35.98719000000001,
+    54.25498,
+    35.98719000000001
+],
+  "geometry": {"coordinates":[54.25498,35.98719000000001],"type":"Point"}
+}

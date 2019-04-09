@@ -1,0 +1,78 @@
+{
+  "id": 1242606131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.61039,32.98539,58.61039,32.98539",
+    "geom:latitude":32.98539,
+    "geom:longitude":58.61039,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Abdaleh",
+    "gn:country_code":"IR",
+    "gn:dem":1387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":145237,
+    "gn:latitude":32.98539,
+    "gn:longitude":58.61039,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"\u0100bdaleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0100bdaleh"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u0628 \u062f\u0644\u0647",
+        "\u0627\u0628\u062f\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "Audeleh",
+        "Abdaleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672391,
+        1108719895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145237
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8b6dca130b7bc34c0176970c4e2860bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719895,
+            "locality_id":1242606131,
+            "region_id":85672391
+        }
+    ],
+    "wof:id":1242606131,
+    "wof:lastmodified":1537646345,
+    "wof:name":"Abdaleh",
+    "wof:parent_id":1108719895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.61039,
+    32.98539,
+    58.61039,
+    32.98539
+],
+  "geometry": {"coordinates":[58.61039,32.98539],"type":"Point"}
+}

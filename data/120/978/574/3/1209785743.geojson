@@ -1,0 +1,77 @@
+{
+  "id": 1209785743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.1075,30.70434,49.1075,30.70434",
+    "geom:latitude":30.70434,
+    "geom:longitude":49.1075,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Maqtu`-e Vosta",
+    "gn:country_code":"IR",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":44978,
+    "gn:latitude":30.70434,
+    "gn:longitude":49.1075,
+    "gn:modification_date":"2016-11-13",
+    "gn:name":"Maq\u0163\u016b\u2018-e Vos\u0163\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0642\u0637\u0648\u0639 \u0648\u0633\u0637\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Maq\u0163\u016b\u2018-e M\u012b\u0101n\u012b",
+        "Maq\u0163\u016b\u2018-e Vost\u00e1"
+    ],
+    "name:und_x_variant":[
+        "Maq\u0163\u016b\u2018-e Vos\u0163\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":44978
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"96a9bd3db1bc06a2890a5d74a6e1c7f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719871,
+            "locality_id":1209785743,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1209785743,
+    "wof:lastmodified":1537642512,
+    "wof:name":"Maqtu`-e Vosta",
+    "wof:parent_id":1108719871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.1075,
+    30.70434,
+    49.1075,
+    30.70434
+],
+  "geometry": {"coordinates":[49.1075,30.70434],"type":"Point"}
+}

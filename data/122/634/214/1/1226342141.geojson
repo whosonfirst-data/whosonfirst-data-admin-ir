@@ -1,0 +1,71 @@
+{
+  "id": 1226342141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.66316,26.90866,60.66316,26.90866",
+    "geom:latitude":26.90866,
+    "geom:longitude":60.66316,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Surdan",
+    "gn:country_code":"IR",
+    "gn:dem":950,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7027276,
+    "gn:latitude":26.90866,
+    "gn:longitude":60.66316,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"S\u016brd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0633\u0648\u0631\u062f\u0627\u0646",
+        "S\u016brd\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7027276
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d51917f6aefb0c49a6ee9a4cb5ee01f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720063,
+            "locality_id":1226342141,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1226342141,
+    "wof:lastmodified":1537647903,
+    "wof:name":"Surdan",
+    "wof:parent_id":1108720063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.66316,
+    26.90866,
+    60.66316,
+    26.90866
+],
+  "geometry": {"coordinates":[60.66316,26.90866],"type":"Point"}
+}

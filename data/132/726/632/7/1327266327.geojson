@@ -1,0 +1,73 @@
+{
+  "id": 1327266327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.87585,27.86573,59.87585,27.86573",
+    "geom:latitude":27.86573,
+    "geom:longitude":59.87585,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Konar Sukht",
+    "gn:country_code":"IR",
+    "gn:dem":1029,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7049184,
+    "gn:latitude":27.86573,
+    "gn:longitude":59.87585,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kon\u0101r S\u016bkht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0646\u0627\u0631 \u0633\u0648\u062e\u062a"
+    ],
+    "name:fas_x_variant":[
+        "Kon\u0101r S\u016bkht"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7049184
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0610e6eacc1cee226db556d8e64ce95f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720063,
+            "locality_id":1327266327,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1327266327,
+    "wof:lastmodified":1537647941,
+    "wof:name":"Konar Sukht",
+    "wof:parent_id":1108720063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.87585,
+    27.86573,
+    59.87585,
+    27.86573
+],
+  "geometry": {"coordinates":[59.87585,27.86573],"type":"Point"}
+}

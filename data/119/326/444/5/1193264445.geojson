@@ -1,0 +1,67 @@
+{
+  "id": 1193264445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.53333,34.26667,46.53333,34.26667",
+    "geom:latitude":34.26667,
+    "geom:longitude":46.53333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Talani",
+    "gn:country_code":"IR",
+    "gn:dem":1742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":24774,
+    "gn:latitude":34.26667,
+    "gn:longitude":46.53333,
+    "gn:modification_date":"1998-03-18",
+    "gn:name":"T\u0101l\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108719983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":24774
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"59ddba4651db04c9205619e7f3914908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719983,
+            "locality_id":1193264445,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1193264445,
+    "wof:lastmodified":1536377393,
+    "wof:name":"Talani",
+    "wof:parent_id":1108719983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.53333,
+    34.26667,
+    46.53333,
+    34.26667
+],
+  "geometry": {"coordinates":[46.53333,34.26667],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1344103511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.74201,30.92339,56.74201,30.92339",
+    "geom:latitude":30.92339,
+    "geom:longitude":56.74201,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Khonak",
+    "gn:country_code":"IR",
+    "gn:dem":2022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":127381,
+    "gn:latitude":30.92339,
+    "gn:longitude":56.74201,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Khonak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062e\u0646\u06a9"
+    ],
+    "name:und_x_variant":[
+        "Khoonak",
+        "Khonk",
+        "Khonak",
+        "\u062e\u0646\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":127381
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1dab64a211e5c9014318d7774830ee63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720523,
+            "locality_id":1344103511,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1344103511,
+    "wof:lastmodified":1537644553,
+    "wof:name":"Khonak",
+    "wof:parent_id":1108720523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.74201,
+    30.92339,
+    56.74201,
+    30.92339
+],
+  "geometry": {"coordinates":[56.74201,30.92339],"type":"Point"}
+}

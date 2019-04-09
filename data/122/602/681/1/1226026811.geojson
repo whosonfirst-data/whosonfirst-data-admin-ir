@@ -1,0 +1,77 @@
+{
+  "id": 1226026811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.84028,35.075,46.84028,35.075",
+    "geom:latitude":35.075,
+    "geom:longitude":46.84028,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"La-ye Pol",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":1263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3852,
+    "gn:latitude":35.075,
+    "gn:longitude":46.84028,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"L\u0101-ye Pol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u06cc \u067e\u064f\u0644"
+    ],
+    "name:fas_x_variant":[
+        "L\u0101-ye Pol"
+    ],
+    "name:und_x_variant":[
+        "L\u0101y Pol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3852
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dc787d372dd50602c99cefb4b09ed2ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720379,
+            "locality_id":1226026811,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1226026811,
+    "wof:lastmodified":1537640277,
+    "wof:name":"La-ye Pol",
+    "wof:parent_id":1108720379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.84028,
+    35.075,
+    46.84028,
+    35.075
+],
+  "geometry": {"coordinates":[46.84028,35.075],"type":"Point"}
+}

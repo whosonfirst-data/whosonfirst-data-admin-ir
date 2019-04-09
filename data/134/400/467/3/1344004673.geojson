@@ -1,0 +1,74 @@
+{
+  "id": 1344004673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.41063,30.77859,55.41063,30.77859",
+    "geom:latitude":30.77859,
+    "geom:longitude":55.41063,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Mehrabad",
+    "gn:country_code":"IR",
+    "gn:dem":1402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":49264,
+    "gn:latitude":30.77859,
+    "gn:longitude":55.41063,
+    "gn:modification_date":"2013-02-07",
+    "gn:name":"Mehr\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Mehr\u0101b\u0101d"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0647\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":49264,
+        "wk:page":"Mehrabad,_Anar"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"03874965e2a3ca16bcb07c6f68264395",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720329,
+            "locality_id":1344004673,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1344004673,
+    "wof:lastmodified":1537642777,
+    "wof:name":"Mehrabad",
+    "wof:parent_id":1108720329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.41063000000001,
+    30.77859,
+    55.41063000000001,
+    30.77859
+],
+  "geometry": {"coordinates":[55.41063000000001,30.77859],"type":"Point"}
+}

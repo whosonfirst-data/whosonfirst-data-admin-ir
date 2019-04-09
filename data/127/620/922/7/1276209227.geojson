@@ -1,0 +1,76 @@
+{
+  "id": 1276209227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.30485,31.60836,50.30485,31.60836",
+    "geom:latitude":31.60836,
+    "geom:longitude":50.30485,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Lir Siah-e Bala",
+    "gn:country_code":"IR",
+    "gn:dem":994,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7565814,
+    "gn:latitude":31.60836,
+    "gn:longitude":50.30485,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"L\u012br S\u012b\u0101h-e B\u0101l\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "L\u012br S\u012b\u0101h-e B\u0101l\u0101"
+    ],
+    "name:fas_x_variant":[
+        "\u0644\u06cc\u0631 \u0633\u06cc\u0627\u0647 \u0628\u0627\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u0644\u06cc\u0631 \u0633\u06cc\u0627\u0647 \u0628\u0627\u0644\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7565814
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8b1f87686c5e6fabee6451dcd7cc7829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720067,
+            "locality_id":1276209227,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1276209227,
+    "wof:lastmodified":1537648357,
+    "wof:name":"Lir Siah-e Bala",
+    "wof:parent_id":1108720067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.30485,
+    31.60836,
+    50.30485,
+    31.60836
+],
+  "geometry": {"coordinates":[50.30485,31.60836],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276735399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.51933,32.60218,48.51933,32.60218",
+    "geom:latitude":32.60218,
+    "geom:longitude":48.51933,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Kakoreh",
+    "gn:country_code":"IR",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":128785,
+    "gn:latitude":32.60218,
+    "gn:longitude":48.51933,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"K\u0101koreh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "K\u0101n Korah"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0627\u06a9\u0631\u0647"
+    ],
+    "name:und_x_variant":[
+        "K\u0101h Korrah",
+        "Kahkoreh",
+        "K\u0101koreh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":128785
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ed8442a9ec88f5b42bed36979bed8385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719969,
+            "locality_id":1276735399,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1276735399,
+    "wof:lastmodified":1537644697,
+    "wof:name":"Kakoreh",
+    "wof:parent_id":1108719969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.51933,
+    32.60218,
+    48.51933,
+    32.60218
+],
+  "geometry": {"coordinates":[48.51933,32.60218],"type":"Point"}
+}

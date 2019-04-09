@@ -1,0 +1,79 @@
+{
+  "id": 1226718811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.56036,29.21193,51.56036,29.21193",
+    "geom:latitude":29.21193,
+    "geom:longitude":51.56036,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Sena",
+    "gn:country_code":"IR",
+    "gn:dem":826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":117580,
+    "gn:latitude":29.21193,
+    "gn:longitude":51.56036,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sen\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062b\u064e\u0646\u0627"
+    ],
+    "name:fas_x_variant":[
+        "Sen\u0101",
+        "\u0633\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "S\u0304an\u0101",
+        "Sen\u0101",
+        "\u0633\u0646\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108719951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":117580
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ef313ff61b3f3869d1216bb47d703e60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719951,
+            "locality_id":1226718811,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1226718811,
+    "wof:lastmodified":1537643557,
+    "wof:name":"Sena",
+    "wof:parent_id":1108719951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.56036,
+    29.21193,
+    51.56036,
+    29.21193
+],
+  "geometry": {"coordinates":[51.56036,29.21193],"type":"Point"}
+}

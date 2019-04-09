@@ -1,0 +1,67 @@
+{
+  "id": 1226674723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.75528,36.47306,60.75528,36.47306",
+    "geom:latitude":36.47306,
+    "geom:longitude":60.75528,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Kafar Qal'eh",
+    "gn:country_code":"IR",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1337258,
+    "gn:latitude":36.47306,
+    "gn:longitude":60.75528,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"K\u0101far Qal\u2019eh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337258
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"64c5aaa475e153e5115fb4d5714b26ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720387,
+            "locality_id":1226674723,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1226674723,
+    "wof:lastmodified":1536817083,
+    "wof:name":"Kafar Qal'eh",
+    "wof:parent_id":1108720387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.75528000000001,
+    36.47306,
+    60.75528000000001,
+    36.47306
+],
+  "geometry": {"coordinates":[60.75528000000001,36.47306],"type":"Point"}
+}

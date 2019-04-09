@@ -1,0 +1,73 @@
+{
+  "id": 1343480741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.96344,37.18286,49.96344,37.18286",
+    "geom:latitude":37.18286,
+    "geom:longitude":49.96344,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Muzi Kaleh",
+    "gn:country_code":"IR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11076159,
+    "gn:latitude":37.18286,
+    "gn:longitude":49.96344,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"M\u016bz\u012b Kaleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0632\u06cc \u06a9\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "M\u016bz\u012b Kaleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11076159
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"46115f1c95f4914f96424e4d84f4299c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720173,
+            "locality_id":1343480741,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1343480741,
+    "wof:lastmodified":1537648713,
+    "wof:name":"Muzi Kaleh",
+    "wof:parent_id":1108720173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.96344000000001,
+    37.18286,
+    49.96344000000001,
+    37.18286
+],
+  "geometry": {"coordinates":[49.96344000000001,37.18286],"type":"Point"}
+}

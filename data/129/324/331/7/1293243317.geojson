@@ -1,0 +1,75 @@
+{
+  "id": 1293243317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.0351,33.6781,51.0351,33.6781",
+    "geom:latitude":33.6781,
+    "geom:longitude":51.0351,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Tajareh",
+    "gn:country_code":"IR",
+    "gn:dem":2182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":113539,
+    "gn:latitude":33.6781,
+    "gn:longitude":51.0351,
+    "gn:modification_date":"2018-07-22",
+    "gn:name":"Tajareh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u062c\u0631\u0647"
+    ],
+    "name:und_x_variant":[
+        "Tejrah",
+        "Tajareh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":113539,
+        "wk:page":"Tajareh,_Barzok"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1d261870d2fc2f60c215beb03636ec67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720109,
+            "locality_id":1293243317,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1293243317,
+    "wof:lastmodified":1537643196,
+    "wof:name":"Tajareh",
+    "wof:parent_id":1108720109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.0351,
+    33.6781,
+    51.0351,
+    33.6781
+],
+  "geometry": {"coordinates":[51.0351,33.6781],"type":"Point"}
+}

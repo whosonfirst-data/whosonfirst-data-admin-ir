@@ -1,0 +1,73 @@
+{
+  "id": 1293245801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.29057,36.5,52.29057,36.5",
+    "geom:latitude":36.5,
+    "geom:longitude":52.29057,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Cha'u Sar Mahalleh",
+    "gn:country_code":"IR",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8835,
+    "gn:latitude":36.5,
+    "gn:longitude":52.29057,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Ch\u0101\u2019\u016b Sar Ma\u1e29alleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0626\u0648 \u0633\u0631 \u0645\u062d\u0644\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Ch\u0101\u2019\u016b Sar Ma\u1e29alleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8835
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"16d36d9b796d54ef4bf5bcb97b2b1f24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719807,
+            "locality_id":1293245801,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1293245801,
+    "wof:lastmodified":1537640460,
+    "wof:name":"Cha'u Sar Mahalleh",
+    "wof:parent_id":1108719807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.29057,
+    36.5,
+    52.29057,
+    36.5
+],
+  "geometry": {"coordinates":[52.29057,36.5],"type":"Point"}
+}

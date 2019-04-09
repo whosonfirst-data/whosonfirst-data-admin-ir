@@ -1,0 +1,73 @@
+{
+  "id": 1360235783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.0738,33.6911,52.0738,33.6911",
+    "geom:latitude":33.6911,
+    "geom:longitude":52.0738,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Afsahiyeh",
+    "gn:country_code":"IR",
+    "gn:dem":976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6903480,
+    "gn:latitude":33.6911,
+    "gn:longitude":52.0738,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Af\u015fa\u1e29\u012byeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0627\u0641\u0635\u062d\u06cc\u0651\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Af\u015fa\u1e29\u012byeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6903480
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"48381cba3d5527f9978aa6b72015ee8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720267,
+            "locality_id":1360235783,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1360235783,
+    "wof:lastmodified":1537647697,
+    "wof:name":"Afsahiyeh",
+    "wof:parent_id":1108720267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.0738,
+    33.6911,
+    52.0738,
+    33.6911
+],
+  "geometry": {"coordinates":[52.0738,33.6911],"type":"Point"}
+}

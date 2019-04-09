@@ -1,0 +1,77 @@
+{
+  "id": 1225789563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.70394,36.57666,51.70394,36.57666",
+    "geom:latitude":36.57666,
+    "geom:longitude":51.70394,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Hamzeh Deh-e Sofla",
+    "gn:country_code":"IR",
+    "gn:dem":-7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8908,
+    "gn:latitude":36.57666,
+    "gn:longitude":51.70394,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"\u1e28amzeh Deh-e Sofl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0645\u0632\u0647 \u062f\u0647 \u067e\u0627\u0626\u064a\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28amzeh Deh-e P\u0101\u2019\u012bn",
+        "\u062d\u0645\u0632\u0647 \u062f\u0647 \u0633\u0641\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u1e28amzeh Deh-e Sofl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8908
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"57458b7221fbb84103db56a6a9644cd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720281,
+            "locality_id":1225789563,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1225789563,
+    "wof:lastmodified":1537640466,
+    "wof:name":"Hamzeh Deh-e Sofla",
+    "wof:parent_id":1108720281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.70394,
+    36.57666,
+    51.70394,
+    36.57666
+],
+  "geometry": {"coordinates":[51.70394,36.57666],"type":"Point"}
+}

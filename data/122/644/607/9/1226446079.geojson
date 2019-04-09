@@ -1,0 +1,74 @@
+{
+  "id": 1226446079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.75,38.6,44.75,38.6",
+    "geom:latitude":38.6,
+    "geom:longitude":44.75,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Azhdarabad",
+    "gn:country_code":"IR",
+    "gn:dem":1745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":40625,
+    "gn:latitude":38.6,
+    "gn:longitude":44.75,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Azhdar\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Azhdar\u0101b\u0101d"
+    ],
+    "name:und_x_variant":[
+        "M\u012br\u0101b\u0101d",
+        "Ba\u0163ch\u012b-ye P\u0101\u2019\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":40625
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bcc64846f9c3b0e99f837934120bcdb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720153,
+            "locality_id":1226446079,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1226446079,
+    "wof:lastmodified":1537642287,
+    "wof:name":"Azhdarabad",
+    "wof:parent_id":1108720153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.75,
+    38.6,
+    44.75,
+    38.6
+],
+  "geometry": {"coordinates":[44.75,38.6],"type":"Point"}
+}

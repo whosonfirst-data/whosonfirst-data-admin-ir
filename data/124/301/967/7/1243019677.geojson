@@ -1,0 +1,84 @@
+{
+  "id": 1243019677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.87892,36.45422,49.87892,36.45422",
+    "geom:latitude":36.45422,
+    "geom:longitude":49.87892,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Kagajin",
+    "gn:country_code":"IR",
+    "gn:dem":1780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":129591,
+    "gn:latitude":36.45422,
+    "gn:longitude":49.87892,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Kagaj\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0643\u062c\u064a\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Kakaj\u012bn",
+        "\u06a9\u06af\u062c\u06cc\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kakj\u012bn",
+        "Kakchin",
+        "Kakadzha",
+        "K\u0101k\u0101zh\u012bn",
+        "K\u0101k\u0101jia",
+        "Kak\u0101jey\u0101",
+        "Kagaj\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108720315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":129591,
+        "wk:page":"Kakajin"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d93ddc0dc5359f0ebedf639d2802617a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720315,
+            "locality_id":1243019677,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1243019677,
+    "wof:lastmodified":1537644775,
+    "wof:name":"Kagajin",
+    "wof:parent_id":1108720315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.87892,
+    36.45422,
+    49.87892,
+    36.45422
+],
+  "geometry": {"coordinates":[49.87892,36.45422],"type":"Point"}
+}

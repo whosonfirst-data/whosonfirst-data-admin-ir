@@ -1,0 +1,76 @@
+{
+  "id": 1226746243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.7686,30.9041,50.7686,30.9041",
+    "geom:latitude":30.9041,
+    "geom:longitude":50.7686,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Savari",
+    "gn:country_code":"IR",
+    "gn:dem":1576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":116671,
+    "gn:latitude":30.9041,
+    "gn:longitude":50.7686,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sav\u0101r\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sav\u0101r\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0648\u0627\u0631\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0633\u0648\u0627\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":116671
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4e1b6ed2154014f3e040f1cbd2b9e3b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1226746243,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1226746243,
+    "wof:lastmodified":1537643465,
+    "wof:name":"Savari",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.7686,
+    30.9041,
+    50.7686,
+    30.9041
+],
+  "geometry": {"coordinates":[50.7686,30.9041],"type":"Point"}
+}

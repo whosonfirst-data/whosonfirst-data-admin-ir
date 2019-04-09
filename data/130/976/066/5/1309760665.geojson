@@ -1,0 +1,73 @@
+{
+  "id": 1309760665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.27083,35.79709,52.27083,35.79709",
+    "geom:latitude":35.79709,
+    "geom:longitude":52.27083,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Sang Siah",
+    "gn:country_code":"IR",
+    "gn:dem":2738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8441653,
+    "gn:latitude":35.79709,
+    "gn:longitude":52.27083,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Sang S\u012b\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u06af \u0633\u064a\u0627\u0647"
+    ],
+    "name:und_x_variant":[
+        "Sang S\u012b\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672313,
+        1108720011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8441653
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4a2503febc4b636947d0f85f2c176c7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720011,
+            "locality_id":1309760665,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1309760665,
+    "wof:lastmodified":1537648562,
+    "wof:name":"Sang Siah",
+    "wof:parent_id":1108720011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.27083,
+    35.79709000000001,
+    52.27083,
+    35.79709000000001
+],
+  "geometry": {"coordinates":[52.27083,35.79709000000001],"type":"Point"}
+}

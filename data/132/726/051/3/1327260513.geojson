@@ -1,0 +1,77 @@
+{
+  "id": 1327260513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.5897,36.99666,57.5897,36.99666",
+    "geom:latitude":36.99666,
+    "geom:longitude":57.5897,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Izi",
+    "gn:country_code":"IR",
+    "gn:dem":1264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":134998,
+    "gn:latitude":36.99666,
+    "gn:longitude":57.5897,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"\u012az\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u012az\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u06cc\u0632\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Eyz\u012b",
+        "\u0627\u06cc\u0632\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672401,
+        1108719979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":134998
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"562625657049f41229952d83d1bddfdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719979,
+            "locality_id":1327260513,
+            "region_id":85672401
+        }
+    ],
+    "wof:id":1327260513,
+    "wof:lastmodified":1537645327,
+    "wof:name":"Izi",
+    "wof:parent_id":1108719979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.5897,
+    36.99666,
+    57.5897,
+    36.99666
+],
+  "geometry": {"coordinates":[57.5897,36.99666],"type":"Point"}
+}

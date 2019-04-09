@@ -1,0 +1,73 @@
+{
+  "id": 1225827895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.01439,32.56098,48.01439,32.56098",
+    "geom:latitude":32.56098,
+    "geom:longitude":48.01439,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Hirali",
+    "gn:country_code":"IR",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11032574,
+    "gn:latitude":32.56098,
+    "gn:longitude":48.01439,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"H\u012br\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u0631\u0627\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "H\u012br\u0101l\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11032574
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f25229d7b3a309983f14641b29d57b8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719811,
+            "locality_id":1225827895,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1225827895,
+    "wof:lastmodified":1537648696,
+    "wof:name":"Hirali",
+    "wof:parent_id":1108719811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.01439,
+    32.56098,
+    48.01439,
+    32.56098
+],
+  "geometry": {"coordinates":[48.01439,32.56098],"type":"Point"}
+}

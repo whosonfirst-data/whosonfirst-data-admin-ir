@@ -1,0 +1,79 @@
+{
+  "id": 1293261053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.6288,28.5273,51.6288,28.5273",
+    "geom:latitude":28.5273,
+    "geom:longitude":51.6288,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Keshtu",
+    "gn:country_code":"IR",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":128443,
+    "gn:latitude":28.5273,
+    "gn:longitude":51.6288,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Kesht\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0634\u062a\u0648"
+    ],
+    "name:fas_x_variant":[
+        "\u0643\u064e\u0634\u062a\u0648",
+        "Kesht\u016b"
+    ],
+    "name:und_x_variant":[
+        "Kashti",
+        "Kasht\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108719953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":128443,
+        "wk:page":"Keshtu"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a91ed93aa541cd3dee65bde1e5d231ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719953,
+            "locality_id":1293261053,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1293261053,
+    "wof:lastmodified":1537644664,
+    "wof:name":"Keshtu",
+    "wof:parent_id":1108719953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.6288,
+    28.5273,
+    51.6288,
+    28.5273
+],
+  "geometry": {"coordinates":[51.6288,28.5273],"type":"Point"}
+}

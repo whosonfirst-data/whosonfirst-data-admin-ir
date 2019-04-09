@@ -1,0 +1,76 @@
+{
+  "id": 1293882409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.8907,30.8072,50.8907,30.8072",
+    "geom:latitude":30.8072,
+    "geom:longitude":50.8907,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ab Anar-e Asiki",
+    "gn:country_code":"IR",
+    "gn:dem":1710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7490222,
+    "gn:latitude":30.8072,
+    "gn:longitude":50.8907,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"\u0100b An\u0101r-e As\u012bk\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0100b An\u0101r-e As\u012bk\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u0628 \u0627\u0646\u0627\u0631 \u0627\u0633\u06cc\u06a9\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0622\u0628 \u0627\u0646\u0627\u0631 \u0627\u0633\u06cc\u06a9\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7490222
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e9439c59adc79050a7e16c36b30bf779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1293882409,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1293882409,
+    "wof:lastmodified":1537648244,
+    "wof:name":"Ab Anar-e Asiki",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.8907,
+    30.8072,
+    50.8907,
+    30.8072
+],
+  "geometry": {"coordinates":[50.8907,30.8072],"type":"Point"}
+}

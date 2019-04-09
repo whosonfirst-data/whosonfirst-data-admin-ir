@@ -1,0 +1,79 @@
+{
+  "id": 1259840785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.38601,32.58859,50.38601,32.58859",
+    "geom:latitude":32.58859,
+    "geom:longitude":50.38601,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Kandha",
+    "gn:country_code":"IR",
+    "gn:dem":2229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":139068,
+    "gn:latitude":32.58859,
+    "gn:longitude":50.38601,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kandh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Chandh\u0101"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u064e\u0646\u062f\u0650\u200c\u0647\u064e\u0627",
+        "Kandh\u0101",
+        "\u06a9\u0646\u062f\u0647\u0627"
+    ],
+    "name:und_x_variant":[
+        "Chandeh\u0101",
+        "\u06a9\u0646\u062f\u0647\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108719921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":139068
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"8a954524a1d413f15d3bc5f69750c24c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719921,
+            "locality_id":1259840785,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1259840785,
+    "wof:lastmodified":1537645739,
+    "wof:name":"Kandha",
+    "wof:parent_id":1108719921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.38601,
+    32.58859,
+    50.38601,
+    32.58859
+],
+  "geometry": {"coordinates":[50.38601,32.58859],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1310657799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.40222,35.24141,52.40222,35.24141",
+    "geom:latitude":35.24141,
+    "geom:longitude":52.40222,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Hajjiabad",
+    "gn:country_code":"IR",
+    "gn:dem":910,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":132318,
+    "gn:latitude":35.24141,
+    "gn:longitude":52.40222,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u1e28\u0101jj\u012b\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0627\u062c\u0651\u064a\u0627\u0628\u0627\u062f\u0650 \u0622\u062a\u064e\u0634\u06af\u0627\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u062d\u0627\u062c\u06cc \u0622\u0628\u0627\u062f",
+        "\u0647\u0627\u062c\u06cc \u0622\u0628\u0627\u062f",
+        "\u1e28\u0101jj\u012b\u0101b\u0101d-e \u0100tashg\u0101h",
+        "\u1e28\u0101jj\u012b\u0101b\u0101d"
+    ],
+    "name:und_x_variant":[
+        "H\u0101j\u012b \u0100b\u0101d",
+        "\u1e28\u0101jj\u012b\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672309,
+        1108720023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":132318,
+        "wk:page":"Hajjiabad-e_Atashgah"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"34fb69a6e5d0805d55867a90dacf71e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720023,
+            "locality_id":1310657799,
+            "region_id":85672309
+        }
+    ],
+    "wof:id":1310657799,
+    "wof:lastmodified":1537645055,
+    "wof:name":"Hajjiabad",
+    "wof:parent_id":1108720023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.40222,
+    35.24140999999999,
+    52.40222,
+    35.24140999999999
+],
+  "geometry": {"coordinates":[52.40222,35.24140999999999],"type":"Point"}
+}

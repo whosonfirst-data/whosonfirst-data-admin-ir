@@ -1,0 +1,74 @@
+{
+  "id": 1327395235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.2995,33.2577,52.2995,33.2577",
+    "geom:latitude":33.2577,
+    "geom:longitude":52.2995,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Boruni",
+    "gn:country_code":"IR",
+    "gn:dem":1719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8958,
+    "gn:latitude":33.2577,
+    "gn:longitude":52.2995,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bor\u016bn\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0648\u0646\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Bor\u016bn\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108719825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8958,
+        "wk:page":"Boruni"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fcfb41109e383f33c5e71365a3d00a2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719825,
+            "locality_id":1327395235,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1327395235,
+    "wof:lastmodified":1537640469,
+    "wof:name":"Boruni",
+    "wof:parent_id":1108719825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.2995,
+    33.2577,
+    52.2995,
+    33.2577
+],
+  "geometry": {"coordinates":[52.2995,33.2577],"type":"Point"}
+}

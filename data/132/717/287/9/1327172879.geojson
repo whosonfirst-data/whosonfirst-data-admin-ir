@@ -1,0 +1,73 @@
+{
+  "id": 1327172879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.55259,36.97039,54.55259,36.97039",
+    "geom:latitude":36.97039,
+    "geom:longitude":54.55259,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Sistan Mahalleh",
+    "gn:country_code":"IR",
+    "gn:dem":-4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7335081,
+    "gn:latitude":36.97039,
+    "gn:longitude":54.55259,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"S\u012bst\u0101n Ma\u1e29alleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "S\u012bst\u0101n Ma\u1e29alleh"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u06cc\u0633\u062a\u0627\u0646 \u0645\u062d\u0651\u0644\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108719813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7335081
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"900cfa20944e964b8d104c7f21ebf796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719813,
+            "locality_id":1327172879,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1327172879,
+    "wof:lastmodified":1537648118,
+    "wof:name":"Sistan Mahalleh",
+    "wof:parent_id":1108719813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.55259,
+    36.97039,
+    54.55259,
+    36.97039
+],
+  "geometry": {"coordinates":[54.55259,36.97039],"type":"Point"}
+}

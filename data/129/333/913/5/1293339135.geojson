@@ -1,0 +1,67 @@
+{
+  "id": 1293339135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.7,38.21667,48.7,38.21667",
+    "geom:latitude":38.21667,
+    "geom:longitude":48.7,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Khvar",
+    "gn:country_code":"IR",
+    "gn:dem":1914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":127041,
+    "gn:latitude":38.21667,
+    "gn:longitude":48.7,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Khvar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":127041
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"811df0164805bc75c64c5f95b6d86555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720487,
+            "locality_id":1293339135,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1293339135,
+    "wof:lastmodified":1537000292,
+    "wof:name":"Khvar",
+    "wof:parent_id":1108720487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.7,
+    38.21667,
+    48.7,
+    38.21667
+],
+  "geometry": {"coordinates":[48.7,38.21667],"type":"Point"}
+}

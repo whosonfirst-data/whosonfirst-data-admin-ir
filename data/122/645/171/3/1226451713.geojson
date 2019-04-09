@@ -1,0 +1,79 @@
+{
+  "id": 1226451713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.6073,37.7834,44.6073,37.7834",
+    "geom:latitude":37.7834,
+    "geom:longitude":44.6073,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Bardehzi",
+    "gn:country_code":"IR",
+    "gn:dem":1764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":20973,
+    "gn:latitude":37.7834,
+    "gn:longitude":44.6073,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Bardehz\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u064e\u0631\u062f\u064e\u0632\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u064e\u0631\u062f\u064a\u0632\u06cc",
+        "\u0628\u0631\u062f\u0647 \u0632\u06cc",
+        "Bard\u012bz\u012b",
+        "Bardehz\u012b"
+    ],
+    "name:und_x_variant":[
+        "Bardaz\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":20973
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c7ca7690f2b22e38eb0f93428d68b87c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720289,
+            "locality_id":1226451713,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1226451713,
+    "wof:lastmodified":1537641051,
+    "wof:name":"Bardehzi",
+    "wof:parent_id":1108720289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.6073,
+    37.7834,
+    44.6073,
+    37.7834
+],
+  "geometry": {"coordinates":[44.6073,37.7834],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1226092247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.78907,29.8149,55.78907,29.8149",
+    "geom:latitude":29.8149,
+    "geom:longitude":55.78907,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Pesujan",
+    "gn:country_code":"IR",
+    "gn:dem":2169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":121279,
+    "gn:latitude":29.8149,
+    "gn:longitude":55.78907,
+    "gn:modification_date":"2013-08-04",
+    "gn:name":"Pes\u016bj\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0633\u0648\u062c\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Pes\u016bj\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Pasoojan",
+        "Pas\u016bj\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":121279
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"aa4ced6167dd5ffdec92593783a95b1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720461,
+            "locality_id":1226092247,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1226092247,
+    "wof:lastmodified":1537643938,
+    "wof:name":"Pesujan",
+    "wof:parent_id":1108720461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.78907,
+    29.8149,
+    55.78907,
+    29.8149
+],
+  "geometry": {"coordinates":[55.78907,29.8149],"type":"Point"}
+}

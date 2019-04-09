@@ -1,0 +1,77 @@
+{
+  "id": 1209584209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.44004,33.35594,49.44004,33.35594",
+    "geom:latitude":33.35594,
+    "geom:longitude":49.44004,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Donbaleh Kun",
+    "gn:country_code":"IR",
+    "gn:dem":1913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":136055,
+    "gn:latitude":33.35594,
+    "gn:longitude":49.44004,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Donb\u0101leh K\u016bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0648 \u0628\u0644\u0648\u06a9\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Do Mol\u016bk\u0101n",
+        "Do Bol\u016bk\u0101n",
+        "\u062f\u0646\u0628\u0627\u0644\u0647 \u06a9\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Dombaleh K\u016bh",
+        "Dumalik\u0101n",
+        "Dow Malk\u0101n",
+        "Dow Bol\u016bk\u0101n",
+        "Donb\u0101leh K\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":136055,
+        "wk:page":"Do_Bolukan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1c2b520ce8f23ed8bbb806b29d073db5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209584209
+        }
+    ],
+    "wof:id":1209584209,
+    "wof:lastmodified":1537645434,
+    "wof:name":"Donbaleh Kun",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.44004,
+    33.35594,
+    49.44004,
+    33.35594
+],
+  "geometry": {"coordinates":[49.44004,33.35594],"type":"Point"}
+}

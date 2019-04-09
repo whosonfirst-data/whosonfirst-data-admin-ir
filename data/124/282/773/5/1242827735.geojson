@@ -1,0 +1,73 @@
+{
+  "id": 1242827735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.28045,36.04164,53.28045,36.04164",
+    "geom:latitude":36.04164,
+    "geom:longitude":53.28045,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Kolah Basut",
+    "gn:country_code":"IR",
+    "gn:dem":1581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7101090,
+    "gn:latitude":36.04164,
+    "gn:longitude":53.28045,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kol\u0101h Bas\u016bt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u06a9\u0644\u0627\u0647 \u0628\u0633\u0648\u062a"
+    ],
+    "name:fas_x_variant":[
+        "Kol\u0101h Bas\u016bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7101090
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c5d4f4a22c468f7bfb1713eb274f97df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720401,
+            "locality_id":1242827735,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1242827735,
+    "wof:lastmodified":1537648072,
+    "wof:name":"Kolah Basut",
+    "wof:parent_id":1108720401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.28045,
+    36.04164,
+    53.28045,
+    36.04164
+],
+  "geometry": {"coordinates":[53.28045,36.04164],"type":"Point"}
+}

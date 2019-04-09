@@ -1,0 +1,73 @@
+{
+  "id": 1209724869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.5652,37.9368,44.5652,37.9368",
+    "geom:latitude":37.9368,
+    "geom:longitude":44.5652,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Vadi Karan",
+    "gn:country_code":"IR",
+    "gn:dem":2269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6676380,
+    "gn:latitude":37.9368,
+    "gn:longitude":44.5652,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"V\u0101d\u012b Kar\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u062f\u06cc \u06a9\u0631\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "V\u0101d\u012b Kar\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6676380
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c91cd5595ba9df7a7e245598cd8d1ab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720289,
+            "locality_id":1209724869,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1209724869,
+    "wof:lastmodified":1537647318,
+    "wof:name":"Vadi Karan",
+    "wof:parent_id":1108720289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.5652,
+    37.9368,
+    44.5652,
+    37.9368
+],
+  "geometry": {"coordinates":[44.5652,37.9368],"type":"Point"}
+}

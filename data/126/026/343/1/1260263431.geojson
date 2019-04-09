@@ -1,0 +1,73 @@
+{
+  "id": 1260263431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.0773,27.1725,57.0773,27.1725",
+    "geom:latitude":27.1725,
+    "geom:longitude":57.0773,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sanjari",
+    "gn:country_code":"IR",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6654820,
+    "gn:latitude":27.1725,
+    "gn:longitude":57.0773,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Sanjar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062c\u0631\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Sanjar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6654820
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7db622a110f1209bdfb331f7950a2d08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720243,
+            "locality_id":1260263431,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1260263431,
+    "wof:lastmodified":1537647247,
+    "wof:name":"Sanjari",
+    "wof:parent_id":1108720243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.0773,
+    27.1725,
+    57.0773,
+    27.1725
+],
+  "geometry": {"coordinates":[57.0773,27.1725],"type":"Point"}
+}

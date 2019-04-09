@@ -1,0 +1,73 @@
+{
+  "id": 1193109893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.3814,32.80095,48.3814,32.80095",
+    "geom:latitude":32.80095,
+    "geom:longitude":48.3814,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Pir Vali",
+    "gn:country_code":"IR",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6688076,
+    "gn:latitude":32.80095,
+    "gn:longitude":48.3814,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"P\u012br V\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u064a\u0631 \u0648\u0627\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "P\u012br V\u0101l\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6688076
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0295b3617dc9db18f3b41ac46b746581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719811,
+            "locality_id":1193109893,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1193109893,
+    "wof:lastmodified":1537647417,
+    "wof:name":"Pir Vali",
+    "wof:parent_id":1108719811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.3814,
+    32.80095,
+    48.3814,
+    32.80095
+],
+  "geometry": {"coordinates":[48.3814,32.80095],"type":"Point"}
+}

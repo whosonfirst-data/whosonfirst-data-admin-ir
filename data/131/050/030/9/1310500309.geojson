@@ -1,0 +1,78 @@
+{
+  "id": 1310500309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.73419,31.01904,50.73419,31.01904",
+    "geom:latitude":31.01904,
+    "geom:longitude":50.73419,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Nesa' Par Soltan",
+    "gn:country_code":"IR",
+    "gn:dem":1600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7529605,
+    "gn:latitude":31.01904,
+    "gn:longitude":50.73419,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Nes\u0101\u2019 Par Sol\u0163\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Nes\u0101\u2019 Par Sol\u0163\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u0633\u0627\u0621 \u067e\u0631 \u0633\u0644\u0637\u0627\u0646",
+        "\u0633\u0644\u0637\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0646\u0633\u0627\u0621 \u067e\u0631 \u0633\u0644\u0637\u0627\u0646",
+        "Sol\u0163\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108719911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7529605
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6dffef06a50a65023669d7b17987b943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719911,
+            "locality_id":1310500309,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1310500309,
+    "wof:lastmodified":1537648306,
+    "wof:name":"Nesa' Par Soltan",
+    "wof:parent_id":1108719911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.73419000000001,
+    31.01904,
+    50.73419000000001,
+    31.01904
+],
+  "geometry": {"coordinates":[50.73419000000001,31.01904],"type":"Point"}
+}

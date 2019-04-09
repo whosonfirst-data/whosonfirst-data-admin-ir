@@ -1,0 +1,73 @@
+{
+  "id": 1293041067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.38076,36.07446,53.38076,36.07446",
+    "geom:latitude":36.07446,
+    "geom:longitude":53.38076,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Sar Sal-e Ab Bon",
+    "gn:country_code":"IR",
+    "gn:dem":1708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7101107,
+    "gn:latitude":36.07446,
+    "gn:longitude":53.38076,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Sar Sal-e \u0100b Bon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631 \u0633\u0644 \u0622\u0628 \u0628\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Sar Sal-e \u0100b Bon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7101107
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a1aae4590865a7a4d3367bafcabc49de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720401,
+            "locality_id":1293041067,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1293041067,
+    "wof:lastmodified":1537648072,
+    "wof:name":"Sar Sal-e Ab Bon",
+    "wof:parent_id":1108720401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.38076,
+    36.07446,
+    53.38076,
+    36.07446
+],
+  "geometry": {"coordinates":[53.38076,36.07446],"type":"Point"}
+}

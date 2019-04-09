@@ -1,0 +1,73 @@
+{
+  "id": 1243515505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.26985,30.50517,57.26985,30.50517",
+    "geom:latitude":30.50517,
+    "geom:longitude":57.26985,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Deh-e Lulu",
+    "gn:country_code":"IR",
+    "gn:dem":2015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7109934,
+    "gn:latitude":30.50517,
+    "gn:longitude":57.26985,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Deh-e L\u016bl\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647 \u0644\u0648\u0644\u0648"
+    ],
+    "name:fas_x_variant":[
+        "Deh-e L\u016bl\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7109934
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ba880e0df650a0d674527fcd736a8b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720115,
+            "locality_id":1243515505,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1243515505,
+    "wof:lastmodified":1537648092,
+    "wof:name":"Deh-e Lulu",
+    "wof:parent_id":1108720115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.26985,
+    30.50517,
+    57.26985,
+    30.50517
+],
+  "geometry": {"coordinates":[57.26985,30.50517],"type":"Point"}
+}

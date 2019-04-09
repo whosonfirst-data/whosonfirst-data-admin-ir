@@ -1,0 +1,74 @@
+{
+  "id": 1243143331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.3533,34.8753,46.3533,34.8753",
+    "geom:latitude":34.8753,
+    "geom:longitude":46.3533,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Sefid Barg",
+    "gn:country_code":"IR",
+    "gn:dem":1042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":116544,
+    "gn:latitude":34.8753,
+    "gn:longitude":46.3533,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Sef\u012bd Barg",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0641\u064a\u062f \u0628\u0631\u06af"
+    ],
+    "name:fas_x_variant":[
+        "Sef\u012bd Barg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":116544,
+        "wk:page":"Sefid_Barg"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ace53799fdf181e0f58343947075e8fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720079,
+            "locality_id":1243143331,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1243143331,
+    "wof:lastmodified":1537643458,
+    "wof:name":"Sefid Barg",
+    "wof:parent_id":1108720079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.3533,
+    34.8753,
+    46.3533,
+    34.8753
+],
+  "geometry": {"coordinates":[46.3533,34.8753],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1293045261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"53.62856,36.5881,53.62856,36.5881",
+    "geom:latitude":36.5881,
+    "geom:longitude":53.62856,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Rudbar",
+    "gn:country_code":"IR",
+    "gn:dem":666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":385640,
+    "gn:latitude":36.5881,
+    "gn:longitude":53.62856,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"R\u016bdb\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u062f\u0628\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "R\u016bdb\u0101r Yakhkesh",
+        "R\u016bdb\u0101r",
+        "\u0631\u0648\u062f\u0628\u0627\u0631 \u064a\u062e\u0643\u0634"
+    ],
+    "name:und_x_variant":[
+        "R\u016bdb\u0101r",
+        "\u0631\u0648\u062f\u0628\u0627\u0631 \u064a\u062e\u0643\u0634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":385640,
+        "wk:page":"Rudbar_Yakhkesh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dbfc607d51acba1fdd9b4fd87ddc1b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720275,
+            "locality_id":1293045261,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1293045261,
+    "wof:lastmodified":1537646434,
+    "wof:name":"Rudbar",
+    "wof:parent_id":1108720275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    53.62856,
+    36.5881,
+    53.62856,
+    36.5881
+],
+  "geometry": {"coordinates":[53.62856,36.5881],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243387079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.63028,26.2,60.63028,26.2",
+    "geom:latitude":26.2,
+    "geom:longitude":60.63028,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Goshan",
+    "gn:cc2":"IR",
+    "gn:country_code":"IR",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1161095,
+    "gn:latitude":26.2,
+    "gn:longitude":60.63028,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Goshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gash\u0101n",
+        "Gojan",
+        "Goshan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1161095
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"f7f29cdfa5969ebf0cff3af07d0e6c02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720271,
+            "locality_id":1243387079,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1243387079,
+    "wof:lastmodified":1537647093,
+    "wof:name":"Goshan",
+    "wof:parent_id":1108720271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.63028000000001,
+    26.2,
+    60.63028000000001,
+    26.2
+],
+  "geometry": {"coordinates":[60.63028000000001,26.2],"type":"Point"}
+}

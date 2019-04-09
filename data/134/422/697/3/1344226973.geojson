@@ -1,0 +1,67 @@
+{
+  "id": 1344226973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.21167,30.97889,48.21167,30.97889",
+    "geom:latitude":30.97889,
+    "geom:longitude":48.21167,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ahu",
+    "gn:country_code":"IR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":403634,
+    "gn:latitude":30.97889,
+    "gn:longitude":48.21167,
+    "gn:modification_date":"1996-12-30",
+    "gn:name":"\u0100h\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":403634
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"9d38ea11f270e1b849df1342c48233db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719793,
+            "locality_id":1344226973,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1344226973,
+    "wof:lastmodified":1536634112,
+    "wof:name":"Ahu",
+    "wof:parent_id":1108719793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.21167,
+    30.97889,
+    48.21167,
+    30.97889
+],
+  "geometry": {"coordinates":[48.21167,30.97889],"type":"Point"}
+}

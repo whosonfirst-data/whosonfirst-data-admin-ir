@@ -1,0 +1,77 @@
+{
+  "id": 1310089607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.94675,35.17963,48.94675,35.17963",
+    "geom:latitude":35.17963,
+    "geom:longitude":48.94675,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Saravak",
+    "gn:country_code":"IR",
+    "gn:dem":1673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":117241,
+    "gn:latitude":35.17963,
+    "gn:longitude":48.94675,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Sar\u0101vak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u0627\u0648\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "Sar\u0101vak"
+    ],
+    "name:und_x_variant":[
+        "Sar\u0101bak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":117241,
+        "wk:page":"Saravak"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"aa38d8d1abe3f15513e68c58264b5528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720047,
+            "locality_id":1310089607,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1310089607,
+    "wof:lastmodified":1537643520,
+    "wof:name":"Saravak",
+    "wof:parent_id":1108720047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.94675,
+    35.17963,
+    48.94675,
+    35.17963
+],
+  "geometry": {"coordinates":[48.94675,35.17963],"type":"Point"}
+}

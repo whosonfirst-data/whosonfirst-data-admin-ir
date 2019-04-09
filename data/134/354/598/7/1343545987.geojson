@@ -1,0 +1,76 @@
+{
+  "id": 1343545987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.61903,36.88917,49.61903,36.88917",
+    "geom:latitude":36.88917,
+    "geom:longitude":49.61903,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Larneh",
+    "gn:country_code":"IR",
+    "gn:dem":1268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7431973,
+    "gn:latitude":36.88917,
+    "gn:longitude":49.61903,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"L\u0101rneh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "L\u0101rneh"
+    ],
+    "name:fas_x_variant":[
+        "\u0644\u0627\u0631\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0644\u0627\u0631\u0646\u0647"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7431973
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e64d573c4b66a47c0f8d4082f78f2096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720361,
+            "locality_id":1343545987,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1343545987,
+    "wof:lastmodified":1537648201,
+    "wof:name":"Larneh",
+    "wof:parent_id":1108720361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.61903,
+    36.88917,
+    49.61903,
+    36.88917
+],
+  "geometry": {"coordinates":[49.61903,36.88917],"type":"Point"}
+}

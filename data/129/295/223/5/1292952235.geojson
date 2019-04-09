@@ -1,0 +1,77 @@
+{
+  "id": 1292952235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.58452,35.51002,49.58452,35.51002",
+    "geom:latitude":35.51002,
+    "geom:longitude":49.58452,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Danak",
+    "gn:country_code":"IR",
+    "gn:dem":2010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":138002,
+    "gn:latitude":35.51002,
+    "gn:longitude":49.58452,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"D\u0101nak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0646\u0643"
+    ],
+    "name:fas_x_variant":[
+        "D\u0101nak"
+    ],
+    "name:und_x_variant":[
+        "Yal Karp\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108719913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":138002,
+        "wk:page":"Danak"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fa2e87d64926855073001f01c9bc1a57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719913,
+            "locality_id":1292952235,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1292952235,
+    "wof:lastmodified":1537645633,
+    "wof:name":"Danak",
+    "wof:parent_id":1108719913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.58452,
+    35.51002000000001,
+    49.58452,
+    35.51002000000001
+],
+  "geometry": {"coordinates":[49.58452,35.51002000000001],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343836633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.22334,33.73244,47.22334,33.73244",
+    "geom:latitude":33.73244,
+    "geom:longitude":47.22334,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Sar Cham",
+    "gn:country_code":"IR",
+    "gn:dem":933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":117188,
+    "gn:latitude":33.73244,
+    "gn:longitude":47.22334,
+    "gn:modification_date":"2018-07-12",
+    "gn:name":"Sar Cham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u064e\u0631 \u0686\u064e\u0645"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0631 \u0686\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108720453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":117188,
+        "wk:page":"Sar_Cham,_Ilam"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"671e0f7165f535155e77f69a42309ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720453,
+            "locality_id":1343836633,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1343836633,
+    "wof:lastmodified":1537643514,
+    "wof:name":"Sar Cham",
+    "wof:parent_id":1108720453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.22334,
+    33.73244,
+    47.22334,
+    33.73244
+],
+  "geometry": {"coordinates":[47.22334,33.73244],"type":"Point"}
+}

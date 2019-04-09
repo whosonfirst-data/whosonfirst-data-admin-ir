@@ -1,0 +1,74 @@
+{
+  "id": 1326558579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.53318,34.23805,60.53318,34.23805",
+    "geom:latitude":34.23805,
+    "geom:longitude":60.53318,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Chah Shur",
+    "gn:country_code":"IR",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7069225,
+    "gn:latitude":34.23805,
+    "gn:longitude":60.53318,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ch\u0101h Sh\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0647 \u0634\u0648\u0631"
+    ],
+    "name:fas_x_variant":[
+        "Ch\u0101h Sh\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7069225,
+        "wk:page":"Chah_Shur,_Khaf"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2e8c523d120cc20e5e3102afd6327c8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720119,
+            "locality_id":1326558579,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1326558579,
+    "wof:lastmodified":1537647993,
+    "wof:name":"Chah Shur",
+    "wof:parent_id":1108720119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.53318,
+    34.23805,
+    60.53318,
+    34.23805
+],
+  "geometry": {"coordinates":[60.53318,34.23805],"type":"Point"}
+}

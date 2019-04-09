@@ -1,0 +1,74 @@
+{
+  "id": 1209758577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.48901,37.33814,55.48901,37.33814",
+    "geom:latitude":37.33814,
+    "geom:longitude":55.48901,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Gilan Tappeh",
+    "gn:country_code":"IR",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11133526,
+    "gn:latitude":37.33814,
+    "gn:longitude":55.48901,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"G\u012bl\u0101n Tappeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06af\u06cc\u0644\u0627\u0646 \u062a\u067e\u0647"
+    ],
+    "name:und_x_variant":[
+        "G\u012bl\u0101n Tappeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672299,
+        1108720093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11133526,
+        "wk:page":"Gilan_Tappeh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d5f7c66eaa61c09c29bc5f263a975682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720093,
+            "locality_id":1209758577,
+            "region_id":85672299
+        }
+    ],
+    "wof:id":1209758577,
+    "wof:lastmodified":1537648728,
+    "wof:name":"Gilan Tappeh",
+    "wof:parent_id":1108720093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.48901,
+    37.33814,
+    55.48901,
+    37.33814
+],
+  "geometry": {"coordinates":[55.48901,37.33814],"type":"Point"}
+}

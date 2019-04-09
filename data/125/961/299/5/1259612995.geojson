@@ -1,0 +1,78 @@
+{
+  "id": 1259612995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.16626,37.30966,59.16626,37.30966",
+    "geom:latitude":37.30966,
+    "geom:longitude":59.16626,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Espahan",
+    "gn:country_code":"IR",
+    "gn:dem":632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":135109,
+    "gn:latitude":37.30966,
+    "gn:longitude":59.16626,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"E\u015fpah\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0627\u0635\u067e\u0647\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Esp\u012b\u0101n",
+        "E\u015fpah\u0101n"
+    ],
+    "name:und_x_variant":[
+        "Isp\u0101\u012bn",
+        "L\u0101p\u012b\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108719941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":135109
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"420d7296c8be0e4b0fdcf10f91649c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719941,
+            "locality_id":1259612995,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1259612995,
+    "wof:lastmodified":1537645339,
+    "wof:name":"Espahan",
+    "wof:parent_id":1108719941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.16626,
+    37.30966,
+    59.16626,
+    37.30966
+],
+  "geometry": {"coordinates":[59.16626,37.30966],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226183897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.1303,38.6749,48.1303,38.6749",
+    "geom:latitude":38.6749,
+    "geom:longitude":48.1303,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Kazemlu",
+    "gn:country_code":"IR",
+    "gn:dem":1560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":37881,
+    "gn:latitude":38.6749,
+    "gn:longitude":48.1303,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"K\u0101z\u0327eml\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0643\u0627\u0638\u0645 \u0644\u0648"
+    ],
+    "name:fas_x_variant":[
+        "K\u0101z\u0327eml\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108720237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":37881,
+        "wk:page":"Kazemlu"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"550afcc3549eeb36fff56a6a5edc63ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720237,
+            "locality_id":1226183897,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1226183897,
+    "wof:lastmodified":1537642133,
+    "wof:name":"Kazemlu",
+    "wof:parent_id":1108720237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.1303,
+    38.6749,
+    48.1303,
+    38.6749
+],
+  "geometry": {"coordinates":[48.1303,38.6749],"type":"Point"}
+}

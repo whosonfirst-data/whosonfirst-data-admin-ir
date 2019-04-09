@@ -1,0 +1,74 @@
+{
+  "id": 1293617705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.17793,34.68537,60.17793,34.68537",
+    "geom:latitude":34.68537,
+    "geom:longitude":60.17793,
+    "gn:admin1_code":"42.0",
+    "gn:asciiname":"Barakuh",
+    "gn:country_code":"IR",
+    "gn:dem":1203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1161707,
+    "gn:latitude":34.68537,
+    "gn:longitude":60.17793,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bar\u0101k\u016bh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0627\u06a9\u0648\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Bar\u0101k\u016bh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1161707,
+        "wk:page":"Barakuh,_Khaf"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2d140e3890a330dcbe177ae0c4e4b1bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720119,
+            "locality_id":1293617705,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1293617705,
+    "wof:lastmodified":1537647139,
+    "wof:name":"Barakuh",
+    "wof:parent_id":1108720119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.17793,
+    34.68537,
+    60.17793,
+    34.68537
+],
+  "geometry": {"coordinates":[60.17793,34.68537],"type":"Point"}
+}

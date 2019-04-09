@@ -1,0 +1,73 @@
+{
+  "id": 1360213225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.88562,36.17713,58.88562,36.17713",
+    "geom:latitude":36.17713,
+    "geom:longitude":58.88562,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Abu Sa`di",
+    "gn:country_code":"IR",
+    "gn:dem":1226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":30994,
+    "gn:latitude":36.17713,
+    "gn:longitude":58.88562,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ab\u016b Sa\u2018d\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u0648 \u0633\u0639\u062f\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Ab\u016b Sa\u2018d\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":30994
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"725e27e7482710a6b8fe11818ad8355c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720279,
+            "locality_id":1360213225,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1360213225,
+    "wof:lastmodified":1537641690,
+    "wof:name":"Abu Sa`di",
+    "wof:parent_id":1108720279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.88562,
+    36.17713,
+    58.88562,
+    36.17713
+],
+  "geometry": {"coordinates":[58.88562,36.17713],"type":"Point"}
+}

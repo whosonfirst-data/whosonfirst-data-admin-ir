@@ -1,0 +1,73 @@
+{
+  "id": 1260033943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.32339,38.58987,45.32339,38.58987",
+    "geom:latitude":38.58987,
+    "geom:longitude":45.32339,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Heydarabad",
+    "gn:country_code":"IR",
+    "gn:dem":1018,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8228092,
+    "gn:latitude":38.58987,
+    "gn:longitude":45.32339,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"\u1e28eydar\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u064a\u062f\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u1e28eydar\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672373,
+        1108720219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8228092
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"29f0b20264dc15560fb4442b76231bae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720219,
+            "locality_id":1260033943,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":1260033943,
+    "wof:lastmodified":1537648532,
+    "wof:name":"Heydarabad",
+    "wof:parent_id":1108720219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.32339,
+    38.58987,
+    45.32339,
+    38.58987
+],
+  "geometry": {"coordinates":[45.32339,38.58987],"type":"Point"}
+}

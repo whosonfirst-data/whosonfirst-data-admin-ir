@@ -1,0 +1,74 @@
+{
+  "id": 1259612365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.09037,37.07964,58.09037,37.07964",
+    "geom:latitude":37.07964,
+    "geom:longitude":58.09037,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Sugtali",
+    "gn:country_code":"IR",
+    "gn:dem":1836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":40709,
+    "gn:latitude":37.07964,
+    "gn:longitude":58.09037,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u016bgtal\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "S\u016bgtal\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0648\u06af\u062a\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672401,
+        1108720001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":40709,
+        "wk:page":"Sugtali"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e9d4e78edd4e3253d0028a8c21075db7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720001,
+            "locality_id":1259612365,
+            "region_id":85672401
+        }
+    ],
+    "wof:id":1259612365,
+    "wof:lastmodified":1537642294,
+    "wof:name":"Sugtali",
+    "wof:parent_id":1108720001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.09036999999999,
+    37.07964000000001,
+    58.09036999999999,
+    37.07964000000001
+],
+  "geometry": {"coordinates":[58.09036999999999,37.07964000000001],"type":"Point"}
+}

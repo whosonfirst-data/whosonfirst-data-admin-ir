@@ -1,0 +1,73 @@
+{
+  "id": 1243172051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.78229,27.30953,61.78229,27.30953",
+    "geom:latitude":27.30953,
+    "geom:longitude":61.78229,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Seyf od Dini",
+    "gn:country_code":"IR",
+    "gn:dem":1286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8677777,
+    "gn:latitude":27.30953,
+    "gn:longitude":61.78229,
+    "gn:modification_date":"2014-01-18",
+    "gn:name":"Seyf od D\u012bn\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u064a\u0641 \u0627\u0644\u062f\u064a\u0646\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Seyf od D\u012bn\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8677777
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"608318f76c06c4922ee51078daf75827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720389,
+            "locality_id":1243172051,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1243172051,
+    "wof:lastmodified":1537648600,
+    "wof:name":"Seyf od Dini",
+    "wof:parent_id":1108720389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.78229,
+    27.30953,
+    61.78229,
+    27.30953
+],
+  "geometry": {"coordinates":[61.78229,27.30953],"type":"Point"}
+}

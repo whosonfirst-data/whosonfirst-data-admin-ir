@@ -1,0 +1,81 @@
+{
+  "id": 1226819029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.5385,31.20533,48.5385,31.20533",
+    "geom:latitude":31.20533,
+    "geom:longitude":48.5385,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Maktu`",
+    "gn:country_code":"IR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":125207,
+    "gn:latitude":31.20533,
+    "gn:longitude":48.5385,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Mak\u0163\u016b\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Maq\u0163\u016b\u2018"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0642\u0637\u0648\u0639",
+        "\u0645\u06a9\u0637\u0648\u0639",
+        "\u0645\u06af\u0637\u0648\u0639"
+    ],
+    "name:und_x_variant":[
+        "Makt\u016b\u2018",
+        "\u0645\u0642\u0637\u0648\u0639",
+        "Mag\u0163\u016b\u2018",
+        "Mak\u0163\u016b\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":125207
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d62d0c8cb69a1ebfc341332962dfb01a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719793,
+            "locality_id":1226819029,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1226819029,
+    "wof:lastmodified":1537644327,
+    "wof:name":"Maktu`",
+    "wof:parent_id":1108719793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.5385,
+    31.20533,
+    48.5385,
+    31.20533
+],
+  "geometry": {"coordinates":[48.5385,31.20533],"type":"Point"}
+}

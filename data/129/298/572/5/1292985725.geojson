@@ -1,0 +1,77 @@
+{
+  "id": 1292985725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.79185,37.50204,48.79185,37.50204",
+    "geom:latitude":37.50204,
+    "geom:longitude":48.79185,
+    "gn:admin1_code":"8",
+    "gn:asciiname":"Rineh",
+    "gn:country_code":"IR",
+    "gn:dem":916,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":37072,
+    "gn:latitude":37.50204,
+    "gn:longitude":48.79185,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"R\u012bneh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0100q Masjed"
+    ],
+    "name:fas_x_variant":[
+        "\u0631\u06cc\u0646\u0647",
+        "\u0622\u0642 \u0645\u0633\u062c\u062f"
+    ],
+    "name:und_x_variant":[
+        "R\u012bneh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":37072
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"1f5f69c9d6af1ff2d3ecf4c941a1781b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720353,
+            "locality_id":1292985725,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1292985725,
+    "wof:lastmodified":1537642057,
+    "wof:name":"Rineh",
+    "wof:parent_id":1108720353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.79185,
+    37.50204,
+    48.79185,
+    37.50204
+],
+  "geometry": {"coordinates":[48.79185,37.50204],"type":"Point"}
+}

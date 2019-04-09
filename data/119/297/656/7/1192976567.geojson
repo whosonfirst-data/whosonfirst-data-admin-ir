@@ -1,0 +1,75 @@
+{
+  "id": 1192976567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.4485,33.7166,47.4485,33.7166",
+    "geom:latitude":33.7166,
+    "geom:longitude":47.4485,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Mianmeleh",
+    "gn:country_code":"IR",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":28156,
+    "gn:latitude":33.7166,
+    "gn:longitude":47.4485,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"M\u012b\u0101nmeleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0645\u064a\u0627\u0646 \u0645\u064e\u0644\u0650\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u06cc\u0627\u0646\u0645\u0644\u0647",
+        "M\u012b\u0101n Maleh",
+        "M\u012b\u0101nmeleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":28156
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"92d59e63480cd32575f97b75982c5ed9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720169,
+            "locality_id":1192976567,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1192976567,
+    "wof:lastmodified":1537641513,
+    "wof:name":"Mianmeleh",
+    "wof:parent_id":1108720169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.4485,
+    33.7166,
+    47.4485,
+    33.7166
+],
+  "geometry": {"coordinates":[47.4485,33.7166],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310706443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.74567,31.18537,50.74567,31.18537",
+    "geom:latitude":31.18537,
+    "geom:longitude":50.74567,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tang Asiab",
+    "gn:country_code":"IR",
+    "gn:dem":2034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7529461,
+    "gn:latitude":31.18537,
+    "gn:longitude":50.74567,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Tang \u0100s\u012b\u0101b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "Tang \u0100s\u012b\u0101b"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0646\u06af \u0622\u0633\u06cc\u0627\u0628",
+        "\u062a\u0646\u06af \u0622\u0633\u06cc\u0627\u0628 \u0627\u062c\u0645"
+    ],
+    "name:und_x_variant":[
+        "\u062a\u0646\u06af \u0622\u0633\u06cc\u0627\u0628",
+        "Tang \u0100s\u012b\u0101b Ajom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7529461
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e3074260e789ba970a4837f93e9e99bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1310706443,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1310706443,
+    "wof:lastmodified":1537648293,
+    "wof:name":"Tang Asiab",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.74567,
+    31.18537,
+    50.74567,
+    31.18537
+],
+  "geometry": {"coordinates":[50.74567,31.18537],"type":"Point"}
+}

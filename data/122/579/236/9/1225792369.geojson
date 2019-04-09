@@ -1,0 +1,73 @@
+{
+  "id": 1225792369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.1603,33.0171,51.1603,33.0171",
+    "geom:latitude":33.0171,
+    "geom:longitude":51.1603,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Pir Khiar",
+    "gn:country_code":"IR",
+    "gn:dem":2015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6858697,
+    "gn:latitude":33.0171,
+    "gn:longitude":51.1603,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"P\u012br Kh\u012b\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0631 \u062e\u06cc\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "P\u012br Kh\u012b\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672291,
+        1108720261
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6858697
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"23605e4f23576905d2cfc2d0166e24fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720261,
+            "locality_id":1225792369,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":1225792369,
+    "wof:lastmodified":1537647679,
+    "wof:name":"Pir Khiar",
+    "wof:parent_id":1108720261,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.1603,
+    33.0171,
+    51.1603,
+    33.0171
+],
+  "geometry": {"coordinates":[51.1603,33.0171],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1209919945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.29967,27.79359,61.29967,27.79359",
+    "geom:latitude":27.79359,
+    "geom:longitude":61.29967,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Qaderabad",
+    "gn:country_code":"IR",
+    "gn:dem":1460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7049952,
+    "gn:latitude":27.79359,
+    "gn:longitude":61.29967,
+    "gn:modification_date":"2014-01-16",
+    "gn:name":"Q\u0101der\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0642\u0627\u062f\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Q\u0101der\u0101b\u0101d",
+        "\u0642\u0627\u062f\u0631 \u0622\u0628\u0627\u062f \u0639\u0644\u06cc\u0627"
+    ],
+    "name:und_x_variant":[
+        "Q\u0101der\u0101b\u0101d-e \u2018Oly\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7049952
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2c7c3b1dd9340561d5c3f33f12fd5f68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720389,
+            "locality_id":1209919945,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1209919945,
+    "wof:lastmodified":1537647942,
+    "wof:name":"Qaderabad",
+    "wof:parent_id":1108720389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.29966999999999,
+    27.79359,
+    61.29966999999999,
+    27.79359
+],
+  "geometry": {"coordinates":[61.29966999999999,27.79359],"type":"Point"}
+}

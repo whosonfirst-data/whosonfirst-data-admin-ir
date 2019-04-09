@@ -1,0 +1,74 @@
+{
+  "id": 1293461701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.23402,35.5699,47.23402,35.5699",
+    "geom:latitude":35.5699,
+    "geom:longitude":47.23402,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Charmileh",
+    "gn:country_code":"IR",
+    "gn:dem":1859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3793,
+    "gn:latitude":35.5699,
+    "gn:longitude":47.23402,
+    "gn:modification_date":"2016-12-02",
+    "gn:name":"Charm\u012bleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0631\u0645\u06cc\u0644\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Charm\u012bleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3793,
+        "wk:page":"Charmileh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"897e4f696bba4a661f48390f4e9a4b33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720379,
+            "locality_id":1293461701,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1293461701,
+    "wof:lastmodified":1537640274,
+    "wof:name":"Charmileh",
+    "wof:parent_id":1108720379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.23402,
+    35.5699,
+    47.23402,
+    35.5699
+],
+  "geometry": {"coordinates":[47.23402,35.5699],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1226133399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.58984,29.75493,51.58984,29.75493",
+    "geom:latitude":29.75493,
+    "geom:longitude":51.58984,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Sheykhi",
+    "gn:country_code":"IR",
+    "gn:dem":812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":115153,
+    "gn:latitude":29.75493,
+    "gn:longitude":51.58984,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Sheykh\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Sheykh\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u0634\u06cc\u062e\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u0634\u06cc\u062e\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":115153,
+        "wk:page":"Sheykhi,_Fars"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2b388b9591de37aec043d7c8c622696a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720113,
+            "locality_id":1226133399,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1226133399,
+    "wof:lastmodified":1537643334,
+    "wof:name":"Sheykhi",
+    "wof:parent_id":1108720113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.58984,
+    29.75493,
+    51.58984,
+    29.75493
+],
+  "geometry": {"coordinates":[51.58984,29.75493],"type":"Point"}
+}

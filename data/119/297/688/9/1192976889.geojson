@@ -1,0 +1,77 @@
+{
+  "id": 1192976889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.4054,27.7858,52.4054,27.7858",
+    "geom:latitude":27.7858,
+    "geom:longitude":52.4054,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Pakuh",
+    "gn:country_code":"IR",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381499,
+    "gn:latitude":27.7858,
+    "gn:longitude":52.4054,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"P\u0101k\u016bh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0643\u0648\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u067e\u0643\u0648\u0647",
+        "P\u0101k\u016bh"
+    ],
+    "name:und_x_variant":[
+        "Pak\u016bh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108720075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381499
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"38e057059e6755a14179b890c531ac67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720075,
+            "locality_id":1192976889,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1192976889,
+    "wof:lastmodified":1537646367,
+    "wof:name":"Pakuh",
+    "wof:parent_id":1108720075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.4054,
+    27.7858,
+    52.4054,
+    27.7858
+],
+  "geometry": {"coordinates":[52.4054,27.7858],"type":"Point"}
+}

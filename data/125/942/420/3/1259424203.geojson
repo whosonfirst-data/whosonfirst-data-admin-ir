@@ -1,0 +1,73 @@
+{
+  "id": 1259424203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.8255,39.5156,47.8255,39.5156",
+    "geom:latitude":39.5156,
+    "geom:longitude":47.8255,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Ali Qeshlaq",
+    "gn:country_code":"IR",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":17518,
+    "gn:latitude":39.5156,
+    "gn:longitude":47.8255,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u0100l\u012b Qeshl\u0101q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u0644\u06cc \u0642\u0634\u0644\u0627\u0642"
+    ],
+    "name:fas_x_variant":[
+        "\u0100l\u012b Qeshl\u0101q"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672343,
+        1108719893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":17518
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"566b5ec0e331eb03f721856793c563b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719893,
+            "locality_id":1259424203,
+            "region_id":85672343
+        }
+    ],
+    "wof:id":1259424203,
+    "wof:lastmodified":1537640960,
+    "wof:name":"Ali Qeshlaq",
+    "wof:parent_id":1108719893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.8255,
+    39.5156,
+    47.8255,
+    39.5156
+],
+  "geometry": {"coordinates":[47.8255,39.5156],"type":"Point"}
+}

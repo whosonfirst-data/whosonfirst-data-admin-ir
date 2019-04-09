@@ -1,0 +1,74 @@
+{
+  "id": 1225957969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.9697,38.1364,44.9697,38.1364",
+    "geom:latitude":38.1364,
+    "geom:longitude":44.9697,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Agh Ziarat",
+    "gn:country_code":"IR",
+    "gn:dem":1296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":40645,
+    "gn:latitude":38.1364,
+    "gn:longitude":44.9697,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"\u0100gh Z\u012b\u0101rat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0622\u063a \u0632\u06cc\u0627\u0631\u062a"
+    ],
+    "name:fas_x_variant":[
+        "\u0100ghz\u012b\u0101rat",
+        "\u0100gh Z\u012b\u0101rat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672369,
+        1108720375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":40645
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c529109ce8f39db11a1771805340cbc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720375,
+            "locality_id":1225957969,
+            "region_id":85672369
+        }
+    ],
+    "wof:id":1225957969,
+    "wof:lastmodified":1537642289,
+    "wof:name":"Agh Ziarat",
+    "wof:parent_id":1108720375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.9697,
+    38.1364,
+    44.9697,
+    38.1364
+],
+  "geometry": {"coordinates":[44.9697,38.1364],"type":"Point"}
+}

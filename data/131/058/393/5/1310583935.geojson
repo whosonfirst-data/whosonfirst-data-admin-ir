@@ -1,0 +1,78 @@
+{
+  "id": 1310583935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.92376,31.12006,49.92376,31.12006",
+    "geom:latitude":31.12006,
+    "geom:longitude":49.92376,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Abezhdan",
+    "gn:country_code":"IR",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7577228,
+    "gn:latitude":31.12006,
+    "gn:longitude":49.92376,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"\u0100bezhd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0100beshd\u016bn-e \u2018Oly\u0101"
+    ],
+    "name:fas_x_variant":[
+        "\u0622\u0628\u0634\u062f\u0648\u0646 \u0639\u0644\u06cc\u0627",
+        "\u0622\u0628\u0698\u062f\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0622\u0628\u0634\u062f\u0648\u0646 \u0639\u0644\u06cc\u0627",
+        "\u0100bezhd\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7577228
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4d7e6deb84c95e15095f6df02db7e6a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720331,
+            "locality_id":1310583935,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1310583935,
+    "wof:lastmodified":1537648377,
+    "wof:name":"Abezhdan",
+    "wof:parent_id":1108720331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.92376,
+    31.12006,
+    49.92376,
+    31.12006
+],
+  "geometry": {"coordinates":[49.92376,31.12006],"type":"Point"}
+}

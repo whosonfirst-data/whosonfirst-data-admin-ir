@@ -1,0 +1,71 @@
+{
+  "id": 1209395435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.28319,27.1289,55.28319,27.1289",
+    "geom:latitude":27.1289,
+    "geom:longitude":55.28319,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Anjirdan",
+    "gn:country_code":"IR",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":143351,
+    "gn:latitude":27.1289,
+    "gn:longitude":55.28319,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Anj\u012brd\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Anj\u012brd\u0101n"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0646\u062c\u064a\u0631\u062f\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0627\u0646\u062c\u064a\u0631\u062f\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":143351,
+        "wk:page":"Anjirdan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"d5e818808ae11382cb02af004278de27",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209395435
+        }
+    ],
+    "wof:id":1209395435,
+    "wof:lastmodified":1537646168,
+    "wof:name":"Anjirdan",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.28319000000001,
+    27.1289,
+    55.28319000000001,
+    27.1289
+],
+  "geometry": {"coordinates":[55.28319000000001,27.1289],"type":"Point"}
+}

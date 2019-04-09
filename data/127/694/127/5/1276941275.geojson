@@ -1,0 +1,73 @@
+{
+  "id": 1276941275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.7427,36.051,45.7427,36.051",
+    "geom:latitude":36.051,
+    "geom:longitude":45.7427,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Salehabad",
+    "gn:country_code":"IR",
+    "gn:dem":1505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6686575,
+    "gn:latitude":36.051,
+    "gn:longitude":45.7427,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u015e\u0101le\u1e29\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0635\u0627\u0644\u062d \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u015e\u0101le\u1e29\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108719875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6686575
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3ed53300a222d2a9835b13cd4ba6144c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719875,
+            "locality_id":1276941275,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1276941275,
+    "wof:lastmodified":1537647388,
+    "wof:name":"Salehabad",
+    "wof:parent_id":1108719875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.7427,
+    36.051,
+    45.7427,
+    36.051
+],
+  "geometry": {"coordinates":[45.7427,36.051],"type":"Point"}
+}

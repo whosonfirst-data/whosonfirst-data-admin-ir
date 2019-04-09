@@ -1,0 +1,73 @@
+{
+  "id": 1327184605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.20641,28.52643,59.20641,28.52643",
+    "geom:latitude":28.52643,
+    "geom:longitude":59.20641,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Kavirzada'i",
+    "gn:country_code":"IR",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7091275,
+    "gn:latitude":28.52643,
+    "gn:longitude":59.20641,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Kav\u012brzad\u0101\u2019\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u06cc\u0631\u0632\u062f\u0627\u0626\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Kav\u012brzad\u0101\u2019\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108719861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7091275
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"21380938cba3879ae846cfb9b45c8d67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719861,
+            "locality_id":1327184605,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1327184605,
+    "wof:lastmodified":1537648043,
+    "wof:name":"Kavirzada'i",
+    "wof:parent_id":1108719861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.20641,
+    28.52643,
+    59.20641,
+    28.52643
+],
+  "geometry": {"coordinates":[59.20641,28.52643],"type":"Point"}
+}

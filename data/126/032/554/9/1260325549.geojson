@@ -1,0 +1,75 @@
+{
+  "id": 1260325549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.2219,36.0723,50.2219,36.0723",
+    "geom:latitude":36.0723,
+    "geom:longitude":50.2219,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Hoseynabad",
+    "gn:country_code":"IR",
+    "gn:dem":1178,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10338,
+    "gn:latitude":36.0723,
+    "gn:longitude":50.2219,
+    "gn:modification_date":"2018-07-13",
+    "gn:name":"\u1e28oseyn\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0633\u064a\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28oseyn\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108719789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10338,
+        "wk:page":"Hoseynabad,_Abyek"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a8299a4f14944c80a9f79d4ef29cef39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719789,
+            "locality_id":1260325549,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1260325549,
+    "wof:lastmodified":1537640561,
+    "wof:name":"Hoseynabad",
+    "wof:parent_id":1108719789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.2219,
+    36.0723,
+    50.2219,
+    36.0723
+],
+  "geometry": {"coordinates":[50.2219,36.0723],"type":"Point"}
+}

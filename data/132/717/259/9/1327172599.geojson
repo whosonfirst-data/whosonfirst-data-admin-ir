@@ -1,0 +1,78 @@
+{
+  "id": 1327172599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.07666,35.81331,49.07666,35.81331",
+    "geom:latitude":35.81331,
+    "geom:longitude":49.07666,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Tablashkin",
+    "gn:country_code":"IR",
+    "gn:dem":1651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":35868,
+    "gn:latitude":35.81331,
+    "gn:longitude":49.07666,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"\u0162ablashk\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0637\u0628\u0644\u0634\u06a9\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0162ablashg\u012bn",
+        "\u0162ablshekan",
+        "\u0637\u0628\u0644\u0634\u06a9\u06cc\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0162ablashk\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672367,
+        1108719913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":35868
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"910d467176356e075f88418a970e661b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719913,
+            "locality_id":1327172599,
+            "region_id":85672367
+        }
+    ],
+    "wof:id":1327172599,
+    "wof:lastmodified":1537641975,
+    "wof:name":"Tablashkin",
+    "wof:parent_id":1108719913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.07666,
+    35.81330999999999,
+    49.07666,
+    35.81330999999999
+],
+  "geometry": {"coordinates":[49.07666,35.81330999999999],"type":"Point"}
+}

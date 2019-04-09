@@ -1,0 +1,73 @@
+{
+  "id": 1226298913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.7434,33.2505,47.7434,33.2505",
+    "geom:latitude":33.2505,
+    "geom:longitude":47.7434,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Teymurabad",
+    "gn:country_code":"IR",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":27919,
+    "gn:latitude":33.2505,
+    "gn:longitude":47.7434,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Teym\u016br\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0645\u0648\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Teym\u016br\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108720307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":27919
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"6b8df9a6a43ae6950aa76a2f93af588a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720307,
+            "locality_id":1226298913,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1226298913,
+    "wof:lastmodified":1537641491,
+    "wof:name":"Teymurabad",
+    "wof:parent_id":1108720307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.7434,
+    33.2505,
+    47.7434,
+    33.2505
+],
+  "geometry": {"coordinates":[47.7434,33.2505],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259523827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.04766,35.84134,52.04766,35.84134",
+    "geom:latitude":35.84134,
+    "geom:longitude":52.04766,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kardichal",
+    "gn:country_code":"IR",
+    "gn:dem":2232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8453460,
+    "gn:latitude":35.84134,
+    "gn:longitude":52.04766,
+    "gn:modification_date":"2013-02-10",
+    "gn:name":"K\u0101rd\u012bch\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0631\u062f\u064a\u0686\u0627\u0644"
+    ],
+    "name:und_x_variant":[
+        "K\u0101rd\u012bch\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108719807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8453460
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"c0ffdb7e7d818b335528c41e38c47cf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719807,
+            "locality_id":1259523827,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1259523827,
+    "wof:lastmodified":1537648565,
+    "wof:name":"Kardichal",
+    "wof:parent_id":1108719807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.04766,
+    35.84134,
+    52.04766,
+    35.84134
+],
+  "geometry": {"coordinates":[52.04766,35.84134],"type":"Point"}
+}

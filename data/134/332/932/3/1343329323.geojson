@@ -1,0 +1,73 @@
+{
+  "id": 1343329323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.13941,36.25714,54.13941,36.25714",
+    "geom:latitude":36.25714,
+    "geom:longitude":54.13941,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Baba Hafez",
+    "gn:country_code":"IR",
+    "gn:dem":1426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":39287,
+    "gn:latitude":36.25714,
+    "gn:longitude":54.13941,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"B\u0101b\u0101 \u1e28\u0101fez\u0327",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0628\u0627 \u062d\u0627\u0641\u0638"
+    ],
+    "name:fas_x_variant":[
+        "B\u0101b\u0101 \u1e28\u0101fez\u0327"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672309,
+        1108719937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":39287
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"fb2564b178cc593b262e050533c2cf60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719937,
+            "locality_id":1343329323,
+            "region_id":85672309
+        }
+    ],
+    "wof:id":1343329323,
+    "wof:lastmodified":1537642208,
+    "wof:name":"Baba Hafez",
+    "wof:parent_id":1108719937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.13941,
+    36.25714,
+    54.13941,
+    36.25714
+],
+  "geometry": {"coordinates":[54.13941,36.25714],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276839985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.3582,31.8293,48.3582,31.8293",
+    "geom:latitude":31.8293,
+    "geom:longitude":48.3582,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Khomeys",
+    "gn:country_code":"IR",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":115194,
+    "gn:latitude":31.8293,
+    "gn:longitude":48.3582,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Khomeys",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u062e \u0639\u0628\u062f\u0627\u0644\u0644\u0651\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Sheykh \u2018Abdoll\u0101h",
+        "\u062e\u0645\u06cc\u0633"
+    ],
+    "name:und_x_variant":[
+        "Shaikh \u2018Abdull\u0101h",
+        "Khomeys"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":115194
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b112ecaa9a1e90bf1db881fecf5b2dc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720455,
+            "locality_id":1276839985,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1276839985,
+    "wof:lastmodified":1537643338,
+    "wof:name":"Khomeys",
+    "wof:parent_id":1108720455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.3582,
+    31.8293,
+    48.3582,
+    31.8293
+],
+  "geometry": {"coordinates":[48.3582,31.8293],"type":"Point"}
+}

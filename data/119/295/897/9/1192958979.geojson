@@ -1,0 +1,77 @@
+{
+  "id": 1192958979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.29377,34.9433,50.29377,34.9433",
+    "geom:latitude":34.9433,
+    "geom:longitude":50.29377,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Qardin",
+    "gn:country_code":"IR",
+    "gn:dem":1024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":21992,
+    "gn:latitude":34.9433,
+    "gn:longitude":50.29377,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Qard\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Qard\u012bn"
+    ],
+    "name:fas_x_variant":[
+        "\u0642\u0631\u062f\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u0642\u0631\u062f\u064a\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672347,
+        1108720407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":21992,
+        "wk:page":"Qardin"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3b67a62d73ec6e2006069105c3acec7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720407,
+            "locality_id":1192958979,
+            "region_id":85672347
+        }
+    ],
+    "wof:id":1192958979,
+    "wof:lastmodified":1537641101,
+    "wof:name":"Qardin",
+    "wof:parent_id":1108720407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.29377,
+    34.9433,
+    50.29377,
+    34.9433
+],
+  "geometry": {"coordinates":[50.29377,34.9433],"type":"Point"}
+}

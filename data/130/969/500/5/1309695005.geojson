@@ -1,0 +1,73 @@
+{
+  "id": 1309695005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.28692,30.37102,48.28692,30.37102",
+    "geom:latitude":30.37102,
+    "geom:longitude":48.28692,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Hajji Majid",
+    "gn:country_code":"IR",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6687551,
+    "gn:latitude":30.37102,
+    "gn:longitude":48.28692,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"\u1e28\u0101jj\u012b Maj\u012bd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0627\u062c\u0651\u06cc \u0645\u062c\u064a\u062f"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28\u0101jj\u012b Maj\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108719777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6687551
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e4abd9baaada19ceafd1bf9714eef6d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719777,
+            "locality_id":1309695005,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1309695005,
+    "wof:lastmodified":1537647397,
+    "wof:name":"Hajji Majid",
+    "wof:parent_id":1108719777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.28692,
+    30.37102,
+    48.28692,
+    30.37102
+],
+  "geometry": {"coordinates":[48.28692,30.37102],"type":"Point"}
+}

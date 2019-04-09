@@ -1,0 +1,73 @@
+{
+  "id": 1242835527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.68576,28.04924,58.68576,28.04924",
+    "geom:latitude":28.04924,
+    "geom:longitude":58.68576,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Chah-e Shamir",
+    "gn:country_code":"IR",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9103915,
+    "gn:latitude":28.04924,
+    "gn:longitude":58.68576,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Ch\u0101h-e Sham\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0647 \u0634\u0645\u06cc\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ch\u0101h-e Sham\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9103915
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"4cb1be51e26a075ce6bec67e59edf5be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720363,
+            "locality_id":1242835527,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1242835527,
+    "wof:lastmodified":1537648632,
+    "wof:name":"Chah-e Shamir",
+    "wof:parent_id":1108720363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.68576,
+    28.04924,
+    58.68576,
+    28.04924
+],
+  "geometry": {"coordinates":[58.68576,28.04924],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209047747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.0761,38.2632,47.0761,38.2632",
+    "geom:latitude":38.2632,
+    "geom:longitude":47.0761,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Tarkayesh",
+    "gn:country_code":"IR",
+    "gn:dem":1861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":35638,
+    "gn:latitude":38.2632,
+    "gn:longitude":47.0761,
+    "gn:modification_date":"2018-05-22",
+    "gn:name":"Tark\u0101yesh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Tark\u0101yesh"
+    ],
+    "name:fas_x_variant":[
+        "\u062a\u0631\u06a9\u0627\u06cc\u0634",
+        "\u062a\u0631\u06a9\u0627\u0634"
+    ],
+    "name:und_x_variant":[
+        "Tark\u0101sh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":35638,
+        "wk:page":"Tarkayesh"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"bd203acb92f4d12ebd3de80b990a592b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632361,
+            "locality_id":1209047747
+        }
+    ],
+    "wof:id":1209047747,
+    "wof:lastmodified":1537641960,
+    "wof:name":"Tarkayesh",
+    "wof:parent_id":85632361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.0761,
+    38.2632,
+    47.0761,
+    38.2632
+],
+  "geometry": {"coordinates":[47.0761,38.2632],"type":"Point"}
+}

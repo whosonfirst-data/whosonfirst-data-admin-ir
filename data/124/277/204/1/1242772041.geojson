@@ -1,0 +1,79 @@
+{
+  "id": 1242772041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.6554,28.6475,54.6554,28.6475",
+    "geom:latitude":28.6475,
+    "geom:longitude":54.6554,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Deh Kheyr-e Pa'in",
+    "gn:country_code":"IR",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":136744,
+    "gn:latitude":28.6475,
+    "gn:longitude":54.6554,
+    "gn:modification_date":"2018-06-19",
+    "gn:name":"Deh Kheyr-e P\u0101\u2019\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0647 \u062e\u06cc\u0631 \u067e\u0627\u0626\u06cc\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Deh Kheyr-e P\u0101\u2019\u012bn"
+    ],
+    "name:und_x_variant":[
+        "Kheir Sofla",
+        "Deh Kheyr-e Sofl\u00e1",
+        "Deh Khair Pain"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108719939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":136744,
+        "wk:page":"Deh_Kheyr-e_Pain"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dcabaa938d714b4e24bdf4684c7b68c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719939,
+            "locality_id":1242772041,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1242772041,
+    "wof:lastmodified":1537645506,
+    "wof:name":"Deh Kheyr-e Pa'in",
+    "wof:parent_id":1108719939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.6554,
+    28.6475,
+    54.6554,
+    28.6475
+],
+  "geometry": {"coordinates":[54.6554,28.6475],"type":"Point"}
+}

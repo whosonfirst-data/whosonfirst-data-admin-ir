@@ -1,0 +1,83 @@
+{
+  "id": 1260239911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.41868,28.36304,51.41868,28.36304",
+    "geom:latitude":28.36304,
+    "geom:longitude":51.41868,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Cham Kur",
+    "gn:country_code":"IR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":139130,
+    "gn:latitude":28.36304,
+    "gn:longitude":51.41868,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Cham K\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0686\u0645 \u0643\u0648\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u064e\u0645 \u06af\u0648\u0631",
+        "\u0686\u064e\u0645 \u0643\u064f\u0631",
+        "\u0686\u064e\u0645 \u0643\u064f\u0651\u0631",
+        "Cham K\u016br"
+    ],
+    "name:und_x_variant":[
+        "Cham G\u016br",
+        "Cham Kowr",
+        "Cham Koor",
+        "Cham-i-Kor",
+        "Cham Kor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108719953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":139130
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"14cbfee63e0cc630f1da6642994760fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719953,
+            "locality_id":1260239911,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1260239911,
+    "wof:lastmodified":1537645747,
+    "wof:name":"Cham Kur",
+    "wof:parent_id":1108719953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.41868,
+    28.36304,
+    51.41868,
+    28.36304
+],
+  "geometry": {"coordinates":[51.41868,28.36304],"type":"Point"}
+}

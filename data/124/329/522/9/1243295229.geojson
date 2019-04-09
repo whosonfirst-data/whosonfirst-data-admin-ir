@@ -1,0 +1,77 @@
+{
+  "id": 1243295229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.3299,30.95213,50.3299,30.95213",
+    "geom:latitude":30.95213,
+    "geom:longitude":50.3299,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Duch",
+    "gn:country_code":"IR",
+    "gn:dem":926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":45806,
+    "gn:latitude":30.95213,
+    "gn:longitude":50.3299,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"D\u016bch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "D\u016bk"
+    ],
+    "name:fas_x_variant":[
+        "\u062f\u0648\u0686",
+        "\u062f\u0648\u06a9"
+    ],
+    "name:und_x_variant":[
+        "D\u016bch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672283,
+        1108720157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":45806
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"295226607575f0ae5c805273674d38f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720157,
+            "locality_id":1243295229,
+            "region_id":85672283
+        }
+    ],
+    "wof:id":1243295229,
+    "wof:lastmodified":1537642572,
+    "wof:name":"Duch",
+    "wof:parent_id":1108720157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.3299,
+    30.95213,
+    50.3299,
+    30.95213
+],
+  "geometry": {"coordinates":[50.3299,30.95213],"type":"Point"}
+}

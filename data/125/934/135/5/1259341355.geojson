@@ -1,0 +1,73 @@
+{
+  "id": 1259341355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.443,28.3718,51.443,28.3718",
+    "geom:latitude":28.3718,
+    "geom:longitude":51.443,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Gazak-e Kahuleh",
+    "gn:country_code":"IR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6655340,
+    "gn:latitude":28.3718,
+    "gn:longitude":51.443,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Gazak-e Kah\u016bleh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u06af\u0632\u06a9 \u06a9\u0647\u0648\u0644\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Gazak-e Kah\u016bleh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672289,
+        1108719953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6655340
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"53383a37cdd614b537ad80a27a0a48e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719953,
+            "locality_id":1259341355,
+            "region_id":85672289
+        }
+    ],
+    "wof:id":1259341355,
+    "wof:lastmodified":1537647251,
+    "wof:name":"Gazak-e Kahuleh",
+    "wof:parent_id":1108719953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.44300000000001,
+    28.3718,
+    51.44300000000001,
+    28.3718
+],
+  "geometry": {"coordinates":[51.44300000000001,28.3718],"type":"Point"}
+}

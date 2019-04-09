@@ -1,0 +1,80 @@
+{
+  "id": 1327478007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.55631,36.79021,50.55631,36.79021",
+    "geom:latitude":36.79021,
+    "geom:longitude":50.55631,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Izagi",
+    "gn:country_code":"IR",
+    "gn:dem":1513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10319,
+    "gn:latitude":36.79021,
+    "gn:longitude":50.55631,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"\u012azag\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u012azk\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u064a\u0632\u06af\u06cc",
+        "\u0627\u06cc\u0631\u06a9\u06cc",
+        "\u0627\u064a\u0632\u06a9\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u012azag\u012b",
+        "\u012arak\u012b",
+        "\u012azak\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672303,
+        1108720333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10319
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"baf8ae7fc95a0eee443ada61be5ccd8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720333,
+            "locality_id":1327478007,
+            "region_id":85672303
+        }
+    ],
+    "wof:id":1327478007,
+    "wof:lastmodified":1537640559,
+    "wof:name":"Izagi",
+    "wof:parent_id":1108720333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.55631,
+    36.79021,
+    50.55631,
+    36.79021
+],
+  "geometry": {"coordinates":[50.55631,36.79021],"type":"Point"}
+}

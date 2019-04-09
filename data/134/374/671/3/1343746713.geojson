@@ -1,0 +1,77 @@
+{
+  "id": 1343746713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.24606,36.905,50.24606,36.905",
+    "geom:latitude":36.905,
+    "geom:longitude":50.24606,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nilu",
+    "gn:country_code":"IR",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10083,
+    "gn:latitude":36.905,
+    "gn:longitude":50.24606,
+    "gn:modification_date":"2018-06-15",
+    "gn:name":"N\u012bl\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "N\u012bl\u016b"
+    ],
+    "name:fas_x_variant":[
+        "\u0646\u06cc\u0644\u0648"
+    ],
+    "name:und_x_variant":[
+        "\u0646\u06cc\u0644\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672383,
+        1108720365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10083,
+        "wk:page":"Nilu,_Gilan"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2c47d8f18a472557c886e0322f8da619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720365,
+            "locality_id":1343746713,
+            "region_id":85672383
+        }
+    ],
+    "wof:id":1343746713,
+    "wof:lastmodified":1537640538,
+    "wof:name":"Nilu",
+    "wof:parent_id":1108720365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.24606,
+    36.905,
+    50.24606,
+    36.905
+],
+  "geometry": {"coordinates":[50.24606,36.905],"type":"Point"}
+}

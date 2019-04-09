@@ -1,0 +1,80 @@
+{
+  "id": 1243258361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.91196,34.67236,48.91196,34.67236",
+    "geom:latitude":34.67236,
+    "geom:longitude":48.91196,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Moslemabad",
+    "gn:country_code":"IR",
+    "gn:dem":1755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":14204,
+    "gn:latitude":34.67236,
+    "gn:longitude":48.91196,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Moslem\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Moslem\u0101b\u0101d"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0633\u0644\u0645 \u0622\u0628\u0627\u062f",
+        "\u06af\u0627\u0648\u062e\u0627\u0646\u0647"
+    ],
+    "name:und_x_variant":[
+        "G\u0101vkh\u0101neh",
+        "\u0645\u0633\u0644\u0645 \u0622\u0628\u0627\u062f",
+        "Gau Kh\u0101neh",
+        "G\u0101v Kh\u0101neh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672355,
+        1108720047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":14204
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"dcb6647c80d73b416e012a12dc181e2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720047,
+            "locality_id":1243258361,
+            "region_id":85672355
+        }
+    ],
+    "wof:id":1243258361,
+    "wof:lastmodified":1537640792,
+    "wof:name":"Moslemabad",
+    "wof:parent_id":1108720047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.91196,
+    34.67236,
+    48.91196,
+    34.67236
+],
+  "geometry": {"coordinates":[48.91196,34.67236],"type":"Point"}
+}

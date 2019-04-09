@@ -1,0 +1,79 @@
+{
+  "id": 1343340795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.9102,34.3875,45.9102,34.3875",
+    "geom:latitude":34.3875,
+    "geom:longitude":45.9102,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Mostafa Ahmadi",
+    "gn:country_code":"IR",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":25704,
+    "gn:latitude":34.3875,
+    "gn:longitude":45.9102,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Mo\u015ftaf\u00e1 A\u1e29mad\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "T\u0101zeh\u0101b\u0101d-e A\u1e29mad\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u0645\u0635\u0637\u0641\u06cc \u0627\u062d\u0645\u062f\u06cc",
+        "Mo\u015ftaf\u00e1 A\u1e29mad\u012b",
+        "Mo\u015ftaf\u00e1"
+    ],
+    "name:und_x_variant":[
+        "Mo\u015ftaf\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672379,
+        1108720383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":25704,
+        "wk:page":"Mostafa_Ahmadi"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"2a91510f1fc094fee214000a8e82f922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720383,
+            "locality_id":1343340795,
+            "region_id":85672379
+        }
+    ],
+    "wof:id":1343340795,
+    "wof:lastmodified":1537641344,
+    "wof:name":"Mostafa Ahmadi",
+    "wof:parent_id":1108720383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.9102,
+    34.3875,
+    45.9102,
+    34.3875
+],
+  "geometry": {"coordinates":[45.9102,34.3875],"type":"Point"}
+}

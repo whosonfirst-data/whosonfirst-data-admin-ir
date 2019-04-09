@@ -1,0 +1,79 @@
+{
+  "id": 1310549131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.6596,35.3105,51.6596,35.3105",
+    "geom:latitude":35.3105,
+    "geom:longitude":51.6596,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Hesarak",
+    "gn:country_code":"IR",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":32730,
+    "gn:latitude":35.3105,
+    "gn:longitude":51.6596,
+    "gn:modification_date":"2018-05-11",
+    "gn:name":"\u1e28e\u015f\u0101rak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062d\u0635\u0627\u0631\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "\u1e28e\u015f\u0101rak",
+        "\u0642\u0644\u0639\u0647 \u062d\u0635\u0627\u0631\u06a9"
+    ],
+    "name:und_x_variant":[
+        "Qal\u2018eh \u1e28e\u015f\u0101rak",
+        "\u0642\u0644\u0639\u0647 \u062d\u0635\u0627\u0631\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672313,
+        1108720507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":32730,
+        "wk:page":"Hesarak,_Tehran"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"192dfc1e20d26b0039bf845ebf2fd66a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720507,
+            "locality_id":1310549131,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":1310549131,
+    "wof:lastmodified":1537641815,
+    "wof:name":"Hesarak",
+    "wof:parent_id":1108720507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.6596,
+    35.3105,
+    51.6596,
+    35.3105
+],
+  "geometry": {"coordinates":[51.6596,35.3105],"type":"Point"}
+}

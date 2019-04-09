@@ -1,0 +1,73 @@
+{
+  "id": 1344062737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.87388,26.79446,62.87388,26.79446",
+    "geom:latitude":26.79446,
+    "geom:longitude":62.87388,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sukhteh Mok",
+    "gn:country_code":"IR",
+    "gn:dem":1292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1114543,
+    "gn:latitude":26.79446,
+    "gn:longitude":62.87388,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"S\u016bkhteh Mok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u062e\u062a\u0647 \u0645\u06a9"
+    ],
+    "name:fas_x_variant":[
+        "S\u016bkhteh Mok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1114543
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"de32b440e8bd4ff28c903c2b0098f88d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720389,
+            "locality_id":1344062737,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1344062737,
+    "wof:lastmodified":1537646918,
+    "wof:name":"Sukhteh Mok",
+    "wof:parent_id":1108720389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.87388000000001,
+    26.79446,
+    62.87388000000001,
+    26.79446
+],
+  "geometry": {"coordinates":[62.87388000000001,26.79446],"type":"Point"}
+}

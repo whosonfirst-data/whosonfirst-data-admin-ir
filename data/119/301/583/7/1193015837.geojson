@@ -1,0 +1,73 @@
+{
+  "id": 1193015837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.5285,30.9974,61.5285,30.9974",
+    "geom:latitude":30.9974,
+    "geom:longitude":61.5285,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jahan Tigh",
+    "gn:country_code":"IR",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1463486,
+    "gn:latitude":30.9974,
+    "gn:longitude":61.5285,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Jah\u0101n T\u012bgh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062c\u0647\u0627\u0646 \u062a\u06cc\u063a"
+    ],
+    "name:fas_x_variant":[
+        "Jah\u0101n T\u012bgh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672405,
+        1108720513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1463486
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5cc8badf3ec1b71947aef2256d4b6981",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720513,
+            "locality_id":1193015837,
+            "region_id":85672405
+        }
+    ],
+    "wof:id":1193015837,
+    "wof:lastmodified":1537647167,
+    "wof:name":"Jahan Tigh",
+    "wof:parent_id":1108720513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.5285,
+    30.9974,
+    61.5285,
+    30.9974
+],
+  "geometry": {"coordinates":[61.5285,30.9974],"type":"Point"}
+}

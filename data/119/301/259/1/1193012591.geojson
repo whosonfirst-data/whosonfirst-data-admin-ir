@@ -1,0 +1,79 @@
+{
+  "id": 1193012591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.2091,29.1135,52.2091,29.1135",
+    "geom:latitude":29.1135,
+    "geom:longitude":52.2091,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Bonab-e Safi Khani",
+    "gn:country_code":"IR",
+    "gn:dem":1381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":140111,
+    "gn:latitude":29.1135,
+    "gn:longitude":52.2091,
+    "gn:modification_date":"2018-06-25",
+    "gn:name":"Bon\u0101b-e \u015eaf\u012b Kh\u0101n\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0628\u0646\u0627\u0628 \u0635\u0641\u06cc \u062e\u0627\u0646\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Bon\u016b",
+        "Bon\u0101b-e \u015eaf\u012b Kh\u0101n\u012b"
+    ],
+    "name:und_x_variant":[
+        "Ban\u016b",
+        "Bon\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672295,
+        1108720009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":140111,
+        "wk:page":"Bonab,_Firuzabad"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ff36863b09447eedcf818d683b8efcfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720009,
+            "locality_id":1193012591,
+            "region_id":85672295
+        }
+    ],
+    "wof:id":1193012591,
+    "wof:lastmodified":1537645845,
+    "wof:name":"Bonab-e Safi Khani",
+    "wof:parent_id":1108720009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.2091,
+    29.1135,
+    52.2091,
+    29.1135
+],
+  "geometry": {"coordinates":[52.2091,29.1135],"type":"Point"}
+}

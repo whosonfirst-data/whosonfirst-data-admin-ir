@@ -1,0 +1,79 @@
+{
+  "id": 1193234675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"52.8067,27.30155,52.8067,27.30155",
+    "geom:latitude":27.30155,
+    "geom:longitude":52.8067,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Tonbu-ye Shomali",
+    "gn:country_code":"IR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":112665,
+    "gn:latitude":27.30155,
+    "gn:longitude":52.8067,
+    "gn:modification_date":"2013-08-04",
+    "gn:name":"Tonb\u016b-ye Shom\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062a\u0645\u0628\u0648 \u0634\u0645\u0627\u0644\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "Tomb\u016b Shom\u0101l\u012b",
+        "\u062a\u0646\u0628\u0648 \u0634\u0645\u0627\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Tomb\u016b Shem\u0101l\u012b",
+        "Tonb\u016b-ye Shom\u0101l\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672337,
+        1108720025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":112665,
+        "wk:page":"Tombu_Shomali"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"0b5210507016fec612fc43ae2721c038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720025,
+            "locality_id":1193234675,
+            "region_id":85672337
+        }
+    ],
+    "wof:id":1193234675,
+    "wof:lastmodified":1537643111,
+    "wof:name":"Tonbu-ye Shomali",
+    "wof:parent_id":1108720025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    52.8067,
+    27.30155,
+    52.8067,
+    27.30155
+],
+  "geometry": {"coordinates":[52.8067,27.30155],"type":"Point"}
+}

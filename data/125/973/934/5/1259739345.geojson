@@ -1,0 +1,73 @@
+{
+  "id": 1259739345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"48.9685,33.2567,48.9685,33.2567",
+    "geom:latitude":33.2567,
+    "geom:longitude":48.9685,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Bun Bar",
+    "gn:country_code":"IR",
+    "gn:dem":1458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":6738093,
+    "gn:latitude":33.2567,
+    "gn:longitude":48.9685,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"B\u016bn B\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0646 \u0628\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "B\u016bn B\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672329,
+        1108719803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6738093
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"db6542836881f3d5a2da2def05915795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719803,
+            "locality_id":1259739345,
+            "region_id":85672329
+        }
+    ],
+    "wof:id":1259739345,
+    "wof:lastmodified":1537647560,
+    "wof:name":"Bun Bar",
+    "wof:parent_id":1108719803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    48.9685,
+    33.2567,
+    48.9685,
+    33.2567
+],
+  "geometry": {"coordinates":[48.9685,33.2567],"type":"Point"}
+}

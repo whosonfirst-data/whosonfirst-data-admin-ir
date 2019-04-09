@@ -1,0 +1,79 @@
+{
+  "id": 1276517227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.91349,31.14718,49.91349,31.14718",
+    "geom:latitude":31.14718,
+    "geom:longitude":49.91349,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Bavaj-e Abu ol Fares",
+    "gn:country_code":"IR",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":141083,
+    "gn:latitude":31.14718,
+    "gn:longitude":49.91349,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"B\u0101vaj-e Ab\u016b ol F\u0101res",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "B\u0101vaj"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0627\u0648\u062c",
+        "\u0628\u0627\u0648\u062c \u0627\u0628\u0648\u0627\u0644\u0641\u0627\u0631\u0633"
+    ],
+    "name:und_x_variant":[
+        "\u0628\u0627\u0648\u062c",
+        "B\u0101vaj-e Ab\u016b ol F\u0101res"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":141083,
+        "wk:page":"Bavaj"
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e57dd72e00633d2bab55216836e48ce6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720331,
+            "locality_id":1276517227,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1276517227,
+    "wof:lastmodified":1537645941,
+    "wof:name":"Bavaj-e Abu ol Fares",
+    "wof:parent_id":1108720331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.91349,
+    31.14718,
+    49.91349,
+    31.14718
+],
+  "geometry": {"coordinates":[49.91349,31.14718],"type":"Point"}
+}

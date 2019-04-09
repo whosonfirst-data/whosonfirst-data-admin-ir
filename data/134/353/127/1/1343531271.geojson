@@ -1,0 +1,79 @@
+{
+  "id": 1343531271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"49.44076,30.84009,49.44076,30.84009",
+    "geom:latitude":30.84009,
+    "geom:longitude":49.44076,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Modbeg-e Sofla",
+    "gn:country_code":"IR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6648075,
+    "gn:latitude":30.84009,
+    "gn:longitude":49.44076,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Modbeg-e Sofl\u00e1",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0645\u062f\u0628\u06af \u062d\u0642\u06cc\u0642\u062a"
+    ],
+    "name:fas_x_variant":[
+        "Modbeg-e \u1e28aq\u012bqat",
+        "\u0645\u062f\u0628\u06af \u0633\u0641\u0644\u06cc",
+        "\u0645\u0637\u0628\u06af \u0633\u0641\u0644\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Modbeg-e Sofl\u00e1",
+        "Mo\u0163beg-e Sofl\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672325,
+        1108720335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6648075
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"ccd0781beda5758bfafbd0c411d47482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720335,
+            "locality_id":1343531271,
+            "region_id":85672325
+        }
+    ],
+    "wof:id":1343531271,
+    "wof:lastmodified":1537647171,
+    "wof:name":"Modbeg-e Sofla",
+    "wof:parent_id":1108720335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    49.44076,
+    30.84009,
+    49.44076,
+    30.84009
+],
+  "geometry": {"coordinates":[49.44076,30.84009],"type":"Point"}
+}

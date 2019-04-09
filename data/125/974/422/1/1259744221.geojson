@@ -1,0 +1,73 @@
+{
+  "id": 1259744221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.3556,28.9269,55.3556,28.9269",
+    "geom:latitude":28.9269,
+    "geom:longitude":55.3556,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"Chah Qal`eh",
+    "gn:country_code":"IR",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6980232,
+    "gn:latitude":28.9269,
+    "gn:longitude":55.3556,
+    "gn:modification_date":"2013-11-12",
+    "gn:name":"Ch\u0101h Qal\u2018eh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0647 \u0642\u0644\u0639\u0647"
+    ],
+    "name:fas_x_variant":[
+        "Ch\u0101h Qal\u2018eh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672409,
+        1108720461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6980232
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"b734b43b16ccbcfca9068dfa50a41abd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720461,
+            "locality_id":1259744221,
+            "region_id":85672409
+        }
+    ],
+    "wof:id":1259744221,
+    "wof:lastmodified":1537647812,
+    "wof:name":"Chah Qal`eh",
+    "wof:parent_id":1108720461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.3556,
+    28.9269,
+    55.3556,
+    28.9269
+],
+  "geometry": {"coordinates":[55.3556,28.9269],"type":"Point"}
+}

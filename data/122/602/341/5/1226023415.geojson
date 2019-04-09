@@ -1,0 +1,70 @@
+{
+  "id": 1226023415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"47.55891,32.80179,47.55891,32.80179",
+    "geom:latitude":32.80179,
+    "geom:longitude":47.55891,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Shelet",
+    "gn:country_code":"IR",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9379,
+    "gn:latitude":32.80179,
+    "gn:longitude":47.55891,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"Shelet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0644\u062a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672333,
+        1108719785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9379
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"39dc6d306d210a313d4afa1f802f0e37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108719785,
+            "locality_id":1226023415,
+            "region_id":85672333
+        }
+    ],
+    "wof:id":1226023415,
+    "wof:lastmodified":1537640476,
+    "wof:name":"Shelet",
+    "wof:parent_id":1108719785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    47.55891,
+    32.80179,
+    47.55891,
+    32.80179
+],
+  "geometry": {"coordinates":[47.55891,32.80179],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1277103407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.34568,35.41712,59.34568,35.41712",
+    "geom:latitude":35.41712,
+    "geom:longitude":59.34568,
+    "gn:admin1_code":"42",
+    "gn:asciiname":"Ghozbi",
+    "gn:country_code":"IR",
+    "gn:dem":1660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":34224,
+    "gn:latitude":35.41712,
+    "gn:longitude":59.34568,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Gho\u1e95b\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "Gho\u1e95b\u012b"
+    ],
+    "name:fas_x_variant":[
+        "\u063a\u0636\u0628\u06cc"
+    ],
+    "name:und_x_variant":[
+        "\u063a\u0636\u0628\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672397,
+        1108720497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":34224
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"3f935e8065e54a6244931068af9a304b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720497,
+            "locality_id":1277103407,
+            "region_id":85672397
+        }
+    ],
+    "wof:id":1277103407,
+    "wof:lastmodified":1537641905,
+    "wof:name":"Ghozbi",
+    "wof:parent_id":1108720497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.34568,
+    35.41712000000001,
+    59.34568,
+    35.41712000000001
+],
+  "geometry": {"coordinates":[59.34568,35.41712000000001],"type":"Point"}
+}

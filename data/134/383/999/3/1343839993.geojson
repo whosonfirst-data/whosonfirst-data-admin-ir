@@ -1,0 +1,73 @@
+{
+  "id": 1343839993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.314,36.0131,46.314,36.0131",
+    "geom:latitude":36.0131,
+    "geom:longitude":46.314,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Talijar",
+    "gn:country_code":"IR",
+    "gn:dem":1522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6709706,
+    "gn:latitude":36.0131,
+    "gn:longitude":46.314,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u0162\u0101l\u012bj\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
+    "iso:country":"IR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0637\u0627\u0644\u06cc\u062c\u0627\u0631"
+    ],
+    "name:fas_x_variant":[
+        "\u0162\u0101l\u012bj\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632361,
+        85672387,
+        1108720381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6709706
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7349d0a80a17a62d5a59108489474da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720381,
+            "locality_id":1343839993,
+            "region_id":85672387
+        }
+    ],
+    "wof:id":1343839993,
+    "wof:lastmodified":1537647454,
+    "wof:name":"Talijar",
+    "wof:parent_id":1108720381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.31399999999999,
+    36.0131,
+    46.31399999999999,
+    36.0131
+],
+  "geometry": {"coordinates":[46.31399999999999,36.0131],"type":"Point"}
+}
