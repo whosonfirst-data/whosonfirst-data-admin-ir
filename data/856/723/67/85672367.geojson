@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.550083,
-    "geom:area_square_m":15489190503.326853,
+    "geom:area_square_m":15489190503.327213,
     "geom:bbox":"48.7254484426,35.4013495432,50.8554946064,36.7649864332",
     "geom:latitude":36.086471,
     "geom:longitude":49.767954,
@@ -38,9 +38,6 @@
     "name:aze_x_preferred":[
         "Q\u0259zvin ostan\u0131"
     ],
-    "name:baq_x_preferred":[
-        "Qazvin"
-    ],
     "name:bel_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d \u041a\u0430\u0437\u0432\u0456\u043d"
     ],
@@ -53,20 +50,20 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Qazvin"
     ],
-    "name:chi_x_preferred":[
-        "\u52a0\u8332\u6eab\u7701"
+    "name:ces_x_preferred":[
+        "Kazv\u00edn"
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0642\u06d5\u0632\u0648\u06cc\u0646"
     ],
-    "name:cze_x_preferred":[
-        "Kazv\u00edn"
-    ],
     "name:dan_x_preferred":[
         "Qazvin"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Qazvin"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03b6\u03b2\u03af\u03bd"
     ],
     "name:eng_x_preferred":[
         "Qazvin"
@@ -74,27 +71,22 @@
     "name:epo_x_preferred":[
         "provinco Kazvino"
     ],
+    "name:eus_x_preferred":[
+        "Qazvin"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u064f\u0633\u062a\u0627\u0646\u0650 \u0642\u064e\u0632\u0648\u064a\u0646"
     ],
     "name:fas_x_variant":[
         "Ost\u0101n-e Qazv\u012bn",
-        "Qazv\u012bn"
+        "Qazv\u012bn",
+        "\u0627\u0633\u062a\u0627\u0646 \u0642\u0632\u0648\u06cc\u0646"
     ],
     "name:fin_x_preferred":[
         "Qazv\u012bn"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "province de Qazvin"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e7\u10d0\u10d6\u10d5\u10d8\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Qazvin"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03b6\u03b2\u03af\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0a9d\u0ab5\u0abf\u0aa8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -123,6 +115,9 @@
     "name:kan_x_preferred":[
         "\u0c96\u0c9c\u0ccd\u0cb5\u0cbf\u0ca8\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10d0\u10d6\u10d5\u10d8\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uce74\uc988\ube48 \uc8fc"
     ],
@@ -138,23 +133,23 @@
     "name:lrc_x_preferred":[
         "\u0622\u0633\u062a\u0648\u0659\u0646 \u0642\u0623\u0632\u06a4\u06cc\u0646"
     ],
-    "name:mac_x_preferred":[
-        "\u0413\u0430\u0437\u0432\u0438\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u093e\u091d\u0935\u093f\u0928 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0413\u0430\u0437\u0432\u0438\u043d"
+    ],
+    "name:msa_x_preferred":[
         "Qazvin"
     ],
     "name:new_x_preferred":[
         "\u0915\u093e\u091c\u092d\u093f\u0928 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Qazvin"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0642\u0632\u0648\u06cc\u0646"
+    "name:nob_x_preferred":[
+        "Qazvin"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0642\u0627\u0632\u0648\u0646"
@@ -168,7 +163,7 @@
     "name:pus_x_preferred":[
         "\u0642\u0632\u0648\u064a\u0646 \u0648\u0644\u0627\u064a\u062a"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Qazv\u012bn"
     ],
     "name:rus_x_preferred":[
@@ -221,6 +216,9 @@
     ],
     "name:war_x_preferred":[
         "Qazv\u012bn"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u8332\u6eab\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"IRN",
@@ -343,7 +341,7 @@
     "wof:lang_x_spoken":[
         "fas"
     ],
-    "wof:lastmodified":1553814799,
+    "wof:lastmodified":1561767442,
     "wof:name":"Qazvin",
     "wof:parent_id":85632361,
     "wof:placetype":"region",

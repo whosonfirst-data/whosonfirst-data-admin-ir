@@ -20,9 +20,6 @@
     "name:arc_x_preferred":[
         "\u0710\u0718\u072a\u0721\u071d\u0710"
     ],
-    "name:arm_x_preferred":[
-        "\u0548\u0582\u0580\u0574\u056b\u0561"
-    ],
     "name:arz_x_preferred":[
         "\u0627\u0631\u0648\u0645\u064a\u0647"
     ],
@@ -31,9 +28,6 @@
     ],
     "name:aze_x_preferred":[
         "Urmiya"
-    ],
-    "name:baq_x_preferred":[
-        "Urmia"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0423\u0440\u043c\u0456\u044f"
@@ -47,23 +41,23 @@
     "name:cat_x_preferred":[
         "Urmia"
     ],
-    "name:chi_x_preferred":[
-        "\u4e4c\u5c14\u7c73\u8036"
+    "name:ces_x_preferred":[
+        "Orum\u00edje"
     ],
     "name:ckb_x_preferred":[
         "\u0648\u0631\u0645\u06ce"
     ],
-    "name:cze_x_preferred":[
-        "Orum\u00edje"
-    ],
     "name:dan_x_preferred":[
+        "Urmia"
+    ],
+    "name:deu_x_preferred":[
         "Urmia"
     ],
     "name:diq_x_preferred":[
         "\u00dbrm\u00eeye"
     ],
-    "name:dut_x_preferred":[
-        "Urmia"
+    "name:ell_x_preferred":[
+        "\u039f\u03cd\u03c1\u03bc\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Urmia"
@@ -71,23 +65,20 @@
     "name:epo_x_preferred":[
         "Urmia"
     ],
+    "name:eus_x_preferred":[
+        "Urmia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0631\u0648\u0645\u06cc\u0647"
+    ],
     "name:fin_x_preferred":[
         "Urmia"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ourmia"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10e0\u10db\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Urmia"
     ],
     "name:gla_x_preferred":[
         "Urmia"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03cd\u03c1\u03bc\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a89\u0ab0\u0acd\u0aae\u0abf\u0aaf\u0abe"
@@ -104,6 +95,9 @@
     "name:hun_x_preferred":[
         "Urmia"
     ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u0580\u0574\u056b\u0561"
+    ],
     "name:ind_x_preferred":[
         "Urmia"
     ],
@@ -118,6 +112,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c8a\u0cb0\u0ccd\u0cae\u0cbf\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10e0\u10db\u10d8\u10d0"
     ],
     "name:kor_x_preferred":[
         "\uc624\ub8e8\ubbf8\uc608"
@@ -134,17 +131,17 @@
     "name:mar_x_preferred":[
         "\u0909\u0930\u094d\u092e\u093f\u0906"
     ],
-    "name:may_x_preferred":[
+    "name:mlg_x_preferred":[
         "Urmia"
     ],
-    "name:mlg_x_preferred":[
+    "name:msa_x_preferred":[
+        "Urmia"
+    ],
+    "name:nld_x_preferred":[
         "Urmia"
     ],
     "name:nob_x_preferred":[
         "Urmia"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0631\u0648\u0645\u06cc\u0647"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u0631\u0648\u0645\u06cc\u06c1"
@@ -155,7 +152,7 @@
     "name:por_x_preferred":[
         "Urmia"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Urumieh"
     ],
     "name:rus_x_preferred":[
@@ -205,6 +202,9 @@
     ],
     "name:yue_x_preferred":[
         "\u70cf\u723e\u7c73\u8036"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e4c\u5c14\u7c73\u8036"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Iran",
@@ -325,7 +325,7 @@
         }
     ],
     "wof:id":1141906613,
-    "wof:lastmodified":1514455490,
+    "wof:lastmodified":1561767992,
     "wof:name":"Urmia",
     "wof:parent_id":1108720289,
     "wof:placetype":"locality",

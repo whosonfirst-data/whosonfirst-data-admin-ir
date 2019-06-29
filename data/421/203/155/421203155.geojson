@@ -19,10 +19,7 @@
     "name:aze_x_preferred":[
         "Meybod"
     ],
-    "name:chi_x_preferred":[
-        "\u6885\u535a\u5fb7"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Meybod"
     ],
     "name:eng_x_preferred":[
@@ -31,10 +28,10 @@
     "name:fas_x_preferred":[
         "\u0645\u064a\u0628\u062f"
     ],
-    "name:fre_x_preferred":[
-        "Meybod"
+    "name:fas_x_variant":[
+        "\u0645\u06cc\u0628\u062f"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Meybod"
     ],
     "name:hin_x_preferred":[
@@ -49,8 +46,8 @@
     "name:mlg_x_preferred":[
         "Meybod"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u06cc\u0628\u062f"
+    "name:nld_x_preferred":[
+        "Meybod"
     ],
     "name:pnb_x_preferred":[
         "\u0645\u06cc\u0628\u062f"
@@ -58,7 +55,7 @@
     "name:pol_x_preferred":[
         "Mejbod"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Meybod"
     ],
     "name:rus_x_preferred":[
@@ -72,6 +69,9 @@
     ],
     "name:unk_x_variant":[
         "Meybod"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u535a\u5fb7"
     ],
     "qs:gn_country":"IR",
     "qs:gn_fcode":"PPL",
@@ -119,7 +119,7 @@
         }
     ],
     "wof:id":421203155,
-    "wof:lastmodified":1514455326,
+    "wof:lastmodified":1561767788,
     "wof:name":"Maibud",
     "wof:parent_id":1108720239,
     "wof:placetype":"locality",

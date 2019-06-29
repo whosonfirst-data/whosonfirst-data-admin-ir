@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.893032,
-    "geom:area_square_m":29055859320.963783,
+    "geom:area_square_m":29055859320.963009,
     "geom:bbox":"45.5510365807,34.7408056731,48.2489836526,36.463056861",
     "geom:latitude":35.683401,
     "geom:longitude":46.98237,
@@ -38,9 +38,6 @@
     "name:aze_x_preferred":[
         "K\u00fcrd\u00fcstan ostan\u0131"
     ],
-    "name:baq_x_preferred":[
-        "Kurdistango probintzia"
-    ],
     "name:bel_x_preferred":[
         "\u0410\u0441\u0442\u0430\u043d \u041a\u0443\u0440\u0434\u044b\u0441\u0442\u0430\u043d"
     ],
@@ -56,23 +53,26 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia del Kurdistan"
     ],
-    "name:chi_x_preferred":[
-        "\u5eab\u723e\u5fb7\u65af\u5766\u7701"
+    "name:ces_x_preferred":[
+        "Kurdist\u00e1n"
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u06a9\u0648\u0631\u062f\u0633\u062a\u0627\u0646"
     ],
-    "name:cze_x_preferred":[
-        "Kurdist\u00e1n"
+    "name:cym_x_preferred":[
+        "Cyrdistan"
     ],
     "name:dan_x_preferred":[
         "Kurdistan"
     ],
+    "name:deu_x_preferred":[
+        "Kordest\u0101n"
+    ],
     "name:diq_x_preferred":[
         "Kurd\u0131stan"
     ],
-    "name:dut_x_preferred":[
-        "Kordestan"
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03c5\u03c1\u03b4\u03b9\u03c3\u03c4\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Kordestan"
@@ -82,6 +82,9 @@
     ],
     "name:est_x_preferred":[
         "Kurdistani provints"
+    ],
+    "name:eus_x_preferred":[
+        "Kurdistango probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u064f\u0633\u062a\u0627\u0646\u0650 \u0643\u064f\u0631\u062f\u0650\u0633\u062a\u0627\u0646"
@@ -96,17 +99,8 @@
     "name:fin_x_preferred":[
         "Kordest\u0101n"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Province iranienne du Kurdistan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e5\u10e3\u10e0\u10d7\u10d8\u10e1\u10e2\u10d0\u10dc\u10d8\u10e1 \u10dd\u10e1\u10e2\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kordest\u0101n"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c5\u03c1\u03b4\u03b9\u03c3\u03c4\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac1\u0ab0\u0acd\u0aa6\u0abf\u0ab8\u0acd\u0aa4\u0abe\u0aa8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -138,6 +132,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0cc1\u0cb0\u0ccd\u0ca6\u0cbf\u0cb8\u0ccd\u0ca4\u0cbe\u0ca8 \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10e3\u10e0\u10d7\u10d8\u10e1\u10e2\u10d0\u10dc\u10d8\u10e1 \u10dd\u10e1\u10e2\u10d0\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ucf54\ub974\ub370\uc2a4\ud0c4 \uc8fc"
     ],
@@ -153,13 +150,13 @@
     "name:lrc_x_preferred":[
         "\u0622\u0633\u062a\u0648\u0659\u0646 \u06a9\u0648\u0631\u062f\u0626\u0633\u062a\u0627\u0646"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0443\u0440\u0434\u0438\u0441\u0442\u0430\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u0941\u0930\u094d\u0926\u093f\u0938\u094d\u0924\u093e\u0928 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041a\u0443\u0440\u0434\u0438\u0441\u0442\u0430\u043d"
+    ],
+    "name:msa_x_preferred":[
         "Kurdistan"
     ],
     "name:mzn_x_preferred":[
@@ -168,14 +165,14 @@
     "name:new_x_preferred":[
         "\u0915\u0941\u0930\u094d\u0926\u093f\u0938\u094d\u0924\u093e\u0928 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
+    "name:nld_x_preferred":[
+        "Kordestan"
+    ],
     "name:nob_x_preferred":[
         "Kurdistan"
     ],
     "name:pan_x_preferred":[
         "\u0a15\u0a41\u0a30\u0a26\u0a3f\u0a38\u0a24\u0a3e\u0a28 \u0a38\u0a42\u0a2c\u0a3e"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0631\u062f\u0633\u062a\u0627\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u06a9\u0631\u062f\u0633\u062a\u0627\u0646"
@@ -189,7 +186,7 @@
     "name:pus_x_preferred":[
         "\u06a9\u0631\u062f\u0633\u062a\u0627\u0646 \u0648\u0644\u0627\u064a\u062a"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Kurdistan"
     ],
     "name:rus_x_preferred":[
@@ -243,8 +240,8 @@
     "name:war_x_preferred":[
         "Kurdistan"
     ],
-    "name:wel_x_preferred":[
-        "Cyrdistan"
+    "name:zho_x_preferred":[
+        "\u5eab\u723e\u5fb7\u65af\u5766\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"IRN",
@@ -369,7 +366,7 @@
     "wof:lang_x_spoken":[
         "fas"
     ],
-    "wof:lastmodified":1553814799,
+    "wof:lastmodified":1561767443,
     "wof:name":"Kordestan",
     "wof:parent_id":85632361,
     "wof:placetype":"region",

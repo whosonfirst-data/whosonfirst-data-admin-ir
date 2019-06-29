@@ -17,9 +17,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0631\u0627\u063a\u0629"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0561\u0580\u0561\u0572\u0561"
-    ],
     "name:arz_x_preferred":[
         "\u0645\u0631\u0627\u063a\u0647"
     ],
@@ -38,25 +35,22 @@
     "name:cat_x_preferred":[
         "Maragha"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u62c9\u84cb"
-    ],
     "name:ckb_x_preferred":[
         "\u0645\u06d5\u0631\u0627\u063a\u06d5"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Maragha"
     ],
     "name:eng_x_preferred":[
         "Maragheh"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u0627\u063a\u0647"
+    ],
     "name:fin_x_preferred":[
         "Maragheh"
     ],
-    "name:fre_x_preferred":[
-        "Maragha"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Maragha"
     ],
     "name:glg_x_preferred":[
@@ -71,6 +65,9 @@
     "name:hrv_x_preferred":[
         "Maraga"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0580\u0561\u0572\u0561"
+    ],
     "name:ita_x_preferred":[
         "Maragheh"
     ],
@@ -80,17 +77,17 @@
     "name:kor_x_preferred":[
         "\ub9c8\ub77c\uac8c"
     ],
-    "name:may_x_preferred":[
-        "Maragheh"
-    ],
     "name:mlg_x_preferred":[
         "Maragheh"
     ],
-    "name:nob_x_preferred":[
+    "name:msa_x_preferred":[
         "Maragheh"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0631\u0627\u063a\u0647"
+    "name:nld_x_preferred":[
+        "Maragha"
+    ],
+    "name:nob_x_preferred":[
+        "Maragheh"
     ],
     "name:pnb_x_preferred":[
         "\u0645\u0631\u0627\u063a\u0647"
@@ -101,7 +98,7 @@
     "name:por_x_preferred":[
         "Maragha"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Maragheh"
     ],
     "name:rus_x_preferred":[
@@ -136,6 +133,9 @@
     ],
     "name:war_x_preferred":[
         "Maraqeh"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u62c9\u84cb"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Iran",
@@ -256,7 +256,7 @@
         }
     ],
     "wof:id":1141907873,
-    "wof:lastmodified":1514455329,
+    "wof:lastmodified":1561767993,
     "wof:name":"Maragheh",
     "wof:parent_id":1108720217,
     "wof:placetype":"locality",

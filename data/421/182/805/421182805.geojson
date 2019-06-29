@@ -19,9 +19,6 @@
     "name:afr_x_preferred":[
         "Bukan"
     ],
-    "name:alb_x_preferred":[
-        "Bukan"
-    ],
     "name:als_x_preferred":[
         "Bukan"
     ],
@@ -41,9 +38,6 @@
         "\u0628\u0648\u06a9\u0627\u0646"
     ],
     "name:aze_x_preferred":[
-        "Bukan"
-    ],
-    "name:baq_x_preferred":[
         "Bukan"
     ],
     "name:ben_x_preferred":[
@@ -67,14 +61,11 @@
     "name:ces_x_preferred":[
         "B\u016bk\u0101n"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u574e"
+    "name:ces_x_variant":[
+        "B\u00fak\u00e1n"
     ],
     "name:ckb_x_preferred":[
         "\u0628\u06c6\u06a9\u0627\u0646"
-    ],
-    "name:cze_x_preferred":[
-        "B\u00fak\u00e1n"
     ],
     "name:dan_x_preferred":[
         "Bukan"
@@ -85,8 +76,8 @@
     "name:diq_x_preferred":[
         "Bukan"
     ],
-    "name:dut_x_preferred":[
-        "Bukan"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03ba\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Bukan"
@@ -104,7 +95,8 @@
         "\u0628\u0648\u06a9\u0627\u0646"
     ],
     "name:fas_x_variant":[
-        "B\u016bk\u0101n"
+        "B\u016bk\u0101n",
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0628\u0648\u06a9\u0627\u0646"
     ],
     "name:fin_x_preferred":[
         "Bukan"
@@ -112,23 +104,11 @@
     "name:fra_x_preferred":[
         "Bukan"
     ],
-    "name:fre_x_preferred":[
-        "Bukan"
-    ],
     "name:gag_x_preferred":[
-        "Bukan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10e3\u10e5\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Bukan"
     ],
     "name:glk_x_preferred":[
         "\u0628\u0648\u06a9\u0624\u0646"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03c5\u03ba\u03ac\u03bd"
     ],
     "name:gsw_x_preferred":[
         "Bukan"
@@ -187,14 +167,8 @@
     "name:lit_x_preferred":[
         "Bukanas"
     ],
-    "name:mao_x_preferred":[
-        "Bukan"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u0941\u0915\u0947\u0928"
-    ],
-    "name:may_x_preferred":[
-        "Bukan"
     ],
     "name:mlg_x_preferred":[
         "Bukan"
@@ -226,9 +200,6 @@
     "name:pdc_x_preferred":[
         "Bukan"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0628\u0648\u06a9\u0627\u0646"
-    ],
     "name:pnb_x_preferred":[
         "\u0628\u0648\u06a9\u0627\u0646"
     ],
@@ -247,9 +218,6 @@
     "name:ron_x_preferred":[
         "Bukan"
     ],
-    "name:rum_x_preferred":[
-        "Bukan"
-    ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u043a\u0430\u043d"
     ],
@@ -265,10 +233,10 @@
     "name:slk_x_preferred":[
         "Bukan"
     ],
-    "name:slo_x_preferred":[
+    "name:spa_x_preferred":[
         "Bukan"
     ],
-    "name:spa_x_preferred":[
+    "name:sqi_x_preferred":[
         "Bukan"
     ],
     "name:srd_x_preferred":[
@@ -375,7 +343,7 @@
         }
     ],
     "wof:id":421182805,
-    "wof:lastmodified":1527726436,
+    "wof:lastmodified":1561767795,
     "wof:name":"Bokan",
     "wof:parent_id":1108719915,
     "wof:placetype":"locality",
