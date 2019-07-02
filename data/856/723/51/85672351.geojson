@@ -41,9 +41,6 @@
     "name:aze_x_preferred":[
         "Qum ostan\u0131"
     ],
-    "name:baq_x_preferred":[
-        "Qom"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09ae \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -53,23 +50,26 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Qom"
     ],
-    "name:chi_x_preferred":[
-        "\u5eab\u59c6\u7701"
+    "name:ces_x_preferred":[
+        "Qom"
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0642\u0648\u0645"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Qom"
     ],
     "name:dan_x_preferred":[
         "Qom"
     ],
+    "name:deu_x_preferred":[
+        "Ghom"
+    ],
     "name:diq_x_preferred":[
         "Qum"
     ],
-    "name:dut_x_preferred":[
-        "Qom"
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bc"
     ],
     "name:eng_x_preferred":[
         "Qom"
@@ -80,26 +80,21 @@
     "name:est_x_preferred":[
         "Qomi provints"
     ],
+    "name:eus_x_preferred":[
+        "Qom"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u064f\u0633\u062a\u0627\u0646\u0650 \u0642\u064f\u0645"
     ],
     "name:fas_x_variant":[
-        "Ost\u0101n-e Qom"
+        "Ost\u0101n-e Qom",
+        "\u0627\u0633\u062a\u0627\u0646 \u0642\u0645"
     ],
     "name:fin_x_preferred":[
         "Qom"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "province de Qom"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e7\u10e3\u10db\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Ghom"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03bc"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0aae \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -128,6 +123,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0ccd\u0cb5\u0ccb\u0cae\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10e3\u10db\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ucff0 \uc8fc"
     ],
@@ -143,13 +141,13 @@
     "name:lrc_x_preferred":[
         "\u0622\u0633\u062a\u0648\u0659\u0646 \u0642\u0648\u0645"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u043e\u043c"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u094b\u092e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041a\u043e\u043c"
+    ],
+    "name:msa_x_preferred":[
         "Qom"
     ],
     "name:mzn_x_preferred":[
@@ -158,14 +156,14 @@
     "name:new_x_preferred":[
         "\u0915\u094b\u092e \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
+    "name:nld_x_preferred":[
+        "Qom"
+    ],
     "name:nob_x_preferred":[
         "Qom"
     ],
     "name:oss_x_preferred":[
         "\u041a\u0443\u043c"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0642\u0645"
     ],
     "name:pnb_x_preferred":[
         "\u0642\u0648\u0645"
@@ -179,7 +177,7 @@
     "name:pus_x_preferred":[
         "\u062f \u0642\u0645 \u0648\u0644\u0627\u064a\u062a"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Qom"
     ],
     "name:rus_x_preferred":[
@@ -230,8 +228,8 @@
     "name:war_x_preferred":[
         "Qom"
     ],
-    "name:wel_x_preferred":[
-        "Qom"
+    "name:zho_x_preferred":[
+        "\u5eab\u59c6\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"IRN",
@@ -356,7 +354,7 @@
     "wof:lang_x_spoken":[
         "fas"
     ],
-    "wof:lastmodified":1553550376,
+    "wof:lastmodified":1561767442,
     "wof:name":"Qom",
     "wof:parent_id":85632361,
     "wof:placetype":"region",

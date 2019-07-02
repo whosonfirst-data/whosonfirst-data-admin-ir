@@ -17,9 +17,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0634\u0647\u0631"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0578\u0582\u0577\u056b\u0580"
-    ],
     "name:arz_x_preferred":[
         "\u0628\u0648\u0634\u0647\u0631"
     ],
@@ -28,9 +25,6 @@
     ],
     "name:aze_x_preferred":[
         "Bu\u015fehr"
-    ],
-    "name:baq_x_preferred":[
-        "Buxehr"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0443\u0448\u044b\u0440"
@@ -44,10 +38,7 @@
     "name:cat_x_preferred":[
         "Buixehr"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u4ec0\u5c14"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "B\u00fa\u0161ehr"
     ],
     "name:dan_x_preferred":[
@@ -56,8 +47,8 @@
     "name:deu_x_preferred":[
         "Buschehr"
     ],
-    "name:dut_x_preferred":[
-        "Bushehr"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03c3\u03ad\u03c7\u03c1"
     ],
     "name:eng_x_preferred":[
         "Bushehr"
@@ -67,6 +58,9 @@
     ],
     "name:epo_x_preferred":[
         "Bu\u015dehr"
+    ],
+    "name:eus_x_preferred":[
+        "Buxehr"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0648\u0634\u0650\u0647\u0631"
@@ -83,17 +77,8 @@
     "name:fra_x_preferred":[
         "Bushehr"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Bouchehr"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10e3\u10e8\u10d8\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Buschehr"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03c5\u03c3\u03ad\u03c7\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac1\u0ab6\u0ac7\u0ab0"
@@ -107,6 +92,9 @@
     "name:hun_x_preferred":[
         "Bandar Busehr"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0582\u0577\u056b\u0580"
+    ],
     "name:ind_x_preferred":[
         "Bushehr"
     ],
@@ -118,6 +106,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cac\u0cc1\u0cb6\u0cc6\u0cb9\u0cb0\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e3\u10e8\u10d8\u10e0\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0411\u0443\u0448\u0438\u0440"
@@ -137,10 +128,10 @@
     "name:mar_x_preferred":[
         "\u092c\u0941\u0936\u0939\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:mlg_x_preferred":[
         "Bushehr"
     ],
-    "name:mlg_x_preferred":[
+    "name:msa_x_preferred":[
         "Bushehr"
     ],
     "name:mzn_x_preferred":[
@@ -155,9 +146,6 @@
     "name:oss_x_preferred":[
         "\u0411\u0443\u0448\u0438\u0440"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0646\u062f\u0631 \u0628\u0648\u0634\u0647\u0631"
-    ],
     "name:pnb_x_preferred":[
         "\u0628\u0648\u0634\u0647\u0631"
     ],
@@ -167,7 +155,7 @@
     "name:por_x_preferred":[
         "Bushehr"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bushehr"
     ],
     "name:rus_x_preferred":[
@@ -226,6 +214,9 @@
     ],
     "name:war_x_preferred":[
         "Bushehr"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u4ec0\u5c14"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Iran",
@@ -366,7 +357,7 @@
         }
     ],
     "wof:id":421179877,
-    "wof:lastmodified":1514455044,
+    "wof:lastmodified":1561767795,
     "wof:name":"Bandar-e Bushehr",
     "wof:parent_id":1108719917,
     "wof:placetype":"locality",

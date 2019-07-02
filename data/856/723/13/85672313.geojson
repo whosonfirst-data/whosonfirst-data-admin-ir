@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.363016,
-    "geom:area_square_m":13711598562.546673,
+    "geom:area_square_m":13711598562.546135,
     "geom:bbox":"50.3328197192,34.864582815,53.1566246488,36.139567495",
     "geom:latitude":35.554679,
     "geom:longitude":51.723961,
@@ -32,9 +32,6 @@
     "name:ara_x_preferred":[
         "\u0637\u0647\u0631\u0627\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0539\u0565\u0570\u0580\u0561\u0576"
-    ],
     "name:arz_x_preferred":[
         "\u0637\u0647\u0631\u0627\u0646"
     ],
@@ -43,9 +40,6 @@
     ],
     "name:aze_x_preferred":[
         "Tehran ostan\u0131"
-    ],
-    "name:baq_x_preferred":[
-        "Teherango probintzia"
     ],
     "name:bel_x_preferred":[
         "\u0430\u0441\u0442\u0430\u043d \u0422\u044d\u0433\u0435\u0440\u0430\u043d"
@@ -62,14 +56,14 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Teheran"
     ],
-    "name:chi_x_preferred":[
-        "\u5fb7\u9ed1\u862d\u7701"
+    "name:ces_x_preferred":[
+        "Teher\u00e1n"
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u062a\u0627\u0631\u0627\u0646"
     ],
-    "name:cze_x_preferred":[
-        "Teher\u00e1n"
+    "name:cym_x_preferred":[
+        "Tehran"
     ],
     "name:dan_x_preferred":[
         "Teheran"
@@ -80,8 +74,8 @@
     "name:diq_x_preferred":[
         "Tehran"
     ],
-    "name:dut_x_preferred":[
-        "Teheran"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b5\u03c7\u03c1\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Tehran"
@@ -89,13 +83,17 @@
     "name:epo_x_preferred":[
         "Provinco Teherano"
     ],
+    "name:eus_x_preferred":[
+        "Teherango probintzia"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u064f\u0633\u062a\u0627\u0646\u0650 \u062a\u0650\u0647\u0631\u0627\u0646"
     ],
     "name:fas_x_variant":[
         "\u062a\u0650\u0647\u0650\u0631\u064e\u0646",
         "Tehr\u0101n",
-        "Ost\u0101n-e Tehr\u0101n"
+        "Ost\u0101n-e Tehr\u0101n",
+        "\u0627\u0633\u062a\u0627\u0646 \u062a\u0647\u0631\u0627\u0646"
     ],
     "name:fin_x_preferred":[
         "Tehr\u0101n"
@@ -107,20 +105,11 @@
         "Theranissa",
         "Thereanin"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "province de T\u00e9h\u00e9ran"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d7\u10d4\u10d8\u10e0\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Teheran"
     ],
     "name:glk_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u062a\u0647\u0631\u0627\u0646"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b5\u03c7\u03c1\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0ac7\u0ab9\u0ab0\u0abe\u0aa8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -137,6 +126,9 @@
     "name:hun_x_preferred":[
         "Teher\u00e1n tartom\u00e1ny"
     ],
+    "name:hye_x_preferred":[
+        "\u0539\u0565\u0570\u0580\u0561\u0576"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Tehran"
     ],
@@ -151,6 +143,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c9f\u0cc6\u0cb9\u0ccd\u0cb0\u0cbe\u0ca8\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10d4\u10d8\u10e0\u10d0\u10dc\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ud14c\ud5e4\ub780"
@@ -167,13 +162,13 @@
     "name:lrc_x_preferred":[
         "\u0622\u0633\u062a\u0648\u0646 \u062a\u06cc\u0631\u0648"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0435\u0445\u0435\u0440\u0430\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u0924\u0947\u0939\u0930\u093e\u0928 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0422\u0435\u0445\u0435\u0440\u0430\u043d"
+    ],
+    "name:msa_x_preferred":[
         "Teheran"
     ],
     "name:mzn_x_preferred":[
@@ -182,14 +177,14 @@
     "name:new_x_preferred":[
         "\u0924\u0947\u0939\u0930\u093e\u0928 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
+    "name:nld_x_preferred":[
+        "Teheran"
+    ],
     "name:nob_x_preferred":[
         "Teheran"
     ],
     "name:nor_x_preferred":[
         "Teheran"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062a\u0647\u0631\u0627\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062a\u06c1\u0631\u0627\u0646"
@@ -203,7 +198,7 @@
     "name:pus_x_preferred":[
         "\u062a\u0647\u0631\u0627\u0646 \u0648\u0644\u0627\u064a\u062a"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Tehran"
     ],
     "name:rus_x_preferred":[
@@ -263,14 +258,14 @@
     "name:war_x_preferred":[
         "Tehran"
     ],
-    "name:wel_x_preferred":[
-        "Tehran"
-    ],
     "name:xmf_x_preferred":[
         "\u10d7\u10d4\u10d8\u10e0\u10d0\u10dc\u10d8\u10e8 \u10dd\u10e1\u10e2\u10d0\u10dc\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u5fb7\u9ed1\u5170"
+    ],
+    "name:zho_x_variant":[
+        "\u5fb7\u9ed1\u862d\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"IRN",
@@ -395,7 +390,7 @@
     "wof:lang_x_spoken":[
         "fas"
     ],
-    "wof:lastmodified":1553814798,
+    "wof:lastmodified":1561767446,
     "wof:name":"Tehran",
     "wof:parent_id":85632361,
     "wof:placetype":"region",

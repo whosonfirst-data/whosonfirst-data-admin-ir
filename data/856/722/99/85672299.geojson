@@ -29,9 +29,6 @@
     "name:ara_x_preferred":[
         "\u063a\u0644\u0633\u062a\u0627\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0533\u0578\u056c\u0565\u057d\u057f\u0561\u0576"
-    ],
     "name:arz_x_preferred":[
         "\u062c\u0644\u0633\u062a\u0627\u0646"
     ],
@@ -40,9 +37,6 @@
     ],
     "name:aze_x_preferred":[
         "G\u00fcl\u00fcstan ostan\u0131"
-    ],
-    "name:baq_x_preferred":[
-        "Golestan"
     ],
     "name:bel_x_preferred":[
         "\u0413\u0430\u043b\u0435\u0441\u0442\u0430\u043d"
@@ -56,23 +50,23 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Golestan"
     ],
-    "name:chi_x_preferred":[
-        "\u6208\u52d2\u65af\u5766\u7701"
+    "name:ces_x_preferred":[
+        "Golest\u00e1n"
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u06af\u0648\u06b5\u0633\u062a\u0627\u0646"
     ],
-    "name:cze_x_preferred":[
-        "Golest\u00e1n"
-    ],
     "name:dan_x_preferred":[
+        "Golestan"
+    ],
+    "name:deu_x_preferred":[
         "Golestan"
     ],
     "name:diq_x_preferred":[
         "Gulistan"
     ],
-    "name:dut_x_preferred":[
-        "Golestan"
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03bb\u03b5\u03c3\u03c4\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Golestan"
@@ -83,28 +77,23 @@
     "name:est_x_preferred":[
         "Golest\u0101n"
     ],
+    "name:eus_x_preferred":[
+        "Golestan"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u064f\u0633\u062a\u0627\u0646\u0650 \u06af\u064f\u0644\u0650\u0633\u062a\u0627\u0646"
     ],
     "name:fas_x_variant":[
         "Ost\u0101n-e Golest\u0101n",
         "Golest\u0101n",
-        "\u06af\u0644\u0633\u062a\u0627\u0646"
+        "\u06af\u0644\u0633\u062a\u0627\u0646",
+        "\u0627\u0633\u062a\u0627\u0646 \u06af\u0644\u0633\u062a\u0627\u0646"
     ],
     "name:fin_x_preferred":[
         "Golestanin provinssi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Golestan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10e3\u10da\u10d8\u10e1\u10e2\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Golestan"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03bf\u03bb\u03b5\u03c3\u03c4\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0ac1\u0ab2\u0ac7\u0ab8\u0acd\u0a9f\u0ac7\u0aa8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -124,6 +113,9 @@
     "name:hun_x_preferred":[
         "Goleszt\u00e1n tartom\u00e1ny"
     ],
+    "name:hye_x_preferred":[
+        "\u0533\u0578\u056c\u0565\u057d\u057f\u0561\u0576"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Golest\u0101n"
     ],
@@ -135,6 +127,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c97\u0ccb\u0cb2\u0cbf\u0cb8\u0ccd\u0ca4\u0cbe\u0ca8\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10e3\u10da\u10d8\u10e1\u10e2\u10d0\u10dc\u10d8"
     ],
     "name:kor_x_preferred":[
         "\uace8\ub808\uc2a4\ud0c4 \uc8fc"
@@ -151,13 +146,13 @@
     "name:lrc_x_preferred":[
         "\u0622\u0633\u062a\u0648\u0659\u0646 \u06af\u0648\u0644\u0626\u0633\u062a\u0627\u0646"
     ],
-    "name:mac_x_preferred":[
-        "\u0413\u043e\u043b\u0435\u0441\u0442\u0430\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u0917\u094b\u0932\u0947\u0938\u094d\u0924\u093e\u0928 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0413\u043e\u043b\u0435\u0441\u0442\u0430\u043d"
+    ],
+    "name:msa_x_preferred":[
         "Golestan"
     ],
     "name:mzn_x_preferred":[
@@ -166,14 +161,14 @@
     "name:new_x_preferred":[
         "\u0917\u094b\u0932\u0947\u0938\u094d\u0924\u093e\u0928 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
+    "name:nld_x_preferred":[
+        "Golestan"
+    ],
     "name:nob_x_preferred":[
         "Golestan"
     ],
     "name:oss_x_preferred":[
         "\u0413\u043e\u043b\u0435\u0441\u0442\u0430\u043d"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u06af\u0644\u0633\u062a\u0627\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u06af\u0648\u0644\u0633\u062a\u0627\u0646"
@@ -243,6 +238,9 @@
     ],
     "name:war_x_preferred":[
         "Golest\u0101n"
+    ],
+    "name:zho_x_preferred":[
+        "\u6208\u52d2\u65af\u5766\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"IRN",
@@ -367,7 +365,7 @@
     "wof:lang_x_spoken":[
         "fas"
     ],
-    "wof:lastmodified":1553550413,
+    "wof:lastmodified":1561767435,
     "wof:name":"Golestan",
     "wof:parent_id":85632361,
     "wof:placetype":"region",

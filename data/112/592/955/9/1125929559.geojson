@@ -28,12 +28,6 @@
     "name:aze_x_preferred":[
         "\u0645\u0626\u0647\u0631\u06cc\u0632"
     ],
-    "name:chi_x_preferred":[
-        "\u6885\u8d6b\u91cc\u8332"
-    ],
-    "name:dut_x_preferred":[
-        "Mehriz"
-    ],
     "name:eng_x_preferred":[
         "Mehriz"
     ],
@@ -42,9 +36,10 @@
     ],
     "name:fas_x_variant":[
         "Mehr\u012bz",
-        "\u0645\u0647\u0631\u064a\u0632"
+        "\u0645\u0647\u0631\u064a\u0632",
+        "\u0645\u0647\u0631\u06cc\u0632"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mehriz"
     ],
     "name:ita_x_preferred":[
@@ -53,8 +48,8 @@
     "name:mlg_x_preferred":[
         "Mehriz"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0647\u0631\u06cc\u0632"
+    "name:nld_x_preferred":[
+        "Mehriz"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u0445\u0440\u0438\u0437"
@@ -73,6 +68,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u06c1\u0631\u06cc\u0632"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u8d6b\u91cc\u8332"
     ],
     "qs_pg:aaroncc":"IR",
     "qs_pg:gn_country":"IR",
@@ -113,7 +111,7 @@
         }
     ],
     "wof:id":1125929559,
-    "wof:lastmodified":1514455349,
+    "wof:lastmodified":1561767796,
     "wof:name":"Mehr\u012bz",
     "wof:parent_id":1108720235,
     "wof:placetype":"locality",

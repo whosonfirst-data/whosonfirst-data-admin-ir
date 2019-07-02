@@ -25,12 +25,6 @@
     "name:aze_x_preferred":[
         "Takistan"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u51f1\u65af\u5766"
-    ],
-    "name:dut_x_preferred":[
-        "Takestan"
-    ],
     "name:eng_x_preferred":[
         "Takestan"
     ],
@@ -40,9 +34,10 @@
     "name:fas_x_variant":[
         "\u0633\u064a\u064e\u0647\u062f\u0650\u0647\u0627\u0646",
         "\u0633\u064a\u0627\u062f\u0650\u0647\u064e\u0646",
-        "T\u0101kest\u0101n"
+        "T\u0101kest\u0101n",
+        "\u062a\u0627\u06a9\u0633\u062a\u0627\u0646"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Takestan"
     ],
     "name:hin_x_preferred":[
@@ -54,8 +49,8 @@
     "name:mlg_x_preferred":[
         "Takestan"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0627\u06a9\u0633\u062a\u0627\u0646"
+    "name:nld_x_preferred":[
+        "Takestan"
     ],
     "name:pnb_x_preferred":[
         "\u062a\u0627\u06a9\u0633\u062a\u0627\u0646"
@@ -63,7 +58,7 @@
     "name:pol_x_preferred":[
         "Takestan"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Takestan"
     ],
     "name:rus_x_preferred":[
@@ -83,6 +78,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062a\u0627\u06a9\u0633\u062a\u0627\u0646"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u51f1\u65af\u5766"
     ],
     "qs:gn_country":"IR",
     "qs:gn_fcode":"PPL",
@@ -131,7 +129,7 @@
         }
     ],
     "wof:id":421204879,
-    "wof:lastmodified":1553816390,
+    "wof:lastmodified":1561767787,
     "wof:name":"Seyadahan",
     "wof:parent_id":1108720479,
     "wof:placetype":"locality",

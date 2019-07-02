@@ -16,9 +16,6 @@
     "name:ara_x_preferred":[
         "\u0633\u0644\u0645\u0627\u0633"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u056c\u0574\u0561\u057d\u057f"
-    ],
     "name:azb_x_preferred":[
         "\u0633\u0644\u0645\u0627\u0633"
     ],
@@ -31,14 +28,11 @@
     "name:cat_x_preferred":[
         "Salmas"
     ],
-    "name:chi_x_preferred":[
-        "\u6c99\u8d6b\u666e\u723e"
-    ],
     "name:ckb_x_preferred":[
         "\u0633\u06d5\u06b5\u0645\u0627\u0633"
     ],
-    "name:dut_x_preferred":[
-        "Salmas"
+    "name:deu_x_preferred":[
+        "Salamas"
     ],
     "name:eng_x_preferred":[
         "Salmas"
@@ -52,14 +46,14 @@
     "name:fas_x_variant":[
         "\u0633\u0644\u0645\u0627\u0633"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Salmas"
-    ],
-    "name:ger_x_preferred":[
-        "Salamas"
     ],
     "name:hin_x_preferred":[
         "\u0938\u093e\u0932\u092e\u093e\u0938"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u056c\u0574\u0561\u057d\u057f"
     ],
     "name:ita_x_preferred":[
         "Salmas"
@@ -70,14 +64,14 @@
     "name:kur_x_preferred":[
         "Dilmaqan"
     ],
-    "name:may_x_preferred":[
-        "Salmas"
-    ],
     "name:mlg_x_preferred":[
         "Salmas"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0644\u0645\u0627\u0633"
+    "name:msa_x_preferred":[
+        "Salmas"
+    ],
+    "name:nld_x_preferred":[
+        "Salmas"
     ],
     "name:pnb_x_preferred":[
         "\u0633\u0644\u0645\u0627\u0633"
@@ -85,7 +79,7 @@
     "name:pol_x_preferred":[
         "Salmas"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Salmas"
     ],
     "name:rus_x_preferred":[
@@ -105,6 +99,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0644\u0645\u0627\u0633"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u8d6b\u666e\u723e"
     ],
     "qs:gn_country":"IR",
     "qs:gn_fcode":"PPL",
@@ -153,7 +150,7 @@
         }
     ],
     "wof:id":421197283,
-    "wof:lastmodified":1553816384,
+    "wof:lastmodified":1561767792,
     "wof:name":"Shahpur",
     "wof:parent_id":1108720375,
     "wof:placetype":"locality",

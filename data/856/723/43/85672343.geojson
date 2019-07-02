@@ -29,9 +29,6 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u0631\u062f\u0628\u064a\u0644"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u0580\u0564\u0561\u0562\u056b\u056c"
-    ],
     "name:arz_x_preferred":[
         "\u0627\u0631\u062f\u0628\u064a\u0644"
     ],
@@ -43,9 +40,6 @@
     ],
     "name:bak_x_preferred":[
         "\u04d8\u0440\u0434\u04d9\u0431\u0438\u043b"
-    ],
-    "name:baq_x_preferred":[
-        "Ardabil"
     ],
     "name:bel_x_preferred":[
         "\u0410\u0440\u0434\u044d\u0431\u0456\u043b\u044c"
@@ -59,23 +53,23 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Ardabil"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u723e\u9054\u6bd4\u52d2\u7701"
+    "name:ces_x_preferred":[
+        "Ardab\u00edl"
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0626\u06d5\u0631\u062f\u06d5\u0648\u06ce\u06b5"
     ],
-    "name:cze_x_preferred":[
-        "Ardab\u00edl"
-    ],
     "name:dan_x_preferred":[
+        "Ardabil"
+    ],
+    "name:deu_x_preferred":[
         "Ardabil"
     ],
     "name:diq_x_preferred":[
         "Erdebil"
     ],
-    "name:dut_x_preferred":[
-        "Ardebil"
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03bd\u03c4\u03b1\u03bc\u03c0\u03af\u03bb"
     ],
     "name:eng_x_preferred":[
         "Ardabil"
@@ -86,31 +80,26 @@
     "name:est_x_preferred":[
         "Ardab\u012bli provints"
     ],
+    "name:eus_x_preferred":[
+        "Ardabil"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0627\u0631\u062f\u0628\u064a\u0644"
     ],
     "name:fas_x_variant":[
         "Ost\u0101n-e Ardab\u012bl",
         "Ardab\u012bl",
-        "\u0627\u0631\u062f\u0628\u064a\u0644"
+        "\u0627\u0631\u062f\u0628\u064a\u0644",
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0631\u062f\u0628\u06cc\u0644"
     ],
     "name:fin_x_preferred":[
         "Ardab\u012bl"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "province d'Ardabil"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e0\u10d3\u10d0\u10d1\u10d8\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Ardabil"
     ],
     "name:glk_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0627\u0631\u062f\u0628\u06cc\u0644"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c1\u03bd\u03c4\u03b1\u03bc\u03c0\u03af\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab0\u0acd\u0aa1\u0abe\u0aac\u0abf\u0ab2 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -130,6 +119,9 @@
     "name:hun_x_preferred":[
         "Ardabil tartom\u00e1ny"
     ],
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u0564\u0561\u0562\u056b\u056c"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Ardabil"
     ],
@@ -141,6 +133,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c86\u0cb0\u0ccd\u0ca1\u0cac\u0cbf\u0cb2\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e0\u10d3\u10d0\u10d1\u10d8\u10da\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0410\u0440\u0434\u0435\u0431\u0438\u043b"
@@ -160,29 +155,29 @@
     "name:lrc_x_preferred":[
         "\u0622\u0633\u062a\u0648\u0659\u0646 \u0623\u0631\u062f\u0626\u0628\u06cc\u0644"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u0440\u0434\u0430\u0431\u0438\u043b"
-    ],
     "name:mar_x_preferred":[
         "\u0905\u0930\u094d\u0926\u093e\u092c\u093f\u0932 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Ardabil"
+    "name:mkd_x_preferred":[
+        "\u0410\u0440\u0434\u0430\u0431\u0438\u043b"
     ],
     "name:mon_x_preferred":[
         "\u0410\u0440\u0434\u0435\u0431\u0438\u043b\u044c \u043c\u0443\u0436"
     ],
+    "name:msa_x_preferred":[
+        "Ardabil"
+    ],
     "name:new_x_preferred":[
         "\u0905\u0930\u0926\u092c\u0940\u0932 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
+    ],
+    "name:nld_x_preferred":[
+        "Ardebil"
     ],
     "name:nob_x_preferred":[
         "Ardabil"
     ],
     "name:oss_x_preferred":[
         "\u0410\u0440\u0434\u0435\u0431\u0438\u043b\u044c"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0631\u062f\u0628\u06cc\u0644"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u0631\u062f\u0628\u06cc\u0644"
@@ -196,7 +191,7 @@
     "name:pus_x_preferred":[
         "\u0627\u0631\u062f\u0628\u064a\u0644 \u0648\u0644\u0627\u064a\u062a"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Ardabil"
     ],
     "name:rus_x_preferred":[
@@ -252,6 +247,9 @@
     ],
     "name:war_x_preferred":[
         "Ardabil"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u723e\u9054\u6bd4\u52d2\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"IRN",
@@ -376,7 +374,7 @@
     "wof:lang_x_spoken":[
         "fas"
     ],
-    "wof:lastmodified":1553550422,
+    "wof:lastmodified":1561767444,
     "wof:name":"Ardebil",
     "wof:parent_id":85632361,
     "wof:placetype":"region",

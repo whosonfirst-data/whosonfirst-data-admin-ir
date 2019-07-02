@@ -32,9 +32,6 @@
     "name:ara_x_variant":[
         "\u062e\u0648\u0632\u0633\u062a\u0627\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u053d\u0578\u0582\u0566\u0565\u057d\u057f\u0561\u0576"
-    ],
     "name:arz_x_preferred":[
         "\u062e\u0648\u0632\u0633\u062a\u0627\u0646"
     ],
@@ -43,9 +40,6 @@
     ],
     "name:aze_x_preferred":[
         "Xuzistan ostan\u0131"
-    ],
-    "name:baq_x_preferred":[
-        "Khuzestan"
     ],
     "name:bel_x_preferred":[
         "\u0425\u0443\u0437\u0435\u0441\u0442\u0430\u043d"
@@ -62,14 +56,14 @@
     "name:cat_x_preferred":[
         "Khuzestan"
     ],
-    "name:chi_x_preferred":[
-        "\u80e1\u9f4a\u65af\u5766\u7701"
+    "name:ces_x_preferred":[
+        "Ch\u00fazist\u00e1n"
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u062e\u0648\u0648\u0632\u0633\u062a\u0627\u0646"
     ],
-    "name:cze_x_preferred":[
-        "Ch\u00fazist\u00e1n"
+    "name:cym_x_preferred":[
+        "Kh\u016bzest\u0101n"
     ],
     "name:dan_x_preferred":[
         "Khusistan"
@@ -80,8 +74,8 @@
     "name:diq_x_preferred":[
         "Xuz\u0131stan"
     ],
-    "name:dut_x_preferred":[
-        "Khuzestan"
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03c5\u03b6\u03b5\u03c3\u03c4\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Khuzestan"
@@ -96,6 +90,9 @@
     "name:est_x_preferred":[
         "Kh\u016bzest\u0101n"
     ],
+    "name:eus_x_preferred":[
+        "Khuzestan"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u062e\u0648\u0632\u0633\u062a\u0627\u0646"
     ],
@@ -107,18 +104,6 @@
     ],
     "name:fra_x_preferred":[
         "Khuzestan"
-    ],
-    "name:fre_x_preferred":[
-        "Khuzestan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ee\u10e3\u10d6\u10d8\u10e1\u10e2\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Chuzestan"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03bf\u03c5\u03b6\u03b5\u03c3\u03c4\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a96\u0ac1\u0a9d\u0ac7\u0ab8\u0acd\u0aa4\u0abe\u0aa8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -135,6 +120,9 @@
     "name:hun_x_preferred":[
         "Huzeszt\u00e1n tartom\u00e1ny"
     ],
+    "name:hye_x_preferred":[
+        "\u053d\u0578\u0582\u0566\u0565\u057d\u057f\u0561\u0576"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Kh\u016bzest\u0101n"
     ],
@@ -149,6 +137,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c96\u0cc1\u0c9c\u0cc6\u0cb8\u0ccd\u0ca4\u0cbe\u0ca8\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10e3\u10d6\u10d8\u10e1\u10e2\u10d0\u10dc\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ud6c4\uc81c\uc2a4\ud0c4 \uc8fc"
@@ -168,13 +159,13 @@
     "name:lrc_x_preferred":[
         "\u0622\u0633\u062a\u0648\u0659\u0646 \u062e\u0648\u0659\u0632\u0626\u0633\u062a\u0627\u0646"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0443\u0437\u0435\u0441\u0442\u0430\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u0916\u0941\u091c\u0938\u094d\u0924\u093e\u0928 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041a\u0443\u0437\u0435\u0441\u0442\u0430\u043d"
+    ],
+    "name:msa_x_preferred":[
         "Khuzestan"
     ],
     "name:new_x_preferred":[
@@ -194,9 +185,6 @@
     ],
     "name:pan_x_preferred":[
         "\u0a16\u0a41\u0a1c\u0a3f\u0a38\u0a24\u0a3e\u0a28 \u0a30\u0a3f\u0a06\u0a38\u0a24"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062e\u0648\u0632\u0633\u062a\u0627\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062d\u0648\u0632\u0633\u062a\u0627\u0646"
@@ -258,10 +246,10 @@
     "name:war_x_preferred":[
         "Kh\u016bzest\u0101n"
     ],
-    "name:wel_x_preferred":[
-        "Kh\u016bzest\u0101n"
-    ],
     "name:yue_x_preferred":[
+        "\u80e1\u9f4a\u65af\u5766\u7701"
+    ],
+    "name:zho_x_preferred":[
         "\u80e1\u9f4a\u65af\u5766\u7701"
     ],
     "ne:abbrev":"",
@@ -387,7 +375,7 @@
     "wof:lang_x_spoken":[
         "fas"
     ],
-    "wof:lastmodified":1553550411,
+    "wof:lastmodified":1561767446,
     "wof:name":"Khuzestan",
     "wof:parent_id":85632361,
     "wof:placetype":"region",
