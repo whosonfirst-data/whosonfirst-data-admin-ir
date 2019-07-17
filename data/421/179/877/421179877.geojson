@@ -38,6 +38,9 @@
     "name:cat_x_preferred":[
         "Buixehr"
     ],
+    "name:ceb_x_preferred":[
+        "Dakbayan sa Bushehr"
+    ],
     "name:ces_x_preferred":[
         "B\u00fa\u0161ehr"
     ],
@@ -197,11 +200,17 @@
     "name:tha_x_preferred":[
         "\u0e1a\u0e39\u0e40\u0e0a\u0e2b\u0e4c"
     ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e39\u0e40\u0e0a\u0e2e\u0e23\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "Bu\u015fehr"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0448\u0435\u0440"
+    ],
+    "name:ukr_x_variant":[
+        "\u0411\u0443\u0448\u0438\u0440"
     ],
     "name:unk_x_variant":[
         "Abu Shehr"
@@ -357,7 +366,7 @@
         }
     ],
     "wof:id":421179877,
-    "wof:lastmodified":1561767795,
+    "wof:lastmodified":1563345390,
     "wof:name":"Bandar-e Bushehr",
     "wof:parent_id":1108719917,
     "wof:placetype":"locality",

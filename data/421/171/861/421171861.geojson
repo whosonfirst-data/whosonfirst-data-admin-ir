@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0634\u0647\u0631\u0643\u0631\u062f"
     ],
+    "name:azb_x_preferred":[
+        "\u0634\u0647\u0631\u06a9\u0648\u0631\u062f"
+    ],
     "name:aze_x_preferred":[
         "\u015e\u0259hrik\u00fcrd"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:bul_x_preferred":[
         "\u0428\u0430\u0445\u0440\u0435\u043a\u043e\u0440\u0434"
+    ],
+    "name:ceb_x_preferred":[
+        "Shahr-e Kord"
     ],
     "name:ces_x_preferred":[
         "\u0160ahr-e Kord"
@@ -46,6 +52,12 @@
     ],
     "name:eng_x_preferred":[
         "Shahr-e Kord"
+    ],
+    "name:eng_x_variant":[
+        "Shahrekord"
+    ],
+    "name:epo_x_preferred":[
+        "\u015cahrekordo"
     ],
     "name:eus_x_preferred":[
         "Xahrekord"
@@ -74,6 +86,9 @@
     "name:hrv_x_preferred":[
         "\u0160ahrekord"
     ],
+    "name:hrv_x_variant":[
+        "\u0160arekord"
+    ],
     "name:hye_x_preferred":[
         "\u0547\u0561\u0570\u0580\u0565\u056f\u0578\u0580\u0564"
     ],
@@ -101,8 +116,14 @@
     "name:lit_x_preferred":[
         "\u0160arekordas"
     ],
+    "name:lrc_x_preferred":[
+        "\u0634\u0671\u0631\u06a9\u0648\u0631\u062f"
+    ],
     "name:mar_x_preferred":[
         "\u0936\u093e\u0930\u0940\u0915\u094b\u0930\u094d\u0921"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0428\u0430\u0445\u0440\u0435\u043a\u043e\u0440\u0434"
     ],
     "name:mlg_x_preferred":[
         "Shahrekord"
@@ -152,6 +173,9 @@
     "name:tam_x_preferred":[
         "\u0bb7\u0bc6\u0bb9\u0bb0\u0bbf\u0b95\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0428\u04d9\u04bb\u0440\u0435\u043a\u04e9\u0440\u0434"
+    ],
     "name:tel_x_preferred":[
         "\u0c37\u0c39\u0c30\u0c4d - \u0c0f - \u0c15\u0c4a\u0c30\u0c4d\u0c26\u0c4d"
     ],
@@ -161,8 +185,14 @@
     "name:tha_x_preferred":[
         "\u0e0a\u0e32\u0e2e\u0e4c\u0e04\u0e23\u0e35\u0e04\u0e2d\u0e17"
     ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e0a\u0e2e\u0e4c\u0e40\u0e23\u0e42\u0e04\u0e23\u0e4c\u0e14"
+    ],
     "name:tur_x_preferred":[
         "\u015eehrek\u00fcrd"
+    ],
+    "name:tur_x_variant":[
+        "\u015eehrik\u00fcrd"
     ],
     "name:ukr_x_preferred":[
         "\u0428\u0435\u0445\u0440\u0435-\u041a\u043e\u0440\u0434"
@@ -321,7 +351,7 @@
         }
     ],
     "wof:id":421171861,
-    "wof:lastmodified":1561767795,
+    "wof:lastmodified":1563345398,
     "wof:name":"Shahr Kord",
     "wof:parent_id":1108720435,
     "wof:placetype":"locality",

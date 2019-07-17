@@ -33,11 +33,17 @@
     "mps:longitude":48.302787,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u06a9\u0628\u0648\u062f\u0631\u0627\u0647\u0646\u06af \u0628\u0624\u0644\u06af\u0647\u200c\u0633\u06cc"
+    ],
     "name:aze_x_preferred":[
         "K\u0259bud\u0259r Ah\u0259ng \u015f\u0259hristan\u0131"
     ],
     "name:eng_x_preferred":[
         "Kabudarahang"
+    ],
+    "name:eng_x_variant":[
+        "Kabudarahang County"
     ],
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06a9\u0628\u0648\u062f\u0631\u0622\u0647\u0646\u06af"
@@ -47,6 +53,9 @@
     ],
     "name:glk_x_preferred":[
         "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06a9\u0628\u0648\u062f\u0631\u0622\u0647\u0646\u06af"
+    ],
+    "name:hun_x_preferred":[
+        "Kabudar\u00e1hang megye"
     ],
     "name:ita_x_preferred":[
         "shahrest\u0101n di Kabudarahang"
@@ -59,6 +68,9 @@
     ],
     "name:pnb_x_preferred":[
         "\u0634\u06c1\u0631\u0633\u062a\u0627\u0646 \u06a9\u0628\u0648\u062f\u0631\u0622\u06c1\u0646\u06af"
+    ],
+    "name:pus_x_preferred":[
+        "\u06a9\u0628\u0648\u062f\u0631\u0622\u0647\u0646\u06af \u0648\u0644\u0633\u0648\u0627\u0644\u064a"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0435\u0431\u0443\u0434\u0440\u0430\u0445\u0435\u043d\u0433"
@@ -103,7 +115,7 @@
         }
     ],
     "wof:id":1108720087,
-    "wof:lastmodified":1561767680,
+    "wof:lastmodified":1563343162,
     "wof:name":"Kabudarahang",
     "wof:parent_id":85672355,
     "wof:placetype":"county",

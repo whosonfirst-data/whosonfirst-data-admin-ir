@@ -27,7 +27,16 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0644\u062a\u0627\u0648\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Milltown"
+    ],
     "name:eng_x_preferred":[
+        "Milltown"
+    ],
+    "name:eus_x_preferred":[
         "Milltown"
     ],
     "name:fra_x_preferred":[
@@ -47,6 +56,9 @@
     ],
     "name:swe_x_preferred":[
         "Milltown"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0644 \u0679\u0627\u0624\u0646"
     ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -87,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561767434,
+    "wof:lastmodified":1563338726,
     "wof:name":"Milltown",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

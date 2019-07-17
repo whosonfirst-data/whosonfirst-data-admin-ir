@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00085,
-    "geom:area_square_m":6272970.786532,
+    "geom:area_square_m":6272970.786531,
     "geom:bbox":"-6.26083374023,53.35055131,-6.21179059591,53.3816901061",
     "geom:latitude":53.365663,
     "geom:longitude":-6.237739,
@@ -27,7 +27,19 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:cat_x_preferred":[
+        "Marino"
+    ],
+    "name:ceb_x_preferred":[
+        "Marino"
+    ],
     "name:eng_x_preferred":[
+        "Marino"
+    ],
+    "name:eus_x_preferred":[
+        "Marino"
+    ],
+    "name:fra_x_preferred":[
         "Marino"
     ],
     "name:gla_x_preferred":[
@@ -35,6 +47,9 @@
     ],
     "name:gle_x_preferred":[
         "Muir\u00edne"
+    ],
+    "name:gle_x_variant":[
+        "Marino"
     ],
     "name:ita_x_preferred":[
         "Marino"
@@ -87,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553814900,
+    "wof:lastmodified":1563338727,
     "wof:name":"Marino",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

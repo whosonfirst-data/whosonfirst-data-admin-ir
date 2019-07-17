@@ -26,6 +26,9 @@
     "name:aze_x_preferred":[
         "Mara\u011fa"
     ],
+    "name:bel_x_preferred":[
+        "\u041c\u0435\u0440\u043e\u0433\u0435"
+    ],
     "name:bre_x_preferred":[
         "Maragheh"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:cat_x_preferred":[
         "Maragha"
+    ],
+    "name:ceb_x_preferred":[
+        "Mar\u0101gheh"
     ],
     "name:ckb_x_preferred":[
         "\u0645\u06d5\u0631\u0627\u063a\u06d5"
@@ -110,11 +116,17 @@
     "name:spa_x_preferred":[
         "Maragheh"
     ],
+    "name:spa_x_variant":[
+        "Maraghe"
+    ],
     "name:swe_x_preferred":[
         "Maragheh"
     ],
     "name:tat_x_preferred":[
         "\u041c\u0430\u0440\u0430\u0433\u0430"
+    ],
+    "name:tat_x_variant":[
+        "\u041c\u04d9\u0440\u0430\u0433\u0430"
     ],
     "name:tgk_x_preferred":[
         "\u041c\u0430\u0440\u043e\u0493\u0430"
@@ -256,7 +268,7 @@
         }
     ],
     "wof:id":1141907873,
-    "wof:lastmodified":1561767993,
+    "wof:lastmodified":1563349328,
     "wof:name":"Maragheh",
     "wof:parent_id":1108720217,
     "wof:placetype":"locality",

@@ -50,6 +50,9 @@
     "name:cat_x_preferred":[
         "Xiraz"
     ],
+    "name:ceb_x_preferred":[
+        "Shiraz"
+    ],
     "name:ces_x_preferred":[
         "\u0160\u00edr\u00e1z"
     ],
@@ -104,6 +107,9 @@
     "name:guj_x_preferred":[
         "\u0ab6\u0abf\u0ab0\u0abe\u0a9d"
     ],
+    "name:hau_x_preferred":[
+        "Shiraz"
+    ],
     "name:hbs_x_preferred":[
         "\u0160iraz"
     ],
@@ -122,8 +128,17 @@
     "name:hye_x_preferred":[
         "\u0547\u056b\u0580\u0561\u0566"
     ],
+    "name:ina_x_preferred":[
+        "Shiraz"
+    ],
     "name:ind_x_preferred":[
         "Syiraz"
+    ],
+    "name:ind_x_variant":[
+        "Shiraz"
+    ],
+    "name:isl_x_preferred":[
+        "Shiraz"
     ],
     "name:ita_x_preferred":[
         "Shiraz"
@@ -141,6 +156,9 @@
         "\u10e8\u10d8\u10e0\u10d0\u10d6\u10d8"
     ],
     "name:kaz_x_preferred":[
+        "\u0428\u0438\u0440\u0430\u0437"
+    ],
+    "name:kir_x_preferred":[
         "\u0428\u0438\u0440\u0430\u0437"
     ],
     "name:kor_x_preferred":[
@@ -236,11 +254,17 @@
     "name:srp_x_preferred":[
         "\u0428\u0438\u0440\u0430\u0437"
     ],
+    "name:swa_x_preferred":[
+        "Shiraz"
+    ],
     "name:swe_x_preferred":[
         "Shiraz"
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc0\u0bb0\u0bbe\u0b9a\u0bc1"
+    ],
+    "name:tam_x_variant":[
+        "\u0b9a\u0bbf\u0bb0\u0bbe\u0b9a\u0bc1"
     ],
     "name:tel_x_preferred":[
         "\u0c37\u0c3f\u0c30\u0c3e\u0c1c\u0c4d"
@@ -250,6 +274,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e0a\u0e35\u0e23\u0e32\u0e0b"
+    ],
+    "name:tha_x_variant":[
+        "\u0e0a\u0e35\u0e23\u0e2d\u0e0b"
     ],
     "name:tur_x_preferred":[
         "\u015eiraz"
@@ -277,6 +304,9 @@
     ],
     "name:war_x_preferred":[
         "Shiraz"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8bbe\u62c9\u5b50"
     ],
     "name:yue_x_preferred":[
         "\u8a2d\u62c9\u5b50"
@@ -427,7 +457,7 @@
         }
     ],
     "wof:id":421179271,
-    "wof:lastmodified":1561767795,
+    "wof:lastmodified":1563345391,
     "wof:name":"Shiraz",
     "wof:parent_id":1108720447,
     "wof:placetype":"locality",

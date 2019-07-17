@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0645\u0646\u0627\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u0645\u0646\u0627\u0646"
+    ],
     "name:arz_x_preferred":[
         "\u0633\u0645\u0646\u0627\u0646"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Semnan"
+    ],
+    "name:ceb_x_preferred":[
+        "Semn\u0101n"
     ],
     "name:ces_x_preferred":[
         "Semn\u00e1n"
@@ -99,7 +105,11 @@
         "Province de Semnan"
     ],
     "name:fra_x_variant":[
-        "province de Semnan"
+        "province de Semnan",
+        "Semnan"
+    ],
+    "name:fry_x_preferred":[
+        "Semnan"
     ],
     "name:glg_x_preferred":[
         "Provincia de Semnan"
@@ -125,6 +135,9 @@
     "name:ind_x_preferred":[
         "Provinsi Semn\u0101n"
     ],
+    "name:isl_x_preferred":[
+        "Semnan-h\u00e9ra\u00f0"
+    ],
     "name:ita_x_preferred":[
         "Semnan"
     ],
@@ -136,6 +149,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc148\ub09c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc148\ub09c\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Simnan"
@@ -197,6 +213,9 @@
     "name:spa_x_preferred":[
         "Provincia de Semnan"
     ],
+    "name:spa_x_variant":[
+        "Semn\u00e1n"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u043e\u043a\u0440\u0430\u0458\u0438\u043d\u0430 \u0421\u0435\u043c\u043d\u0430\u043d"
     ],
@@ -208,6 +227,9 @@
     ],
     "name:tgl_x_preferred":[
         "Lalawigan ng Semn\u0101n"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e0b\u0e21\u0e19\u0e2d\u0e19"
     ],
     "name:tur_x_preferred":[
         "Simnan Eyaleti"
@@ -223,6 +245,9 @@
     ],
     "name:war_x_preferred":[
         "Semn\u0101n"
+    ],
+    "name:yue_x_preferred":[
+        "\u585e\u59c6\u5357\u7701"
     ],
     "name:zho_x_preferred":[
         "\u585e\u59c6\u5357\u7701"
@@ -350,7 +375,7 @@
     "wof:lang_x_spoken":[
         "fas"
     ],
-    "wof:lastmodified":1561767444,
+    "wof:lastmodified":1563338773,
     "wof:name":"Semnan",
     "wof:parent_id":85632361,
     "wof:placetype":"region",

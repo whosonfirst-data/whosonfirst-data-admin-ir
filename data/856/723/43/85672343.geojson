@@ -32,6 +32,9 @@
     "name:arz_x_preferred":[
         "\u0627\u0631\u062f\u0628\u064a\u0644"
     ],
+    "name:ast_x_preferred":[
+        "Provincia d'Ardebil"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0631\u062f\u0628\u06cc\u0644 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
     ],
@@ -53,6 +56,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Ardabil"
     ],
+    "name:ceb_x_preferred":[
+        "Ardabil"
+    ],
     "name:ces_x_preferred":[
         "Ardab\u00edl"
     ],
@@ -73,6 +79,9 @@
     ],
     "name:eng_x_preferred":[
         "Ardabil"
+    ],
+    "name:eng_x_variant":[
+        "Ardabil Province"
     ],
     "name:epo_x_preferred":[
         "Provinco Ardabilo"
@@ -97,6 +106,9 @@
     ],
     "name:fra_x_preferred":[
         "province d'Ardabil"
+    ],
+    "name:fra_x_variant":[
+        "Ardabil"
     ],
     "name:glk_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0627\u0631\u062f\u0628\u06cc\u0644"
@@ -142,6 +154,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc544\ub974\ub2e4\ube4c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\ub974\ub2e4\ube4c\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Erdeb\u00eel"
@@ -227,6 +242,9 @@
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e32\u0e23\u0e4c\u0e14\u0e30\u0e1a\u0e35\u0e25"
     ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e41\u0e2d\u0e23\u0e4c\u0e41\u0e14\u0e1a\u0e35\u0e25"
+    ],
     "name:tur_x_preferred":[
         "Erdebil Eyaleti"
     ],
@@ -247,6 +265,12 @@
     ],
     "name:war_x_preferred":[
         "Ardabil"
+    ],
+    "name:wuu_x_preferred":[
+        "\u963f\u5c14\u8fbe\u6bd4\u52d2\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u963f\u723e\u9054\u6bd4\u52d2\u7701"
     ],
     "name:zho_x_preferred":[
         "\u963f\u723e\u9054\u6bd4\u52d2\u7701"
@@ -374,7 +398,7 @@
     "wof:lang_x_spoken":[
         "fas"
     ],
-    "wof:lastmodified":1561767444,
+    "wof:lastmodified":1563338772,
     "wof:name":"Ardebil",
     "wof:parent_id":85632361,
     "wof:placetype":"region",

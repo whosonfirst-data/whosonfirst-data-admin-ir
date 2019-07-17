@@ -42,6 +42,9 @@
     "name:eng_x_preferred":[
         "Mahneshan"
     ],
+    "name:eng_x_variant":[
+        "Mahneshan County"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0645\u0627\u0647\u0646\u0634\u0627\u0646"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:glk_x_preferred":[
         "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0645\u0627\u0647 \u200c\u0646\u0634\u0627\u0646"
+    ],
+    "name:hun_x_preferred":[
+        "M\u00e1hnes\u00e1n megye"
     ],
     "name:ita_x_preferred":[
         "shahrest\u0101n di Mahneshan"
@@ -62,6 +68,9 @@
     ],
     "name:pnb_x_preferred":[
         "\u0634\u06c1\u0631\u0633\u062a\u0627\u0646 \u0645\u0627\u06c1\u0646\u0634\u0627\u0646"
+    ],
+    "name:pus_x_preferred":[
+        "\u0645\u0627\u0647\u200c\u0646\u0634\u0627\u0646 \u0648\u0644\u0633\u0648\u0627\u0644\u064a"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0445\u043d\u0435\u0448\u0430\u043d"
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":1108720201,
-    "wof:lastmodified":1561767683,
+    "wof:lastmodified":1563343174,
     "wof:name":"Mahneshan",
     "wof:parent_id":85672361,
     "wof:placetype":"county",

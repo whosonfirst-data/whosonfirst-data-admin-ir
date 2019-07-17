@@ -36,6 +36,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u064a\u062c\u0627\u0631"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u06cc\u062c\u0627\u0631 \u0628\u0624\u0644\u06af\u0647\u200c\u0633\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Bicar \u015f\u0259hristan\u0131"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:eng_x_preferred":[
         "Bijar"
+    ],
+    "name:eng_x_variant":[
+        "Bijar County"
     ],
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0628\u06cc\u062c\u0627\u0631"
@@ -68,6 +74,9 @@
     ],
     "name:pnb_x_preferred":[
         "\u0634\u06c1\u0631\u0633\u062a\u0627\u0646 \u0628\u06cc\u062c\u0627\u0631"
+    ],
+    "name:pus_x_preferred":[
+        "\u0628\u064a\u062c\u0627\u0631 \u0648\u0644\u0633\u0648\u0627\u0644\u064a"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0438\u0434\u0436\u0430\u0440"
@@ -115,7 +124,7 @@
         }
     ],
     "wof:id":1108719889,
-    "wof:lastmodified":1561767689,
+    "wof:lastmodified":1563343252,
     "wof:name":"Bijar",
     "wof:parent_id":85672387,
     "wof:placetype":"county",

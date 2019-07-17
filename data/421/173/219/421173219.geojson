@@ -20,6 +20,12 @@
     "name:arz_x_preferred":[
         "\u0627\u0631\u0627\u0643"
     ],
+    "name:arz_x_variant":[
+        "\u0622\u0631\u0627\u0643"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0631\u0627\u06a9"
+    ],
     "name:aze_x_preferred":[
         "\u018frak"
     ],
@@ -34,6 +40,9 @@
     ],
     "name:cat_x_preferred":[
         "Arak"
+    ],
+    "name:ceb_x_preferred":[
+        "Ar\u0101k"
     ],
     "name:ces_x_preferred":[
         "Ar\u00e1k"
@@ -52,6 +61,9 @@
     ],
     "name:eng_x_preferred":[
         "Arak"
+    ],
+    "name:epo_x_preferred":[
+        "Arako"
     ],
     "name:eus_x_preferred":[
         "Arak"
@@ -98,7 +110,8 @@
         "\u0537\u0580\u0561\u0584"
     ],
     "name:hye_x_variant":[
-        "\u0537\u0580\u0561\u056f"
+        "\u0537\u0580\u0561\u056f",
+        "\u0537\u0580\u0561\u0567"
     ],
     "name:ind_x_preferred":[
         "Arak"
@@ -172,6 +185,9 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e30\u0e23\u0e32\u0e01"
     ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e2d\u0e23\u0e2d\u0e01"
+    ],
     "name:tur_x_preferred":[
         "Erak"
     ],
@@ -192,6 +208,9 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u62c9\u514b"
+    ],
+    "name:zho_x_variant":[
+        "\u8fea\u8332\u5bcc\u52d2"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Iran",
@@ -336,7 +355,7 @@
         }
     ],
     "wof:id":421173219,
-    "wof:lastmodified":1561767789,
+    "wof:lastmodified":1563345319,
     "wof:name":"Arak",
     "wof:parent_id":1108720443,
     "wof:placetype":"locality",
