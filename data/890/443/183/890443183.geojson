@@ -22,6 +22,9 @@
     "name:arz_x_preferred":[
         "\u0628\u062c\u0646\u0648\u0631\u062f"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u062c\u0646\u0648\u0631\u062f"
+    ],
     "name:aze_x_preferred":[
         "Bocnurd"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:cat_x_preferred":[
         "Budjnurd"
+    ],
+    "name:ceb_x_preferred":[
+        "Bojn\u016brd"
     ],
     "name:ces_x_preferred":[
         "Bod\u017en\u00fard"
@@ -51,6 +57,12 @@
     ],
     "name:eng_x_preferred":[
         "Bojnourd"
+    ],
+    "name:eng_x_variant":[
+        "Bojnord"
+    ],
+    "name:epo_x_preferred":[
+        "Bo\u011dnurdo"
     ],
     "name:eus_x_preferred":[
         "Bojnord"
@@ -168,6 +180,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e2d\u0e08\u0e19\u0e2d\u0e14"
+    ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e1a\u0e08\u0e19\u0e39\u0e23\u0e4c\u0e14"
     ],
     "name:tuk_x_preferred":[
         "B\u00fcjn\u00fcrt"
@@ -321,7 +336,7 @@
         }
     ],
     "wof:id":890443183,
-    "wof:lastmodified":1561767796,
+    "wof:lastmodified":1563345407,
     "wof:name":"Bojn\u016brd",
     "wof:parent_id":1108719897,
     "wof:placetype":"locality",

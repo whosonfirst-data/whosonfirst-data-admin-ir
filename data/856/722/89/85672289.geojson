@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0634\u0647\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0648\u0634\u0647\u0631"
+    ],
     "name:arz_x_preferred":[
         "\u0628\u0648\u0634\u0647\u0631"
     ],
@@ -44,11 +47,17 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u0448\u0435\u0440"
     ],
+    "name:bul_x_variant":[
+        "\u0411\u0443\u0448\u0435\u0445\u044a\u0440"
+    ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Buixehr"
     ],
     "name:ceb_x_preferred":[
         "Bu\u0161ehr"
+    ],
+    "name:ceb_x_variant":[
+        "Bushehr"
     ],
     "name:ces_x_preferred":[
         "B\u00fa\u0161ehr"
@@ -74,6 +83,9 @@
     "name:epo_x_preferred":[
         "Provinco Bu\u015dehr"
     ],
+    "name:epo_x_variant":[
+        "Provinco Bu\u015dehro"
+    ],
     "name:est_x_preferred":[
         "B\u016bshehri provints"
     ],
@@ -93,7 +105,8 @@
         "Province de Bouchehr"
     ],
     "name:fra_x_variant":[
-        "province de Bouchehr"
+        "province de Bouchehr",
+        "Bouchehr"
     ],
     "name:glk_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0628\u0648\u0634\u0647\u0631"
@@ -112,6 +125,9 @@
     ],
     "name:hrv_x_preferred":[
         "Bu\u0161eherska pokrajina"
+    ],
+    "name:hrv_x_variant":[
+        "Bu\u0161er"
     ],
     "name:hun_x_preferred":[
         "Busehr tartom\u00e1ny"
@@ -143,6 +159,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubd80\uc170\ub974 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubd80\uc170\ub974\uc8fc"
     ],
     "name:kur_x_preferred":[
         "B\u00fb\u015fehr"
@@ -213,6 +232,9 @@
     "name:swe_x_preferred":[
         "Bushehr"
     ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc1\u0bb7\u0bc6\u0bb0\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
     "name:tgk_x_preferred":[
         "\u0423\u0441\u0442\u043e\u043d\u0438 \u0411\u0443\u0448\u0430\u04b3\u0440"
     ],
@@ -222,6 +244,9 @@
     ],
     "name:tgl_x_preferred":[
         "Lalawigan ng Bushehr"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e1a\u0e39\u0e40\u0e0a\u0e2e\u0e23\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Bu\u015fehr Eyaleti"
@@ -238,11 +263,20 @@
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0628\u0648\u0634\u06c1\u0631"
     ],
+    "name:urd_x_variant":[
+        "\u0635\u0648\u0628\u06c1 \u0628\u0648\u0634\u0647\u0631"
+    ],
     "name:vie_x_preferred":[
         "Bushehr"
     ],
     "name:war_x_preferred":[
         "Bushehr"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5e03\u4ec0\u5c14\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u5e03\u820d\u723e\u7701"
     ],
     "name:zho_x_preferred":[
         "\u5e03\u4ec0\u723e\u7701"
@@ -370,7 +404,7 @@
     "wof:lang_x_spoken":[
         "fas"
     ],
-    "wof:lastmodified":1561767434,
+    "wof:lastmodified":1563338733,
     "wof:name":"Bushehr",
     "wof:parent_id":85632361,
     "wof:placetype":"region",

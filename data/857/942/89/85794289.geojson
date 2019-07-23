@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00026,
-    "geom:area_square_m":1921941.807607,
+    "geom:area_square_m":1921941.807606,
     "geom:bbox":"-6.23474121094,53.3301757329,-6.20727539062,53.3498145539",
     "geom:latitude":53.339843,
     "geom:longitude":-6.220139,
@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Irishtown"
     ],
+    "name:eus_x_preferred":[
+        "Irishtown"
+    ],
     "name:fra_x_preferred":[
         "Irishtown"
     ],
@@ -40,6 +43,12 @@
     ],
     "name:gle_x_preferred":[
         "An Baile Gaelach"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30a4\u30ea\u30c3\u30b7\u30e5\u30bf\u30a6\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Irishtown"
     ],
     "name:pol_x_preferred":[
         "Irishtown"
@@ -113,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527639410,
+    "wof:lastmodified":1563338718,
     "wof:name":"Irishtown",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

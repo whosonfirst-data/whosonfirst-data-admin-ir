@@ -19,6 +19,15 @@
     "name:bjn_x_preferred":[
         "Sinding"
     ],
+    "name:ces_x_preferred":[
+        "ploutev"
+    ],
+    "name:deu_x_preferred":[
+        "Finne"
+    ],
+    "name:eng_x_preferred":[
+        "fin"
+    ],
     "name:est_x_preferred":[
         "Uim"
     ],
@@ -27,6 +36,9 @@
     ],
     "name:fra_x_preferred":[
         "Ailette"
+    ],
+    "name:fra_x_variant":[
+        "ailette"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05e0\u05e4\u05d9\u05e8"
@@ -37,8 +49,26 @@
     "name:ind_x_preferred":[
         "Sirip"
     ],
+    "name:ita_x_preferred":[
+        "pinna"
+    ],
+    "name:nld_x_preferred":[
+        "vin"
+    ],
+    "name:nob_x_preferred":[
+        "finne"
+    ],
+    "name:rus_x_preferred":[
+        "\u043a\u0438\u043b\u044c"
+    ],
     "name:spa_x_preferred":[
         "Aleta"
+    ],
+    "name:spa_x_variant":[
+        "aleta"
+    ],
+    "name:srp_x_preferred":[
+        "\u043f\u0435\u0440\u0430\u0458\u0435"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -85,7 +115,7 @@
         }
     ],
     "wof:id":421188951,
-    "wof:lastmodified":1527716289,
+    "wof:lastmodified":1563345324,
     "wof:name":"Fin",
     "wof:parent_id":1108720109,
     "wof:placetype":"locality",

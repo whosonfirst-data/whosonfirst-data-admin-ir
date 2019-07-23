@@ -45,6 +45,9 @@
     "name:eng_x_preferred":[
         "Osku"
     ],
+    "name:eng_x_variant":[
+        "Osku County"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0627\u0633\u06a9\u0648"
     ],
@@ -68,6 +71,9 @@
     ],
     "name:pnb_x_preferred":[
         "\u0634\u06c1\u0631\u0633\u062a\u0627\u0646 \u0627\u0648\u0633\u06a9\u0648"
+    ],
+    "name:pus_x_preferred":[
+        "\u0627\u0633\u06a9\u0648 \u0648\u0644\u0633\u0648\u0627\u0644\u064a"
     ],
     "name:tgk_x_preferred":[
         "\u0428\u0430\u04b3\u0440\u0438\u0441\u0442\u043e\u043d\u0438 \u0423\u0441\u043a\u04ef"
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1108720293,
-    "wof:lastmodified":1561767684,
+    "wof:lastmodified":1563343184,
     "wof:name":"Osku",
     "wof:parent_id":85672373,
     "wof:placetype":"county",

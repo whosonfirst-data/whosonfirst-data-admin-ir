@@ -32,6 +32,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u0440\u0434\u044d\u0431\u0456\u043b\u044c"
     ],
+    "name:bel_x_variant":[
+        "\u0410\u0440\u0434\u044d\u0431\u0456\u043b\u044c"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b0\u09cd\u09a6\u09be\u09ac\u09bf\u09b2"
     ],
@@ -104,6 +107,9 @@
     "name:glk_x_preferred":[
         "\u0623\u0631\u062f\u0628\u064a\u0644"
     ],
+    "name:glk_x_variant":[
+        "\u0627\u0631\u062f\u0628\u06cc\u0644"
+    ],
     "name:guj_x_preferred":[
         "\u0a86\u0ab0\u0acd\u0aa1\u0ac7\u0aac\u0abf\u0ab2"
     ],
@@ -124,6 +130,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0531\u0580\u0564\u0565\u0562\u056b\u056c"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0580\u0564\u0561\u0562\u056b\u056c"
     ],
     "name:ind_x_preferred":[
         "Ardabil"
@@ -235,6 +244,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e32\u0e23\u0e4c\u0e40\u0e14\u0e1a\u0e34\u0e25"
+    ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e2d\u0e23\u0e4c\u0e41\u0e14\u0e1a\u0e35\u0e25"
     ],
     "name:tur_x_preferred":[
         "Erdebil"
@@ -403,7 +415,7 @@
         }
     ],
     "wof:id":421171269,
-    "wof:lastmodified":1561767795,
+    "wof:lastmodified":1563345399,
     "wof:name":"Ardabil",
     "wof:parent_id":1108719823,
     "wof:placetype":"locality",

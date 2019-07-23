@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000671,
-    "geom:area_square_m":4949943.251857,
+    "geom:area_square_m":4949943.251856,
     "geom:bbox":"-6.31847200137,53.373216914,-6.27319335938,53.3964321271",
     "geom:latitude":53.384531,
     "geom:longitude":-6.296716,
@@ -27,7 +27,19 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:bul_x_preferred":[
+        "\u0424\u0438\u043d\u0433\u043b\u0430\u0441"
+    ],
+    "name:ceb_x_preferred":[
+        "Finglas"
+    ],
     "name:cym_x_preferred":[
+        "Finglas"
+    ],
+    "name:dan_x_preferred":[
+        "Finglas"
+    ],
+    "name:deu_x_preferred":[
         "Finglas"
     ],
     "name:eng_x_preferred":[
@@ -35,6 +47,9 @@
     ],
     "name:eng_x_variant":[
         "Fingal"
+    ],
+    "name:eus_x_preferred":[
+        "Finglas"
     ],
     "name:fas_x_preferred":[
         "\u0641\u06cc\u0646\u06af\u0644\u0633"
@@ -45,15 +60,30 @@
     "name:gle_x_preferred":[
         "Fionnghlas"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a3\u30f3\u30b0\u30e9\u30b9"
+    ],
+    "name:lit_x_preferred":[
+        "Finglasas"
+    ],
+    "name:nld_x_preferred":[
+        "Finglas"
+    ],
     "name:pol_x_preferred":[
         "Finglas"
     ],
     "name:rus_x_preferred":[
         "\u0424\u0438\u043d\u0433\u043b\u0430\u0441"
     ],
+    "name:swe_x_preferred":[
+        "Finglas"
+    ],
     "name:unk_x_variant":[
         "Tinglas",
         "Finglas"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u06cc\u0646\u06af\u0644\u0633"
     ],
     "qs:gn_adm0_cc":"IE",
     "qs:gn_fcode":"PPL",
@@ -116,7 +146,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527639410,
+    "wof:lastmodified":1563338718,
     "wof:name":"Finglas",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

@@ -22,6 +22,9 @@
     "name:aze_x_preferred":[
         "Pav\u0259"
     ],
+    "name:ceb_x_preferred":[
+        "P\u0101veh"
+    ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0648\u06d5"
     ],
@@ -43,8 +46,14 @@
     "name:ita_x_preferred":[
         "Paveh"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30d9"
+    ],
     "name:kur_x_preferred":[
         "Pawe"
+    ],
+    "name:lrc_x_preferred":[
+        "\u067e\u0627\u06cb\u0671"
     ],
     "name:mlg_x_preferred":[
         "Paveh"
@@ -73,11 +82,20 @@
     "name:tur_x_preferred":[
         "Pave"
     ],
+    "name:tur_x_variant":[
+        "\u015eehr Babek"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0432\u0435"
+    ],
     "name:unk_x_variant":[
         "Pawah"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0648\u06c1"
+    ],
+    "name:urd_x_variant":[
+        "\u067e\u0627\u0648\u0647"
     ],
     "name:zho_x_preferred":[
         "\u5e15\u97cb"
@@ -133,7 +151,7 @@
         }
     ],
     "wof:id":421169493,
-    "wof:lastmodified":1561767787,
+    "wof:lastmodified":1563345282,
     "wof:name":"Paveh",
     "wof:parent_id":1108720301,
     "wof:placetype":"locality",

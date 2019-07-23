@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000136,
-    "geom:area_square_m":1001465.276815,
+    "geom:area_square_m":1001465.276814,
     "geom:bbox":"-6.26770019531,53.302979637,-6.25122070313,53.3177490475",
     "geom:latitude":53.311075,
     "geom:longitude":-6.257731,
@@ -38,6 +38,9 @@
     "name:arg_x_preferred":[
         "Fornig\u00f3n"
     ],
+    "name:ast_x_preferred":[
+        "formig\u00f3n"
+    ],
     "name:aze_x_preferred":[
         "Beton"
     ],
@@ -47,8 +50,14 @@
     "name:bar_x_preferred":[
         "Bedau"
     ],
+    "name:bar_x_variant":[
+        "Beton"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u0435\u0442\u043e\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u0431\u0435\u0442\u043e\u043d"
     ],
     "name:ben_x_preferred":[
         "\u0995\u0982\u0995\u09cd\u09b0\u09bf\u099f"
@@ -65,8 +74,14 @@
     "name:cat_x_preferred":[
         "Formig\u00f3"
     ],
+    "name:cat_x_variant":[
+        "formig\u00f3"
+    ],
     "name:ces_x_preferred":[
         "Beton"
+    ],
+    "name:ces_x_variant":[
+        "beton"
     ],
     "name:ckb_x_preferred":[
         "\u06a9\u06c6\u0646\u06a9\u0631\u06cc\u062a"
@@ -77,8 +92,14 @@
     "name:dan_x_preferred":[
         "Beton"
     ],
+    "name:dan_x_variant":[
+        "beton"
+    ],
     "name:deu_x_preferred":[
         "Beton"
+    ],
+    "name:diq_x_preferred":[
+        "Betonvaney"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03ba\u03c5\u03c1\u03cc\u03b4\u03b5\u03bc\u03b1"
@@ -86,8 +107,14 @@
     "name:eng_x_preferred":[
         "Concrete"
     ],
+    "name:eng_x_variant":[
+        "concrete"
+    ],
     "name:epo_x_preferred":[
         "Betono"
+    ],
+    "name:epo_x_variant":[
+        "betono"
     ],
     "name:est_x_preferred":[
         "Betoon"
@@ -95,14 +122,26 @@
     "name:eus_x_preferred":[
         "Hormigoi"
     ],
+    "name:eus_x_variant":[
+        "hormigoi"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u062a\u0646"
     ],
     "name:fin_x_preferred":[
         "Betoni"
     ],
+    "name:fin_x_variant":[
+        "betoni"
+    ],
     "name:fra_x_preferred":[
         "B\u00e9ton"
+    ],
+    "name:fra_x_variant":[
+        "b\u00e9ton"
+    ],
+    "name:frr_x_preferred":[
+        "Beton"
     ],
     "name:fry_x_preferred":[
         "Beton"
@@ -115,6 +154,9 @@
     ],
     "name:glg_x_preferred":[
         "Formig\u00f3n"
+    ],
+    "name:hak_x_preferred":[
+        "Kh\u00f4ng-k\u00fa-li\u030dt"
     ],
     "name:hbs_x_preferred":[
         "Beton"
@@ -131,8 +173,14 @@
     "name:hun_x_preferred":[
         "Beton"
     ],
+    "name:hun_x_variant":[
+        "beton"
+    ],
     "name:hye_x_preferred":[
         "\u0532\u0565\u057f\u0578\u0576"
+    ],
+    "name:hye_x_variant":[
+        "\u0562\u0565\u057f\u0578\u0576"
     ],
     "name:ido_x_preferred":[
         "Betono"
@@ -145,6 +193,9 @@
     ],
     "name:ita_x_preferred":[
         "Calcestruzzo"
+    ],
+    "name:ita_x_variant":[
+        "calcestruzzo"
     ],
     "name:jav_x_preferred":[
         "Beton"
@@ -176,6 +227,12 @@
     "name:lav_x_preferred":[
         "Betons"
     ],
+    "name:lav_x_variant":[
+        "betons"
+    ],
+    "name:lim_x_preferred":[
+        "Pet\u00f3n"
+    ],
     "name:lit_x_preferred":[
         "Betonas"
     ],
@@ -188,11 +245,17 @@
     "name:mal_x_preferred":[
         "\u0d15\u0d4b\u0d7a\u0d15\u0d4d\u0d30\u0d40\u0d31\u0d4d\u0d31\u0d4d"
     ],
+    "name:mkd_x_preferred":[
+        "\u0431\u0435\u0442\u043e\u043d"
+    ],
     "name:mon_x_preferred":[
         "\u0411\u0435\u0442\u043e\u043d"
     ],
     "name:msa_x_preferred":[
         "Konkrit"
+    ],
+    "name:nan_x_preferred":[
+        "Khong-kuh-lih"
     ],
     "name:nep_x_preferred":[
         "\u0915\u0902\u0915\u094d\u0930\u093f\u091f"
@@ -200,11 +263,23 @@
     "name:nld_x_preferred":[
         "Beton"
     ],
+    "name:nld_x_variant":[
+        "beton"
+    ],
     "name:nno_x_preferred":[
         "Betong"
     ],
+    "name:nno_x_variant":[
+        "betong"
+    ],
+    "name:nob_x_preferred":[
+        "betong"
+    ],
     "name:nor_x_preferred":[
         "Betong"
+    ],
+    "name:oci_x_preferred":[
+        "Beton"
     ],
     "name:pfl_x_preferred":[
         "Bedong"
@@ -212,11 +287,20 @@
     "name:pol_x_preferred":[
         "Beton"
     ],
+    "name:pol_x_variant":[
+        "beton"
+    ],
     "name:por_x_preferred":[
         "Concreto"
     ],
+    "name:por_x_variant":[
+        "bet\u00e3o"
+    ],
     "name:pus_x_preferred":[
         "\u06af\u0627\u06af\u0631\u0647"
+    ],
+    "name:pus_x_variant":[
+        "\u06ab\u0627\u06ab\u0631\u0647"
     ],
     "name:que_x_preferred":[
         "Urmiyun"
@@ -224,14 +308,23 @@
     "name:ron_x_preferred":[
         "Beton"
     ],
+    "name:ron_x_variant":[
+        "beton"
+    ],
     "name:rue_x_preferred":[
         "\u0411\u0435\u0442\u043e\u043d"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0435\u0442\u043e\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u0431\u0435\u0442\u043e\u043d"
+    ],
     "name:sco_x_preferred":[
         "Concrete"
+    ],
+    "name:sco_x_variant":[
+        "concrete"
     ],
     "name:slk_x_preferred":[
         "Bet\u00f3n"
@@ -242,8 +335,14 @@
     "name:spa_x_preferred":[
         "Hormig\u00f3n"
     ],
+    "name:spa_x_variant":[
+        "hormig\u00f3n"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u0435\u0442\u043e\u043d"
+    ],
+    "name:srp_x_variant":[
+        "\u0431\u0435\u0442\u043e\u043d"
     ],
     "name:sun_x_preferred":[
         "Beton"
@@ -254,6 +353,9 @@
     "name:swe_x_preferred":[
         "Betong"
     ],
+    "name:swe_x_variant":[
+        "betong"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bc8\u0b9e\u0bcd\u0b9a\u0bc1\u0ba4\u0bc8"
     ],
@@ -262,6 +364,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c3e\u0c02\u0c15\u0c4d\u0c30\u0c40\u0c1f\u0c41"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0411\u0435\u0442\u043e\u043d"
     ],
     "name:tgl_x_preferred":[
         "Kongkreto"
@@ -281,11 +386,26 @@
     "name:urd_x_preferred":[
         "\u06a9\u0646\u06a9\u0631\u06cc\u0679"
     ],
+    "name:uzb_x_preferred":[
+        "Beton"
+    ],
     "name:vec_x_preferred":[
         "Concreto"
     ],
     "name:vie_x_preferred":[
         "B\u00ea t\u00f4ng"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6df7\u51dd\u571f"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d1\u10d4\u10e2\u10dd\u10dc\u10d8"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d1\u05e2\u05d8\u05d0\u05df"
+    ],
+    "name:yue_x_preferred":[
+        "\u77f3\u5c4e"
     ],
     "name:zho_min_nan_x_preferred":[
         "Khong-kuh-lih"
@@ -355,7 +475,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527639410,
+    "wof:lastmodified":1563338721,
     "wof:name":"Concrete",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

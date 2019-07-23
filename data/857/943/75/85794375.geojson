@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000437,
-    "geom:area_square_m":3232397.625929,
+    "geom:area_square_m":3232397.62593,
     "geom:bbox":"-6.15783691406,53.2635699787,-6.12138216397,53.2849215462",
     "geom:latitude":53.273691,
     "geom:longitude":-6.139156,
@@ -27,8 +27,20 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":1,
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043b\u0439\u043d\u043e\u0433\u0438\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Sallynoggin"
+    ],
     "name:eng_x_preferred":[
         "Sallynogin"
+    ],
+    "name:eng_x_variant":[
+        "Sallynoggin"
+    ],
+    "name:eus_x_preferred":[
+        "Sallynoggin"
     ],
     "name:gla_x_preferred":[
         "An Naig\u00edn"
@@ -36,8 +48,14 @@
     "name:gle_x_preferred":[
         "An Naig\u00edn"
     ],
+    "name:nld_x_preferred":[
+        "Sallynoggin"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043b\u043b\u0438\u043d\u043e\u0433\u0433\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Sallynoggin"
     ],
     "name:unk_x_variant":[
         "Sallynogin"
@@ -103,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527639421,
+    "wof:lastmodified":1563338727,
     "wof:name":"Sallynogin",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

@@ -29,8 +29,14 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0627\u0632\u0646\u062f\u0631\u0627\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0627\u0632\u0646\u062f\u0631\u0627\u0646"
+    ],
     "name:arz_x_preferred":[
         "\u0645\u0627\u0632\u0646\u062f\u0631\u0627\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Mazandar\u00e1n"
     ],
     "name:azb_x_preferred":[
         "\u0645\u0627\u0632\u0646\u062f\u0631\u0627\u0646 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
@@ -49,6 +55,9 @@
     ],
     "name:cat_x_preferred":[
         "Mazanderan"
+    ],
+    "name:ceb_x_preferred":[
+        "M\u0101zandar\u0101n"
     ],
     "name:ces_x_preferred":[
         "M\u00e1zandar\u00e1n"
@@ -81,6 +90,9 @@
     ],
     "name:epo_x_preferred":[
         "Mazenderano"
+    ],
+    "name:epo_x_variant":[
+        "provinco Mazandarano"
     ],
     "name:est_x_preferred":[
         "M\u0101zandar\u0101n"
@@ -115,6 +127,9 @@
     "name:guj_x_preferred":[
         "\u0aae\u0a9d\u0abe\u0aa8\u0acd\u0aa1\u0ab0\u0aa8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
+    "name:hak_x_preferred":[
+        "Mazandaran-s\u00e9n"
+    ],
     "name:heb_x_preferred":[
         "\u05de\u05d0\u05d6\u05e0\u05d3\u05e8\u05d0\u05df"
     ],
@@ -129,6 +144,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0544\u0561\u0566\u0565\u0576\u0564\u0565\u0580\u0561\u0576"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0561\u0566\u0561\u0576\u0564\u0561\u0580\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Provinsi M\u0101zandar\u0101n"
@@ -148,6 +166,9 @@
     "name:kor_x_preferred":[
         "\ub9c8\uc794\ub2e4\ub780 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub9c8\uc794\ub2e4\ub780\uc8fc"
+    ],
     "name:kur_x_preferred":[
         "Mazenderan"
     ],
@@ -159,6 +180,9 @@
     ],
     "name:lrc_x_preferred":[
         "\u0622\u0633\u062a\u0648\u0646 \u0645\u0627\u0632\u0646\u062f\u0631\u0627\u0646"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2e\u0d3e\u0d38\u0d28\u0d4d\u0d26\u0d30\u0d3e\u0d7b \u0d2a\u0d4d\u0d30\u0d35\u0d3f\u0d36\u0d4d\u0d2f"
     ],
     "name:mar_x_preferred":[
         "\u092e\u093e\u091d\u093e\u0902\u0926\u093e\u0930\u093e\u0928 \u092a\u094d\u0930\u093e\u0902\u0924"
@@ -235,6 +259,9 @@
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0a\u0e34\u0e21\u0e30\u0e40\u0e19\u0e30"
     ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e21\u0e2d\u0e41\u0e0b\u0e19\u0e41\u0e14\u0e23\u0e2d\u0e19"
+    ],
     "name:tur_x_preferred":[
         "Mazenderan Eyaleti"
     ],
@@ -255,6 +282,9 @@
     ],
     "name:war_x_preferred":[
         "M\u0101zandar\u0101n"
+    ],
+    "name:yue_x_preferred":[
+        "\u99ac\u8d0a\u5fb7\u862d\u7701"
     ],
     "name:zho_x_preferred":[
         "\u99ac\u8d0a\u5fb7\u862d\u7701"
@@ -382,7 +412,7 @@
     "wof:lang_x_spoken":[
         "fas"
     ],
-    "wof:lastmodified":1561767441,
+    "wof:lastmodified":1563338756,
     "wof:name":"Mazandaran",
     "wof:parent_id":85632361,
     "wof:placetype":"region",

@@ -52,6 +52,9 @@
     "name:cat_x_preferred":[
         "Nixapur"
     ],
+    "name:ceb_x_preferred":[
+        "N\u012bsh\u0101b\u016br"
+    ],
     "name:ces_x_preferred":[
         "N\u00ed\u0161\u00e1p\u00far"
     ],
@@ -75,6 +78,9 @@
     ],
     "name:eng_x_preferred":[
         "Neyshabur"
+    ],
+    "name:eng_x_variant":[
+        "Nishapur"
     ],
     "name:epo_x_preferred":[
         "Nej\u015daburo"
@@ -109,8 +115,14 @@
     "name:hin_x_preferred":[
         "\u0928\u0947\u0936\u093e\u092c\u0942\u0930"
     ],
+    "name:hin_x_variant":[
+        "\u0928\u093f\u0936\u093e\u092a\u0941\u0930"
+    ],
     "name:hrv_x_preferred":[
         "Ni\u0161apur"
+    ],
+    "name:hun_x_preferred":[
+        "Neis\u00e1pur"
     ],
     "name:hye_x_preferred":[
         "\u0546\u056b\u0577\u0561\u057a\u0578\u0582\u0580"
@@ -123,6 +135,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30cb\u30b7\u30e3\u30d7\u30fc"
+    ],
+    "name:jpn_x_variant":[
+        "\u30cb\u30fc\u30b7\u30e3\u30fc\u30d7\u30fc\u30eb"
     ],
     "name:kat_x_preferred":[
         "\u10dc\u10d8\u10e8\u10d0\u10d1\u10e3\u10e0\u10d8"
@@ -283,7 +298,7 @@
         }
     ],
     "wof:id":1125929423,
-    "wof:lastmodified":1561767797,
+    "wof:lastmodified":1563345417,
     "wof:name":"Neysh\u0101b\u016br",
     "wof:parent_id":1108720279,
     "wof:placetype":"locality",
