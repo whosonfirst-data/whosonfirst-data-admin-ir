@@ -25,12 +25,31 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u062f\u064a\u0633"
+    ],
+    "name:aze_x_preferred":[
+        "P\u0259rdis"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0631\u067e\u064a\u0633"
     ],
     "name:fas_x_variant":[
         "Pard\u012bs",
-        "Parp\u012bs"
+        "Parp\u012bs",
+        "\u067e\u0631\u062f\u06cc\u0633"
+    ],
+    "name:ita_x_preferred":[
+        "Pardis"
+    ],
+    "name:mlg_x_preferred":[
+        "Pardis"
+    ],
+    "name:ron_x_preferred":[
+        "Pardis"
+    ],
+    "name:tur_x_preferred":[
+        "Perdis"
     ],
     "name:und_x_variant":[
         "Tare bax\u00e2j",
@@ -40,6 +59,9 @@
         "\u0162areh",
         "\u0162areh Bakhkh\u0101kh",
         "Tareh Nej\u0101kh"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0631\u062f\u06cc\u0633"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +87,7 @@
         }
     ],
     "wof:id":1209798173,
-    "wof:lastmodified":1537643954,
+    "wof:lastmodified":1564113322,
     "wof:name":"Parpis",
     "wof:parent_id":1108719777,
     "wof:placetype":"locality",

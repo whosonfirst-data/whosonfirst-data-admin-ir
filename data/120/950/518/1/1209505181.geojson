@@ -25,11 +25,27 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0641\u0648\u062a \u0628\u0627\u064a\u064a\u0646"
+    ],
     "name:fas_x_preferred":[
         "Laf\u016bt-e P\u0101\u2019\u012bn"
     ],
     "name:fas_x_variant":[
-        "\u0644\u0641\u0648\u062a \u067e\u0627\u0626\u06cc\u0646"
+        "\u0644\u0641\u0648\u062a \u067e\u0627\u0626\u06cc\u0646",
+        "\u0644\u0641\u0648\u062a \u067e\u0627\u06cc\u06cc\u0646"
+    ],
+    "name:msa_x_preferred":[
+        "Lafut-e Pain"
+    ],
+    "name:por_x_preferred":[
+        "Lafut-e Pain"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0444\u0443\u0442-\u0435-\u041f\u0430\u0457\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0641\u0648\u0679 \u067e\u0627\u067e\u0627\u0626\u06cc\u06ba"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +65,7 @@
         }
     ],
     "wof:id":1209505181,
-    "wof:lastmodified":1537641576,
+    "wof:lastmodified":1564113554,
     "wof:name":"Lafut-e Pa'in",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",

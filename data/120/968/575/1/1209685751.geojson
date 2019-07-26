@@ -25,13 +25,20 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u1e28ab\u0101beh-ye P\u0101'\u012bn"
+    ],
     "name:fas_x_preferred":[
         "\u062d\u0628\u0627\u0628\u0647 \u067e\u0627\u06cc\u06cc\u0646"
     ],
     "name:fas_x_variant":[
         "\u1e28ab\u0101beh-ye Sofl\u00e1",
         "\u1e28ab\u0101beh-ye P\u0101\u2019\u012bn",
-        "\u062d\u0628\u0627\u0628\u0647 \u0648\u0633\u0637\u06cc"
+        "\u062d\u0628\u0627\u0628\u0647 \u0648\u0633\u0637\u06cc",
+        "\u062d\u0628\u0627\u06cc\u0647 \u0633\u0641\u0644\u06cc"
+    ],
+    "name:swe_x_preferred":[
+        "\u1e28ab\u0101beh-ye P\u0101'\u012bn"
     ],
     "name:und_x_variant":[
         "\u1e28ab\u0101beh-ye Vos\u0163\u00e1",
@@ -39,6 +46,9 @@
         "\u1e28ab\u0101beh",
         "\u1e28ab\u0101beh-ye Vost\u00e1",
         "\u062d\u0628\u0627\u0628\u0647 \u0633\u0641\u0644\u06cc"
+    ],
+    "name:urd_x_preferred":[
+        "\u062d\u0628\u0627\u06cc\u06c1 \u0633\u0641\u0644\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +68,7 @@
         }
     ],
     "wof:id":1209685751,
-    "wof:lastmodified":1537642585,
+    "wof:lastmodified":1564113578,
     "wof:name":"Hababeh-ye Vosta",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",

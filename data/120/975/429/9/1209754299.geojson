@@ -25,14 +25,36 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0636\u0644 \u0623\u0628\u0627\u062f"
+    ],
+    "name:aze_x_preferred":[
+        "Fazilabad"
+    ],
     "name:fas_x_preferred":[
         "F\u0101\u1e95el\u0101b\u0101d"
     ],
     "name:fas_x_variant":[
-        "\u0641\u0627\u0636\u0644 \u0622\u0628\u0627\u062f"
+        "\u0641\u0627\u0636\u0644 \u0622\u0628\u0627\u062f",
+        "\u0641\u0627\u0636\u0644\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:ita_x_preferred":[
+        "Fazel Abad"
+    ],
+    "name:mlg_x_preferred":[
+        "Fazelabad"
+    ],
+    "name:msa_x_preferred":[
+        "Fazelabad"
+    ],
+    "name:tur_x_preferred":[
+        "Faz\u0131labad"
     ],
     "name:und_x_variant":[
         "\u0641\u0627\u0636\u0644 \u0622\u0628\u0627\u062f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0627\u0636\u0644\u200c\u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +80,7 @@
         }
     ],
     "wof:id":1209754299,
-    "wof:lastmodified":1537642256,
+    "wof:lastmodified":1564114127,
     "wof:name":"Fazelabad",
     "wof:parent_id":1108719839,
     "wof:placetype":"locality",

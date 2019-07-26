@@ -25,13 +25,26 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0628\u064a\u062f\u0627\u0646\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Sep\u012bd D\u0101neh"
+    ],
     "name:fas_x_preferred":[
         "Sef\u012bd D\u0101neh"
     ],
     "name:fas_x_variant":[
         "\u0633\u0650\u0641\u064a\u062f \u062f\u0627\u0646\u0650\u0647",
         "Sep\u012bd D\u0101neh",
-        "\u0633\u067e\u064a\u062f \u062f\u0627\u0646\u0647"
+        "\u0633\u067e\u064a\u062f \u062f\u0627\u0646\u0647",
+        "\u0633\u067e\u06cc\u062f\u0627\u0646\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Sepid Daneh"
+    ],
+    "name:swe_x_preferred":[
+        "Sep\u012bd D\u0101neh"
     ],
     "name:und_x_variant":[
         "\u0633\u067e\u064a\u062f \u062f\u0627\u0646\u0647"
@@ -60,7 +73,7 @@
         }
     ],
     "wof:id":1243365025,
-    "wof:lastmodified":1537643458,
+    "wof:lastmodified":1564116962,
     "wof:name":"Sepid Daneh",
     "wof:parent_id":1108719997,
     "wof:placetype":"locality",

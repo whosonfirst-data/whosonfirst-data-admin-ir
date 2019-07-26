@@ -25,12 +25,22 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0627\u0648\u0629 \u0627\u0633\u0628\u064a\u062f"
+    ],
+    "name:ceb_x_preferred":[
+        "T\u0101veh Sef\u012bd"
+    ],
     "name:fas_x_preferred":[
         "\u0162\u0101veh Esp\u012bd"
     ],
     "name:fas_x_variant":[
         "T\u0101veh Sef\u012bd",
-        "\u062a\u0627\u0648\u0647 \u0633\u0641\u06cc\u062f"
+        "\u062a\u0627\u0648\u0647 \u0633\u0641\u06cc\u062f",
+        "\u0637\u0627\u0648\u0647 \u0627\u0633\u067e\u06cc\u062f"
+    ],
+    "name:swe_x_preferred":[
+        "T\u0101veh Sef\u012bd"
     ],
     "name:und_x_variant":[
         "T\u0101veh Sef\u012bd",
@@ -61,7 +71,7 @@
         }
     ],
     "wof:id":1209714353,
-    "wof:lastmodified":1537643150,
+    "wof:lastmodified":1564113446,
     "wof:name":"Taveh Sefid",
     "wof:parent_id":1108720157,
     "wof:placetype":"locality",

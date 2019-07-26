@@ -25,13 +25,20 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0631\u0627\u0643\u0648\u064a\u0647"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0627\u0631\u06a9\u0648\u06cc\u0647"
     ],
     "name:fas_x_variant":[
         "D\u0101rk\u016byeh",
         "\u062f\u0627\u0631\u0627 \u06a9\u0648\u06cc\u0647",
-        "\u062f\u0627\u0631\u0627 \u06a9\u0627\u0646"
+        "\u062f\u0627\u0631\u0627 \u06a9\u0627\u0646",
+        "\u062f\u0627\u0631\u0627\u06a9\u0648\u06cc\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Darakuyeh"
     ],
     "name:und_x_variant":[
         "Deh Kooyeh",
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":1326650471,
-    "wof:lastmodified":1537645627,
+    "wof:lastmodified":1564108616,
     "wof:name":"Dara Kuyeh",
     "wof:parent_id":1108720003,
     "wof:placetype":"locality",

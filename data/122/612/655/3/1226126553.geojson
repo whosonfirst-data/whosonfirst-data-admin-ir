@@ -25,6 +25,12 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0644\u0647\u0645 \u062f\u0631\u0629"
+    ],
+    "name:ceb_x_preferred":[
+        "Molham Darreh"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u064f\u0644\u0647\u064e\u0645 \u062f\u064e\u0631\u0650\u0651\u0647"
     ],
@@ -36,7 +42,14 @@
         "\u0645\u064e\u0644\u0647\u064e\u0645 \u062f\u064e\u0631\u0650\u0647",
         "\u0645\u064e\u0644\u0647\u064e\u0645 \u062f\u064e\u0631\u0650\u0651\u0647",
         "\u0645\u0644\u0647\u0645 \u062f\u0631\u0651\u0647",
-        "\u0645\u0644\u062d\u0645\u062f\u0631\u0647"
+        "\u0645\u0644\u062d\u0645\u062f\u0631\u0647",
+        "\u0645\u0644\u0647\u0645\u062f\u0631\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Molham Darreh"
+    ],
+    "name:swe_x_preferred":[
+        "Molham Darreh"
     ],
     "name:und_x_variant":[
         "Malamdar",
@@ -72,7 +85,7 @@
         }
     ],
     "wof:id":1226126553,
-    "wof:lastmodified":1537644155,
+    "wof:lastmodified":1564120065,
     "wof:name":"Malhamdarreh",
     "wof:parent_id":1108719829,
     "wof:placetype":"locality",

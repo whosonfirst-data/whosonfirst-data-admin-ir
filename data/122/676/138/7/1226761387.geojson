@@ -25,6 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0644\u0648\u0627\u0646\u0647"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u0644\u0648\u0627\u0646\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Silvan\u0259"
+    ],
+    "name:ceb_x_preferred":[
+        "Silvana"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0633\u0644\u06cc\u06a4\u0627\u0646\u0627"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u064a\u0644\u0648\u0627\u0646\u0650\u0647"
     ],
@@ -34,13 +49,35 @@
         "\u0633\u0650\u0644\u0648\u0627\u0646\u064e\u0642",
         "\u0633\u0650\u0644\u0648\u0627\u0646\u0627",
         "S\u012blv\u0101n\u0101",
-        "\u0633\u064e\u0644\u0648\u064e\u0646\u064e\u063a"
+        "\u0633\u064e\u0644\u0648\u064e\u0646\u064e\u063a",
+        "\u0633\u06cc\u0644\u0648\u0627\u0646\u0647"
+    ],
+    "name:kur_x_preferred":[
+        "Sil\u00eevana"
+    ],
+    "name:mlg_x_preferred":[
+        "Silvaneh"
+    ],
+    "name:msa_x_preferred":[
+        "Silvaneh"
+    ],
+    "name:nld_x_preferred":[
+        "Silvaneh"
+    ],
+    "name:swe_x_preferred":[
+        "Silvana"
+    ],
+    "name:tur_x_preferred":[
+        "Silvana"
     ],
     "name:und_x_variant":[
         "Selv\u0101n\u0101",
         "Silvana",
         "Selv\u0101naq",
         "Salvanagh"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0644\u0648\u0627\u0646\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +103,7 @@
         }
     ],
     "wof:id":1226761387,
-    "wof:lastmodified":1537643268,
+    "wof:lastmodified":1564119939,
     "wof:name":"Silvana",
     "wof:parent_id":1108720289,
     "wof:placetype":"locality",

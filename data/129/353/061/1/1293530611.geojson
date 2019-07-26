@@ -25,8 +25,38 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0648\u0641\u064a\u0627\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0635\u0648\u0641\u06cc\u0627\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Sufiyan"
+    ],
+    "name:ceb_x_preferred":[
+        "Soofian"
+    ],
     "name:fas_x_preferred":[
         "\u0635\u0648\u0641\u06cc\u0627\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "Sufian"
+    ],
+    "name:mlg_x_preferred":[
+        "Sufian"
+    ],
+    "name:msa_x_preferred":[
+        "Sufian"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0444\u044c\u044f\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Soofian"
+    ],
+    "name:tur_x_preferred":[
+        "Sufiyan"
     ],
     "name:und_x_variant":[
         "\u015e\u016bf\u012b\u0101n",
@@ -35,6 +65,12 @@
         "Soofian",
         "\u0633\u0648\u0641\u064a\u0651\u0627\u0646",
         "\u0635\u064f\u0648\u0641\u064a\u0627\u0646"
+    ],
+    "name:urd_x_preferred":[
+        "\u0635\u0648\u0641\u06cc\u0627\u0646"
+    ],
+    "name:zho_x_preferred":[
+        "\u8607\u83f2\u5b89"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +96,7 @@
         }
     ],
     "wof:id":1293530611,
-    "wof:lastmodified":1537646454,
+    "wof:lastmodified":1564110471,
     "wof:name":"Soofian",
     "wof:parent_id":1108720423,
     "wof:placetype":"locality",

@@ -25,11 +25,24 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062c\u063a\u0631\u062f"
+    ],
+    "name:ceb_x_preferred":[
+        "B\u012bzh Gerd"
+    ],
     "name:fas_x_preferred":[
         "B\u012bzh Gerd"
     ],
     "name:fas_x_variant":[
-        "\u0628\u064a\u0698 \u06af\u0631\u062f"
+        "\u0628\u064a\u0698 \u06af\u0631\u062f",
+        "\u0628\u06cc\u0698\u06af\u0631\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Bizh Gerd"
+    ],
+    "name:swe_x_preferred":[
+        "B\u012bzh Gerd"
     ],
     "name:und_x_variant":[
         "\u0628\u064a\u0698 \u06af\u0631\u062f"
@@ -58,7 +71,7 @@
         }
     ],
     "wof:id":1293488961,
-    "wof:lastmodified":1537645874,
+    "wof:lastmodified":1564110756,
     "wof:name":"Bizh Gerd",
     "wof:parent_id":1108719903,
     "wof:placetype":"locality",

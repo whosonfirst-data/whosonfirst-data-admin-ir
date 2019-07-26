@@ -29,10 +29,14 @@
         "Yekkeh T\u016bt"
     ],
     "name:fas_x_variant":[
-        "\u06cc\u06a9\u0647 \u062a\u0648\u062a"
+        "\u06cc\u06a9\u0647 \u062a\u0648\u062a",
+        "\u06cc\u06a9\u0647\u200c\u062a\u0648\u062a"
     ],
     "name:und_x_variant":[
         "\u06cc\u06a9\u0647 \u062a\u0648\u062a"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u06a9\u06c1 \u062a\u0648\u062a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1193044821,
-    "wof:lastmodified":1537646802,
+    "wof:lastmodified":1564114434,
     "wof:name":"Yekkeh Tut",
     "wof:parent_id":1108720499,
     "wof:placetype":"locality",

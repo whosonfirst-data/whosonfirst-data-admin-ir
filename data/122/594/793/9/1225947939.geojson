@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Zerixan"
+    ],
     "name:fas_x_preferred":[
         "Zer\u012bkh\u0101n"
     ],
     "name:fas_x_variant":[
-        "\u0632\u0631\u06cc\u062e\u0627\u0646"
+        "\u0632\u0631\u06cc\u062e\u0627\u0646",
+        "\u0632\u0631\u06cc\u200c\u062e\u0627\u0646"
+    ],
+    "name:msa_x_preferred":[
+        "Zerikhan"
     ],
     "name:und_x_variant":[
         "\u0632\u0631\u06cc\u062e\u0627\u0646"
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1225947939,
-    "wof:lastmodified":1537641040,
+    "wof:lastmodified":1564119090,
     "wof:name":"Zerikhan",
     "wof:parent_id":1108720289,
     "wof:placetype":"locality",

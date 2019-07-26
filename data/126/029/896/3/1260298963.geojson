@@ -25,6 +25,12 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u06cc\u0627\u0646\u0686\u0644\u06cc \u06a9\u0631\u062f"
+    ],
+    "name:aze_x_preferred":[
+        "Bayan\u00e7\u00f6l\u00fc-i K\u00fcrd"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u064e\u064a\u0627\u0646\u0686\u064f\u0644\u0626 \u067e\u0627\u0626\u064a\u0646"
     ],
@@ -32,7 +38,14 @@
         "\u0628\u06cc\u0627\u0646 \u0686\u0648\u0644\u06cc",
         "Bay\u0101nchol\u012b-ye \u2018Ajam",
         "Bay\u0101n Chowl\u012b",
-        "\u0628\u064e\u064a\u0627\u0646\u0686\u064f\u0644\u0626 \u0639\u064e\u062c\u064e\u0645"
+        "\u0628\u064e\u064a\u0627\u0646\u0686\u064f\u0644\u0626 \u0639\u064e\u062c\u064e\u0645",
+        "\u0628\u06cc\u0627\u0646\u0686\u0644\u06cc\u200c\u06a9\u0631\u062f"
+    ],
+    "name:kur_x_preferred":[
+        "Bayan\u00e7oliya Kurd"
+    ],
+    "name:msa_x_preferred":[
+        "Bayancholi-ye Kord"
     ],
     "name:und_x_variant":[
         "Bay\u0101nchol\u012b-ye P\u0101\u2019\u012bn",
@@ -63,7 +76,7 @@
         }
     ],
     "wof:id":1260298963,
-    "wof:lastmodified":1537640785,
+    "wof:lastmodified":1564114932,
     "wof:name":"Bayan Chowli",
     "wof:parent_id":1108720203,
     "wof:placetype":"locality",

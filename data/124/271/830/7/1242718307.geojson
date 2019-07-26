@@ -25,6 +25,9 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kh\u0101rm\u012b\u0101n"
+    ],
     "name:fas_x_preferred":[
         "\u062e\u064e\u0631 \u0645\u064a\u0627\u0646"
     ],
@@ -32,7 +35,14 @@
         "\u062e\u064e\u0631 \u0645\u0650\u064a\u0627\u0646",
         "Kh\u0101rm\u012b\u0101n",
         "Khar M\u012b\u0101n",
-        "\u062e\u0627\u0631\u0645\u064a\u0627\u0646"
+        "\u062e\u0627\u0631\u0645\u064a\u0627\u0646",
+        "\u062e\u0627\u0631\u0645\u06cc\u0627\u0646"
+    ],
+    "name:mzn_x_preferred":[
+        "\u062e\u0627\u0631\u0645\u06cc\u0627\u0646"
+    ],
+    "name:swe_x_preferred":[
+        "Kh\u0101rm\u012b\u0101n"
     ],
     "name:und_x_variant":[
         "Khar Mey\u0101n",
@@ -62,7 +72,7 @@
         }
     ],
     "wof:id":1242718307,
-    "wof:lastmodified":1537646394,
+    "wof:lastmodified":1564117898,
     "wof:name":"Kharmian",
     "wof:parent_id":1108720401,
     "wof:placetype":"locality",

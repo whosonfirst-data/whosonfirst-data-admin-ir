@@ -25,6 +25,9 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u064a\u0631\u0627\u0646\u0634\u0627\u0647\u064a"
+    ],
     "name:fas_x_preferred":[
         "\u012ar\u0101nshahr"
     ],
@@ -36,6 +39,9 @@
     "name:und_x_variant":[
         "\u0627\u06cc\u0631\u0627\u0646\u0634\u0647\u0631",
         "\u012ar\u0101nsh\u0101h\u012b"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0631\u0627\u0646 \u0634\u0627\u06c1\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1293852395,
-    "wof:lastmodified":1537644896,
+    "wof:lastmodified":1564110866,
     "wof:name":"Iranshahi",
     "wof:parent_id":1108719959,
     "wof:placetype":"locality",

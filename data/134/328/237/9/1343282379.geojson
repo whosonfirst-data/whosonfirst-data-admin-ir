@@ -29,7 +29,11 @@
         "Bahr\u0101m\u0101b\u0101d"
     ],
     "name:fas_x_variant":[
-        "\u0628\u0647\u0631\u0627\u0645 \u0622\u0628\u0627\u062f"
+        "\u0628\u0647\u0631\u0627\u0645 \u0622\u0628\u0627\u062f",
+        "\u0628\u0647\u0631\u0627\u0645\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Bahramabad"
     ],
     "name:und_x_variant":[
         "\u0628\u0647\u0631\u0627\u0645 \u0622\u0628\u0627\u062f"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1343282379,
-    "wof:lastmodified":1537648212,
+    "wof:lastmodified":1564110199,
     "wof:name":"Bahramabad",
     "wof:parent_id":1108720113,
     "wof:placetype":"locality",

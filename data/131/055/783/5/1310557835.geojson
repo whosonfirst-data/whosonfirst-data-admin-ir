@@ -25,6 +25,9 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0644\u200c\u062e\u0631\u0643 \u0634\u0645\u0627\u0644\u064a"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u064e\u0644\u064e\u0643\u0650\u0647"
     ],
@@ -33,7 +36,11 @@
         "\u0645\u064e\u0644 \u062e\u064e\u0631\u06af",
         "\u0645\u0644\u062e\u0631\u06af \u0634\u0645\u0627\u0644\u06cc",
         "\u0645\u064e\u0644\u0650 \u062e\u064e\u0631\u06af",
-        "\u0645\u0644 \u062e\u0631"
+        "\u0645\u0644 \u062e\u0631",
+        "\u0645\u0644\u200c\u062e\u0631\u06a9 \u0634\u0645\u0627\u0644\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Mal-e Kharg-e Shemali"
     ],
     "name:und_x_variant":[
         "Mol-e Kharg",
@@ -69,7 +76,7 @@
         }
     ],
     "wof:id":1310557835,
-    "wof:lastmodified":1537644319,
+    "wof:lastmodified":1564115580,
     "wof:name":"Mal-e Kharg-e Shomali",
     "wof:parent_id":1108719955,
     "wof:placetype":"locality",

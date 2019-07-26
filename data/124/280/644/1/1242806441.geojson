@@ -25,13 +25,23 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u064a\u0631 \u0628\u0631\u0627\u0646\u062f\u0648\u062f"
+    ],
+    "name:ceb_x_preferred":[
+        "Z\u012brand\u016bd"
+    ],
     "name:fas_x_preferred":[
         "\u0632\u06cc\u0631\u0627\u0646\u062f\u0648\u062f"
     ],
     "name:fas_x_variant":[
         "Z\u012br Ban\u0101nd\u016bd",
         "Z\u012brand\u016bd",
-        "\u0632\u06cc\u0631 \u0628\u0631\u0627\u0646\u062f\u0648\u062f"
+        "\u0632\u06cc\u0631 \u0628\u0631\u0627\u0646\u062f\u0648\u062f",
+        "\u0632\u06cc\u0631\u0628\u0631\u0627\u0646\u062f\u0648\u062f"
+    ],
+    "name:swe_x_preferred":[
+        "Z\u012brand\u016bd"
     ],
     "name:und_x_variant":[
         "Barand\u016bd",
@@ -65,7 +75,7 @@
         }
     ],
     "wof:id":1242806441,
-    "wof:lastmodified":1537642933,
+    "wof:lastmodified":1564117137,
     "wof:name":"Zir-e Barandud",
     "wof:parent_id":1108719943,
     "wof:placetype":"locality",

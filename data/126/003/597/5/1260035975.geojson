@@ -25,6 +25,12 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631 \u0635\u0645\u062f\u064a\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "P\u012br \u015eamad\u012bn"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u06cc\u0631 \u0635\u062f\u06cc\u0646"
     ],
@@ -32,6 +38,9 @@
         "P\u012br \u015eamad\u012bn",
         "P\u012br \u015ead\u012bn",
         "\u067e\u06cc\u0631 \u0635\u0645\u062f\u06cc\u0646"
+    ],
+    "name:swe_x_preferred":[
+        "P\u012br \u015eamad\u012bn"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1260035975,
-    "wof:lastmodified":1537641506,
+    "wof:lastmodified":1564115017,
     "wof:name":"Pir Samadin",
     "wof:parent_id":1108720145,
     "wof:placetype":"locality",

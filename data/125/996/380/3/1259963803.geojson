@@ -25,6 +25,12 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0631 \u062f\u0631\u0629"
+    ],
+    "name:ceb_x_preferred":[
+        "S\u012brdarreh"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u064e\u0631\u064a\u0641\u0627\u0628\u0627\u062f\u0650 \u067e\u0627\u0626\u064a\u0646"
     ],
@@ -32,7 +38,14 @@
         "\u0634\u0631\u06cc\u0641 \u0622\u0628\u0627\u062f",
         "Shar\u012bf\u0101b\u0101d",
         "\u0633\u06cc\u0631 \u062f\u0631\u0647",
-        "\u06af\u0627\u0648 \u06af\u062f\u0627\u0631"
+        "\u06af\u0627\u0648 \u06af\u062f\u0627\u0631",
+        "\u0633\u06cc\u0631\u062f\u0631\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Sirdarreh"
+    ],
+    "name:swe_x_preferred":[
+        "S\u012brdarreh"
     ],
     "name:und_x_variant":[
         "Shar\u012bf\u0101b\u0101d-e P\u0101\u2019\u012bn",
@@ -63,7 +76,7 @@
         }
     ],
     "wof:id":1259963803,
-    "wof:lastmodified":1537641274,
+    "wof:lastmodified":1564118309,
     "wof:name":"Sirdarreh",
     "wof:parent_id":1108719829,
     "wof:placetype":"locality",

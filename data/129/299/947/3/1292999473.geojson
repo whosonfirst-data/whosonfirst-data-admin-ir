@@ -29,7 +29,11 @@
         "Rowshan\u0101b\u0101d"
     ],
     "name:fas_x_variant":[
-        "\u0631\u0648\u0634\u0646 \u0622\u0628\u0627\u062f"
+        "\u0631\u0648\u0634\u0646 \u0622\u0628\u0627\u062f",
+        "\u0631\u0648\u0634\u0646\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0432\u0448\u0430\u043d\u0430\u0431\u0430\u0434"
     ],
     "name:und_x_variant":[
         "Roshan\u0101b\u0101d",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1292999473,
-    "wof:lastmodified":1537643623,
+    "wof:lastmodified":1564111423,
     "wof:name":"Rowshanabad",
     "wof:parent_id":1108720157,
     "wof:placetype":"locality",

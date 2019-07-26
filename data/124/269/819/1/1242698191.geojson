@@ -29,7 +29,11 @@
         "Haft P\u0101reh"
     ],
     "name:fas_x_variant":[
-        "\u0647\u0641\u062a \u067e\u0627\u0631\u0647"
+        "\u0647\u0641\u062a \u067e\u0627\u0631\u0647",
+        "\u0647\u0641\u062a\u200c\u067e\u0627\u0631\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Haft Pareh"
     ],
     "name:und_x_variant":[
         "\u0647\u0641\u062a \u067e\u0627\u0631\u0647"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1242698191,
-    "wof:lastmodified":1537642481,
+    "wof:lastmodified":1564117409,
     "wof:name":"Haft Pareh",
     "wof:parent_id":1108720113,
     "wof:placetype":"locality",

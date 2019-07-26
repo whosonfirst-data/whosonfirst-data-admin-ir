@@ -29,7 +29,14 @@
         "Khorramz\u0101r"
     ],
     "name:fas_x_variant":[
-        "\u062e\u0631\u0645 \u0632\u0627\u0631"
+        "\u062e\u0631\u0645 \u0632\u0627\u0631",
+        "\u062e\u0631\u0645\u200c\u0632\u0627\u0631"
+    ],
+    "name:msa_x_preferred":[
+        "Khorramzar"
+    ],
+    "name:pol_x_preferred":[
+        "Chorramzar"
     ],
     "name:und_x_variant":[
         "\u062e\u0631\u0645 \u0632\u0627\u0631"
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1259503917,
-    "wof:lastmodified":1537644548,
+    "wof:lastmodified":1564118650,
     "wof:name":"Khorramzar",
     "wof:parent_id":1108720113,
     "wof:placetype":"locality",

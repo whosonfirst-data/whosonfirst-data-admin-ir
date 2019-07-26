@@ -25,13 +25,23 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0648\u0631\u0627\u0646 \u062a\u0634\u0645"
+    ],
+    "name:ceb_x_preferred":[
+        "Z\u0101r\u0101n Cham Garm\u016brt"
+    ],
     "name:fas_x_preferred":[
         "\u0632\u0631\u0648\u0627\u0646 \u0686\u0645"
     ],
     "name:fas_x_variant":[
         "Z\u016br\u0101ncham",
         "Zarav\u0101n Cham",
-        "\u0632\u0627\u0631\u0627\u0646 \u0686\u0645 \u06af\u0631\u0645\u0648\u0631\u062a"
+        "\u0632\u0627\u0631\u0627\u0646 \u0686\u0645 \u06af\u0631\u0645\u0648\u0631\u062a",
+        "\u0632\u0648\u0631\u0627\u0646 \u0686\u0645"
+    ],
+    "name:swe_x_preferred":[
+        "Z\u0101r\u0101n Cham Garm\u016brt"
     ],
     "name:und_x_variant":[
         "Z\u0101r\u0101n Cham Garm\u016brt"
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":1209872229,
-    "wof:lastmodified":1537641487,
+    "wof:lastmodified":1564113921,
     "wof:name":"Zaran Cham Garmurt",
     "wof:parent_id":1108720145,
     "wof:placetype":"locality",

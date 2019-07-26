@@ -29,10 +29,14 @@
         "Yekeh B\u0101gh"
     ],
     "name:fas_x_variant":[
-        "\u064a\u0643\u0647 \u0628\u0627\u063a"
+        "\u064a\u0643\u0647 \u0628\u0627\u063a",
+        "\u06cc\u06a9\u0647\u200c\u0628\u0627\u063a"
     ],
     "name:und_x_variant":[
         "\u064a\u0643\u0647 \u0628\u0627\u063a"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u06a9\u06c1 \u0628\u0627\u063a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1310628013,
-    "wof:lastmodified":1537641097,
+    "wof:lastmodified":1564115456,
     "wof:name":"Yekeh Bagh",
     "wof:parent_id":1108720321,
     "wof:placetype":"locality",

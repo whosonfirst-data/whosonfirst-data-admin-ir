@@ -25,15 +25,31 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "L\u0101leh Gafsheh"
+    ],
     "name:fas_x_preferred":[
         "L\u0101leh Gafsheh"
     ],
     "name:fas_x_variant":[
-        "\u0644\u0627\u0644\u0647 \u06af\u0641\u0634\u0647"
+        "\u0644\u0627\u0644\u0647 \u06af\u0641\u0634\u0647",
+        "\u0644\u0627\u0644\u0647\u200c\u06af\u0641\u0634\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Laleh Gafsheh"
+    ],
+    "name:swe_x_preferred":[
+        "L\u0101leh Gafsheh"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u044f\u043b\u0435-\u0490\u0430\u0444\u0448\u0435"
     ],
     "name:und_x_variant":[
         "L\u0101leh Ma\u1e29alleh-ye Gafsheh",
         "\u0644\u0627\u0644\u0647 \u06af\u0641\u0634\u0647"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0644\u06c1 \u06af\u0627\u0641\u0634\u06cc\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +75,7 @@
         }
     ],
     "wof:id":1260070183,
-    "wof:lastmodified":1537641577,
+    "wof:lastmodified":1564114786,
     "wof:name":"Laleh Gafsheh",
     "wof:parent_id":1108720339,
     "wof:placetype":"locality",

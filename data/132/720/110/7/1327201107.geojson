@@ -25,13 +25,23 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0627\u0645\u0627\u0648\u0631"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0100var"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u0645 \u0622\u0648\u0631"
     ],
     "name:fas_x_variant":[
         "\u0100var",
         "\u0622\u0648\u0631",
-        "N\u0101m \u0100var"
+        "N\u0101m \u0100var",
+        "\u0646\u0627\u0645\u0627\u0648\u0631"
+    ],
+    "name:swe_x_preferred":[
+        "\u0100var"
     ],
     "name:und_x_variant":[
         "Nimewar"
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":1327201107,
-    "wof:lastmodified":1537644088,
+    "wof:lastmodified":1564108864,
     "wof:name":"Avar",
     "wof:parent_id":1108720011,
     "wof:placetype":"locality",

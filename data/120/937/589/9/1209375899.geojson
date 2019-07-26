@@ -25,12 +25,37 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0635\u0631\u062a \u0623\u0628\u0627\u062f"
+    ],
+    "name:azb_x_preferred":[
+        "\u0646\u0648\u0635\u0631\u062a\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:aze_x_preferred":[
+        "N\u00fcsr\u0259tabad"
+    ],
+    "name:cat_x_preferred":[
+        "Nosratabad"
+    ],
+    "name:ceb_x_preferred":[
+        "No\u015frat\u0101b\u0101d"
+    ],
     "name:fas_x_preferred":[
         "No\u015frat\u0101b\u0101d"
     ],
     "name:fas_x_variant":[
         "\u0646\u0635\u0631\u062a \u0622\u0628\u0627\u062f",
-        "Nasrat\u0101b\u0101d"
+        "Nasrat\u0101b\u0101d",
+        "\u0646\u0635\u0631\u062a\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:ita_x_preferred":[
+        "Nosratabad"
+    ],
+    "name:mlg_x_preferred":[
+        "Nosratabad"
+    ],
+    "name:tur_x_preferred":[
+        "Nusretabad"
     ],
     "name:und_x_variant":[
         "Nasrat\u0101b\u0101d",
@@ -53,7 +78,7 @@
         }
     ],
     "wof:id":1209375899,
-    "wof:lastmodified":1537644026,
+    "wof:lastmodified":1564113159,
     "wof:name":"Nosratabad",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",

@@ -30,7 +30,11 @@
     ],
     "name:fas_x_variant":[
         "Q\u016bsh Qayehs\u012b",
-        "\u0642\u0648\u0634 \u0642\u06cc\u0647"
+        "\u0642\u0648\u0634 \u0642\u06cc\u0647",
+        "\u0642\u0648\u0634\u200c\u0642\u06cc\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Qush Qayeh"
     ],
     "name:und_x_variant":[
         "Q\u016bsh Qayeh"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1327279263,
-    "wof:lastmodified":1537640975,
+    "wof:lastmodified":1564108889,
     "wof:name":"Qush Qayehsi",
     "wof:parent_id":1108720207,
     "wof:placetype":"locality",

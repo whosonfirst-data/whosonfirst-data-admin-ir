@@ -25,13 +25,20 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0627\u0634\u0645 \u0623\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u0647\u0627\u0634\u0645 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
         "S\u012bk\u0101n",
         "\u0633\u06cc\u06a9\u0627\u0646",
-        "Hashem\u0101b\u0101d"
+        "Hashem\u0101b\u0101d",
+        "\u0647\u0627\u0634\u0645\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Hashemabad"
     ],
     "name:und_x_variant":[
         "H\u0101shem\u0101b\u0101d"
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":1343379137,
-    "wof:lastmodified":1537641523,
+    "wof:lastmodified":1564109089,
     "wof:name":"Hashemabad",
     "wof:parent_id":1108719947,
     "wof:placetype":"locality",

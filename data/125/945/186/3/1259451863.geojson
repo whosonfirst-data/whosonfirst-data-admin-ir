@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0634\u0643"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0634\u0643"
     ],
     "name:fas_x_variant":[
-        "\u0628\u064e\u0634\u064e\u0643"
+        "\u0628\u064e\u0634\u064e\u0643",
+        "\u0628\u0634\u06a9"
+    ],
+    "name:msa_x_preferred":[
+        "Beshak"
     ],
     "name:und_x_variant":[
         "Bashak",
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":1259451863,
-    "wof:lastmodified":1537645948,
+    "wof:lastmodified":1564118969,
     "wof:name":"Beshak",
     "wof:parent_id":1108719953,
     "wof:placetype":"locality",

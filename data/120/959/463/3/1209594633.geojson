@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u0631\u0647\u062a\u0634\u0642\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Sh\u012breh Choq\u0101"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u06cc\u0631\u0647 \u0686\u0642\u0627"
     ],
     "name:fas_x_variant":[
         "Sh\u012breh Cheq\u0101",
+        "Sh\u012breh Choq\u0101",
+        "\u0634\u06cc\u0631\u0647\u200c\u0686\u0642\u0627"
+    ],
+    "name:swe_x_preferred":[
         "Sh\u012breh Choq\u0101"
     ],
     "src:geom":"geonames",
@@ -50,7 +60,7 @@
         }
     ],
     "wof:id":1209594633,
-    "wof:lastmodified":1537643318,
+    "wof:lastmodified":1564113636,
     "wof:name":"Shireh Choqa",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",

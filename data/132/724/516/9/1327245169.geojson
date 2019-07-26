@@ -25,11 +25,27 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0622\u063a\u0627\u0645\u06cc\u0631\u06a9\u0646\u062f\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "A\u011famir k\u0259ndi"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0100q\u0101m\u012br Kand\u012b"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u0642\u0627\u0645\u06cc\u0631 \u06a9\u0646\u062f\u06cc"
     ],
     "name:fas_x_variant":[
         "\u0622\u0642\u0627\u0645\u064a\u0631 \u0643\u064e\u0646\u062f\u06cc",
+        "\u0100q\u0101m\u012br Kand\u012b",
+        "\u0622\u0642\u0627\u0645\u06cc\u0631\u06a9\u0646\u062f\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Aqamir Kandi"
+    ],
+    "name:swe_x_preferred":[
         "\u0100q\u0101m\u012br Kand\u012b"
     ],
     "src:geom":"geonames",
@@ -56,7 +72,7 @@
         }
     ],
     "wof:id":1327245169,
-    "wof:lastmodified":1537640789,
+    "wof:lastmodified":1564108113,
     "wof:name":"Aqamir Kandi",
     "wof:parent_id":1108720203,
     "wof:placetype":"locality",

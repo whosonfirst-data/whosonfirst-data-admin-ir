@@ -25,11 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0634\u0647\u0627\u0631\u0631\u0627\u0647 \u063a\u0634\u064a\u0646"
+    ],
     "name:fas_x_preferred":[
         "Chah\u0101r R\u0101h-e Gash\u012bn"
     ],
     "name:fas_x_variant":[
-        "\u0686\u0647\u0627\u0631 \u0631\u0627\u0647 \u06af\u0634\u064a\u0646"
+        "\u0686\u0647\u0627\u0631 \u0631\u0627\u0647 \u06af\u0634\u064a\u0646",
+        "\u0686\u0647\u0627\u0631\u0631\u0627\u0647 \u06af\u0634\u06cc\u0646"
     ],
     "name:und_x_variant":[
         "\u0686\u0647\u0627\u0631 \u0631\u0627\u0647 \u06af\u0634\u064a\u0646"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1293587985,
-    "wof:lastmodified":1537642668,
+    "wof:lastmodified":1564111228,
     "wof:name":"Chahar Rah-e Gashin",
     "wof:parent_id":1108720015,
     "wof:placetype":"locality",

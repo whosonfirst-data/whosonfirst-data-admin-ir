@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0645\u064a\u0647\u0634\u062a"
+    ],
     "name:fas_x_preferred":[
         "Nem\u012b Hasht"
     ],
     "name:fas_x_variant":[
-        "\u0646\u0645\u06cc \u0647\u0634\u062a"
+        "\u0646\u0645\u06cc \u0647\u0634\u062a",
+        "\u0646\u0645\u06cc\u200c\u0647\u0634\u062a"
+    ],
+    "name:msa_x_preferred":[
+        "Nemi Hasht"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u043c\u0456-\u0413\u0430\u0448\u0442"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":1310002567,
-    "wof:lastmodified":1537642082,
+    "wof:lastmodified":1564115518,
     "wof:name":"Nemi Hasht",
     "wof:parent_id":1108720013,
     "wof:placetype":"locality",

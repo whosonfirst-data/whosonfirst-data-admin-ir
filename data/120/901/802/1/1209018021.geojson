@@ -25,13 +25,20 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ortanis"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u0631\u062a\u0627\u0646\u064a\u0633"
     ],
     "name:fas_x_variant":[
         "\u0627\u0648\u0631\u062a\u0627\u0646\u0633",
         "\u016art\u0101n\u012bs",
-        "\u016art\u0101ns"
+        "\u016art\u0101ns",
+        "\u0627\u0648\u0631\u062a\u0627\u0646\u06cc\u0633"
+    ],
+    "name:msa_x_preferred":[
+        "Urtanis"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":1209018021,
-    "wof:lastmodified":1537641055,
+    "wof:lastmodified":1564113096,
     "wof:name":"Urtans",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",

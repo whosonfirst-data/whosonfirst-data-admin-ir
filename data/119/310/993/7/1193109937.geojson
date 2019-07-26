@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0645\u0644\u0648\u062d"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u064a\u062a\u0645\u0644\u0648\u062d(\u0627\u0647\u0648\u0627\u0632)"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u06cc\u062a \u0645\u0644\u0648\u062d"
     ],
     "name:fas_x_variant":[
-        "Beyt-e Mal\u016b\u1e29"
+        "Beyt-e Mal\u016b\u1e29",
+        "\u0628\u06cc\u062a\u0645\u0644\u0648\u062d"
     ],
     "name:und_x_variant":[
         "Bait\u00e9 Malooh",
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":1193109937,
-    "wof:lastmodified":1537645905,
+    "wof:lastmodified":1564114616,
     "wof:name":"Beyt-e Maluh",
     "wof:parent_id":1108719793,
     "wof:placetype":"locality",

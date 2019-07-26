@@ -25,13 +25,26 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kh\u016bch\u012breh"
+    ],
     "name:fas_x_preferred":[
         "\u062e\u0686\u064a\u0631\u0647"
     ],
     "name:fas_x_variant":[
         "Khach\u012breh",
         "Kh\u016bch\u012breh",
-        "\u062e\u0648\u0686\u06cc\u0631\u0647"
+        "\u062e\u0648\u0686\u06cc\u0631\u0647",
+        "\u062e\u0686\u06cc\u0631\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Khachireh"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u0447\u0438\u0440\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Kh\u016bch\u012breh"
     ],
     "name:und_x_variant":[
         "\u062e\u0648\u0686\u06cc\u0631\u0647"
@@ -54,7 +67,7 @@
         }
     ],
     "wof:id":1209033821,
-    "wof:lastmodified":1537640551,
+    "wof:lastmodified":1564113669,
     "wof:name":"Khuchireh",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",

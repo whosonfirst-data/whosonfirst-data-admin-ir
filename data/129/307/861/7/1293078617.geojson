@@ -31,7 +31,11 @@
     "name:fas_x_variant":[
         "K\u016bveh\u2019\u012b",
         "Kov\u0101y",
-        "\u06a9\u0648\u0648\u0647 \u0627\u06cc"
+        "\u06a9\u0648\u0648\u0647 \u0627\u06cc",
+        "\u06a9\u0648\u0648\u0647\u200c\u0627\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Kuvehi"
     ],
     "name:und_x_variant":[
         "Kov\u0101\u2019\u012b",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1293078617,
-    "wof:lastmodified":1537644409,
+    "wof:lastmodified":1564110330,
     "wof:name":"Kowey",
     "wof:parent_id":1108720317,
     "wof:placetype":"locality",

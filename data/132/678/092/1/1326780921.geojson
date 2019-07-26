@@ -25,11 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u064a\u063a \u0623\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u06cc\u06af \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "R\u012bg\u0101b\u0101d"
+        "R\u012bg\u0101b\u0101d",
+        "\u0631\u06cc\u06af\u200c\u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326780921,
-    "wof:lastmodified":1537646494,
+    "wof:lastmodified":1564108390,
     "wof:name":"Rigabad",
     "wof:parent_id":1108719809,
     "wof:placetype":"locality",

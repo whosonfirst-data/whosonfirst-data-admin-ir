@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0629 \u0634\u0647\u0631\u064a"
+    ],
+    "name:aze_x_preferred":[
+        "D\u0259v\u0259\u015f\u0259hri"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0648\u0647 \u0634\u0647\u0631\u06cc"
     ],
     "name:fas_x_variant":[
-        "Daveh Shahr\u012b"
+        "Daveh Shahr\u012b",
+        "\u062f\u0648\u0647\u200c\u0634\u0647\u0631\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Daveh Shahri"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":1277077889,
-    "wof:lastmodified":1537647465,
+    "wof:lastmodified":1564111767,
     "wof:name":"Daveh Shahri",
     "wof:parent_id":1108719915,
     "wof:placetype":"locality",

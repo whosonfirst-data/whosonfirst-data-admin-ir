@@ -25,11 +25,24 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u063a\u0631\u063a \u0623\u0628"
+    ],
+    "name:ceb_x_preferred":[
+        "Tagarg \u0100b"
+    ],
     "name:fas_x_preferred":[
         "Tagarg \u0100b"
     ],
     "name:fas_x_variant":[
-        "\u062a\u064e\u06af\u064e\u0631\u06af \u0622\u0628"
+        "\u062a\u064e\u06af\u064e\u0631\u06af \u0622\u0628",
+        "\u062a\u06af\u0631\u06af\u200c\u0622\u0628"
+    ],
+    "name:msa_x_preferred":[
+        "Tagarg Ab"
+    ],
+    "name:swe_x_preferred":[
+        "Tagarg \u0100b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +68,7 @@
         }
     ],
     "wof:id":1276342189,
-    "wof:lastmodified":1537642169,
+    "wof:lastmodified":1564112059,
     "wof:name":"Tagarg Ab",
     "wof:parent_id":1108719903,
     "wof:placetype":"locality",

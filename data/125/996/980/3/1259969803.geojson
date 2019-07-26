@@ -25,6 +25,9 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u062f\u0645\u062e"
+    ],
     "name:fas_x_preferred":[
         "\u06af\u06cc\u06af\u0627\u0633\u0631"
     ],
@@ -32,11 +35,20 @@
         "G\u012bg\u0101 Sar",
         "\u0644\u0627\u062f\u0645\u062e"
     ],
+    "name:msa_x_preferred":[
+        "Ladmokh"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0434\u043c\u043e\u0445"
+    ],
     "name:und_x_variant":[
         "T\u0101zeh\u0101b\u0101d-e G\u012bg\u0101sar",
         "Gigaser",
         "G\u012bg\u0101 Sar",
         "L\u0101dmokh"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0688\u0645\u0648\u06a9\u06be"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +74,7 @@
         }
     ],
     "wof:id":1259969803,
-    "wof:lastmodified":1537645164,
+    "wof:lastmodified":1564118309,
     "wof:name":"Ladmokh",
     "wof:parent_id":1108720013,
     "wof:placetype":"locality",

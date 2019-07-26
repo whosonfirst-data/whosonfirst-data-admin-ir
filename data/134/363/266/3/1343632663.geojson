@@ -25,12 +25,22 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0628\u063a\u0629"
+    ],
+    "name:ceb_x_preferred":[
+        "Khapgah Sh\u012b'\u0101n"
+    ],
     "name:fas_x_preferred":[
         "\u062d\u067e\u06af\u0647 \u0634\u06cc\u0627\u0646"
     ],
     "name:fas_x_variant":[
         "\u1e28apgah-e Sh\u012b\u0101n",
-        "\u062e\u0628\u06af\u0647 \u0634\u064a\u064a\u0627\u0646"
+        "\u062e\u0628\u06af\u0647 \u0634\u064a\u064a\u0627\u0646",
+        "\u062e\u067e\u06af\u0647"
+    ],
+    "name:swe_x_preferred":[
+        "Khapgah Sh\u012b'\u0101n"
     ],
     "name:und_x_variant":[
         "Khapgah",
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":1343632663,
-    "wof:lastmodified":1537641462,
+    "wof:lastmodified":1564109146,
     "wof:name":"Khapgah Shi'an",
     "wof:parent_id":1108719983,
     "wof:placetype":"locality",

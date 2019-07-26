@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0631\u0627\u0628\u063a\u0631\u0648\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Shar\u0101b Gor\u016bh"
+    ],
     "name:fas_x_preferred":[
         "Shar\u0101b Gor\u016bh"
     ],
     "name:fas_x_variant":[
-        "\u0634\u0631\u0627\u0628 \u06af\u0631\u0648\u0647"
+        "\u0634\u0631\u0627\u0628 \u06af\u0631\u0648\u0647",
+        "\u0634\u0631\u0627\u0628\u06af\u0631\u0648\u0647"
+    ],
+    "name:swe_x_preferred":[
+        "Shar\u0101b Gor\u016bh"
     ],
     "name:und_x_variant":[
         "\u0634\u0631\u0627\u0628 \u06af\u0631\u0648\u0647"
@@ -58,7 +68,7 @@
         }
     ],
     "wof:id":1225849551,
-    "wof:lastmodified":1537642553,
+    "wof:lastmodified":1564120541,
     "wof:name":"Sharab Goruh",
     "wof:parent_id":1108720157,
     "wof:placetype":"locality",

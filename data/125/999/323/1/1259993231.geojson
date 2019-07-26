@@ -25,11 +25,24 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062f\u0631\u0632\u0645"
+    ],
+    "name:aze_x_preferred":[
+        "D\u0259r\u0259z\u0259m"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u064e\u0631\u064e\u0632\u064e\u0645"
     ],
     "name:fas_x_variant":[
-        "\u062f\u0631\u0647 \u0632\u0645"
+        "\u062f\u0631\u0647 \u0632\u0645",
+        "\u062f\u0631\u0632\u0645"
+    ],
+    "name:msa_x_preferred":[
+        "Darazam"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0430\u0440\u0430\u0437\u0430\u043c"
     ],
     "name:und_x_variant":[
         "Darazam",
@@ -59,7 +72,7 @@
         }
     ],
     "wof:id":1259993231,
-    "wof:lastmodified":1537641043,
+    "wof:lastmodified":1564118426,
     "wof:name":"Darah Zam",
     "wof:parent_id":1108720289,
     "wof:placetype":"locality",

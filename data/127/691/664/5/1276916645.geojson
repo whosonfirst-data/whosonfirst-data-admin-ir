@@ -25,6 +25,9 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Havest\u012bn"
+    ],
     "name:fas_x_preferred":[
         "\u0647\u0627\u0648\u064a\u0633\u062a\u064a\u0646"
     ],
@@ -33,7 +36,14 @@
         "H\u0101v\u012bst\u012bn",
         "Hav\u012bst\u016bn",
         "Havest\u012bn",
-        "\u0647\u0648\u0633\u062a\u064a\u0646"
+        "\u0647\u0648\u0633\u062a\u064a\u0646",
+        "\u0647\u0627\u0648\u06cc\u0633\u062a\u06cc\u0646"
+    ],
+    "name:msa_x_preferred":[
+        "Havistin"
+    ],
+    "name:swe_x_preferred":[
+        "Havest\u012bn"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +69,7 @@
         }
     ],
     "wof:id":1276916645,
-    "wof:lastmodified":1537641924,
+    "wof:lastmodified":1564112801,
     "wof:name":"Havestin",
     "wof:parent_id":1108720219,
     "wof:placetype":"locality",

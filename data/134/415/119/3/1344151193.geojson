@@ -25,12 +25,19 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0644\u0627\u0628 \u0628\u0627\u064a\u064a\u0646"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0648\u0644\u0627\u0628 \u067e\u0627\u0626\u06cc\u0646"
     ],
     "name:fas_x_variant":[
         "D\u016bl\u0101b-e P\u0101\u2019\u012bn",
-        "\u062f\u0648\u0644\u0648 \u067e\u0627\u0626\u06cc\u0646"
+        "\u062f\u0648\u0644\u0648 \u067e\u0627\u0626\u06cc\u0646",
+        "\u062f\u0648\u0644\u0627\u0628 \u067e\u0627\u06cc\u06cc\u0646"
+    ],
+    "name:msa_x_preferred":[
+        "Dulab-e Pain"
     ],
     "name:und_x_variant":[
         "Dowl\u016b-ye P\u0101\u2019\u012bn"
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":1344151193,
-    "wof:lastmodified":1537647921,
+    "wof:lastmodified":1564109260,
     "wof:name":"Dowlu-ye Pa'in",
     "wof:parent_id":1108719827,
     "wof:placetype":"locality",

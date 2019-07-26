@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062f\u0634\u0647\u0631"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u06cc\u062f \u0634\u0647\u0631"
     ],
     "name:fas_x_variant":[
-        "B\u012bd Shahr"
+        "B\u012bd Shahr",
+        "\u0628\u06cc\u062f\u0634\u0647\u0631"
+    ],
+    "name:msa_x_preferred":[
+        "Bid Shahr"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1225865237,
-    "wof:lastmodified":1537645887,
+    "wof:lastmodified":1564119717,
     "wof:name":"Bid Shahr",
     "wof:parent_id":1108720185,
     "wof:placetype":"locality",

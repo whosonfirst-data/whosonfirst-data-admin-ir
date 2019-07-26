@@ -25,12 +25,25 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0627\u0638\u0645 \u0623\u0628\u0627\u062f"
+    ],
+    "name:azb_x_preferred":[
+        "\u0646\u0627\u0638\u0645\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:aze_x_preferred":[
+        "Nazimabad"
+    ],
     "name:fas_x_preferred":[
         "N\u0101z\u0327em\u0101b\u0101d"
     ],
     "name:fas_x_variant":[
         "\u0646\u0627\u0638\u0645 \u0622\u0628\u0627\u062f",
-        "\u0635\u0642\u0644\u06cc"
+        "\u0635\u0642\u0644\u06cc",
+        "\u0646\u0627\u0638\u0645\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Nazemabad"
     ],
     "name:und_x_variant":[
         "\u015eaql\u00e1"
@@ -53,7 +66,7 @@
         }
     ],
     "wof:id":1209355869,
-    "wof:lastmodified":1537640718,
+    "wof:lastmodified":1564113653,
     "wof:name":"Nazemabad",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",

@@ -25,11 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0631\u0648\u064a\u064a\u0629"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0648\u0631\u0648\u0626\u06cc\u0647"
     ],
     "name:fas_x_variant":[
-        "S\u016br\u016b\u2019\u012byeh"
+        "S\u016br\u016b\u2019\u012byeh",
+        "\u0633\u0648\u0631\u0648\u06cc\u06cc\u0647"
     ],
     "name:und_x_variant":[
         "Sor\u016b\u2019\u012byeh",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293062257,
-    "wof:lastmodified":1537643211,
+    "wof:lastmodified":1564110526,
     "wof:name":"Suru'iyeh",
     "wof:parent_id":1108719851,
     "wof:placetype":"locality",

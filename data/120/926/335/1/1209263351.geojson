@@ -25,11 +25,24 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0634\u0644\u0627\u0642 \u062d\u0627\u062c \u0623\u0645\u0627\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Qeshl\u0101q-e \u1e28\u0101jj Aman"
+    ],
     "name:fas_x_preferred":[
         "Qeshl\u0101q-e \u1e28\u0101jj Aman"
     ],
     "name:fas_x_variant":[
-        "\u0642\u0650\u0634\u0644\u0627\u0642\u0650 \u062d\u0627\u062c\u0651 \u0627\u064e\u0645\u064e\u0646"
+        "\u0642\u0650\u0634\u0644\u0627\u0642\u0650 \u062d\u0627\u062c\u0651 \u0627\u064e\u0645\u064e\u0646",
+        "\u0642\u0634\u0644\u0627\u0642 \u062d\u0627\u062c \u0627\u0645\u0646"
+    ],
+    "name:msa_x_preferred":[
+        "Qeshlaq-e Hajj Aman"
+    ],
+    "name:swe_x_preferred":[
+        "Qeshl\u0101q-e \u1e28\u0101jj Aman"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +62,7 @@
         }
     ],
     "wof:id":1209263351,
-    "wof:lastmodified":1537642156,
+    "wof:lastmodified":1564114001,
     "wof:name":"Qeshlaq-e Hajj Aman",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",

@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u06a9\u0627\u0631\u06a9\u0646\u062f\u0629"
+    ],
     "name:fas_x_preferred":[
         "\u06a9\u0627\u0631 \u06a9\u0646\u062f\u0647"
     ],
     "name:fas_x_variant":[
-        "K\u0101r Kondeh"
+        "K\u0101r Kondeh",
+        "\u06a9\u0627\u0631\u06a9\u0646\u062f\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Kar Kondeh"
     ],
     "name:und_x_variant":[
         "K\u0101r Kandeh"
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1326482011,
-    "wof:lastmodified":1537646428,
+    "wof:lastmodified":1564108473,
     "wof:name":"Kar Kandeh",
     "wof:parent_id":1108719867,
     "wof:placetype":"locality",

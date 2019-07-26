@@ -29,7 +29,11 @@
         "\u0100q Tappeh"
     ],
     "name:fas_x_variant":[
-        "\u0622\u0642 \u062a\u067e\u0647"
+        "\u0622\u0642 \u062a\u067e\u0647",
+        "\u0622\u0642\u200c\u062a\u067e\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Aq Tappeh"
     ],
     "name:und_x_variant":[
         "\u0100q Tappeh-ye Nashr",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259777741,
-    "wof:lastmodified":1537646148,
+    "wof:lastmodified":1564118465,
     "wof:name":"Aq Tappeh",
     "wof:parent_id":1108720047,
     "wof:placetype":"locality",

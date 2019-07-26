@@ -25,12 +25,25 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u064a\u0631\u0648\u0642\u062a"
+    ],
+    "name:ceb_x_preferred":[
+        "Zarvaqt"
+    ],
     "name:fas_x_preferred":[
         "Z\u012br Vaqt"
     ],
     "name:fas_x_variant":[
         "\u0632\u0631\u0648\u0642\u062a",
-        "\u0632\u06cc\u0631 \u0648\u0642\u062a"
+        "\u0632\u06cc\u0631 \u0648\u0642\u062a",
+        "\u0632\u06cc\u0631\u0648\u0642\u062a"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0632\u06cc\u0631\u0648\u0642\u062a"
+    ],
+    "name:swe_x_preferred":[
+        "Zarvaqt"
     ],
     "name:und_x_variant":[
         "Zarvaqt",
@@ -60,7 +73,7 @@
         }
     ],
     "wof:id":1226172239,
-    "wof:lastmodified":1537640892,
+    "wof:lastmodified":1564119237,
     "wof:name":"Zir Vaqt",
     "wof:parent_id":1108719877,
     "wof:placetype":"locality",

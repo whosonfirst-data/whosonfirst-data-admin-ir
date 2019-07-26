@@ -25,6 +25,9 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kahr\u012bz"
+    ],
     "name:fas_x_preferred":[
         "\u0643\u0647\u0631\u064a\u0632 \u062d\u0633\u064a\u0646 \u0622\u0628\u0627\u062f \u0646\u0627\u0638\u0645"
     ],
@@ -33,7 +36,11 @@
         "Kahr\u012bz-e \u1e28oseyn\u0101b\u0101d-e N\u0101z\u0327em",
         "Kahr\u012bz",
         "\u06a9\u0647\u0631\u06cc\u0632",
-        "\u06a9\u0647\u0631\u06cc\u0632 \u0646\u0627\u0638\u0645"
+        "\u06a9\u0647\u0631\u06cc\u0632 \u0646\u0627\u0638\u0645",
+        "\u06a9\u0647\u0631\u06cc\u0632\u062d\u0633\u06cc\u0646\u200c\u0622\u0628\u0627\u062f \u0646\u0627\u0638\u0645"
+    ],
+    "name:msa_x_preferred":[
+        "Kahriz-e Hoseynabad-e Nazem"
     ],
     "name:und_x_variant":[
         "Kahr\u012bz \u1e28oseyn\u0101b\u0101d",
@@ -65,7 +72,7 @@
         }
     ],
     "wof:id":1260374639,
-    "wof:lastmodified":1537644782,
+    "wof:lastmodified":1564114857,
     "wof:name":"Kahriz-e Nazem",
     "wof:parent_id":1108720205,
     "wof:placetype":"locality",

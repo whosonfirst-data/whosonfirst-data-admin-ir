@@ -25,6 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0646\u0628\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "\u015eunb\u0259"
+    ],
+    "name:ceb_x_preferred":[
+        "Shanbeh"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u064e\u0645\u0628\u064e"
     ],
@@ -32,6 +41,27 @@
         "\u0686\u064e\u0645\u0628\u0650\u0647",
         "\u0634\u0646\u0628\u0647",
         "\u0634\u064e\u0645\u0628\u0650\u0647"
+    ],
+    "name:ita_x_preferred":[
+        "Shonbeh"
+    ],
+    "name:mlg_x_preferred":[
+        "Shonbeh"
+    ],
+    "name:msa_x_preferred":[
+        "Shonbeh"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u043c\u0431\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Shanbeh"
+    ],
+    "name:tur_x_preferred":[
+        "\u015eunbe"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0435\u043c\u0431\u0435"
     ],
     "name:und_x_variant":[
         "Shambeh",
@@ -41,6 +71,9 @@
         "Shamba",
         "Chambeh",
         "Shonbeh"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0646\u0628\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +99,7 @@
         }
     ],
     "wof:id":1226805559,
-    "wof:lastmodified":1537643364,
+    "wof:lastmodified":1564119314,
     "wof:name":"Shanbeh",
     "wof:parent_id":1108719953,
     "wof:placetype":"locality",

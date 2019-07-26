@@ -25,12 +25,19 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062e\u0627\u0646\u0647\u200c\u0633\u0631"
+    ],
     "name:fas_x_preferred":[
         "\u062e\u0627\u0646\u0650\u0647 \u0633\u064e\u0631"
     ],
     "name:fas_x_variant":[
         "\u062e\u0627\u0646\u0647 \u0633\u0631",
-        "Kh\u0101neh Sar"
+        "Kh\u0101neh Sar",
+        "\u062e\u0627\u0646\u0647\u200c\u0633\u0631"
+    ],
+    "name:msa_x_preferred":[
+        "Khaneh Sar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":1276715339,
-    "wof:lastmodified":1537641924,
+    "wof:lastmodified":1564112483,
     "wof:name":"Khaneh Sar",
     "wof:parent_id":1108720219,
     "wof:placetype":"locality",

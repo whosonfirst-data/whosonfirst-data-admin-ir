@@ -26,12 +26,19 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u064a\u0646 \u0643\u0646\u062f\u064a"
+    ],
     "name:fas_x_preferred":[
         "\u062c\u064a\u0646 \u0643\u064e\u0646\u062f\u06cc"
     ],
     "name:fas_x_variant":[
         "\u062c\u0650\u0646 \u0643\u064e\u0646\u062f\u06cc",
-        "J\u012bn Kand\u012b"
+        "J\u012bn Kand\u012b",
+        "\u062c\u06cc\u0646 \u06a9\u0646\u062f\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Jin Kandi"
     ],
     "name:und_x_variant":[
         "Jen Kand\u012b"
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":1276721365,
-    "wof:lastmodified":1537640727,
+    "wof:lastmodified":1564111790,
     "wof:name":"Jin Kandi",
     "wof:parent_id":1108720021,
     "wof:placetype":"locality",

@@ -25,13 +25,20 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sh\u016br Q\u0101\u1e95\u012b"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u0648\u0631"
     ],
     "name:fas_x_variant":[
         "Sh\u016br",
         "Sh\u016br Q\u0101\u1e95\u012b",
-        "\u0634\u0648\u0631 \u0642\u0627\u0636\u064a"
+        "\u0634\u0648\u0631 \u0642\u0627\u0636\u064a",
+        "\u0634\u0648\u0631\u0642\u0627\u0636\u06cc"
+    ],
+    "name:swe_x_preferred":[
+        "Sh\u016br Q\u0101\u1e95\u012b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":1310259783,
-    "wof:lastmodified":1537643300,
+    "wof:lastmodified":1564115367,
     "wof:name":"Shur Qazi",
     "wof:parent_id":1108720023,
     "wof:placetype":"locality",

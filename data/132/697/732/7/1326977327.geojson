@@ -25,11 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0645 \u0623\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u062e\u0631\u0651\u0645 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "Khorram\u0101b\u0101d"
+        "Khorram\u0101b\u0101d",
+        "\u062e\u0631\u0645\u200c\u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326977327,
-    "wof:lastmodified":1537640472,
+    "wof:lastmodified":1564108548,
     "wof:name":"Khorramabad",
     "wof:parent_id":1108719825,
     "wof:placetype":"locality",

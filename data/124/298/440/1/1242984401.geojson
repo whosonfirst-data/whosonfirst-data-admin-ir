@@ -25,10 +25,26 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062d\u0627\u062c\u06cc \u063a\u0644\u062f\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "Hac\u0131q\u0259ld\u0259"
+    ],
+    "name:ceb_x_preferred":[
+        "\u1e28\u0101jj\u012b Ghaldeh"
+    ],
     "name:fas_x_preferred":[
         "\u062d\u0627\u062c\u06cc \u063a\u0644\u062f\u0647"
     ],
     "name:fas_x_variant":[
+        "\u1e28\u0101jj\u012b Ghaldeh",
+        "\u062d\u0627\u062c\u06cc\u200c\u063a\u0644\u062f\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Hajji Ghaldeh"
+    ],
+    "name:swe_x_preferred":[
         "\u1e28\u0101jj\u012b Ghaldeh"
     ],
     "src:geom":"geonames",
@@ -55,7 +71,7 @@
         }
     ],
     "wof:id":1242984401,
-    "wof:lastmodified":1537647333,
+    "wof:lastmodified":1564117901,
     "wof:name":"Hajji Ghaldeh",
     "wof:parent_id":1108720303,
     "wof:placetype":"locality",

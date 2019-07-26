@@ -25,13 +25,20 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "A\u015fghar\u012byeh"
+    ],
     "name:fas_x_preferred":[
         "A\u015fghar\u012byeh"
     ],
     "name:fas_x_variant":[
         "Ch\u0101h-e A\u015fghar\u012byeh",
         "\u0627\u0635\u063a\u0631\u064a\u0647",
-        "Ch\u0101h-e A\u015ffav\u012byeh"
+        "Ch\u0101h-e A\u015ffav\u012byeh",
+        "\u0627\u0635\u063a\u0631\u06cc\u0647"
+    ],
+    "name:swe_x_preferred":[
+        "A\u015fghar\u012byeh"
     ],
     "name:und_x_variant":[
         "Ch\u0101h-e A\u015ffav\u012byeh",
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":1310034225,
-    "wof:lastmodified":1537641081,
+    "wof:lastmodified":1564115878,
     "wof:name":"Asghariyeh",
     "wof:parent_id":1108719895,
     "wof:placetype":"locality",

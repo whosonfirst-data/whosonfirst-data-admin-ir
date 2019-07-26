@@ -25,11 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0627\u0647\u0631\u0622\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u0637\u0627\u0647\u0631 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "\u0162\u0101her\u0101b\u0101d"
+        "\u0162\u0101her\u0101b\u0101d",
+        "\u0637\u0627\u0647\u0631\u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293812515,
-    "wof:lastmodified":1537641706,
+    "wof:lastmodified":1564111639,
     "wof:name":"Taherabad",
     "wof:parent_id":1108720227,
     "wof:placetype":"locality",

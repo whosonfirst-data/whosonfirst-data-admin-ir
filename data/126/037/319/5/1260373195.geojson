@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0631 \u062a\u0644\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Sar Tal\u012b"
+    ],
     "name:fas_x_preferred":[
         "Sar Tal\u012b"
     ],
     "name:fas_x_variant":[
-        "\u0633\u0631 \u062a\u0644\u06cc"
+        "\u0633\u0631 \u062a\u0644\u06cc",
+        "\u0633\u0631\u062a\u0644\u06cc"
+    ],
+    "name:swe_x_preferred":[
+        "Sar Tal\u012b"
     ],
     "name:und_x_variant":[
         "\u0633\u0631 \u062a\u0644\u06cc"
@@ -58,7 +68,7 @@
         }
     ],
     "wof:id":1260373195,
-    "wof:lastmodified":1537640843,
+    "wof:lastmodified":1564114863,
     "wof:name":"Sar Tali",
     "wof:parent_id":1108720331,
     "wof:placetype":"locality",

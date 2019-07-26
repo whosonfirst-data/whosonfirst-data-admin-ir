@@ -25,10 +25,23 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0622\u062a\u0634\u200c\u0628\u06cc"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0100tash Beyg"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u062a\u0634 \u0628\u06cc\u06af"
     ],
     "name:fas_x_variant":[
+        "\u0100tash Beyg",
+        "\u0622\u062a\u0634\u200c\u0628\u06cc\u06af"
+    ],
+    "name:msa_x_preferred":[
+        "Atash Beyg"
+    ],
+    "name:swe_x_preferred":[
         "\u0100tash Beyg"
     ],
     "src:geom":"geonames",
@@ -55,7 +68,7 @@
         }
     ],
     "wof:id":1225889815,
-    "wof:lastmodified":1537641173,
+    "wof:lastmodified":1564119752,
     "wof:name":"Atash Beyg",
     "wof:parent_id":1108720055,
     "wof:placetype":"locality",

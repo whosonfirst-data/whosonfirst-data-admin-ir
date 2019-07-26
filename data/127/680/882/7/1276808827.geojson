@@ -26,13 +26,20 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0648\u0631\u0645 \u062f\u0631\u0642"
+    ],
     "name:fas_x_preferred":[
         "\u06af\u0631\u0645 \u062f\u0631\u0647"
     ],
     "name:fas_x_variant":[
         "G\u016brom Daraq",
         "\u06af\u0648\u0631\u0648\u0645 \u062f\u0631\u0642",
-        "\u06af\u0648\u0631\u0645 \u062f\u0631\u0642"
+        "\u06af\u0648\u0631\u0645 \u062f\u0631\u0642",
+        "\u06af\u0648\u0631\u0645\u200c\u062f\u0631\u0642"
+    ],
+    "name:msa_x_preferred":[
+        "Gurom Daraq"
     ],
     "name:und_x_variant":[
         "Gorom Darreh",
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":1276808827,
-    "wof:lastmodified":1537640730,
+    "wof:lastmodified":1564111937,
     "wof:name":"Gurowm Daraq",
     "wof:parent_id":1108719791,
     "wof:placetype":"locality",

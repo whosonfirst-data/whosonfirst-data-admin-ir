@@ -25,11 +25,24 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0631\u0645\u062d\u0644\u0629"
+    ],
+    "name:ceb_x_preferred":[
+        "Sar Ma\u1e29alleh"
+    ],
     "name:fas_x_preferred":[
         "Sar Ma\u1e29alleh"
     ],
     "name:fas_x_variant":[
-        "\u0633\u0631 \u0645\u062d\u0644\u0647"
+        "\u0633\u0631 \u0645\u062d\u0644\u0647",
+        "\u0633\u0631\u0645\u062d\u0644\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Sar Mahalleh"
+    ],
+    "name:swe_x_preferred":[
+        "Sar Ma\u1e29alleh"
     ],
     "name:und_x_variant":[
         "\u0633\u0631 \u0645\u062d\u0644\u0647"
@@ -58,7 +71,7 @@
         }
     ],
     "wof:id":1343613229,
-    "wof:lastmodified":1537642203,
+    "wof:lastmodified":1564109668,
     "wof:name":"Sar Mahalleh",
     "wof:parent_id":1108719867,
     "wof:placetype":"locality",

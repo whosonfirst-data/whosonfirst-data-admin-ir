@@ -25,11 +25,27 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628 \u0633\u0631\u0641\u062a"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0100b Saraft"
+    ],
     "name:fas_x_preferred":[
         "\u0100b Saraft"
     ],
     "name:fas_x_variant":[
-        "\u0622\u0628 \u0633\u0631\u0641\u062a"
+        "\u0622\u0628 \u0633\u0631\u0641\u062a",
+        "\u0622\u0628\u200c\u0633\u0631\u0641\u062a"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0622\u0628\u200c\u0633\u0631\u0641\u062a"
+    ],
+    "name:swe_x_preferred":[
+        "\u0100b Saraft"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0431-\u0421\u0430\u0440\u0430\u0444\u0442"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +71,7 @@
         }
     ],
     "wof:id":1343811487,
-    "wof:lastmodified":1537648481,
+    "wof:lastmodified":1564110253,
     "wof:name":"Ab Saraft",
     "wof:parent_id":1108719807,
     "wof:placetype":"locality",

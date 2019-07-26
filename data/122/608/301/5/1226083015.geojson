@@ -25,8 +25,14 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062d\u06cc\u062f\u0631\u06a9\u0627\u0646\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Dara\u011fz\u0131-Heyd\u0259rxanl\u0131"
+    ],
+    "name:ceb_x_preferred":[
+        "\u1e28eydar K\u0101nl\u016b-ye \u2018Oly\u0101"
     ],
     "name:fas_x_preferred":[
         "\u062d\u0650\u064a\u062f\u064e\u0631\u0643\u064e\u0646\u0644\u0648"
@@ -35,6 +41,13 @@
         "\u062d\u06cc\u062f\u0631 \u06a9\u0627\u0646\u0644\u0648\u06cc \u0639\u0644\u06cc\u0627",
         "\u062d\u0650\u064a\u062f\u064e\u0631\u062e\u064e\u0646\u0644\u0648",
         "\u1e28eydarkhanl\u016b",
+        "\u1e28eydar K\u0101nl\u016b-ye \u2018Oly\u0101",
+        "\u062d\u06cc\u062f\u0631\u06a9\u0627\u0646\u0644\u0648"
+    ],
+    "name:msa_x_preferred":[
+        "Heydarkanlu"
+    ],
+    "name:swe_x_preferred":[
         "\u1e28eydar K\u0101nl\u016b-ye \u2018Oly\u0101"
     ],
     "name:und_x_variant":[
@@ -64,7 +77,7 @@
         }
     ],
     "wof:id":1226083015,
-    "wof:lastmodified":1537644960,
+    "wof:lastmodified":1564120263,
     "wof:name":"Heydar Kanlu-ye `Olya",
     "wof:parent_id":1108720097,
     "wof:placetype":"locality",

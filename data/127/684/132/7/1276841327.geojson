@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Z\u0327olmeh N\u016br"
+    ],
     "name:fas_x_preferred":[
         "\u0638\u0644\u0645\u0647 \u0646\u0648\u0631"
     ],
     "name:fas_x_variant":[
         "Z\u0327olmeh S\u016br",
+        "Z\u0327olmeh N\u016br",
+        "\u0638\u0644\u0645\u200c\u0633\u0648\u0631"
+    ],
+    "name:swe_x_preferred":[
         "Z\u0327olmeh N\u016br"
     ],
     "name:und_x_variant":[
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":1276841327,
-    "wof:lastmodified":1537642983,
+    "wof:lastmodified":1564112621,
     "wof:name":"Zolmeh Nur",
     "wof:parent_id":1108720373,
     "wof:placetype":"locality",

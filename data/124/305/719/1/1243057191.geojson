@@ -29,7 +29,11 @@
         "Mob\u0101rak\u0101b\u0101d"
     ],
     "name:fas_x_variant":[
-        "\u0645\u0628\u0627\u0631\u06a9 \u0622\u0628\u0627\u062f"
+        "\u0645\u0628\u0627\u0631\u06a9 \u0622\u0628\u0627\u062f",
+        "\u0645\u0628\u0627\u0631\u06a9\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Mobarakabad"
     ],
     "name:und_x_variant":[
         "\u0645\u0628\u0627\u0631\u06a9 \u0622\u0628\u0627\u062f"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1243057191,
-    "wof:lastmodified":1537644187,
+    "wof:lastmodified":1564117754,
     "wof:name":"Mobarakabad",
     "wof:parent_id":1108720205,
     "wof:placetype":"locality",

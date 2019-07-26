@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Qarah Tappeh"
+    ],
     "name:fas_x_preferred":[
         "\u0642\u064e\u0631\u064e\u062a\u0650\u067e\u0650"
     ],
     "name:fas_x_variant":[
-        "\u0642\u0631\u0647 \u062a\u067e\u0647"
+        "\u0642\u0631\u0647 \u062a\u067e\u0647",
+        "\u0642\u0631\u0647\u200c\u062a\u067e\u0647"
+    ],
+    "name:swe_x_preferred":[
+        "Qarah Tappeh"
     ],
     "name:und_x_variant":[
         "Qaratepe",
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":1260341975,
-    "wof:lastmodified":1537643780,
+    "wof:lastmodified":1564115068,
     "wof:name":"Qarah Tappeh",
     "wof:parent_id":1108719887,
     "wof:placetype":"locality",

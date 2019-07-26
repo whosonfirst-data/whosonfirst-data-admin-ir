@@ -25,13 +25,23 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0647\u0627\u0631 \u0633\u0641\u0644\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Bah\u0101r-e P\u0101'\u012bn"
+    ],
     "name:fas_x_preferred":[
         "Bah\u0101r-e P\u0101\u2019\u012bn"
     ],
     "name:fas_x_variant":[
         "Bah\u0101r-e Sofl\u00e1",
         "\u0628\u0647\u0627\u0631 \u067e\u0627\u064a\u064a\u0646",
-        "\u0628\u0647\u0627\u0631 \u0633\u0641\u0644\u06cc"
+        "\u0628\u0647\u0627\u0631 \u0633\u0641\u0644\u06cc",
+        "\u0628\u0647\u0627\u0631\u0633\u0641\u0644\u06cc"
+    ],
+    "name:swe_x_preferred":[
+        "Bah\u0101r-e P\u0101'\u012bn"
     ],
     "name:und_x_variant":[
         "\u0628\u0647\u0627\u0631 \u067e\u0627\u064a\u064a\u0646"
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":1260315435,
-    "wof:lastmodified":1537640371,
+    "wof:lastmodified":1564114828,
     "wof:name":"Bahar-e Pa'in",
     "wof:parent_id":1108720001,
     "wof:placetype":"locality",

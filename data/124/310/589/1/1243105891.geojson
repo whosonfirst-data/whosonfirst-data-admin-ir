@@ -31,11 +31,15 @@
     "name:fas_x_variant":[
         "\u0633\u0627\u062f\u064a\u0642 \u0622\u0628\u0627\u062f",
         "\u0633\u064e\u062f\u0650\u063a \u0627\u064e\u0628\u064e\u062f",
-        "\u015e\u0101deq\u0101b\u0101d"
+        "\u015e\u0101deq\u0101b\u0101d",
+        "\u0635\u0627\u062f\u0642\u200c\u0622\u0628\u0627\u062f"
     ],
     "name:und_x_variant":[
         "S\u0101d\u012bq\u0101b\u0101d",
         "Sadegh Abad"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u062f\u0642\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1243105891,
-    "wof:lastmodified":1537643595,
+    "wof:lastmodified":1564118141,
     "wof:name":"Sadegh Abad",
     "wof:parent_id":1108720479,
     "wof:placetype":"locality",

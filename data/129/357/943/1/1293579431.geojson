@@ -25,17 +25,39 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0628\u0634\u06a9\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "L\u012bshk\u0101"
+    ],
     "name:fas_x_preferred":[
         "Labeshk\u0101"
     ],
     "name:fas_x_variant":[
         "L\u012bshk\u0101",
-        "\u0644\u06cc\u0634\u06a9\u0627"
+        "\u0644\u06cc\u0634\u06a9\u0627",
+        "\u0644\u0628\u0634\u06a9\u0627"
+    ],
+    "name:msa_x_preferred":[
+        "Labeshka"
+    ],
+    "name:por_x_preferred":[
+        "Labeshka"
+    ],
+    "name:swe_x_preferred":[
+        "L\u012bshk\u0101"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0431\u0435\u0448\u043a\u0430"
     ],
     "name:und_x_variant":[
         "L\u012bshk\u0101",
         "Lishak",
         "\u0644\u06cc\u0634\u06a9\u0627"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0628\u06cc\u0634\u06a9\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +83,7 @@
         }
     ],
     "wof:id":1293579431,
-    "wof:lastmodified":1537644370,
+    "wof:lastmodified":1564111123,
     "wof:name":"Lishka",
     "wof:parent_id":1108719833,
     "wof:placetype":"locality",

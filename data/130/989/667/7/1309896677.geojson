@@ -25,11 +25,27 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062f\u064a\u0646\u0629 \u062a\u0634\u0627\u0647 \u0648\u0631\u0632"
+    ],
+    "name:arz_x_preferred":[
+        "\u0686\u0627\u0647\u0648\u0631\u0632"
+    ],
+    "name:deu_x_preferred":[
+        "Tschahwarz"
+    ],
     "name:fas_x_preferred":[
         "\u0686\u0627\u0647 \u0648\u0631\u0632"
     ],
     "name:fas_x_variant":[
-        "Ch\u0101h Varz"
+        "Ch\u0101h Varz",
+        "\u0686\u0627\u0647\u200c\u0648\u0631\u0632"
+    ],
+    "name:msa_x_preferred":[
+        "Chah Varz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0445\u0432\u0435\u0440\u0437"
     ],
     "name:und_x_variant":[
         "Ch\u0101h Vard"
@@ -58,7 +74,7 @@
         }
     ],
     "wof:id":1309896677,
-    "wof:lastmodified":1537645769,
+    "wof:lastmodified":1564116861,
     "wof:name":"Chah Varz",
     "wof:parent_id":1108720181,
     "wof:placetype":"locality",

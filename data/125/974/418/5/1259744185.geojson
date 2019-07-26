@@ -25,16 +25,23 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0633\u062f \u0623\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "Asad\u0101b\u0101d-e Mahdav\u012b"
     ],
     "name:fas_x_variant":[
         "\u0627\u0633\u062f \u0622\u0628\u0627\u062f \u0645\u0647\u062f\u0648\u06cc",
-        "\u0627\u0633\u062f \u0622\u0628\u0627\u062f"
+        "\u0627\u0633\u062f \u0622\u0628\u0627\u062f",
+        "\u0627\u0633\u062f\u0622\u0628\u0627\u062f"
     ],
     "name:und_x_variant":[
         "\u0627\u0633\u062f \u0622\u0628\u0627\u062f \u0645\u0647\u062f\u0648\u06cc",
         "Asad\u0101b\u0101d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0633\u062f\u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":1259744185,
-    "wof:lastmodified":1537646118,
+    "wof:lastmodified":1564118927,
     "wof:name":"Asadabad",
     "wof:parent_id":1108720329,
     "wof:placetype":"locality",

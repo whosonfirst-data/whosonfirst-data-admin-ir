@@ -25,6 +25,9 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0628\u0644\u0628\u0648"
+    ],
     "name:fas_x_preferred":[
         "\u0644\u064e\u067e\u0644\u064e\u067e\u0648"
     ],
@@ -32,11 +35,15 @@
         "\u0644\u064e\u0628\u0644\u064e\u067e\u0648",
         "Lab Lab\u016b",
         "Laplap\u016b",
-        "\u0644\u0628 \u0644\u0628\u0648"
+        "\u0644\u0628 \u0644\u0628\u0648",
+        "\u0644\u067e\u0644\u067e\u0648"
     ],
     "name:und_x_variant":[
         "Lablap\u016b",
         "\u0644\u0628 \u0644\u0628\u0648"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u067e\u0644\u0627\u067e\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":1310706439,
-    "wof:lastmodified":1537644394,
+    "wof:lastmodified":1564115313,
     "wof:name":"Lab Labu",
     "wof:parent_id":1108719859,
     "wof:placetype":"locality",

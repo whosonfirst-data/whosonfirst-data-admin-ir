@@ -25,6 +25,9 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0648\u0634\u0647\u0646\u063a\u0627\u0645"
+    ],
     "name:fas_x_preferred":[
         "\u062e\u0648\u0634\u0647\u0646\u06af\u0627\u0645"
     ],
@@ -32,7 +35,11 @@
         "\u062e\u064f\u0634\u064e\u0646\u06af\u0627\u0646",
         "\u062e\u0648\u0634\u0646\u06af\u0627\u0646",
         "Khowshheng\u0101m",
-        "Khvoshang\u0101n"
+        "Khvoshang\u0101n",
+        "\u062e\u0648\u0634\u200c\u0647\u0646\u06af\u0627\u0645"
+    ],
+    "name:msa_x_preferred":[
+        "Khowshhengam"
     ],
     "name:und_x_variant":[
         "Khoshang\u0101n"
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":1343538907,
-    "wof:lastmodified":1537644546,
+    "wof:lastmodified":1564109059,
     "wof:name":"Khvoshangan",
     "wof:parent_id":1108719863,
     "wof:placetype":"locality",

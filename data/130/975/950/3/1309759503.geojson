@@ -25,11 +25,24 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u064a\u0627\u0646\u0629 \u0633\u0631"
+    ],
+    "name:ceb_x_preferred":[
+        "Y\u0101neh Sar"
+    ],
     "name:fas_x_preferred":[
         "\u06cc\u0627\u0646\u0647 \u0633\u0631"
     ],
     "name:fas_x_variant":[
+        "Y\u0101neh Sar",
+        "\u06cc\u0627\u0646\u0647\u200c\u0633\u0631"
+    ],
+    "name:swe_x_preferred":[
         "Y\u0101neh Sar"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0646\u062d \u0633\u0631"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +68,7 @@
         }
     ],
     "wof:id":1309759503,
-    "wof:lastmodified":1537643023,
+    "wof:lastmodified":1564116899,
     "wof:name":"Yaneh Sar",
     "wof:parent_id":1108719887,
     "wof:placetype":"locality",

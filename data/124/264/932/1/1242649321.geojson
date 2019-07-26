@@ -25,12 +25,25 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u0632\u0647\u200c\u0622\u0628\u0627\u062f \u0622\u0635\u0641"
+    ],
+    "name:ceb_x_preferred":[
+        "T\u0101zeh\u0101b\u0101d-e \u0100\u015fef"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062a\u0627\u0632\u0627\u0648\u0627\u06cc \u0626\u0627\u0633\u0641"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0627\u0632\u0650\u0647\u0627\u0628\u0627\u062f\u0650 \u0622\u0635\u0650\u0641"
     ],
     "name:fas_x_variant":[
         "T\u0101zeh\u0101b\u0101d-e \u0100\u015fef",
-        "\u062a\u0627\u0632\u0647 \u0622\u0628\u0627\u062f \u0622\u0635\u0641"
+        "\u062a\u0627\u0632\u0647 \u0622\u0628\u0627\u062f \u0622\u0635\u0641",
+        "\u062a\u0627\u0632\u0647\u200c\u0622\u0628\u0627\u062f \u0622\u0635\u0641"
+    ],
+    "name:swe_x_preferred":[
+        "T\u0101zeh\u0101b\u0101d-e \u0100\u015fef"
     ],
     "name:und_x_variant":[
         "\u062a\u0627\u0632\u0647 \u0622\u0628\u0627\u062f \u0622\u0635\u0641"
@@ -59,7 +72,7 @@
         }
     ],
     "wof:id":1242649321,
-    "wof:lastmodified":1537640287,
+    "wof:lastmodified":1564117968,
     "wof:name":"Tazehabad-e Asef",
     "wof:parent_id":1108719971,
     "wof:placetype":"locality",

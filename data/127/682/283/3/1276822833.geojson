@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u0631\u0648\u0627\u0646\u0629 \u062f\u0647"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u06cc\u0631\u0648\u0627\u0646\u0647 \u062f\u0647"
     ],
     "name:fas_x_variant":[
-        "Sh\u012brv\u0101neh Deh"
+        "Sh\u012brv\u0101neh Deh",
+        "\u0634\u06cc\u0631\u0648\u0627\u0646\u0647\u200c\u062f\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Shirvaneh Deh"
+    ],
+    "name:tur_x_preferred":[
+        "\u015eirvanedeh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":1276822833,
-    "wof:lastmodified":1537641128,
+    "wof:lastmodified":1564112451,
     "wof:name":"Shirvaneh Deh",
     "wof:parent_id":1108719907,
     "wof:placetype":"locality",

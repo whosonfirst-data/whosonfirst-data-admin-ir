@@ -25,10 +25,20 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u0162\u0101lesh Kheyl"
+    ],
     "name:fas_x_preferred":[
         "\u0637\u0627\u0644\u0634 \u062e\u064a\u0644"
     ],
     "name:fas_x_variant":[
+        "\u0162\u0101lesh Kheyl",
+        "\u0637\u0627\u0644\u0634\u200c\u062e\u06cc\u0644"
+    ],
+    "name:por_x_preferred":[
+        "Talesh Kheyl"
+    ],
+    "name:swe_x_preferred":[
         "\u0162\u0101lesh Kheyl"
     ],
     "src:geom":"geonames",
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":1309946163,
-    "wof:lastmodified":1537640391,
+    "wof:lastmodified":1564116792,
     "wof:name":"Talesh Kheyl",
     "wof:parent_id":1108720495,
     "wof:placetype":"locality",

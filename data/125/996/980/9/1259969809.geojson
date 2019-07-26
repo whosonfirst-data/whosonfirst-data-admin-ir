@@ -29,7 +29,14 @@
         "Khv\u0101jeh Kar\u012b-ye Jowland\u0101n"
     ],
     "name:fas_x_variant":[
-        "\u062e\u0648\u0627\u062c\u0647 \u06a9\u0631\u06cc"
+        "\u062e\u0648\u0627\u062c\u0647 \u06a9\u0631\u06cc",
+        "\u062e\u0648\u0627\u062c\u0647\u200c\u06a9\u0631\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Khvajeh Kari"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u0434\u0436\u0435-\u041a\u0430\u0440\u0456"
     ],
     "name:und_x_variant":[
         "Khv\u0101jeh Kar\u012b"
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1259969809,
-    "wof:lastmodified":1537646669,
+    "wof:lastmodified":1564118308,
     "wof:name":"Khvajeh Kari",
     "wof:parent_id":1108720487,
     "wof:placetype":"locality",

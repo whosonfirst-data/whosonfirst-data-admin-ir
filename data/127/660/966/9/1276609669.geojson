@@ -25,12 +25,19 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "B\u012bdest\u0101neh"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u064a\u062f\u0633\u062a\u0627\u0646\u0647"
     ],
     "name:fas_x_variant":[
         "B\u012bdest\u0101neh",
-        "\u0628\u06cc\u062f\u0633\u062a\u0648\u0646\u0647"
+        "\u0628\u06cc\u062f\u0633\u062a\u0648\u0646\u0647",
+        "\u0628\u06cc\u062f\u0633\u062a\u0627\u0646\u0647"
+    ],
+    "name:swe_x_preferred":[
+        "B\u012bdest\u0101neh"
     ],
     "name:und_x_variant":[
         "B\u012bdest\u016bneh"
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":1276609669,
-    "wof:lastmodified":1537641804,
+    "wof:lastmodified":1564112104,
     "wof:name":"Bidestuneh",
     "wof:parent_id":1108719843,
     "wof:placetype":"locality",

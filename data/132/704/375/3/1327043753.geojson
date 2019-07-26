@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0646\u064a \u0627\u0644\u0647 \u0633\u064a\u062f\u0629"
+    ],
+    "name:aze_x_preferred":[
+        "Kani Allah Seyid\u0259"
+    ],
     "name:fas_x_preferred":[
         "\u06a9\u0627\u0646\u06cc \u0627\u0644\u0644\u0647 \u0633\u06cc\u062f\u0647"
     ],
     "name:fas_x_variant":[
-        "K\u0101n\u012b All\u0101h Seyedeh"
+        "K\u0101n\u012b All\u0101h Seyedeh",
+        "\u06a9\u0627\u0646\u06cc\u200c\u0627\u0644\u0647\u200c\u0633\u06cc\u062f\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Kani Allah Seyedeh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":1327043753,
-    "wof:lastmodified":1537647462,
+    "wof:lastmodified":1564108291,
     "wof:name":"Kani Allah Seyedeh",
     "wof:parent_id":1108719915,
     "wof:placetype":"locality",

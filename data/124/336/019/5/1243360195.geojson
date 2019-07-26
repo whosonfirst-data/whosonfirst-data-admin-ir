@@ -25,11 +25,24 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "V\u0101l\u012b Sar\u0101"
+    ],
     "name:fas_x_preferred":[
         "V\u0101l\u012b Sar\u0101"
     ],
     "name:fas_x_variant":[
-        "\u0648\u0627\u0644\u06cc \u0633\u0631\u0627"
+        "\u0648\u0627\u0644\u06cc \u0633\u0631\u0627",
+        "\u0648\u0627\u0644\u06cc\u200c\u0633\u0631\u0627"
+    ],
+    "name:msa_x_preferred":[
+        "Vali Sara"
+    ],
+    "name:swe_x_preferred":[
+        "V\u0101l\u012b Sar\u0101"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043b\u0456-\u0421\u0430\u0440\u0430"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +68,7 @@
         }
     ],
     "wof:id":1243360195,
-    "wof:lastmodified":1537646687,
+    "wof:lastmodified":1564116973,
     "wof:name":"Vali Sara",
     "wof:parent_id":1108720427,
     "wof:placetype":"locality",

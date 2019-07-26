@@ -25,11 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u062c\u062a \u0623\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u062d\u062c\u0651\u062a \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "\u1e28ojjat\u0101b\u0101d"
+        "\u1e28ojjat\u0101b\u0101d",
+        "\u062d\u062c\u062a\u200c\u0622\u0628\u0627\u062f"
     ],
     "name:und_x_variant":[
         "\u2018Em\u0101d\u0101b\u0101d"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1310152433,
-    "wof:lastmodified":1537646488,
+    "wof:lastmodified":1564115256,
     "wof:name":"Hojjatabad",
     "wof:parent_id":1108719809,
     "wof:placetype":"locality",

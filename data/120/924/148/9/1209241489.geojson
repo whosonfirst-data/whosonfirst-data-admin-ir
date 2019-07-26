@@ -25,11 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0633\u062a\u200c\u0622\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0648\u0644\u062a \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "Dowlat\u0101b\u0101d"
+        "Dowlat\u0101b\u0101d",
+        "\u062f\u0648\u0633\u062a\u200c\u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209241489,
-    "wof:lastmodified":1537648025,
+    "wof:lastmodified":1564113398,
     "wof:name":"Dowlatabad",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",

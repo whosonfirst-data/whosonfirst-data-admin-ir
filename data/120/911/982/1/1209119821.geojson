@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062d\u0627\u062c\u06cc \u0635\u0648\u0641\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Hac\u0131 Sufi"
+    ],
     "name:fas_x_preferred":[
         "\u1e28\u0101jj\u012b \u015e\u016bf\u012b"
     ],
     "name:fas_x_variant":[
-        "\u062d\u0627\u062c\u0651\u06cc \u0635\u0648\u0641\u06cc"
+        "\u062d\u0627\u062c\u0651\u06cc \u0635\u0648\u0641\u06cc",
+        "\u062d\u0627\u062c\u06cc \u0635\u0648\u0641\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Hajji Sufi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +59,7 @@
         }
     ],
     "wof:id":1209119821,
-    "wof:lastmodified":1537640780,
+    "wof:lastmodified":1564113849,
     "wof:name":"Hajji Sufi",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",

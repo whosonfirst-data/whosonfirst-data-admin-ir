@@ -25,6 +25,9 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0641\u062a"
+    ],
     "name:fas_x_preferred":[
         "\u0644\u0627\u0641\u062a"
     ],
@@ -35,9 +38,21 @@
         "L\u0101ft",
         "Bandar-e L\u0101ft"
     ],
+    "name:msa_x_preferred":[
+        "Laft"
+    ],
+    "name:pol_x_preferred":[
+        "Laft"
+    ],
+    "name:tur_x_preferred":[
+        "Laft"
+    ],
     "name:und_x_variant":[
         "Y\u0101ft",
         "L\u0101ft-e Now"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0641\u0679"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +78,7 @@
         }
     ],
     "wof:id":1260057705,
-    "wof:lastmodified":1537644406,
+    "wof:lastmodified":1564115099,
     "wof:name":"Bandar-e Laft",
     "wof:parent_id":1108720317,
     "wof:placetype":"locality",

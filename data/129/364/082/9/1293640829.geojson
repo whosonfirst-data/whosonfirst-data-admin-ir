@@ -25,10 +25,23 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0635\u0641\u0647\u0627\u0646\u0643\u0644\u0627\u062a\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "E\u015ffah\u0101n Kal\u0101teh"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0635\u0641\u0647\u0627\u0646 \u06a9\u0644\u0627\u062a\u0647"
     ],
     "name:fas_x_variant":[
+        "E\u015ffah\u0101n Kal\u0101teh",
+        "\u0627\u0635\u0641\u0647\u0627\u0646\u200c\u06a9\u0644\u0627\u062a\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Esfahan Kalateh"
+    ],
+    "name:swe_x_preferred":[
         "E\u015ffah\u0101n Kal\u0101teh"
     ],
     "src:geom":"geonames",
@@ -55,7 +68,7 @@
         }
     ],
     "wof:id":1293640829,
-    "wof:lastmodified":1537642221,
+    "wof:lastmodified":1564110584,
     "wof:name":"Esfahan Kalateh",
     "wof:parent_id":1108720041,
     "wof:placetype":"locality",

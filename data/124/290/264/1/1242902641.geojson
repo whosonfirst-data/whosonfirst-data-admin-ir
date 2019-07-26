@@ -25,6 +25,9 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u0100ghesht"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u064e\u063a\u0634\u064e"
     ],
@@ -32,7 +35,17 @@
         "\u0622\u062a\u0650\u0634\u0650\u0647",
         "\u0100ghesht",
         "\u0100ghasht",
-        "\u0622\u063a\u0634\u062a"
+        "\u0622\u063a\u0634\u062a",
+        "\u0627\u063a\u0634\u062a"
+    ],
+    "name:msa_x_preferred":[
+        "Aghasht"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0433\u0435\u0448\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "\u0100ghesht"
     ],
     "name:und_x_variant":[
         "\u0100tesheh",
@@ -64,7 +77,7 @@
         }
     ],
     "wof:id":1242902641,
-    "wof:lastmodified":1537646291,
+    "wof:lastmodified":1564117986,
     "wof:name":"Aghesht",
     "wof:parent_id":1108720409,
     "wof:placetype":"locality",

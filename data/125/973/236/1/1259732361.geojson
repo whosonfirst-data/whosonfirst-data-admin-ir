@@ -25,6 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0646\u064a \u0633\u0641\u0644\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u0634\u0627\u063a\u0627 \u0627\u06cc\u0646\u06cc"
+    ],
+    "name:ceb_x_preferred":[
+        "An\u012b-ye P\u0101'\u012bn"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u0646\u0626 \u0633\u064f\u0641\u0644\u064e\u0649"
     ],
@@ -33,7 +42,17 @@
         "\u0627\u064e\u0646\u06cc \u0633\u064f\u0641\u0644\u064e\u0649",
         "\u0627\u0646\u06cc \u067e\u0627\u0626\u06cc\u0646",
         "\u0100n\u012b-ye Sofl\u00e1",
-        "An\u012b-ye P\u0101\u2019\u012bn"
+        "An\u012b-ye P\u0101\u2019\u012bn",
+        "\u0627\u0646\u06cc \u0633\u0641\u0644\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Ani-ye Sofla"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0627\u0646\u06cc \u0633\u0641\u0644\u06cc"
+    ],
+    "name:swe_x_preferred":[
+        "An\u012b-ye P\u0101'\u012bn"
     ],
     "name:und_x_variant":[
         "An\u012b Sofl\u00e1",
@@ -63,7 +82,7 @@
         }
     ],
     "wof:id":1259732361,
-    "wof:lastmodified":1537646171,
+    "wof:lastmodified":1564118913,
     "wof:name":"Ani-ye Pa'in",
     "wof:parent_id":1108720021,
     "wof:placetype":"locality",

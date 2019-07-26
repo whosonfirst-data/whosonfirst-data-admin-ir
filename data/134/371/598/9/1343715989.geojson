@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0644\u0627\u0645\u062d\u0645\u0648\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0644\u0627 \u0645\u062d\u0645\u0648\u062f"
     ],
     "name:fas_x_variant":[
-        "Moll\u0101 Ma\u1e29m\u016bd"
+        "Moll\u0101 Ma\u1e29m\u016bd",
+        "\u0645\u0644\u0627\u0645\u062d\u0645\u0648\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Molla Mahmud"
+    ],
+    "name:tur_x_preferred":[
+        "Mollamahmud"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":1343715989,
-    "wof:lastmodified":1537641147,
+    "wof:lastmodified":1564109569,
     "wof:name":"Molla Mahmud",
     "wof:parent_id":1108719907,
     "wof:placetype":"locality",

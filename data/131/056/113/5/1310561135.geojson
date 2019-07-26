@@ -25,11 +25,27 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0641\u0638 \u0623\u0628\u0627\u062f"
+    ],
+    "name:aze_x_preferred":[
+        "Hefzabad"
+    ],
+    "name:ceb_x_preferred":[
+        "\u1e28efz\u0327\u0101b\u0101d"
+    ],
     "name:fas_x_preferred":[
         "\u062d\u0641\u0638 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "\u1e28efz\u0327\u0101b\u0101d"
+        "\u1e28efz\u0327\u0101b\u0101d",
+        "\u062d\u0641\u0638\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Hefzabad"
+    ],
+    "name:mzn_x_preferred":[
+        "\u062d\u0641\u0638\u200c\u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +71,7 @@
         }
     ],
     "wof:id":1310561135,
-    "wof:lastmodified":1537644987,
+    "wof:lastmodified":1564116056,
     "wof:name":"Hefzabad",
     "wof:parent_id":1108719823,
     "wof:placetype":"locality",

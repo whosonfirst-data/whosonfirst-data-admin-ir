@@ -25,11 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u064a\u0622\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u0639\u0644\u06cc \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "\u2018Al\u012b\u0101b\u0101d"
+        "\u2018Al\u012b\u0101b\u0101d",
+        "\u0639\u0644\u06cc\u200c\u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259712273,
-    "wof:lastmodified":1537641736,
+    "wof:lastmodified":1564118581,
     "wof:name":"`Aliabad",
     "wof:parent_id":1108720227,
     "wof:placetype":"locality",

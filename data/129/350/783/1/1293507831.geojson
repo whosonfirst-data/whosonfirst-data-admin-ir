@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0648\u062d\u064a\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u06a9 \u062a\u0648\u062d\u06cc\u062f"
     ],
     "name:fas_x_variant":[
-        "Shahrak-e Tow\u1e29\u012bd"
+        "Shahrak-e Tow\u1e29\u012bd",
+        "\u062a\u0648\u062d\u06cc\u062f"
+    ],
+    "name:mlg_x_preferred":[
+        "Towhid"
+    ],
+    "name:tur_x_preferred":[
+        "Tevhid"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":1293507831,
-    "wof:lastmodified":1537647468,
+    "wof:lastmodified":1564111094,
     "wof:name":"Shahrak-e Towhid",
     "wof:parent_id":1108720065,
     "wof:placetype":"locality",

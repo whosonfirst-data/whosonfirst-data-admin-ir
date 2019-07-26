@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u062a\u0631\u062e\u0648\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Shotor Kh\u0101n"
+    ],
     "name:fas_x_preferred":[
         "Shotor Kh\u016bn"
     ],
     "name:fas_x_variant":[
-        "\u0634\u062a\u0631 \u062e\u0648\u0646"
+        "\u0634\u062a\u0631 \u062e\u0648\u0646",
+        "\u0634\u062a\u0631\u062e\u0648\u0646"
+    ],
+    "name:swe_x_preferred":[
+        "Shotor Kh\u0101n"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +64,7 @@
         }
     ],
     "wof:id":1309679749,
-    "wof:lastmodified":1537648474,
+    "wof:lastmodified":1564116788,
     "wof:name":"Shotor Khun",
     "wof:parent_id":1108720023,
     "wof:placetype":"locality",

@@ -25,12 +25,19 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "P\u012bsh B\u0101gh\u0101n"
+    ],
     "name:fas_x_preferred":[
         "P\u012bsh B\u0101gh\u0101n"
     ],
     "name:fas_x_variant":[
         "Besh B\u0101gh\u0101n",
-        "\u067e\u06cc\u0634 \u0628\u0627\u063a\u0627\u0646"
+        "\u067e\u06cc\u0634 \u0628\u0627\u063a\u0627\u0646",
+        "\u067e\u06cc\u0634\u200c\u0628\u0627\u063a\u0627\u0646"
+    ],
+    "name:swe_x_preferred":[
+        "P\u012bsh B\u0101gh\u0101n"
     ],
     "name:und_x_variant":[
         "\u067e\u06cc\u0634 \u0628\u0627\u063a\u0627\u0646"
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":1343791669,
-    "wof:lastmodified":1537641378,
+    "wof:lastmodified":1564109407,
     "wof:name":"Pish Baghan",
     "wof:parent_id":1108720327,
     "wof:placetype":"locality",

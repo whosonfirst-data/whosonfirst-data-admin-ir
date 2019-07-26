@@ -25,12 +25,22 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "G\u0259rab"
+    ],
+    "name:ceb_x_preferred":[
+        "Garab"
+    ],
     "name:fas_x_preferred":[
         "\u06af\u0631\u0627\u0628"
     ],
     "name:fas_x_variant":[
         "\u06af\u064e\u0631\u0627\u0628",
-        "Gar\u0101b"
+        "Gar\u0101b",
+        "\u06af\u0631\u0622\u0628"
+    ],
+    "name:swe_x_preferred":[
+        "Garab"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":1309794547,
-    "wof:lastmodified":1537641528,
+    "wof:lastmodified":1564116649,
     "wof:name":"Garab",
     "wof:parent_id":1108720453,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "D\u0101shl\u012b \u0100rq\u0101ch"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0627\u0634\u0644\u06cc \u0622\u0631\u0642\u0627\u0686"
     ],
@@ -32,6 +35,12 @@
         "D\u0101shl\u012b Arq\u0101ch",
         "D\u0101shl\u012b \u0100rq\u0101ch",
         "\u062f\u0627\u0634\u0644\u06cc \u0627\u0631\u0642\u0627\u0686"
+    ],
+    "name:msa_x_preferred":[
+        "Dashli Arqach"
+    ],
+    "name:swe_x_preferred":[
+        "D\u0101shl\u012b \u0100rq\u0101ch"
     ],
     "name:und_x_variant":[
         "\u062f\u0627\u0634\u0644\u06cc \u0627\u0631\u0642\u0627\u0686"
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":1260340107,
-    "wof:lastmodified":1537640490,
+    "wof:lastmodified":1564115075,
     "wof:name":"Dashli Arqach",
     "wof:parent_id":1108720093,
     "wof:placetype":"locality",

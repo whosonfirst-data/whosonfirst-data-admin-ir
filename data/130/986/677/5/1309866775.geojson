@@ -25,11 +25,27 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u0645\u062a \u0623\u0628\u0627\u062f"
+    ],
+    "name:aze_x_preferred":[
+        "H\u00fcmm\u0259tabad"
+    ],
     "name:fas_x_preferred":[
         "\u0647\u0645\u0651\u062a \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "Hemmat\u0101b\u0101d"
+        "Hemmat\u0101b\u0101d",
+        "\u0647\u0645\u062a\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:ita_x_preferred":[
+        "Hemmatabad"
+    ],
+    "name:mlg_x_preferred":[
+        "Hemmatabad"
+    ],
+    "name:tur_x_preferred":[
+        "Himmetabad"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +70,7 @@
         }
     ],
     "wof:id":1309866775,
-    "wof:lastmodified":1537648043,
+    "wof:lastmodified":1564116924,
     "wof:name":"Hemmatabad",
     "wof:parent_id":1108719861,
     "wof:placetype":"locality",

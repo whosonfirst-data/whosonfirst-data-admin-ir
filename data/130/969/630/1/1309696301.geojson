@@ -31,7 +31,11 @@
     "name:fas_x_variant":[
         "\u012adahl\u016b",
         "\u012adal\u016b",
-        "\u0627\u06cc\u062f\u0647 \u0644\u0648"
+        "\u0627\u06cc\u062f\u0647 \u0644\u0648",
+        "\u0627\u06cc\u062f\u0647\u200c\u0644\u0648"
+    ],
+    "name:msa_x_preferred":[
+        "Idahlu"
     ],
     "name:und_x_variant":[
         "\u012ad\u0101leh",
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1309696301,
-    "wof:lastmodified":1537644903,
+    "wof:lastmodified":1564116811,
     "wof:name":"Idahlu",
     "wof:parent_id":1108720087,
     "wof:placetype":"locality",

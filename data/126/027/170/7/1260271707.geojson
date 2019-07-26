@@ -25,12 +25,19 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "B\u0259hm\u0259nabad"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0647\u0645\u0646 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
         "\u0628\u0650\u0647\u0645\u064e\u0646 \u0622\u0628\u0627\u062f",
-        "Bahman\u0101b\u0101d"
+        "Bahman\u0101b\u0101d",
+        "\u0628\u0647\u0645\u0646\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:sco_x_preferred":[
+        "Bahmanabad"
     ],
     "name:und_x_variant":[
         "Behman\u0101b\u0101d"
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1260271707,
-    "wof:lastmodified":1537646025,
+    "wof:lastmodified":1564114894,
     "wof:name":"Bahmanabad",
     "wof:parent_id":1108720061,
     "wof:placetype":"locality",

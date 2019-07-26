@@ -25,10 +25,23 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0635\u0648\u0631\u0645\u0627\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:ceb_x_preferred":[
+        "\u015e\u016brm\u0101n\u0101b\u0101d"
+    ],
     "name:fas_x_preferred":[
         "\u0635\u0648\u0631\u0645\u0627\u0646 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
+        "\u015e\u016brm\u0101n\u0101b\u0101d",
+        "\u0635\u0648\u0631\u0645\u0627\u0646\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Surmanabad"
+    ],
+    "name:swe_x_preferred":[
         "\u015e\u016brm\u0101n\u0101b\u0101d"
     ],
     "src:geom":"geonames",
@@ -55,7 +68,7 @@
         }
     ],
     "wof:id":1327043749,
-    "wof:lastmodified":1537641057,
+    "wof:lastmodified":1564108290,
     "wof:name":"Surmanabad",
     "wof:parent_id":1108720289,
     "wof:placetype":"locality",

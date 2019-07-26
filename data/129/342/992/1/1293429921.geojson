@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "S\u016bteh Kheyl"
+    ],
     "name:fas_x_preferred":[
         "S\u016bteh Kheyl"
     ],
     "name:fas_x_variant":[
-        "\u0633\u0648\u062a\u0647 \u062e\u064a\u0644"
+        "\u0633\u0648\u062a\u0647 \u062e\u064a\u0644",
+        "\u0633\u0648\u062a\u0647\u200c\u062e\u06cc\u0644"
+    ],
+    "name:swe_x_preferred":[
+        "S\u016bteh Kheyl"
     ],
     "name:und_x_variant":[
         "\u0633\u0648\u062a\u0647 \u062e\u064a\u0644"
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1293429921,
-    "wof:lastmodified":1537640596,
+    "wof:lastmodified":1564111496,
     "wof:name":"Suteh Kheyl",
     "wof:parent_id":1108720275,
     "wof:placetype":"locality",

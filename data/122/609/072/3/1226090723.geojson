@@ -25,11 +25,24 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0628\u0627\u0628\u064a\u063a\u0644\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0639\u06cc\u0628\u0627 \u0628\u064e\u06cc\u200c\u0644\u06cc"
+    ],
     "name:fas_x_preferred":[
         "\u0639\u0628\u0627 \u0628\u064a\u06af\u0644\u0648"
     ],
     "name:fas_x_variant":[
-        "\u2018Eb\u0101 Beygl\u016b"
+        "\u2018Eb\u0101 Beygl\u016b",
+        "\u0639\u0628\u0627\u0628\u06cc\u06af\u200c\u0644\u0648"
+    ],
+    "name:msa_x_preferred":[
+        "Eba Beyglu"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0639\u0628\u0627\u0628\u06cc\u06af\u200c\u0644\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +68,7 @@
         }
     ],
     "wof:id":1226090723,
-    "wof:lastmodified":1537642167,
+    "wof:lastmodified":1564120471,
     "wof:name":"`Eba Beyglu",
     "wof:parent_id":1108720021,
     "wof:placetype":"locality",

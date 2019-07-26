@@ -30,12 +30,16 @@
     ],
     "name:fas_x_variant":[
         "Zabar K\u016bh",
-        "\u0632\u0628\u0631 \u06a9\u0648\u0647"
+        "\u0632\u0628\u0631 \u06a9\u0648\u0647",
+        "\u0632\u0628\u0631\u06a9\u0648\u0647"
     ],
     "name:und_x_variant":[
         "Zabar K\u016bh",
         "Zir Kooh",
         "\u0632\u0628\u0631 \u06a9\u0648\u0647"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u0628\u0631\u06a9\u0648\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1242628647,
-    "wof:lastmodified":1537642932,
+    "wof:lastmodified":1564117922,
     "wof:name":"Zabar Kuh",
     "wof:parent_id":1108720469,
     "wof:placetype":"locality",

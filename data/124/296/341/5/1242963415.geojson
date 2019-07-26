@@ -29,7 +29,14 @@
         "R\u0101steh Ken\u0101r"
     ],
     "name:fas_x_variant":[
-        "\u0631\u0627\u0633\u062a\u0647 \u06a9\u0646\u0627\u0631"
+        "\u0631\u0627\u0633\u062a\u0647 \u06a9\u0646\u0627\u0631",
+        "\u0631\u0627\u0633\u062a\u0647\u200c\u06a9\u0646\u0627\u0631"
+    ],
+    "name:msa_x_preferred":[
+        "Rasteh Kenar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0441\u0442\u0435-\u041a\u0435\u043d\u0430\u0440"
     ],
     "name:und_x_variant":[
         "\u0631\u0627\u0633\u062a\u0647 \u06a9\u0646\u0627\u0631"
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1242963415,
-    "wof:lastmodified":1537641604,
+    "wof:lastmodified":1564117929,
     "wof:name":"Rasteh Kenar",
     "wof:parent_id":1108720339,
     "wof:placetype":"locality",

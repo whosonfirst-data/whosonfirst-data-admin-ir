@@ -25,12 +25,19 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0644\u063a\u0627\u0629"
+    ],
     "name:fas_x_preferred":[
         "Malg\u0101"
     ],
     "name:fas_x_variant":[
         "M\u0101lg\u0101h",
-        "\u0645\u0627\u0644\u06af\u0627\u0647"
+        "\u0645\u0627\u0644\u06af\u0627\u0647",
+        "\u0645\u0644\u200c\u06af\u0627\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Malgah"
     ],
     "name:und_x_variant":[
         "\u0645\u0627\u0644\u06af\u0627\u0647"
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1276171163,
-    "wof:lastmodified":1537644315,
+    "wof:lastmodified":1564111875,
     "wof:name":"Malgah",
     "wof:parent_id":1108720129,
     "wof:placetype":"locality",

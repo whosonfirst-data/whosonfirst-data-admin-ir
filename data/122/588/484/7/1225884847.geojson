@@ -25,10 +25,20 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Esp\u012b R\u016bd"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u067e\u06cc \u0631\u0648\u062f"
     ],
     "name:fas_x_variant":[
+        "Esp\u012b R\u016bd",
+        "\u0627\u0633\u067e\u06cc\u200c\u0631\u0648\u062f"
+    ],
+    "name:por_x_preferred":[
+        "Espi Rud"
+    ],
+    "name:swe_x_preferred":[
         "Esp\u012b R\u016bd"
     ],
     "src:geom":"geonames",
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":1225884847,
-    "wof:lastmodified":1537640412,
+    "wof:lastmodified":1564119737,
     "wof:name":"Espi Rud",
     "wof:parent_id":1108720495,
     "wof:placetype":"locality",

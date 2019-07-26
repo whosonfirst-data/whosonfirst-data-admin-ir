@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0642\u0631\u0622\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0642\u0631 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "Boqr\u0101b\u0101d"
+        "Boqr\u0101b\u0101d",
+        "\u0628\u0642\u0631\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Boqrabad"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1242927525,
-    "wof:lastmodified":1537641168,
+    "wof:lastmodified":1564117270,
     "wof:name":"Boqrabad",
     "wof:parent_id":1108720247,
     "wof:placetype":"locality",

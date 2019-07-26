@@ -25,11 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0686\u0627\u0644 \u0642\u0627\u0633\u0645"
+    ],
     "name:fas_x_preferred":[
         "\u0686\u0627\u0644 \u0642\u0627\u0633\u0645"
     ],
     "name:fas_x_variant":[
-        "Ch\u0101l Q\u0101sem"
+        "Ch\u0101l Q\u0101sem",
+        "\u0686\u0627\u0644\u200c\u0642\u0627\u0633\u0645"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260052799,
-    "wof:lastmodified":1537647280,
+    "wof:lastmodified":1564115100,
     "wof:name":"Chal Qasem",
     "wof:parent_id":1108719969,
     "wof:placetype":"locality",

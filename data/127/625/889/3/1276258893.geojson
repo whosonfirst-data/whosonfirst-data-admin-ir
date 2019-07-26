@@ -25,6 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0628\u0633 \u0645\u0633\u064a\u0646\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "T\u0259b\u0259s M\u0259sina"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0162abas-e Mas\u012bn\u0101"
+    ],
     "name:fas_x_preferred":[
         "\u0637\u0628\u0633 \u0645\u0633\u064a\u0646\u0627"
     ],
@@ -32,7 +41,20 @@
         "\u0162abas-e Mas\u012bn\u0101",
         "\u0162abas Mas\u012bn\u0101",
         "\u0162abas",
-        "Mas\u012bn\u0101"
+        "Mas\u012bn\u0101",
+        "\u0637\u0628\u0633 \u0645\u0633\u06cc\u0646\u0627"
+    ],
+    "name:ita_x_preferred":[
+        "Tabas Moseyna"
+    ],
+    "name:mlg_x_preferred":[
+        "Tabas-e Masina"
+    ],
+    "name:swe_x_preferred":[
+        "\u0162abas-e Mas\u012bn\u0101"
+    ],
+    "name:tur_x_preferred":[
+        "Tebes Mesina"
     ],
     "name:und_x_variant":[
         "Mas\u012bn\u0101",
@@ -63,7 +85,7 @@
         }
     ],
     "wof:id":1276258893,
-    "wof:lastmodified":1537646968,
+    "wof:lastmodified":1564112401,
     "wof:name":"Tabas-e Masina",
     "wof:parent_id":1108719943,
     "wof:placetype":"locality",

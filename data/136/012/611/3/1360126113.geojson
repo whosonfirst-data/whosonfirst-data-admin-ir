@@ -25,13 +25,26 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "V\u012brseq"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u064a\u0631\u0633\u0642"
     ],
     "name:fas_x_variant":[
         "\u0648\u064a\u0631\u0633\u0647",
         "V\u012brtheq",
-        "V\u012brseh"
+        "V\u012brseh",
+        "\u0648\u06cc\u0631\u0633\u0642"
+    ],
+    "name:msa_x_preferred":[
+        "Virseq"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0648\u06cc\u0631\u0633\u0642"
+    ],
+    "name:swe_x_preferred":[
+        "V\u012brseq"
     ],
     "name:und_x_variant":[
         "V\u012brseq"
@@ -60,7 +73,7 @@
         }
     ],
     "wof:id":1360126113,
-    "wof:lastmodified":1537641963,
+    "wof:lastmodified":1564116163,
     "wof:name":"Virseq",
     "wof:parent_id":1108720273,
     "wof:placetype":"locality",

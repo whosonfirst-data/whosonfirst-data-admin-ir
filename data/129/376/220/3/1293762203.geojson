@@ -25,6 +25,9 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u0646\u062c\u0627\u0628 \u0634\u0631\u064a\u0641"
+    ],
     "name:fas_x_preferred":[
         "\u0644\u064a\u0646\u062c\u0627\u0648 \u0634\u064e\u0631\u064a\u0641"
     ],
@@ -32,7 +35,11 @@
         "\u0644\u06cc\u0646\u062c\u0627\u0628",
         "L\u012bnj\u0101v Shar\u012bf",
         "\u0648\u0650\u0646\u064a\u062a \u0634\u064e\u0631\u064a\u0641",
-        "L\u012bnj\u0101b"
+        "L\u012bnj\u0101b",
+        "\u0644\u06cc\u0646\u062c\u0627\u0628 \u0634\u0631\u06cc\u0641"
+    ],
+    "name:msa_x_preferred":[
+        "Linjab Sharif"
     ],
     "name:und_x_variant":[
         "Ven\u012bt Shar\u012bf"
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":1293762203,
-    "wof:lastmodified":1537640327,
+    "wof:lastmodified":1564110887,
     "wof:name":"Linjab",
     "wof:parent_id":1108720065,
     "wof:placetype":"locality",

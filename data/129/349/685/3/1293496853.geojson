@@ -25,13 +25,26 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u06cc\u0648\u0631\u0642\u0627\u0646\u0644\u06cc \u062c\u0646\u06cc\u0632\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "Yor\u011fanl\u0131-i C\u0259niz\u0259"
+    ],
     "name:fas_x_preferred":[
         "\u064a\u064f\u0648\u0631\u0642\u0627\u0646\u0644\u0648\u06cc \u062c\u064e\u0646\u064a\u0632\u0650\u0647"
     ],
     "name:fas_x_variant":[
         "\u06cc\u0648\u0631\u0642\u0627\u0646\u0644\u0648",
         "Yowrq\u0101nl\u016b-ye Jan\u012bzeh",
-        "Yowrq\u0101nl\u016b"
+        "Yowrq\u0101nl\u016b",
+        "\u06cc\u0648\u0631\u0642\u0627\u0646\u0644\u0648\u06cc \u062c\u0646\u06cc\u0632\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Yowrqanlu-ye Janizeh"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0648\u0648\u0631\u0642\u0646\u0644\u0648-\u062c\u0646\u0627\u0632\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +70,7 @@
         }
     ],
     "wof:id":1293496853,
-    "wof:lastmodified":1537641061,
+    "wof:lastmodified":1564110925,
     "wof:name":"Yowrqanlu",
     "wof:parent_id":1108720289,
     "wof:placetype":"locality",

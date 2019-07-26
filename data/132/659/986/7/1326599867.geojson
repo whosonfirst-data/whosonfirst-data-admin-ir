@@ -25,6 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0645\u0632\u064a\u0629 \u0627\u0644\u0623\u0648\u0644\u0649"
+    ],
+    "name:azb_x_preferred":[
+        "\u0631\u0645\u0632\u06cc\u0647 \u06cc\u0643(\u0627\u0647\u0648\u0627\u0632)"
+    ],
+    "name:ceb_x_preferred":[
+        "Ram\u1e95\u012byeh-e Yek"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u0645\u0636\u06cc\u0651\u0647 \u06cc\u06a9"
     ],
@@ -34,7 +43,11 @@
         "Ramz\u012byeh",
         "Ramziyeh\u00e9 Yek",
         "Ram\u1e95\u012byeh-e Yek",
-        "\u0631\u0645\u0632\u06cc\u0647"
+        "\u0631\u0645\u0632\u06cc\u0647",
+        "\u0631\u0645\u0632\u06cc\u0647 \u06cc\u06a9"
+    ],
+    "name:swe_x_preferred":[
+        "Ram\u1e95\u012byeh-e Yek"
     ],
     "name:und_x_variant":[
         "Ramzeyeh-ye Yek",
@@ -64,7 +77,7 @@
         }
     ],
     "wof:id":1326599867,
-    "wof:lastmodified":1537642388,
+    "wof:lastmodified":1564107897,
     "wof:name":"Ramziyeh",
     "wof:parent_id":1108719793,
     "wof:placetype":"locality",

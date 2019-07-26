@@ -25,12 +25,19 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u064a\u0622\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u0644\u06cc \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
         "Val\u012b\u0101b\u0101d",
-        "\u0686\u0634\u0645\u0647 \u0648\u0644\u06cc \u0622\u0628\u0627\u062f \u0648\u0627\u0644\u06cc"
+        "\u0686\u0634\u0645\u0647 \u0648\u0644\u06cc \u0622\u0628\u0627\u062f \u0648\u0627\u0644\u06cc",
+        "\u0648\u0644\u06cc\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Valiabad"
     ],
     "name:und_x_variant":[
         "Cheshmeh Val\u012b\u0101b\u0101d V\u0101l\u012b"
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":1309826549,
-    "wof:lastmodified":1537647729,
+    "wof:lastmodified":1564116712,
     "wof:name":"Valiabad",
     "wof:parent_id":1108720447,
     "wof:placetype":"locality",

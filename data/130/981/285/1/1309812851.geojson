@@ -25,13 +25,35 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0644\u0627\u0628\u0627\u0633\u062a\u0643"
+    ],
+    "name:aze_x_preferred":[
+        "Mollab\u0259s\u0259k"
+    ],
+    "name:ceb_x_preferred":[
+        "Moll\u0101 B\u0101sak"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0645\u06d5\u0644\u0627\u0628\u0627\u0633\u062a\u06d5\u06a9"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u064f\u0644\u0651\u0627 \u0628\u0627\u0633\u062a\u064e\u0643"
     ],
     "name:fas_x_variant":[
         "Moll\u0101 B\u0101stak",
         "Moll\u0101 B\u0101sak",
-        "\u0645\u0644\u0651\u0627 \u0628\u0627\u0633\u06a9"
+        "\u0645\u0644\u0651\u0627 \u0628\u0627\u0633\u06a9",
+        "\u0645\u0644\u0627\u0628\u0627\u0633\u06a9"
+    ],
+    "name:kur_x_preferred":[
+        "Melabastek"
+    ],
+    "name:msa_x_preferred":[
+        "Molla Basak"
+    ],
+    "name:swe_x_preferred":[
+        "Moll\u0101 B\u0101sak"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +79,7 @@
         }
     ],
     "wof:id":1309812851,
-    "wof:lastmodified":1537641034,
+    "wof:lastmodified":1564116886,
     "wof:name":"Molla Basak",
     "wof:parent_id":1108720289,
     "wof:placetype":"locality",

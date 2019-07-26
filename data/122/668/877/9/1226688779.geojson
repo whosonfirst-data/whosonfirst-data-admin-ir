@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0646\u0628\u0627\u0631 \u062a\u0628\u0629"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0646\u0628\u0627\u0631 \u062a\u067e\u0651\u0647"
     ],
     "name:fas_x_variant":[
-        "Anb\u0101r Tappeh"
+        "Anb\u0101r Tappeh",
+        "\u0627\u0646\u0628\u0627\u0631\u062a\u067e\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Anbar Tappeh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1226688779,
-    "wof:lastmodified":1537642209,
+    "wof:lastmodified":1564119691,
     "wof:name":"Anbar Tappeh",
     "wof:parent_id":1108719813,
     "wof:placetype":"locality",

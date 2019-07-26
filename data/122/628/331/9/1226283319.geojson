@@ -25,6 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0647\u0628\u0627\u0632"
+    ],
+    "name:aze_x_preferred":[
+        "Bazn\u0259"
+    ],
+    "name:ceb_x_preferred":[
+        "B\u0101zneh"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0627\u0632\u0650\u0646\u0650\u0647"
     ],
@@ -32,12 +41,25 @@
         "\u0628\u064e\u0632\u064e\u0646\u0650\u0647",
         "B\u0101zeneh",
         "B\u0101zneh",
-        "\u0628\u0627\u0632\u0646\u0647"
+        "\u0628\u0627\u0632\u0646\u0647",
+        "\u0634\u0647\u0628\u0627\u0632"
+    ],
+    "name:mlg_x_preferred":[
+        "Bazneh"
+    ],
+    "name:swe_x_preferred":[
+        "B\u0101zneh"
+    ],
+    "name:tur_x_preferred":[
+        "Bazne"
     ],
     "name:und_x_variant":[
         "B\u0101zneh",
         "Bazaneh",
         "\u0628\u0627\u0632\u0646\u0647"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u06c1\u0628\u0627\u0632"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +85,7 @@
         }
     ],
     "wof:id":1226283319,
-    "wof:lastmodified":1537645929,
+    "wof:lastmodified":1564119204,
     "wof:name":"Bazneh",
     "wof:parent_id":1108720443,
     "wof:placetype":"locality",

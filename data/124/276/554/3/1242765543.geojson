@@ -25,6 +25,9 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0634\u0627\u0631\u064a"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u0634\u0643\u0627\u0631"
     ],
@@ -32,6 +35,9 @@
         "M\u0101sh\u0101r\u012b",
         "\u0645\u0627\u0634\u0627\u0631\u06cc",
         "M\u0101shk\u0101r"
+    ],
+    "name:msa_x_preferred":[
+        "Mashari"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1242765543,
-    "wof:lastmodified":1537642697,
+    "wof:lastmodified":1564117850,
     "wof:name":"Mashkar",
     "wof:parent_id":1108719863,
     "wof:placetype":"locality",

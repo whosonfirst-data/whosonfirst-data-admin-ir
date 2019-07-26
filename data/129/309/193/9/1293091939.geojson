@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0642 \u0627\u0647\u0648"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0642 \u0622\u0647\u0648"
     ],
     "name:fas_x_variant":[
-        "Daq \u0100h\u016b"
+        "Daq \u0100h\u016b",
+        "\u062f\u0642 \u0627\u0647\u0648"
+    ],
+    "name:msa_x_preferred":[
+        "Daq Ahu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1293091939,
-    "wof:lastmodified":1537647818,
+    "wof:lastmodified":1564110381,
     "wof:name":"Daq Ahu",
     "wof:parent_id":1108719939,
     "wof:placetype":"locality",

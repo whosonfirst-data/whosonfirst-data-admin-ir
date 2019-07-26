@@ -25,12 +25,22 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "X\u0259lilabad"
+    ],
+    "name:ceb_x_preferred":[
+        "Khalilabad"
+    ],
     "name:fas_x_preferred":[
         "\u062e\u0644\u06cc\u0644 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
         "Khal\u012bl\u0101b\u0101d",
-        "\u0631\u0633\u062a\u0645 \u0622\u0628\u0627\u062f"
+        "\u0631\u0633\u062a\u0645 \u0622\u0628\u0627\u062f",
+        "\u062e\u0644\u06cc\u0644\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:swe_x_preferred":[
+        "Khalilabad"
     ],
     "name:und_x_variant":[
         "Kh\u0101l\u012b\u0101b\u0101d",
@@ -59,7 +69,7 @@
         }
     ],
     "wof:id":1242835523,
-    "wof:lastmodified":1537644621,
+    "wof:lastmodified":1564117810,
     "wof:name":"Khalilabad",
     "wof:parent_id":1108720329,
     "wof:placetype":"locality",

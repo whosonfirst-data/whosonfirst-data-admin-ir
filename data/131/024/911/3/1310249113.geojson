@@ -25,6 +25,9 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0634\u06a9\u0644\u0627"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u0634\u062a \u0643\u0644\u0627"
     ],
@@ -32,7 +35,14 @@
         "\u0631\u064e\u0634\u0643\u064f\u0644\u0627",
         "\u0631\u064e\u0634\u0643\u064e\u0644\u0627",
         "\u0631\u064e\u0634\u062a \u0643\u064e\u0644\u0627",
-        "Rasht Kol\u0101"
+        "Rasht Kol\u0101",
+        "\u0631\u0634\u06a9\u0644\u0627"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0631\u0634\u06a9\u0644\u0627"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0448\u043a\u043e\u043b\u0430"
     ],
     "name:und_x_variant":[
         "Rashkol\u0101",
@@ -63,7 +73,7 @@
         }
     ],
     "wof:id":1310249113,
-    "wof:lastmodified":1537643669,
+    "wof:lastmodified":1564115235,
     "wof:name":"Rasht Kola",
     "wof:parent_id":1108719807,
     "wof:placetype":"locality",

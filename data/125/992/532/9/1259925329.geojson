@@ -25,6 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0633"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u0633"
+    ],
+    "name:aze_x_preferred":[
+        "Sis"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u06cc\u0633"
     ],
@@ -33,10 +42,22 @@
         "S\u012bs",
         "\u0633\u064a\u0643\u06cc"
     ],
+    "name:mlg_x_preferred":[
+        "Sis"
+    ],
+    "name:msa_x_preferred":[
+        "Sis"
+    ],
+    "name:tur_x_preferred":[
+        "Sis"
+    ],
     "name:und_x_variant":[
         "Siz",
         "Sts",
         "S\u012bk\u012b"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0633"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +83,7 @@
         }
     ],
     "wof:id":1259925329,
-    "wof:lastmodified":1537643226,
+    "wof:lastmodified":1564118728,
     "wof:name":"Sis",
     "wof:parent_id":1108720423,
     "wof:placetype":"locality",

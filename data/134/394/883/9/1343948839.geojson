@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0628\u0648\u0630\u0631\u0622\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0628\u0648\u0630\u0631 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "Ab\u016bz\u0304ar\u0101b\u0101d"
+        "Ab\u016bz\u0304ar\u0101b\u0101d",
+        "\u0627\u0628\u0648\u0630\u0631\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Abuzarabad"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1343948839,
-    "wof:lastmodified":1537642758,
+    "wof:lastmodified":1564109872,
     "wof:name":"Abuzarabad",
     "wof:parent_id":1108720003,
     "wof:placetype":"locality",

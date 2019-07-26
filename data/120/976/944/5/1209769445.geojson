@@ -25,6 +25,9 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u062f\u064a\u062c\u0627\u0646"
+    ],
     "name:fas_x_preferred":[
         "\u0643\u064e\u0631\u062f\u064a\u0627\u0646"
     ],
@@ -33,7 +36,11 @@
         "\u06af\u064e\u0631\u062f\u064a\u062c\u0627\u0646",
         "\u0643\u064f\u0631\u062f\u064a\u062c\u0627\u0646",
         "Kard\u012bj\u0101n",
-        "\u0643\u0631\u062f\u064a\u062c\u0627\u0646"
+        "\u0643\u0631\u062f\u064a\u062c\u0627\u0646",
+        "\u06a9\u0631\u062f\u06cc\u062c\u0627\u0646"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0440\u0434\u0456\u0434\u0436\u0430\u043d"
     ],
     "name:und_x_variant":[
         "Qard\u012b\u0101n",
@@ -66,7 +73,7 @@
         }
     ],
     "wof:id":1209769445,
-    "wof:lastmodified":1537644688,
+    "wof:lastmodified":1564113504,
     "wof:name":"Kardijan",
     "wof:parent_id":1108719831,
     "wof:placetype":"locality",

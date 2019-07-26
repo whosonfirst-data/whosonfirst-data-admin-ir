@@ -25,19 +25,47 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0642\u0643\u0646\u062f"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u0642\u06a9\u0646\u062f"
+    ],
+    "name:aze_x_preferred":[
+        "A\u011fk\u0259nd"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0100q Kand"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u0642 \u0643\u0646\u062f"
     ],
     "name:fas_x_variant":[
         "\u0100qkand",
         "\u0100q Kand",
-        "\u06a9\u0627\u063a\u0630 \u06a9\u0646\u0627\u0646"
+        "\u06a9\u0627\u063a\u0630 \u06a9\u0646\u0627\u0646",
+        "\u0622\u0642\u06a9\u0646\u062f"
+    ],
+    "name:mlg_x_preferred":[
+        "Aqkand"
+    ],
+    "name:msa_x_preferred":[
+        "Aqkand"
+    ],
+    "name:swe_x_preferred":[
+        "\u0100q Kand"
+    ],
+    "name:tur_x_preferred":[
+        "Akkent"
     ],
     "name:und_x_variant":[
         "\u0100gh Kand",
         "Ak-Kend",
         "K\u0101ghaz\u0304 Kon\u0101n",
         "K\u0101ghaz Kan\u0101n"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0642\u06a9\u0646\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +91,7 @@
         }
     ],
     "wof:id":1293443961,
-    "wof:lastmodified":1537646288,
+    "wof:lastmodified":1564111665,
     "wof:name":"Kaghaz Konan",
     "wof:parent_id":1108720247,
     "wof:placetype":"locality",

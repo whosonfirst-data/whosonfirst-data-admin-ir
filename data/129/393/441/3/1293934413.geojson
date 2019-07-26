@@ -25,11 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0645\u200c\u062f\u0631\u0647"
+    ],
     "name:fas_x_preferred":[
         "\u062e\u0631\u0645\u062f\u0631\u0647"
     ],
     "name:fas_x_variant":[
-        "\u067e\u0633 \u062e\u0648\u0645 \u062e\u0631"
+        "\u067e\u0633 \u062e\u0648\u0645 \u062e\u0631",
+        "\u062e\u0631\u0645\u200c\u062f\u0631\u0647"
     ],
     "name:und_x_variant":[
         "Khorram Deh",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1293934413,
-    "wof:lastmodified":1537644548,
+    "wof:lastmodified":1564111273,
     "wof:name":"Khorramdarreh",
     "wof:parent_id":1108720007,
     "wof:placetype":"locality",

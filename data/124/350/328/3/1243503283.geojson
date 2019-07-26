@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u064a\u0629 \u062f\u0631\u0629 \u0633\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0627\u06cc\u0647 \u062f\u0631\u0647 \u0633\u06cc"
+    ],
     "name:fas_x_preferred":[
         "M\u0101yeh Darrahs\u012b"
     ],
     "name:fas_x_variant":[
-        "\u0645\u0627\u064a\u0650\u0647 \u062f\u064e\u0631\u064e\u0651\u0647\u0633\u06cc"
+        "\u0645\u0627\u064a\u0650\u0647 \u062f\u064e\u0631\u064e\u0651\u0647\u0633\u06cc",
+        "\u0645\u0627\u06cc\u0647 \u062f\u0631\u0647 \u0633\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Mayeh Darrahsi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":1243503283,
-    "wof:lastmodified":1537642160,
+    "wof:lastmodified":1564117617,
     "wof:name":"Mayeh Darrahsi",
     "wof:parent_id":1108719893,
     "wof:placetype":"locality",

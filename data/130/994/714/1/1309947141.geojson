@@ -25,6 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u063a\u0644\u064a\u0627\u0646 \u0628\u0627\u0644\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u062f\u063a\u0644\u06cc\u0627\u0646 \u0628\u0627\u0644\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Daghal\u012b\u0101n-e \u2018Oly\u0101"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u063a\u0644\u06cc\u0627\u0646 \u0628\u0627\u0644\u0627"
     ],
@@ -32,6 +41,12 @@
         "Daghl\u012b\u0101n-e \u2018Oly\u0101",
         "Daghal\u012b\u0101n-e B\u0101l\u0101",
         "\u062f\u063a\u0644\u06cc\u0627\u0646 \u0639\u0644\u06cc\u0627"
+    ],
+    "name:msa_x_preferred":[
+        "Daghalian-e Bala"
+    ],
+    "name:swe_x_preferred":[
+        "Daghal\u012b\u0101n-e \u2018Oly\u0101"
     ],
     "name:und_x_variant":[
         "D\u0101ghl\u012b\u0101n-e \u2018Oly\u0101",
@@ -62,7 +77,7 @@
         }
     ],
     "wof:id":1309947141,
-    "wof:lastmodified":1537645649,
+    "wof:lastmodified":1564116795,
     "wof:name":"Daghalian-e `Olya",
     "wof:parent_id":1108719791,
     "wof:placetype":"locality",

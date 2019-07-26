@@ -25,12 +25,22 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u064a\u0622\u0628\u0627\u062f \u0633\u0631\u062e\u0643"
+    ],
     "name:fas_x_preferred":[
         "\u0639\u0644\u06cc \u0622\u0628\u0627\u062f \u0633\u0631\u062e\u0647"
     ],
     "name:fas_x_variant":[
         "\u2018Al\u012b\u0101b\u0101d-e Sorkheh",
-        "\u0639\u0644\u06cc \u0622\u0628\u0627\u062f \u0633\u0631\u062e\u06a9"
+        "\u0639\u0644\u06cc \u0622\u0628\u0627\u062f \u0633\u0631\u062e\u06a9",
+        "\u0639\u0644\u06cc\u200c\u0622\u0628\u0627\u062f \u0633\u0631\u062e\u06a9"
+    ],
+    "name:msa_x_preferred":[
+        "Aliabad-e Sorkhak"
+    ],
+    "name:pol_x_preferred":[
+        "Aliabad-e Sorchak"
     ],
     "name:und_x_variant":[
         "Sorkhak",
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":1310026093,
-    "wof:lastmodified":1537642491,
+    "wof:lastmodified":1564116045,
     "wof:name":"`Aliabad-e Sorkhak",
     "wof:parent_id":1108720003,
     "wof:placetype":"locality",

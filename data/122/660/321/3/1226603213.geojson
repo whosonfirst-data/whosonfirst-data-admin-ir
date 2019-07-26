@@ -25,12 +25,19 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0631\u0648\u064a\u0634\u064a"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0631\u0648\u064a\u0634\u06cc"
     ],
     "name:fas_x_variant":[
         "\u062f\u0631\u0648\u064a\u0634\u0627\u0646",
-        "Darv\u012bsh\u012b"
+        "Darv\u012bsh\u012b",
+        "\u062f\u0631\u0648\u06cc\u0634\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Darvishi"
     ],
     "name:und_x_variant":[
         "Darinshi",
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":1226603213,
-    "wof:lastmodified":1537645571,
+    "wof:lastmodified":1564119553,
     "wof:name":"Darvishi",
     "wof:parent_id":1108719953,
     "wof:placetype":"locality",

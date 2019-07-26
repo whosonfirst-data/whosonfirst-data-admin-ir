@@ -25,11 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0644\u0627\u062f\u0643\u0648\u0647\u200c\u0633\u0631"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0648\u0644\u0627\u062f \u06a9\u0648\u0647 \u0633\u0631"
     ],
     "name:fas_x_variant":[
-        "P\u016bl\u0101d K\u016bh Sar"
+        "P\u016bl\u0101d K\u016bh Sar",
+        "\u067e\u0648\u0644\u0627\u062f\u06a9\u0648\u0647\u200c\u0633\u0631"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242718329,
-    "wof:lastmodified":1537640393,
+    "wof:lastmodified":1564117892,
     "wof:name":"Pulad Kuh Sar",
     "wof:parent_id":1108719925,
     "wof:placetype":"locality",

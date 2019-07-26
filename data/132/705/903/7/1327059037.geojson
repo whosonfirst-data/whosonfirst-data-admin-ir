@@ -25,13 +25,29 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0636\u0648\u064a\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "R\u0259z\u0259viy\u0259"
+    ],
     "name:fas_x_preferred":[
         "Morte\u1e95av\u012byeh"
     ],
     "name:fas_x_variant":[
         "\u0645\u0631\u062a\u0636\u0648\u064a\u0647",
         "Murtazav\u012byeh",
-        "\u0631\u0636\u0648\u064a\u0647"
+        "\u0631\u0636\u0648\u064a\u0647",
+        "\u0631\u0636\u0648\u06cc\u0647"
+    ],
+    "name:ita_x_preferred":[
+        "Razaviyeh"
+    ],
+    "name:mlg_x_preferred":[
+        "Razaviyeh"
+    ],
+    "name:tur_x_preferred":[
+        "Rezaviye"
     ],
     "name:und_x_variant":[
         "Murtazav\u012byeh",
@@ -61,7 +77,7 @@
         }
     ],
     "wof:id":1327059037,
-    "wof:lastmodified":1537644137,
+    "wof:lastmodified":1564108204,
     "wof:name":"Razaviyeh",
     "wof:parent_id":1108719895,
     "wof:placetype":"locality",

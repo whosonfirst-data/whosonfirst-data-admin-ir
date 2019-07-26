@@ -25,13 +25,20 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0627\u0628\u0627\u0646\u0627\u0646 \u0633\u0641\u0644\u064a"
+    ],
     "name:fas_x_preferred":[
         "\u062e\u0631\u0627\u0628\u0627\u0646\u0627\u0646 \u0633\u0641\u0644\u0649\u0670"
     ],
     "name:fas_x_variant":[
         "Khar\u0101b\u0101n\u0101n-e Sofl\u00e1",
         "\u062e\u064e\u0631\u0627\u0628\u0627\u0646",
-        "\u062e\u064e\u0631\u0627\u0628\u0627\u0646\u0627\u0646"
+        "\u062e\u064e\u0631\u0627\u0628\u0627\u0646\u0627\u0646",
+        "\u062e\u0631\u0627\u0628\u0627\u0646\u0627\u0646 \u0633\u0641\u0644\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Kharabanan-e Sofla"
     ],
     "name:und_x_variant":[
         "Khar\u0101b\u0101n\u0101n",
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":1226063093,
-    "wof:lastmodified":1537644599,
+    "wof:lastmodified":1564120292,
     "wof:name":"Kharabanan-e Sofla",
     "wof:parent_id":1108720065,
     "wof:placetype":"locality",

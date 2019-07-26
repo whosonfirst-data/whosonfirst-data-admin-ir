@@ -29,7 +29,11 @@
         "Mehd\u012b\u0101b\u0101d"
     ],
     "name:fas_x_variant":[
-        "\u0645\u0647\u062f\u06cc \u0622\u0628\u0627\u062f"
+        "\u0645\u0647\u062f\u06cc \u0622\u0628\u0627\u062f",
+        "\u0645\u0647\u062f\u06cc\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Mehdiabad"
     ],
     "name:und_x_variant":[
         "\u0645\u0647\u062f\u06cc \u0622\u0628\u0627\u062f",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1327118411,
-    "wof:lastmodified":1537644245,
+    "wof:lastmodified":1564108825,
     "wof:name":"Mehdiabad",
     "wof:parent_id":1108720205,
     "wof:placetype":"locality",

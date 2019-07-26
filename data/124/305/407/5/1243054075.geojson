@@ -25,10 +25,17 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u0100yenehvand"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u06cc\u0646\u0647 \u0648\u0646\u062f"
     ],
     "name:fas_x_variant":[
+        "\u0100yenehvand",
+        "\u0622\u06cc\u06cc\u0646\u0647\u200c\u0648\u0646\u062f"
+    ],
+    "name:swe_x_preferred":[
         "\u0100yenehvand"
     ],
     "name:und_x_variant":[
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1243054075,
-    "wof:lastmodified":1537641365,
+    "wof:lastmodified":1564117746,
     "wof:name":"Ayenehvand",
     "wof:parent_id":1108720373,
     "wof:placetype":"locality",

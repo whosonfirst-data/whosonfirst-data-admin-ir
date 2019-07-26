@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0639\u0648\u0645\u0631\u0627\u0646 \u0622\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u0639\u064f\u0645\u0631\u0627\u0646 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "\u2018Omr\u0101n\u0101b\u0101d"
+        "\u2018Omr\u0101n\u0101b\u0101d",
+        "\u0639\u0645\u0631\u0627\u0646\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Omranabad"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0639\u0645\u0631\u0627\u0646\u200c\u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":1209775335,
-    "wof:lastmodified":1537640918,
+    "wof:lastmodified":1564113265,
     "wof:name":"`Omranabad",
     "wof:parent_id":1108720297,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0647\u062f\u0627\u0631\u0627\u0646 \u0627\u0644\u0633\u0641\u0644\u064a"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0650\u0647\u062f\u0627\u0631\u0627\u0646\u0650 \u067e\u0627\u0626\u064a\u0646"
     ],
@@ -33,7 +36,11 @@
         "\u062f\u0647\u062f\u0627\u0631\u0627\u0646 \u0633\u0641\u0644\u0649",
         "\u062f\u0650\u0647\u062f\u0627\u0631\u0627\u0646",
         "Dehd\u0101r\u0101n-e P\u0101\u2019\u012bn",
-        "Dehd\u0101r\u0101n-e Sofl\u00e1"
+        "Dehd\u0101r\u0101n-e Sofl\u00e1",
+        "\u062f\u0647\u062f\u0627\u0631\u0627\u0646 \u0633\u0641\u0644\u0627"
+    ],
+    "name:msa_x_preferred":[
+        "Dehdaran-e Sofla"
     ],
     "name:und_x_variant":[
         "Dehd\u0101r\u0101n",
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":1360253827,
-    "wof:lastmodified":1537645534,
+    "wof:lastmodified":1564116223,
     "wof:name":"Dehdaran-e Sofla",
     "wof:parent_id":1108719951,
     "wof:placetype":"locality",

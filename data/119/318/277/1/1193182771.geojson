@@ -25,12 +25,22 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0642\u062f\u06cc\u0645 \u062a\u0627\u0632\u0627 \u06a9\u0646\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0627\u0632\u0647 \u0643\u0646\u062f \u0642\u062f\u064a\u0645"
     ],
     "name:fas_x_variant":[
         "\u062a\u0627\u0632\u0650\u0647 \u0643\u064e\u0646\u062f",
-        "T\u0101zeh Kand-e Qad\u012bm"
+        "T\u0101zeh Kand-e Qad\u012bm",
+        "\u062a\u0627\u0632\u0647\u200c\u06a9\u0646\u062f \u0642\u062f\u06cc\u0645"
+    ],
+    "name:msa_x_preferred":[
+        "Tazeh Kand-e Qadim"
+    ],
+    "name:mzn_x_preferred":[
+        "\u062a\u0627\u0632\u0647\u200c\u06a9\u0646\u062f\u0642\u062f\u06cc\u0645"
     ],
     "name:und_x_variant":[
         "T\u0101zeh Kand"
@@ -59,7 +69,7 @@
         }
     ],
     "wof:id":1193182771,
-    "wof:lastmodified":1537643140,
+    "wof:lastmodified":1564114552,
     "wof:name":"Tazeh Kand-e Qadim",
     "wof:parent_id":1108720297,
     "wof:placetype":"locality",

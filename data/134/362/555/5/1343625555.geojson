@@ -25,11 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0645\u062f\u0631\u0629"
+    ],
     "name:fas_x_preferred":[
         "\u0642\u0645\u062f\u0631\u0651\u0647"
     ],
     "name:fas_x_variant":[
-        "\u0642\u0645 \u062f\u0648\u0631\u0647"
+        "\u0642\u0645 \u062f\u0648\u0631\u0647",
+        "\u0642\u0645\u062f\u0631\u0647"
     ],
     "name:und_x_variant":[
         "Gomdarreh",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1343625555,
-    "wof:lastmodified":1537640276,
+    "wof:lastmodified":1564109000,
     "wof:name":"Qom Dureh",
     "wof:parent_id":1108719889,
     "wof:placetype":"locality",

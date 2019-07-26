@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dehn\u0101sh"
+    ],
     "name:fas_x_preferred":[
         "Dehn\u0101sh"
     ],
     "name:fas_x_variant":[
-        "\u062f\u0650\u0647\u0646\u0627\u0634"
+        "\u062f\u0650\u0647\u0646\u0627\u0634",
+        "\u062f\u0647\u0646\u0627\u0634"
+    ],
+    "name:msa_x_preferred":[
+        "Dehnash"
+    ],
+    "name:swe_x_preferred":[
+        "Dehn\u0101sh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":1226149961,
-    "wof:lastmodified":1537641870,
+    "wof:lastmodified":1564119891,
     "wof:name":"Dehnash",
     "wof:parent_id":1108720171,
     "wof:placetype":"locality",

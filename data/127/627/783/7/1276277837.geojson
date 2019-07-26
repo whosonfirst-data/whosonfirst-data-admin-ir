@@ -25,11 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0628\u0627\u0633\u200c\u0622\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u2018Abb\u0101s\u0101b\u0101d"
     ],
     "name:fas_x_variant":[
-        "\u0639\u0628\u0627\u0633 \u0622\u0628\u0627\u062f"
+        "\u0639\u0628\u0627\u0633 \u0622\u0628\u0627\u062f",
+        "\u0639\u0628\u0627\u0633\u200c\u0622\u0628\u0627\u062f"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0431\u0431\u0430\u0441\u0430\u0431\u0430\u0434"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1276277837,
-    "wof:lastmodified":1537646355,
+    "wof:lastmodified":1564112000,
     "wof:name":"`Abbasabad",
     "wof:parent_id":1108720033,
     "wof:placetype":"locality",

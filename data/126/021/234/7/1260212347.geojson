@@ -25,14 +25,27 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0646\u062c\u0627\u0644 \u0623\u0628\u0627\u062f"
+    ],
+    "name:ceb_x_preferred":[
+        "Janj\u0101l\u0101b\u0101d"
+    ],
     "name:fas_x_preferred":[
         "Janj\u0101l\u0101b\u0101d"
     ],
     "name:fas_x_variant":[
-        "\u062c\u0646\u062c\u0644 \u0622\u0628\u0627\u062f"
+        "\u062c\u0646\u062c\u0644 \u0622\u0628\u0627\u062f",
+        "\u062c\u0646\u062c\u0627\u0644\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:swe_x_preferred":[
+        "Janj\u0101l\u0101b\u0101d"
     ],
     "name:und_x_variant":[
         "Janjel\u0101b\u0101d"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0646\u062c\u0627\u0644 \u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +71,7 @@
         }
     ],
     "wof:id":1260212347,
-    "wof:lastmodified":1537644858,
+    "wof:lastmodified":1564115000,
     "wof:name":"Janjalabad",
     "wof:parent_id":1108720001,
     "wof:placetype":"locality",

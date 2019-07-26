@@ -25,12 +25,28 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0632\u0627\u063a\u0644"
+    ],
+    "name:aze_x_preferred":[
+        "Saza\u011f\u0131l"
+    ],
+    "name:ceb_x_preferred":[
+        "S\u0101zoghli"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0627\u0632\u0627\u063a\u064f\u0644"
     ],
     "name:fas_x_variant":[
         "\u0633\u0627\u0632\u0627\u063a\u0644\u06cc",
         "S\u0101z\u0101ghol",
+        "S\u0101zoghli",
+        "\u0633\u0627\u0632\u0627\u063a\u0644"
+    ],
+    "name:msa_x_preferred":[
+        "Sazaghol"
+    ],
+    "name:swe_x_preferred":[
         "S\u0101zoghli"
     ],
     "src:geom":"geonames",
@@ -57,7 +73,7 @@
         }
     ],
     "wof:id":1276349371,
-    "wof:lastmodified":1537640776,
+    "wof:lastmodified":1564112058,
     "wof:name":"Sazoghli",
     "wof:parent_id":1108719923,
     "wof:placetype":"locality",

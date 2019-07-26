@@ -25,12 +25,19 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0645\u0648\u0627\u0648\u063a\u0644\u064a \u0633\u0641\u0644\u064a"
+    ],
     "name:fas_x_preferred":[
         "\u0639\u0645\u0648 \u0627\u0648\u063a\u0644\u06cc \u0633\u0641\u0644\u06cc"
     ],
     "name:fas_x_variant":[
         "\u2018Am\u016bowghl\u012b-ye Sofl\u00e1",
-        "\u2018Am\u016b Owghl\u012b-ye Sofl\u00e1"
+        "\u2018Am\u016b Owghl\u012b-ye Sofl\u00e1",
+        "\u0639\u0645\u0648\u0627\u0648\u063a\u0644\u06cc \u0633\u0641\u0644\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Amuowghli-ye Sofla"
     ],
     "name:und_x_variant":[
         "\u2018Am\u016bowghl\u012b-ye P\u0101\u2019\u012bn",
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":1293435177,
-    "wof:lastmodified":1537646183,
+    "wof:lastmodified":1564111690,
     "wof:name":"`Amu Owghli-ye Sofla",
     "wof:parent_id":1108719929,
     "wof:placetype":"locality",

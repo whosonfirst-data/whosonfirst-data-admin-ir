@@ -25,13 +25,26 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u062a\u0634\u064a\u0646 \u0639\u0644\u064a\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u06cc\u0648\u062e\u0627\u0631\u06cc \u067e\u0631\u0686\u06cc\u0646"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0631\u0686\u064a\u0646 \u0628\u0627\u0644\u0627"
     ],
     "name:fas_x_variant":[
         "Parch\u012bn-e \u2018Oly\u0101",
         "\u067e\u064e\u0631\u0686\u064a\u0646\u0650 \u0639\u064f\u0644\u064a\u0627",
-        "Parch\u012bn-e B\u0101l\u0101"
+        "Parch\u012bn-e B\u0101l\u0101",
+        "\u067e\u0631\u0686\u06cc\u0646 \u0639\u0644\u06cc\u0627"
+    ],
+    "name:msa_x_preferred":[
+        "Parchin-e Olya"
+    ],
+    "name:mzn_x_preferred":[
+        "\u067e\u0631\u0686\u06cc\u0646 \u0639\u0644\u06cc\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +70,7 @@
         }
     ],
     "wof:id":1293630761,
-    "wof:lastmodified":1537642158,
+    "wof:lastmodified":1564110565,
     "wof:name":"Parchin-e Bala",
     "wof:parent_id":1108720021,
     "wof:placetype":"locality",

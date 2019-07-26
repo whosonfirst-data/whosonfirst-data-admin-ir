@@ -25,6 +25,12 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062a\u067e\u0647\u200c\u0628\u0627\u0634\u06cc\u200c\u0646\u0645\u0627\u0632"
+    ],
+    "name:aze_x_preferred":[
+        "T\u0259p\u0259ba\u015f\u0131-i Namaz"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u064e\u067e\u0650\u0651\u0647 \u0628\u0627\u0634\u06cc"
     ],
@@ -33,7 +39,14 @@
         "\u062a\u067e\u0651\u0647 \u0628\u0627\u0634\u06cc \u0646\u0645\u0627\u0632",
         "Tappeh B\u0101sh\u012b-ye Nam\u0101z\u012b",
         "Tappeh B\u0101sh\u012b-ye Nam\u0101z",
-        "\u062a\u064e\u067e\u0650\u0651\u0647 \u0628\u0627\u0634\u0626 \u0646\u064e\u0645\u0627\u0632\u06cc"
+        "\u062a\u064e\u067e\u0650\u0651\u0647 \u0628\u0627\u0634\u0626 \u0646\u064e\u0645\u0627\u0632\u06cc",
+        "\u062a\u067e\u0647\u200c\u0628\u0627\u0634\u06cc\u200c\u0646\u0645\u0627\u0632"
+    ],
+    "name:kur_x_preferred":[
+        "Tepeba\u015f\u00eenemaz"
+    ],
+    "name:msa_x_preferred":[
+        "Tappeh Bashi-ye Namaz"
     ],
     "name:und_x_variant":[
         "Tepebashi",
@@ -65,7 +78,7 @@
         }
     ],
     "wof:id":1343675465,
-    "wof:lastmodified":1537643176,
+    "wof:lastmodified":1564109848,
     "wof:name":"Tappeh Bashi-ye Namaz",
     "wof:parent_id":1108720203,
     "wof:placetype":"locality",

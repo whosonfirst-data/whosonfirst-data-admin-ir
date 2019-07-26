@@ -25,12 +25,19 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "S\u00f6y\u00fcdl\u00fc"
+    ],
     "name:fas_x_preferred":[
         "S\u016bch\u012bdl\u016b"
     ],
     "name:fas_x_variant":[
         "Sogotl\u016b",
-        "\u0633\u0648 \u0686\u06cc\u062f\u0644\u0648"
+        "\u0633\u0648 \u0686\u06cc\u062f\u0644\u0648",
+        "\u0633\u06af\u062a\u0644\u0648"
+    ],
+    "name:msa_x_preferred":[
+        "Sogotlu"
     ],
     "name:und_x_variant":[
         "\u0633\u0648 \u0686\u06cc\u062f\u0644\u0648"
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":1210020071,
-    "wof:lastmodified":1537642266,
+    "wof:lastmodified":1564114214,
     "wof:name":"Suchidlu",
     "wof:parent_id":1108720153,
     "wof:placetype":"locality",

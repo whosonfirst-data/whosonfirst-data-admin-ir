@@ -25,12 +25,22 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u0634\u06af\u0641\u062a \u0628\u0627\u0628\u0627\u0645\u06cc\u0631(\u0627\u06cc\u0630\u0647)"
+    ],
+    "name:ceb_x_preferred":[
+        "Eshkaft-e B\u0101b\u0101 M\u012br"
+    ],
     "name:fas_x_preferred":[
         "Eshkaft-e B\u0101b\u0101 M\u012br"
     ],
     "name:fas_x_variant":[
         "\u0627\u0634\u06a9\u0641\u062a \u0628\u0627\u0628\u0627 \u0645\u06cc\u0631",
-        "\u0627\u0634\u06af\u0641\u062a \u0628\u0627\u0628\u0627 \u0645\u06cc\u0631"
+        "\u0627\u0634\u06af\u0641\u062a \u0628\u0627\u0628\u0627 \u0645\u06cc\u0631",
+        "\u0627\u0634\u06af\u0641\u062a \u0628\u0627\u0628\u0627\u0645\u06cc\u0631"
+    ],
+    "name:swe_x_preferred":[
+        "Eshkaft-e B\u0101b\u0101 M\u012br"
     ],
     "name:und_x_variant":[
         "Eshgaft-e B\u0101b\u0101 M\u012br",
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":1260252343,
-    "wof:lastmodified":1537645355,
+    "wof:lastmodified":1564114759,
     "wof:name":"Eshgaft-e Baba Mir",
     "wof:parent_id":1108720067,
     "wof:placetype":"locality",

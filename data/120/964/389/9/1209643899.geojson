@@ -30,9 +30,13 @@
     ],
     "name:fas_x_variant":[
         "Y\u016bsof\u0101b\u0101d",
-        "\u06cc\u0648\u0633\u0641 \u0622\u0628\u0627\u062f"
+        "\u06cc\u0648\u0633\u0641 \u0622\u0628\u0627\u062f",
+        "\u06cc\u0648\u0633\u0641\u200c\u0622\u0628\u0627\u062f"
     ],
     "name:und_x_variant":[
+        "\u06cc\u0648\u0633\u0641 \u0622\u0628\u0627\u062f"
+    ],
+    "name:urd_x_preferred":[
         "\u06cc\u0648\u0633\u0641 \u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209643899,
-    "wof:lastmodified":1537642997,
+    "wof:lastmodified":1564113217,
     "wof:name":"Yusefabad",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",

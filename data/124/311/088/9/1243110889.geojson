@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u0644\u0634\u200c\u0622\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "V\u0101lesh\u0101b\u0101d"
     ],
     "name:fas_x_variant":[
-        "\u0648\u0627\u0644\u0634 \u0622\u0628\u0627\u062f"
+        "\u0648\u0627\u0644\u0634 \u0622\u0628\u0627\u062f",
+        "\u0648\u0627\u0644\u0634\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Valeshabad"
     ],
     "name:und_x_variant":[
         "\u0648\u0627\u0644\u0634 \u0622\u0628\u0627\u062f"
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1243110889,
-    "wof:lastmodified":1537642221,
+    "wof:lastmodified":1564118067,
     "wof:name":"Valeshabad",
     "wof:parent_id":1108720041,
     "wof:placetype":"locality",

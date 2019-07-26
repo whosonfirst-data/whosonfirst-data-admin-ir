@@ -25,11 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631\u0622\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u06cc\u0631 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "P\u012br\u0101b\u0101d"
+        "P\u012br\u0101b\u0101d",
+        "\u067e\u06cc\u0631\u0622\u0628\u0627\u062f"
     ],
     "name:und_x_variant":[
         "P\u012br\u0101b\u0101d-e \u2018Oly\u0101 va Sofl\u00e1"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1226311477,
-    "wof:lastmodified":1537643920,
+    "wof:lastmodified":1564120449,
     "wof:name":"Pirabad",
     "wof:parent_id":1108719973,
     "wof:placetype":"locality",

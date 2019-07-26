@@ -25,14 +25,33 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u0644\u062a \u0623\u0628\u0627\u062f"
+    ],
+    "name:aze_x_preferred":[
+        "D\u00f6vl\u0259tabad"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0648\u0644\u062a \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "Dowlat\u0101b\u0101d"
+        "Dowlat\u0101b\u0101d",
+        "\u062f\u0648\u0644\u062a\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:ita_x_preferred":[
+        "Dawlatabad"
+    ],
+    "name:mlg_x_preferred":[
+        "Dowlatabad"
+    ],
+    "name:tur_x_preferred":[
+        "Devletabad"
     ],
     "name:und_x_variant":[
         "Daulat\u0101bad"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0648\u0644\u062a\u200c\u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +77,7 @@
         }
     ],
     "wof:id":1260009275,
-    "wof:lastmodified":1537645406,
+    "wof:lastmodified":1564114809,
     "wof:name":"Dowlatabad",
     "wof:parent_id":1108720497,
     "wof:placetype":"locality",

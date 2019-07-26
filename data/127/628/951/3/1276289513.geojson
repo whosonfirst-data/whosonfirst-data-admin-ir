@@ -25,11 +25,36 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0635\u0631\u062a \u0623\u0628\u0627\u062f"
+    ],
+    "name:azb_x_preferred":[
+        "\u0646\u0648\u0635\u0631\u062a\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:aze_x_preferred":[
+        "N\u00fcsr\u0259tabad"
+    ],
+    "name:cat_x_preferred":[
+        "Nosratabad"
+    ],
+    "name:ceb_x_preferred":[
+        "No\u015frat\u0101b\u0101d"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u064f\u0635\u0631\u064e\u062a \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "No\u015frat\u0101b\u0101d"
+        "No\u015frat\u0101b\u0101d",
+        "\u0646\u0635\u0631\u062a\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:ita_x_preferred":[
+        "Nosratabad"
+    ],
+    "name:mlg_x_preferred":[
+        "Nosratabad"
+    ],
+    "name:tur_x_preferred":[
+        "Nusretabad"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +79,7 @@
         }
     ],
     "wof:id":1276289513,
-    "wof:lastmodified":1537641277,
+    "wof:lastmodified":1564111859,
     "wof:name":"Nosratabad",
     "wof:parent_id":1108719959,
     "wof:placetype":"locality",

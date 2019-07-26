@@ -25,13 +25,20 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0631\u062c \u0623\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u064f\u0631\u0648\u062c \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
         "\u0627\u0648\u0686 \u0622\u0628\u0627\u062f",
         "Or\u016bj\u0101b\u0101d",
-        "Owch\u0101b\u0101d"
+        "Owch\u0101b\u0101d",
+        "\u0627\u0631\u0648\u062c \u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Orujabad"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":1276721371,
-    "wof:lastmodified":1537642159,
+    "wof:lastmodified":1564111791,
     "wof:name":"Owchabad",
     "wof:parent_id":1108720021,
     "wof:placetype":"locality",

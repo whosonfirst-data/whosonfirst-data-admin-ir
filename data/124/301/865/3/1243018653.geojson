@@ -25,14 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628 \u0628\u062d\u0631\u064a"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u0628 \u0628\u062d\u0631\u06cc"
     ],
     "name:fas_x_variant":[
-        "\u0100b Ba\u1e29r\u012b"
+        "\u0100b Ba\u1e29r\u012b",
+        "\u0622\u0628\u200c\u0628\u062d\u0631\u06cc"
     ],
     "name:und_x_variant":[
         "\u0100b-e Ba\u1e29r\u012b"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0628\u200c\u0628\u062d\u0631\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1243018653,
-    "wof:lastmodified":1537646360,
+    "wof:lastmodified":1564117076,
     "wof:name":"Ab Bahri",
     "wof:parent_id":1108719851,
     "wof:placetype":"locality",

@@ -25,11 +25,36 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0633\u0644\u0627\u0645\u064a\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "\u0130slamiyy\u0259"
+    ],
+    "name:ceb_x_preferred":[
+        "Esl\u0101m\u012byeh"
+    ],
     "name:fas_x_preferred":[
         "Esl\u0101m\u012byeh"
     ],
     "name:fas_x_variant":[
-        "\u0627\u0633\u0644\u0627\u0645\u064a\u0647"
+        "\u0627\u0633\u0644\u0627\u0645\u064a\u0647",
+        "\u0627\u0633\u0644\u0627\u0645\u06cc\u0647"
+    ],
+    "name:ita_x_preferred":[
+        "Eslamiyeh"
+    ],
+    "name:mlg_x_preferred":[
+        "Eslamiyeh"
+    ],
+    "name:swe_x_preferred":[
+        "Esl\u0101m\u012byeh"
+    ],
+    "name:tur_x_preferred":[
+        "\u0130slamiye"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0633\u0644\u0627\u0645\u06cc\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +79,7 @@
         }
     ],
     "wof:id":1243314595,
-    "wof:lastmodified":1537648490,
+    "wof:lastmodified":1564117015,
     "wof:name":"Eslamiyeh",
     "wof:parent_id":1108720469,
     "wof:placetype":"locality",

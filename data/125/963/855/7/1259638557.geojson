@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Arm\u012b\u0101n"
+    ],
     "name:fas_x_preferred":[
         "Arm\u012b\u0101n"
     ],
     "name:fas_x_variant":[
-        "\u0627\u0631\u0645\u064a\u0627\u0646"
+        "\u0627\u0631\u0645\u064a\u0627\u0646",
+        "\u0627\u0631\u0645\u06cc\u0627\u0646"
+    ],
+    "name:swe_x_preferred":[
+        "Arm\u012b\u0101n"
     ],
     "name:und_x_variant":[
         "\u0100rm\u012by\u0101n",
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":1259638557,
-    "wof:lastmodified":1537646127,
+    "wof:lastmodified":1564118362,
     "wof:name":"Armian",
     "wof:parent_id":1108720441,
     "wof:placetype":"locality",

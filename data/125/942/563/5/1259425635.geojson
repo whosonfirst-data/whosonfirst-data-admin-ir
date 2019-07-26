@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0634\u0647\u0627\u0631\u0628\u0627\u063a"
+    ],
     "name:fas_x_preferred":[
         "\u0686\u0647\u0627\u0631 \u0628\u0627\u063a"
     ],
     "name:fas_x_variant":[
-        "Chah\u0101r B\u0101gh"
+        "Chah\u0101r B\u0101gh",
+        "\u0686\u0647\u0627\u0631\u0628\u0627\u063a"
+    ],
+    "name:msa_x_preferred":[
+        "Chahar Bagh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1259425635,
-    "wof:lastmodified":1537645801,
+    "wof:lastmodified":1564118953,
     "wof:name":"Chahar Bagh",
     "wof:parent_id":1108720041,
     "wof:placetype":"locality",

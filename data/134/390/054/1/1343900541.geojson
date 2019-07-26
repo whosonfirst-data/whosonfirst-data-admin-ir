@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0626\u064a\u0633 \u0623\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u0626\u06cc\u0633 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "Ra\u2019\u012bs\u0101b\u0101d"
+        "Ra\u2019\u012bs\u0101b\u0101d",
+        "\u0631\u0626\u06cc\u0633\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:por_x_preferred":[
+        "Raisabad"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1343900541,
-    "wof:lastmodified":1537643679,
+    "wof:lastmodified":1564109176,
     "wof:name":"Ra'isabad",
     "wof:parent_id":1108719781,
     "wof:placetype":"locality",

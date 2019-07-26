@@ -25,12 +25,19 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Somsar\u0101-ye Sofl\u00e1"
+    ],
     "name:fas_x_preferred":[
         "Somsar\u0101 P\u0101\u2019\u012bn"
     ],
     "name:fas_x_variant":[
         "\u0633\u0645\u0633\u0631\u0627 \u0633\u0641\u0644\u06cc",
         "Somsar\u0101-ye P\u0101\u2019\u012bn",
+        "Somsar\u0101-ye Sofl\u00e1",
+        "\u0633\u0645\u0633\u0631\u0627\u06cc \u0633\u0641\u0644\u06cc"
+    ],
+    "name:swe_x_preferred":[
         "Somsar\u0101-ye Sofl\u00e1"
     ],
     "src:geom":"geonames",
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":1209844201,
-    "wof:lastmodified":1537646803,
+    "wof:lastmodified":1564113295,
     "wof:name":"Somsara-ye Sofla",
     "wof:parent_id":1108720499,
     "wof:placetype":"locality",

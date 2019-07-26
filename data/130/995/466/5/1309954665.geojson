@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0631\u0648\u062c\u0639\u0644\u064a\u0644\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0631\u0648\u062c \u0639\u0644\u06cc \u0644\u06cc"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0631\u0648\u062c \u0639\u0644\u06cc \u0644\u0648"
     ],
     "name:fas_x_variant":[
-        "Or\u016bj \u2018Al\u012bl\u016b"
+        "Or\u016bj \u2018Al\u012bl\u016b",
+        "\u0627\u0631\u0648\u062c\u0639\u0644\u06cc\u0644\u0648"
+    ],
+    "name:msa_x_preferred":[
+        "Oruj Alilu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":1309954665,
-    "wof:lastmodified":1537646458,
+    "wof:lastmodified":1564116760,
     "wof:name":"Oruj `Alilu",
     "wof:parent_id":1108720021,
     "wof:placetype":"locality",

@@ -25,12 +25,37 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0627\u0631\u0627\u0646\u0647"
+    ],
+    "name:azb_x_preferred":[
+        "\u0642\u0627\u0631\u0627\u0646\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "Qaran\u0259"
+    ],
+    "name:ceb_x_preferred":[
+        "G\u0101r\u0101neh"
+    ],
+    "name:ckb_x_preferred":[
+        "\u06af\u0627\u0631\u0627\u0646\u06d5"
+    ],
     "name:fas_x_preferred":[
         "\u0642\u0627\u0631\u0627\u0646\u0650\u0647"
     ],
     "name:fas_x_variant":[
         "\u06af\u0627\u0631\u0627\u0646\u0647",
         "Q\u0101r\u0101neh",
+        "G\u0101r\u0101neh",
+        "\u0642\u0627\u0631\u0627\u0646\u0647"
+    ],
+    "name:kur_x_preferred":[
+        "Garane"
+    ],
+    "name:msa_x_preferred":[
+        "Qaraneh"
+    ],
+    "name:swe_x_preferred":[
         "G\u0101r\u0101neh"
     ],
     "src:geom":"geonames",
@@ -57,7 +82,7 @@
         }
     ],
     "wof:id":1292907031,
-    "wof:lastmodified":1537641036,
+    "wof:lastmodified":1564111404,
     "wof:name":"Garaneh",
     "wof:parent_id":1108720289,
     "wof:placetype":"locality",

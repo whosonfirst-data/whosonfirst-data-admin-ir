@@ -25,12 +25,19 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062e\u0648\u06cc\u0646\u0631\u0648\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u062e\u0648\u06cc \u0646\u0631\u0648\u062f"
     ],
     "name:fas_x_variant":[
         "Kh\u016bynar\u016bd",
-        "Khvoy Nar\u016bd"
+        "Khvoy Nar\u016bd",
+        "\u062e\u0648\u06cc\u0646\u0631\u0648\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Khvoy Narud"
     ],
     "name:und_x_variant":[
         "Khowy Nar\u016bd"
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":1243495407,
-    "wof:lastmodified":1537640722,
+    "wof:lastmodified":1564117515,
     "wof:name":"Khowy Narud",
     "wof:parent_id":1108720509,
     "wof:placetype":"locality",

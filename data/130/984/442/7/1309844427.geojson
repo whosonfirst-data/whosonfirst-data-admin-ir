@@ -25,11 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0647\u062c\u062a \u0623\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0647\u062c\u062a \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "Behjat\u0101b\u0101d"
+        "Behjat\u0101b\u0101d",
+        "\u0628\u0647\u062c\u062a\u200c\u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1309844427,
-    "wof:lastmodified":1537645924,
+    "wof:lastmodified":1564116625,
     "wof:name":"Behjatabad",
     "wof:parent_id":1108719789,
     "wof:placetype":"locality",

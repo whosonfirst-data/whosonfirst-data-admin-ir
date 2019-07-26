@@ -25,11 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0627\u0633\u062a\u0647\u200c\u0627\u064a"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u0627\u0633\u062a\u0647 \u0627\u06cc"
     ],
     "name:fas_x_variant":[
-        "R\u0101steh\u2019\u012b"
+        "R\u0101steh\u2019\u012b",
+        "\u0631\u0627\u0633\u062a\u0647\u200c\u0627\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343957851,
-    "wof:lastmodified":1537647986,
+    "wof:lastmodified":1564109681,
     "wof:name":"Rasteh'i",
     "wof:parent_id":1108720063,
     "wof:placetype":"locality",

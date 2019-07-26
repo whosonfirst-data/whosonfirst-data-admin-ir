@@ -29,7 +29,11 @@
         "Doshman Z\u012b\u0101r\u012b"
     ],
     "name:fas_x_variant":[
-        "\u062f\u0634\u0645\u0646 \u0632\u06cc\u0627\u0631\u06cc"
+        "\u062f\u0634\u0645\u0646 \u0632\u06cc\u0627\u0631\u06cc",
+        "\u062f\u0634\u0645\u0646\u200c\u0632\u06cc\u0627\u0631\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Doshman Ziari"
     ],
     "name:und_x_variant":[
         "Doshman Z\u012b\u0101d\u012b",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1360079341,
-    "wof:lastmodified":1537645415,
+    "wof:lastmodified":1564116242,
     "wof:name":"Doshman Ziari",
     "wof:parent_id":1108720421,
     "wof:placetype":"locality",

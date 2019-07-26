@@ -29,7 +29,14 @@
         "\u1e28asan\u0101b\u0101d"
     ],
     "name:fas_x_variant":[
-        "\u062d\u0633\u0646 \u0622\u0628\u0627\u062f"
+        "\u062d\u0633\u0646 \u0622\u0628\u0627\u062f",
+        "\u062d\u0633\u0646\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Hasanabad"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0441\u0430\u043d\u0430\u0431\u0430\u0434"
     ],
     "name:und_x_variant":[
         "Khasanabad",
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":1343751859,
-    "wof:lastmodified":1537645006,
+    "wof:lastmodified":1564110232,
     "wof:name":"Hasanabad",
     "wof:parent_id":1108720339,
     "wof:placetype":"locality",

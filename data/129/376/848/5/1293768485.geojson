@@ -29,7 +29,14 @@
         "Shams-e B\u012bj\u0101r"
     ],
     "name:fas_x_variant":[
-        "\u0634\u0645\u0633 \u0628\u064a\u062c\u0627\u0631"
+        "\u0634\u0645\u0633 \u0628\u064a\u062c\u0627\u0631",
+        "\u0634\u0645\u0633\u200c\u0628\u06cc\u062c\u0627\u0631"
+    ],
+    "name:msa_x_preferred":[
+        "Shams-e Bijar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0430\u043c\u0441-\u0435-\u0411\u0456\u0434\u0436\u0430\u0440"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1293768485,
-    "wof:lastmodified":1537641594,
+    "wof:lastmodified":1564110897,
     "wof:name":"Shams-e Bijar",
     "wof:parent_id":1108720339,
     "wof:placetype":"locality",

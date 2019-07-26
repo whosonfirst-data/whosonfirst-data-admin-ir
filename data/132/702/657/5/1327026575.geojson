@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0631\u0628\u0627\u0646\u0648"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u06cc\u0631 \u0628\u0627\u0646\u0648"
     ],
     "name:fas_x_variant":[
-        "S\u012br B\u0101n\u016b"
+        "S\u012br B\u0101n\u016b",
+        "\u0633\u06cc\u0631\u0628\u0627\u0646\u0648"
+    ],
+    "name:msa_x_preferred":[
+        "Sir Banu"
     ],
     "name:und_x_variant":[
         "Qal\u2018eh-ye S\u012br B\u0101n\u016b"
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1327026575,
-    "wof:lastmodified":1537643264,
+    "wof:lastmodified":1564108222,
     "wof:name":"Sir Banu",
     "wof:parent_id":1108719975,
     "wof:placetype":"locality",

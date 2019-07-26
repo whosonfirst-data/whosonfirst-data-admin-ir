@@ -25,6 +25,12 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0644\u0627\u0633\u0628\u06cc\u062f(\u0628\u0647\u0628\u0647\u0627\u0646)"
+    ],
+    "name:ceb_x_preferred":[
+        "L\u0101sb\u012bd"
+    ],
     "name:fas_x_preferred":[
         "\u0644\u0627\u0633\u0628\u06cc\u062f"
     ],
@@ -32,8 +38,14 @@
         "L\u0101sp\u012bd",
         "L\u0101sb\u012bd"
     ],
+    "name:swe_x_preferred":[
+        "L\u0101sb\u012bd"
+    ],
     "name:und_x_variant":[
         "Lasb\u012bd"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633\u0628\u06cc\u0688"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1309788431,
-    "wof:lastmodified":1537644388,
+    "wof:lastmodified":1564116661,
     "wof:name":"Lasbid",
     "wof:parent_id":1108719885,
     "wof:placetype":"locality",

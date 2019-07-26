@@ -25,13 +25,20 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062f\u0648"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u064a\u062f\u0648 \u0633\u064e\u0631\u062d\u064e\u062f"
     ],
     "name:fas_x_variant":[
         "B\u012bd\u016b",
         "B\u012bd\u016b Sar\u1e29ad",
-        "\u0628\u064a\u062f\u0648"
+        "\u0628\u064a\u062f\u0648",
+        "\u0628\u06cc\u062f\u0648"
+    ],
+    "name:msa_x_preferred":[
+        "Bidu"
     ],
     "name:und_x_variant":[
         "\u0628\u064a\u062f\u0648"
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":1209272833,
-    "wof:lastmodified":1537642896,
+    "wof:lastmodified":1564113896,
     "wof:name":"Bidu",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",

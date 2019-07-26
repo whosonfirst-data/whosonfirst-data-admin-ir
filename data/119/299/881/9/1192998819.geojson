@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u062f\u0631 \u0623\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u062d\u064a\u062f\u0631 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "\u1e28eydar\u0101b\u0101d"
+        "\u1e28eydar\u0101b\u0101d",
+        "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Heydarabad"
     ],
     "name:und_x_variant":[
         "Heidar Abad"
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1192998819,
-    "wof:lastmodified":1537644964,
+    "wof:lastmodified":1564114510,
     "wof:name":"Heydarabad",
     "wof:parent_id":1108720045,
     "wof:placetype":"locality",

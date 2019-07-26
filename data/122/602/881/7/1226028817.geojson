@@ -25,11 +25,27 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0645\u0634\u064a\u062f \u0623\u0628\u0627\u062f"
+    ],
+    "name:azb_x_preferred":[
+        "\u062c\u0645\u0634\u06cc\u062f \u0622\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u062c\u0645\u0634\u06cc\u062f \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "Jamsh\u012bd\u0101b\u0101d"
+        "Jamsh\u012bd\u0101b\u0101d",
+        "\u062c\u0645\u0634\u06cc\u062f\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Jamshidabad"
+    ],
+    "name:mzn_x_preferred":[
+        "\u062c\u0645\u0634\u06cc\u062f\u0622\u0628\u0627\u062f"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0645\u0634\u06cc\u062f\u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +71,7 @@
         }
     ],
     "wof:id":1226028817,
-    "wof:lastmodified":1537644862,
+    "wof:lastmodified":1564119477,
     "wof:name":"Jamshidabad",
     "wof:parent_id":1108719857,
     "wof:placetype":"locality",

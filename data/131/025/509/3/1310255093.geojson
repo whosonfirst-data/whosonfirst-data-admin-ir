@@ -25,11 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0648\u0643"
+    ],
     "name:fas_x_preferred":[
         "\u06af\u0648\u0643"
     ],
     "name:fas_x_variant":[
-        "\u06a9\u0644\u0648\u067e\u062f\u0647"
+        "\u06a9\u0644\u0648\u067e\u062f\u0647",
+        "\u06af\u0648\u06a9"
     ],
     "name:und_x_variant":[
         "Govak",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1310255093,
-    "wof:lastmodified":1537645100,
+    "wof:lastmodified":1564115370,
     "wof:name":"Kalupedeh",
     "wof:parent_id":1108719861,
     "wof:placetype":"locality",

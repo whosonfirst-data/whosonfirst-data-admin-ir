@@ -25,11 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0645\u0646\u0648\u0626\u064a\u0629"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0631\u0645\u0646\u0648"
     ],
     "name:fas_x_variant":[
-        "Parman\u016b"
+        "Parman\u016b",
+        "\u067e\u0631\u0645\u0646\u0648\u0626\u06cc\u0647"
     ],
     "name:und_x_variant":[
         "Parman\u016b\u2019\u012byeh"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1344004675,
-    "wof:lastmodified":1537646496,
+    "wof:lastmodified":1564109389,
     "wof:name":"Parmanu",
     "wof:parent_id":1108719861,
     "wof:placetype":"locality",

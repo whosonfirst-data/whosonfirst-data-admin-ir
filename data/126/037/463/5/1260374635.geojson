@@ -25,6 +25,9 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Z\u012br\u0101b\u012byeh"
+    ],
     "name:fas_x_preferred":[
         "\u0632\u064a\u0631\u064a\u0646\u0650\u0647"
     ],
@@ -32,7 +35,14 @@
         "Z\u012br\u0101b\u012byeh",
         "\u0632\u06cc\u0631\u0627\u0628\u06cc\u0651\u0647",
         "Z\u012br \u0100b\u012byeh",
-        "\u0632\u06cc\u0631 \u0622\u0628\u06cc\u0647"
+        "\u0632\u06cc\u0631 \u0622\u0628\u06cc\u0647",
+        "\u0632\u06cc\u0631\u0627\u0628\u06cc\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Zirabiyeh"
+    ],
+    "name:swe_x_preferred":[
+        "Z\u012br\u0101b\u012byeh"
     ],
     "name:und_x_variant":[
         "Z\u012br\u012bneh",
@@ -62,7 +72,7 @@
         }
     ],
     "wof:id":1260374635,
-    "wof:lastmodified":1537642934,
+    "wof:lastmodified":1564114857,
     "wof:name":"Zir Abiyeh",
     "wof:parent_id":1108720205,
     "wof:placetype":"locality",

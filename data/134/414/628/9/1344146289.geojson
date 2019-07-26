@@ -25,6 +25,9 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "R\u016bd \u0100var"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u0648\u062f \u0622\u0648\u064e\u0631"
     ],
@@ -32,7 +35,14 @@
         "\u0631\u064f\u0651\u062f \u0627\u064e\u0648",
         "R\u016bd \u0100var",
         "\u0631\u0648\u062f \u0622\u0648\u0631",
-        "\u0631\u0648\u062f \u0627\u0648\u0631"
+        "\u0631\u0648\u062f \u0627\u0648\u0631",
+        "\u0631\u0648\u062f\u0627\u0648\u0631"
+    ],
+    "name:msa_x_preferred":[
+        "Rud Avar"
+    ],
+    "name:swe_x_preferred":[
+        "R\u016bd \u0100var"
     ],
     "name:und_x_variant":[
         "Rood Av",
@@ -63,7 +73,7 @@
         }
     ],
     "wof:id":1344146289,
-    "wof:lastmodified":1537643620,
+    "wof:lastmodified":1564109241,
     "wof:name":"Rud Avar",
     "wof:parent_id":1108720505,
     "wof:placetype":"locality",

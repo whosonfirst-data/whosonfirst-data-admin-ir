@@ -25,13 +25,20 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "S\u012b\u0101vosh"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u064a\u0627\u0648\u0634"
     ],
     "name:fas_x_variant":[
         "S\u012b\u0101vosh\u0101b\u0101d",
         "S\u012b\u0101vosh",
-        "\u0633\u06cc\u0627\u0648\u0634 \u0622\u0628\u0627\u062f"
+        "\u0633\u06cc\u0627\u0648\u0634 \u0622\u0628\u0627\u062f",
+        "\u0633\u06cc\u0627\u0648\u0634\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:swe_x_preferred":[
+        "S\u012b\u0101vosh"
     ],
     "name:und_x_variant":[
         "Sey\u0101vash\u0101b\u0101d",
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":1326585873,
-    "wof:lastmodified":1537643273,
+    "wof:lastmodified":1564107845,
     "wof:name":"Siavoshabad",
     "wof:parent_id":1108719843,
     "wof:placetype":"locality",

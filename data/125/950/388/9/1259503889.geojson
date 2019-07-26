@@ -29,7 +29,11 @@
         "Tang \u0100b"
     ],
     "name:fas_x_variant":[
-        "\u062a\u0646\u06af \u0622\u0628"
+        "\u062a\u0646\u06af \u0622\u0628",
+        "\u062a\u0646\u06af\u200c\u0622\u0628"
+    ],
+    "name:msa_x_preferred":[
+        "Tang Ab"
     ],
     "name:und_x_variant":[
         "\u062a\u0646\u06af \u0622\u0628"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1259503889,
-    "wof:lastmodified":1537642619,
+    "wof:lastmodified":1564118657,
     "wof:name":"Tang Ab",
     "wof:parent_id":1108720209,
     "wof:placetype":"locality",

@@ -25,10 +25,17 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Qoreysh\u0101b\u0101d"
+    ],
     "name:fas_x_preferred":[
         "\u0642\u0631\u06cc\u0634 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
+        "Qoreysh\u0101b\u0101d",
+        "\u0642\u0631\u06cc\u0634\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:swe_x_preferred":[
         "Qoreysh\u0101b\u0101d"
     ],
     "src:geom":"geonames",
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1226472071,
-    "wof:lastmodified":1537643711,
+    "wof:lastmodified":1564119998,
     "wof:name":"Qoreyshabad",
     "wof:parent_id":1108720279,
     "wof:placetype":"locality",

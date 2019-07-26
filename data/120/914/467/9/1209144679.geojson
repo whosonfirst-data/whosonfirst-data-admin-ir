@@ -25,11 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0634\u06a9\u0648\u0631\u0686\u06cc"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u0643\u0631\u0686\u06cc"
     ],
     "name:fas_x_variant":[
-        "Shokorch\u012b"
+        "Shokorch\u012b",
+        "\u0634\u06a9\u0648\u0631\u0686\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209144679,
-    "wof:lastmodified":1537641127,
+    "wof:lastmodified":1564113546,
     "wof:name":"Shokorchi",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",

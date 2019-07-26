@@ -25,6 +25,12 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0644\u0648\u0644 \u0647\u0627\u0645"
+    ],
+    "name:aze_x_preferred":[
+        "L\u00fclh\u0259m"
+    ],
     "name:fas_x_preferred":[
         "\u0644\u0648\u0644\u0647\u0627\u0645"
     ],
@@ -32,7 +38,14 @@
         "\u0644\u0644\u0647\u0627\u0645",
         "L\u016blh\u0101m",
         "\u06af\u064f\u0644\u0647\u0627\u0645",
-        "Lolh\u0101m"
+        "Lolh\u0101m",
+        "\u0644\u0648\u0644 \u0647\u0627\u0645"
+    ],
+    "name:msa_x_preferred":[
+        "Lulham"
+    ],
+    "name:pol_x_preferred":[
+        "Lulham"
     ],
     "name:und_x_variant":[
         "Golh\u0101m"
@@ -61,7 +74,7 @@
         }
     ],
     "wof:id":1310415155,
-    "wof:lastmodified":1537640985,
+    "wof:lastmodified":1564115298,
     "wof:name":"Lolham",
     "wof:parent_id":1108720289,
     "wof:placetype":"locality",

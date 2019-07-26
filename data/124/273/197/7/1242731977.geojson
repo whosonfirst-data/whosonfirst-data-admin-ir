@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0647\u0631\u0648\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0647 \u0631\u0648\u062f"
     ],
     "name:fas_x_variant":[
-        "Dehr\u016bd"
+        "Dehr\u016bd",
+        "\u062f\u0647\u200c\u0631\u0648\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Dehrud"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1242731977,
-    "wof:lastmodified":1537641953,
+    "wof:lastmodified":1564117172,
     "wof:name":"Dehrud",
     "wof:parent_id":1108719791,
     "wof:placetype":"locality",

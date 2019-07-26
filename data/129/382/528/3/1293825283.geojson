@@ -25,12 +25,25 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0644\u064a\u062a\u0631"
+    ],
+    "name:ceb_x_preferred":[
+        "Goleyt\u0101r Bol\u0101gh\u012b"
+    ],
     "name:fas_x_preferred":[
         "Goleyt\u0101r Bol\u0101gh\u012b"
     ],
     "name:fas_x_variant":[
         "\u06af\u0644\u06cc\u062a\u0627\u0631 \u0628\u0644\u0627\u063a\u06cc",
-        "\u06af\u0644\u06cc\u062a\u0627\u0631"
+        "\u06af\u0644\u06cc\u062a\u0627\u0631",
+        "\u06af\u0644\u06cc\u062a\u0631"
+    ],
+    "name:msa_x_preferred":[
+        "Goleytar"
+    ],
+    "name:swe_x_preferred":[
+        "Goleyt\u0101r Bol\u0101gh\u012b"
     ],
     "name:und_x_variant":[
         "Goleytar",
@@ -60,7 +73,7 @@
         }
     ],
     "wof:id":1293825283,
-    "wof:lastmodified":1537641159,
+    "wof:lastmodified":1564110908,
     "wof:name":"Goleytar Bolaghi",
     "wof:parent_id":1108719929,
     "wof:placetype":"locality",

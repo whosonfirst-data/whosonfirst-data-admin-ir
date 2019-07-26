@@ -29,7 +29,14 @@
         "\u016ach Tappeh"
     ],
     "name:fas_x_variant":[
-        "\u0627\u0648\u0686 \u062a\u067e\u0647"
+        "\u0627\u0648\u0686 \u062a\u067e\u0647",
+        "\u0627\u0648\u0686\u200c\u062a\u067e\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Uch Tappeh"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0686 \u062a\u067e\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1276747539,
-    "wof:lastmodified":1537643083,
+    "wof:lastmodified":1564111944,
     "wof:name":"Uch Tappeh",
     "wof:parent_id":1108720205,
     "wof:placetype":"locality",

@@ -31,12 +31,19 @@
     "name:fas_x_variant":[
         "\u064a\u0650\u06af\u064e\u0646 \u0622\u0628\u0627\u062f",
         "Yekan\u0101b\u0101d",
-        "\u06cc\u06a9\u0646 \u0622\u0628\u0627\u062f"
+        "\u06cc\u06a9\u0646 \u0622\u0628\u0627\u062f",
+        "\u06cc\u06a9\u0646\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Yekanabad"
     ],
     "name:und_x_variant":[
         "Yegan\u0101b\u0101d",
         "Yeng\u0101b\u0101d",
         "Yegn\u0101b\u0101d",
+        "\u06cc\u06a9\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:urd_x_preferred":[
         "\u06cc\u06a9\u0646 \u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":1276317295,
-    "wof:lastmodified":1537643013,
+    "wof:lastmodified":1564112875,
     "wof:name":"Yekanabad",
     "wof:parent_id":1108720047,
     "wof:placetype":"locality",

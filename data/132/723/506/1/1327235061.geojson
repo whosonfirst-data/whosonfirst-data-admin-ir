@@ -25,12 +25,31 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0648\u0631\u0647 \u0628\u0631\u0627\u0632"
+    ],
+    "name:aze_x_preferred":[
+        "Qarabaraz"
+    ],
+    "name:ceb_x_preferred":[
+        "Qarah Bar\u0101z"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0642\u0648\u0695\u06d5\u0628\u06d5\u0631\u0627\u0632"
+    ],
     "name:fas_x_preferred":[
         "\u0642\u064e\u0631\u0650\u0647 \u0628\u064e\u0631\u0627\u0631"
     ],
     "name:fas_x_variant":[
         "\u0642\u0631\u0647 \u0628\u0631\u0627\u0632",
         "Qareh Bar\u0101r",
+        "Qarah Bar\u0101z",
+        "\u0642\u0631\u0647\u200c\u0628\u0631\u0627\u0632"
+    ],
+    "name:msa_x_preferred":[
+        "Qarah Baraz"
+    ],
+    "name:swe_x_preferred":[
         "Qarah Bar\u0101z"
     ],
     "src:geom":"geonames",
@@ -57,7 +76,7 @@
         }
     ],
     "wof:id":1327235061,
-    "wof:lastmodified":1537640264,
+    "wof:lastmodified":1564108120,
     "wof:name":"Qarah Baraz",
     "wof:parent_id":1108719915,
     "wof:placetype":"locality",

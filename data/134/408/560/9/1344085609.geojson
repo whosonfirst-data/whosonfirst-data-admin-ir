@@ -25,11 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0645\u064a\u0631\u0622\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0645\u06cc\u0631 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "Am\u012br\u0101b\u0101d"
+        "Am\u012br\u0101b\u0101d",
+        "\u0627\u0645\u06cc\u0631\u0622\u0628\u0627\u062f"
     ],
     "name:und_x_variant":[
         "Deh Now"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1344085609,
-    "wof:lastmodified":1537641886,
+    "wof:lastmodified":1564109332,
     "wof:name":"Amirabad",
     "wof:parent_id":1108720497,
     "wof:placetype":"locality",

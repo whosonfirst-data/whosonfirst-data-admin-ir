@@ -25,13 +25,26 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "F\u012br\u016bz\u0101b\u0101d-e P\u0101'\u012bn"
+    ],
+    "name:ckb_x_preferred":[
+        "\u067e\u06cc\u0631\u0648\u0648\u0632\u0627\u0648\u0627 \u06a9\u06d5\u06b5\u0646"
+    ],
     "name:fas_x_preferred":[
         "F\u012br\u016bz\u0101b\u0101d-e Sofl\u00e1"
     ],
     "name:fas_x_variant":[
         "F\u012br\u016bz\u0101b\u0101d-e P\u0101\u2019\u012bn",
         "\u0641\u06cc\u0631\u0648\u0632 \u0622\u0628\u0627\u062f \u067e\u0627\u0626\u06cc\u0646",
-        "\u0641\u06cc\u0631\u0648\u0632 \u0622\u0628\u0627\u062f \u0633\u0641\u0644\u06cc"
+        "\u0641\u06cc\u0631\u0648\u0632 \u0622\u0628\u0627\u062f \u0633\u0641\u0644\u06cc",
+        "\u0641\u06cc\u0631\u0648\u0632\u0622\u0628\u0627\u062f \u0633\u0641\u0644\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Firuzabad-e Sofla"
+    ],
+    "name:swe_x_preferred":[
+        "F\u012br\u016bz\u0101b\u0101d-e P\u0101'\u012bn"
     ],
     "name:und_x_variant":[
         "F\u012br\u016bz\u0101b\u0101d P\u0101\u2019\u012bn",
@@ -62,7 +75,7 @@
         }
     ],
     "wof:id":1327024253,
-    "wof:lastmodified":1537645274,
+    "wof:lastmodified":1564108215,
     "wof:name":"Firuzabad-e Sofla",
     "wof:parent_id":1108720257,
     "wof:placetype":"locality",
