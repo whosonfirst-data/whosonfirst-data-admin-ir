@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u064a\u0622\u0628\u0627\u062f \u0628\u0647\u0645\u0646 \u062c\u0627\u0646"
+    ],
     "name:fas_x_preferred":[
         "\u0639\u0644\u06cc \u0622\u0628\u0627\u062f \u0628\u0647\u0645\u0646 \u062c\u0627\u0646"
     ],
     "name:fas_x_variant":[
-        "\u2018Al\u012b\u0101b\u0101d-e Bahman J\u0101n"
+        "\u2018Al\u012b\u0101b\u0101d-e Bahman J\u0101n",
+        "\u0639\u0644\u06cc\u200c\u0622\u0628\u0627\u062f \u0628\u0647\u0645\u0646 \u062c\u0627\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Aliabad-e Bahman D\u017can"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1243393051,
-    "wof:lastmodified":1537641735,
+    "wof:lastmodified":1564117102,
     "wof:name":"`Aliabad-e Bahman Jan",
     "wof:parent_id":1108719931,
     "wof:placetype":"locality",

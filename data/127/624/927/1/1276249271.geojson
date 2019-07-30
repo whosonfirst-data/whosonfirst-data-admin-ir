@@ -29,7 +29,11 @@
         "\u0100b Sef\u012bd"
     ],
     "name:fas_x_variant":[
-        "\u0622\u0628 \u0633\u0641\u06cc\u062f"
+        "\u0622\u0628 \u0633\u0641\u06cc\u062f",
+        "\u0622\u0628\u200c\u0633\u0641\u06cc\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Ab Sefid"
     ],
     "name:und_x_variant":[
         "\u0622\u0628 \u0633\u0641\u06cc\u062f"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1276249271,
-    "wof:lastmodified":1537646315,
+    "wof:lastmodified":1564112547,
     "wof:name":"Ab Sefid",
     "wof:parent_id":1108720209,
     "wof:placetype":"locality",

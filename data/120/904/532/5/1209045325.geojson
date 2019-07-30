@@ -25,12 +25,19 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648 \u063a\u0646\u062a\u0634\u064a"
+    ],
     "name:fas_x_preferred":[
         "Do Gonj\u012b"
     ],
     "name:fas_x_variant":[
         "Do G\u016bnch\u012b",
-        "\u062f\u0648 \u06af\u0648\u0646\u0686\u06cc"
+        "\u062f\u0648 \u06af\u0648\u0646\u0686\u06cc",
+        "\u062f\u0648\u06af\u0648\u0646\u0686\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Do Gunchi"
     ],
     "name:und_x_variant":[
         "Do G\u016bnch\u012b",
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1209045325,
-    "wof:lastmodified":1537642249,
+    "wof:lastmodified":1564113678,
     "wof:name":"Do Gunchi",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",

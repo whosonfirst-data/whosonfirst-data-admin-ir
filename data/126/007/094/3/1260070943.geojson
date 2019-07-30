@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0631\u0629 \u0627\u0647\u06a9\u064a"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0631\u0647 \u0622\u0647\u06a9\u06cc"
     ],
     "name:fas_x_variant":[
-        "Darreh \u0100hak\u012b"
+        "Darreh \u0100hak\u012b",
+        "\u062f\u0631\u0647 \u0627\u0647\u06a9\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Darreh Ahaki"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1260070943,
-    "wof:lastmodified":1537642496,
+    "wof:lastmodified":1564114790,
     "wof:name":"Darreh Ahaki",
     "wof:parent_id":1108719827,
     "wof:placetype":"locality",

@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "K\u0259rimabad"
+    ],
+    "name:deu_x_preferred":[
+        "Karimabad"
+    ],
     "name:fas_x_preferred":[
         "Farn\u016bh\u0101"
     ],
     "name:fas_x_variant":[
-        "\u06a9\u0631\u064a\u0645 \u0622\u0628\u0627\u062f"
+        "\u06a9\u0631\u064a\u0645 \u0622\u0628\u0627\u062f",
+        "\u06a9\u0631\u06cc\u0645\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:ita_x_preferred":[
+        "Karimabad"
     ],
     "name:und_x_variant":[
         "Kar\u012bm\u0101b\u0101d",
@@ -52,7 +62,7 @@
         }
     ],
     "wof:id":1209657715,
-    "wof:lastmodified":1537641668,
+    "wof:lastmodified":1564113041,
     "wof:name":"Karimabad",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",

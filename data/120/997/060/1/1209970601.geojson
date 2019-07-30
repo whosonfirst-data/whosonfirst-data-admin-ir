@@ -25,11 +25,24 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0627\u0648 \u062e\u0627\u0646\u0629"
+    ],
+    "name:ceb_x_preferred":[
+        "G\u0101v Kh\u0101neh"
+    ],
     "name:fas_x_preferred":[
         "G\u0101v Kh\u0101neh"
     ],
     "name:fas_x_variant":[
-        "\u06af\u0627\u0648 \u062e\u0627\u0646\u0647"
+        "\u06af\u0627\u0648 \u062e\u0627\u0646\u0647",
+        "\u06af\u0627\u0648\u062e\u0627\u0646\u0647"
+    ],
+    "name:swe_x_preferred":[
+        "G\u0101v Kh\u0101neh"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u0430\u0432-\u0425\u0430\u043d\u0435"
     ],
     "name:und_x_variant":[
         "G\u0101ukh\u0101neh",
@@ -59,7 +72,7 @@
         }
     ],
     "wof:id":1209970601,
-    "wof:lastmodified":1537645210,
+    "wof:lastmodified":1564113187,
     "wof:name":"Gav Khaneh",
     "wof:parent_id":1108720443,
     "wof:placetype":"locality",

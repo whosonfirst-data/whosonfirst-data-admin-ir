@@ -25,12 +25,19 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0647\u0631 \u062d\u0633\u0646"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0647\u0631 \u062d\u0633\u06cc\u0646"
     ],
     "name:fas_x_variant":[
         "Nahr-e \u1e28oseyn",
-        "\u0646\u0647\u0631 \u062d\u0633\u0646"
+        "\u0646\u0647\u0631 \u062d\u0633\u0646",
+        "\u0646\u0647\u0631\u062d\u0633\u0646"
+    ],
+    "name:msa_x_preferred":[
+        "Nahr-e Hasan"
     ],
     "name:und_x_variant":[
         "Nahr-e \u1e28asan"
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":1243450955,
-    "wof:lastmodified":1537647818,
+    "wof:lastmodified":1564118120,
     "wof:name":"Nahr-e Hoseyn",
     "wof:parent_id":1108719939,
     "wof:placetype":"locality",

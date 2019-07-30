@@ -25,6 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0644\u063a\u0629 \u062f\u0631\u0629 \u064a\u0643"
+    ],
+    "name:azb_x_preferred":[
+        "\u0643\u0644\u06af\u0647 \u062f\u0631\u0647 \u06cc\u0643(\u0627\u0646\u062f\u06cc\u0645\u0634\u06a9)"
+    ],
+    "name:ceb_x_preferred":[
+        "Kalakdarreh-ye Yek"
+    ],
     "name:fas_x_preferred":[
         "\u0643\u0644\u06af\u062f\u0631\u0647 \u064a\u06a9"
     ],
@@ -34,7 +43,11 @@
         "\u0643\u064e\u0644\u064e\u0643 \u062f\u064e\u0631\u0650\u0651\u0647",
         "\u06a9\u0644\u06a9\u062f\u0631\u0651\u0647 \u06cc\u06a9",
         "\u06a9\u0644\u06a9 \u062f\u0631\u0647 \u0634\u0645\u0627\u0631\u0647 \u06cc\u06a9",
-        "\u0643\u0644\u06af\u0647 \u062f\u0631\u0647 \u064a\u06a9"
+        "\u0643\u0644\u06af\u0647 \u062f\u0631\u0647 \u064a\u06a9",
+        "\u06a9\u0644\u06af\u0647\u200c\u062f\u0631\u0647 \u06cc\u06a9"
+    ],
+    "name:swe_x_preferred":[
+        "Kalakdarreh-ye Yek"
     ],
     "name:und_x_variant":[
         "Kalak Darreh",
@@ -69,7 +82,7 @@
         }
     ],
     "wof:id":1343232071,
-    "wof:lastmodified":1537644733,
+    "wof:lastmodified":1564109542,
     "wof:name":"Kolak Darreh-ye Shomarh Yek",
     "wof:parent_id":1108719811,
     "wof:placetype":"locality",

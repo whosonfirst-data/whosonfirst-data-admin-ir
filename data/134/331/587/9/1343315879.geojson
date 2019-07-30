@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Aminabad"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0626\u06d5\u0645\u06cc\u0646\u0627\u0648\u0627"
+    ],
     "name:fas_x_preferred":[
         "Am\u012bn\u0101b\u0101d"
     ],
     "name:fas_x_variant":[
-        "\u0627\u0645\u064a\u0646 \u0622\u0628\u0627\u062f"
+        "\u0627\u0645\u064a\u0646 \u0622\u0628\u0627\u062f",
+        "\u0627\u0645\u06cc\u0646\u200c\u0622\u0628\u0627\u062f"
     ],
     "name:und_x_variant":[
         "Amini Abad",
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1343315879,
-    "wof:lastmodified":1537646200,
+    "wof:lastmodified":1564108957,
     "wof:name":"Aminabad",
     "wof:parent_id":1108720137,
     "wof:placetype":"locality",

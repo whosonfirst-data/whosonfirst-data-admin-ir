@@ -25,6 +25,12 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0627\u0631\u0629"
+    ],
+    "name:ceb_x_preferred":[
+        "B\u012b\u0101reh"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u064a\u0651\u0627\u0631\u0650\u0647"
     ],
@@ -32,7 +38,11 @@
         "\u0628\u0650\u064a\u0627\u0631\u0650",
         "\u0628\u0650\u064a\u0627\u0631\u0650\u0647",
         "B\u012b\u0101reh",
-        "\u0628\u064a\u0627\u0631\u0647"
+        "\u0628\u064a\u0627\u0631\u0647",
+        "\u0628\u06cc\u0627\u0631\u0647"
+    ],
+    "name:swe_x_preferred":[
+        "B\u012b\u0101reh"
     ],
     "name:und_x_variant":[
         "B\u012by\u0101reh",
@@ -64,7 +74,7 @@
         }
     ],
     "wof:id":1293593755,
-    "wof:lastmodified":1537645902,
+    "wof:lastmodified":1564111053,
     "wof:name":"Biareh",
     "wof:parent_id":1108719965,
     "wof:placetype":"locality",

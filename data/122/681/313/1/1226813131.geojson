@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sheykh Rash"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u0650\u064a\u062e \u0631\u064e\u0634"
     ],
     "name:fas_x_variant":[
-        "\u0634\u06cc\u062e \u0631\u0634"
+        "\u0634\u06cc\u062e \u0631\u0634",
+        "\u0634\u06cc\u062e\u200c\u0631\u0634"
+    ],
+    "name:swe_x_preferred":[
+        "Sheykh Rash"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1226813131,
-    "wof:lastmodified":1537641203,
+    "wof:lastmodified":1564119157,
     "wof:name":"Sheykh Rash",
     "wof:parent_id":1108720099,
     "wof:placetype":"locality",

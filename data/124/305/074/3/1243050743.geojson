@@ -25,11 +25,24 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u064a\u0633\u064a\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u063a\u06cc\u062b\u06cc\u0647(\u062e\u0631\u0645\u0634\u0647\u0631)"
+    ],
+    "name:ceb_x_preferred":[
+        "Gheysheh"
+    ],
     "name:fas_x_preferred":[
         "\u063a\u06cc\u0634\u0647"
     ],
     "name:fas_x_variant":[
-        "Gheys\u0304\u012byeh"
+        "Gheys\u0304\u012byeh",
+        "\u063a\u06cc\u062b\u06cc\u0647"
+    ],
+    "name:swe_x_preferred":[
+        "Gheysheh"
     ],
     "name:und_x_variant":[
         "Nahr-e Gheys\u0304\u012byeh",
@@ -59,7 +72,7 @@
         }
     ],
     "wof:id":1243050743,
-    "wof:lastmodified":1537642516,
+    "wof:lastmodified":1564117748,
     "wof:name":"Gheysheh",
     "wof:parent_id":1108720151,
     "wof:placetype":"locality",

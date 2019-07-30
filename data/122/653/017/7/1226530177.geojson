@@ -25,6 +25,9 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0646\u062f\u0631\u0627\u0646"
+    ],
     "name:fas_x_preferred":[
         "\u0643\u0646\u062f\u0631\u0627\u0646"
     ],
@@ -32,7 +35,11 @@
         "\u06a9\u0646\u062f\u0648\u0631\u0627\u0646",
         "\u0643\u064f\u0646\u062f\u0627\u0631\u0648\u0646",
         "Konder\u0101n",
-        "Kand\u016br\u0101n"
+        "Kand\u016br\u0101n",
+        "\u06a9\u0646\u062f\u0631\u0627\u0646"
+    ],
+    "name:msa_x_preferred":[
+        "Konderan"
     ],
     "name:und_x_variant":[
         "Kand\u0101run",
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":1226530177,
-    "wof:lastmodified":1537644472,
+    "wof:lastmodified":1564120368,
     "wof:name":"Kanduran",
     "wof:parent_id":1108719869,
     "wof:placetype":"locality",

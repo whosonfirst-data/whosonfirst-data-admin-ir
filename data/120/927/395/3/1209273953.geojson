@@ -25,13 +25,32 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u062a\u0634\u064a\u0646 \u0633\u0641\u0644\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u0634\u0627\u063a\u0627 \u067e\u0631\u0686\u06cc\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Parch\u012bn-e P\u0101'\u012bn"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0631\u0686\u064a\u0646 \u067e\u0627\u0626\u06cc\u0646"
     ],
     "name:fas_x_variant":[
         "Parch\u012bn-e Sofl\u00e1",
         "\u067e\u064e\u0631\u0686\u064a\u0646\u0650 \u0633\u064f\u0641\u0644\u064e\u0649",
-        "Parch\u012bn-e P\u0101\u2019\u012bn"
+        "Parch\u012bn-e P\u0101\u2019\u012bn",
+        "\u067e\u0631\u0686\u06cc\u0646 \u0633\u0641\u0644\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Parchin-e Sofla"
+    ],
+    "name:mzn_x_preferred":[
+        "\u067e\u0631\u0686\u06cc\u0646 \u0633\u0641\u0644\u06cc"
+    ],
+    "name:swe_x_preferred":[
+        "Parch\u012bn-e P\u0101'\u012bn"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +70,7 @@
         }
     ],
     "wof:id":1209273953,
-    "wof:lastmodified":1537642158,
+    "wof:lastmodified":1564113893,
     "wof:name":"Parchin-e Pa'in",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",

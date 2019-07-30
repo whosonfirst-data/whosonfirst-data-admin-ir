@@ -26,10 +26,26 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0642\u0627\u0631\u0629 \u0643\u0648\u0628 \u0642\u062f\u064a\u0645"
+    ],
+    "name:azb_x_preferred":[
+        "\u0646\u0642\u0627\u0631\u0647\u200c\u06a9\u0648\u0628 \u0642\u062f\u06cc\u0645"
+    ],
+    "name:ceb_x_preferred":[
+        "Naqq\u0101reh K\u016bb-e Qad\u012bm"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0642\u0627\u0631\u0647 \u0643\u0648\u0628 \u0642\u062f\u064a\u0645"
     ],
     "name:fas_x_variant":[
+        "Naqq\u0101reh K\u016bb-e Qad\u012bm",
+        "\u0646\u0642\u0627\u0631\u0647\u200c\u06a9\u0648\u0628 \u0642\u062f\u06cc\u0645"
+    ],
+    "name:msa_x_preferred":[
+        "Naqqareh Kub-e Qadim"
+    ],
+    "name:swe_x_preferred":[
         "Naqq\u0101reh K\u016bb-e Qad\u012bm"
     ],
     "src:geom":"geonames",
@@ -56,7 +72,7 @@
         }
     ],
     "wof:id":1225985755,
-    "wof:lastmodified":1537640687,
+    "wof:lastmodified":1564119881,
     "wof:name":"Naqqareh Kub-e Qadim",
     "wof:parent_id":1108719791,
     "wof:placetype":"locality",

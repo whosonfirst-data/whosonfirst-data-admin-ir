@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0642\u0627\u0636\u06cc\u200c\u0648\u0644\u06cc"
+    ],
     "name:fas_x_preferred":[
         "\u0642\u0627\u0636\u06cc \u0648\u0644\u06cc"
     ],
     "name:fas_x_variant":[
-        "Q\u0101\u1e95\u012b Val\u012b"
+        "Q\u0101\u1e95\u012b Val\u012b",
+        "\u0642\u0627\u0636\u06cc\u200c\u0648\u0644\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Qazi Vali"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1226589257,
-    "wof:lastmodified":1537641142,
+    "wof:lastmodified":1564119567,
     "wof:name":"Qazi Vali",
     "wof:parent_id":1108720247,
     "wof:placetype":"locality",

@@ -25,12 +25,22 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0622\u0634\u0627\u063a\u0627 \u0627\u06cc\u0644\u0627\u0646 \u0642\u0627\u0631\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "A\u015fa\u011f\u0131 \u0130lanqara"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0644\u0627\u0646 \u0642\u0631\u0647 \u0633\u0641\u0644\u06cc"
     ],
     "name:fas_x_variant":[
         "\u064a\u0644\u0627\u0646\u0642\u064e\u0631\u064e\u06c0 \u067e\u0627\u0626\u064a\u0646",
-        "\u012al\u0101n Qarah-ye Sofl\u00e1"
+        "\u012al\u0101n Qarah-ye Sofl\u00e1",
+        "\u0627\u06cc\u0644\u0627\u0646\u200c\u0642\u0631\u0647 \u0633\u0641\u0644\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Ilan Qarah-ye Sofla"
     ],
     "name:und_x_variant":[
         "\u012al\u0101nqarah-ye P\u0101\u2019\u012bn"
@@ -59,7 +69,7 @@
         }
     ],
     "wof:id":1242791395,
-    "wof:lastmodified":1537640788,
+    "wof:lastmodified":1564117830,
     "wof:name":"Ilan Qarah-ye Sofla",
     "wof:parent_id":1108720203,
     "wof:placetype":"locality",

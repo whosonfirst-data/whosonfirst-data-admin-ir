@@ -25,12 +25,22 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0631 \u0641\u0636\u0644 \u0627\u0644\u0644\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "M\u012br Fey\u1e95oll\u0101h"
+    ],
     "name:fas_x_preferred":[
         "M\u012br Fey\u1e95oll\u0101h"
     ],
     "name:fas_x_variant":[
         "M\u012br Fa\u1e95loll\u0101h",
-        "\u0645\u06cc\u0631 \u0641\u06cc\u0636 \ufdf2"
+        "\u0645\u06cc\u0631 \u0641\u06cc\u0636 \ufdf2",
+        "\u0645\u06cc\u0631\u0641\u0636\u0644\u200c\u0627\u0644\u0644\u0647"
+    ],
+    "name:swe_x_preferred":[
+        "M\u012br Fey\u1e95oll\u0101h"
     ],
     "name:und_x_variant":[
         "M\u012br Feyzollah",
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":1209134917,
-    "wof:lastmodified":1537644197,
+    "wof:lastmodified":1564113535,
     "wof:name":"Mir Feyzollah",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",

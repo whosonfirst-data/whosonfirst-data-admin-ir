@@ -25,13 +25,32 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u062e\u0631\u0632"
+    ],
+    "name:aze_x_preferred":[
+        "Bax\u0259rz"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u06cc \u0628\u0627\u062e\u0631\u0632"
     ],
     "name:fas_x_variant":[
         "Ost\u0101-ye B\u0101kharz",
         "Ost\u0101d B\u0101kharz",
-        "Ost\u0101d"
+        "Ost\u0101d",
+        "\u0628\u0627\u062e\u0631\u0632"
+    ],
+    "name:ita_x_preferred":[
+        "Bakhroz"
+    ],
+    "name:mlg_x_preferred":[
+        "Bakharz"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0445\u0430\u0440\u0437"
+    ],
+    "name:tur_x_preferred":[
+        "Baherz"
     ],
     "name:und_x_variant":[
         "Usta",
@@ -63,7 +82,7 @@
         }
     ],
     "wof:id":1226472029,
-    "wof:lastmodified":1537647014,
+    "wof:lastmodified":1564119992,
     "wof:name":"Osta-ye Bakharz",
     "wof:parent_id":1108720489,
     "wof:placetype":"locality",

@@ -25,13 +25,26 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u064a\u0642\u0631\u062a\u0634\u0645\u0646 \u0627\u0644\u0633\u0641\u0644\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u06cc\u0642\u0631\u0686\u0645\u0646 \u0633\u0641\u0644\u06cc"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u06cc\u0642\u0631 \u0686\u0645\u0646 \u062f\u0648"
     ],
     "name:fas_x_variant":[
         "\u0100yqer Chaman-e Sofl\u00e1",
         "\u0100yqer Chaman-e Do",
-        "\u0622\u06cc\u0642\u0631 \u0686\u0645\u0646 \u0633\u0641\u0644\u06cc"
+        "\u0622\u06cc\u0642\u0631 \u0686\u0645\u0646 \u0633\u0641\u0644\u06cc",
+        "\u0622\u06cc\u0642\u0631\u0686\u0645\u0646 \u0633\u0641\u0644\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Ayqer Chaman-e Sofla"
+    ],
+    "name:tur_x_preferred":[
+        "Yukar\u0131 Ayk\u0131r\u00e7imen"
     ],
     "name:und_x_variant":[
         "\u0100yqer Chaman-e Do"
@@ -60,7 +73,7 @@
         }
     ],
     "wof:id":1360129965,
-    "wof:lastmodified":1537641173,
+    "wof:lastmodified":1564116159,
     "wof:name":"Ayqer Chaman-e Sofla",
     "wof:parent_id":1108719907,
     "wof:placetype":"locality",

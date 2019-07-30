@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062d\u0644\u0627\u062c \u0622\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u062d\u0644\u0627\u062c \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "\u1e28all\u0101j\u0101b\u0101d"
+        "\u1e28all\u0101j\u0101b\u0101d",
+        "\u062d\u0644\u0627\u062c\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Hallajabad"
+    ],
+    "name:mzn_x_preferred":[
+        "\u062d\u0644\u0627\u062c\u200c\u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":1209976315,
-    "wof:lastmodified":1537640919,
+    "wof:lastmodified":1564113187,
     "wof:name":"Hallajabad",
     "wof:parent_id":1108720297,
     "wof:placetype":"locality",

@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0646\u0647\u063a\u0631\u062f"
+    ],
+    "name:ceb_x_preferred":[
+        "B\u012bnegerd"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u06cc\u0646\u06af\u0631\u062f"
     ],
     "name:fas_x_variant":[
         "B\u012bn-e Gerd",
+        "B\u012bnegerd",
+        "\u0628\u06cc\u0646\u0647\u200c\u06af\u0631\u062f"
+    ],
+    "name:swe_x_preferred":[
         "B\u012bnegerd"
     ],
     "name:und_x_variant":[
@@ -59,7 +69,7 @@
         }
     ],
     "wof:id":1209887317,
-    "wof:lastmodified":1537641328,
+    "wof:lastmodified":1564114086,
     "wof:name":"Binegerd",
     "wof:parent_id":1108720031,
     "wof:placetype":"locality",

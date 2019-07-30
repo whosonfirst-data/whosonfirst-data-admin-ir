@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cheshmeh \u0100vash"
+    ],
     "name:fas_x_preferred":[
         "\u0686\u0634\u0645\u0647 \u0622\u0648\u0634"
     ],
     "name:fas_x_variant":[
         "Cheshmeh \u0100veshk",
+        "Cheshmeh \u0100vash",
+        "\u0686\u0634\u0645\u0647 \u0627\u0648\u0634"
+    ],
+    "name:swe_x_preferred":[
         "Cheshmeh \u0100vash"
     ],
     "src:geom":"geonames",
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":1326659765,
-    "wof:lastmodified":1537640384,
+    "wof:lastmodified":1564108619,
     "wof:name":"Cheshmeh Avash",
     "wof:parent_id":1108720367,
     "wof:placetype":"locality",

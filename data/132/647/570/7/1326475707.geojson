@@ -25,12 +25,22 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0646\u062f\u0631 \u0623\u063a\u0627\u062c"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u0646\u062f\u06cc\u0631\u0622\u063a\u0627\u062c"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0646\u0648\u0631 \u0622\u063a\u0627\u062c"
     ],
     "name:fas_x_variant":[
         "Tan\u016br \u0100gh\u0101j",
-        "\u062a\u0646\u062f\u0631 \u0622\u063a\u0627\u062c"
+        "\u062a\u0646\u062f\u0631 \u0622\u063a\u0627\u062c",
+        "\u062a\u0646\u062f\u0631\u0622\u063a\u0627\u062c"
+    ],
+    "name:msa_x_preferred":[
+        "Tandar Aghaj"
     ],
     "name:und_x_variant":[
         "Tandar \u0100gh\u0101j"
@@ -59,7 +69,7 @@
         }
     ],
     "wof:id":1326475707,
-    "wof:lastmodified":1537641124,
+    "wof:lastmodified":1564108377,
     "wof:name":"Tanur Aghaj",
     "wof:parent_id":1108719907,
     "wof:placetype":"locality",

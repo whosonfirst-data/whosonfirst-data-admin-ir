@@ -25,13 +25,20 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0628 \u062d\u0631\u062f\u0627\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u062f\u0628 \u062d\u0631\u062f\u0627\u0646(\u0627\u0647\u0648\u0627\u0632)"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0651\u0628 \u062d\u0631\u062f\u0627\u0646"
     ],
     "name:fas_x_variant":[
         "D\u016bb-e \u1e28ard\u0101n",
         "Dobb-e \u1e28ard\u0101n",
-        "\u062f\u0628 \u0647\u0631\u062f\u0627\u0646"
+        "\u062f\u0628 \u0647\u0631\u062f\u0627\u0646",
+        "\u062f\u0628\u200c\u062d\u0631\u062f\u0627\u0646"
     ],
     "name:und_x_variant":[
         "Daub al Hird\u0101n",
@@ -69,7 +76,7 @@
         }
     ],
     "wof:id":1343430921,
-    "wof:lastmodified":1537645398,
+    "wof:lastmodified":1564110304,
     "wof:name":"Dobb-e Hardan",
     "wof:parent_id":1108719793,
     "wof:placetype":"locality",

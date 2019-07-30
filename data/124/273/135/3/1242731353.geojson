@@ -25,13 +25,26 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kh\u0101r\u012bk"
+    ],
     "name:fas_x_preferred":[
         "\u062e\u0627\u0631 \u064a\u06a9"
     ],
     "name:fas_x_variant":[
         "Kh\u0101r Yek",
         "Kh\u0101r\u012bk",
-        "\u062e\u0627\u0631\u064a\u06a9"
+        "\u062e\u0627\u0631\u064a\u06a9",
+        "\u062e\u0627\u0631\u06cc\u06a9"
+    ],
+    "name:msa_x_preferred":[
+        "Kharik"
+    ],
+    "name:mzn_x_preferred":[
+        "\u062e\u0627\u0631\u06cc\u06a9"
+    ],
+    "name:swe_x_preferred":[
+        "Kh\u0101r\u012bk"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +70,7 @@
         }
     ],
     "wof:id":1242731353,
-    "wof:lastmodified":1537640642,
+    "wof:lastmodified":1564117161,
     "wof:name":"Kharik",
     "wof:parent_id":1108720401,
     "wof:placetype":"locality",

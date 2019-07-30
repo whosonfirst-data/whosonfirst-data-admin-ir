@@ -25,13 +25,26 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Salk\u012bsar"
+    ],
     "name:fas_x_preferred":[
         "Salk\u012bsar"
     ],
     "name:fas_x_variant":[
         "Selk\u012b sar",
         "Sil\u2019kasar",
-        "\u0633\u0644\u06a9\u06cc\u0633\u0631"
+        "\u0633\u0644\u06a9\u06cc\u0633\u0631",
+        "\u0633\u0644\u06a9\u06cc\u200c\u0633\u0631"
+    ],
+    "name:msa_x_preferred":[
+        "Salkisar"
+    ],
+    "name:swe_x_preferred":[
+        "Salk\u012bsar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043b\u043a\u0456-\u0421\u0430\u0440"
     ],
     "name:und_x_variant":[
         "\u0633\u0644\u06a9\u06cc\u0633\u0631",
@@ -62,7 +75,7 @@
         }
     ],
     "wof:id":1243348257,
-    "wof:lastmodified":1537641601,
+    "wof:lastmodified":1564117726,
     "wof:name":"Salkisar",
     "wof:parent_id":1108720339,
     "wof:placetype":"locality",

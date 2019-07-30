@@ -25,15 +25,25 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Akhang\u016bn"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u062e\u0646\u06af\u0648\u0646"
     ],
     "name:fas_x_variant":[
         "Akhang\u0101n",
+        "Akhang\u016bn",
+        "\u0627\u062e\u0646\u06af\u0627\u0646"
+    ],
+    "name:swe_x_preferred":[
         "Akhang\u016bn"
     ],
     "name:und_x_variant":[
         "Akhang\u016bl"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u062e\u0646\u06af\u0627\u0646"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +69,7 @@
         }
     ],
     "wof:id":1326860007,
-    "wof:lastmodified":1537641706,
+    "wof:lastmodified":1564107627,
     "wof:name":"Akhangun",
     "wof:parent_id":1108720227,
     "wof:placetype":"locality",

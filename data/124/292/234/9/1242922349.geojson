@@ -25,13 +25,23 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0631\u0644\u0648\u064a\u064a \u0643\u0627\u0644\u0628\u0627\u0644\u0648"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0627\u0631\u0627\u0644\u0644\u06cc \u06a9\u0644\u0628\u0644\u0648"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u0631\u0627\u0644\u0651\u0648\u06cc \u0643\u064e\u0644\u0628\u064e\u0644\u0648"
     ],
     "name:fas_x_variant":[
         "\u0645\u0631\u0627\u0644\u0648",
         "M\u0101r\u0101ll\u016b-ye Kalbal\u016b",
-        "Mar\u0101ll\u016b"
+        "Mar\u0101ll\u016b",
+        "\u0645\u0627\u0631\u0627\u0644\u0644\u0648\u06cc \u06a9\u0644\u0628\u0644\u0648"
+    ],
+    "name:msa_x_preferred":[
+        "Marallui-ye Kalbalu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":1242922349,
-    "wof:lastmodified":1537640720,
+    "wof:lastmodified":1564117280,
     "wof:name":"Marallu",
     "wof:parent_id":1108720021,
     "wof:placetype":"locality",

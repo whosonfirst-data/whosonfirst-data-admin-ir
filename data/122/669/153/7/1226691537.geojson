@@ -25,13 +25,23 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u062d \u06a9\u0646\u062f\u064a"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0631\u0648\u0641 \u0643\u0646\u062f\u06cc"
     ],
     "name:fas_x_variant":[
         "R\u016b\u1e29 Kand\u012b",
         "\u0631\u0648\u062d \u0643\u064e\u0646\u062f\u06cc",
-        "Or\u016bf Kand\u012b"
+        "Or\u016bf Kand\u012b",
+        "\u0631\u0648\u062d\u200c\u06a9\u0646\u062f\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Ruh Kandi"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0631\u0648\u062d\u200c\u06a9\u0646\u062f\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":1226691537,
-    "wof:lastmodified":1537642153,
+    "wof:lastmodified":1564119513,
     "wof:name":"Oruf Kandi",
     "wof:parent_id":1108719893,
     "wof:placetype":"locality",

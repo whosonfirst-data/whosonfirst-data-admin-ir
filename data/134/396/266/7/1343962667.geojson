@@ -25,12 +25,16 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0645\u0643\u064a"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u064a\u0645\u064f\u0643\u06cc"
     ],
     "name:fas_x_variant":[
         "S\u012bm\u016bk\u012b",
-        "\u0633\u06cc\u0645\u0648\u06a9\u06cc"
+        "\u0633\u06cc\u0645\u0648\u06a9\u06cc",
+        "\u0633\u06cc\u0645\u06a9\u06cc"
     ],
     "name:und_x_variant":[
         "S\u012bmok\u012b",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1343962667,
-    "wof:lastmodified":1537643266,
+    "wof:lastmodified":1564109004,
     "wof:name":"Simuki",
     "wof:parent_id":1108720157,
     "wof:placetype":"locality",

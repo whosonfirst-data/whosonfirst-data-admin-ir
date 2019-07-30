@@ -25,12 +25,22 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0645\u064a\u0631 \u0645\u062d\u0644\u0629"
+    ],
     "name:fas_x_preferred":[
         "Khomeyr Ma\u1e29alleh"
     ],
     "name:fas_x_variant":[
         "\u062e\u0645\u06cc\u0631 \u0645\u062d\u0644\u0647",
-        "\u062e\u06cc\u0631 \u0645\u062d\u0644\u0647"
+        "\u062e\u06cc\u0631 \u0645\u062d\u0644\u0647",
+        "\u062e\u0645\u06cc\u0631\u0645\u062d\u0644\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Khomeyr Mahalleh"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u043c\u0435\u0439\u0440-\u041c\u0430\u0445\u0430\u043b\u0435"
     ],
     "name:und_x_variant":[
         "Kheyr Ma\u1e29alleh"
@@ -59,7 +69,7 @@
         }
     ],
     "wof:id":1242667621,
-    "wof:lastmodified":1537641609,
+    "wof:lastmodified":1564117294,
     "wof:name":"Khomeyr Mahalleh",
     "wof:parent_id":1108720183,
     "wof:placetype":"locality",

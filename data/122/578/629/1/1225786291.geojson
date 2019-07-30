@@ -29,7 +29,11 @@
         "P\u012br\u0101m\u0101sh\u0101n"
     ],
     "name:fas_x_variant":[
-        "\u067e\u06cc\u0631\u0647 \u0645\u0627\u0634\u0627\u0646"
+        "\u067e\u06cc\u0631\u0647 \u0645\u0627\u0634\u0627\u0646",
+        "\u067e\u06cc\u0631\u0647\u200c\u0645\u0627\u0634\u0627\u0646"
+    ],
+    "name:msa_x_preferred":[
+        "Pireh Mashan"
     ],
     "name:und_x_variant":[
         "Perah B\u0101sh\u0101n",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1225786291,
-    "wof:lastmodified":1537643927,
+    "wof:lastmodified":1564120502,
     "wof:name":"Pireh Mashan",
     "wof:parent_id":1108720097,
     "wof:placetype":"locality",

@@ -25,12 +25,19 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0632\u0646\u06cc \u0686\u0631\u0627\u063a\u200c\u0645\u0631\u062f\u0627\u0646"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0632\u0646\u06cc \u0644\u0637\u06cc\u0641"
     ],
     "name:fas_x_variant":[
         "Bezn\u012b-ye Cher\u0101gh Mard\u0101n",
-        "Bezn\u012b-ye La\u0163\u012bf"
+        "Bezn\u012b-ye La\u0163\u012bf",
+        "\u0628\u0632\u0646\u06cc \u0686\u0631\u0627\u063a\u200c\u0645\u0631\u062f\u0627\u0646"
+    ],
+    "name:msa_x_preferred":[
+        "Bezni-ye Cheragh Mardan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":1343415145,
-    "wof:lastmodified":1537641169,
+    "wof:lastmodified":1564109441,
     "wof:name":"Bezni-ye Latif",
     "wof:parent_id":1108720055,
     "wof:placetype":"locality",

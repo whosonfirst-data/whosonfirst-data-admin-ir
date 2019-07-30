@@ -25,15 +25,28 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0633\u0647\u0646\u062f\u0633\u0641\u0644\u06cc"
+    ],
+    "name:ceb_x_preferred":[
+        "Sahand-e Sofl\u00e1"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0647\u0646\u062f \u0633\u0641\u0644\u0649"
     ],
     "name:fas_x_variant":[
         "Sahand-e Sofl\u00e1",
-        "\u0633\u0647\u0646\u062f \u0622\u0628\u0627\u062f \u0633\u0641\u0644\u06cc"
+        "\u0633\u0647\u0646\u062f \u0622\u0628\u0627\u062f \u0633\u0641\u0644\u06cc",
+        "\u0633\u0647\u0646\u062f\u0633\u0641\u0644\u06cc"
+    ],
+    "name:swe_x_preferred":[
+        "Sahand-e Sofl\u00e1"
     ],
     "name:und_x_variant":[
         "Sahand\u0101b\u0101d-e Sofl\u00e1"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06be\u0646\u0688-\u0633\u0641\u0644\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +72,7 @@
         }
     ],
     "wof:id":1259722529,
-    "wof:lastmodified":1537641391,
+    "wof:lastmodified":1564119065,
     "wof:name":"Sahandabad-e Sofla",
     "wof:parent_id":1108720201,
     "wof:placetype":"locality",

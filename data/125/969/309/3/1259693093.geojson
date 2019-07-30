@@ -25,6 +25,12 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0647\u0634\u062a\u06cc\u0627\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Hasht\u012b\u0101n"
+    ],
     "name:fas_x_preferred":[
         "\u0647\u064e\u0634\u062a\u064a\u0627\u0646"
     ],
@@ -32,6 +38,15 @@
         "\u0647\u064e\u0634\u062a\u064a\u0651\u0627\u0646",
         "\u0647\u064e\u0634\u062a\u0650\u064a\u0627\u0646",
         "\u0647\u0634\u062a\u06cc\u0627\u0646",
+        "Hasht\u012b\u0101n"
+    ],
+    "name:msa_x_preferred":[
+        "Hashtian"
+    ],
+    "name:pol_x_preferred":[
+        "Hasztijan"
+    ],
+    "name:swe_x_preferred":[
         "Hasht\u012b\u0101n"
     ],
     "name:und_x_variant":[
@@ -62,7 +77,7 @@
         }
     ],
     "wof:id":1259693093,
-    "wof:lastmodified":1537644995,
+    "wof:lastmodified":1564118851,
     "wof:name":"Hashtian",
     "wof:parent_id":1108720289,
     "wof:placetype":"locality",

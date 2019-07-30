@@ -25,12 +25,25 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0647\u0631 \u0634\u064a\u0628"
+    ],
+    "name:ceb_x_preferred":[
+        "Shahr-e Sh\u012bb"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631 \u0634\u06cc\u0648"
     ],
     "name:fas_x_variant":[
         "\u0634\u0647\u0631 \u0634\u06cc\u0628",
         "Shahr-e Sh\u012bv",
+        "Shahr-e Sh\u012bb",
+        "\u0634\u0647\u0631\u0634\u06cc\u0628"
+    ],
+    "name:msa_x_preferred":[
+        "Shahr-e Shib"
+    ],
+    "name:swe_x_preferred":[
         "Shahr-e Sh\u012bb"
     ],
     "src:geom":"geonames",
@@ -57,7 +70,7 @@
         }
     ],
     "wof:id":1243434877,
-    "wof:lastmodified":1537642735,
+    "wof:lastmodified":1564118213,
     "wof:name":"Shahr-e Shib",
     "wof:parent_id":1108720077,
     "wof:placetype":"locality",

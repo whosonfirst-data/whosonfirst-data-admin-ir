@@ -25,11 +25,20 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0622\u0634\u0627\u063a\u06cc \u06af\u0631\u0645\u0627\u0628"
+    ],
+    "name:ckb_x_preferred":[
+        "\u06af\u06d5\u0631\u0645\u0627\u0648\u06cc \u062e\u0648\u0627\u0631\u06ce"
+    ],
     "name:fas_x_preferred":[
         "Garm\u0101b-e Sofl\u00e1"
     ],
     "name:fas_x_variant":[
         "\u06af\u0631\u0645\u0627\u0628 \u0633\u0641\u0644\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Garmab-e Sofla"
     ],
     "name:und_x_variant":[
         "\u06af\u0631\u0645\u0627\u0628 \u0633\u0641\u0644\u06cc"
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1259410695,
-    "wof:lastmodified":1537648109,
+    "wof:lastmodified":1564118536,
     "wof:name":"Garmab-e Sofla",
     "wof:parent_id":1108720499,
     "wof:placetype":"locality",

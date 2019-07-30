@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0646\u063a \u062a\u0634\u0627\u0631\u0643"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0646\u06af \u0686\u0627\u0631\u0643"
     ],
     "name:fas_x_variant":[
-        "Sang-e Ch\u0101rak"
+        "Sang-e Ch\u0101rak",
+        "\u0633\u0646\u06af \u0686\u0627\u0631\u06a9"
+    ],
+    "name:msa_x_preferred":[
+        "Sang-e Charak"
     ],
     "name:und_x_variant":[
         "Sang Ch\u0101rak"
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1225934677,
-    "wof:lastmodified":1537643551,
+    "wof:lastmodified":1564119103,
     "wof:name":"Sang-e Charak",
     "wof:parent_id":1108719939,
     "wof:placetype":"locality",

@@ -25,13 +25,23 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u0162azar"
+    ],
     "name:fas_x_preferred":[
         "Taz\u0304ar"
     ],
     "name:fas_x_variant":[
         "Taz\u0101r",
         "\u062a\u0630\u0631",
-        "\u062a\u0632\u0631"
+        "\u062a\u0632\u0631",
+        "\u0637\u0632\u0631"
+    ],
+    "name:sco_x_preferred":[
+        "Tazar"
+    ],
+    "name:swe_x_preferred":[
+        "\u0162azar"
     ],
     "name:und_x_variant":[
         "\u062a\u0630\u0631",
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":1259712659,
-    "wof:lastmodified":1537643146,
+    "wof:lastmodified":1564118594,
     "wof:name":"Tazar",
     "wof:parent_id":1108720073,
     "wof:placetype":"locality",

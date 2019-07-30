@@ -25,13 +25,23 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0634\u0644\u064a\u0628\u0644\u0627\u063a"
+    ],
+    "name:aze_x_preferred":[
+        "Da\u015fl\u0131 Bulaq"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0627\u0634\u0644\u06cc \u0628\u064f\u0644\u0627\u063a"
     ],
     "name:fas_x_variant":[
         "\u062f\u0627\u0634 \u0628\u0644\u0627\u063a",
         "D\u0101shl\u012b Bol\u0101gh",
-        "D\u0101sh Bol\u0101gh"
+        "D\u0101sh Bol\u0101gh",
+        "\u062f\u0627\u0634\u0644\u06cc\u200c\u0628\u0644\u0627\u063a"
+    ],
+    "name:msa_x_preferred":[
+        "Dashli Bolagh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":1276876153,
-    "wof:lastmodified":1537642282,
+    "wof:lastmodified":1564111979,
     "wof:name":"Dash Bolagh",
     "wof:parent_id":1108719923,
     "wof:placetype":"locality",

@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Babayl\u0131"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0627\u0628\u0627\u064a\u0644\u0648"
     ],
     "name:fas_x_variant":[
-        "B\u0101b\u0101yl\u016b"
+        "B\u0101b\u0101yl\u016b",
+        "\u0628\u0627\u0628\u0627\u06cc\u0644\u0648"
+    ],
+    "name:msa_x_preferred":[
+        "Babaylu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1243013497,
-    "wof:lastmodified":1537640956,
+    "wof:lastmodified":1564117068,
     "wof:name":"Babaylu",
     "wof:parent_id":1108720097,
     "wof:placetype":"locality",

@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0647\u0641\u064a\u0634"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0647 \u0641\u06cc\u0634"
     ],
     "name:fas_x_variant":[
-        "Deh F\u012bsh"
+        "Deh F\u012bsh",
+        "\u062f\u0647\u0641\u06cc\u0634"
+    ],
+    "name:msa_x_preferred":[
+        "Deh Fish"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1242598087,
-    "wof:lastmodified":1537645512,
+    "wof:lastmodified":1564117314,
     "wof:name":"Deh Fish",
     "wof:parent_id":1108720185,
     "wof:placetype":"locality",

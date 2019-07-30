@@ -25,11 +25,24 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u063a\u0629 \u064a\u0644\u0645\u0629 \u0633\u0627\u0644\u064a\u0627\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "B\u0101gheh-ye Yolmeh S\u0101l\u012b\u0101n"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0627\u063a\u0647 \u064a\u0644\u0645\u0647 \u0633\u0627\u0644\u064a\u0627\u0646"
     ],
     "name:fas_x_variant":[
-        "\u0642\u0634\u0644\u0627\u0642 \u0628\u0627\u063a\u06cc"
+        "\u0642\u0634\u0644\u0627\u0642 \u0628\u0627\u063a\u06cc",
+        "\u0628\u0627\u063a\u0647\u200c\u06cc\u0644\u0645\u0647 \u0633\u0627\u0644\u06cc\u0627\u0646"
+    ],
+    "name:msa_x_preferred":[
+        "Bagh-e Yolmeh Salian"
+    ],
+    "name:swe_x_preferred":[
+        "B\u0101gheh-ye Yolmeh S\u0101l\u012b\u0101n"
     ],
     "name:und_x_variant":[
         "B\u0101gheh-ye Yolmeh S\u0101l\u012b\u0101n",
@@ -59,7 +72,7 @@
         }
     ],
     "wof:id":1343513103,
-    "wof:lastmodified":1537642245,
+    "wof:lastmodified":1564109831,
     "wof:name":"Bagheh-ye Yolmeh Salian",
     "wof:parent_id":1108719813,
     "wof:placetype":"locality",

@@ -25,10 +25,20 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0627\u0647\u200c\u0645\u0627\u0631 \u0645\u064a\u0631\u0632\u0627\u0645\u0631\u0627\u062f"
+    ],
+    "name:ceb_x_preferred":[
+        "Sh\u0101hm\u0101r-e M\u012brz\u0101 Mor\u0101d"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u0627\u0647\u0645\u0627\u0631 \u0645\u064a\u0631\u0632\u0627 \u0645\u0631\u0627\u062f"
     ],
     "name:fas_x_variant":[
+        "Sh\u0101hm\u0101r-e M\u012brz\u0101 Mor\u0101d",
+        "\u0634\u0627\u0647\u200c\u0645\u0627\u0631 \u0645\u06cc\u0631\u0632\u0627\u0645\u0631\u0627\u062f"
+    ],
+    "name:swe_x_preferred":[
         "Sh\u0101hm\u0101r-e M\u012brz\u0101 Mor\u0101d"
     ],
     "src:geom":"geonames",
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":1243525817,
-    "wof:lastmodified":1537641347,
+    "wof:lastmodified":1564117113,
     "wof:name":"Shahmar-e Mirza Morad",
     "wof:parent_id":1108719933,
     "wof:placetype":"locality",

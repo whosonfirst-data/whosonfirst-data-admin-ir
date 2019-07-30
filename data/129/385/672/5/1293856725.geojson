@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0628\u0631\u0645\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Tall Barm\u012b"
+    ],
     "name:fas_x_preferred":[
         "Tall Barm\u012b"
     ],
     "name:fas_x_variant":[
-        "\u062a\u0644 \u0628\u0631\u0645\u06cc"
+        "\u062a\u0644 \u0628\u0631\u0645\u06cc",
+        "\u062a\u0644\u200c\u0628\u0631\u0645\u06cc"
+    ],
+    "name:swe_x_preferred":[
+        "Tall Barm\u012b"
     ],
     "name:und_x_variant":[
         "\u062a\u0644 \u0628\u0631\u0645\u06cc"
@@ -58,7 +68,7 @@
         }
     ],
     "wof:id":1293856725,
-    "wof:lastmodified":1537646466,
+    "wof:lastmodified":1564110857,
     "wof:name":"Tall Barmi",
     "wof:parent_id":1108720331,
     "wof:placetype":"locality",

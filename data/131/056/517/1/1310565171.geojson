@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0627\u0644\u064a \u0628\u0646\u064a\u0643"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0100l\u012b P\u012bnak"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u0644\u06cc \u067e\u06cc\u0646\u06a9"
     ],
     "name:fas_x_variant":[
         "\u2018\u0100l\u012b P\u012bnak",
+        "\u0100l\u012b P\u012bnak",
+        "\u0639\u0627\u0644\u06cc \u067e\u0646\u06cc\u06a9"
+    ],
+    "name:swe_x_preferred":[
         "\u0100l\u012b P\u012bnak"
     ],
     "name:und_x_variant":[
@@ -61,7 +71,7 @@
         }
     ],
     "wof:id":1310565171,
-    "wof:lastmodified":1537646218,
+    "wof:lastmodified":1564116049,
     "wof:name":"Ali Pinak",
     "wof:parent_id":1108720325,
     "wof:placetype":"locality",

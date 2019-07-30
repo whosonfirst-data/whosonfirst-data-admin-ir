@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Em\u0101m Zam\u012bn"
+    ],
     "name:fas_x_preferred":[
         "Em\u0101m Zam\u012bn"
     ],
     "name:fas_x_variant":[
-        "\u0627\u0645\u0627\u0645 \u0632\u0645\u064a\u0646"
+        "\u0627\u0645\u0627\u0645 \u0632\u0645\u064a\u0646",
+        "\u0627\u0645\u0627\u0645\u200c\u0632\u0645\u06cc\u0646"
+    ],
+    "name:swe_x_preferred":[
+        "Em\u0101m Zam\u012bn"
     ],
     "name:und_x_variant":[
         "\u0627\u0645\u0627\u0645 \u0632\u0645\u064a\u0646"
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1243112281,
-    "wof:lastmodified":1537640568,
+    "wof:lastmodified":1564118055,
     "wof:name":"Emam Zamin",
     "wof:parent_id":1108720495,
     "wof:placetype":"locality",

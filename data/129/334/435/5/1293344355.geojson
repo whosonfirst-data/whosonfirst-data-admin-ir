@@ -25,12 +25,22 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062c\u0639\u0641\u0631\u0642\u0648\u0644\u0648 \u0627\u0648\u0634\u0627\u063a\u06cc"
+    ],
     "name:fas_x_preferred":[
         "\u062c\u0639\u0641\u0631 \u0642\u0644\u06cc \u0627\u0648\u0634\u0627\u063a\u06cc"
     ],
     "name:fas_x_variant":[
         "Ja\u2019far Qol\u012b \u016ash\u0101gh\u012b",
-        "Ja\u2018far Qol\u012b Owsh\u0101gh\u012b"
+        "Ja\u2018far Qol\u012b Owsh\u0101gh\u012b",
+        "\u062c\u0639\u0641\u0631\u0642\u0644\u06cc \u0627\u0648\u0634\u0627\u063a\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Jafar Qoli Owshaghi"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0639\u0641\u0631 \u0642\u0644\u06cc \u0627\u0648\u0634\u0627\u063a\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +66,7 @@
         }
     ],
     "wof:id":1293344355,
-    "wof:lastmodified":1537646462,
+    "wof:lastmodified":1564111312,
     "wof:name":"Ja`far Qoli Owshaghi",
     "wof:parent_id":1108720097,
     "wof:placetype":"locality",

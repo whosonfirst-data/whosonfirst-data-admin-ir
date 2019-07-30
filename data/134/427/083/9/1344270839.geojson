@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Zaviyehe H\u0259s\u0259nxan"
+    ],
     "name:fas_x_preferred":[
         "Z\u0101v\u012byeh-e \u1e28asan Kh\u0101n"
     ],
     "name:fas_x_variant":[
-        "\u0632\u0627\u0648\u06cc\u0651\u0647 \u062d\u0633\u0646 \u062e\u0627\u0646"
+        "\u0632\u0627\u0648\u06cc\u0651\u0647 \u062d\u0633\u0646 \u062e\u0627\u0646",
+        "\u0632\u0627\u0648\u06cc\u0647 \u062d\u0633\u0646\u200c\u062e\u0627\u0646"
+    ],
+    "name:msa_x_preferred":[
+        "Zaviyeh-e Hasan Khan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1344270839,
-    "wof:lastmodified":1537642263,
+    "wof:lastmodified":1564110044,
     "wof:name":"Zaviyeh-e Hasan Khan",
     "wof:parent_id":1108720153,
     "wof:placetype":"locality",

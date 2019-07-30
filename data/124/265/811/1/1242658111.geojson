@@ -25,13 +25,26 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0646\u0627\u0631 \u0632\u0631\u062f"
+    ],
+    "name:ceb_x_preferred":[
+        "Kon\u0101r Zard"
+    ],
     "name:fas_x_preferred":[
         "\u0643\u064e\u0646\u0627\u0631\u0650 \u0632\u064e\u0631\u062f"
     ],
     "name:fas_x_variant":[
         "\u0643\u064f\u0646\u0627\u0631\u0650 \u0632\u064e\u0631\u062f",
         "Kon\u0101r Zard",
-        "\u0643\u0646\u0627\u0631 \u0632\u0631\u062f"
+        "\u0643\u0646\u0627\u0631 \u0632\u0631\u062f",
+        "\u06a9\u0646\u0627\u0631\u0632\u0631\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Konar Zard"
+    ],
+    "name:swe_x_preferred":[
+        "Kon\u0101r Zard"
     ],
     "name:und_x_variant":[
         "Kan\u0101r-e Zard",
@@ -63,7 +76,7 @@
         }
     ],
     "wof:id":1242658111,
-    "wof:lastmodified":1537644711,
+    "wof:lastmodified":1564117953,
     "wof:name":"Konar Zard",
     "wof:parent_id":1108719881,
     "wof:placetype":"locality",

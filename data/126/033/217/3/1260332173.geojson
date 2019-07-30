@@ -25,12 +25,22 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0632\u0627\u0631\u0633\u0631"
+    ],
+    "name:ceb_x_preferred":[
+        "B\u0101z\u0101r Sar"
+    ],
     "name:fas_x_preferred":[
         "B\u0101z\u0101r Sar"
     ],
     "name:fas_x_variant":[
         "\u0628\u0627\u0632\u0627\u0631 \u0633\u0631",
-        "\u0628\u0627\u0632\u0627\u0631 \u0633\u0631\u0647"
+        "\u0628\u0627\u0632\u0627\u0631 \u0633\u0631\u0647",
+        "\u0628\u0627\u0632\u0627\u0631\u0633\u0631"
+    ],
+    "name:swe_x_preferred":[
+        "B\u0101z\u0101r Sar"
     ],
     "name:und_x_variant":[
         "\u0628\u0627\u0632\u0627\u0631 \u0633\u0631",
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":1260332173,
-    "wof:lastmodified":1537640419,
+    "wof:lastmodified":1564115081,
     "wof:name":"Bazar Sarreh",
     "wof:parent_id":1108719925,
     "wof:placetype":"locality",

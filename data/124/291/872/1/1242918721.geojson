@@ -25,6 +25,9 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0631\u064a\u0644\u0648"
+    ],
     "name:aze_x_preferred":[
         "D\u0259rili"
     ],
@@ -33,7 +36,11 @@
     ],
     "name:fas_x_variant":[
         "Dar\u012bl\u016b",
-        "Dar\u012b L\u016b"
+        "Dar\u012b L\u016b",
+        "\u062f\u0631\u06cc\u0644\u0648"
+    ],
+    "name:msa_x_preferred":[
+        "Dari Lu"
     ],
     "name:und_x_variant":[
         "Dirili",
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":1242918721,
-    "wof:lastmodified":1537645609,
+    "wof:lastmodified":1564117940,
     "wof:name":"Dari Lu",
     "wof:parent_id":1108720097,
     "wof:placetype":"locality",

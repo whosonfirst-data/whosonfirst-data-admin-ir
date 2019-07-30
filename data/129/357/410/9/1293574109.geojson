@@ -29,7 +29,14 @@
         "G\u016br\u0101b Sar"
     ],
     "name:fas_x_variant":[
-        "\u06af\u0648\u0631\u0627\u0628 \u0633\u0631"
+        "\u06af\u0648\u0631\u0627\u0628 \u0633\u0631",
+        "\u06af\u0648\u0631\u0627\u0628\u200c\u0633\u0631"
+    ],
+    "name:msa_x_preferred":[
+        "Gurab Sar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u0443\u0440\u0430\u0431\u0441\u0430\u0440"
     ],
     "name:und_x_variant":[
         "B\u0101z\u0101r-e G\u016br\u0101bsar",
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":1293574109,
-    "wof:lastmodified":1537645090,
+    "wof:lastmodified":1564111118,
     "wof:name":"Gurab Sar",
     "wof:parent_id":1108720339,
     "wof:placetype":"locality",

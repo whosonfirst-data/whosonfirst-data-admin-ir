@@ -25,12 +25,22 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0627\u0636\u064a \u0623\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u0642\u0627\u0636\u06cc \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
         "Q\u016bz\u012b\u0101b\u0101d",
-        "Q\u0101\u1e95\u012b\u0101b\u0101d"
+        "Q\u0101\u1e95\u012b\u0101b\u0101d",
+        "\u0642\u0648\u0632\u06cc\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Quziabad"
+    ],
+    "name:por_x_preferred":[
+        "Quziabad"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +66,7 @@
         }
     ],
     "wof:id":1293021195,
-    "wof:lastmodified":1537646613,
+    "wof:lastmodified":1564111362,
     "wof:name":"Qaziabad",
     "wof:parent_id":1108719779,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062a\u0627\u0632\u0627 \u06a9\u0646\u062f\u0627\u0646\u0647\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "T\u0259z\u0259k\u0259nd-i Anhar"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0627\u0632\u0650\u0647 \u0643\u064e\u0646\u062f\u0650 \u0627\u064e\u0646\u0647\u064e\u0631"
     ],
@@ -33,7 +39,14 @@
         "\u062a\u0627\u0632\u0647 \u06a9\u0646\u062f",
         "Sheshm\u0101l",
         "T\u0101zeh Kand-e Anhar",
-        "T\u0101zeh Kand"
+        "T\u0101zeh Kand",
+        "\u062a\u0627\u0632\u0647\u200c\u06a9\u0646\u062f \u0627\u0646\u0647\u0631"
+    ],
+    "name:msa_x_preferred":[
+        "Tazeh Kand-e Anhar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0437\u0435-\u041a\u0430\u043d\u0434-\u0435-\u0410\u043d\u0433\u0430\u0440"
     ],
     "name:und_x_variant":[
         "T\u0101zeh Kand"
@@ -62,7 +75,7 @@
         }
     ],
     "wof:id":1293892745,
-    "wof:lastmodified":1537641042,
+    "wof:lastmodified":1564111500,
     "wof:name":"Tazeh Kand",
     "wof:parent_id":1108720289,
     "wof:placetype":"locality",

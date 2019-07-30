@@ -25,10 +25,23 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0634\u06cc\u062e\u200c\u0637\u0628\u0642"
+    ],
+    "name:ceb_x_preferred":[
+        "Sheykh \u0162abaq"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u06cc\u062e \u0637\u0628\u0642"
     ],
     "name:fas_x_variant":[
+        "Sheykh \u0162abaq",
+        "\u0634\u06cc\u062e\u200c\u0637\u0628\u0642"
+    ],
+    "name:msa_x_preferred":[
+        "Sheykh Tabaq"
+    ],
+    "name:swe_x_preferred":[
         "Sheykh \u0162abaq"
     ],
     "src:geom":"geonames",
@@ -49,7 +62,7 @@
         }
     ],
     "wof:id":1209159825,
-    "wof:lastmodified":1537643327,
+    "wof:lastmodified":1564113367,
     "wof:name":"Sheykh Tabaq",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",

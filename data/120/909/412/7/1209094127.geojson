@@ -25,6 +25,12 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0633\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "B\u012bseh"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u064a\u0633\u0650\u0647"
     ],
@@ -34,7 +40,14 @@
         "P\u012bseh",
         "\u067e\u064a\u0633\u0650\u0647",
         "\u0646\u0633\u06cc\u0647",
-        "\u0628\u064a\u0633\u0647"
+        "\u0628\u064a\u0633\u0647",
+        "\u0628\u0633\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Biseh"
+    ],
+    "name:swe_x_preferred":[
+        "B\u012bseh"
     ],
     "name:und_x_variant":[
         "B\u012bsheh",
@@ -59,7 +72,7 @@
         }
     ],
     "wof:id":1209094127,
-    "wof:lastmodified":1537645878,
+    "wof:lastmodified":1564112935,
     "wof:name":"Biseh",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",

@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0632\u064a\u0631 \u0623\u0628\u0627\u062f"
+    ],
+    "name:ceb_x_preferred":[
+        "Vazirabad"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u0632\u064a\u0631 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "Vaz\u012br\u0101b\u0101d"
+        "Vaz\u012br\u0101b\u0101d",
+        "\u0648\u0632\u06cc\u0631\u0622\u0628\u0627\u062f"
+    ],
+    "name:swe_x_preferred":[
+        "Vazirabad"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +64,7 @@
         }
     ],
     "wof:id":1259792823,
-    "wof:lastmodified":1537640963,
+    "wof:lastmodified":1564118508,
     "wof:name":"Vazirabad",
     "wof:parent_id":1108720289,
     "wof:placetype":"locality",

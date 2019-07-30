@@ -25,12 +25,19 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u062d\u0645\u062a\u200c\u0622\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u062d\u0645\u062a \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
         "\u0100z\u0101deg\u0101n",
-        "Ra\u1e29mat\u0101b\u0101d"
+        "Ra\u1e29mat\u0101b\u0101d",
+        "\u0631\u062d\u0645\u062a\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Rahmatabad"
     ],
     "name:und_x_variant":[
         "Ra\u1e29mat\u0101b\u0101d-e \u0100z\u0101deg\u0101n"
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":1276868751,
-    "wof:lastmodified":1537643682,
+    "wof:lastmodified":1564111778,
     "wof:name":"Rahmatabad",
     "wof:parent_id":1108719975,
     "wof:placetype":"locality",

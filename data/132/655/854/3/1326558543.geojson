@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u0100lkh\u0101\u015f"
+    ],
     "name:fas_x_preferred":[
         "\u0100lkh\u0101\u015f"
     ],
     "name:fas_x_variant":[
-        "\u0622\u0644\u062e\u0627\u0635"
+        "\u0622\u0644\u062e\u0627\u0635",
+        "\u0627\u0644\u062e\u0627\u0635"
+    ],
+    "name:swe_x_preferred":[
+        "\u0100lkh\u0101\u015f"
     ],
     "name:und_x_variant":[
         "Alkh\u0101\u015f",
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":1326558543,
-    "wof:lastmodified":1537646215,
+    "wof:lastmodified":1564108493,
     "wof:name":"Alkhas",
     "wof:parent_id":1108720451,
     "wof:placetype":"locality",

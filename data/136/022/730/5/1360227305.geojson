@@ -29,12 +29,22 @@
         "\u062c\u0646\u062a \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "Jannat\u0101b\u0101d"
+        "Jannat\u0101b\u0101d",
+        "\u062c\u0646\u062a\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:hye_x_preferred":[
+        "\u054b\u0561\u0576\u0576\u0561\u0569\u0561\u0562\u0561\u0564"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043d\u043d\u0430\u0442\u0430\u0431\u0430\u0434"
     ],
     "name:und_x_variant":[
         "Q\u0101sim\u0101b\u0101d",
         "Kasimabad",
         "Q\u0101sem\u0101b\u0101d"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0646\u062a \u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":1360227305,
-    "wof:lastmodified":1537644856,
+    "wof:lastmodified":1564116205,
     "wof:name":"Jannatabad",
     "wof:parent_id":1108720315,
     "wof:placetype":"locality",

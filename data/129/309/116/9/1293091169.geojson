@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u062f\u0628\u064a\u0634"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u0648\u062f \u067e\u06cc\u0634"
     ],
     "name:fas_x_variant":[
-        "R\u016bd P\u012bsh"
+        "R\u016bd P\u012bsh",
+        "\u0631\u0648\u062f\u067e\u06cc\u0634"
+    ],
+    "name:msa_x_preferred":[
+        "Rud Pish"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443\u0434-\u041f\u0456\u0448"
     ],
     "name:und_x_variant":[
         "R\u016bd-e P\u012bsh",
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":1293091169,
-    "wof:lastmodified":1537643613,
+    "wof:lastmodified":1564110385,
     "wof:name":"Rud Pish",
     "wof:parent_id":1108720013,
     "wof:placetype":"locality",

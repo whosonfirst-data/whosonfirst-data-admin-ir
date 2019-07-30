@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0645\u0647\u0631\u06cc\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:ceb_x_preferred":[
+        "Mehr\u012bn\u0101b\u0101d"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0647\u0631\u06cc\u0646 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
         "\u0645\u0650\u0647\u0631\u0627\u0646 \u0622\u0628\u0627\u062f",
+        "Mehr\u012bn\u0101b\u0101d",
+        "\u0645\u0647\u0631\u06cc\u0646\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:swe_x_preferred":[
         "Mehr\u012bn\u0101b\u0101d"
     ],
     "name:und_x_variant":[
@@ -59,7 +69,7 @@
         }
     ],
     "wof:id":1293428663,
-    "wof:lastmodified":1537644236,
+    "wof:lastmodified":1564111495,
     "wof:name":"Mehrinabad",
     "wof:parent_id":1108720135,
     "wof:placetype":"locality",

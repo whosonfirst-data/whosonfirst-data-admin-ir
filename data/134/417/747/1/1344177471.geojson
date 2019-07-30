@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0631\u062a\u0646\u063a \u0628\u0627\u0644\u0627"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0631 \u062a\u0646\u06af \u0628\u0627\u0644\u0627"
     ],
     "name:fas_x_variant":[
-        "Sar Tang-e B\u0101l\u0101"
+        "Sar Tang-e B\u0101l\u0101",
+        "\u0633\u0631\u062a\u0646\u06af \u0628\u0627\u0644\u0627"
+    ],
+    "name:msa_x_preferred":[
+        "Sar Tang-e Bala"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1344177471,
-    "wof:lastmodified":1537647810,
+    "wof:lastmodified":1564109964,
     "wof:name":"Sar Tang-e Bala",
     "wof:parent_id":1108719939,
     "wof:placetype":"locality",

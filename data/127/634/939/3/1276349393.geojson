@@ -25,12 +25,24 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0647\u0646\u06af\u0631\u0648\u0627\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Hangrav\u0101n"
+    ],
     "name:fas_x_preferred":[
         "\u0647\u0646\u06af\u0631\u0648\u0627\u0646"
     ],
     "name:fas_x_variant":[
         "\u0647\u064e\u0646\u06af\u064e\u0631\u0648\u0627\u0646",
         "Hangarv\u0101n",
+        "Hangrav\u0101n"
+    ],
+    "name:msa_x_preferred":[
+        "Hangravan"
+    ],
+    "name:swe_x_preferred":[
         "Hangrav\u0101n"
     ],
     "src:geom":"geonames",
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1276349393,
-    "wof:lastmodified":1537641050,
+    "wof:lastmodified":1564112058,
     "wof:name":"Hangravan",
     "wof:parent_id":1108720289,
     "wof:placetype":"locality",

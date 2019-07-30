@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0628\u0627\u0633\u200c\u0622\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u0639\u0628\u0627\u0633 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "\u2018Abb\u0101s\u0101b\u0101d"
+        "\u2018Abb\u0101s\u0101b\u0101d",
+        "\u0639\u0628\u0627\u0633\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Abbasabad"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1293386671,
-    "wof:lastmodified":1537642499,
+    "wof:lastmodified":1564110347,
     "wof:name":"`Abbasabad",
     "wof:parent_id":1108719987,
     "wof:placetype":"locality",

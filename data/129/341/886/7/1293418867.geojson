@@ -25,11 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0642\u064a\u0622\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0642\u06cc \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "Taq\u012b\u0101b\u0101d"
+        "Taq\u012b\u0101b\u0101d",
+        "\u062a\u0642\u06cc\u200c\u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293418867,
-    "wof:lastmodified":1537641887,
+    "wof:lastmodified":1564110688,
     "wof:name":"Taqiabad",
     "wof:parent_id":1108719995,
     "wof:placetype":"locality",

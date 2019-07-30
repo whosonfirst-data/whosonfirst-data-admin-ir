@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0631\u0648\u0632 \u0623\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "F\u012br\u016bz\u0101b\u0101d"
     ],
     "name:fas_x_variant":[
-        "\u0641\u06cc\u0631\u0648\u0632 \u0622\u0628\u0627\u062f"
+        "\u0641\u06cc\u0631\u0648\u0632 \u0622\u0628\u0627\u062f",
+        "\u0641\u06cc\u0631\u0648\u0632\u0622\u0628\u0627\u062f"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0641\u06cc\u0631\u0648\u0632\u0622\u0628\u0627\u062f"
     ],
     "name:und_x_variant":[
         "\u0641\u06cc\u0631\u0648\u0632 \u0622\u0628\u0627\u062f"
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1243582949,
-    "wof:lastmodified":1537645276,
+    "wof:lastmodified":1564117689,
     "wof:name":"Firuzabad",
     "wof:parent_id":1108719877,
     "wof:placetype":"locality",

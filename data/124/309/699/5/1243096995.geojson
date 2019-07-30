@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Golb\u012bn"
+    ],
     "name:fas_x_preferred":[
         "Golb\u012bn"
     ],
     "name:fas_x_variant":[
-        "\u06af\u0644\u0628\u06cc\u0646"
+        "\u06af\u0644\u0628\u06cc\u0646",
+        "\u06af\u0644 \u0628\u06cc\u0646"
+    ],
+    "name:swe_x_preferred":[
+        "Golb\u012bn"
     ],
     "name:und_x_variant":[
         "\u06af\u0644\u0628\u06cc\u0646"
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1243096995,
-    "wof:lastmodified":1537645148,
+    "wof:lastmodified":1564116987,
     "wof:name":"Golbin",
     "wof:parent_id":1108720279,
     "wof:placetype":"locality",

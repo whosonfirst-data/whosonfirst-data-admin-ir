@@ -30,13 +30,26 @@
     ],
     "name:fas_x_variant":[
         "T\u016br\u012b\u0101n",
-        "\u062a\u0648\u0631\u0627\u0646"
+        "\u062a\u0648\u0631\u0627\u0646",
+        "\u062a\u0648\u0631\u06cc\u0627\u0646"
+    ],
+    "name:msa_x_preferred":[
+        "Turian"
+    ],
+    "name:pol_x_preferred":[
+        "Turjan"
+    ],
+    "name:por_x_preferred":[
+        "Turiani"
     ],
     "name:und_x_variant":[
         "T\u016brey\u0101n",
         "T\u016br\u012by\u0101n",
         "T\u016bry\u0101n",
         "T\u016br\u0101n"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0648\u0631\u06cc\u0627\u0646"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +75,7 @@
         }
     ],
     "wof:id":1310083189,
-    "wof:lastmodified":1537643091,
+    "wof:lastmodified":1564115640,
     "wof:name":"Turan",
     "wof:parent_id":1108720317,
     "wof:placetype":"locality",

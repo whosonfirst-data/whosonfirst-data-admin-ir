@@ -25,6 +25,9 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "K\u0101meshgar\u0101n"
+    ],
     "name:fas_x_preferred":[
         "\u0643\u064e\u0645\u0650\u0634\u06af\u064e\u0631\u0627\u0646"
     ],
@@ -32,7 +35,11 @@
         "\u0643\u0627\u0645\u0634\u06af\u0631\u0627\u0646",
         "Kameshgar\u0101n",
         "K\u0101meshgar\u0101n",
-        "\u0631\u0627\u0645\u0634\u06af\u0631\u0627\u0646"
+        "\u0631\u0627\u0645\u0634\u06af\u0631\u0627\u0646",
+        "\u06a9\u0627\u0645\u0634\u06af\u0631\u0627\u0646"
+    ],
+    "name:swe_x_preferred":[
+        "K\u0101meshgar\u0101n"
     ],
     "name:und_x_variant":[
         "R\u0101meshgar\u0101n"
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":1310473795,
-    "wof:lastmodified":1537640267,
+    "wof:lastmodified":1564115409,
     "wof:name":"Rameshgaran",
     "wof:parent_id":1108720325,
     "wof:placetype":"locality",

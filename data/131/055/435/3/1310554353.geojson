@@ -25,12 +25,16 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0642\u0646\u062f\u06cc \u0628\u0644\u0627\u063a"
+    ],
     "name:fas_x_preferred":[
         "\u0642\u0646\u062f \u0628\u0644\u0627\u063a"
     ],
     "name:fas_x_variant":[
         "Qand Bol\u0101gh",
-        "\u0642\u0646\u062f\u06cc \u0628\u0644\u0627\u063a"
+        "\u0642\u0646\u062f\u06cc \u0628\u0644\u0627\u063a",
+        "\u0642\u0646\u062f\u06cc\u200c\u0628\u0644\u0627\u063a"
     ],
     "name:und_x_variant":[
         "Kandbul\u0101q",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1310554353,
-    "wof:lastmodified":1537643809,
+    "wof:lastmodified":1564115587,
     "wof:name":"Qandi Bolagh",
     "wof:parent_id":1108720059,
     "wof:placetype":"locality",

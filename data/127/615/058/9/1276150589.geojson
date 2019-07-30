@@ -25,12 +25,22 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0647\u0631\u0627\u0646\u0643\u0648\u0634\u0643"
+    ],
+    "name:ceb_x_preferred":[
+        "Mehr\u0101n K\u016bshk"
+    ],
     "name:fas_x_preferred":[
         "Mehr\u0101n K\u016bshk"
     ],
     "name:fas_x_variant":[
         "\u0645\u0647\u0631\u0627\u0646 \u06a9\u0648\u0634\u06a9",
-        "M\u012br\u0101n Kush"
+        "M\u012br\u0101n Kush",
+        "\u0645\u0647\u0631\u0627\u0646\u200c\u06a9\u0648\u0634\u06a9"
+    ],
+    "name:swe_x_preferred":[
+        "Mehr\u0101n K\u016bshk"
     ],
     "name:und_x_variant":[
         "M\u012br\u0101n Kush",
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":1276150589,
-    "wof:lastmodified":1537644237,
+    "wof:lastmodified":1564112565,
     "wof:name":"Mehran Kushk",
     "wof:parent_id":1108720005,
     "wof:placetype":"locality",

@@ -25,13 +25,23 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0646\u064a \u0633\u064a \u0634\u0643\u0631\u0647"
+    ],
+    "name:ckb_x_preferred":[
+        "\u06a9\u0627\u0646\u06cc \u0633\u06d5\u06cc \u0634\u0648\u06a9\u0631\u06d5"
+    ],
     "name:fas_x_preferred":[
         "\u06a9\u0627\u0646\u06cc \u0633\u06cc\u0651\u062f \u0634\u06a9\u0631"
     ],
     "name:fas_x_variant":[
         "K\u0101n\u012b Seyyed Shokereh",
         "K\u0101n\u012b-ye Seyyed Shekar",
-        "\u06a9\u0627\u0646\u06cc \u0633\u06cc\u062f \u0634\u06a9\u0631\u0647"
+        "\u06a9\u0627\u0646\u06cc \u0633\u06cc\u062f \u0634\u06a9\u0631\u0647",
+        "\u06a9\u0627\u0646\u06cc \u0633\u06cc\u062f\u0634\u06a9\u0631\u0647"
+    ],
+    "name:kur_x_preferred":[
+        "Kan\u00ee sey \u015fukre"
     ],
     "name:und_x_variant":[
         "K\u0101n\u012b-ye Seyyed Shokreh"
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":1277047409,
-    "wof:lastmodified":1537641417,
+    "wof:lastmodified":1564112370,
     "wof:name":"Kani-ye Seyyed Shokreh",
     "wof:parent_id":1108720381,
     "wof:placetype":"locality",

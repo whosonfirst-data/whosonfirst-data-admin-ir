@@ -25,12 +25,34 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0631\u064a\u0646\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "Z\u0259rrin\u0259"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0632\u06d5\u0695\u06cc\u0646\u06d5"
+    ],
     "name:fas_x_preferred":[
         "\u0632\u0631\u064a\u0646\u0647 \u0648\u0631\u0645\u0632\u064a\u0627\u0631"
     ],
     "name:fas_x_variant":[
         "\u0632\u064e\u0631\u0651\u064a\u0646\u0650\u0647",
-        "Zarr\u012bneh-ye Varmazy\u0101r"
+        "Zarr\u012bneh-ye Varmazy\u0101r",
+        "\u0632\u0631\u06cc\u0646\u0647"
+    ],
+    "name:glk_x_preferred":[
+        "\u0632\u0631\u06cc\u0646\u0647 \u06a9\u0648"
+    ],
+    "name:kur_x_preferred":[
+        "Zer\u00eene"
+    ],
+    "name:mlg_x_preferred":[
+        "Zarrineh"
+    ],
+    "name:tur_x_preferred":[
+        "Zerrine"
     ],
     "name:und_x_variant":[
         "Zarr\u012bneh"
@@ -59,7 +81,7 @@
         }
     ],
     "wof:id":1293083039,
-    "wof:lastmodified":1537642958,
+    "wof:lastmodified":1564110500,
     "wof:name":"Zarrineh-ye Varmazyar",
     "wof:parent_id":1108719971,
     "wof:placetype":"locality",

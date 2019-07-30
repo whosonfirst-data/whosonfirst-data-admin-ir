@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0635\u0631\u0627\u0644\u0644\u0647\u200c\u0622\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0635\u0631 \u0627\u0644\u0644\u0647 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "Na\u015froll\u0101h\u0101b\u0101d"
+        "Na\u015froll\u0101h\u0101b\u0101d",
+        "\u0646\u0635\u0631\u0627\u0644\u0644\u0647\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Nasrollahabad"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0441\u0440\u0430\u043b\u043b\u0430\u0430\u0431\u0430\u0434"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":1293584507,
-    "wof:lastmodified":1537646687,
+    "wof:lastmodified":1564111239,
     "wof:name":"Nasrollahabad",
     "wof:parent_id":1108720013,
     "wof:placetype":"locality",

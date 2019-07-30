@@ -25,13 +25,26 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u062f\u064a\u0631 \u062d\u0628\u0633\u0647"
+    ],
+    "name:azb_x_preferred":[
+        "\u063a\u062f\u06cc\u0631\u062d\u0628\u0633\u0647(\u0627\u0647\u0648\u0627\u0632)"
+    ],
+    "name:ceb_x_preferred":[
+        "Qad\u012br-e \u1e28abseh"
+    ],
     "name:fas_x_preferred":[
         "Qad\u012br-e \u1e28abseh"
     ],
     "name:fas_x_variant":[
         "Ghad\u012br-e \u1e28abseh",
         "\u0642\u062f\u06cc\u0631 \u062d\u0628\u0633\u0647",
-        "\u063a\u062f\u06cc\u0631 \u062d\u0628\u0633\u0647"
+        "\u063a\u062f\u06cc\u0631 \u062d\u0628\u0633\u0647",
+        "\u063a\u062f\u06cc\u0631\u062d\u0628 \u0633\u0647"
+    ],
+    "name:swe_x_preferred":[
+        "Qad\u012br-e \u1e28abseh"
     ],
     "name:und_x_variant":[
         "\u1e28asbeh",
@@ -63,7 +76,7 @@
         }
     ],
     "wof:id":1226615797,
-    "wof:lastmodified":1537645174,
+    "wof:lastmodified":1564119683,
     "wof:name":"Ghadir-e Habseh",
     "wof:parent_id":1108719793,
     "wof:placetype":"locality",

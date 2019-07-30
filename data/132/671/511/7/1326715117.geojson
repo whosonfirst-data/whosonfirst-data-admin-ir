@@ -25,13 +25,26 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Darv\u012bsh\u0101n Bar"
+    ],
     "name:fas_x_preferred":[
         "Darv\u012bsh\u0101neh Bar"
     ],
     "name:fas_x_variant":[
         "Darv\u012bsh\u0101n Bar",
         "\u062f\u0631\u0648\u06cc\u0634\u0627\u0646 \u0628\u0631",
-        "\u062f\u0631\u0648\u06cc\u0634\u0627\u0646"
+        "\u062f\u0631\u0648\u06cc\u0634\u0627\u0646",
+        "\u062f\u0631\u0648\u06cc\u0634\u0627\u0646\u0628\u0631"
+    ],
+    "name:msa_x_preferred":[
+        "Darvishan Bar"
+    ],
+    "name:swe_x_preferred":[
+        "Darv\u012bsh\u0101n Bar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0430\u0440\u0432\u0456\u0448\u0430\u0445-\u0411\u0430\u0440"
     ],
     "name:und_x_variant":[
         "\u062f\u0631\u0648\u06cc\u0634\u0627\u0646 \u0628\u0631",
@@ -61,7 +74,7 @@
         }
     ],
     "wof:id":1326715117,
-    "wof:lastmodified":1537640207,
+    "wof:lastmodified":1564108352,
     "wof:name":"Darvishan",
     "wof:parent_id":1108720183,
     "wof:placetype":"locality",

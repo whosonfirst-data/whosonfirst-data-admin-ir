@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u062c\u064a\u0631 \u062a\u0627\u062c \u0623\u0645\u064a\u0631\u064a"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u0648\u06af\u06cc\u0631 \u062a\u0627\u062c \u0627\u0645\u06cc\u0631\u06cc"
     ],
     "name:fas_x_variant":[
-        "R\u016bg\u012br-e T\u0101j Am\u012br\u012b"
+        "R\u016bg\u012br-e T\u0101j Am\u012br\u012b",
+        "\u0631\u0648\u06af\u06cc\u0631 \u062a\u0627\u062c\u200c\u0627\u0645\u06cc\u0631\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Rugir-e Taj Amiri"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1226065561,
-    "wof:lastmodified":1537642742,
+    "wof:lastmodified":1564120291,
     "wof:name":"Rugir-e Taj Amiri",
     "wof:parent_id":1108720181,
     "wof:placetype":"locality",

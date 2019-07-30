@@ -25,11 +25,24 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u064a\u0633\u062a\u064a\u0628\u0627\u063a\u062a\u0634\u0647"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0633\u062a\u06cc \u0628\u0627\u063a\u0686\u0647"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0633\u062a\u06cc \u0628\u0627\u063a\u0686\u0647"
     ],
     "name:fas_x_variant":[
-        "\u012ast\u012b B\u0101ghcheh"
+        "\u012ast\u012b B\u0101ghcheh",
+        "\u0627\u06cc\u0633\u062a\u06cc\u200c\u0628\u0627\u063a\u0686\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Isti Baghcheh"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0627\u06cc\u0633\u062a\u06cc\u200c\u0628\u0627\u063a\u0686\u0647"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +67,7 @@
         }
     ],
     "wof:id":1259528821,
-    "wof:lastmodified":1537640727,
+    "wof:lastmodified":1564118417,
     "wof:name":"Isti Baghcheh",
     "wof:parent_id":1108720021,
     "wof:placetype":"locality",

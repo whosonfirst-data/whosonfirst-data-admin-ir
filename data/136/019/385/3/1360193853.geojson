@@ -25,11 +25,24 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u062f \u0634\u0647\u064a\u062f \u06a9\u0627\u0638\u0645\u064a"
+    ],
+    "name:aze_x_preferred":[
+        "S\u0259dd-i \u015e\u0259hid Kaz\u0131mi"
+    ],
     "name:fas_x_preferred":[
         "Sadd-e Shah\u012bd K\u0101z\u0327em\u012b"
     ],
     "name:fas_x_variant":[
-        "\u0633\u064e\u062f\u0650\u0651 \u0634\u064e\u0647\u064a\u062f \u0643\u0627\u0638\u0650\u0645\u06cc"
+        "\u0633\u064e\u062f\u0650\u0651 \u0634\u064e\u0647\u064a\u062f \u0643\u0627\u0638\u0650\u0645\u06cc",
+        "\u0633\u062f \u0634\u0647\u06cc\u062f \u06a9\u0627\u0638\u0645\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Sadd-e Shahid Kazemi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0635\u062f\u062f-\u0634\u0627\u06c1\u062f \u06a9\u0627\u0638\u0645\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +68,7 @@
         }
     ],
     "wof:id":1360193853,
-    "wof:lastmodified":1537640184,
+    "wof:lastmodified":1564116426,
     "wof:name":"Sadd-e Shahid Kazemi",
     "wof:parent_id":1108720381,
     "wof:placetype":"locality",

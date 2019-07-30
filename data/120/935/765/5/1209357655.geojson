@@ -25,10 +25,23 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u064a\u0643\u0622\u0628\u0627\u062f"
+    ],
+    "name:ceb_x_preferred":[
+        "Val\u012bk\u0101b\u0101d"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u0644\u064a\u06a9 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
+        "Val\u012bk\u0101b\u0101d",
+        "\u0648\u0644\u06cc\u06a9\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Valikabad"
+    ],
+    "name:swe_x_preferred":[
         "Val\u012bk\u0101b\u0101d"
     ],
     "src:geom":"geonames",
@@ -49,7 +62,7 @@
         }
     ],
     "wof:id":1209357655,
-    "wof:lastmodified":1537642195,
+    "wof:lastmodified":1564113650,
     "wof:name":"Valikabad",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",

@@ -25,13 +25,23 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ch\u016bb Bast"
+    ],
     "name:fas_x_preferred":[
         "\u0686\u0648\u0628\u064e\u0633\u062a"
     ],
     "name:fas_x_variant":[
         "Ch\u016bbast",
         "Ch\u016bb Bast",
-        "\u0686\u0648\u0628 \u0628\u0633\u062a"
+        "\u0686\u0648\u0628 \u0628\u0633\u062a",
+        "\u0686\u0648\u0628\u200c\u0628\u0633\u062a"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0686\u0648\u0628\u200c\u0628\u0633\u062a"
+    ],
+    "name:swe_x_preferred":[
+        "Ch\u016bb Bast"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":1276168081,
-    "wof:lastmodified":1537640656,
+    "wof:lastmodified":1564112038,
     "wof:name":"Chub Bast",
     "wof:parent_id":1108719845,
     "wof:placetype":"locality",

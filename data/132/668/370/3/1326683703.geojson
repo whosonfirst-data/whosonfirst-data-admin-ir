@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0633\u0648\u0633\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "name:aze_x_preferred":[
+        "S\u00fcs\u0259nabad"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0648\u0633\u0646 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "S\u016bsan\u0101b\u0101d"
+        "S\u016bsan\u0101b\u0101d",
+        "\u0633\u0648\u0633\u0646\u200c\u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":1326683703,
-    "wof:lastmodified":1537647621,
+    "wof:lastmodified":1564107963,
     "wof:name":"Susanabad",
     "wof:parent_id":1108720443,
     "wof:placetype":"locality",

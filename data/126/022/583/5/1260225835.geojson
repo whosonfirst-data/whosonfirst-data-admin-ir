@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0642\u0648\u06cc\u0648\u0646\u200c\u0642\u0634\u0644\u0627\u0642"
+    ],
     "name:fas_x_preferred":[
         "Q\u016by\u016bn Qeshl\u0101q"
     ],
     "name:fas_x_variant":[
-        "\u0642\u0648\u06cc\u0648\u0646 \u0642\u0634\u0644\u0627\u0642"
+        "\u0642\u0648\u06cc\u0648\u0646 \u0642\u0634\u0644\u0627\u0642",
+        "\u0642\u0648\u06cc\u0648\u0646\u200c\u0642\u0634\u0644\u0627\u0642"
+    ],
+    "name:msa_x_preferred":[
+        "Quyun Qeshlaq"
     ],
     "name:und_x_variant":[
         "\u0642\u0648\u06cc\u0648\u0646 \u0642\u0634\u0644\u0627\u0642"
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1260225835,
-    "wof:lastmodified":1537641132,
+    "wof:lastmodified":1564114755,
     "wof:name":"Quyun Qeshlaq",
     "wof:parent_id":1108720217,
     "wof:placetype":"locality",

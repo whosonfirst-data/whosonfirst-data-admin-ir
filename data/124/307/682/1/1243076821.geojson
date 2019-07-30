@@ -25,6 +25,9 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Bil\u0259var"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u064a\u0644 \u0648\u0627\u0631"
     ],
@@ -32,7 +35,11 @@
         "\u0628\u06cc\u0644\u0648\u0627\u0631",
         "B\u012bleh V\u0101r",
         "B\u012blev\u0101r",
-        "\u0628\u064a\u0644\u0647 \u0648\u0627\u0631"
+        "\u0628\u064a\u0644\u0647 \u0648\u0627\u0631",
+        "\u0628\u06cc\u0644\u0647\u200c\u0648\u0627\u0631"
+    ],
+    "name:msa_x_preferred":[
+        "Bileh Var"
     ],
     "name:und_x_variant":[
         "B\u012bl V\u0101r"
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":1243076821,
-    "wof:lastmodified":1537646450,
+    "wof:lastmodified":1564116940,
     "wof:name":"Bilevar",
     "wof:parent_id":1108720153,
     "wof:placetype":"locality",

@@ -25,8 +25,14 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062e\u0634\u062d\u06cc\u0631\u0627\u0646(\u0646\u0645\u06cc\u0646)"
+    ],
     "name:aze_x_preferred":[
         "H\u0259\u015firan"
+    ],
+    "name:ceb_x_preferred":[
+        "Khasheh \u1e28eyr\u0101n"
     ],
     "name:fas_x_preferred":[
         "\u062e\u064e\u0634\u064a\u0631\u0627\u0646"
@@ -34,6 +40,13 @@
     "name:fas_x_variant":[
         "\u062e\u0634\u0647 \u062d\u06cc\u0631\u0627\u0646",
         "Khash\u012br\u0101n",
+        "Khasheh \u1e28eyr\u0101n",
+        "\u062e\u0634\u062d\u06cc\u0631\u0627\u0646"
+    ],
+    "name:msa_x_preferred":[
+        "Khasheh Heyran"
+    ],
+    "name:swe_x_preferred":[
         "Khasheh \u1e28eyr\u0101n"
     ],
     "src:geom":"geonames",
@@ -60,7 +73,7 @@
         }
     ],
     "wof:id":1310147277,
-    "wof:lastmodified":1537642130,
+    "wof:lastmodified":1564115348,
     "wof:name":"Khasheh Heyran",
     "wof:parent_id":1108720263,
     "wof:placetype":"locality",

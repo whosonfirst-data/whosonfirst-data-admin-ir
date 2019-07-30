@@ -25,12 +25,22 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "K\u016br \u0162\u016b\u0163\u012b"
+    ],
     "name:fas_x_preferred":[
         "G\u016br \u0162\u016b\u0163\u012b"
     ],
     "name:fas_x_variant":[
         "\u06af\u0648\u0631 \u0637\u0648\u0637\u06cc",
-        "\u06a9\u0648\u0631 \u0637\u0648\u0637\u06cc"
+        "\u06a9\u0648\u0631 \u0637\u0648\u0637\u06cc",
+        "\u0633\u0631\u0627\u0628\u06af\u0648\u0631\u0637\u0648\u0637\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Sarab Gur-e Tuti"
+    ],
+    "name:swe_x_preferred":[
+        "K\u016br \u0162\u016b\u0163\u012b"
     ],
     "name:und_x_variant":[
         "Sar\u0101b G\u016br-e \u0162\u016b\u0163\u012b",
@@ -61,7 +71,7 @@
         }
     ],
     "wof:id":1327451857,
-    "wof:lastmodified":1537641465,
+    "wof:lastmodified":1564108814,
     "wof:name":"Kur Tuti",
     "wof:parent_id":1108720453,
     "wof:placetype":"locality",

@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u064a\u0633\u200c\u0622\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u0650\u064a\u0633 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "Veys\u0101b\u0101d"
+        "Veys\u0101b\u0101d",
+        "\u0648\u06cc\u0633\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Veysabad"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":1343318043,
-    "wof:lastmodified":1537640141,
+    "wof:lastmodified":1564108950,
     "wof:name":"Veysabad",
     "wof:parent_id":1108719959,
     "wof:placetype":"locality",

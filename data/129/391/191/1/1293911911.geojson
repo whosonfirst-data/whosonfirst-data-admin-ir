@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0633\u0646 \u0623\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u062d\u0633\u0646 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "\u1e28asan\u0101b\u0101d"
+        "\u1e28asan\u0101b\u0101d",
+        "\u062d\u0633\u0646\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:kur_x_preferred":[
+        "Hesenawat"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1293911911,
-    "wof:lastmodified":1537641376,
+    "wof:lastmodified":1564110409,
     "wof:name":"Hasanabad",
     "wof:parent_id":1108719941,
     "wof:placetype":"locality",

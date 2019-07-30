@@ -25,12 +25,22 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0627\u0644\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Ay\u0101l\u016b"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u064a\u0627\u0644\u0648"
     ],
     "name:fas_x_variant":[
         "Ay\u0101l\u016b",
-        "\u0627\u06cc\u0627\u0646\u0644\u0648"
+        "\u0627\u06cc\u0627\u0646\u0644\u0648",
+        "\u0627\u06cc\u0627\u0644\u0648"
+    ],
+    "name:swe_x_preferred":[
+        "Ay\u0101l\u016b"
     ],
     "name:und_x_variant":[
         "Ay\u0101nl\u016b"
@@ -59,7 +69,7 @@
         }
     ],
     "wof:id":1226688961,
-    "wof:lastmodified":1537641435,
+    "wof:lastmodified":1564119691,
     "wof:name":"Ayanlu",
     "wof:parent_id":1108720201,
     "wof:placetype":"locality",

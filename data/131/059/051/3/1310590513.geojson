@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "K\u016br Kahr\u012bz"
+    ],
     "name:fas_x_preferred":[
         "K\u016br Kahr\u012bz"
     ],
     "name:fas_x_variant":[
-        "\u06a9\u0648\u0631 \u06a9\u0647\u0631\u06cc\u0632"
+        "\u06a9\u0648\u0631 \u06a9\u0647\u0631\u06cc\u0632",
+        "\u06a9\u0648\u0631\u06a9\u0647\u0631\u06cc\u0632"
+    ],
+    "name:msa_x_preferred":[
+        "Kur Kahriz"
+    ],
+    "name:swe_x_preferred":[
+        "K\u016br Kahr\u012bz"
     ],
     "name:und_x_variant":[
         "G\u016br-e Kahr\u012bz",
@@ -62,7 +72,7 @@
         }
     ],
     "wof:id":1310590513,
-    "wof:lastmodified":1537644427,
+    "wof:lastmodified":1564115947,
     "wof:name":"Kur Kahriz",
     "wof:parent_id":1108720047,
     "wof:placetype":"locality",

@@ -29,10 +29,14 @@
         "\u015eadr\u0101b\u0101d"
     ],
     "name:fas_x_variant":[
-        "\u0635\u062f\u0631 \u0622\u0628\u0627\u062f"
+        "\u0635\u062f\u0631 \u0622\u0628\u0627\u062f",
+        "\u0635\u062f\u0631\u0622\u0628\u0627\u062f"
     ],
     "name:und_x_variant":[
         "\u0635\u062f\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0635\u062f\u0631\u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1343690407,
-    "wof:lastmodified":1537646819,
+    "wof:lastmodified":1564109783,
     "wof:name":"Sadrabad",
     "wof:parent_id":1108720387,
     "wof:placetype":"locality",

@@ -25,13 +25,20 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "P\u0101ry\u0101b T\u016bt"
+    ],
     "name:fas_x_preferred":[
         "\u0641\u0627\u0631\u064a\u0627\u0628 \u062a\u0648\u062a"
     ],
     "name:fas_x_variant":[
         "F\u0101ry\u0101b T\u016bt",
         "P\u0101ry\u0101b T\u016bt",
-        "\u067e\u0627\u0631\u06cc\u0627\u0628 \u062a\u0648\u062a"
+        "\u067e\u0627\u0631\u06cc\u0627\u0628 \u062a\u0648\u062a",
+        "\u0641\u0627\u0631\u06cc\u0622\u0628 \u062a\u0648\u062a"
+    ],
+    "name:swe_x_preferred":[
+        "P\u0101ry\u0101b T\u016bt"
     ],
     "name:und_x_variant":[
         "\u067e\u0627\u0631\u06cc\u0627\u0628 \u062a\u0648\u062a"
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":1343880751,
-    "wof:lastmodified":1537640868,
+    "wof:lastmodified":1564110319,
     "wof:name":"Faryab Tut",
     "wof:parent_id":1108720157,
     "wof:placetype":"locality",

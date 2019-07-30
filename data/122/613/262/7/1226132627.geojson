@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0647 \u06a9\u0648\u0647"
+    ],
     "name:fas_x_preferred":[
         "S\u012b\u0101h K\u016bh"
     ],
     "name:fas_x_variant":[
-        "\u0633\u06cc\u0627\u0647 \u06a9\u0648\u0647"
+        "\u0633\u06cc\u0627\u0647 \u06a9\u0648\u0647",
+        "\u0633\u06cc\u0627\u0647\u06a9\u0648\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Siah Kuh"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0456\u044f\u0445-\u041a\u0443\u0445"
     ],
     "name:und_x_variant":[
         "\u0633\u06cc\u0627\u0647 \u06a9\u0648\u0647"
@@ -58,7 +68,7 @@
         }
     ],
     "wof:id":1226132627,
-    "wof:lastmodified":1537648417,
+    "wof:lastmodified":1564119916,
     "wof:name":"Siah Kuh",
     "wof:parent_id":1108719805,
     "wof:placetype":"locality",

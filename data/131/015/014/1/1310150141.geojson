@@ -25,11 +25,27 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0634\u063a\u0648\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "P\u012bshg\u016bn"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u064a\u0634\u06af\u0648\u0646"
     ],
     "name:fas_x_variant":[
+        "P\u012bshg\u016bn",
+        "\u067e\u06cc\u0634\u06af\u0648\u0646"
+    ],
+    "name:mzn_x_preferred":[
+        "\u067e\u06cc\u0634\u06af\u0648\u0646"
+    ],
+    "name:swe_x_preferred":[
         "P\u012bshg\u016bn"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0448\u0491\u0443\u043d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +71,7 @@
         }
     ],
     "wof:id":1310150141,
-    "wof:lastmodified":1537640445,
+    "wof:lastmodified":1564115256,
     "wof:name":"Pishgun",
     "wof:parent_id":1108719807,
     "wof:placetype":"locality",

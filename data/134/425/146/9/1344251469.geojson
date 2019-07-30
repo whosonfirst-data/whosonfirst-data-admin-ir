@@ -25,6 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u062f\u0631\u0629 \u062f\u0627\u0631 \u0627\u0645\u0627\u0645"
+    ],
+    "name:azb_x_preferred":[
+        "\u062d\u0626\u06cc\u062f\u0631\u0647 \u062f\u0627\u0631\u0627\u06cc\u0645\u0627\u0645"
+    ],
+    "name:ceb_x_preferred":[
+        "\u1e28eydareh-ye Q\u0101\u1e95\u012b Kh\u0101n"
+    ],
     "name:fas_x_preferred":[
         "\u062d\u0650\u064a\u062f\u064e\u0631\u0650\u06c0 \u062f\u0627\u0631\u0650 \u0627\u0650\u0645\u0627\u0645"
     ],
@@ -34,7 +43,14 @@
         "\u0647\u0650\u064a\u062f\u064e\u0631\u0650\u0647",
         "\u1e28eydareh-ye D\u0101r-e Em\u0101m",
         "\u1e28eydareh-ye Q\u0101\u1e95\u012b Kh\u0101n",
-        "\u062d\u06cc\u062f\u0631\u0647 \u0642\u0627\u0636\u06cc \u062e\u0627\u0646"
+        "\u062d\u06cc\u062f\u0631\u0647 \u0642\u0627\u0636\u06cc \u062e\u0627\u0646",
+        "\u062d\u06cc\u062f\u0631\u0647 \u062f\u0627\u0631\u0627\u0645\u0627\u0645"
+    ],
+    "name:msa_x_preferred":[
+        "Heydareh-ye Dar-e Emam"
+    ],
+    "name:swe_x_preferred":[
+        "\u1e28eydareh-ye Q\u0101\u1e95\u012b Kh\u0101n"
     ],
     "name:und_x_variant":[
         "\u1e28eydareh-ye Q\u0101\u1e95\u012b Kh\u0101n",
@@ -66,7 +82,7 @@
         }
     ],
     "wof:id":1344251469,
-    "wof:lastmodified":1537644961,
+    "wof:lastmodified":1564109224,
     "wof:name":"Heydareh-ye Qazi Khan",
     "wof:parent_id":1108719857,
     "wof:placetype":"locality",

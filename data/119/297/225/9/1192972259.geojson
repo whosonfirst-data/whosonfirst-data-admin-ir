@@ -25,6 +25,9 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Farasm\u0101neh"
+    ],
     "name:fas_x_preferred":[
         "\u0641\u064e\u0631\u064a\u0633\u0645\u0627\u0646\u0650\u0647"
     ],
@@ -32,7 +35,14 @@
         "\u0641\u064e\u0631\u0650\u0633\u0645\u0627\u0646\u0650\u0647",
         "\u067e\u064e\u0631\u0633\u0645\u0627\u0646",
         "Farasm\u0101neh",
-        "\u0641\u0631\u0633\u0645\u0627\u0646\u0647"
+        "\u0641\u0631\u0633\u0645\u0627\u0646\u0647",
+        "\u0641\u0631\u06cc\u0633\u0645\u0627\u0646\u0647"
+    ],
+    "name:swe_x_preferred":[
+        "Farasm\u0101neh"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0430\u0440\u0456\u0441\u043c\u0430\u043d\u0435"
     ],
     "name:und_x_variant":[
         "Parsm\u0101n",
@@ -64,7 +74,7 @@
         }
     ],
     "wof:id":1192972259,
-    "wof:lastmodified":1537645312,
+    "wof:lastmodified":1564114504,
     "wof:name":"Farasmaneh",
     "wof:parent_id":1108720473,
     "wof:placetype":"locality",

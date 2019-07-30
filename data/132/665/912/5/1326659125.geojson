@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0648\u0631\u0643\u0627\u0644"
+    ],
+    "name:ceb_x_preferred":[
+        "K\u0101l Sh\u016br \u015eed\u0101qat"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u0648\u0631 \u06a9\u0627\u0644"
     ],
     "name:fas_x_variant":[
-        "Sh\u016br K\u0101l"
+        "Sh\u016br K\u0101l",
+        "\u0634\u0648\u0631\u06a9\u0627\u0644"
+    ],
+    "name:swe_x_preferred":[
+        "K\u0101l Sh\u016br \u015eed\u0101qat"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":1326659125,
-    "wof:lastmodified":1537648029,
+    "wof:lastmodified":1564108618,
     "wof:name":"Shur Kal",
     "wof:parent_id":1108720095,
     "wof:placetype":"locality",

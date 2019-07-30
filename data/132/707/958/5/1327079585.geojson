@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u064a\u0646\u06a9\u0634"
+    ],
     "name:fas_x_preferred":[
         "\u0632\u06cc\u0646 \u06a9\u0634"
     ],
     "name:fas_x_variant":[
-        "Z\u012bn Kesh"
+        "Z\u012bn Kesh",
+        "\u0632\u06cc\u0646\u06a9\u0634"
+    ],
+    "name:msa_x_preferred":[
+        "Zin Kesh"
+    ],
+    "name:tur_x_preferred":[
+        "Zinke\u015f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":1327079585,
-    "wof:lastmodified":1537641117,
+    "wof:lastmodified":1564107607,
     "wof:name":"Zin Kesh",
     "wof:parent_id":1108719907,
     "wof:placetype":"locality",

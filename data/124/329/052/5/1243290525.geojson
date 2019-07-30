@@ -25,11 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u063a \u0623\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0648\u063a \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "D\u016bgh\u0101b\u0101d"
+        "D\u016bgh\u0101b\u0101d",
+        "\u062f\u0648\u063a\u200c\u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243290525,
-    "wof:lastmodified":1537645396,
+    "wof:lastmodified":1564118081,
     "wof:name":"Dughabad",
     "wof:parent_id":1108720191,
     "wof:placetype":"locality",

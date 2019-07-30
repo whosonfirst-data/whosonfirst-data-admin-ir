@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u062e \u0632\u0646\u063a\u064a"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u064a\u062e \u0632\u0646\u06af\u06cc"
     ],
     "name:fas_x_variant":[
-        "Sheykh Zang\u012b"
+        "Sheykh Zang\u012b",
+        "\u0634\u06cc\u062e \u0632\u0646\u06af\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Sheykh Zangi"
     ],
     "name:und_x_variant":[
         "Sheikh Zangi",
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":1360141145,
-    "wof:lastmodified":1537643326,
+    "wof:lastmodified":1564116203,
     "wof:name":"Sheykh Zangi",
     "wof:parent_id":1108719967,
     "wof:placetype":"locality",

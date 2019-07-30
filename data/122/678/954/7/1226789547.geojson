@@ -25,13 +25,23 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "M\u0101lkhv\u0101st"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u064e\u0644\u062e\u064e\u0633"
     ],
     "name:fas_x_variant":[
         "\u0645\u0627\u0644 \u062e\u0627\u0633\u062a",
         "M\u0101lkhv\u0101st",
-        "\u0645\u0627\u0644\u062e\u0648\u0627\u0633\u062a"
+        "\u0645\u0627\u0644\u062e\u0648\u0627\u0633\u062a",
+        "\u0645\u0627\u0644\u200c\u062e\u0648\u0627\u0633\u062a"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0645\u0627\u0644\u200c\u062e\u0627\u0633\u062a"
+    ],
+    "name:swe_x_preferred":[
+        "M\u0101lkhv\u0101st"
     ],
     "name:und_x_variant":[
         "M\u0101l Kh\u0101st",
@@ -62,7 +72,7 @@
         }
     ],
     "wof:id":1226789547,
-    "wof:lastmodified":1537644313,
+    "wof:lastmodified":1564120001,
     "wof:name":"Malkhvast",
     "wof:parent_id":1108720401,
     "wof:placetype":"locality",

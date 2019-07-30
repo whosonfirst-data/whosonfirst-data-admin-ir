@@ -25,11 +25,30 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u064a\u0632"
+    ],
+    "name:aze_x_preferred":[
+        "Riz"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u064a\u0632"
     ],
     "name:fas_x_variant":[
-        "R\u012bz"
+        "R\u012bz",
+        "\u0631\u06cc\u0632"
+    ],
+    "name:mlg_x_preferred":[
+        "Riz"
+    ],
+    "name:msa_x_preferred":[
+        "Riz"
+    ],
+    "name:tur_x_preferred":[
+        "Riz"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u06cc\u0632"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +74,7 @@
         }
     ],
     "wof:id":1360041787,
-    "wof:lastmodified":1537643640,
+    "wof:lastmodified":1564116477,
     "wof:name":"Riz",
     "wof:parent_id":1108720075,
     "wof:placetype":"locality",

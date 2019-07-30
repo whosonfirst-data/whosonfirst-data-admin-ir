@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0632\u0644\u200c\u0622\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u0642\u0632\u0644 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "Qezel\u0101b\u0101d"
+        "Qezel\u0101b\u0101d",
+        "\u0642\u0632\u0644\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Qezelabad"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1226231573,
-    "wof:lastmodified":1537641976,
+    "wof:lastmodified":1564120026,
     "wof:name":"Qezelabad",
     "wof:parent_id":1108720047,
     "wof:placetype":"locality",

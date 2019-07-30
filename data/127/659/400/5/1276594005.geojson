@@ -25,6 +25,9 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631\u0627\u0642\u0648\u0645"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u064a\u0631 \u0627\u064e\u0642\u0648\u0627\u0645"
     ],
@@ -32,7 +35,14 @@
         "\u067e\u064a\u0631 \u0627\u064e\u0642\u064f\u0648\u0627\u0645",
         "\u067e\u064a\u0631 \u0627\u0642\u0648\u0646",
         "P\u012br Aq\u016b\u0101m",
-        "P\u012br Aq\u016bn"
+        "P\u012br Aq\u016bn",
+        "\u067e\u06cc\u0631\u0627\u0642\u0648\u0645"
+    ],
+    "name:msa_x_preferred":[
+        "Pir Aquam"
+    ],
+    "name:mzn_x_preferred":[
+        "\u067e\u06cc\u0631\u0627\u0642\u0648\u0645"
     ],
     "name:und_x_variant":[
         "P\u012br Aqow\u0101m"
@@ -61,7 +71,7 @@
         }
     ],
     "wof:id":1276594005,
-    "wof:lastmodified":1537642125,
+    "wof:lastmodified":1564112159,
     "wof:name":"Pir Aqun",
     "wof:parent_id":1108719823,
     "wof:placetype":"locality",

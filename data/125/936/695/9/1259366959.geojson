@@ -29,7 +29,11 @@
         "Sh\u012br\u012bn\u0101b\u0101d"
     ],
     "name:fas_x_variant":[
-        "\u0634\u06cc\u0631\u06cc\u0646 \u0622\u0628\u0627\u062f"
+        "\u0634\u06cc\u0631\u06cc\u0646 \u0622\u0628\u0627\u062f",
+        "\u0634\u06cc\u0631\u06cc\u0646\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Shirinabad"
     ],
     "name:und_x_variant":[
         "\u0634\u06cc\u0631\u06cc\u0646 \u0622\u0628\u0627\u062f"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1259366959,
-    "wof:lastmodified":1537643317,
+    "wof:lastmodified":1564118218,
     "wof:name":"Shirinabad",
     "wof:parent_id":1108720205,
     "wof:placetype":"locality",

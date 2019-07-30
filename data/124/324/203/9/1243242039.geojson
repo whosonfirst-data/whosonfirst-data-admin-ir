@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u0631\u0622\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0648\u0631 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "N\u016br\u0101b\u0101d"
+        "N\u016br\u0101b\u0101d",
+        "\u0646\u0648\u0631\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Nurabad"
     ],
     "name:und_x_variant":[
         "Z\u0327olm\u0101t"
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1243242039,
-    "wof:lastmodified":1537641507,
+    "wof:lastmodified":1564117446,
     "wof:name":"Nurabad",
     "wof:parent_id":1108720453,
     "wof:placetype":"locality",

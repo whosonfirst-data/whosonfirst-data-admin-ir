@@ -25,11 +25,27 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0627\u0647 \u0644\u0634"
+    ],
+    "name:ceb_x_preferred":[
+        "S\u012b\u0101h Lash"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u06cc\u0627\u0647 \u0644\u0634"
     ],
     "name:fas_x_variant":[
+        "S\u012b\u0101h Lash",
+        "\u0633\u06cc\u0627\u0647\u200c\u0644\u0634"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0633\u06cc\u0627\u0647\u200c\u0644\u0634"
+    ],
+    "name:swe_x_preferred":[
         "S\u012b\u0101h Lash"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0456\u044f\u0445-\u041b\u0430\u0448"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +71,7 @@
         }
     ],
     "wof:id":1343405621,
-    "wof:lastmodified":1537640443,
+    "wof:lastmodified":1564109626,
     "wof:name":"Siah Lash",
     "wof:parent_id":1108719807,
     "wof:placetype":"locality",

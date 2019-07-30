@@ -29,7 +29,11 @@
         "Rob\u0101\u0163 K\u016bh"
     ],
     "name:fas_x_variant":[
-        "\u0631\u0628\u0627\u0637 \u06a9\u0648\u0647"
+        "\u0631\u0628\u0627\u0637 \u06a9\u0648\u0647",
+        "\u0631\u0628\u0627\u0637\u200c\u06a9\u0648\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Robat Kuh"
     ],
     "name:und_x_variant":[
         "\u0631\u0628\u0627\u0637 \u06a9\u0648\u0647"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1259584683,
-    "wof:lastmodified":1537648362,
+    "wof:lastmodified":1564118809,
     "wof:name":"Robat Kuh",
     "wof:parent_id":1108720171,
     "wof:placetype":"locality",

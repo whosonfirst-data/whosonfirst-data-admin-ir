@@ -25,13 +25,23 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sarm\u0101zeq"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0631\u0645\u0627\u0632\u0650\u063a"
     ],
     "name:fas_x_variant":[
         "Sarm\u0101zegh",
         "Sarm\u0101zeq",
-        "\u0633\u0631\u0645\u0627\u0632\u0642"
+        "\u0633\u0631\u0645\u0627\u0632\u0642",
+        "\u0633\u0631\u0645\u0627\u0632\u063a"
+    ],
+    "name:msa_x_preferred":[
+        "Sarmazegh"
+    ],
+    "name:swe_x_preferred":[
+        "Sarm\u0101zeq"
     ],
     "name:und_x_variant":[
         "\u0633\u0631\u0645\u0627\u0632\u0642"
@@ -54,7 +64,7 @@
         }
     ],
     "wof:id":1209502983,
-    "wof:lastmodified":1537642735,
+    "wof:lastmodified":1564113561,
     "wof:name":"Sarmazeq",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",

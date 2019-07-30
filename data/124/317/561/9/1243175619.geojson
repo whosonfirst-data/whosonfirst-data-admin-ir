@@ -25,12 +25,28 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0644\u200c\u0627\u0634\u0627\u0642\u064a"
+    ],
+    "name:aze_x_preferred":[
+        "G\u0259la\u015fa\u011f\u0131"
+    ],
+    "name:ceb_x_preferred":[
+        "Gal \u0100sh\u0101q\u012b"
+    ],
     "name:fas_x_preferred":[
         "\u06af\u0644 \u0622\u0634\u0627\u0642\u06cc"
     ],
     "name:fas_x_variant":[
         "\u06af\u064e\u0644\u0627\u0634\u064e\u0642\u06cc",
         "Gal\u0101shaq\u012b",
+        "Gal \u0100sh\u0101q\u012b",
+        "\u06af\u0644\u200c\u0627\u0634\u0627\u0642\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Gal Ashaqi"
+    ],
+    "name:swe_x_preferred":[
         "Gal \u0100sh\u0101q\u012b"
     ],
     "src:geom":"geonames",
@@ -57,7 +73,7 @@
         }
     ],
     "wof:id":1243175619,
-    "wof:lastmodified":1537640764,
+    "wof:lastmodified":1564118131,
     "wof:name":"Gal Ashaqi",
     "wof:parent_id":1108719923,
     "wof:placetype":"locality",

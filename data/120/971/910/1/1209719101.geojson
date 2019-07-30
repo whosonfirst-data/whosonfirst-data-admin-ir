@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062d\u06cc\u0635\u0627\u0631\u0628\u0627\u0628\u0627\u06af\u0646\u062c\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "Hisar-i Babag\u0259nc\u0259"
+    ],
     "name:fas_x_preferred":[
         "\u062d\u0650\u0635\u0627\u0631\u0650 \u0628\u0627\u0628\u0627\u06af\u064e\u0646\u062c\u0650\u0647"
     ],
     "name:fas_x_variant":[
-        "\u1e28e\u015f\u0101r-e B\u0101b\u0101ganjeh"
+        "\u1e28e\u015f\u0101r-e B\u0101b\u0101ganjeh",
+        "\u062d\u0635\u0627\u0631 \u0628\u0627\u0628\u0627\u06af\u0646\u062c\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Hesar-e Babaganjeh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":1209719101,
-    "wof:lastmodified":1537641024,
+    "wof:lastmodified":1564113449,
     "wof:name":"Hesar-e Babaganjeh",
     "wof:parent_id":1108720289,
     "wof:placetype":"locality",

@@ -25,16 +25,47 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Xanabad"
+    ],
+    "name:ceb_x_preferred":[
+        "Khanabad"
+    ],
+    "name:deu_x_preferred":[
+        "Chanabad"
+    ],
     "name:fas_x_preferred":[
         "Kh\u0101n\u0101b\u0101d"
     ],
     "name:fas_x_variant":[
         "\u062e\u0627\u0646 \u0622\u0628\u0627\u062f",
-        "\u0627\u0645\u0627\u0645\u0632\u0627\u062f\u0647 \u0639\u0628\u062f\u0627\u0644\u0644\u0647"
+        "\u0627\u0645\u0627\u0645\u0632\u0627\u062f\u0647 \u0639\u0628\u062f\u0627\u0644\u0644\u0647",
+        "\u062e\u0627\u0646\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Khanabad"
+    ],
+    "name:ita_x_preferred":[
+        "Xanabad"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d0\u10dc\u10d0\u10d1\u10d0\u10d3\u10d8"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043d\u0430\u0431\u0430\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Khanabad"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0430\u043d\u0430\u0431\u0430\u0434"
     ],
     "name:und_x_variant":[
         "\u062e\u0627\u0646 \u0622\u0628\u0627\u062f",
         "Em\u0101mz\u0101deh \u2018Abdoll\u0101h"
+    ],
+    "name:uzb_x_preferred":[
+        "Xonobod"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +90,7 @@
         }
     ],
     "wof:id":1326814401,
-    "wof:lastmodified":1537644615,
+    "wof:lastmodified":1564107664,
     "wof:name":"Khanabad",
     "wof:parent_id":1108720205,
     "wof:placetype":"locality",

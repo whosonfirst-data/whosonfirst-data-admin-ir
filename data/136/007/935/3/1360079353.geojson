@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u0635\u0644\u200c\u0622\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u0627\u0635\u0644 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "V\u0101\u015fel\u0101b\u0101d"
+        "V\u0101\u015fel\u0101b\u0101d",
+        "\u0648\u0627\u0635\u0644\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Vaselabad"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1360079353,
-    "wof:lastmodified":1537643049,
+    "wof:lastmodified":1564116238,
     "wof:name":"Vaselabad",
     "wof:parent_id":1108720003,
     "wof:placetype":"locality",

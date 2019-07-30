@@ -25,19 +25,50 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a \u0633\u062e\u062a"
+    ],
+    "name:aze_x_preferred":[
+        "Sis\u0259xt"
+    ],
+    "name:ceb_x_preferred":[
+        "S\u012bsakht"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0650\u0647 \u0628\u064f\u0632\u064f\u0631\u06af\u0650 \u0633\u064a\u0633\u064e\u062e\u062a"
     ],
     "name:fas_x_variant":[
         "\u062f\u0650\u0647 \u0628\u064f\u0632\u064f\u0631\u06af\u0650 \u0633\u064a\u0633\u0627\u062e\u062a",
         "S\u012bsakht",
-        "\u0633\u06cc \u0633\u062e\u062a"
+        "\u0633\u06cc \u0633\u062e\u062a",
+        "\u0633\u06cc\u200c\u0633\u062e\u062a"
+    ],
+    "name:ita_x_preferred":[
+        "Si Sakht"
+    ],
+    "name:mlg_x_preferred":[
+        "Sisakht"
+    ],
+    "name:pol_x_preferred":[
+        "Sisacht"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0441\u0435\u0445\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "S\u012bsakht"
+    ],
+    "name:tur_x_preferred":[
+        "Siseht"
     ],
     "name:und_x_variant":[
         "Deh Bozorg-e S\u012bs\u0101kht",
         "Deh Bozorg-e S\u012bsakht",
         "Deh-e Bozorg S\u012bsakht",
         "\u0633\u06cc \u0633\u062e\u062a"
+    ],
+    "name:zho_x_preferred":[
+        "\u932b\u85a9\u8d6b\u7279"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +94,7 @@
         }
     ],
     "wof:id":1309716649,
-    "wof:lastmodified":1537645537,
+    "wof:lastmodified":1564116674,
     "wof:name":"Sisakht",
     "wof:parent_id":1108719965,
     "wof:placetype":"locality",

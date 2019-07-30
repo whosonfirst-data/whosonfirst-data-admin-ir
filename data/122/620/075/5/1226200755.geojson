@@ -25,6 +25,9 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0627\u0647 \u0645\u0646\u0635\u0648\u0631 \u0627\u0644\u0639\u0644\u064a\u0627"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u064a\u0627\u0647 \u0645\u064e\u0646\u0635\u0648\u0631\u0650 \u0628\u0627\u0644\u0627"
     ],
@@ -34,7 +37,11 @@
         "\u0633\u064a\u0627\u0647 \u0645\u064e\u0646\u0635\u0648\u0631\u0650 \u0639\u064f\u0644\u064a\u064e",
         "S\u012b\u0101h Man\u015f\u016br-e \u2018Oly\u0101",
         "S\u012b\u0101h Man\u015f\u016br-e B\u0101l\u0101",
-        "\u0633\u064a\u0627\u0647 \u0645\u0646\u0635\u0648\u0631\u0650 \u0639\u0644\u064a\u0627"
+        "\u0633\u064a\u0627\u0647 \u0645\u0646\u0635\u0648\u0631\u0650 \u0639\u0644\u064a\u0627",
+        "\u0633\u06cc\u0627\u0647\u200c\u0645\u0646\u0635\u0648\u0631 \u0639\u0644\u06cc\u0627"
+    ],
+    "name:msa_x_preferred":[
+        "Siah Mansur-e Olya"
     ],
     "name:und_x_variant":[
         "Sey\u0101h Man\u015f\u016br-e \u2018Oly\u0101",
@@ -65,7 +72,7 @@
         }
     ],
     "wof:id":1226200755,
-    "wof:lastmodified":1537643279,
+    "wof:lastmodified":1564119396,
     "wof:name":"Siah Mansur-e `Olya",
     "wof:parent_id":1108719951,
     "wof:placetype":"locality",

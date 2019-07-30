@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u064a\u0647"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u064f\u0632\u064a\u0650\u0651\u0647"
     ],
     "name:fas_x_variant":[
-        "Moz\u012byeh"
+        "Moz\u012byeh",
+        "\u0645\u0632\u06cc\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Moziyeh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1327422473,
-    "wof:lastmodified":1537644123,
+    "wof:lastmodified":1564108799,
     "wof:name":"Moziyeh",
     "wof:parent_id":1108719957,
     "wof:placetype":"locality",

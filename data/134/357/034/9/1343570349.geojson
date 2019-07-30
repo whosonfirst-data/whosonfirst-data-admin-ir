@@ -25,13 +25,38 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0627\u062c\u064a \u062e\u0648\u0634"
+    ],
+    "name:azb_x_preferred":[
+        "\u062d\u0627\u062c\u06cc\u200c\u062e\u0648\u0634(\u0633\u0648\u06cc\u0648\u0642\u200c\u0628\u0648\u0644\u0627\u0642)"
+    ],
+    "name:aze_x_preferred":[
+        "Hac\u0131xo\u015f"
+    ],
+    "name:ceb_x_preferred":[
+        "\u1e28\u0101jj\u012b Khvosh"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062d\u0627\u062c\u06cc \u062e\u06c6\u0634"
+    ],
     "name:fas_x_preferred":[
         "\u062d\u064e\u062c\u0651\u062a \u062e\u064f\u0648\u0634"
     ],
     "name:fas_x_variant":[
         "\u062d\u0627\u062c\u06cc \u062e\u0648\u0634",
         "\u1e28\u0101jj\u012b Khvosh",
-        "\u062d\u0627\u062c\u0651\u06cc \u062e\u0648\u064f\u0634"
+        "\u062d\u0627\u062c\u0651\u06cc \u062e\u0648\u064f\u0634",
+        "\u062d\u0627\u062c\u06cc\u200c\u062e\u0648\u0634"
+    ],
+    "name:kur_x_preferred":[
+        "\u1e26ac\u00ee xo\u015f"
+    ],
+    "name:msa_x_preferred":[
+        "Hajji Khvosh"
+    ],
+    "name:swe_x_preferred":[
+        "\u1e28\u0101jj\u012b Khvosh"
     ],
     "name:und_x_variant":[
         "\u1e28ajjt Khowsh"
@@ -60,7 +85,7 @@
         }
     ],
     "wof:id":1343570349,
-    "wof:lastmodified":1537646640,
+    "wof:lastmodified":1564109758,
     "wof:name":"Hajji Khvosh",
     "wof:parent_id":1108720193,
     "wof:placetype":"locality",

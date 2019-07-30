@@ -29,7 +29,11 @@
         "\u0100q Qam\u012bsh"
     ],
     "name:fas_x_variant":[
-        "\u0622\u0642 \u0642\u0645\u064a\u0634"
+        "\u0622\u0642 \u0642\u0645\u064a\u0634",
+        "\u0622\u0642\u200c\u0642\u0645\u06cc\u0634"
+    ],
+    "name:msa_x_preferred":[
+        "Aq Qamish"
     ],
     "name:und_x_variant":[
         "\u0622\u0642 \u0642\u0645\u064a\u0634"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1226586805,
-    "wof:lastmodified":1537646506,
+    "wof:lastmodified":1564119563,
     "wof:name":"Aq Qamish",
     "wof:parent_id":1108720245,
     "wof:placetype":"locality",

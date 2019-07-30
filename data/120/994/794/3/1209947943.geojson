@@ -25,10 +25,20 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u062f \u0635\u0641\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Seyyed \u015eaf\u012b"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u064a\u0651\u062f \u0635\u0641\u06cc"
     ],
     "name:fas_x_variant":[
+        "Seyyed \u015eaf\u012b",
+        "\u0633\u06cc\u062f \u0635\u0641\u06cc"
+    ],
+    "name:swe_x_preferred":[
         "Seyyed \u015eaf\u012b"
     ],
     "src:geom":"geonames",
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":1209947943,
-    "wof:lastmodified":1537642555,
+    "wof:lastmodified":1564113745,
     "wof:name":"Seyyed Safi",
     "wof:parent_id":1108719859,
     "wof:placetype":"locality",

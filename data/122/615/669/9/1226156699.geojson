@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0645\u0627\u0648\u0646\u062f\u0627"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u0648\u0627\u0646\u062f\u0627"
     ],
     "name:fas_x_variant":[
-        "M\u0101v\u0101nd\u0101"
+        "M\u0101v\u0101nd\u0101",
+        "\u0645\u0627\u0648\u0646\u062f\u0627"
+    ],
+    "name:msa_x_preferred":[
+        "Mavanda"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1226156699,
-    "wof:lastmodified":1537647332,
+    "wof:lastmodified":1564120076,
     "wof:name":"Mavanda",
     "wof:parent_id":1108720399,
     "wof:placetype":"locality",

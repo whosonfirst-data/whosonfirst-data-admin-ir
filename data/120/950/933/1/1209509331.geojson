@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u062d\u062f\u062a\u200c\u0622\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u062d\u062f\u062a \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "Va\u1e29dat\u0101b\u0101d"
+        "Va\u1e29dat\u0101b\u0101d",
+        "\u0648\u062d\u062f\u062a\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Vahdatabad"
     ],
     "name:und_x_variant":[
         "Va\u1e29dat\u0101b\u0101d"
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":1209509331,
-    "wof:lastmodified":1537647229,
+    "wof:lastmodified":1564113560,
     "wof:name":"Vahdatabad",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",

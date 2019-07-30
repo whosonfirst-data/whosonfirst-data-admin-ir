@@ -25,6 +25,9 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "M\u0101chekeh-ye P\u0101'\u012bn"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u0686\u06a9\u0647 \u067e\u0627\u0626\u06cc\u0646"
     ],
@@ -33,12 +36,18 @@
         "M\u0101chekeh-ye P\u0101\u2019\u012bn",
         "\u0645\u0627\u0686\u06a9\u0647 \u0633\u0641\u0644\u06cc"
     ],
+    "name:swe_x_preferred":[
+        "M\u0101chekeh-ye P\u0101'\u012bn"
+    ],
     "name:und_x_variant":[
         "M\u0101chgeh-ye Sofl\u00e1",
         "M\u0101chkeh-ye Sofl\u00e1",
         "Machkeh-ye P\u0101\u2019\u012bn",
         "M\u0101chgeh-ye P\u0101\u2019\u012bn",
         "Machkeh P\u0101in"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0686\u06a9\u06c1 \u0633\u0641\u0644\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":1259851493,
-    "wof:lastmodified":1537644359,
+    "wof:lastmodified":1564118605,
     "wof:name":"Machekeh-ye Pa'in",
     "wof:parent_id":1108720379,
     "wof:placetype":"locality",

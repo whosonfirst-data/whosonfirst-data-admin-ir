@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0647\u0648\u06a9\u064a"
+    ],
     "name:fas_x_preferred":[
         "\u0632\u0647\u0648\u0643\u06cc"
     ],
     "name:fas_x_variant":[
-        "Zoh\u016bk\u012b"
+        "Zoh\u016bk\u012b",
+        "\u0632\u0647\u0648\u06a9\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Zohuki"
     ],
     "name:und_x_variant":[
         "Zeh\u016bk\u012b",
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":1209492823,
-    "wof:lastmodified":1537642951,
+    "wof:lastmodified":1564113469,
     "wof:name":"Zohuki",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",

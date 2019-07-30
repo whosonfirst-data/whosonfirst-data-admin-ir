@@ -25,6 +25,12 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628 \u0628\u0627\u062f \u0642\u0647\u0631\u0645\u0627\u0646\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "\u0100b Y\u0101d-e Qahrem\u0101n\u012b"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u0628 \u06cc\u0627\u062f \u0642\u0647\u0631\u0645\u0627\u0646\u06cc"
     ],
@@ -32,11 +38,18 @@
         "\u0100b B\u0101d-e Qahrem\u0101n\u012b",
         "\u0100b Y\u0101d-e Qahrem\u0101n\u012b",
         "\u0622\u0628\u0627\u062f \u0642\u0647\u0631\u0645\u0627\u0646",
-        "\u0622\u0628\u0628\u0627\u062f \u0642\u0647\u0631\u0645\u0627\u0646\u06cc"
+        "\u0622\u0628\u0628\u0627\u062f \u0642\u0647\u0631\u0645\u0627\u0646\u06cc",
+        "\u0622\u0628\u200c\u0628\u0627\u062f \u0642\u0647\u0631\u0645\u0627\u0646\u06cc"
+    ],
+    "name:swe_x_preferred":[
+        "\u0100b Y\u0101d-e Qahrem\u0101n\u012b"
     ],
     "name:und_x_variant":[
         "\u0100b\u0101d-e Qahrem\u0101n",
         "\u0100bb\u0101d-e Qahrem\u0101n\u012b"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0628\u200c\u0628\u0627\u062f \u0642\u06c1\u0631\u0645\u0627\u0646\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +75,7 @@
         }
     ],
     "wof:id":1226403451,
-    "wof:lastmodified":1537646617,
+    "wof:lastmodified":1564120024,
     "wof:name":"Ab Yad-e Qahremani",
     "wof:parent_id":1108719851,
     "wof:placetype":"locality",

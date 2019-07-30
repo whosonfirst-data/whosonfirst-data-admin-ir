@@ -25,12 +25,19 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0634\u0645\u0642\u0648\u0644\u0647"
+    ],
     "name:fas_x_preferred":[
         "\u0686\u0634\u0645\u0647 \u0642\u0648\u0644\u0647"
     ],
     "name:fas_x_variant":[
         "Cheshmeh Q\u016bleh",
-        "\u0686\u0645 \u0642\u0648\u0644\u0647"
+        "\u0686\u0645 \u0642\u0648\u0644\u0647",
+        "\u0686\u0645\u0642\u0648\u0644\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Cham Quleh"
     ],
     "name:und_x_variant":[
         "Cham Q\u016bleh"
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":1209610223,
-    "wof:lastmodified":1537647473,
+    "wof:lastmodified":1564113598,
     "wof:name":"Cham Quleh",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",

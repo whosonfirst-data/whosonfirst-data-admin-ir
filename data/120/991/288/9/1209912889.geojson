@@ -25,13 +25,23 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0645\u063a\u0627\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "S\u0101mgh\u0101n"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u064f\u0645\u063a\u0627\u0646"
     ],
     "name:fas_x_variant":[
         "\u0633\u064f\u0648\u0645 \u06af\u0648\u0645",
         "Samgh\u0101n",
-        "\u0633\u0645\u063a\u0627\u0646"
+        "\u0633\u0645\u063a\u0627\u0646",
+        "\u0633\u0627\u0645\u063a\u0627\u0646"
+    ],
+    "name:swe_x_preferred":[
+        "S\u0101mgh\u0101n"
     ],
     "name:und_x_variant":[
         "Sumgh\u016bm",
@@ -62,7 +72,7 @@
         }
     ],
     "wof:id":1209912889,
-    "wof:lastmodified":1537643243,
+    "wof:lastmodified":1564113057,
     "wof:name":"Samghan",
     "wof:parent_id":1108720157,
     "wof:placetype":"locality",

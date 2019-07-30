@@ -29,7 +29,11 @@
         "\u1e28ab\u012bb\u0101b\u0101d"
     ],
     "name:fas_x_variant":[
-        "\u062d\u0628\u06cc\u0628 \u0622\u0628\u0627\u062f"
+        "\u062d\u0628\u06cc\u0628 \u0622\u0628\u0627\u062f",
+        "\u062d\u0628\u06cc\u0628\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Habibabad"
     ],
     "name:und_x_variant":[
         "\u062d\u0628\u06cc\u0628 \u0622\u0628\u0627\u062f"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1259467151,
-    "wof:lastmodified":1537645072,
+    "wof:lastmodified":1564118513,
     "wof:name":"Habibabad",
     "wof:parent_id":1108720257,
     "wof:placetype":"locality",

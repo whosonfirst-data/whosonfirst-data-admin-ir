@@ -25,18 +25,25 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628 \u0628\u0627\u062f \u0628\u062f\u0631\u064a"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u0628 \u06cc\u0627\u062f \u0628\u062f\u0631\u06cc"
     ],
     "name:fas_x_variant":[
         "\u0100b B\u0101d-e Pedar\u012b",
         "\u0100b Y\u0101d-e Badr\u012b",
-        "\u0622\u0628\u0628\u0627\u062f \u067e\u062f\u0631\u06cc"
+        "\u0622\u0628\u0628\u0627\u062f \u067e\u062f\u0631\u06cc",
+        "\u0622\u0628\u200c\u0628\u0627\u062f \u067e\u062f\u0631\u06cc"
     ],
     "name:und_x_variant":[
         "\u0100b B\u0101d",
         "\u0100b B\u0101d-e Peders",
         "\u0100bb\u0101d-e Pedar\u012b"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0628\u200c\u0628\u0627\u062f \u067e\u062f\u0631\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":1343308615,
-    "wof:lastmodified":1537646361,
+    "wof:lastmodified":1564109065,
     "wof:name":"Ab Yad-e Badri",
     "wof:parent_id":1108719851,
     "wof:placetype":"locality",

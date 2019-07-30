@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "S\u012bbest\u0101n"
+    ],
     "name:fas_x_preferred":[
         "S\u012bbest\u0101n"
     ],
     "name:fas_x_variant":[
-        "\u0633\u064a\u0628\u0633\u062a\u0627\u0646"
+        "\u0633\u064a\u0628\u0633\u062a\u0627\u0646",
+        "\u0633\u06cc\u0628\u200c\u0633\u062a\u0627\u0646"
+    ],
+    "name:msa_x_preferred":[
+        "Sibestan"
+    ],
+    "name:swe_x_preferred":[
+        "S\u012bbest\u0101n"
     ],
     "name:und_x_variant":[
         "\u0633\u064a\u0628\u0633\u062a\u0627\u0646"
@@ -58,7 +68,7 @@
         }
     ],
     "wof:id":1243582945,
-    "wof:lastmodified":1537640525,
+    "wof:lastmodified":1564117690,
     "wof:name":"Sibestan",
     "wof:parent_id":1108720409,
     "wof:placetype":"locality",

@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0631\u0642 \u0623\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u0631\u0642 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "Sharq\u0101b\u0101d"
+        "Sharq\u0101b\u0101d",
+        "\u0634\u0631\u0642\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Sharqabad"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1260385611,
-    "wof:lastmodified":1537647920,
+    "wof:lastmodified":1564114770,
     "wof:name":"Sharqabad",
     "wof:parent_id":1108719827,
     "wof:placetype":"locality",

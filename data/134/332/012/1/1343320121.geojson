@@ -30,11 +30,15 @@
     ],
     "name:fas_x_variant":[
         "\u0100b B\u0101r\u012bk\u012b",
-        "\u0100b-e B\u0101r\u012bk\u012b"
+        "\u0100b-e B\u0101r\u012bk\u012b",
+        "\u0622\u0628\u200c\u0628\u0627\u0631\u06cc\u06a9\u06cc"
     ],
     "name:und_x_variant":[
         "\u0100b-e B\u0101r\u012bk\u012b",
         "\u0100b-\u012b-B\u0101r\u012bk\u012b"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0628\u200c\u0628\u0627\u0631\u06cc\u06a9\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1343320121,
-    "wof:lastmodified":1537646358,
+    "wof:lastmodified":1564109762,
     "wof:name":"Ab Bariki",
     "wof:parent_id":1108720169,
     "wof:placetype":"locality",

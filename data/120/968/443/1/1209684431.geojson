@@ -25,17 +25,30 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0641\u064a \u0623\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u0635\u0641\u06cc \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
         "\u0633\u064e\u0639\u064a\u062f \u0622\u0628\u0627\u062f",
         "\u0633\u0650\u064a\u0641\u06cc \u0622\u0628\u0627\u062f",
-        "\u015eaf\u012b\u0101b\u0101d"
+        "\u015eaf\u012b\u0101b\u0101d",
+        "\u0635\u0641\u06cc\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Safiabad"
+    ],
+    "name:msa_x_preferred":[
+        "Safiabad"
     ],
     "name:und_x_variant":[
         "Seyf\u012b\u0101b\u0101d",
         "Sa\u2018\u012bd\u0101b\u0101d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0635\u0641\u06cc \u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +68,7 @@
         }
     ],
     "wof:id":1209684431,
-    "wof:lastmodified":1537643580,
+    "wof:lastmodified":1564113582,
     "wof:name":"Safiabad",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",

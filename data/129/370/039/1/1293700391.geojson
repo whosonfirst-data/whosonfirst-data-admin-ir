@@ -25,10 +25,26 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u06af\u0648\u0631\u0627\u0646 \u0622\u0628\u0627\u062f \u0642\u0627\u0636\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Guranabad-i Qazi"
+    ],
+    "name:ceb_x_preferred":[
+        "G\u016br\u0101n\u0101b\u0101d-e Q\u0101\u1e95\u012b"
+    ],
     "name:fas_x_preferred":[
         "\u06af\u0648\u0631\u0627\u0646 \u0622\u0628\u0627\u062f \u0642\u0627\u0636\u06cc"
     ],
     "name:fas_x_variant":[
+        "G\u016br\u0101n\u0101b\u0101d-e Q\u0101\u1e95\u012b",
+        "\u06af\u0648\u0631\u0627\u0646\u200c\u0622\u0628\u0627\u062f\u0642\u0627\u0636\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Guranabad-e Qazi"
+    ],
+    "name:swe_x_preferred":[
         "G\u016br\u0101n\u0101b\u0101d-e Q\u0101\u1e95\u012b"
     ],
     "src:geom":"geonames",
@@ -55,7 +71,7 @@
         }
     ],
     "wof:id":1293700391,
-    "wof:lastmodified":1537647333,
+    "wof:lastmodified":1564110763,
     "wof:name":"Guranabad-e Qazi",
     "wof:parent_id":1108720265,
     "wof:placetype":"locality",

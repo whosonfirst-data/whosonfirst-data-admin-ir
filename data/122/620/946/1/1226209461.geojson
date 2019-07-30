@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "\u0100jorbast"
+    ],
     "name:fas_x_preferred":[
         "\u0100jorbast"
     ],
     "name:fas_x_variant":[
-        "\u0622\u062c\u0631\u0628\u0633\u062a"
+        "\u0622\u062c\u0631\u0628\u0633\u062a",
+        "\u0627\u062c\u0631\u0628\u0633\u062a"
+    ],
+    "name:swe_x_preferred":[
+        "\u0100jorbast"
     ],
     "name:und_x_variant":[
         "\u0622\u062c\u0631\u0628\u0633\u062a"
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1226209461,
-    "wof:lastmodified":1537641813,
+    "wof:lastmodified":1564119392,
     "wof:name":"Ajorbast",
     "wof:parent_id":1108720507,
     "wof:placetype":"locality",

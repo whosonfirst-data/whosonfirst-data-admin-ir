@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0647 \u06a9\u0644"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0650\u0647\u0650 \u0643\u064e\u0644"
     ],
     "name:fas_x_variant":[
-        "\u062f\u0647 \u06af\u0644"
+        "\u062f\u0647 \u06af\u0644",
+        "\u062f\u0647 \u06a9\u0644"
+    ],
+    "name:msa_x_preferred":[
+        "Deh-e Kal"
     ],
     "name:und_x_variant":[
         "Deh-e Kal",
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":1326737369,
-    "wof:lastmodified":1537640871,
+    "wof:lastmodified":1564107743,
     "wof:name":"Deh-e Gol",
     "wof:parent_id":1108719821,
     "wof:placetype":"locality",

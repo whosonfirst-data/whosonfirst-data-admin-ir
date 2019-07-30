@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0648\u0648\u062f\u064a"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0627\u0648\u062f\u06cc"
     ],
     "name:fas_x_variant":[
-        "D\u0101v\u016bd\u012b"
+        "D\u0101v\u016bd\u012b",
+        "\u062f\u0627\u0648\u0648\u062f\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Davudi"
     ],
     "name:und_x_variant":[
         "Davodi"
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1327214417,
-    "wof:lastmodified":1537645548,
+    "wof:lastmodified":1564108724,
     "wof:name":"Davoodi",
     "wof:parent_id":1108719863,
     "wof:placetype":"locality",

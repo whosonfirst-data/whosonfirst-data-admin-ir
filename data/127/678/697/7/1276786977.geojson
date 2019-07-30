@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0647\u0631\u0648\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0647 \u0631\u0648\u062f"
     ],
     "name:fas_x_variant":[
-        "Deh R\u016bd"
+        "Deh R\u016bd",
+        "\u062f\u0647\u0631\u0648\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Deh Rud"
     ],
     "name:und_x_variant":[
         "Dow R\u016bd"
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1276786977,
-    "wof:lastmodified":1537645483,
+    "wof:lastmodified":1564112523,
     "wof:name":"Deh Rud",
     "wof:parent_id":1108720009,
     "wof:placetype":"locality",

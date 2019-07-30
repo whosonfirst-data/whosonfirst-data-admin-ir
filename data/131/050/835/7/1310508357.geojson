@@ -25,10 +25,23 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u06a9\u064a \u0623\u0628\u0627\u062f"
+    ],
+    "name:ceb_x_preferred":[
+        "S\u0101k\u012b\u0101b\u0101d"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0627\u0643\u06cc \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
+        "S\u0101k\u012b\u0101b\u0101d",
+        "\u0633\u0627\u06a9\u06cc\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Sakiabad"
+    ],
+    "name:swe_x_preferred":[
         "S\u0101k\u012b\u0101b\u0101d"
     ],
     "src:geom":"geonames",
@@ -55,7 +68,7 @@
         }
     ],
     "wof:id":1310508357,
-    "wof:lastmodified":1537640847,
+    "wof:lastmodified":1564115951,
     "wof:name":"Sakiabad",
     "wof:parent_id":1108719903,
     "wof:placetype":"locality",

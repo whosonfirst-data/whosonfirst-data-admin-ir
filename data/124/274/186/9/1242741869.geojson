@@ -25,13 +25,20 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u0632\u0647\u200c\u0622\u0628\u0627\u062f \u0647\u064a\u062c\u0627\u0646"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062a\u0627\u0632\u0627\u0648\u0627\u06cc \u06be\u06ce\u062c\u0627\u0646"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0627\u0632\u0650\u0647\u0627\u0628\u0627\u062f\u0650 \u0647\u064a\u062c\u0627\u0646"
     ],
     "name:fas_x_variant":[
         "\u062a\u0627\u0632\u0647 \u0622\u0628\u0627\u062f",
         "T\u0101zeh\u0101b\u0101d-e H\u012bj\u0101n",
-        "T\u0101zeh\u0101b\u0101d"
+        "T\u0101zeh\u0101b\u0101d",
+        "\u062a\u0627\u0632\u0647\u200c\u0622\u0628\u0627\u062f \u0647\u06cc\u062c\u0627\u0646"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":1242741869,
-    "wof:lastmodified":1537641386,
+    "wof:lastmodified":1564117155,
     "wof:name":"Tazehabad",
     "wof:parent_id":1108719971,
     "wof:placetype":"locality",

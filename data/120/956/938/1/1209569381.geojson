@@ -25,12 +25,22 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Seqes\u0101y"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0650\u0642\u0650\u0647\u0633\u0627\u06cc"
     ],
     "name:fas_x_variant":[
         "\u0633\u0642\u0633\u0627\u06cc",
         "Seqehs\u0101y",
+        "Seqes\u0101y",
+        "\u0633\u0642\u0647\u200c\u0633\u0627\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Seqehsay"
+    ],
+    "name:swe_x_preferred":[
         "Seqes\u0101y"
     ],
     "src:geom":"geonames",
@@ -51,7 +61,7 @@
         }
     ],
     "wof:id":1209569381,
-    "wof:lastmodified":1537640945,
+    "wof:lastmodified":1564113751,
     "wof:name":"Seqesay",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",

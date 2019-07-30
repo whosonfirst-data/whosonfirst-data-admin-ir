@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u064a\u0627\u0633 \u0623\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u06cc\u0627\u0633 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "Ely\u0101s\u0101b\u0101d"
+        "Ely\u0101s\u0101b\u0101d",
+        "\u0627\u0644\u06cc\u0627\u0633\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Elyasabad"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1276322311,
-    "wof:lastmodified":1537641531,
+    "wof:lastmodified":1564112148,
     "wof:name":"Elyasabad",
     "wof:parent_id":1108719947,
     "wof:placetype":"locality",

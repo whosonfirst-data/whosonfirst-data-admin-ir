@@ -25,12 +25,25 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628\u0627\u0631\u0643\u0646\u062f\u064a"
+    ],
+    "name:aze_x_preferred":[
+        "Cabbar k\u0259ndi"
+    ],
     "name:fas_x_preferred":[
         "\u062c\u064e\u0628\u0651\u0627\u0631 \u0643\u064e\u0646\u062f\u06cc"
     ],
     "name:fas_x_variant":[
         "\u062c\u0628\u0651\u0627\u0631 \u06a9\u0646\u062f\u06cc",
-        "Jabb\u0101r Kand\u012b"
+        "Jabb\u0101r Kand\u012b",
+        "\u062c\u0628\u0627\u0631\u06a9\u0646\u062f\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Jabbar Kandi"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0628\u0627\u0631 \u06a9\u0646\u062f\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +69,7 @@
         }
     ],
     "wof:id":1327440719,
-    "wof:lastmodified":1537640782,
+    "wof:lastmodified":1564108669,
     "wof:name":"Jabbar Kandi",
     "wof:parent_id":1108719923,
     "wof:placetype":"locality",

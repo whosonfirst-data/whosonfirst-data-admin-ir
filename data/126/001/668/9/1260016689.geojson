@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0646\u063a\u0633\u0627\u0631"
+    ],
+    "name:ceb_x_preferred":[
+        "Sangs\u0101r"
+    ],
     "name:fas_x_preferred":[
         "Sangs\u0101r"
     ],
     "name:fas_x_variant":[
-        "\u0633\u0646\u06af \u0633\u0627\u0631"
+        "\u0633\u0646\u06af \u0633\u0627\u0631",
+        "\u0633\u0646\u06af\u0633\u0627\u0631"
+    ],
+    "name:swe_x_preferred":[
+        "Sangs\u0101r"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":1260016689,
-    "wof:lastmodified":1537642310,
+    "wof:lastmodified":1564114866,
     "wof:name":"Sangsar",
     "wof:parent_id":1108719897,
     "wof:placetype":"locality",

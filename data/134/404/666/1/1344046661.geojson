@@ -25,12 +25,22 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "G\u012bvak\u012b"
+    ],
     "name:fas_x_preferred":[
         "G\u012bvahk\u012b"
     ],
     "name:fas_x_variant":[
         "G\u012bvak\u012b",
-        "\u06af\u06cc\u0631\u06a9\u06cc"
+        "\u06af\u06cc\u0631\u06a9\u06cc",
+        "\u06af\u06cc\u0648\u06a9\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Givaki"
+    ],
+    "name:swe_x_preferred":[
+        "G\u012bvak\u012b"
     ],
     "name:und_x_variant":[
         "G\u012bvk\u012b",
@@ -61,7 +71,7 @@
         }
     ],
     "wof:id":1344046661,
-    "wof:lastmodified":1537645156,
+    "wof:lastmodified":1564110079,
     "wof:name":"Giraki",
     "wof:parent_id":1108720257,
     "wof:placetype":"locality",

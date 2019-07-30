@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0631 \u0645\u0631\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u06cc\u0631 \u0645\u0631\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "P\u012br-e Mor\u0101d"
+        "P\u012br-e Mor\u0101d",
+        "\u067e\u06cc\u0631\u0645\u0631\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Pir-e Morad"
     ],
     "name:und_x_variant":[
         "P\u012br Mor\u0101d"
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1242668345,
-    "wof:lastmodified":1537642533,
+    "wof:lastmodified":1564117300,
     "wof:name":"Pir Morad",
     "wof:parent_id":1108719939,
     "wof:placetype":"locality",

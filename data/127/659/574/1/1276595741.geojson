@@ -26,6 +26,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u064a\u062f\u0627\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "Qeydar"
+    ],
+    "name:ceb_x_preferred":[
+        "Q\u012bdar"
+    ],
     "name:fas_x_preferred":[
         "\u0642\u064a\u062f\u064e\u0631"
     ],
@@ -33,7 +42,26 @@
         "\u0642\u0650\u064a\u062f\u0627\u0631 \u067e\u0650\u064a\u063a\u0627\u0645\u0628\u064e\u0631",
         "\u06af\u0650\u064a\u062f\u0627\u0631 \u067e\u064e\u0644\u0646\u064e\u0645\u0646\u0627\u0631",
         "\u0642\u0650\u064a\u062f\u0627\u0631",
+        "Q\u012bdar",
+        "\u0642\u06cc\u062f\u0627\u0631"
+    ],
+    "name:ita_x_preferred":[
+        "Qeydar"
+    ],
+    "name:mlg_x_preferred":[
+        "Qeydar"
+    ],
+    "name:pol_x_preferred":[
+        "Ghejdar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0439\u0434\u0430\u0440"
+    ],
+    "name:swe_x_preferred":[
         "Q\u012bdar"
+    ],
+    "name:tur_x_preferred":[
+        "Keydar"
     ],
     "name:und_x_variant":[
         "Keydar-Peygambar",
@@ -41,6 +69,12 @@
         "Qeyd\u0101r",
         "Ghaidar Paighambar",
         "Qeyd\u0101r Peygh\u0101mbar"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u06cc\u062f\u0627\u0631"
+    ],
+    "name:zho_x_preferred":[
+        "\u76d6\u8fbe\u5c14"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +100,7 @@
         }
     ],
     "wof:id":1276595741,
-    "wof:lastmodified":1537643735,
+    "wof:lastmodified":1564112164,
     "wof:name":"Qidar",
     "wof:parent_id":1108720135,
     "wof:placetype":"locality",

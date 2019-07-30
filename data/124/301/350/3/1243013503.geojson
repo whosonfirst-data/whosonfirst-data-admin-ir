@@ -25,12 +25,25 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0644\u0629 \u062e\u0627\u0646\u0629"
+    ],
+    "name:ceb_x_preferred":[
+        "Galleh Kh\u0101neh"
+    ],
     "name:fas_x_preferred":[
         "\u0642\u0644\u0647 \u062e\u0627\u0646\u0647"
     ],
     "name:fas_x_variant":[
         "Galah Kh\u0101neh",
-        "\u06af\u0644\u0647 \u062e\u0627\u0646\u0647"
+        "\u06af\u0644\u0647 \u062e\u0627\u0646\u0647",
+        "\u06af\u0644\u0647\u200c\u062e\u0627\u0646\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Galah Khaneh"
+    ],
+    "name:swe_x_preferred":[
+        "Galleh Kh\u0101neh"
     ],
     "name:und_x_variant":[
         "Qaleh Kh\u0101neh",
@@ -60,7 +73,7 @@
         }
     ],
     "wof:id":1243013503,
-    "wof:lastmodified":1537641195,
+    "wof:lastmodified":1564117069,
     "wof:name":"Galleh Khaneh",
     "wof:parent_id":1108719907,
     "wof:placetype":"locality",

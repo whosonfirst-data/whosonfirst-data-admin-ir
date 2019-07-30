@@ -25,6 +25,9 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u062d\u0631\u0627\u0631\u0648\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u0635\u062d\u0631\u0627\u0631\u0648\u062f"
     ],
@@ -32,8 +35,14 @@
         "\u015ea\u1e29r\u0101 R\u016bd",
         "\u015ea\u1e29r\u0101r\u016bd"
     ],
+    "name:msa_x_preferred":[
+        "Sahrarud"
+    ],
     "name:und_x_variant":[
         "\u015ea\u1e29r\u0101"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06c1\u0631\u0627\u0631\u0648\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1343756131,
-    "wof:lastmodified":1537643581,
+    "wof:lastmodified":1564110224,
     "wof:name":"Sahrarud",
     "wof:parent_id":1108720003,
     "wof:placetype":"locality",

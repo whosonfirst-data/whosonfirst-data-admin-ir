@@ -25,12 +25,22 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0631\u0645\u0644\u0627"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0631 \u0645\u0644\u0627"
     ],
     "name:fas_x_variant":[
         "\u0633\u064e\u0631 \u0645\u064f\u0644\u0651\u0627",
-        "Sar Mal\u0101"
+        "Sar Mal\u0101",
+        "\u0633\u0631\u0645\u0644\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Sar Molla"
+    ],
+    "name:msa_x_preferred":[
+        "Sar Molla"
     ],
     "name:und_x_variant":[
         "Sar Moll\u0101"
@@ -59,7 +69,7 @@
         }
     ],
     "wof:id":1260158531,
-    "wof:lastmodified":1537643487,
+    "wof:lastmodified":1564114694,
     "wof:name":"Sar Mala",
     "wof:parent_id":1108720077,
     "wof:placetype":"locality",

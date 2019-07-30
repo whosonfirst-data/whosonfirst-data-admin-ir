@@ -25,6 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0644\u0648\u0627\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "Dilvar"
+    ],
+    "name:ceb_x_preferred":[
+        "Delv\u0101r"
+    ],
     "name:eng_x_historical":[
         "Dilwar"
     ],
@@ -41,6 +50,18 @@
         "Delv\u0101r",
         "\u0628\u0646\u062f\u0631 \u062f\u0644\u0648\u0627\u0631"
     ],
+    "name:mlg_x_preferred":[
+        "Delvar"
+    ],
+    "name:msa_x_preferred":[
+        "Delvar"
+    ],
+    "name:swe_x_preferred":[
+        "Delv\u0101r"
+    ],
+    "name:tur_x_preferred":[
+        "Delvar"
+    ],
     "name:und_x_variant":[
         "Del V\u0101z",
         "Dirb\u0101k",
@@ -48,6 +69,9 @@
         "Delb\u0101r",
         "Dilb\u0101r",
         "\u0628\u0646\u062f\u0631 \u062f\u0644\u0648\u0627\u0631"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0644\u0648\u0627\u0631"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +97,7 @@
         }
     ],
     "wof:id":1209872491,
-    "wof:lastmodified":1537645465,
+    "wof:lastmodified":1564113919,
     "wof:name":"Delvar",
     "wof:parent_id":1108720481,
     "wof:placetype":"locality",

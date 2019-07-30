@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "K\u016bh Cher"
+    ],
     "name:fas_x_preferred":[
         "\u0643\u0648\u0647 \u0686\u0631"
     ],
     "name:fas_x_variant":[
-        "\u06a9\u0686\u0647\u0631"
+        "\u06a9\u0686\u0647\u0631",
+        "\u06a9\u0648\u0647\u200c\u0686\u0631"
+    ],
+    "name:msa_x_preferred":[
+        "Kuhcher"
+    ],
+    "name:swe_x_preferred":[
+        "K\u016bh Cher"
     ],
     "name:und_x_variant":[
         "K\u016bh Cher",
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":1360243339,
-    "wof:lastmodified":1537642312,
+    "wof:lastmodified":1564116121,
     "wof:name":"Kuh Cher",
     "wof:parent_id":1108720075,
     "wof:placetype":"locality",

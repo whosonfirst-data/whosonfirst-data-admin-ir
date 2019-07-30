@@ -25,12 +25,22 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "K\u0101r Gaz\u012b"
+    ],
     "name:fas_x_preferred":[
         "\u0643\u0631\u06af\u0632\u06cc"
     ],
     "name:fas_x_variant":[
         "\u06a9\u0627\u0631 \u06af\u0632\u06cc",
         "Korgaz\u012b",
+        "K\u0101r Gaz\u012b",
+        "\u06a9\u0631\u06af\u0632\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Kar Gazi"
+    ],
+    "name:swe_x_preferred":[
         "K\u0101r Gaz\u012b"
     ],
     "src:geom":"geonames",
@@ -56,7 +66,7 @@
         }
     ],
     "wof:id":1277064475,
-    "wof:lastmodified":1537642720,
+    "wof:lastmodified":1564111727,
     "wof:name":"Kar Gazi",
     "wof:parent_id":1108720357,
     "wof:placetype":"locality",

@@ -29,7 +29,14 @@
         "S\u012b\u0101h Koleh"
     ],
     "name:fas_x_variant":[
-        "\u0633\u06cc\u0627\u0647 \u06a9\u0644\u0647"
+        "\u0633\u06cc\u0627\u0647 \u06a9\u0644\u0647",
+        "\u0633\u06cc\u0627\u0647\u200c\u06a9\u0644\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Siah Koleh"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0456\u044f\u0445-\u041a\u043e\u043b\u0435"
     ],
     "name:und_x_variant":[
         "\u0633\u06cc\u0627\u0647 \u06a9\u0644\u0647"
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1327328933,
-    "wof:lastmodified":1537648427,
+    "wof:lastmodified":1564108257,
     "wof:name":"Siah Koleh",
     "wof:parent_id":1108720365,
     "wof:placetype":"locality",

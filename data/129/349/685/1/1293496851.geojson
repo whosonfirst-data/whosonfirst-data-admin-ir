@@ -25,13 +25,29 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0686\u0627\u062e\u06cc\u0631\u0627\u062d\u0645\u062f(\u0642\u0648\u0634\u0627\u0686\u0627\u06cc)"
+    ],
+    "name:aze_x_preferred":[
+        "\u00c7a\u011f\u0131r\u0259hm\u0259d"
+    ],
+    "name:ceb_x_preferred":[
+        "Ch\u0101qer A\u1e29mad"
+    ],
     "name:fas_x_preferred":[
         "\u0686\u0627\u0642\u0631 \u0627\u062d\u0645\u062f"
     ],
     "name:fas_x_variant":[
         "Ch\u0101kher A\u1e29mad",
         "Ch\u0101qer A\u1e29mad",
-        "\u0686\u0627\u062e\u0631 \u0627\u062d\u0645\u062f"
+        "\u0686\u0627\u062e\u0631 \u0627\u062d\u0645\u062f",
+        "\u0686\u0627\u062e\u0631\u0627\u062d\u0645\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Chakher Ahmad"
+    ],
+    "name:swe_x_preferred":[
+        "Ch\u0101qer A\u1e29mad"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +73,7 @@
         }
     ],
     "wof:id":1293496851,
-    "wof:lastmodified":1537641446,
+    "wof:lastmodified":1564110925,
     "wof:name":"Chakher Ahmad",
     "wof:parent_id":1108720241,
     "wof:placetype":"locality",

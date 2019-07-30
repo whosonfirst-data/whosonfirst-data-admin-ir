@@ -25,14 +25,24 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0645\u064a\u0644\u0629"
+    ],
     "name:fas_x_preferred":[
         "Jam\u012bleh"
     ],
     "name:fas_x_variant":[
-        "\u062c\u0645\u064a\u0644\u0647"
+        "\u062c\u0645\u064a\u0644\u0647",
+        "\u062c\u0645\u06cc\u0644\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Jamileh"
     ],
     "name:und_x_variant":[
         "\u062c\u0645\u064a\u0644\u0647"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0645\u06cc\u0644\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +68,7 @@
         }
     ],
     "wof:id":1360243337,
-    "wof:lastmodified":1537642481,
+    "wof:lastmodified":1564116122,
     "wof:name":"Jamileh",
     "wof:parent_id":1108719951,
     "wof:placetype":"locality",

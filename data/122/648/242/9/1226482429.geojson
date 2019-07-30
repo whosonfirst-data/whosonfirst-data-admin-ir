@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pas Peres"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0650\u0633\u067e\u0650\u0631\u0650\u0633"
     ],
     "name:fas_x_variant":[
-        "\u067e\u0633 \u067e\u0631\u0633"
+        "\u067e\u0633 \u067e\u0631\u0633",
+        "\u067e\u0633\u200c\u067e\u0631\u0634"
+    ],
+    "name:swe_x_preferred":[
+        "Pas Peres"
     ],
     "name:und_x_variant":[
         "Pesperes"
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":1226482429,
-    "wof:lastmodified":1537640394,
+    "wof:lastmodified":1564120186,
     "wof:name":"Pas Peres",
     "wof:parent_id":1108720283,
     "wof:placetype":"locality",

@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0633\u064a \u0623\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0648\u0633\u06cc \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "M\u016bs\u00e1\u0101b\u0101d"
+        "M\u016bs\u00e1\u0101b\u0101d",
+        "\u0645\u0648\u0633\u06cc\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Musaabad"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1226231575,
-    "wof:lastmodified":1537644112,
+    "wof:lastmodified":1564120027,
     "wof:name":"Musaabad",
     "wof:parent_id":1108719829,
     "wof:placetype":"locality",

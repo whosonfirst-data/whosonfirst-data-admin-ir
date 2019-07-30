@@ -25,11 +25,24 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Qal\u2018eh-ye Salm\u0101b\u0101d"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0647\u0645 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "Sahm\u0101b\u0101d"
+        "Sahm\u0101b\u0101d",
+        "\u0633\u0647\u0645\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:swe_x_preferred":[
+        "Qal\u2018eh-ye Salm\u0101b\u0101d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0433\u043c\u0430\u0431\u0430\u0434"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06c1\u0645 \u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +67,7 @@
         }
     ],
     "wof:id":1310166595,
-    "wof:lastmodified":1537646595,
+    "wof:lastmodified":1564115760,
     "wof:name":"Sahmabad",
     "wof:parent_id":1108720329,
     "wof:placetype":"locality",

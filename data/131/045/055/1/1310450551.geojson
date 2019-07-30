@@ -25,11 +25,24 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0627\u0645 \u0623\u0633\u0628\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0634\u0627\u0645 \u0627\u0633\u0628\u06cc"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u0627\u0645 \u0627\u0633\u0628\u06cc"
     ],
     "name:fas_x_variant":[
-        "Sh\u0101m Asb\u012b"
+        "Sh\u0101m Asb\u012b",
+        "\u0634\u0627\u0645\u200c\u0627\u0633\u0628\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Sham Asbi"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0634\u0627\u0645\u200c\u0627\u0633\u0628\u06cc"
     ],
     "name:und_x_variant":[
         "Shamaspi"
@@ -58,7 +71,7 @@
         }
     ],
     "wof:id":1310450551,
-    "wof:lastmodified":1537643373,
+    "wof:lastmodified":1564115700,
     "wof:name":"Sham Asbi",
     "wof:parent_id":1108719823,
     "wof:placetype":"locality",

@@ -25,12 +25,22 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kh\u0101\u015fehlar"
+    ],
     "name:fas_x_preferred":[
         "\u062e\u0627\u0635\u0647 \u0644\u0631"
     ],
     "name:fas_x_variant":[
         "Kh\u0101\u015fehlar",
-        "\u062e\u0633\u06cc\u0644"
+        "\u062e\u0633\u06cc\u0644",
+        "\u062e\u0627\u0635\u0647\u200c\u0644\u0631"
+    ],
+    "name:msa_x_preferred":[
+        "Khasehlar"
+    ],
+    "name:swe_x_preferred":[
+        "Kh\u0101\u015fehlar"
     ],
     "name:und_x_variant":[
         "Khas\u012bl"
@@ -59,7 +69,7 @@
         }
     ],
     "wof:id":1260125295,
-    "wof:lastmodified":1537640988,
+    "wof:lastmodified":1564114708,
     "wof:name":"Khasehlar",
     "wof:parent_id":1108720293,
     "wof:placetype":"locality",

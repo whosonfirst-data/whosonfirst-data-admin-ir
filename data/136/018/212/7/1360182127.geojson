@@ -25,11 +25,30 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0633\u06cc \u0633\u0631"
+    ],
+    "name:ceb_x_preferred":[
+        "S\u012bser"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0633\u06cc \u0633\u06d5\u0631"
+    ],
     "name:fas_x_preferred":[
         "S\u012b Sar"
     ],
     "name:fas_x_variant":[
-        "\u0633\u06cc \u0633\u0631"
+        "\u0633\u06cc \u0633\u0631",
+        "\u0633\u06cc\u200c\u0633\u0631"
+    ],
+    "name:kur_x_preferred":[
+        "S\u00ee ser"
+    ],
+    "name:msa_x_preferred":[
+        "Si Sar"
+    ],
+    "name:swe_x_preferred":[
+        "S\u012bser"
     ],
     "name:und_x_variant":[
         "\u0633\u06cc \u0633\u0631"
@@ -57,7 +76,7 @@
         }
     ],
     "wof:id":1360182127,
-    "wof:lastmodified":1537648203,
+    "wof:lastmodified":1564116345,
     "wof:name":"Si Sar",
     "wof:parent_id":1108720361,
     "wof:placetype":"locality",

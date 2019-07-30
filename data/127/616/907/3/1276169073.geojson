@@ -25,12 +25,28 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u062e \u0628\u064a\u063a\u0644\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Sheykh Beygl\u016b"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u06cc\u062e \u0628\u06cc\u06af"
     ],
     "name:fas_x_variant":[
         "Sheykh Beygl\u016b",
-        "\u0634\u06cc\u062e \u0628\u06cc\u06af\u0644\u0648"
+        "\u0634\u06cc\u062e \u0628\u06cc\u06af\u0644\u0648",
+        "\u0634\u06cc\u062e\u200c\u0628\u06cc\u06af\u0644\u0648"
+    ],
+    "name:msa_x_preferred":[
+        "Sheykh Beyglu"
+    ],
+    "name:swe_x_preferred":[
+        "Sheykh Beygl\u016b"
+    ],
+    "name:tur_x_preferred":[
+        "\u015eeyhbeyli"
     ],
     "name:und_x_variant":[
         "Sheykh Beyg"
@@ -59,7 +75,7 @@
         }
     ],
     "wof:id":1276169073,
-    "wof:lastmodified":1537641127,
+    "wof:lastmodified":1564112025,
     "wof:name":"Sheykh Beyglu",
     "wof:parent_id":1108719907,
     "wof:placetype":"locality",

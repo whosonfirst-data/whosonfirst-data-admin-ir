@@ -25,6 +25,24 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0413\u0435\u0440\u043c\u0430\u043d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0435\u0440\u043c\u0430\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "German"
+    ],
+    "name:ces_x_preferred":[
+        "German"
+    ],
+    "name:deu_x_preferred":[
+        "German"
+    ],
+    "name:est_x_preferred":[
+        "German"
+    ],
     "name:fas_x_preferred":[
         "\u0643\u0648\u0631\u0642\u0627\u0646"
     ],
@@ -33,6 +51,54 @@
         "\u06af\u064f\u0631\u06af\u0627\u0646",
         "\u06af\u0631\u0645\u0646"
     ],
+    "name:fra_x_preferred":[
+        "German"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05e8\u05de\u05df"
+    ],
+    "name:hrv_x_preferred":[
+        "German"
+    ],
+    "name:hun_x_preferred":[
+        "Germ\u00e1n"
+    ],
+    "name:ind_x_preferred":[
+        "German"
+    ],
+    "name:ita_x_preferred":[
+        "German"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b2\u30eb\u30de\u30f3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9c\u0cb0\u0ccd\u0cae\u0ca8\u0ccd"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u0435\u0440\u043c\u0430\u043d"
+    ],
+    "name:pol_x_preferred":[
+        "German"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u0440\u043c\u0430\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "German"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0435\u0440\u043c\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "German"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e22\u0e2d\u0e23\u0e21\u0e31\u0e19"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0435\u0440\u043c\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "K\u016brq\u0101n",
         "Gorg\u0101n",
@@ -40,6 +106,12 @@
         "Garman",
         "\u06af\u0631\u0645\u0646",
         "German"
+    ],
+    "name:vie_x_preferred":[
+        "German"
+    ],
+    "name:zho_x_preferred":[
+        "\u65e5\u8033\u66fc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +136,7 @@
         }
     ],
     "wof:id":1276393875,
-    "wof:lastmodified":1537645230,
+    "wof:lastmodified":1564112763,
     "wof:name":"German",
     "wof:parent_id":1108720441,
     "wof:placetype":"locality",

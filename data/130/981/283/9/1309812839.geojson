@@ -25,13 +25,23 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u067e\u06cc\u0631\u0628\u0644\u0647(\u0633\u0648\u06cc\u0648\u0642\u200c\u0628\u0648\u0644\u0627\u0642)"
+    ],
+    "name:aze_x_preferred":[
+        "Pirbal\u0259"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u064a\u0631 \u0628\u064e\u0644\u0650\u0646"
     ],
     "name:fas_x_variant":[
         "\u067e\u06cc\u0631 \u0628\u0644\u0647",
         "P\u012br Balen",
-        "P\u012br Baleh"
+        "P\u012br Baleh",
+        "\u067e\u06cc\u0631\u0628\u0644\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Pir Baleh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":1309812839,
-    "wof:lastmodified":1537646638,
+    "wof:lastmodified":1564116885,
     "wof:name":"Pir Baleh",
     "wof:parent_id":1108720193,
     "wof:placetype":"locality",

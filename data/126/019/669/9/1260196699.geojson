@@ -25,12 +25,19 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "H\u00fcseynabad-i M\u0259r\u0259kan"
+    ],
     "name:fas_x_preferred":[
         "\u062d\u0633\u06cc\u0646 \u062e\u0627\u0646 \u06a9\u0646\u062f\u06cc"
     ],
     "name:fas_x_variant":[
         "\u1e28oseyn\u0101b\u0101d-e Mar\u0101k\u0101n",
-        "\u1e28oseyn Kh\u0101n Kand\u012b"
+        "\u1e28oseyn Kh\u0101n Kand\u012b",
+        "\u062d\u0633\u06cc\u0646\u200c\u0622\u0628\u0627\u062f \u0645\u0631\u0627\u06a9\u0627\u0646"
+    ],
+    "name:msa_x_preferred":[
+        "Hoseynabad-e Marakan"
     ],
     "name:und_x_variant":[
         "\u1e28oseyn\u2018al\u012bkh\u0101n"
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":1260196699,
-    "wof:lastmodified":1537641932,
+    "wof:lastmodified":1564114987,
     "wof:name":"Hoseyn Khan Kandi",
     "wof:parent_id":1108720153,
     "wof:placetype":"locality",

@@ -25,13 +25,20 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u062f\u0629 \u062e\u064a\u0631"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u064f\u0631\u062f\u0650\u0647 \u062e\u0650\u0631"
     ],
     "name:fas_x_variant":[
         "\u0645\u064f\u0631\u062f\u0650\u0647 \u062e\u064e\u0631",
         "M\u016brdeh Kheyr",
-        "\u0645\u0648\u0631\u062f\u0647 \u062e\u06cc\u0631"
+        "\u0645\u0648\u0631\u062f\u0647 \u062e\u06cc\u0631",
+        "\u0645\u0631\u062f\u0647\u200c\u062e\u06cc\u0631"
+    ],
+    "name:msa_x_preferred":[
+        "Mordeh Kheyr"
     ],
     "name:und_x_variant":[
         "Murdeh Khir",
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":1326698873,
-    "wof:lastmodified":1537642792,
+    "wof:lastmodified":1564107800,
     "wof:name":"Murdeh Kheyr",
     "wof:parent_id":1108719951,
     "wof:placetype":"locality",

@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0647\u0627\u0646\u200c\u0622\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u062c\u0647\u0627\u0646 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "Jah\u0101n\u0101b\u0101d"
+        "Jah\u0101n\u0101b\u0101d",
+        "\u062c\u0647\u0627\u0646\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Jahanabad"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u06c1\u0627\u0646 \u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":1327223033,
-    "wof:lastmodified":1537641971,
+    "wof:lastmodified":1564108015,
     "wof:name":"Jahanabad",
     "wof:parent_id":1108720047,
     "wof:placetype":"locality",

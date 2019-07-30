@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "K\u0101st\u0101n"
+    ],
     "name:fas_x_preferred":[
         "Kast\u0101n"
     ],
     "name:fas_x_variant":[
-        "\u06a9\u0633\u062a\u0627\u0646"
+        "\u06a9\u0633\u062a\u0627\u0646",
+        "\u06a9\u0627\u0633\u062a\u0627\u0646"
+    ],
+    "name:swe_x_preferred":[
+        "K\u0101st\u0101n"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":1327260939,
-    "wof:lastmodified":1537642302,
+    "wof:lastmodified":1564108704,
     "wof:name":"Kastan",
     "wof:parent_id":1108719979,
     "wof:placetype":"locality",

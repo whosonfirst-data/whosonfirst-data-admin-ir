@@ -25,11 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0647\u200c\u0622\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0647 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "Beh\u0101b\u0101d"
+        "Beh\u0101b\u0101d",
+        "\u0628\u0647\u200c\u0622\u0628\u0627\u062f"
     ],
     "name:und_x_variant":[
         "Bah\u0101b\u0101d"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1225974137,
-    "wof:lastmodified":1537641698,
+    "wof:lastmodified":1564119844,
     "wof:name":"Bahabad",
     "wof:parent_id":1108719931,
     "wof:placetype":"locality",

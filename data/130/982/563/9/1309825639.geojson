@@ -25,12 +25,28 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0641\u064a\u062f\u0627\u0631\u0628\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Sef\u012bdd\u0101rbon"
+    ],
     "name:fas_x_preferred":[
         "Sef\u012bdd\u0101rbon"
     ],
     "name:fas_x_variant":[
         "\u0633\u0641\u06cc\u062f \u062f\u0627\u0631\u0628\u0646",
-        "\u0633\u0641\u06cc\u062f \u062f\u0627\u0631\u06a9 \u0628\u0646"
+        "\u0633\u0641\u06cc\u062f \u062f\u0627\u0631\u06a9 \u0628\u0646",
+        "\u0633\u0641\u06cc\u062f\u0627\u0631\u0628\u0646"
+    ],
+    "name:msa_x_preferred":[
+        "Sefiddarbon"
+    ],
+    "name:swe_x_preferred":[
+        "Sef\u012bdd\u0101rbon"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0444\u0456\u0434\u0434\u0430\u0440\u0431\u043e\u043d"
     ],
     "name:und_x_variant":[
         "Sef\u012bd D\u0101rak Bon"
@@ -59,7 +75,7 @@
         }
     ],
     "wof:id":1309825639,
-    "wof:lastmodified":1537641600,
+    "wof:lastmodified":1564116708,
     "wof:name":"Sefiddarbon",
     "wof:parent_id":1108719805,
     "wof:placetype":"locality",

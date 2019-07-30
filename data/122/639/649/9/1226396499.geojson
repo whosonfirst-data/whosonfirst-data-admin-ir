@@ -25,6 +25,9 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0622\u0634\u0627\u063a\u0627 \u0627\u0644\u0648\u0627\u0631"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0648\u0627\u0631 \u0633\u0641\u0644\u06cc"
     ],
@@ -32,6 +35,12 @@
         "Alv\u0101r-e Sofl\u00e1",
         "Alv\u0101r-e P\u0101\u2019\u012bn",
         "\u0627\u0644\u0648\u0627\u0631 \u067e\u0627\u064a\u064a\u0646"
+    ],
+    "name:msa_x_preferred":[
+        "Alvar-e Sofla"
+    ],
+    "name:tur_x_preferred":[
+        "Yukar\u0131 Elvar"
     ],
     "name:und_x_variant":[
         "Bol\u2019shoy Al\u2019var",
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":1226396499,
-    "wof:lastmodified":1537646206,
+    "wof:lastmodified":1564120308,
     "wof:name":"Alvar-e Pa'in",
     "wof:parent_id":1108720471,
     "wof:placetype":"locality",

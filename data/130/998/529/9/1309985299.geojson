@@ -25,11 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0631 \u0647\u0648\u0627\u0631\u064a\u0627\u0631\u064a"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u064a\u0631\u0647\u0648\u0627\u0631\u064a\u0627\u0631\u06cc"
     ],
     "name:fas_x_variant":[
-        "M\u012br Hav\u0101ry\u0101r\u012b"
+        "M\u012br Hav\u0101ry\u0101r\u012b",
+        "\u0645\u06cc\u0631 \u0647\u0648\u0627\u0631\u06cc\u0627\u0631\u06cc"
     ],
     "name:und_x_variant":[
         "M\u012br Hav\u0101r"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1309985299,
-    "wof:lastmodified":1537641317,
+    "wof:lastmodified":1564116508,
     "wof:name":"Mir Havaryari",
     "wof:parent_id":1108719933,
     "wof:placetype":"locality",

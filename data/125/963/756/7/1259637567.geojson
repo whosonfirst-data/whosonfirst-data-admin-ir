@@ -25,15 +25,31 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Z\u0259\u011f\u0259nabad"
+    ],
+    "name:ceb_x_preferred":[
+        "Zaghan\u0101b\u0101d"
+    ],
     "name:fas_x_preferred":[
         "\u0632\u063a\u0646 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
+        "Zaghan\u0101b\u0101d",
+        "\u0632\u063a\u0646\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Zaghanabad"
+    ],
+    "name:swe_x_preferred":[
         "Zaghan\u0101b\u0101d"
     ],
     "name:und_x_variant":[
         "Z\u012bq\u0101n\u0101b",
         "Ziganab"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u063a\u0646\u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +75,7 @@
         }
     ],
     "wof:id":1259637567,
-    "wof:lastmodified":1537642992,
+    "wof:lastmodified":1564118355,
     "wof:name":"Zaghanabad",
     "wof:parent_id":1108720509,
     "wof:placetype":"locality",

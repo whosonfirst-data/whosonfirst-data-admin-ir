@@ -31,11 +31,15 @@
     "name:fas_x_variant":[
         "Lajeh\u2019\u012b",
         "Deh-e Laj\u012b",
-        "\u062f\u0647 \u0644\u062c\u0647 \u0627\u06cc"
+        "\u062f\u0647 \u0644\u062c\u0647 \u0627\u06cc",
+        "\u0644\u062c\u0647\u200c\u0627\u06cc"
     ],
     "name:und_x_variant":[
         "Deh-e Qezelb\u0101sh",
         "Deh-e Lajeh\u2019\u012b"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u062c\u06cc\u06c1\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1343661731,
-    "wof:lastmodified":1537646903,
+    "wof:lastmodified":1564109715,
     "wof:name":"Deh-e Laji",
     "wof:parent_id":1108720515,
     "wof:placetype":"locality",

@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u064a\u0628\u0631\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Kheybar\u012b"
+    ],
     "name:fas_x_preferred":[
         "Kheybar\u012b"
     ],
     "name:fas_x_variant":[
-        "\u062e\u064a\u0628\u0631\u06cc"
+        "\u062e\u064a\u0628\u0631\u06cc",
+        "\u062e\u06cc\u0628\u0631\u06cc"
+    ],
+    "name:swe_x_preferred":[
+        "Kheybar\u012b"
     ],
     "name:und_x_variant":[
         "\u062e\u064a\u0628\u0631\u06cc"
@@ -58,7 +68,7 @@
         }
     ],
     "wof:id":1276149765,
-    "wof:lastmodified":1537641648,
+    "wof:lastmodified":1564112388,
     "wof:name":"Kheybari",
     "wof:parent_id":1108720037,
     "wof:placetype":"locality",

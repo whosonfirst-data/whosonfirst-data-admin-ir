@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0644\u0647\u200c\u0622\u0628\u0627\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0644\u0647 \u0622\u0628\u0627\u062f"
     ],
     "name:fas_x_variant":[
-        "All\u0101h\u0101b\u0101d"
+        "All\u0101h\u0101b\u0101d",
+        "\u0627\u0644\u0644\u0647\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Allahabad"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1292896797,
-    "wof:lastmodified":1537646214,
+    "wof:lastmodified":1564110612,
     "wof:name":"Allahabad",
     "wof:parent_id":1108719975,
     "wof:placetype":"locality",

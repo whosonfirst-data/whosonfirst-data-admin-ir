@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Sar\u0131qaya"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0627\u0631\u06cc \u0642\u06cc\u0647"
     ],
     "name:fas_x_variant":[
-        "S\u0101r\u012b Qayah"
+        "S\u0101r\u012b Qayah",
+        "\u0633\u0627\u0631\u06cc\u200c\u0642\u06cc\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Sari Qayah"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1310059783,
-    "wof:lastmodified":1537641130,
+    "wof:lastmodified":1564116031,
     "wof:name":"Sari Qayah",
     "wof:parent_id":1108720385,
     "wof:placetype":"locality",

@@ -25,12 +25,25 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0647\u0631\u0628\u0647\u200c\u06cc"
+    ],
+    "name:ceb_x_preferred":[
+        "Bahr Beyg"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u062d\u0631\u0628\u06cc\u06af"
     ],
     "name:fas_x_variant":[
         "Ba\u1e29r-e Beyg",
-        "\u0628\u0647\u0631 \u0628\u064a\u06af"
+        "\u0628\u0647\u0631 \u0628\u064a\u06af",
+        "\u0628\u0647\u0631\u0628\u06cc\u06af"
+    ],
+    "name:msa_x_preferred":[
+        "Bahr-e Beyg"
+    ],
+    "name:swe_x_preferred":[
+        "Bahr Beyg"
     ],
     "name:und_x_variant":[
         "Bagrib\u0101i",
@@ -65,7 +78,7 @@
         }
     ],
     "wof:id":1226487549,
-    "wof:lastmodified":1537646021,
+    "wof:lastmodified":1564120182,
     "wof:name":"Bahr Beyg",
     "wof:parent_id":1108720509,
     "wof:placetype":"locality",

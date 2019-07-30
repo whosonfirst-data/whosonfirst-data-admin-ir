@@ -25,13 +25,20 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0647\u0631\u0643 \u063a\u0644\u0648\u063a\u0631\u062f"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u06a9 \u06af\u0644\u0648 \u06af\u0631\u062f"
     ],
     "name:fas_x_variant":[
         "Shahrak-e Gal\u016b Gerd",
         "Gal\u016b Gerd",
-        "\u06af\u0644\u0648 \u06af\u0631\u062f"
+        "\u06af\u0644\u0648 \u06af\u0631\u062f",
+        "\u0634\u0647\u0631\u06a9 \u06af\u0644\u0648\u06af\u0631\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Shahrak-e Galu Gerd"
     ],
     "name:und_x_variant":[
         "Gal\u016b Gerd",
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":1310413025,
-    "wof:lastmodified":1537645255,
+    "wof:lastmodified":1564115296,
     "wof:name":"Galu Gerd",
     "wof:parent_id":1108719903,
     "wof:placetype":"locality",

@@ -26,15 +26,31 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0648 \u062a\u0646\u063a"
+    ],
+    "name:ceb_x_preferred":[
+        "T\u016btang"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0648\u062a\u064e\u0646\u06af \u0648\u064e \u0634\u064e\u0644\u0648\u0627\u0631\u06cc"
     ],
     "name:fas_x_variant":[
         "T\u016btang",
-        "\u062a\u0648\u062a\u064e\u0646\u06af"
+        "\u062a\u0648\u062a\u064e\u0646\u06af",
+        "\u062a\u0648\u062a\u0646\u06af"
+    ],
+    "name:msa_x_preferred":[
+        "Tutang"
+    ],
+    "name:swe_x_preferred":[
+        "T\u016btang"
     ],
     "name:und_x_variant":[
         "T\u016btang va Shalv\u0101r\u012b"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0648\u062a\u0646\u06af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +75,7 @@
         }
     ],
     "wof:id":1310212145,
-    "wof:lastmodified":1537643088,
+    "wof:lastmodified":1564115873,
     "wof:name":"Tutang",
     "wof:parent_id":1108720189,
     "wof:placetype":"locality",

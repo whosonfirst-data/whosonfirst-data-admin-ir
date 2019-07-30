@@ -31,7 +31,11 @@
     "name:fas_x_variant":[
         "Gallehd\u016bn",
         "\u06af\u064e\u0644\u0650\u0651\u0647\u062f\u0648\u0646",
-        "\u06af\u0644\u0647 \u062f\u0648\u0646"
+        "\u06af\u0644\u0647 \u062f\u0648\u0646",
+        "\u06af\u0644\u0647\u200c\u062f\u0648\u0646"
+    ],
+    "name:mzn_x_preferred":[
+        "\u06af\u0644\u0647\u200c\u062f\u0648\u0646"
     ],
     "name:und_x_variant":[
         "\u06af\u0644\u0647 \u062f\u0648\u0646"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1327478009,
-    "wof:lastmodified":1537640648,
+    "wof:lastmodified":1564108077,
     "wof:name":"Goleh Dun",
     "wof:parent_id":1108720401,
     "wof:placetype":"locality",

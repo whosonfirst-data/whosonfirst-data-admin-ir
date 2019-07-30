@@ -25,11 +25,33 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0641 \u0627\u0646\u0628\u0627\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "B\u0259rf \u018fnbar"
+    ],
+    "name:ceb_x_preferred":[
+        "Barf Anb\u0101r"
+    ],
     "name:fas_x_preferred":[
         "Barf Anb\u0101r"
     ],
     "name:fas_x_variant":[
-        "\u0628\u0631\u0641 \u0627\u0646\u0628\u0627\u0631"
+        "\u0628\u0631\u0641 \u0627\u0646\u0628\u0627\u0631",
+        "\u0628\u0631\u0641\u200c\u0627\u0646\u0628\u0627\u0631"
+    ],
+    "name:ita_x_preferred":[
+        "Borf Anbar"
+    ],
+    "name:mlg_x_preferred":[
+        "Barf Anbar"
+    ],
+    "name:swe_x_preferred":[
+        "Barf Anb\u0101r"
+    ],
+    "name:tur_x_preferred":[
+        "Berf Anbar"
     ],
     "name:und_x_variant":[
         "Barf And\u0101z",
@@ -59,7 +81,7 @@
         }
     ],
     "wof:id":1209877283,
-    "wof:lastmodified":1537646484,
+    "wof:lastmodified":1564113924,
     "wof:name":"Barf Anbar",
     "wof:parent_id":1108719851,
     "wof:placetype":"locality",

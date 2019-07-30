@@ -25,11 +25,15 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0628\u0627\u0633 \u0623\u0628\u0627\u062f \u0633\u064a\u0641"
+    ],
     "name:fas_x_preferred":[
         "\u0639\u0628\u0627\u0633 \u0622\u0628\u0627\u062f \u0633\u064a\u0641"
     ],
     "name:fas_x_variant":[
-        "\u2018Abb\u0101s\u0101b\u0101d-e Seyf"
+        "\u2018Abb\u0101s\u0101b\u0101d-e Seyf",
+        "\u0639\u0628\u0627\u0633\u200c\u0622\u0628\u0627\u062f \u0633\u06cc\u0641"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326681329,
-    "wof:lastmodified":1537642341,
+    "wof:lastmodified":1564107952,
     "wof:name":"`Abbasabad-e Seyf",
     "wof:parent_id":1108719913,
     "wof:placetype":"locality",

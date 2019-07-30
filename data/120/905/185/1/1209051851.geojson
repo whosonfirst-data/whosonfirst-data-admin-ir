@@ -25,11 +25,24 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0644\u0648\u06a9\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:ceb_x_preferred":[
+        "Bol\u016bk\u0101b\u0101d"
+    ],
     "name:fas_x_preferred":[
         "Bol\u016bk\u0101b\u0101d"
     ],
     "name:fas_x_variant":[
-        "\u0628\u0644\u0648\u06a9 \u0622\u0628\u0627\u062f"
+        "\u0628\u0644\u0648\u06a9 \u0622\u0628\u0627\u062f",
+        "\u0628\u0644\u0648\u06a9\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:msa_x_preferred":[
+        "Bolukabad"
+    ],
+    "name:swe_x_preferred":[
+        "Bol\u016bk\u0101b\u0101d"
     ],
     "name:und_x_variant":[
         "Belkobad",
@@ -54,7 +67,7 @@
         }
     ],
     "wof:id":1209051851,
-    "wof:lastmodified":1537645867,
+    "wof:lastmodified":1564113818,
     "wof:name":"Bolukabad",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",

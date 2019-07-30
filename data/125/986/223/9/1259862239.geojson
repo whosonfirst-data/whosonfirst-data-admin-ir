@@ -25,10 +25,26 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0631\u0648\u064a\u0634\u064a\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u062f\u0631\u0648\u06cc\u0634\u06cc\u0647"
+    ],
+    "name:ceb_x_preferred":[
+        "Darv\u012bsh\u012byeh"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0631\u0648\u064a\u0634\u064a\u0647"
     ],
     "name:fas_x_variant":[
+        "Darv\u012bsh\u012byeh",
+        "\u062f\u0631\u0648\u06cc\u0634\u06cc\u0647"
+    ],
+    "name:por_x_preferred":[
+        "Darvishiyeh"
+    ],
+    "name:swe_x_preferred":[
         "Darv\u012bsh\u012byeh"
     ],
     "src:geom":"geonames",
@@ -55,7 +71,7 @@
         }
     ],
     "wof:id":1259862239,
-    "wof:lastmodified":1537645571,
+    "wof:lastmodified":1564119082,
     "wof:name":"Darvishiyeh",
     "wof:parent_id":1108719777,
     "wof:placetype":"locality",

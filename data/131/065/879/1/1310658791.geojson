@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "G\u0259rab"
+    ],
+    "name:ceb_x_preferred":[
+        "Garab"
+    ],
     "name:fas_x_preferred":[
         "Gar\u0101b"
     ],
     "name:fas_x_variant":[
-        "\u06af\u0631 \u0622\u0628"
+        "\u06af\u0631 \u0622\u0628",
+        "\u06af\u0631\u0622\u0628"
+    ],
+    "name:swe_x_preferred":[
+        "Garab"
     ],
     "name:und_x_variant":[
         "Garr\u0101b",
@@ -59,7 +69,7 @@
         }
     ],
     "wof:id":1310658791,
-    "wof:lastmodified":1537645241,
+    "wof:lastmodified":1564115436,
     "wof:name":"Garab",
     "wof:parent_id":1108720145,
     "wof:placetype":"locality",

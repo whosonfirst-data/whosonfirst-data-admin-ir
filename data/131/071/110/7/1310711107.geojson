@@ -26,12 +26,28 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062a\u0627\u0632\u0647 \u06a9\u0646\u062f \u062c\u0628\u0644"
+    ],
+    "name:aze_x_preferred":[
+        "T\u0259z\u0259k\u0259nd-i C\u0259b\u0259l"
+    ],
+    "name:ceb_x_preferred":[
+        "T\u0101zeh Kand-e Jabal"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0627\u0632\u0650\u0647 \u0643\u064e\u0646\u062f\u0650 \u0628\u064f\u0644\u0628\u064f\u0644"
     ],
     "name:fas_x_variant":[
         "\u062a\u0627\u0632\u0647 \u06a9\u0646\u062f \u062c\u0628\u0644",
         "T\u0101zeh Kand-e Bolbol",
+        "T\u0101zeh Kand-e Jabal",
+        "\u062a\u0627\u0632\u0647\u200c\u06a9\u0646\u062f\u062c\u0628\u0644"
+    ],
+    "name:msa_x_preferred":[
+        "Tazeh Kand-e Jabal"
+    ],
+    "name:swe_x_preferred":[
         "T\u0101zeh Kand-e Jabal"
     ],
     "src:geom":"geonames",
@@ -58,7 +74,7 @@
         }
     ],
     "wof:id":1310711107,
-    "wof:lastmodified":1537640249,
+    "wof:lastmodified":1564115381,
     "wof:name":"Tazeh Kand-e Jabal",
     "wof:parent_id":1108720265,
     "wof:placetype":"locality",

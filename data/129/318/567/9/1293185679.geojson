@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0622\u063a\u0648\u0632\u0643\u0644\u0647"
+    ],
     "name:fas_x_preferred":[
         "\u0100gh\u016bz Keleh"
     ],
     "name:fas_x_variant":[
-        "\u0622\u063a\u0648\u0632 \u06a9\u0644\u0647"
+        "\u0622\u063a\u0648\u0632 \u06a9\u0644\u0647",
+        "\u0622\u063a\u0648\u0632\u06a9\u0644\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Aghuz Keleh"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0491\u0443\u0437-\u041a\u0430\u043b\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":1293185679,
-    "wof:lastmodified":1537642083,
+    "wof:lastmodified":1564111443,
     "wof:name":"Aghuz Keleh",
     "wof:parent_id":1108720013,
     "wof:placetype":"locality",

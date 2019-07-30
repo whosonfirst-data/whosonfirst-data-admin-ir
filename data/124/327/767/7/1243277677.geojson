@@ -25,11 +25,27 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062a\u0627\u0632\u0627 \u06a9\u0646\u062f\u062c\u0646\u06cc\u0632\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "T\u0259z\u0259k\u0259nd-i C\u0259niz\u0259"
+    ],
+    "name:ceb_x_preferred":[
+        "T\u0101zeh Kand-e Jan\u012bzeh"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0627\u0632\u0650\u0647 \u0643\u064e\u0646\u062f\u0650 \u062c\u064e\u0646\u064a\u0632\u0650\u0647"
     ],
     "name:fas_x_variant":[
         "\u062a\u0627\u0632\u0647 \u06a9\u0646\u062f \u062c\u0646\u06cc\u0632\u0647",
+        "T\u0101zeh Kand-e Jan\u012bzeh",
+        "\u062a\u0627\u0632\u0647\u200c\u06a9\u0646\u062f \u062c\u0646\u06cc\u0632\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Tazeh Kand-e Janizeh"
+    ],
+    "name:swe_x_preferred":[
         "T\u0101zeh Kand-e Jan\u012bzeh"
     ],
     "src:geom":"geonames",
@@ -56,7 +72,7 @@
         }
     ],
     "wof:id":1243277677,
-    "wof:lastmodified":1537641062,
+    "wof:lastmodified":1564118049,
     "wof:name":"Tazeh Kand-e Janizeh",
     "wof:parent_id":1108720289,
     "wof:placetype":"locality",

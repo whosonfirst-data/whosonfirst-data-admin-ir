@@ -29,7 +29,11 @@
         "T\u016br\u0101n-e F\u0101rs"
     ],
     "name:fas_x_variant":[
-        "\u062a\u0648\u0631\u0627\u0646 \u0641\u0627\u0631\u0633"
+        "\u062a\u0648\u0631\u0627\u0646 \u0641\u0627\u0631\u0633",
+        "\u062a\u0648\u0631\u0627\u0646\u200c\u0641\u0627\u0631\u0633"
+    ],
+    "name:msa_x_preferred":[
+        "Turan-e Fars"
     ],
     "name:und_x_variant":[
         "T\u016br\u0101n-e F\u0101rs\u012b",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1226485065,
-    "wof:lastmodified":1537642256,
+    "wof:lastmodified":1564120192,
     "wof:name":"Turan-e Fars",
     "wof:parent_id":1108720337,
     "wof:placetype":"locality",

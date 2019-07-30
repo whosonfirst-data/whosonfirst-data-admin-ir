@@ -25,12 +25,19 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u063a\u0644\u064a"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u06cc \u06af\u0644\u06cc"
     ],
     "name:fas_x_variant":[
         "M\u012brgol\u012b",
-        "Meygol\u012b"
+        "Meygol\u012b",
+        "\u0645\u06cc\u06af\u0644\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Meygoli"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1209721423,
-    "wof:lastmodified":1537642767,
+    "wof:lastmodified":1564114132,
     "wof:name":"Meygoli",
     "wof:parent_id":1108720063,
     "wof:placetype":"locality",

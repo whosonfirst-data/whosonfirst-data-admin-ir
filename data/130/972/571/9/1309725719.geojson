@@ -25,6 +25,12 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u0644\u0627\u0646\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "Seylan\u0259"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0650\u064a\u0644\u0627\u0646\u0650\u0647"
     ],
@@ -32,7 +38,17 @@
         "\u0633\u06cc\u0644\u0627\u0646",
         "Seyl\u0101neh",
         "Seyl\u0101n",
-        "\u0633\u0650\u064a\u0644\u0627\u0646"
+        "\u0633\u0650\u064a\u0644\u0627\u0646",
+        "\u0633\u06cc\u0644\u0627\u0646\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Seylaneh"
+    ],
+    "name:pol_x_preferred":[
+        "Sejlane"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0439\u043b\u0430\u043d\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +74,7 @@
         }
     ],
     "wof:id":1309725719,
-    "wof:lastmodified":1537640971,
+    "wof:lastmodified":1564116913,
     "wof:name":"Seylan",
     "wof:parent_id":1108720289,
     "wof:placetype":"locality",

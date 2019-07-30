@@ -25,11 +25,18 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u062e \u0631\u0627\u0632\u064a"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u064a\u062e \u0631\u0636\u06cc"
     ],
     "name:fas_x_variant":[
-        "Sheykh Ra\u1e95\u012b"
+        "Sheykh Ra\u1e95\u012b",
+        "\u0634\u06cc\u062e \u0631\u0636\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Sheykh Razi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":1226202047,
-    "wof:lastmodified":1537640707,
+    "wof:lastmodified":1564119389,
     "wof:name":"Sheykh Razi",
     "wof:parent_id":1108720021,
     "wof:placetype":"locality",

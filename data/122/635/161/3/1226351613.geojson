@@ -25,18 +25,28 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Yar\u0131mqaya"
+    ],
     "name:fas_x_preferred":[
         "\u064a\u0627\u0631\u0645 \u0642\u064a\u0647"
     ],
     "name:fas_x_variant":[
         "Y\u0101r\u012bm Qayeh",
         "Y\u0101rem Qayeh",
-        "\u064a\u0627\u0631\u064a\u0645 \u0642\u064a\u0647"
+        "\u064a\u0627\u0631\u064a\u0645 \u0642\u064a\u0647",
+        "\u06cc\u0627\u0631\u06cc\u0645\u200c\u0642\u06cc\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Yarim Qayeh"
     ],
     "name:und_x_variant":[
         "Yarimqaya",
         "Yarim Ghayeh",
         "Yarymkaya"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0631\u0645 \u0642\u06cc\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +72,7 @@
         }
     ],
     "wof:id":1226351613,
-    "wof:lastmodified":1537643019,
+    "wof:lastmodified":1564119622,
     "wof:name":"Yarem Qayeh",
     "wof:parent_id":1108720153,
     "wof:placetype":"locality",

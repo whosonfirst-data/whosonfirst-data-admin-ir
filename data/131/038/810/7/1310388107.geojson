@@ -25,11 +25,24 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u0637\u0631\u0641\u0629"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0645 \u0627\u0644\u0637\u0631\u0641\u0647(\u0627\u0647\u0648\u0627\u0632)"
+    ],
+    "name:ceb_x_preferred":[
+        "Omm o\u0163 \u0162orfeh"
+    ],
     "name:fas_x_preferred":[
         "Omm o\u0163 \u0162orfeh"
     ],
     "name:fas_x_variant":[
-        "\u0627\u0645 \u0627\u0644\u0637\u0631\u0641\u0647"
+        "\u0627\u0645 \u0627\u0644\u0637\u0631\u0641\u0647",
+        "\u0627\u0645\u200c\u0627\u0644\u0637\u0631\u0641\u0647"
+    ],
+    "name:swe_x_preferred":[
+        "Omm o\u0163 \u0162orfeh"
     ],
     "name:und_x_variant":[
         "Omm ol \u0162arfeh",
@@ -60,7 +73,7 @@
         }
     ],
     "wof:id":1310388107,
-    "wof:lastmodified":1537643992,
+    "wof:lastmodified":1564115497,
     "wof:name":"Omm ot Torfeh",
     "wof:parent_id":1108719793,
     "wof:placetype":"locality",

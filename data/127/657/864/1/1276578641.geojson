@@ -25,11 +25,21 @@
     "iso:country":"IR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645\u0627\u0646\u0644\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Am\u0101nl\u012b"
+    ],
     "name:fas_x_preferred":[
         "Am\u0101nl\u012b"
     ],
     "name:fas_x_variant":[
-        "\u0627\u0645\u0627\u0645\u0646\u0644\u06cc"
+        "\u0627\u0645\u0627\u0645\u0646\u0644\u06cc",
+        "\u0627\u0645\u0627\u0646\u0644\u06cc"
+    ],
+    "name:swe_x_preferred":[
+        "Am\u0101nl\u012b"
     ],
     "name:und_x_variant":[
         "\u0627\u0645\u0627\u0645\u0646\u0644\u06cc"
@@ -58,7 +68,7 @@
         }
     ],
     "wof:id":1276578641,
-    "wof:lastmodified":1537640494,
+    "wof:lastmodified":1564112251,
     "wof:name":"Amanli",
     "wof:parent_id":1108719897,
     "wof:placetype":"locality",
