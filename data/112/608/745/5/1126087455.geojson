@@ -9,16 +9,19 @@
     "geom:bbox":"51.41667,35.73333,51.41667,35.73333",
     "geom:latitude":35.73333,
     "geom:longitude":51.41667,
-    "gn:gn_country":"IR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"IR",
+    "gn:fcode":"PPLX",
     "gn:latitude":35.73333,
     "gn:longitude":51.41667,
+    "gn:population":0,
     "iso:country":"IR",
+    "lbl:bbox":"51.41167,35.72833,51.42167,35.73833",
     "lbl:latitude":35.73333,
     "lbl:longitude":51.41667,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_colloquial":[
         "Qasr-e Qajar"
@@ -33,10 +36,6 @@
         "\u0642\u064e\u0635\u0631\u0650 \u0642\u0627\u062c\u0627\u0631"
     ],
     "name:fas_x_variant":[
-        "Qa\u015fr-e Q\u0101j\u0101r"
-    ],
-    "name:unk_x_variant":[
-        "Qasr-i-Qajar",
         "Qa\u015fr-e Q\u0101j\u0101r"
     ],
     "qs_pg:aaroncc":"IR",
@@ -60,7 +59,7 @@
     "qs_pg:woe_adm0":23424851,
     "qs_pg:woe_id":2244785,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424851,
     "woe:name_adm0":"Iran",
     "woe:name_adm1":"Tehran",
@@ -75,7 +74,6 @@
     "wof:concordances":{
         "gn:id":119589,
         "gp:id":2244785,
-        "qs:id":318051,
         "qs_pg:id":318051
     },
     "wof:country":"IR",
@@ -92,7 +90,7 @@
         }
     ],
     "wof:id":1126087455,
-    "wof:lastmodified":1534379347,
+    "wof:lastmodified":1566719328,
     "wof:name":"Qa\u015fr-e Q\u0101j\u0101r",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"48.4375,34.7824,48.4775,34.8224",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u062d\u0650\u064a\u062f\u064e\u0631\u0650\u06c0 \u067e\u064f\u0634\u062a\u0650 \u0634\u064e\u0647\u0631"
     ],
@@ -40,8 +44,7 @@
     ],
     "name:und_x_variant":[
         "\u1e28eydareh",
-        "\u1e28eydar-e Posht-e Shahr",
-        "\u062d\u06cc\u062f\u0631\u0647 \u067e\u0634\u062a \u0634\u0647\u0631"
+        "\u1e28eydar-e Posht-e Shahr"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1226630335,
-    "wof:lastmodified":1564120248,
+    "wof:lastmodified":1566720383,
     "wof:name":"Heydareh-ye Posht-e Shahr",
     "wof:parent_id":1108720047,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":30.5588,
     "geom:longitude":49.1981,
     "iso:country":"IR",
+    "lbl:bbox":"49.1781,30.5388,49.2181,30.5788",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0639\u0634\u0648\u0631"
@@ -99,7 +103,7 @@
     "name:tur_x_preferred":[
         "Mah\u015fehr"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "M\u0101hshahr"
     ],
     "name:zho_x_preferred":[
@@ -137,7 +141,7 @@
     "wof:concordances":{
         "gn:id":141663,
         "gp:id":2219003,
-        "qs:id":912815,
+        "qs_pg:id":912815,
         "wd:id":"Q605244",
         "wk:page":"Bandar-e Mahshahr"
     },
@@ -154,7 +158,7 @@
         }
     ],
     "wof:id":421175015,
-    "wof:lastmodified":1563345332,
+    "wof:lastmodified":1566719317,
     "wof:name":"Bandar-e Mahshahr",
     "wof:parent_id":1108719871,
     "wof:placetype":"locality",

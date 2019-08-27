@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"50.68806,36.16648,50.72806,36.20648",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "Ardak\u0101n"
     ],
@@ -39,10 +43,6 @@
     ],
     "name:pol_x_preferred":[
         "Ardakan"
-    ],
-    "name:und_x_variant":[
-        "\u0627\u0631\u062f\u0643\u0627\u0646",
-        "\u0622\u0631\u062f\u0643\u0627\u0646"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0631\u062f\u06a9\u0627\u0646"
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":1259611939,
-    "wof:lastmodified":1564118703,
+    "wof:lastmodified":1566719947,
     "wof:name":"Ardakan",
     "wof:parent_id":1108720409,
     "wof:placetype":"locality",

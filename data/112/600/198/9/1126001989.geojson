@@ -9,15 +9,18 @@
     "geom:bbox":"59.22114,32.86628,59.22114,32.86628",
     "geom:latitude":32.86628,
     "geom:longitude":59.22114,
-    "gn:gn_country":"IR",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":196982,
+    "gn:country":"IR",
+    "gn:fcode":"PPLA",
     "gn:population":196982,
     "iso:country":"IR",
+    "lbl:bbox":"59.20114,32.84628,59.24114,32.88628",
     "lbl:latitude":32.86628,
     "lbl:longitude":59.22114,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u06cc\u0631\u062c\u0646\u062f"
@@ -185,7 +188,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u0440\u0434\u0436\u0430\u043d\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Birdjand"
     ],
     "name:urd_x_preferred":[
@@ -212,7 +215,7 @@
     "qs_pg:qs_id":513518,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -239,7 +242,7 @@
         }
     ],
     "wof:id":1126001989,
-    "wof:lastmodified":1563345421,
+    "wof:lastmodified":1566719329,
     "wof:name":"B\u012brjand",
     "wof:parent_id":1108719895,
     "wof:placetype":"locality",

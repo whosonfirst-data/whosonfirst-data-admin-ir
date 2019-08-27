@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"54.3044,36.7849,54.3444,36.8249",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sadan"
     ],
@@ -35,10 +39,6 @@
         "\u05e1\u05d3\u05df"
     ],
     "name:swe_x_preferred":[
-        "Sadan"
-    ],
-    "name:und_x_variant":[
-        "\u0633\u062f\u0646",
         "Sadan"
     ],
     "src:geom":"geonames",
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1192957013,
-    "wof:lastmodified":1564114323,
+    "wof:lastmodified":1566718225,
     "wof:name":"Sadan",
     "wof:parent_id":1108720041,
     "wof:placetype":"locality",

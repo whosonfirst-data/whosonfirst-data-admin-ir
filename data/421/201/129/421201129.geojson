@@ -10,8 +10,12 @@
     "geom:latitude":36.7434,
     "geom:longitude":49.4022,
     "iso:country":"IR",
+    "lbl:bbox":"49.3822,36.7234,49.4222,36.7634",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0646\u062c\u064a\u0644"
@@ -74,9 +78,6 @@
     "name:tur_x_preferred":[
         "Mencil"
     ],
-    "name:unk_x_variant":[
-        "Menj\u012bl"
-    ],
     "name:zho_x_preferred":[
         "\u66fc\u5409\u52d2"
     ],
@@ -112,7 +113,7 @@
     "wof:concordances":{
         "gn:id":124967,
         "gp:id":2254895,
-        "qs:id":912946,
+        "qs_pg:id":912946,
         "wd:id":"Q720942",
         "wk:page":"Manjil"
     },
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":421201129,
-    "wof:lastmodified":1563345374,
+    "wof:lastmodified":1566719322,
     "wof:name":"Manjil",
     "wof:parent_id":1108720361,
     "wof:placetype":"locality",

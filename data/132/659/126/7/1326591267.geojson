@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"51.49921,32.45788,51.53921,32.49788",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u062c\u063a\u0631\u062f"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:pol_x_preferred":[
         "Bed\u017cgard"
-    ],
-    "name:und_x_variant":[
-        "\u0628\u062c\u06af\u0631\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1326591267,
-    "wof:lastmodified":1564107890,
+    "wof:lastmodified":1566715630,
     "wof:name":"Bejgerd",
     "wof:parent_id":1108719989,
     "wof:placetype":"locality",

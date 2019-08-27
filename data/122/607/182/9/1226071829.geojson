@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"50.74702,36.19829,50.78702,36.23829",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Haranj"
     ],
@@ -38,10 +42,6 @@
         "\u0425\u0435\u0440\u0435\u043d\u0434\u0436"
     ],
     "name:swe_x_preferred":[
-        "Haranj"
-    ],
-    "name:und_x_variant":[
-        "\u0647\u0631\u0646\u062c",
         "Haranj"
     ],
     "src:geom":"geonames",
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":1226071829,
-    "wof:lastmodified":1564120414,
+    "wof:lastmodified":1566720429,
     "wof:name":"Haranj",
     "wof:parent_id":1108720409,
     "wof:placetype":"locality",

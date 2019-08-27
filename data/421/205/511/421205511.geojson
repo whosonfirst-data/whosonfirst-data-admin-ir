@@ -10,8 +10,12 @@
     "geom:latitude":28.8438,
     "geom:longitude":52.5707,
     "iso:country":"IR",
+    "lbl:bbox":"52.5507,28.8238,52.5907,28.8638",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0641\u064a\u0631\u0648\u0632 \u0622\u0628\u0627\u062f"
@@ -131,9 +135,6 @@
     "name:ukr_x_preferred":[
         "\u0424\u0456\u0440\u0443\u0437\u0430\u0431\u0430\u0434"
     ],
-    "name:unk_x_variant":[
-        "\u0641\u06cc\u0631\u0648\u0632 \u0622\u0628\u0627\u062f"
-    ],
     "name:urd_x_preferred":[
         "\u0641\u06cc\u0631\u0648\u0632 \u0622\u0628\u0627\u062f"
     ],
@@ -173,7 +174,7 @@
     "wof:concordances":{
         "gn:id":134518,
         "gp:id":2254605,
-        "qs:id":263485,
+        "qs_pg:id":263485,
         "wd:id":"Q720952",
         "wk:page":"Firuzabad, Fars"
     },
@@ -190,7 +191,7 @@
         }
     ],
     "wof:id":421205511,
-    "wof:lastmodified":1563345306,
+    "wof:lastmodified":1566719314,
     "wof:name":"Firuzabad",
     "wof:parent_id":1108720009,
     "wof:placetype":"locality",

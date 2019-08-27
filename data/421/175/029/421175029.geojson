@@ -10,8 +10,12 @@
     "geom:latitude":36.24992,
     "geom:longitude":46.2735,
     "iso:country":"IR",
+    "lbl:bbox":"46.2535,36.22992,46.2935,36.26992",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u0642\u0632"
@@ -110,7 +114,7 @@
     "name:tur_x_preferred":[
         "Sagg\u0131z"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sak\u012bz"
     ],
     "name:urd_x_preferred":[
@@ -159,7 +163,7 @@
     "wof:concordances":{
         "gn:id":117392,
         "gp:id":2246665,
-        "qs:id":912902,
+        "qs_pg:id":912902,
         "wd:id":"Q348972",
         "wk:page":"Saqqez"
     },
@@ -176,7 +180,7 @@
         }
     ],
     "wof:id":421175029,
-    "wof:lastmodified":1563345338,
+    "wof:lastmodified":1566719317,
     "wof:name":"Saghez",
     "wof:parent_id":1108720381,
     "wof:placetype":"locality",

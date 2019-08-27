@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"56.39674,31.3953,56.43674,31.4353",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0634\u0648\u0631\u0643\u0650 \u0645\u064a\u0627\u0646"
     ],
@@ -38,11 +42,6 @@
         "Sh\u016brak-e Vos\u0163\u00e1",
         "Sh\u016brak-e M\u012b\u0101n",
         "\u0634\u0648\u0631\u06a9 \u0648\u0633\u0637\u06cc"
-    ],
-    "name:und_x_variant":[
-        "S\u016brk Vasati",
-        "Sh\u016brak-e Vos\u0163\u00e1",
-        "Sh\u016brak-e M\u012b\u0101n"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +67,7 @@
         }
     ],
     "wof:id":1309955997,
-    "wof:lastmodified":1564116749,
+    "wof:lastmodified":1566719231,
     "wof:name":"Shurak-e Vosta",
     "wof:parent_id":1108720155,
     "wof:placetype":"locality",

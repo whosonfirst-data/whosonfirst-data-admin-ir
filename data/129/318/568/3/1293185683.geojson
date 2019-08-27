@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"49.52759,37.14141,49.56759,37.18141",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "Ask\u012bdeh"
     ],
@@ -37,10 +41,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0441\u043a\u0430\u0434\u0435\u0433"
-    ],
-    "name:und_x_variant":[
-        "Askadeh",
-        "\u0627\u0633\u06a9\u06cc\u062f\u0647"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":1293185683,
-    "wof:lastmodified":1564111447,
+    "wof:lastmodified":1566717008,
     "wof:name":"Askideh",
     "wof:parent_id":1108720339,
     "wof:placetype":"locality",

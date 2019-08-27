@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":34.773247,
     "lbl:longitude":51.04284,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u0642\u0645",
     "mps:latitude":34.814684,
     "mps:longitude":51.06026,
@@ -327,9 +328,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-24",
+    "src:population_date":"2011-10-24",
     "statoids:area_km":"11,526",
     "statoids:area_mi":"4,450",
     "statoids:as_of_date":"2011-10-24",
@@ -354,7 +355,7 @@
         "gp:id":20070199,
         "hasc:id":"IR.QM",
         "iso:id":"IR-26",
-        "qs:id":241207,
+        "qs_pg:id":241207,
         "unlc:id":"IR-26",
         "wd:id":"Q131664",
         "wk:page":"Qom Province"
@@ -375,11 +376,10 @@
     "wof:lang_x_spoken":[
         "fas"
     ],
-    "wof:lastmodified":1565722684,
+    "wof:lastmodified":1566716596,
     "wof:name":"Qom",
     "wof:parent_id":85632361,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1151672,
     "wof:population_rank":12,

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"53.79129,36.54914,53.83129,36.58914",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0634\u0629 \u0628\u0646\u0629"
     ],
@@ -44,11 +48,6 @@
     ],
     "name:swe_x_preferred":[
         "B\u012bsheh Band"
-    ],
-    "name:und_x_variant":[
-        "B\u012bsheh Band",
-        "\u0628\u064a\u0634\u0647 \u0628\u0646\u0647",
-        "\u0628\u064a\u0634\u0647 \u062a\u067e\u0647"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +73,7 @@
         }
     ],
     "wof:id":1226095561,
-    "wof:lastmodified":1564120457,
+    "wof:lastmodified":1566720441,
     "wof:name":"Bisheh Band",
     "wof:parent_id":1108719887,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":35.31495,
     "geom:longitude":46.99883,
     "iso:country":"IR",
+    "lbl:bbox":"46.97883,35.29495,47.01883,35.33495",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -207,7 +210,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043d\u0435\u043d\u0434\u0435\u0434\u0436"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sinneh"
     ],
     "name:urd_x_preferred":[
@@ -348,7 +351,7 @@
     "wof:concordances":{
         "gn:id":117574,
         "gp:id":2255130,
-        "qs:id":493435,
+        "qs_pg:id":493435,
         "wd:id":"Q272093",
         "wk:page":"Sanandaj"
     },
@@ -365,7 +368,7 @@
         }
     ],
     "wof:id":421193177,
-    "wof:lastmodified":1563345275,
+    "wof:lastmodified":1566719310,
     "wof:name":"Sanandaj",
     "wof:parent_id":1108720379,
     "wof:placetype":"locality",

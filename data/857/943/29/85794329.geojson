@@ -15,6 +15,7 @@
     "iso:country":"IE",
     "lbl:latitude":53.308781,
     "lbl:longitude":-6.248128,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.311109,
     "mps:longitude":-6.230595,
     "mz:hierarchy_label":1,
@@ -64,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:latitude":53.313534,
     "wd:longitude":-6.246867,
@@ -79,7 +80,6 @@
     "wof:concordances":{
         "gn:id":6691002,
         "gp:id":561702,
-        "qs:id":318542,
         "qs_pg:id":318542,
         "wd:id":"Q2566830",
         "wk:page":"Milltown, Dublin"
@@ -99,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563338726,
+    "wof:lastmodified":1566716585,
     "wof:name":"Milltown",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

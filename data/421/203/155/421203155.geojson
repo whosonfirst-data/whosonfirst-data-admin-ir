@@ -10,8 +10,12 @@
     "geom:latitude":32.25014,
     "geom:longitude":54.01658,
     "iso:country":"IR",
+    "lbl:bbox":"53.99658,32.23014,54.03658,32.27014",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u064a\u0628\u062f"
@@ -73,9 +77,6 @@
     "name:tur_x_preferred":[
         "Meybod"
     ],
-    "name:unk_x_variant":[
-        "Meybod"
-    ],
     "name:zho_x_preferred":[
         "\u6885\u535a\u5fb7"
     ],
@@ -109,7 +110,7 @@
     "wof:concordances":{
         "gn:id":124193,
         "gp:id":2238202,
-        "qs:id":229334,
+        "qs_pg:id":229334,
         "wd:id":"Q664115"
     },
     "wof:country":"IR",
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":421203155,
-    "wof:lastmodified":1563345296,
+    "wof:lastmodified":1566719313,
     "wof:name":"Maibud",
     "wof:parent_id":1108720239,
     "wof:placetype":"locality",

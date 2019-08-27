@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":33.473274,
     "lbl:longitude":50.415682,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Isfahan",
     "meso:adm1_loc":"\u0627\u0635\u0641\u0647\u0627\u0646",
     "meso:adm2_alt":"NO DATA",
@@ -33,6 +35,7 @@
     "mps:longitude":50.415682,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0644\u0628\u0627\u064a\u0643\u0627\u0646"
     ],
@@ -85,7 +88,7 @@
         "\u6208\u52d2\u6d3e\u8036\u7518"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1108720033,
-    "wof:lastmodified":1564115178,
+    "wof:lastmodified":1566718600,
     "wof:name":"Golpayegan",
     "wof:parent_id":85672291,
     "wof:placetype":"county",

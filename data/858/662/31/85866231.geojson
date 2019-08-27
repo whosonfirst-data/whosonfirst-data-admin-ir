@@ -10,8 +10,10 @@
     "geom:latitude":53.271132,
     "geom:longitude":-6.203009,
     "iso:country":"IE",
+    "lbl:bbox":"-6.208009,53.266132,-6.198009,53.276132",
     "lbl:latitude":53.271132,
     "lbl:longitude":-6.203009,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.26691,
     "mps:longitude":-6.20207,
     "mz:hierarchy_label":0,
@@ -45,9 +47,6 @@
     "name:rus_x_preferred":[
         "\u041b\u0435\u043f\u0430\u0440\u0434\u0441\u0442\u0430\u0443\u043d"
     ],
-    "name:unk_x_variant":[
-        "Leopardstown"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u067e\u06cc\u0631\u0688\u0633 \u0679\u0627\u0624\u0646"
     ],
@@ -78,7 +77,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":226,
     "wof:belongsto":[
         102191581,
@@ -90,7 +89,6 @@
     "wof:concordances":{
         "gn:id":3315279,
         "gp:id":23700801,
-        "qs:id":487984,
         "qs_pg:id":487984,
         "wd:id":"Q2493170",
         "wk:page":"Leopardstown"
@@ -110,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563338787,
+    "wof:lastmodified":1566716602,
     "wof:name":"Leopardstown",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

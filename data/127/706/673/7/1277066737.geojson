@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"49.18007,37.16849,49.22007,37.20849",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0633\u063a\u0631\u0647"
     ],
@@ -47,9 +51,7 @@
         "\u0490\u0430\u0441\u0491\u0430\u0440\u0435"
     ],
     "name:und_x_variant":[
-        "Gasgareh",
-        "Gaskara",
-        "Gaskareh"
+        "Gaskara"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -75,7 +77,7 @@
         }
     ],
     "wof:id":1277066737,
-    "wof:lastmodified":1564111730,
+    "wof:lastmodified":1566717124,
     "wof:name":"Gaskareh",
     "wof:parent_id":1108720013,
     "wof:placetype":"locality",

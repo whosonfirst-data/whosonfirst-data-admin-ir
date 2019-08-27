@@ -15,6 +15,7 @@
     "iso:country":"IE",
     "lbl:latitude":53.308717,
     "lbl:longitude":-6.198221,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.311096,
     "mps:longitude":-6.198767,
     "mz:hierarchy_label":1,
@@ -63,9 +64,6 @@
     "name:swe_x_preferred":[
         "Booterstown"
     ],
-    "name:unk_x_variant":[
-        "Booterstown"
-    ],
     "qs:gn_adm0_cc":"IE",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2964574,
@@ -93,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":1115,
     "wof:belongsto":[
@@ -106,7 +104,6 @@
     "wof:concordances":{
         "gn:id":6691006,
         "gp:id":559977,
-        "qs:id":425856,
         "qs_pg:id":425856,
         "wd:id":"Q893125",
         "wk:page":"Booterstown"
@@ -126,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563338715,
+    "wof:lastmodified":1566716582,
     "wof:name":"Booterstown",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"57.26949,34.92094,57.30949,34.96094",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Samba"
     ],
@@ -222,9 +226,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043c\u0431\u0430"
     ],
-    "name:und_x_variant":[
-        "\u0633\u0645\u0628\u0627"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0645\u0628\u0627"
     ],
@@ -260,7 +261,7 @@
         }
     ],
     "wof:id":1326681095,
-    "wof:lastmodified":1564107967,
+    "wof:lastmodified":1566715659,
     "wof:name":"Samba",
     "wof:parent_id":1108720469,
     "wof:placetype":"locality",

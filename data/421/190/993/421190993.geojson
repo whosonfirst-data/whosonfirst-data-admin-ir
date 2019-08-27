@@ -10,8 +10,12 @@
     "geom:latitude":36.11787,
     "geom:longitude":53.05531,
     "iso:country":"IR",
+    "lbl:bbox":"53.03531,36.09787,53.07531,36.13787",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0644 \u0633\u0641\u064a\u062f"
@@ -62,9 +66,6 @@
     "name:tur_x_preferred":[
         "Pol Sefid"
     ],
-    "name:unk_x_variant":[
-        "Pol Sefid"
-    ],
     "qs:gn_country":"IR",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":120936,
@@ -97,7 +98,7 @@
     "wof:concordances":{
         "gn:id":120936,
         "gp:id":2243289,
-        "qs:id":59454,
+        "qs_pg:id":59454,
         "wd:id":"Q1020830",
         "wk:page":"PolSefid"
     },
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":421190993,
-    "wof:lastmodified":1563345353,
+    "wof:lastmodified":1566719319,
     "wof:name":"Pol-e Sefid",
     "wof:parent_id":1108720405,
     "wof:placetype":"locality",

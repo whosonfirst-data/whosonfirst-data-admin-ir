@@ -10,8 +10,12 @@
     "geom:latitude":32.6856,
     "geom:longitude":51.53609,
     "iso:country":"IR",
+    "lbl:bbox":"51.51609,32.6656,51.55609,32.7056",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062e\u0645\u064a\u0646\u064a \u0634\u0647\u0631"
@@ -111,7 +115,7 @@
     "name:tur_x_preferred":[
         "Humeyni\u015fehr"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sedeh"
     ],
     "name:urd_x_preferred":[
@@ -159,7 +163,7 @@
     "wof:concordances":{
         "gn:id":418710,
         "gp:id":2235742,
-        "qs:id":1175637,
+        "qs_pg:id":1175637,
         "wd:id":"Q720001",
         "wk:page":"Khomeyni Shahr"
     },
@@ -176,7 +180,7 @@
         }
     ],
     "wof:id":421177363,
-    "wof:lastmodified":1563345380,
+    "wof:lastmodified":1566719323,
     "wof:name":"Khomeynishahr",
     "wof:parent_id":1108720139,
     "wof:placetype":"locality",

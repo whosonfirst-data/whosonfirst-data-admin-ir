@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"58.00714,36.64167,58.04714,36.68167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0647\u0646\u0629 \u0634\u064a\u0631\u064a\u0646"
     ],
@@ -36,12 +40,6 @@
         "Deh\u0101neh-i-Sh\u012br\u012bn",
         "Dahaneh Sh\u012br\u012bn",
         "Dahaneh-ye Sh\u012br\u012b"
-    ],
-    "name:und_x_variant":[
-        "Deh\u0101neh-i-Sh\u012br\u012bn",
-        "Dahaneh-ye Sh\u012br\u012b",
-        "Dahaneh Sh\u012br\u012bn",
-        "\u062f\u0647\u0646\u0647 \u0634\u06cc\u0631\u06cc\u0646"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +65,7 @@
         }
     ],
     "wof:id":1193166857,
-    "wof:lastmodified":1564114589,
+    "wof:lastmodified":1566718347,
     "wof:name":"Dahaneh-ye Shirin",
     "wof:parent_id":1108719979,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":32.43218,
     "lbl:longitude":50.079599,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Chahar Mahall and Bakhtiari",
     "meso:adm1_loc":"\u0686\u0647\u0627\u0631\u0645\u062d\u0627\u0644 \u0648\u0628\u062e\u062a\u064a\u0627\u0631\u064a",
     "meso:adm2_alt":"NO DATA",
@@ -33,6 +35,7 @@
     "mps:longitude":50.079599,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0648\u0647\u0631\u0646\u063a"
     ],
@@ -82,7 +85,7 @@
         "\u0634\u06c1\u0631\u0633\u062a\u0627\u0646 \u06a9\u0648\u06c1\u0631\u0646\u06af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1108720171,
-    "wof:lastmodified":1563343188,
+    "wof:lastmodified":1566718597,
     "wof:name":"Kuhrang",
     "wof:parent_id":85672319,
     "wof:placetype":"county",

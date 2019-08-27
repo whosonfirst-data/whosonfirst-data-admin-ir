@@ -10,8 +10,12 @@
     "geom:latitude":36.1468,
     "geom:longitude":49.218,
     "iso:country":"IR",
+    "lbl:bbox":"49.198,36.1268,49.238,36.1668",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:als_x_preferred":[
         "Abhar"
@@ -107,9 +111,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0431\u0445\u0430\u0440"
     ],
-    "name:unk_x_variant":[
-        "Abhar"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0628\u06c1\u0631"
     ],
@@ -152,7 +153,7 @@
     "wof:concordances":{
         "gn:id":145034,
         "gp:id":2215302,
-        "qs:id":263460,
+        "qs_pg:id":263460,
         "wd:id":"Q643359",
         "wk:page":"Abhar"
     },
@@ -169,7 +170,7 @@
         }
     ],
     "wof:id":421205491,
-    "wof:lastmodified":1563345305,
+    "wof:lastmodified":1566719314,
     "wof:name":"Abkhar",
     "wof:parent_id":1108719787,
     "wof:placetype":"locality",

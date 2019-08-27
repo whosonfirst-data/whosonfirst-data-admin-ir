@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":27.360513,
     "lbl:longitude":53.277226,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Fars",
     "meso:adm1_loc":"\u0641\u0627\u0631\u0633",
     "meso:adm2_alt":"Lamard",
@@ -33,6 +35,7 @@
     "mps:longitude":53.277226,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u0645\u0631\u062f"
     ],
@@ -82,7 +85,7 @@
         "\u62c9\u9ed8\u723e\u5fb7"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1108720181,
-    "wof:lastmodified":1564115162,
+    "wof:lastmodified":1566718594,
     "wof:name":"Lamerd",
     "wof:parent_id":85672295,
     "wof:placetype":"county",

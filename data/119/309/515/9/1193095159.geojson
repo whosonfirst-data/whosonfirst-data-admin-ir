@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"48.14306,34.0013,48.18306,34.0413",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u062c \u0627\u0645\u064a\u0631"
     ],
@@ -39,9 +43,6 @@
     ],
     "name:swe_x_preferred":[
         "T\u0101j Am\u012br"
-    ],
-    "name:und_x_variant":[
-        "\u062a\u0627\u062c \u0627\u0645\u06cc\u0631"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1193095159,
-    "wof:lastmodified":1564114282,
+    "wof:lastmodified":1566718205,
     "wof:name":"Taj Amir",
     "wof:parent_id":1108719959,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":37.55274,
     "geom:longitude":45.07605,
     "iso:country":"IR",
+    "lbl:bbox":"45.05605,37.53274,45.09605,37.57274",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0623\u0631\u0648\u0645\u064a\u0629"
@@ -207,7 +211,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u0440\u043c\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rez\u00e2iyye"
     ],
     "name:urd_x_preferred":[
@@ -255,7 +259,7 @@
     "wof:concordances":{
         "gn:id":121801,
         "gp:id":2242302,
-        "qs:id":912889,
+        "qs_pg:id":912889,
         "wd:id":"Q179665",
         "wk:page":"Urmia"
     },
@@ -272,7 +276,7 @@
         }
     ],
     "wof:id":421175027,
-    "wof:lastmodified":1563345337,
+    "wof:lastmodified":1566719317,
     "wof:name":"Orumiyeh",
     "wof:parent_id":1108720289,
     "wof:placetype":"locality",

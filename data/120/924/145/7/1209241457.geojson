@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"57.24231,36.55104,57.28231,36.59104",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Arg-e Now J\u016by"
     ],
@@ -43,11 +47,7 @@
         "Arg-e Now J\u016by"
     ],
     "name:und_x_variant":[
-        "Arg-e Now J\u016bd\u012b",
-        "Arqeh-ye Now J\u016by",
-        "Arg Now J\u016by",
-        "Ark",
-        "\u0627\u0631\u06af \u0646\u0648 \u062c\u0648\u06cc"
+        "Ark"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":1209241457,
-    "wof:lastmodified":1564113390,
+    "wof:lastmodified":1566717815,
     "wof:name":"Arg-e Now Juy",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",

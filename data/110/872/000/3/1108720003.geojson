@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":28.880673,
     "lbl:longitude":53.815456,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Fars",
     "meso:adm1_loc":"\u0641\u0627\u0631\u0633",
     "meso:adm2_alt":"NO DATA",
@@ -33,6 +35,7 @@
     "mps:longitude":53.815456,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0641\u0633\u0627"
     ],
@@ -88,7 +91,7 @@
         "\u0634\u06c1\u0631\u0633\u062a\u0627\u0646 \u0641\u0633\u0627"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1108720003,
-    "wof:lastmodified":1563343153,
+    "wof:lastmodified":1566718585,
     "wof:name":"Fasa",
     "wof:parent_id":85672295,
     "wof:placetype":"county",

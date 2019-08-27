@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"49.09939,37.34496,49.13939,37.38496",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0647 \u0628\u0627\u064a\u0647"
     ],
@@ -50,10 +54,6 @@
     "name:tur_x_preferred":[
         "Kuhpaya"
     ],
-    "name:und_x_variant":[
-        "M\u012bleh Sar\u0101",
-        "K\u016bhp\u0101yeh"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":1226139789,
-    "wof:lastmodified":1564119912,
+    "wof:lastmodified":1566720288,
     "wof:name":"Kuhpayeh",
     "wof:parent_id":1108720225,
     "wof:placetype":"locality",

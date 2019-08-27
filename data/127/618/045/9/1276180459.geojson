@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"48.09776,33.46994,48.13776,33.50994",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Naq\u0101reh"
     ],
@@ -43,10 +47,8 @@
     ],
     "name:und_x_variant":[
         "N\u0101kura",
-        "Naq\u0101reh",
         "Naqqareh",
-        "Naq\u0101reh-ye N\u0101veh Kash",
-        "\u0646\u0642\u0627\u0631\u0647 \u0646\u0627\u0648\u0647 \u06a9\u0634"
+        "Naq\u0101reh-ye N\u0101veh Kash"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +74,7 @@
         }
     ],
     "wof:id":1276180459,
-    "wof:lastmodified":1564111988,
+    "wof:lastmodified":1566717231,
     "wof:name":"Naqareh",
     "wof:parent_id":1108720145,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"50.58086,31.68928,50.62086,31.72928",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0646\u0645\u064a"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:swe_x_preferred":[
         "Kanem\u012b"
-    ],
-    "name:und_x_variant":[
-        "\u0643\u0646\u0645\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1243561691,
-    "wof:lastmodified":1564117664,
+    "wof:lastmodified":1566719636,
     "wof:name":"Kanemi",
     "wof:parent_id":1108719821,
     "wof:placetype":"locality",

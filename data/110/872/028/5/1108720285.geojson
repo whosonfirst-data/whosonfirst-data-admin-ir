@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":30.830401,
     "lbl:longitude":49.750741,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Khoozestan",
     "meso:adm1_loc":"\u062e\u0648\u0632\u0633\u062a\u0627\u0646",
     "meso:adm2_alt":"NO DATA",
@@ -33,6 +35,7 @@
     "mps:longitude":49.750741,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0645\u064a\u062f\u064a\u0629"
     ],
@@ -79,7 +82,7 @@
         "\u6b50\u7c73\u8fea\u8036"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1108720285,
-    "wof:lastmodified":1564115170,
+    "wof:lastmodified":1566718598,
     "wof:name":"Omidiyeh",
     "wof:parent_id":85672325,
     "wof:placetype":"county",

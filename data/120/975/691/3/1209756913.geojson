@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"46.9033,37.4721,46.9433,37.5121",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yengejeh"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:swe_x_preferred":[
         "Yengejeh"
-    ],
-    "name:und_x_variant":[
-        "\u06cc\u0646\u06af\u062c\u0647"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1209756913,
-    "wof:lastmodified":1564114129,
+    "wof:lastmodified":1566718146,
     "wof:name":"Yengejeh",
     "wof:parent_id":1108720055,
     "wof:placetype":"locality",

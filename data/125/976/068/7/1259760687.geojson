@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"58.23587,25.68075,58.27587,25.72075",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Sand"
     ],
@@ -328,10 +332,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0441\u043e\u043a"
     ],
-    "name:und_x_variant":[
-        "\u0633\u0646\u062f",
-        "Sand"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u06cc\u062a"
     ],
@@ -370,7 +370,7 @@
         }
     ],
     "wof:id":1259760687,
-    "wof:lastmodified":1564118647,
+    "wof:lastmodified":1566719932,
     "wof:name":"Sand",
     "wof:parent_id":1108720077,
     "wof:placetype":"locality",

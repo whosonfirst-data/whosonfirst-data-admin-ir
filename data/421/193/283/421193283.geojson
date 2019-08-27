@@ -10,8 +10,12 @@
     "geom:latitude":30.11405,
     "geom:longitude":51.52174,
     "iso:country":"IR",
+    "lbl:bbox":"51.50174,30.09405,51.54174,30.13405",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0646\u0648\u0631 \u0622\u0628\u0627\u062f"
@@ -62,9 +66,6 @@
     "name:tur_x_preferred":[
         "Nurabad"
     ],
-    "name:unk_x_variant":[
-        "\u0646\u0648\u0631 \u0622\u0628\u0627\u062f"
-    ],
     "name:urd_x_preferred":[
         "\u0646\u0648\u0631\u0622\u0628\u0627\u062f"
     ],
@@ -104,7 +105,7 @@
     "wof:concordances":{
         "gn:id":121925,
         "gp:id":2255013,
-        "qs:id":1307944,
+        "qs_pg:id":1307944,
         "wd:id":"Q719764",
         "wk:page":"Nurabad, Fars"
     },
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":421193283,
-    "wof:lastmodified":1563345274,
+    "wof:lastmodified":1566719310,
     "wof:name":"Nurabad",
     "wof:parent_id":1108720209,
     "wof:placetype":"locality",

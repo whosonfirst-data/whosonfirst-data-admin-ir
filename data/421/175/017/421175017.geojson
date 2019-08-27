@@ -10,8 +10,12 @@
     "geom:latitude":36.70251,
     "geom:longitude":52.6576,
     "iso:country":"IR",
+    "lbl:bbox":"52.6376,36.68251,52.6776,36.72251",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0627\u0628\u0644\u0633\u0631"
@@ -86,7 +90,7 @@
     "name:tur_x_preferred":[
         "Babolser"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Meshed-i-Sar"
     ],
     "name:zho_x_preferred":[
@@ -122,7 +126,7 @@
     "wof:concordances":{
         "gn:id":142358,
         "gp:id":2238867,
-        "qs:id":912877,
+        "qs_pg:id":912877,
         "wd:id":"Q643187",
         "wk:page":"Babolsar"
     },
@@ -139,7 +143,7 @@
         }
     ],
     "wof:id":421175017,
-    "wof:lastmodified":1563345339,
+    "wof:lastmodified":1566719317,
     "wof:name":"Mashhad-i-Sar",
     "wof:parent_id":1108719847,
     "wof:placetype":"locality",

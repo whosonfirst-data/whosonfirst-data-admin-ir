@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"50.85941,30.69893,50.89941,30.73893",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Gari"
     ],
@@ -60,9 +64,7 @@
     "name:und_x_variant":[
         "Karreh",
         "Gerrey",
-        "Garr\u012b-ye P\u0101\u2019\u012bn",
-        "Garr\u012b",
-        "\u06af\u0631\u06cc"
+        "Garr\u012b-ye P\u0101\u2019\u012bn"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -87,7 +89,7 @@
         }
     ],
     "wof:id":1309743353,
-    "wof:lastmodified":1564116844,
+    "wof:lastmodified":1566719272,
     "wof:name":"Garri",
     "wof:parent_id":1108720157,
     "wof:placetype":"locality",

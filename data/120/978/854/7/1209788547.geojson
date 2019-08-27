@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"49.7006,31.34876,49.7406,31.38876",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0648\u062f \u0632\u0631\u062f \u0645\u0627\u0634\u064a\u0646"
     ],
@@ -39,9 +43,7 @@
     ],
     "name:und_x_variant":[
         "R\u016bd-e Zard M\u0101sh\u012bn",
-        "R\u016bd Zard-e M\u0101sh\u012bn",
-        "R\u016bd Zard-e S\u0101d\u0101t",
-        "\u0631\u0648\u062f \u0632\u0631\u062f \u0645\u0627\u0634\u06cc\u0646"
+        "R\u016bd Zard-e S\u0101d\u0101t"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +69,7 @@
         }
     ],
     "wof:id":1209788547,
-    "wof:lastmodified":1564113427,
+    "wof:lastmodified":1566717832,
     "wof:name":"Rud Zard",
     "wof:parent_id":1108720331,
     "wof:placetype":"locality",

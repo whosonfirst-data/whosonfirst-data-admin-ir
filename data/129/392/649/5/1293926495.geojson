@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"55.18515,37.11336,55.22515,37.15336",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "Qezelcheh-ye \u0100q Em\u0101m"
     ],
@@ -35,10 +39,6 @@
     ],
     "name:msa_x_preferred":[
         "Qezeljeh-ye Aq Emam"
-    ],
-    "name:und_x_variant":[
-        "Qezeljeh-ye \u0100q Em\u0101m",
-        "\u0642\u0632\u0644\u062c\u0647 \u0622\u0642 \u0627\u0645\u0627\u0645"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1293926495,
-    "wof:lastmodified":1564111069,
+    "wof:lastmodified":1566716867,
     "wof:name":"Qezeljeh-ye Aq Emam",
     "wof:parent_id":1108719839,
     "wof:placetype":"locality",

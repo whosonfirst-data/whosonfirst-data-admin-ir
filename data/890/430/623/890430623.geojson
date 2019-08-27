@@ -11,8 +11,11 @@
     "geom:longitude":60.6225,
     "gn:country":"IR",
     "gn:fcode":"PPL",
-    "gn:pop":58928,
+    "gn:population":58928,
     "iso:country":"IR",
+    "lbl:bbox":"60.6025,35.224,60.6425,35.264",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -79,7 +82,7 @@
     "name:tur_x_preferred":[
         "T\u00fcrbet Cam"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Turbat-i-Shaikh Jam"
     ],
     "name:urd_x_preferred":[
@@ -196,7 +199,7 @@
     "wof:concordances":{
         "gn:id":1159362,
         "gp:id":2255277,
-        "qs:id":84290,
+        "qs_pg:id":84290,
         "wd:id":"Q765715",
         "wk:page":"Torbat-e Jam County"
     },
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":890430623,
-    "wof:lastmodified":1563345403,
+    "wof:lastmodified":1566719325,
     "wof:name":"Torbat-e J\u0101m",
     "wof:parent_id":1108720499,
     "wof:placetype":"locality",

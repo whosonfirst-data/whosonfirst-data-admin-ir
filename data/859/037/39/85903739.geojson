@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":36334602.201649,
+    "geom:area_square_m":0.0,
     "geom:bbox":"51.430649,35.762731,51.430649,35.762731",
     "geom:latitude":35.762731,
     "geom:longitude":51.430649,
-    "gn:gn_country":"IR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"IR",
+    "gn:fcode":"PPLX",
     "gn:latitude":35.7622,
     "gn:longitude":51.4407,
+    "gn:population":0,
     "iso:country":"IR",
+    "lbl:bbox":"51.425649,35.757731,51.435649,35.767731",
     "lbl:latitude":35.762731,
     "lbl:longitude":51.430649,
+    "lbl:max_zoom":18.0,
     "mps:latitude":35.769603,
     "mps:longitude":51.423261,
     "mz:hierarchy_label":0,
@@ -50,10 +52,6 @@
         "D\u0101udiyeh",
         "D\u0101v\u016bd\u012byyeh",
         "D\u0101v\u016bd\u012byeh"
-    ],
-    "name:unk_x_variant":[
-        "D\u0101v\u016bd\u012byeh",
-        "D\u0101v\u016bd\u012byyeh"
     ],
     "qs:gn_adm0_cc":"IR",
     "qs:gn_fcode":"PPLX",
@@ -102,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85672313,
         102191569,
@@ -113,7 +111,6 @@
     "wof:concordances":{
         "gn:id":137107,
         "gp:id":2224067,
-        "qs:id":41373,
         "qs_pg:id":41373
     },
     "wof:country":"IR",
@@ -132,7 +129,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379347,
+    "wof:lastmodified":1566716581,
     "wof:name":"D\u0101v\u016bd\u012byeh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

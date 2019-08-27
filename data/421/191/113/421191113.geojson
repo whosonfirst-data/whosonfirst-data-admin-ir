@@ -10,8 +10,12 @@
     "geom:latitude":31.132832,
     "geom:longitude":53.277468,
     "iso:country":"IR",
+    "lbl:bbox":"53.257468,31.112832,53.297468,31.152832",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0623\u0628\u0631\u0643\u0648\u0647"
@@ -104,7 +108,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2214999,
-        "qs:id":1130284,
+        "qs_pg:id":1130284,
         "wd:id":"Q919547"
     },
     "wof:country":"IR",
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":421191113,
-    "wof:lastmodified":1563345353,
+    "wof:lastmodified":1566719319,
     "wof:name":"Abarkuh",
     "wof:parent_id":1108719781,
     "wof:placetype":"locality",

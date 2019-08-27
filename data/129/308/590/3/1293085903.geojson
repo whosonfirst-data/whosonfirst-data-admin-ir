@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"50.297,36.97406,50.337,37.01406",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u0100kh\u016bneh Melk"
     ],
@@ -44,10 +48,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0445\u0443\u043d\u0434-\u041c\u0435\u043b\u043a"
-    ],
-    "name:und_x_variant":[
-        "\u0622\u062e\u0648\u0646\u062f \u0645\u0644\u06a9",
-        "\u0100kh\u016bneh Melk"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":1293085903,
-    "wof:lastmodified":1564110502,
+    "wof:lastmodified":1566716667,
     "wof:name":"Akhuneh Melk",
     "wof:parent_id":1108720365,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"61.01039,25.63324,61.05039,25.67324",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u0648\u0644"
     ],
@@ -35,10 +39,6 @@
         "D\u012bv\u0101l",
         "\u062f\u06cc\u0648\u0627\u0644",
         "\u062f\u06cc\u0648\u0644"
-    ],
-    "name:und_x_variant":[
-        "D\u012bv\u0101l",
-        "\u062f\u06cc\u0648\u0627\u0644"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1226348097,
-    "wof:lastmodified":1564119468,
+    "wof:lastmodified":1566720166,
     "wof:name":"Dival",
     "wof:parent_id":1108719919,
     "wof:placetype":"locality",

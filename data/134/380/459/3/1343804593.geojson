@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"56.38993,31.37744,56.42993,31.41744",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0411\u043e\u043d\u0434\u0430\u0440"
     ],
@@ -51,9 +55,7 @@
         "\u0411\u043e\u043d\u0434\u0430\u0440"
     ],
     "name:und_x_variant":[
-        "Ban\u0101derre",
-        "Bonedar",
-        "Bondar"
+        "Bonedar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":1343804593,
-    "wof:lastmodified":1564110177,
+    "wof:lastmodified":1566716528,
     "wof:name":"Bondar",
     "wof:parent_id":1108720155,
     "wof:placetype":"locality",

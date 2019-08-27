@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"52.49935,35.98773,52.53935,36.02773",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0634\u0644"
     ],
@@ -50,8 +54,7 @@
     ],
     "name:und_x_variant":[
         "Neshal",
-        "Neshel",
-        "Nesel"
+        "Neshel"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1293533843,
-    "wof:lastmodified":1564110462,
+    "wof:lastmodified":1566716652,
     "wof:name":"Nesel",
     "wof:parent_id":1108719845,
     "wof:placetype":"locality",

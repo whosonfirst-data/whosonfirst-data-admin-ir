@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"46.8819,35.2009,46.9219,35.2409",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Korrehs\u012b"
     ],
@@ -40,11 +44,9 @@
         "Korrehs\u012b"
     ],
     "name:und_x_variant":[
-        "Kors\u012b",
         "Karehs\u012b",
         "Karrahseh",
-        "Karkeseh",
-        "Korrehs\u012b"
+        "Karkeseh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":1243536601,
-    "wof:lastmodified":1564117031,
+    "wof:lastmodified":1566719370,
     "wof:name":"Korrehsi",
     "wof:parent_id":1108720379,
     "wof:placetype":"locality",

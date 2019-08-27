@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":34.818163,
     "lbl:longitude":45.968389,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Kermanshah",
     "meso:adm1_loc":"\u0643\u0631\u0645\u0627\u0646\u0634\u0627\u0647",
     "meso:adm2_alt":"NO DATA",
@@ -33,11 +35,12 @@
     "mps:longitude":45.968389,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Salas-e-Babajani"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108720373,
-    "wof:lastmodified":1553718441,
+    "wof:lastmodified":1566718589,
     "wof:name":"Salas-e-Babajani",
     "wof:parent_id":85672379,
     "wof:placetype":"county",

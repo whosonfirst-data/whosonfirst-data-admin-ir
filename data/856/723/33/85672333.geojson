@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":33.099535,
     "lbl:longitude":46.840458,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u0627\u064a\u0644\u0627\u0645",
     "mps:latitude":33.178183,
     "mps:longitude":46.725813,
@@ -228,7 +229,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u043b\u0430\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Governorate of Ilam"
     ],
     "name:urd_x_preferred":[
@@ -321,9 +322,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-24",
+    "src:population_date":"2011-10-24",
     "statoids:area_km":"20,133",
     "statoids:area_mi":"7,773",
     "statoids:as_of_date":"2011-10-24",
@@ -348,7 +349,7 @@
         "gp:id":2345775,
         "hasc:id":"IR.IL",
         "iso:id":"IR-05",
-        "qs:id":894898,
+        "qs_pg:id":894898,
         "unlc:id":"IR-05",
         "wd:id":"Q170570",
         "wk:page":"Ilam Province"
@@ -369,11 +370,10 @@
     "wof:lang_x_spoken":[
         "fas"
     ],
-    "wof:lastmodified":1565722684,
+    "wof:lastmodified":1566716596,
     "wof:name":"Ilam",
     "wof:parent_id":85632361,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":557599,
     "wof:population_rank":11,

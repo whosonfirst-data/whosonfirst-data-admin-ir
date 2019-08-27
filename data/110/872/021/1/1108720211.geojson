@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":37.701486,
     "lbl:longitude":56.579992,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"North Khorasan",
     "meso:adm1_loc":"\u062e\u0631\u0627\u0633\u0627\u0646 \u0634\u0645\u0627\u0644\u064a",
     "meso:adm2_alt":"NO DATA",
@@ -33,11 +35,12 @@
     "mps:longitude":56.579992,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Maneh and Samalqan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108720211,
-    "wof:lastmodified":1553718436,
+    "wof:lastmodified":1566718600,
     "wof:name":"Maneh and Samalqan",
     "wof:parent_id":85672401,
     "wof:placetype":"county",

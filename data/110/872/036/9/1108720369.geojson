@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":31.922347,
     "lbl:longitude":53.357537,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Yazd",
     "meso:adm1_loc":"\u064a\u0632\u062f",
     "meso:adm2_alt":"NO DATA",
@@ -33,11 +35,12 @@
     "mps:longitude":53.357537,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Sadugh"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108720369,
-    "wof:lastmodified":1553718440,
+    "wof:lastmodified":1566718586,
     "wof:name":"Sadugh",
     "wof:parent_id":85672317,
     "wof:placetype":"county",

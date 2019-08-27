@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":32.869994,
     "lbl:longitude":58.371785,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u062e\u0631\u0627\u0633\u0627\u0646 \u062c\u0646\u0648\u0628\u064a",
     "mps:latitude":32.297087,
     "mps:longitude":59.471741,
@@ -247,7 +248,7 @@
         "Sydkhorasan"
     ],
     "name:tam_x_preferred":[
-        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1  \u0b95\u0bb9\u0bcb\u0bb0\u0b9a\u0ba9\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0bb9\u0bcb\u0bb0\u0b9a\u0ba9\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c26\u0c15\u0c4d\u0c37\u0c3f\u0c23 \u0c16\u0c4b\u0c30\u0c3e\u0c38\u0c3e\u0c28\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -266,9 +267,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0438\u0439 \u0425\u043e\u0440\u0430\u0441\u0430\u043d"
-    ],
-    "name:unk_x_variant":[
-        "Khor\u0101s\u0101n-e Jon\u016bb\u012b"
     ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062e\u0631\u0627\u0633\u0627\u0646 \u062c\u0646\u0648\u0628\u06cc"
@@ -363,9 +361,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-24",
+    "src:population_date":"2011-10-24",
     "statoids:area_km":"95,385",
     "statoids:area_mi":"36,828",
     "statoids:as_of_date":"2011-10-24",
@@ -390,7 +388,7 @@
         "gp:id":56189825,
         "hasc:id":"IR.KJ",
         "iso:id":"IR-29",
-        "qs:id":909770,
+        "qs_pg:id":909770,
         "wd:id":"Q171551"
     },
     "wof:country":"IR",
@@ -409,11 +407,10 @@
     "wof:lang_x_spoken":[
         "fas"
     ],
-    "wof:lastmodified":1565722687,
+    "wof:lastmodified":1566716599,
     "wof:name":"South Khorasan",
     "wof:parent_id":85632361,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":662534,
     "wof:population_rank":11,

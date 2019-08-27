@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"58.06253,35.21408,58.10253,35.25408",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "Kh\u0101b\u016bz"
     ],
@@ -33,10 +37,6 @@
         "\u062e\u0627\u0628\u0648\u0632",
         "J\u0101b\u016bs",
         "\u062c\u0627\u0628\u0648\u0632"
-    ],
-    "name:und_x_variant":[
-        "J\u0101b\u016bs",
-        "\u062e\u0627\u0628\u0648\u0632"
     ],
     "name:urd_x_preferred":[
         "\u062c\u0627\u0628\u0648\u0632"
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":1360114453,
-    "wof:lastmodified":1564116362,
+    "wof:lastmodified":1566719069,
     "wof:name":"Jabuz",
     "wof:parent_id":1108720121,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"54.43011,26.81237,54.47011,26.85237",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0631\u0645\u0643"
     ],
@@ -43,9 +47,7 @@
     "name:und_x_variant":[
         "Armak\u012b",
         "Armagh",
-        "Armaq",
-        "\u0627\u0631\u0645\u0643",
-        "Armak"
+        "Armaq"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1277165245,
-    "wof:lastmodified":1564112928,
+    "wof:lastmodified":1566717619,
     "wof:name":"Armak",
     "wof:parent_id":1108719869,
     "wof:placetype":"locality",

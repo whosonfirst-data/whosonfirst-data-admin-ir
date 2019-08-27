@@ -10,8 +10,12 @@
     "geom:latitude":34.05194,
     "geom:longitude":49.62126,
     "iso:country":"IR",
+    "lbl:bbox":"49.60126,34.03194,49.64126,34.07194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u0646\u062c\u0627\u0646"
@@ -55,7 +59,7 @@
     "name:tur_x_preferred":[
         "Sencan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zenj\u0101n"
     ],
     "qs:gn_country":"IR",
@@ -90,7 +94,7 @@
     "wof:concordances":{
         "gn:id":116388,
         "gp:id":2248211,
-        "qs:id":1083728,
+        "qs_pg:id":1083728,
         "wd:id":"Q2624792",
         "wk:page":"Senjan"
     },
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":421187649,
-    "wof:lastmodified":1563345317,
+    "wof:lastmodified":1566719315,
     "wof:name":"Senijan",
     "wof:parent_id":1108720443,
     "wof:placetype":"locality",

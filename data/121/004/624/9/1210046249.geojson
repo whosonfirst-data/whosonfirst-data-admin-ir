@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"51.10129,36.02785,51.14129,36.06785",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Varzan"
     ],
@@ -38,10 +42,6 @@
         "\u0412\u0435\u0440\u0437\u0435\u043d"
     ],
     "name:swe_x_preferred":[
-        "Varzan"
-    ],
-    "name:und_x_variant":[
-        "\u0648\u0631\u0632\u0646",
         "Varzan"
     ],
     "src:geom":"geonames",
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":1210046249,
-    "wof:lastmodified":1564114199,
+    "wof:lastmodified":1566718177,
     "wof:name":"Varzan",
     "wof:parent_id":1108720105,
     "wof:placetype":"locality",

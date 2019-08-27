@@ -10,8 +10,12 @@
     "geom:latitude":36.521,
     "geom:longitude":46.2089,
     "iso:country":"IR",
+    "lbl:bbox":"46.1889,36.501,46.2289,36.541",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ace_x_preferred":[
         "Bukan"
@@ -281,7 +285,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u043a\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bowk\u0101n"
     ],
     "name:urd_x_preferred":[
@@ -336,7 +340,7 @@
     "wof:concordances":{
         "gn:id":139889,
         "gp:id":2220380,
-        "qs:id":946473,
+        "qs_pg:id":946473,
         "wd:id":"Q606564"
     },
     "wof:country":"IR",
@@ -352,7 +356,7 @@
         }
     ],
     "wof:id":421182805,
-    "wof:lastmodified":1563345395,
+    "wof:lastmodified":1566719324,
     "wof:name":"Bokan",
     "wof:parent_id":1108719915,
     "wof:placetype":"locality",

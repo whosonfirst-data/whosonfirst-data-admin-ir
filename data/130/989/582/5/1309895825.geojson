@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"49.1129,37.3431,49.1529,37.3831",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0633\u0627\u0644"
     ],
@@ -71,7 +75,6 @@
     "name:und_x_variant":[
         "Masal-Bazar",
         "Sar-i-B\u0101zar",
-        "M\u0101s\u0101l",
         "S\u0101r\u012b B\u0101z\u0101r M\u016bs\u0101r"
     ],
     "src:geom":"geonames",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1309895825,
-    "wof:lastmodified":1564116872,
+    "wof:lastmodified":1566719284,
     "wof:name":"Masal",
     "wof:parent_id":1108720225,
     "wof:placetype":"locality",

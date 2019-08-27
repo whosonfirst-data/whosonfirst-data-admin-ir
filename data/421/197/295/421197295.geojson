@@ -10,8 +10,12 @@
     "geom:latitude":33.9905,
     "geom:longitude":50.6838,
     "iso:country":"IR",
+    "lbl:bbox":"50.6638,33.9705,50.7038,34.0105",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062f\u0644\u064a\u062c\u0627\u0646"
@@ -62,7 +66,7 @@
     "name:tur_x_preferred":[
         "Dilican"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dalij\u0101n"
     ],
     "name:zho_x_preferred":[
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":136399,
         "gp:id":2222956,
-        "qs:id":122345,
+        "qs_pg:id":122345,
         "wd:id":"Q888740",
         "wk:page":"Delijan"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421197295,
-    "wof:lastmodified":1563345358,
+    "wof:lastmodified":1566719320,
     "wof:name":"Dalijan",
     "wof:parent_id":1108719961,
     "wof:placetype":"locality",

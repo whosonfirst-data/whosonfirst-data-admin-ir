@@ -10,8 +10,12 @@
     "geom:latitude":36.655,
     "geom:longitude":51.4204,
     "iso:country":"IR",
+    "lbl:bbox":"51.4004,36.635,51.4404,36.675",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0634\u0627\u0644\u0648\u0633"
@@ -130,7 +134,7 @@
     "wof:concordances":{
         "gn:id":139223,
         "gp:id":2254481,
-        "qs:id":229338,
+        "qs_pg:id":229338,
         "wd:id":"Q862547",
         "wk:page":"Chalus, Iran"
     },
@@ -147,7 +151,7 @@
         }
     ],
     "wof:id":421203163,
-    "wof:lastmodified":1563345296,
+    "wof:lastmodified":1566719313,
     "wof:name":"Chalus",
     "wof:parent_id":1108719925,
     "wof:placetype":"locality",

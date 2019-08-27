@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"48.911,34.60642,48.951,34.64642",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u062e\u0631\u0646\u062f"
     ],
@@ -36,9 +40,7 @@
     ],
     "name:und_x_variant":[
         "Khorand",
-        "Kharand",
-        "\u062e\u0631\u0646\u062f",
-        "Kheradmand"
+        "Kharand"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +66,7 @@
         }
     ],
     "wof:id":1292924509,
-    "wof:lastmodified":1564110615,
+    "wof:lastmodified":1566716708,
     "wof:name":"Kheradmand",
     "wof:parent_id":1108720205,
     "wof:placetype":"locality",

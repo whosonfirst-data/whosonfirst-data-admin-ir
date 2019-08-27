@@ -10,8 +10,12 @@
     "geom:latitude":29.7741,
     "geom:longitude":52.7235,
     "iso:country":"IR",
+    "lbl:bbox":"52.7035,29.7541,52.7435,29.7941",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0632\u0631\u0642\u0627\u0646"
@@ -49,7 +53,7 @@
     "name:tur_x_preferred":[
         "Zergan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zarg\u0101n"
     ],
     "name:urd_x_preferred":[
@@ -90,7 +94,7 @@
     "wof:concordances":{
         "gn:id":111327,
         "gp:id":2255313,
-        "qs:id":318075,
+        "qs_pg:id":318075,
         "wd:id":"Q888646",
         "wk:page":"Zarqan"
     },
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":421174211,
-    "wof:lastmodified":1561767789,
+    "wof:lastmodified":1566719315,
     "wof:name":"Zargan",
     "wof:parent_id":1108720447,
     "wof:placetype":"locality",

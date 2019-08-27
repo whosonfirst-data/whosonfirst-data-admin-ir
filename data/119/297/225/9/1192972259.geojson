@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"49.97046,34.87831,50.01046,34.91831",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Farasm\u0101neh"
     ],
@@ -47,8 +51,7 @@
     "name:und_x_variant":[
         "Parsm\u0101n",
         "Faresm\u0101neh",
-        "Far\u012bsm\u0101neh",
-        "\u0641\u0631\u0633\u0645\u0627\u0646\u0647"
+        "Far\u012bsm\u0101neh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1192972259,
-    "wof:lastmodified":1564114504,
+    "wof:lastmodified":1566718309,
     "wof:name":"Farasmaneh",
     "wof:parent_id":1108720473,
     "wof:placetype":"locality",

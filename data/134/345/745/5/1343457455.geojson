@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"51.44779,30.50857,51.48779,30.54857",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0644\u064a \u0628\u062c\u0643 \u0633\u0641\u064a\u062f\u0627\u0631"
     ],
@@ -38,9 +42,6 @@
         "\u067e\u064f\u0644\u06cc \u0628\u0650\u062c\u064e\u0643\u0650 \u0633\u0650\u0641\u064a\u062f\u0627\u0631",
         "\u062f\u0644\u06cc \u0628\u062c\u06a9",
         "\u062f\u0644\u06cc \u0628\u062c\u06a9 \u0633\u0641\u06cc\u062f\u0627\u0631"
-    ],
-    "name:und_x_variant":[
-        "\u062f\u0644\u06cc \u0628\u062c\u06a9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1343457455,
-    "wof:lastmodified":1564110138,
+    "wof:lastmodified":1566716511,
     "wof:name":"Deli Bejak",
     "wof:parent_id":1108719911,
     "wof:placetype":"locality",

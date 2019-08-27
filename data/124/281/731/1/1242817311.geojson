@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"55.23411,37.93167,55.27411,37.97167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u062f\u0629 \u0627\u0644\u0648\u0645"
     ],
@@ -48,10 +52,7 @@
     ],
     "name:und_x_variant":[
         "D\u0101deh Deh",
-        "\u062f\u0627\u062f\u0647 \u0627\u0644\u0648\u0645",
-        "Dadeh",
-        "\u062f\u062f\u0647",
-        "D\u0101deh Owl\u016bm"
+        "Dadeh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1242817311,
-    "wof:lastmodified":1564117245,
+    "wof:lastmodified":1566719465,
     "wof:name":"Dadeh Owlum",
     "wof:parent_id":1108720039,
     "wof:placetype":"locality",

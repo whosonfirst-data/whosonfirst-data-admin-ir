@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"56.91333,31.09667,56.95333,31.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632361
@@ -34,7 +38,7 @@
         "gn:id":38678
     },
     "wof:country":"IR",
-    "wof:geomhash":"b861734286f9e5b325f43e5135266146",
+    "wof:geomhash":"e8aea8a1e59032cc87e6e1198db5bfe5",
     "wof:hierarchy":[
         {
             "country_id":85632361,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209565567,
-    "wof:lastmodified":1536283253,
+    "wof:lastmodified":1566717976,
     "wof:name":"Tolombeh-ye Khoshk",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     56.93333000000001,
-    31.116670000000006,
+    31.11667000000001,
     56.93333000000001,
-    31.116670000000006
+    31.11667000000001
 ],
   "geometry": {"coordinates":[56.93333000000001,31.11667000000001],"type":"Point"}
 }

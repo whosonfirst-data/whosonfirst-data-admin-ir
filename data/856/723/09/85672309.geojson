@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":35.432351,
     "lbl:longitude":54.723075,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u0633\u0645\u0646\u0627\u0646",
     "mps:latitude":35.460096,
     "mps:longitude":54.615362,
@@ -240,7 +241,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043c\u043d\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Farm\u0101nd\u0101r\u012b-ye Koll-e Semn\u0101n"
     ],
     "name:urd_x_preferred":[
@@ -327,9 +328,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-24",
+    "src:population_date":"2011-10-24",
     "statoids:area_km":"97,491",
     "statoids:area_mi":"37,641",
     "statoids:as_of_date":"2011-10-24",
@@ -354,7 +355,7 @@
         "gp:id":2345784,
         "hasc:id":"IR.SM",
         "iso:id":"IR-12",
-        "qs:id":1083841,
+        "qs_pg:id":1083841,
         "unlc:id":"IR-12",
         "wd:id":"Q168949",
         "wk:page":"Semnan Province"
@@ -375,11 +376,10 @@
     "wof:lang_x_spoken":[
         "fas"
     ],
-    "wof:lastmodified":1565722687,
+    "wof:lastmodified":1566716598,
     "wof:name":"Semnan",
     "wof:parent_id":85632361,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":631218,
     "wof:population_rank":11,

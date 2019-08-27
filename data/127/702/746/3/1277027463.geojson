@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"53.24922,36.50214,53.28922,36.54214",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Morsam"
     ],
@@ -32,10 +36,6 @@
         "\u0645\u0631\u0633\u0645"
     ],
     "name:swe_x_preferred":[
-        "Morsam"
-    ],
-    "name:und_x_variant":[
-        "\u0645\u0631\u0633\u0645",
         "Morsam"
     ],
     "src:geom":"geonames",
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1277027463,
-    "wof:lastmodified":1564112347,
+    "wof:lastmodified":1566717380,
     "wof:name":"Morsam",
     "wof:parent_id":1108720401,
     "wof:placetype":"locality",

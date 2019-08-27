@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"49.82899,36.93729,49.86899,36.97729",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0633\u062a\u0627\u0646"
     ],
@@ -115,9 +119,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u0441\u0442\u0430\u043d"
     ],
-    "name:und_x_variant":[
-        "S\u012bst\u0101n"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0633\u062a\u0627\u0646"
     ],
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1360169503,
-    "wof:lastmodified":1564116370,
+    "wof:lastmodified":1566719072,
     "wof:name":"Sistan",
     "wof:parent_id":1108720459,
     "wof:placetype":"locality",

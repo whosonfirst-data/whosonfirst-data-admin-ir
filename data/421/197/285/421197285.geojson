@@ -10,8 +10,12 @@
     "geom:latitude":27.1467,
     "geom:longitude":57.0801,
     "iso:country":"IR",
+    "lbl:bbox":"57.0601,27.1267,57.1001,27.1667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:als_x_preferred":[
         "Minab"
@@ -125,7 +129,7 @@
     "wof:concordances":{
         "gn:id":123941,
         "gp:id":2254939,
-        "qs:id":279845,
+        "qs_pg:id":279845,
         "wd:id":"Q691052",
         "wk:page":"Minab"
     },
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":421197285,
-    "wof:lastmodified":1563345362,
+    "wof:lastmodified":1566719320,
     "wof:name":"Minab",
     "wof:parent_id":1108720243,
     "wof:placetype":"locality",

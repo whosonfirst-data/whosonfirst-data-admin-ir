@@ -9,23 +9,23 @@
     "geom:bbox":"47.0553,34.3838,47.0553,34.3838",
     "geom:latitude":34.3838,
     "geom:longitude":47.0553,
-    "gn:gn_country":"IR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":766706,
+    "gn:country":"IR",
+    "gn:fcode":"PPL",
     "gn:population":766706,
     "iso:country":"IR",
+    "lbl:bbox":"47.0353,34.3638,47.0753,34.4038",
     "lbl:latitude":34.3838,
     "lbl:longitude":47.0553,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":5.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:fas_x_preferred":[
         "Kahr\u012bz"
     ],
     "name:fas_x_variant":[
-        "\u06a9\u0647\u0631\u06cc\u0632"
-    ],
-    "name:unk_x_variant":[
         "\u06a9\u0647\u0631\u06cc\u0632"
     ],
     "qs_pg:aaroncc":"IR",
@@ -40,7 +40,7 @@
     "qs_pg:qs_id":55917,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":1125906695,
-    "wof:lastmodified":1509399794,
+    "wof:lastmodified":1566719328,
     "wof:name":"Kahr\u012bz",
     "wof:parent_id":1108720117,
     "wof:placetype":"locality",

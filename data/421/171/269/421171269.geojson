@@ -10,6 +10,9 @@
     "geom:latitude":38.2498,
     "geom:longitude":48.2933,
     "iso:country":"IR",
+    "lbl:bbox":"48.2733,38.2298,48.3133,38.2698",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -254,7 +257,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0434\u0435\u0431\u0456\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ardeb\u012bl"
     ],
     "name:urd_x_preferred":[
@@ -398,7 +401,7 @@
     "wof:concordances":{
         "gn:id":143083,
         "gp:id":2254335,
-        "qs:id":1221990,
+        "qs_pg:id":1221990,
         "wd:id":"Q180103",
         "wk:page":"Ardabil"
     },
@@ -415,7 +418,7 @@
         }
     ],
     "wof:id":421171269,
-    "wof:lastmodified":1563345399,
+    "wof:lastmodified":1566719324,
     "wof:name":"Ardabil",
     "wof:parent_id":1108719823,
     "wof:placetype":"locality",

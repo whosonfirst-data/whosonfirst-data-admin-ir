@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"46.5169,35.1462,46.5569,35.1862",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ckb_x_preferred":[
         "\u0686\u06d5\u0634\u0645\u06cc\u06d5\u0631"
     ],
@@ -38,8 +42,7 @@
     "name:und_x_variant":[
         "Chashmeh Dar",
         "Chashm\u012bdar",
-        "Chashm\u012bdor",
-        "\u0686\u0634\u0645\u06cc\u062f\u0631"
+        "Chashm\u012bdor"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1326512103,
-    "wof:lastmodified":1564107787,
+    "wof:lastmodified":1566715588,
     "wof:name":"Cheshmidar",
     "wof:parent_id":1108720403,
     "wof:placetype":"locality",

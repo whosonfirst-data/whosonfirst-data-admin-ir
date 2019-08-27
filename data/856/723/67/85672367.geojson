@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":36.061278,
     "lbl:longitude":49.872746,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u0642\u0632\u0648\u064a\u0646",
     "mps:latitude":36.062834,
     "mps:longitude":49.834105,
@@ -226,9 +227,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0437\u0432\u0456\u043d"
     ],
-    "name:unk_x_variant":[
-        "Qazv\u012bn"
-    ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0642\u0632\u0648\u06cc\u0646"
     ],
@@ -316,9 +314,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-24",
+    "src:population_date":"2011-10-24",
     "statoids:area_km":"15,567",
     "statoids:area_mi":"6,011",
     "statoids:as_of_date":"2011-10-24",
@@ -342,7 +340,7 @@
         "gp:id":20070200,
         "hasc:id":"IR.QZ",
         "iso:id":"IR-28",
-        "qs:id":896387,
+        "qs_pg:id":896387,
         "wd:id":"Q1105893",
         "wk:page":"Qazvin Province"
     },
@@ -362,11 +360,10 @@
     "wof:lang_x_spoken":[
         "fas"
     ],
-    "wof:lastmodified":1565722684,
+    "wof:lastmodified":1566716596,
     "wof:name":"Qazvin",
     "wof:parent_id":85632361,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1201565,
     "wof:population_rank":12,

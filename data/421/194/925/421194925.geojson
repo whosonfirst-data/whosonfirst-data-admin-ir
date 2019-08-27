@@ -10,8 +10,12 @@
     "geom:latitude":37.95,
     "geom:longitude":46.5837,
     "iso:country":"IR",
+    "lbl:bbox":"46.5637,37.93,46.6037,37.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u0639\u06cc\u062f \u0623\u0628\u0627\u062f"
@@ -37,7 +41,7 @@
     "name:tur_x_preferred":[
         "Seydava"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sa\u2018d\u0101b\u0101d"
     ],
     "name:urd_x_preferred":[
@@ -75,7 +79,7 @@
     "wof:concordances":{
         "gn:id":117809,
         "gp:id":2246404,
-        "qs:id":59455,
+        "qs_pg:id":59455,
         "wd:id":"Q4813811"
     },
     "wof:country":"IR",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421194925,
-    "wof:lastmodified":1563345268,
+    "wof:lastmodified":1566719310,
     "wof:name":"Sa idabad",
     "wof:parent_id":1108719907,
     "wof:placetype":"locality",

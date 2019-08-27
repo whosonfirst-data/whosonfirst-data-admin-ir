@@ -10,8 +10,12 @@
     "geom:latitude":30.44079,
     "geom:longitude":48.18428,
     "iso:country":"IR",
+    "lbl:bbox":"48.16428,30.42079,48.20428,30.46079",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062d\u0645\u0631\u0629"
@@ -124,7 +128,7 @@
     "name:tur_x_preferred":[
         "H\u00fcrrem\u015fehr"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mohammerah"
     ],
     "name:urd_x_preferred":[
@@ -169,7 +173,7 @@
     "wof:concordances":{
         "gn:id":127319,
         "gp:id":2254825,
-        "qs:id":122287,
+        "qs_pg:id":122287,
         "wd:id":"Q458396",
         "wk:page":"Khorramshahr"
     },
@@ -186,7 +190,7 @@
         }
     ],
     "wof:id":421197289,
-    "wof:lastmodified":1563345357,
+    "wof:lastmodified":1566719320,
     "wof:name":"Khorramshahr",
     "wof:parent_id":1108720151,
     "wof:placetype":"locality",

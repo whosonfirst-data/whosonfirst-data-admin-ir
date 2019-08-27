@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"49.60456,31.14032,49.64456,31.18032",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0628\u0644"
     ],
@@ -130,8 +134,6 @@
     ],
     "name:und_x_variant":[
         "Ebel",
-        "\u0627\u0628\u0644",
-        "B\u0101bol",
         "Eb\u016bl"
     ],
     "name:urd_x_preferred":[
@@ -166,7 +168,7 @@
         }
     ],
     "wof:id":1326612899,
-    "wof:lastmodified":1564107916,
+    "wof:lastmodified":1566715640,
     "wof:name":"Babol",
     "wof:parent_id":1108720331,
     "wof:placetype":"locality",

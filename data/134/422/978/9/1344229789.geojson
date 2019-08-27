@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"48.69046,30.57188,48.73046,30.61188",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0647\u0631 \u062d\u0645\u0648\u062f"
     ],
@@ -41,10 +45,6 @@
     ],
     "name:swe_x_preferred":[
         "Nahr-e Ham\u016bd"
-    ],
-    "name:und_x_variant":[
-        "\u0646\u0647\u0631 \u062d\u0645\u0648\u062f",
-        "Nahr-e \u1e28am\u016bd"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +70,7 @@
         }
     ],
     "wof:id":1344229789,
-    "wof:lastmodified":1564109201,
+    "wof:lastmodified":1566716145,
     "wof:name":"Nahr-e Hamud",
     "wof:parent_id":1108720425,
     "wof:placetype":"locality",

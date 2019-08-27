@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"57.13468,30.65642,57.17468,30.69642",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u1e28orjand"
     ],
@@ -38,10 +42,6 @@
     ],
     "name:swe_x_preferred":[
         "\u1e28orjand"
-    ],
-    "name:und_x_variant":[
-        "\u1e28orjond",
-        "H\u016brjand"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":1260030083,
-    "wof:lastmodified":1564115013,
+    "wof:lastmodified":1566718533,
     "wof:name":"Horjand",
     "wof:parent_id":1108720347,
     "wof:placetype":"locality",

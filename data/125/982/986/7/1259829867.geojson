@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"56.2952,31.5016,56.3352,31.5416",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "G\u012btar\u012b"
     ],
@@ -37,9 +41,6 @@
     ],
     "name:swe_x_preferred":[
         "G\u012btar\u012b"
-    ],
-    "name:und_x_variant":[
-        "G\u012btr\u012b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1259829867,
-    "wof:lastmodified":1564118633,
+    "wof:lastmodified":1566719929,
     "wof:name":"Gitari",
     "wof:parent_id":1108720155,
     "wof:placetype":"locality",

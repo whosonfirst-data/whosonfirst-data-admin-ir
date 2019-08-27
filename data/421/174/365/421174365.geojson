@@ -10,6 +10,9 @@
     "geom:latitude":29.43704,
     "geom:longitude":55.68023,
     "iso:country":"IR",
+    "lbl:bbox":"55.66023,29.41704,55.70023,29.45704",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -285,7 +288,7 @@
     "wof:concordances":{
         "gn:id":114259,
         "gp:id":2255214,
-        "qs:id":784735,
+        "qs_pg:id":784735,
         "wd:id":"Q605224",
         "wk:page":"Sirjan"
     },
@@ -302,7 +305,7 @@
         }
     ],
     "wof:id":421174365,
-    "wof:lastmodified":1563345309,
+    "wof:lastmodified":1566719314,
     "wof:name":"Sirjan",
     "wof:parent_id":1108720461,
     "wof:placetype":"locality",

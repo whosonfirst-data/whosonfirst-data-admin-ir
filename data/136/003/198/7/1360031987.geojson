@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"56.61435,30.83176,56.65435,30.87176",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "Sh\u0101h Hormoz"
     ],
@@ -35,11 +39,7 @@
         "\u0100s\u012b\u0101b-e Sh\u0101h Teym\u016br"
     ],
     "name:und_x_variant":[
-        "Taimur\u2019s Garden",
-        "\u0100s\u012b\u0101b-e Sh\u0101h Teym\u016br",
-        "Sar B\u0101gh-e Sh\u0101h Hormoz",
-        "Shahormoz",
-        "\u0633\u0631 \u0628\u0627\u063a \u0634\u0627\u0647 \u0647\u0631\u0645\u0632"
+        "Shahormoz"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1360031987,
-    "wof:lastmodified":1537643518,
+    "wof:lastmodified":1566719108,
     "wof:name":"Sar Bagh-e Shah Hormoz",
     "wof:parent_id":1108720523,
     "wof:placetype":"locality",

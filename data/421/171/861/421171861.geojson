@@ -10,6 +10,9 @@
     "geom:latitude":32.32556,
     "geom:longitude":50.86444,
     "iso:country":"IR",
+    "lbl:bbox":"50.84444,32.30556,50.88444,32.34556",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -197,9 +200,6 @@
     "name:ukr_x_preferred":[
         "\u0428\u0435\u0445\u0440\u0435-\u041a\u043e\u0440\u0434"
     ],
-    "name:unk_x_variant":[
-        "Shahr-e Kord"
-    ],
     "name:urd_x_preferred":[
         "\u0634\u06c1\u0631 \u06a9\u0631\u062f"
     ],
@@ -335,7 +335,7 @@
     "wof:concordances":{
         "gn:id":115770,
         "gp:id":2255184,
-        "qs:id":122217,
+        "qs_pg:id":122217,
         "wd:id":"Q386649"
     },
     "wof:country":"IR",
@@ -351,7 +351,7 @@
         }
     ],
     "wof:id":421171861,
-    "wof:lastmodified":1563345398,
+    "wof:lastmodified":1566719324,
     "wof:name":"Shahr Kord",
     "wof:parent_id":1108720435,
     "wof:placetype":"locality",

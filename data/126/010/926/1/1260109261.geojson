@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"59.35387,33.14463,59.39387,33.18463",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0644\u0648\u0646 \u0623\u0628\u0627\u062f"
     ],
@@ -42,11 +46,6 @@
     ],
     "name:swe_x_preferred":[
         "Gol\u016bn\u0101b\u0101d"
-    ],
-    "name:und_x_variant":[
-        "Gulun\u0101b\u0101d",
-        "K\u016bl\u016bn\u0101b\u0101d",
-        "\u06af\u0644\u0648\u0646 \u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +71,7 @@
         }
     ],
     "wof:id":1260109261,
-    "wof:lastmodified":1564114968,
+    "wof:lastmodified":1566718517,
     "wof:name":"Golunabad",
     "wof:parent_id":1108719895,
     "wof:placetype":"locality",

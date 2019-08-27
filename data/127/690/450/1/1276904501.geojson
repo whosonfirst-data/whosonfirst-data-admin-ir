@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"59.68476,33.86178,59.72476,33.90178",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0631\u0645\u0627\u0628"
     ],
@@ -55,11 +59,6 @@
     "name:tur_x_preferred":[
         "Germab"
     ],
-    "name:und_x_variant":[
-        "Garm\u0101b-e Vos\u0163\u00e1",
-        "Garmab-e \u2018Oly\u0101",
-        "Garm\u0101b-e Sofl\u00e1"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -83,7 +82,7 @@
         }
     ],
     "wof:id":1276904501,
-    "wof:lastmodified":1564112708,
+    "wof:lastmodified":1566717526,
     "wof:name":"Garmab",
     "wof:parent_id":1108720313,
     "wof:placetype":"locality",

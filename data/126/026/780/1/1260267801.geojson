@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"49.4505,37.1601,49.4905,37.2001",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Takram"
     ],
@@ -43,8 +47,7 @@
     "name:und_x_variant":[
         "\u0100b-i-Takrim",
         "Tekerem",
-        "\u0100b-e-Takr\u012bm",
-        "Takram"
+        "\u0100b-e-Takr\u012bm"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1260267801,
-    "wof:lastmodified":1564114984,
+    "wof:lastmodified":1566718523,
     "wof:name":"Takram",
     "wof:parent_id":1108720427,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":34.0734,
     "geom:longitude":47.9725,
     "iso:country":"IR",
+    "lbl:bbox":"47.9525,34.0534,47.9925,34.0934",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0646\u0648\u0631\u0623\u0628\u0627\u062f"
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":24851,
         "gp:id":2242152,
-        "qs:id":1307765,
+        "qs_pg:id":1307765,
         "wd:id":"Q720657",
         "wk:page":"Nurabad, Lorestan"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421196507,
-    "wof:lastmodified":1563345349,
+    "wof:lastmodified":1566719319,
     "wof:name":"Nurabad",
     "wof:parent_id":1108719959,
     "wof:placetype":"locality",

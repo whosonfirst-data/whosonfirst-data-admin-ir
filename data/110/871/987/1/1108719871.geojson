@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":30.675513,
     "lbl:longitude":49.114117,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Khoozestan",
     "meso:adm1_loc":"\u062e\u0648\u0632\u0633\u062a\u0627\u0646",
     "meso:adm2_alt":"Bandar-e-Mahshahr",
@@ -33,11 +35,12 @@
     "mps:longitude":49.114117,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Bandar-e-Mahshahr"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108719871,
-    "wof:lastmodified":1553718428,
+    "wof:lastmodified":1566718614,
     "wof:name":"Bandar-e-Mahshahr",
     "wof:parent_id":85672325,
     "wof:placetype":"county",

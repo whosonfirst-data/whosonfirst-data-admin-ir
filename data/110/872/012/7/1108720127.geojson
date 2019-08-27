@@ -12,6 +12,8 @@
     "iso:country":"IR",
     "lbl:latitude":27.308356,
     "lbl:longitude":55.53542,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Hormozgan",
     "meso:adm1_loc":"\u0647\u0631\u0645\u0632\u06af\u0627\u0646",
     "meso:adm2_alt":"NO DATA",
@@ -27,6 +29,7 @@
     "mps:longitude":55.53542,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Khamir"
     ],
@@ -34,7 +37,7 @@
         "Khamir"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632361,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1108720127,
-    "wof:lastmodified":1564115125,
+    "wof:lastmodified":1566718577,
     "wof:name":"Khamir",
     "wof:parent_id":85672337,
     "wof:placetype":"county",

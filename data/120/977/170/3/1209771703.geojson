@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"47.7347,33.4582,47.7747,33.4982",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bar \u0100ft\u0101b Ch\u0101h Seyyed Mo\u1e29ammad"
     ],
@@ -43,9 +47,7 @@
     ],
     "name:und_x_variant":[
         "Bar\u0101ft\u0101b Saiyid Muhammad Chin\u0101r",
-        "Bar \u0100ft\u0101b",
-        "Bar\u0101ft\u0101b-e \u015eeyd Mo\u1e29ammad",
-        "Bar \u0100ft\u0101b Ch\u0101h Seyyed Mo\u1e29ammad"
+        "Bar \u0100ft\u0101b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1209771703,
-    "wof:lastmodified":1564113276,
+    "wof:lastmodified":1566717766,
     "wof:name":"Bar Aftab Chah Seyyed Mohammad",
     "wof:parent_id":1108720169,
     "wof:placetype":"locality",

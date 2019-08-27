@@ -14,6 +14,7 @@
     "iso:country":"IE",
     "lbl:latitude":53.401688,
     "lbl:longitude":-6.237113,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.403982,
     "mps:longitude":-6.248477,
     "mz:hierarchy_label":1,
@@ -56,9 +57,6 @@
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0440\u0438"
     ],
-    "name:unk_x_variant":[
-        "Santry"
-    ],
     "qs:gn_adm0_cc":"IE",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2964574,
@@ -87,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":2410,
     "wof:belongsto":[
         102191581,
@@ -99,7 +97,6 @@
     "wof:concordances":{
         "gn:id":2961587,
         "gp:id":562178,
-        "qs:id":1165828,
         "qs_pg:id":1165828,
         "wd:id":"Q3776859",
         "wk:page":"Santry"
@@ -119,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563338726,
+    "wof:lastmodified":1566716585,
     "wof:name":"Santry",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

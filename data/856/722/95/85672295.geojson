@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":28.957136,
     "lbl:longitude":53.222766,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u0641\u0627\u0631\u0633",
     "mps:latitude":29.15412,
     "mps:longitude":53.149357,
@@ -271,7 +272,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0430\u0440\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "7"
     ],
     "name:urd_x_preferred":[
@@ -364,9 +365,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-24",
+    "src:population_date":"2011-10-24",
     "statoids:area_km":"122,608",
     "statoids:area_mi":"47,339",
     "statoids:as_of_date":"2011-10-24",
@@ -391,7 +392,7 @@
         "gp:id":2345772,
         "hasc:id":"IR.FA",
         "iso:id":"IR-14",
-        "qs:id":1168666,
+        "qs_pg:id":1168666,
         "unlc:id":"IR-14",
         "wd:id":"Q1004666",
         "wk:page":"Fars Province"
@@ -412,11 +413,10 @@
     "wof:lang_x_spoken":[
         "fas"
     ],
-    "wof:lastmodified":1565722675,
+    "wof:lastmodified":1566716586,
     "wof:name":"Fars",
     "wof:parent_id":85632361,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":4596658,
     "wof:population_rank":12,

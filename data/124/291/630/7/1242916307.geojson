@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"55.24154,37.22017,55.28154,37.26017",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0632\u0644\u062a\u0634\u0629 \u0628\u0634\u0645\u0643"
     ],
@@ -39,10 +43,8 @@
         "Qezelcheh-ye Pashmak"
     ],
     "name:und_x_variant":[
-        "\u0642\u0631\u0646\u062c\u0647 \u067e\u0634\u0645\u0643",
         "Qaranjeh Pashmak",
-        "Qezeljeh-ye Pashmak",
-        "Qezelcheh-ye Pashmak"
+        "Qezeljeh-ye Pashmak"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":1242916307,
-    "wof:lastmodified":1564117951,
+    "wof:lastmodified":1566719723,
     "wof:name":"Qezelcheh-ye Pashmak",
     "wof:parent_id":1108720039,
     "wof:placetype":"locality",

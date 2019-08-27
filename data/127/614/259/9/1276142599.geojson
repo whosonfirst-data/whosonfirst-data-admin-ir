@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"53.812,30.3419,53.852,30.3819",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0634\u062a \u062e\u0648\u0631\u062f\u0629"
     ],
@@ -35,9 +39,6 @@
         "\u062f\u0634\u062a \u062e\u0631\u062f\u0647"
     ],
     "name:msa_x_preferred":[
-        "Dasht-e Khowrdeh"
-    ],
-    "name:und_x_variant":[
         "Dasht-e Khowrdeh"
     ],
     "src:geom":"geonames",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1276142599,
-    "wof:lastmodified":1564112382,
+    "wof:lastmodified":1566717393,
     "wof:name":"Dasht-e Kharzeh",
     "wof:parent_id":1108719883,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"55.96191,30.50048,56.00191,30.54048",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "Akbar\u0101b\u0101d-e P\u0101\u2019\u012bn"
     ],
@@ -32,10 +36,6 @@
         "Akbar\u0101b\u0101d-e Barkhvord\u0101r",
         "\u0627\u06a9\u0628\u0631 \u0622\u0628\u0627\u062f \u0628\u0631\u062e\u0648\u0631\u062f\u0627\u0631",
         "Akbar\u0101b\u0101d-e Barkhowrd\u0101r"
-    ],
-    "name:und_x_variant":[
-        "Akbar\u0101b\u0101d-e Barkhowrd\u0101r",
-        "\u0627\u06a9\u0628\u0631 \u0622\u0628\u0627\u062f \u0628\u0631\u062e\u0648\u0631\u062f\u0627\u0631"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1326590939,
-    "wof:lastmodified":1537641944,
+    "wof:lastmodified":1566715631,
     "wof:name":"Akbarabad-e Barkhvordar",
     "wof:parent_id":1108720329,
     "wof:placetype":"locality",

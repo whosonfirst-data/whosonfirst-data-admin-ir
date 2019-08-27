@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"49.75923,31.76995,49.79923,31.80995",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Kerk"
     ],
@@ -50,10 +54,6 @@
     "name:swe_x_preferred":[
         "Kerk"
     ],
-    "name:und_x_variant":[
-        "\u06a9\u0631\u0648\u06a9",
-        "Kerk"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":1310484385,
-    "wof:lastmodified":1564115303,
+    "wof:lastmodified":1566718648,
     "wof:name":"Kerk",
     "wof:parent_id":1108720067,
     "wof:placetype":"locality",

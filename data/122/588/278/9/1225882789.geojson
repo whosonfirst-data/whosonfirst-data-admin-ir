@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"55.96866,31.46015,56.00866,31.50015",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Mahmudabad"
     ],
@@ -53,10 +57,6 @@
     "name:swe_x_preferred":[
         "Mahmudabad"
     ],
-    "name:und_x_variant":[
-        "Muhammad\u0101b\u0101d",
-        "\u0645\u062d\u0645\u0648\u062f \u0622\u0628\u0627\u062f"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":1225882789,
-    "wof:lastmodified":1564119746,
+    "wof:lastmodified":1566720243,
     "wof:name":"Mahmudabad",
     "wof:parent_id":1108719849,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"56.90988,30.55815,56.94988,30.59815",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "H\u016btak"
     ],
@@ -33,10 +37,8 @@
         "L\u016btak"
     ],
     "name:und_x_variant":[
-        "L\u016btak",
         "Hutk",
-        "Huth",
-        "\u0647\u0648\u062a\u06a9"
+        "Huth"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1343511625,
-    "wof:lastmodified":1537644904,
+    "wof:lastmodified":1566716392,
     "wof:name":"Hutak",
     "wof:parent_id":1108720115,
     "wof:placetype":"locality",

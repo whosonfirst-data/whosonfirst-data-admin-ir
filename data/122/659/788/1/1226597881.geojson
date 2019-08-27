@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"53.28158,36.67059,53.32158,36.71059",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0648\u064e\u0644\u0627\u0634\u0650\u062f\u0650 \u0628\u0627\u0644\u0627"
     ],
@@ -34,10 +38,6 @@
         "\u0648\u0644\u0627\u0634\u062f",
         "Val\u0101shed-e P\u0101\u2019\u012bn",
         "\u0648\u064e\u0644\u0627\u0634\u0650\u062f\u0650 \u067e\u0627\u0626\u064a\u0646"
-    ],
-    "name:und_x_variant":[
-        "Val\u0101shed",
-        "\u0648\u0644\u0627\u0634\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +63,7 @@
         }
     ],
     "wof:id":1226597881,
-    "wof:lastmodified":1537646397,
+    "wof:lastmodified":1566720220,
     "wof:name":"Valashed",
     "wof:parent_id":1108720275,
     "wof:placetype":"locality",

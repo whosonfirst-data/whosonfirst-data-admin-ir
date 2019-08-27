@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"55.46096,37.28904,55.50096,37.32904",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u0162\u0101r\u0101j\u012bq"
     ],
@@ -42,10 +46,6 @@
     ],
     "name:swe_x_preferred":[
         "\u0162\u0101r\u0101j\u012bq"
-    ],
-    "name:und_x_variant":[
-        "\u062a\u0631\u0627\u062c\u064a\u0642",
-        "\u0637\u0627\u0631\u0627\u062c\u06cc\u0642"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":1210055235,
-    "wof:lastmodified":1564114206,
+    "wof:lastmodified":1566718179,
     "wof:name":"Tarajiq",
     "wof:parent_id":1108720245,
     "wof:placetype":"locality",

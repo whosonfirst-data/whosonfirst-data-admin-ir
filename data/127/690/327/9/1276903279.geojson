@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"51.29452,36.08577,51.33452,36.12577",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Valeh"
     ],
@@ -38,10 +42,6 @@
         "\u0412\u0435\u043b\u0435"
     ],
     "name:swe_x_preferred":[
-        "Valeh"
-    ],
-    "name:und_x_variant":[
-        "\u0648\u0644\u0647",
         "Valeh"
     ],
     "src:geom":"geonames",
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":1276903279,
-    "wof:lastmodified":1564112709,
+    "wof:lastmodified":1566717526,
     "wof:name":"Valeh",
     "wof:parent_id":1108720105,
     "wof:placetype":"locality",

@@ -11,11 +11,14 @@
     "geom:longitude":49.07628,
     "gn:country":"IR",
     "gn:fcode":"PRT",
-    "gn:pop":48061,
+    "gn:population":48061,
     "iso:country":"IR",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0646\u0627\u0621 \u0627\u0644\u0625\u0645\u0627\u0645 \u0627\u0644\u062e\u0645\u064a\u0646\u064a"
     ],
@@ -112,7 +115,7 @@
     "wof:concordances":{
         "gn:id":141668,
         "gp:id":2218967,
-        "qs:id":273987,
+        "qs_pg:id":273987,
         "wd:id":"Q772940",
         "wk:page":"Bandar-e Emam Khomeyni"
     },
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":890435333,
-    "wof:lastmodified":1563345412,
+    "wof:lastmodified":1566719327,
     "wof:name":"Bandar Em\u0101m Khomeyn\u012b",
     "wof:parent_id":1108719871,
     "wof:placetype":"locality",

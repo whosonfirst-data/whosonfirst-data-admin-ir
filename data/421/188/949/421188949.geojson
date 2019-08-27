@@ -10,6 +10,9 @@
     "geom:latitude":32.883308,
     "geom:longitude":59.21162,
     "iso:country":"IR",
+    "lbl:bbox":"59.19162,32.863308,59.23162,32.903308",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -318,7 +321,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2254447,
-        "qs:id":1106496,
+        "qs_pg:id":1106496,
         "wd:id":"Q193806"
     },
     "wof:country":"IR",
@@ -334,7 +337,7 @@
         }
     ],
     "wof:id":421188949,
-    "wof:lastmodified":1563345322,
+    "wof:lastmodified":1566719316,
     "wof:name":"Birjand",
     "wof:parent_id":1108719895,
     "wof:placetype":"locality",

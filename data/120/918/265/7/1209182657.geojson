@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"48.1462,33.67268,48.1862,33.71268",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "D\u0101rm\u0101h\u012b"
     ],
@@ -38,10 +42,6 @@
     ],
     "name:swe_x_preferred":[
         "D\u0101rm\u0101h\u012b"
-    ],
-    "name:und_x_variant":[
-        "D\u0101rm\u016b\u2018\u012b",
-        "\u062f\u0627\u0631\u0645\u0648\u0626\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1209182657,
-    "wof:lastmodified":1564113909,
+    "wof:lastmodified":1566718047,
     "wof:name":"Darmahi",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",
