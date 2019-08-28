@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"44.439,38.8271,44.479,38.8671",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Kaput"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:swe_x_preferred":[
         "K\u0101p\u016bt"
-    ],
-    "name:und_x_variant":[
-        "\u06a9\u0627\u067e\u0648\u062a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1344266231,
-    "wof:lastmodified":1564109938,
+    "wof:lastmodified":1566716435,
     "wof:name":"Kaput",
     "wof:parent_id":1108720153,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"48.52765,34.35909,48.56765,34.39909",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Deh-e Sh\u0101\u0163er"
     ],
@@ -53,12 +57,10 @@
     "name:und_x_variant":[
         "Dam Sh\u0101\u0163er",
         "Dom-e Sh\u0101\u0163er",
-        "Deh-e Sh\u0101\u0163er",
         "Dom-e Sh\u0101t\u012br",
         "Deh Sh\u0101\u0163er",
         "Dum Sh\u0101tir",
-        "Dum-i-Sh\u0101tir",
-        "\u062f\u0647 \u0634\u0627\u0637\u0631"
+        "Dum-i-Sh\u0101tir"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":1226768565,
-    "wof:lastmodified":1564119937,
+    "wof:lastmodified":1566720296,
     "wof:name":"Deh-e Shater",
     "wof:parent_id":1108720205,
     "wof:placetype":"locality",

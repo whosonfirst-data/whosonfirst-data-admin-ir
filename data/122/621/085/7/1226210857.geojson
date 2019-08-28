@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"49.56449,32.7866,49.60449,32.8266",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0633\u062a\u063a\u0631\u062f"
     ],
@@ -58,9 +62,7 @@
         "Destgerd"
     ],
     "name:und_x_variant":[
-        "Dashtgerd",
-        "Dastgerd",
-        "\u062f\u0633\u062a\u06af\u0631\u062f"
+        "Dashtgerd"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -85,7 +87,7 @@
         }
     ],
     "wof:id":1226210857,
-    "wof:lastmodified":1564119243,
+    "wof:lastmodified":1566720104,
     "wof:name":"Dastgerd",
     "wof:parent_id":1108719803,
     "wof:placetype":"locality",

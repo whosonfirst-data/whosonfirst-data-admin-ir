@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"50.91728,30.96429,50.95728,31.00429",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "Sar \u0100b-e \u0100b Bah\u0101reh"
     ],
@@ -32,10 +36,6 @@
         "Sar \u0100b-e Bah\u0101reh",
         "\u0633\u0631 \u0622\u0628 \u0622\u0628 \u0628\u0647\u0627\u0631\u0647",
         "\u0633\u0631 \u0622\u0628 \u0628\u0647\u0627\u0631\u0647"
-    ],
-    "name:und_x_variant":[
-        "\u0633\u0631 \u0622\u0628 \u0628\u0647\u0627\u0631\u0647",
-        "\u0633\u0631 \u0622\u0628 \u0622\u0628 \u0628\u0647\u0627\u0631\u0647"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":1243268483,
-    "wof:lastmodified":1537642555,
+    "wof:lastmodified":1566719788,
     "wof:name":"Sar Ab-e Ab Bahareh",
     "wof:parent_id":1108719911,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"58.81145,33.66979,58.85145,33.70979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Badamak"
     ],
@@ -37,10 +41,6 @@
     ],
     "name:swe_x_preferred":[
         "Badamak"
-    ],
-    "name:und_x_variant":[
-        "B\u0101d\u016bm\u016bk",
-        "\u0628\u0627\u062f\u0627\u0645\u06a9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":1310628715,
-    "wof:lastmodified":1564115455,
+    "wof:lastmodified":1566718707,
     "wof:name":"Badamak",
     "wof:parent_id":1108720313,
     "wof:placetype":"locality",

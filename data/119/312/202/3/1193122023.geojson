@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"50.10089,37.07,50.14089,37.11",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0631\u0646\u062c\u0646 \u0628\u0646"
     ],
@@ -40,9 +44,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0440\u0435\u043d\u0434\u0436-\u0411\u043e\u043d"
-    ],
-    "name:und_x_variant":[
-        "\u0646\u0627\u0631\u0646\u062c \u0628\u0646"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1193122023,
-    "wof:lastmodified":1564114367,
+    "wof:lastmodified":1566718245,
     "wof:name":"Narenj Bon",
     "wof:parent_id":1108720183,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"48.86444,34.08374,48.90444,34.12374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u0100shm\u012bz\u0101n"
     ],
@@ -42,10 +46,6 @@
     ],
     "name:swe_x_preferred":[
         "\u0100shm\u012bz\u0101n"
-    ],
-    "name:und_x_variant":[
-        "\u0100shm\u012bz\u0101n",
-        "\u0622\u0634\u0645\u06cc\u0632\u0627\u0646"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":1209804763,
-    "wof:lastmodified":1564113949,
+    "wof:lastmodified":1566718065,
     "wof:name":"Ashmizan",
     "wof:parent_id":1108720205,
     "wof:placetype":"locality",

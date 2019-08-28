@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"50.5639,30.9837,50.6039,31.0237",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dasht-e Ban"
     ],
@@ -32,10 +36,6 @@
         "\u062f\u0634\u062a \u0628\u0646"
     ],
     "name:swe_x_preferred":[
-        "Dasht-e Ban"
-    ],
-    "name:und_x_variant":[
-        "\u062f\u0634\u062a \u0628\u0646",
         "Dasht-e Ban"
     ],
     "src:geom":"geonames",
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1310309607,
-    "wof:lastmodified":1564115624,
+    "wof:lastmodified":1566718771,
     "wof:name":"Dasht-e Ban",
     "wof:parent_id":1108720157,
     "wof:placetype":"locality",

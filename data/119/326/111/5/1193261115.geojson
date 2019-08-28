@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"49.98313,31.43333,50.02313,31.47333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chag\u0101 Sorkhak"
     ],
@@ -38,10 +42,6 @@
         "\u0686\u063a\u0627\u0633\u0631\u062e\u06a9"
     ],
     "name:swe_x_preferred":[
-        "Chag\u0101 Sorkhak"
-    ],
-    "name:und_x_variant":[
-        "Chagh\u0101 Sorkheh",
         "Chag\u0101 Sorkhak"
     ],
     "src:geom":"geonames",
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":1193261115,
-    "wof:lastmodified":1564114641,
+    "wof:lastmodified":1566718371,
     "wof:name":"Chaga Sorkhak",
     "wof:parent_id":1108719853,
     "wof:placetype":"locality",

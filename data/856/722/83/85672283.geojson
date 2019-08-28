@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":30.863523,
     "lbl:longitude":50.820006,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u0643\u0647\u06af\u064a\u0644\u0648\u064a\u0647 \u0648\u0628\u0648\u064a\u0631\u0627\u062d\u0645\u062f",
     "mps:latitude":30.796587,
     "mps:longitude":50.747492,
@@ -223,7 +224,7 @@
         "Kohgiluyeh och Buyer Ahmad"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bcb\u0bb9\u0bcd\u0b95\u0bbf\u0bb2\u0bc1\u0b8f\u0bb9\u0bcd  \u0b85\u0ba3\u0bcd\u0b9f\u0bcd  \u0baa\u0bcb\u0baf\u0bb0\u0bcd -\u0b85\u0bb9\u0bcd\u0bae\u0ba4\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b95\u0bcb\u0bb9\u0bcd\u0b95\u0bbf\u0bb2\u0bc1\u0b8f\u0bb9\u0bcd \u0b85\u0ba3\u0bcd\u0b9f\u0bcd \u0baa\u0bcb\u0baf\u0bb0\u0bcd -\u0b85\u0bb9\u0bcd\u0bae\u0ba4\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4b\u0c39\u0c4d\u200c\u0c17\u0c41\u0c32\u0c3f\u0c2f\u0c47 \u0c2e\u0c30\u0c3f\u0c2f\u0c41 \u0c2c\u0c4b\u0c2f\u0c30\u0c4d-\u0c05\u0c39\u0c4d\u0c2e\u0c26\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -243,7 +244,7 @@
     "name:ukr_x_variant":[
         "\u041a\u043e\u0445\u0433\u0456\u043b\u0443\u0454 \u0456 \u0411\u043e\u0439\u0454\u0440\u0430\u0445\u043c\u0435\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Boyer Ahmadi-ye Sardsir va Kohkiluyeh"
     ],
     "name:urd_x_preferred":[
@@ -330,9 +331,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-24",
+    "src:population_date":"2011-10-24",
     "statoids:area_km":"15,504",
     "statoids:area_mi":"5,986",
     "statoids:as_of_date":"2011-10-24",
@@ -357,7 +358,7 @@
         "gp:id":2345771,
         "hasc:id":"IR.KB",
         "iso:id":"IR-18",
-        "qs:id":890080,
+        "qs_pg:id":890080,
         "wd:id":"Q180068",
         "wk:page":"Kohgiluyeh and Boyer-Ahmad Province"
     },
@@ -377,11 +378,10 @@
     "wof:lang_x_spoken":[
         "fas"
     ],
-    "wof:lastmodified":1565722677,
+    "wof:lastmodified":1566716588,
     "wof:name":"Kohgiluyeh and Buyer Ahmad",
     "wof:parent_id":85632361,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":658629,
     "wof:population_rank":11,

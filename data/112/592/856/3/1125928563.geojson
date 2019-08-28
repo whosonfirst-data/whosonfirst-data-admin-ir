@@ -9,15 +9,18 @@
     "geom:bbox":"59.21949,35.27401,59.21949,35.27401",
     "geom:latitude":35.27401,
     "geom:longitude":59.21949,
-    "gn:gn_country":"IR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":125633,
+    "gn:country":"IR",
+    "gn:fcode":"PPL",
     "gn:population":125633,
     "iso:country":"IR",
+    "lbl:bbox":"59.19949,35.25401,59.23949,35.29401",
     "lbl:latitude":35.27401,
     "lbl:longitude":59.21949,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062a\u0631\u0628\u062a \u062d\u064a\u062f\u0631\u064a\u0647"
@@ -128,7 +131,7 @@
         "Torbat-e Heydariyeh"
     ],
     "name:tam_x_preferred":[
-        "\u0ba4\u0bcb\u0bb0\u0bcd\u0baa\u0b9f\u0bcd-\u0b8f  \u0bb9\u0bc7\u0b9f\u0bb1\u0bbf\u0baf\u0bc7\u0bb9\u0bcd"
+        "\u0ba4\u0bcb\u0bb0\u0bcd\u0baa\u0b9f\u0bcd-\u0b8f \u0bb9\u0bc7\u0b9f\u0bb1\u0bbf\u0baf\u0bc7\u0bb9\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c4b\u0c30\u0c4d\u0c2c\u0c3e\u0c1f\u0c4d-\u0c0e \u0c39\u0c47\u0c21\u0c30\u0c3f\u0c0e\u0c39\u0c4d"
@@ -145,7 +148,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u0440\u0431\u0435\u0442\u0435-\u0425\u0435\u0439\u0434\u0435\u0440\u0456\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Torbat-e-Heydari"
     ],
     "name:urd_x_preferred":[
@@ -169,7 +172,7 @@
     "qs_pg:qs_id":66842,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":1125928563,
-    "wof:lastmodified":1563345413,
+    "wof:lastmodified":1566719327,
     "wof:name":"Torbat-e \u1e28eydar\u012byeh",
     "wof:parent_id":1108720497,
     "wof:placetype":"locality",

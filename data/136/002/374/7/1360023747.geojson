@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"55.96047,31.74167,56.00047,31.78167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0633\u062a\u062e\u0631\u0648\u0626\u064a\u0629"
     ],
@@ -41,11 +45,6 @@
         "E\u015f\u0163al Q\u016b",
         "E\u015f\u0163abl Q\u016b",
         "\u0627\u0633\u062a\u062e\u0631\u0648\u06cc\u06cc\u0647"
-    ],
-    "name:und_x_variant":[
-        "E\u015f\u0163al Q\u016b",
-        "E\u015f\u0163abl Q\u016b",
-        "\u0627\u0633\u062a\u062e\u0631\u0648\u06cc\u0647"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +70,7 @@
         }
     ],
     "wof:id":1360023747,
-    "wof:lastmodified":1564116503,
+    "wof:lastmodified":1566719130,
     "wof:name":"Estakhruyeh",
     "wof:parent_id":1108719849,
     "wof:placetype":"locality",

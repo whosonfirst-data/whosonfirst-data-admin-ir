@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":36.508546,
     "lbl:longitude":47.124041,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"West Azerbaijan",
     "meso:adm1_loc":"\u0622\u0630\u0631\u0628\u0627\u064a\u062c\u0627\u0646 \u063a\u0631\u0628\u064a",
     "meso:adm2_alt":"NO DATA",
@@ -33,6 +35,7 @@
     "mps:longitude":47.124041,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u062a\u06cc\u06a9\u0627\u0646\u200c \u062a\u067e\u0647 \u0628\u0648\u0644\u06af\u0647 \u0633\u06cc"
     ],
@@ -91,7 +94,7 @@
         "\u0634\u06c1\u0631\u0633\u062a\u0627\u0646 \u062a\u06a9\u0627\u0628"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1108720477,
-    "wof:lastmodified":1563343146,
+    "wof:lastmodified":1566718583,
     "wof:name":"Takab",
     "wof:parent_id":85672369,
     "wof:placetype":"county",

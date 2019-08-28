@@ -10,8 +10,12 @@
     "geom:latitude":33.945978,
     "geom:longitude":51.372285,
     "iso:country":"IR",
+    "lbl:bbox":"51.352285,33.925978,51.392285,33.965978",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0632\u0639\u0627\u0646\u0641"
@@ -99,7 +103,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2254604,
-        "qs:id":1106522,
+        "qs_pg:id":1106522,
         "wd:id":"Q778612"
     },
     "wof:country":"IR",
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421188951,
-    "wof:lastmodified":1563345324,
+    "wof:lastmodified":1566719316,
     "wof:name":"Fin",
     "wof:parent_id":1108720109,
     "wof:placetype":"locality",

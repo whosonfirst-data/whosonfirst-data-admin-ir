@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"60.95023,35.98203,60.99023,36.02203",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sh\u016br\u012bjeh-ye P\u0101'\u012bn"
     ],
@@ -42,11 +46,9 @@
     ],
     "name:und_x_variant":[
         "New Shurij\u0101h",
-        "Sh\u016br\u012bjeh-ye Sofl\u00e1",
         "Sh\u016br\u012bcheh",
         "Sehpanja",
-        "Sh\u016br\u012bjeh",
-        "\u0634\u0648\u0631\u06cc\u062c\u0647 \u067e\u0627\u0626\u06cc\u0646"
+        "Sh\u016br\u012bjeh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +74,7 @@
         }
     ],
     "wof:id":1293127963,
-    "wof:lastmodified":1564110844,
+    "wof:lastmodified":1566716787,
     "wof:name":"Shurijeh-ye Pa'in",
     "wof:parent_id":1108720387,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"49.63044,37.31433,49.67044,37.35433",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kh\u0101j\u0101n"
     ],
@@ -45,10 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0434\u0436\u0430\u043d-\u0435-\u0414\u0443-\u0414\u0430\u043d\u0491"
-    ],
-    "name:und_x_variant":[
-        "Kh\u0101j\u0101n",
-        "\u062e\u0627\u062c\u0627\u0646"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +74,7 @@
         }
     ],
     "wof:id":1226636075,
-    "wof:lastmodified":1564120249,
+    "wof:lastmodified":1566720383,
     "wof:name":"Khajan-e Do Dang",
     "wof:parent_id":1108720339,
     "wof:placetype":"locality",

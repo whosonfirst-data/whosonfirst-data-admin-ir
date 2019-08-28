@@ -10,6 +10,9 @@
     "geom:latitude":36.6736,
     "geom:longitude":48.4787,
     "iso:country":"IR",
+    "lbl:bbox":"48.4587,36.6536,48.4987,36.6936",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -209,7 +212,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0435\u043d\u0434\u0436\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zenj\u0101n"
     ],
     "name:urd_x_preferred":[
@@ -350,7 +353,7 @@
     "wof:concordances":{
         "gn:id":111453,
         "gp:id":2255311,
-        "qs:id":493439,
+        "qs_pg:id":493439,
         "wd:id":"Q146699",
         "wk:page":"Zanjan, Iran"
     },
@@ -367,7 +370,7 @@
         }
     ],
     "wof:id":421181509,
-    "wof:lastmodified":1563345330,
+    "wof:lastmodified":1566719316,
     "wof:name":"Zenjan",
     "wof:parent_id":1108720519,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"46.7457,35.1511,46.7857,35.1911",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0628\u064e\u0644\u0648\u0634\u064a\u0627\u0646"
     ],
@@ -36,10 +40,8 @@
     ],
     "name:und_x_variant":[
         "Bala yi Shi\u0101n",
-        "Shey\u0101n",
         "Bal\u016bsh\u012b\u0101n",
-        "Sh\u012bl\u0101n",
-        "\u0634\u06cc\u0627\u0646"
+        "Sh\u012bl\u0101n"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +67,7 @@
         }
     ],
     "wof:id":1209998549,
-    "wof:lastmodified":1537643325,
+    "wof:lastmodified":1566717749,
     "wof:name":"Shian",
     "wof:parent_id":1108720379,
     "wof:placetype":"locality",

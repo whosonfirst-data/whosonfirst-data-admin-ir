@@ -10,8 +10,12 @@
     "geom:latitude":36.55132,
     "geom:longitude":52.67895,
     "iso:country":"IR",
+    "lbl:bbox":"52.65895,36.53132,52.69895,36.57132",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0627\u0628\u0644"
@@ -136,7 +140,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0431\u043e\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Barfrush"
     ],
     "name:urd_x_preferred":[
@@ -184,7 +188,7 @@
     "wof:concordances":{
         "gn:id":142363,
         "gp:id":2254369,
-        "qs:id":1354268,
+        "qs_pg:id":1354268,
         "wd:id":"Q605157",
         "wk:page":"Babol"
     },
@@ -201,7 +205,7 @@
         }
     ],
     "wof:id":421202019,
-    "wof:lastmodified":1563345301,
+    "wof:lastmodified":1566719313,
     "wof:name":"Babol",
     "wof:parent_id":1108719845,
     "wof:placetype":"locality",

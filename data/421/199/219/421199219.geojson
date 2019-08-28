@@ -10,8 +10,12 @@
     "geom:latitude":39.6482,
     "geom:longitude":47.9174,
     "iso:country":"IR",
+    "lbl:bbox":"47.8974,39.6282,47.9374,39.6682",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0633 \u0623\u0628\u0627\u062f"
@@ -87,7 +91,7 @@
     "name:tur_x_preferred":[
         "Parsabad"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "F\u0101rs\u0101b\u0101d"
     ],
     "name:urd_x_preferred":[
@@ -129,7 +133,7 @@
     "wof:concordances":{
         "gn:id":121380,
         "gp:id":2226967,
-        "qs:id":190652,
+        "qs_pg:id":190652,
         "wd:id":"Q720064",
         "wk:page":"Parsabad"
     },
@@ -146,7 +150,7 @@
         }
     ],
     "wof:id":421199219,
-    "wof:lastmodified":1563345368,
+    "wof:lastmodified":1566719321,
     "wof:name":"Farsabad",
     "wof:parent_id":1108720297,
     "wof:placetype":"locality",

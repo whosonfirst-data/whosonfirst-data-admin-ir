@@ -10,6 +10,9 @@
     "geom:latitude":28.9383,
     "geom:longitude":53.6482,
     "iso:country":"IR",
+    "lbl:bbox":"53.6282,28.9183,53.6682,28.9583",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -91,9 +94,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0424\u0430\u0441\u0430"
-    ],
-    "name:unk_x_variant":[
-        "\u0641\u0633\u0627"
     ],
     "name:urd_x_preferred":[
         "\u0641\u0633\u0627"
@@ -223,7 +223,7 @@
     "wof:concordances":{
         "gn:id":134721,
         "gp:id":2227033,
-        "qs:id":1307684,
+        "qs_pg:id":1307684,
         "wd:id":"Q721034"
     },
     "wof:country":"IR",
@@ -239,7 +239,7 @@
         }
     ],
     "wof:id":421168641,
-    "wof:lastmodified":1563345247,
+    "wof:lastmodified":1566719307,
     "wof:name":"Fassa",
     "wof:parent_id":1108720003,
     "wof:placetype":"locality",

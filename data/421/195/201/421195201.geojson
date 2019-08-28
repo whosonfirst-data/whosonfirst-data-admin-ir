@@ -10,6 +10,9 @@
     "geom:latitude":38.5503,
     "geom:longitude":44.9521,
     "iso:country":"IR",
+    "lbl:bbox":"44.9321,38.5303,44.9721,38.5703",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -122,7 +125,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u043e\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khowy"
     ],
     "name:urd_x_preferred":[
@@ -263,7 +266,7 @@
     "wof:concordances":{
         "gn:id":126972,
         "gp:id":2235716,
-        "qs:id":122292,
+        "qs_pg:id":122292,
         "wd:id":"Q605105",
         "wk:page":"Khoy"
     },
@@ -280,7 +283,7 @@
         }
     ],
     "wof:id":421195201,
-    "wof:lastmodified":1563345266,
+    "wof:lastmodified":1566719309,
     "wof:name":"Khoi",
     "wof:parent_id":1108720153,
     "wof:placetype":"locality",

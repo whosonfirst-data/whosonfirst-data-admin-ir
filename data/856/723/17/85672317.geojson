@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":32.073069,
     "lbl:longitude":54.76871,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u064a\u0632\u062f",
     "mps:latitude":32.468333,
     "mps:longitude":55.560108,
@@ -217,7 +218,7 @@
     "name:ukr_x_preferred":[
         "\u0419\u0454\u0437\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Farm\u0101nd\u0101r\u012b-ye Mostaqell-e Yazd"
     ],
     "name:urd_x_preferred":[
@@ -307,9 +308,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-24",
+    "src:population_date":"2011-10-24",
     "statoids:area_km":"129,285",
     "statoids:area_mi":"49,917",
     "statoids:as_of_date":"2011-10-24",
@@ -334,7 +335,7 @@
         "gp:id":2345790,
         "hasc:id":"IR.YA",
         "iso:id":"IR-25",
-        "qs:id":211640,
+        "qs_pg:id":211640,
         "unlc:id":"IR-25",
         "wd:id":"Q170568",
         "wk:page":"Yazd Province"
@@ -355,11 +356,10 @@
     "wof:lang_x_spoken":[
         "fas"
     ],
-    "wof:lastmodified":1565722686,
+    "wof:lastmodified":1566716598,
     "wof:name":"Yazd",
     "wof:parent_id":85632361,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1074428,
     "wof:population_rank":12,

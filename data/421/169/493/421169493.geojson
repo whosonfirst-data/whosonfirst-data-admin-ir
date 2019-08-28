@@ -10,8 +10,12 @@
     "geom:latitude":35.0434,
     "geom:longitude":46.3565,
     "iso:country":"IR",
+    "lbl:bbox":"46.3365,35.0234,46.3765,35.0634",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0627\u0648\u0647"
@@ -88,7 +92,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pawah"
     ],
     "name:urd_x_preferred":[
@@ -134,7 +138,7 @@
     "wof:concordances":{
         "gn:id":121240,
         "gp:id":2255032,
-        "qs:id":190709,
+        "qs_pg:id":190709,
         "wd:id":"Q720608",
         "wk:page":"Paweh"
     },
@@ -151,7 +155,7 @@
         }
     ],
     "wof:id":421169493,
-    "wof:lastmodified":1563345282,
+    "wof:lastmodified":1566719311,
     "wof:name":"Paveh",
     "wof:parent_id":1108720301,
     "wof:placetype":"locality",

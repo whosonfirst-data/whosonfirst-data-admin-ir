@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"48.41199,34.5572,48.45199,34.5972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rivasjan"
     ],
@@ -39,9 +43,6 @@
     ],
     "name:swe_x_preferred":[
         "Rivasjan"
-    ],
-    "name:und_x_variant":[
-        "\u0631\u06cc\u0648\u0627\u0633\u06cc\u062c\u0627\u0646"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1344251465,
-    "wof:lastmodified":1564109224,
+    "wof:lastmodified":1566716154,
     "wof:name":"Rivasjan",
     "wof:parent_id":1108720505,
     "wof:placetype":"locality",

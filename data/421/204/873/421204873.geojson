@@ -10,8 +10,12 @@
     "geom:latitude":33.86419,
     "geom:longitude":48.26258,
     "iso:country":"IR",
+    "lbl:bbox":"48.24258,33.84419,48.28258,33.88419",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0623\u0644\u0634\u062a\u0631"
@@ -58,7 +62,7 @@
     "name:tur_x_preferred":[
         "Ale\u015fter"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Qal\u2018eh \u2018Alisht\u0101r"
     ],
     "name:urd_x_preferred":[
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":144269,
         "gp:id":2216026,
-        "qs:id":250698,
+        "qs_pg:id":250698,
         "wd:id":"Q967701",
         "wk:page":"Aleshtar"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421204873,
-    "wof:lastmodified":1563345288,
+    "wof:lastmodified":1566719312,
     "wof:name":"Alashtar",
     "wof:parent_id":1108720411,
     "wof:placetype":"locality",

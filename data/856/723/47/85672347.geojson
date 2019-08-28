@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":34.273835,
     "lbl:longitude":49.663993,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u0645\u0631\u0643\u0632\u064a",
     "mps:latitude":34.318277,
     "mps:longitude":49.717065,
@@ -239,7 +240,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0440\u043a\u0435\u0437\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Central Ostan"
     ],
     "name:urd_x_preferred":[
@@ -329,9 +330,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-24",
+    "src:population_date":"2011-10-24",
     "statoids:area_km":"29,127",
     "statoids:area_mi":"11,246",
     "statoids:as_of_date":"2011-10-24",
@@ -356,7 +357,7 @@
         "gp:id":2345783,
         "hasc:id":"IR.MK",
         "iso:id":"IR-22",
-        "qs:id":1083840,
+        "qs_pg:id":1083840,
         "unlc:id":"IR-22",
         "wd:id":"Q134417",
         "wk:page":"Markazi Province"
@@ -377,11 +378,10 @@
     "wof:lang_x_spoken":[
         "fas"
     ],
-    "wof:lastmodified":1565722689,
+    "wof:lastmodified":1566716601,
     "wof:name":"Markazi",
     "wof:parent_id":85632361,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1413959,
     "wof:population_rank":12,

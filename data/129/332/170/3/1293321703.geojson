@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"57.33788,36.70853,57.37788,36.74853",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u1e28\u0101jj\u012b\u0101b\u0101d-e \u1e28\u0101jj\u012b \u015eafar"
     ],
@@ -33,10 +37,6 @@
         "\u062d\u0627\u062c\u06cc \u0622\u0628\u0627\u062f",
         "\u062d\u0627\u062c\u06cc \u0622\u0628\u0627\u062f \u062d\u0627\u062c\u06cc \u0635\u0641\u0631",
         "\u062d\u0627\u062c\u06cc\u200c\u0622\u0628\u0627\u062f \u062d\u0627\u062c\u200c\u0635\u0641\u0631"
-    ],
-    "name:und_x_variant":[
-        "\u1e28\u0101jj\u012b\u0101b\u0101d",
-        "\u062d\u0627\u062c\u06cc \u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1293321703,
-    "wof:lastmodified":1564111167,
+    "wof:lastmodified":1566716902,
     "wof:name":"Hajjiabad-e Hajji Safar",
     "wof:parent_id":1108720367,
     "wof:placetype":"locality",

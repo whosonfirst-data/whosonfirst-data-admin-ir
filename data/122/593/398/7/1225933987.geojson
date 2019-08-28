@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"49.9032,37.02404,49.9432,37.06404",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "L\u016bsh\u0101d\u012b"
     ],
@@ -44,10 +48,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0443\u0448\u0430-\u0414\u0435\u0433"
-    ],
-    "name:und_x_variant":[
-        "L\u016bsh\u0101d\u012b",
-        "\u0644\u0648\u0634\u0627\u062f\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +73,7 @@
         }
     ],
     "wof:id":1225933987,
-    "wof:lastmodified":1564119097,
+    "wof:lastmodified":1566720056,
     "wof:name":"Lusha Deh",
     "wof:parent_id":1108720459,
     "wof:placetype":"locality",

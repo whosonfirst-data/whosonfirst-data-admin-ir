@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"47.38639,33.1325,47.42639,33.1725",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Tokoh"
     ],
@@ -497,9 +501,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u044e\u0434\u0438\u043d\u0430"
     ],
-    "name:und_x_variant":[
-        "\u0647\u0648\u0645\u0627\u0646"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0646\u0633\u0627\u0646"
     ],
@@ -562,7 +563,7 @@
         }
     ],
     "wof:id":1309784415,
-    "wof:lastmodified":1564116660,
+    "wof:lastmodified":1566719194,
     "wof:name":"Human",
     "wof:parent_id":1108719947,
     "wof:placetype":"locality",

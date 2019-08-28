@@ -10,8 +10,12 @@
     "geom:latitude":33.98308,
     "geom:longitude":51.43644,
     "iso:country":"IR",
+    "lbl:bbox":"51.41644,33.96308,51.45644,34.00308",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Kachan"
@@ -50,7 +54,7 @@
     "wof:concordances":{
         "gn:id":128477,
         "gp:id":2232705,
-        "qs:id":493392
+        "qs_pg:id":493392
     },
     "wof:country":"IR",
     "wof:created":1459008975,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":421173217,
-    "wof:lastmodified":1527716255,
+    "wof:lastmodified":1566719316,
     "wof:name":"Kachan",
     "wof:parent_id":1108720109,
     "wof:placetype":"locality",

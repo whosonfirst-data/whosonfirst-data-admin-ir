@@ -10,8 +10,12 @@
     "geom:latitude":28.75194,
     "geom:longitude":54.54444,
     "iso:country":"IR",
+    "lbl:bbox":"54.52444,28.73194,54.56444,28.77194",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062f\u0627\u0631\u0627\u0628"
@@ -86,7 +90,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0440\u0430\u0431"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yek"
     ],
     "name:urd_x_preferred":[
@@ -128,7 +132,7 @@
     "wof:concordances":{
         "gn:id":137956,
         "gp:id":2254500,
-        "qs:id":122350,
+        "qs_pg:id":122350,
         "wd:id":"Q719977",
         "wk:page":"Darab"
     },
@@ -145,7 +149,7 @@
         }
     ],
     "wof:id":421168349,
-    "wof:lastmodified":1563345246,
+    "wof:lastmodified":1566719307,
     "wof:name":"Darab",
     "wof:parent_id":1108719939,
     "wof:placetype":"locality",

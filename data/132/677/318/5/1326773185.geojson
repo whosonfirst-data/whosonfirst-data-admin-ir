@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"50.3797,36.1161,50.4197,36.1561",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0627\u0632\u0629 \u0623\u0628\u0627\u062f"
     ],
@@ -37,9 +41,6 @@
         "Seyyed\u0101b\u0101d",
         "\u062a\u0627\u0632\u0647 \u0622\u0628\u0627\u062f",
         "\u062a\u0627\u0632\u0647\u200c\u0622\u0628\u0627\u062f"
-    ],
-    "name:und_x_variant":[
-        "\u062a\u0627\u0632\u0647 \u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1326773185,
-    "wof:lastmodified":1564108452,
+    "wof:lastmodified":1566715855,
     "wof:name":"Tazehabad",
     "wof:parent_id":1108719789,
     "wof:placetype":"locality",

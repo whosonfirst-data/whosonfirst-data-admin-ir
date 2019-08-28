@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"48.48095,35.85844,48.52095,35.89844",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062f\u0648\u0631\u0627\u062e\u0644\u0648"
     ],
@@ -34,9 +38,6 @@
     "name:fas_x_variant":[
         "D\u016br\u0101khl\u016b",
         "Dar\u0101khl\u016b",
-        "\u062f\u0631\u0627\u062e\u0644\u0648"
-    ],
-    "name:und_x_variant":[
         "\u062f\u0631\u0627\u062e\u0644\u0648"
     ],
     "src:geom":"geonames",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1343600385,
-    "wof:lastmodified":1564109886,
+    "wof:lastmodified":1566716415,
     "wof:name":"Durakhlu",
     "wof:parent_id":1108720135,
     "wof:placetype":"locality",

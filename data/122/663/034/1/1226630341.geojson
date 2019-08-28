@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"48.02128,34.28886,48.06128,34.32886",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ckb_x_preferred":[
         "\u062f\u0627\u0631\u06cc\u0627\u0648"
     ],
@@ -36,9 +40,6 @@
     ],
     "name:msa_x_preferred":[
         "Daryab"
-    ],
-    "name:und_x_variant":[
-        "\u062f\u0627\u0631\u06cc\u0627\u0628"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1226630341,
-    "wof:lastmodified":1564120247,
+    "wof:lastmodified":1566720383,
     "wof:name":"Daryab",
     "wof:parent_id":1108720257,
     "wof:placetype":"locality",

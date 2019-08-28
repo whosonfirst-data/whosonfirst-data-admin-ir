@@ -10,8 +10,12 @@
     "geom:latitude":37.5708,
     "geom:longitude":49.1884,
     "iso:country":"IR",
+    "lbl:bbox":"49.1684,37.5508,49.2084,37.5908",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Rud Sar"
@@ -32,7 +36,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0443\u0434-\u0421\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rud-Sar"
     ],
     "qs:gn_country":"IR",
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":118190,
         "gp:id":2246264,
-        "qs:id":318052,
+        "qs_pg:id":318052,
         "wd:id":"Q5862253"
     },
     "wof:country":"IR",
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":421174209,
-    "wof:lastmodified":1563345312,
+    "wof:lastmodified":1566719315,
     "wof:name":"Rudsar-e Tazehabad",
     "wof:parent_id":1108720353,
     "wof:placetype":"locality",

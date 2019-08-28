@@ -10,8 +10,12 @@
     "geom:latitude":28.22107,
     "geom:longitude":61.21582,
     "iso:country":"IR",
+    "lbl:bbox":"61.19582,28.20107,61.23582,28.24107",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062e\u0627\u0634"
@@ -132,9 +136,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0448"
     ],
-    "name:unk_x_variant":[
-        "V\u0101sht"
-    ],
     "name:urd_x_preferred":[
         "\u062e\u0627\u0634\u060c \u0627\u06cc\u0631\u0627\u0646"
     ],
@@ -180,7 +181,7 @@
     "wof:concordances":{
         "gn:id":1160571,
         "gp:id":2234628,
-        "qs:id":130627,
+        "qs_pg:id":130627,
         "wd:id":"Q2112778",
         "wk:page":"Khash, Iran"
     },
@@ -197,7 +198,7 @@
         }
     ],
     "wof:id":421197385,
-    "wof:lastmodified":1563345359,
+    "wof:lastmodified":1566719320,
     "wof:name":"Kavash",
     "wof:parent_id":1108720131,
     "wof:placetype":"locality",

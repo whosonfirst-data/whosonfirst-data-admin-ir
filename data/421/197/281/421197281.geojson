@@ -10,8 +10,12 @@
     "geom:latitude":34.4813,
     "geom:longitude":47.6908,
     "iso:country":"IR",
+    "lbl:bbox":"47.6708,34.4613,47.7108,34.5013",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0635\u062d\u0646\u0629"
@@ -70,7 +74,7 @@
     "name:tur_x_preferred":[
         "Sehne"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sehneh"
     ],
     "name:urd_x_preferred":[
@@ -111,7 +115,7 @@
     "wof:concordances":{
         "gn:id":117835,
         "gp:id":2246720,
-        "qs:id":122233,
+        "qs_pg:id":122233,
         "wd:id":"Q889731",
         "wk:page":"Sahneh"
     },
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":421197281,
-    "wof:lastmodified":1563345357,
+    "wof:lastmodified":1566719320,
     "wof:name":"Sahna",
     "wof:parent_id":1108720371,
     "wof:placetype":"locality",

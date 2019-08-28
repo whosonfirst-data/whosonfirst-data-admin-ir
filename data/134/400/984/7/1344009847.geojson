@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"55.71335,37.53078,55.75335,37.57078",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Qarah Sar-e B\u0101l\u0101"
     ],
@@ -41,10 +45,6 @@
         "Qarah Yasar-e Bala"
     ],
     "name:swe_x_preferred":[
-        "Qarah Sar-e B\u0101l\u0101"
-    ],
-    "name:und_x_variant":[
-        "\u0642\u0631\u0647 \u064a\u0633\u0631 \u0628\u0627\u0644\u0627",
         "Qarah Sar-e B\u0101l\u0101"
     ],
     "src:geom":"geonames",
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":1344009847,
-    "wof:lastmodified":1564109376,
+    "wof:lastmodified":1566716211,
     "wof:name":"Qarah Sar-e Bala",
     "wof:parent_id":1108720093,
     "wof:placetype":"locality",

@@ -15,6 +15,7 @@
     "iso:country":"IE",
     "lbl:latitude":53.395375,
     "lbl:longitude":-6.264362,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.406027,
     "mps:longitude":-6.275305,
     "mz:categories":[],
@@ -67,9 +68,6 @@
     "name:swe_x_preferred":[
         "Ballymun"
     ],
-    "name:unk_x_variant":[
-        "Ballymun"
-    ],
     "qs:gn_adm0_cc":"IE",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2964574,
@@ -98,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":1302,
     "wof:belongsto":[
@@ -111,7 +109,6 @@
     "wof:concordances":{
         "gn:id":3315315,
         "gp:id":559769,
-        "qs:id":1080452,
         "qs_pg:id":1080452,
         "wd:id":"Q2563240",
         "wk:page":"Ballymun"
@@ -131,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563338714,
+    "wof:lastmodified":1566716582,
     "wof:name":"Ballymun",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

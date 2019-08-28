@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"55.0104,37.21669,55.0504,37.25669",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0632\u0627\u0642\u0644\u064a"
     ],
@@ -43,9 +47,6 @@
     ],
     "name:swe_x_preferred":[
         "Qaz\u0101qol\u012b"
-    ],
-    "name:und_x_variant":[
-        "\u0642\u0632\u0627\u0642\u0644\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1259425631,
-    "wof:lastmodified":1564118953,
+    "wof:lastmodified":1566720012,
     "wof:name":"Qazaqoli",
     "wof:parent_id":1108720039,
     "wof:placetype":"locality",

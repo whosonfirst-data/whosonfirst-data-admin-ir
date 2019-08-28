@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"50.05879,36.81437,50.09879,36.85437",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0633\u064a \u06a9\u0644\u0627\u064a\u0629"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0443\u0441\u0430-\u041a\u0430\u043b\u0430\u0454"
-    ],
-    "name:und_x_variant":[
-        "\u0645\u0648\u0633\u06cc \u06a9\u0644\u0627\u06cc\u0647"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1259580755,
-    "wof:lastmodified":1564118807,
+    "wof:lastmodified":1566719975,
     "wof:name":"Musa Kalayeh",
     "wof:parent_id":1108719805,
     "wof:placetype":"locality",

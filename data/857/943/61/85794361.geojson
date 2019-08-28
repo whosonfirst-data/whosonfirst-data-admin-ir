@@ -15,6 +15,7 @@
     "iso:country":"IE",
     "lbl:latitude":53.321612,
     "lbl:longitude":-6.264495,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.328766,
     "mps:longitude":-6.26545,
     "mz:hierarchy_label":1,
@@ -72,9 +73,6 @@
     "name:swe_x_preferred":[
         "Rathmines"
     ],
-    "name:unk_x_variant":[
-        "Rathmines"
-    ],
     "qs:gn_adm0_cc":"IE",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2964574,
@@ -103,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":2718,
     "wof:belongsto":[
@@ -116,7 +114,6 @@
     "wof:concordances":{
         "gn:id":2961896,
         "gp:id":562040,
-        "qs:id":243328,
         "qs_pg:id":243328,
         "wd:id":"Q2672384",
         "wk:page":"Rathmines"
@@ -136,7 +133,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563338724,
+    "wof:lastmodified":1566716584,
     "wof:name":"Rathmines",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

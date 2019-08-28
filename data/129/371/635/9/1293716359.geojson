@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"58.3592,34.4838,58.3992,34.5238",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u0627\u0631 \u0641\u064a\u0631\u0648\u0632\u064a"
     ],
@@ -42,10 +46,7 @@
         "Kh\u0101rf\u012br\u016bz\u012b"
     ],
     "name:und_x_variant":[
-        "Kh\u0101r-e F\u012br\u016bz\u012b",
-        "Kh\u0101r Faraj\u012b",
-        "Khar Fareji",
-        "Kh\u0101rf\u012br\u016bz\u012b"
+        "Khar Fareji"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1293716359,
-    "wof:lastmodified":1564110874,
+    "wof:lastmodified":1566716797,
     "wof:name":"Kharfiruzi",
     "wof:parent_id":1108720037,
     "wof:placetype":"locality",

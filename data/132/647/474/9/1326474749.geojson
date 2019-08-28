@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"53.61303,36.50632,53.65303,36.54632",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0633\u0646\u062f"
     ],
@@ -33,10 +37,6 @@
     ],
     "name:fas_x_variant":[
         "L\u0101\u2019\u012b-ye P\u0101sand",
-        "P\u0101sand",
-        "\u067e\u0627\u0633\u0646\u062f"
-    ],
-    "name:und_x_variant":[
         "P\u0101sand",
         "\u067e\u0627\u0633\u0646\u062f"
     ],
@@ -63,7 +63,7 @@
         }
     ],
     "wof:id":1326474749,
-    "wof:lastmodified":1564108372,
+    "wof:lastmodified":1566715819,
     "wof:name":"Pasand",
     "wof:parent_id":1108720275,
     "wof:placetype":"locality",

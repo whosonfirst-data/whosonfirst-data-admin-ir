@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"50.35392,32.94016,50.39392,32.98016",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0645\u0627\u063a\u0631\u062f"
     ],
@@ -36,9 +40,7 @@
         "\u0646\u0645\u0627\u06af\u0631\u062f"
     ],
     "name:und_x_variant":[
-        "Nimagird",
-        "Nem\u0101gerd",
-        "\u0646\u0645\u0627\u06af\u0631\u062f"
+        "Nimagird"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +66,7 @@
         }
     ],
     "wof:id":1327081523,
-    "wof:lastmodified":1564107491,
+    "wof:lastmodified":1566715469,
     "wof:name":"Nemagerd",
     "wof:parent_id":1108719993,
     "wof:placetype":"locality",

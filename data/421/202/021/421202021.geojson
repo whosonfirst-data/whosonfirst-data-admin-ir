@@ -10,6 +10,9 @@
     "geom:latitude":29.106,
     "geom:longitude":58.357,
     "iso:country":"IR",
+    "lbl:bbox":"58.337,29.086,58.377,29.126",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -182,9 +185,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043c"
     ],
-    "name:unk_x_variant":[
-        "\u0628\u0645"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0645\u060c \u0627\u06cc\u0631\u0627\u0646"
     ],
@@ -319,7 +319,7 @@
     "wof:concordances":{
         "gn:id":141736,
         "gp:id":2254392,
-        "qs:id":1354270,
+        "qs_pg:id":1354270,
         "wd:id":"Q106636"
     },
     "wof:country":"IR",
@@ -335,7 +335,7 @@
         }
     ],
     "wof:id":421202021,
-    "wof:lastmodified":1563345302,
+    "wof:lastmodified":1566719313,
     "wof:name":"Bam",
     "wof:parent_id":1108719861,
     "wof:placetype":"locality",

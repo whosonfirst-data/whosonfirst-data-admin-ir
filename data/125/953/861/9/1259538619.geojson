@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"54.89563,36.47215,54.93563,36.51215",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0645\u064a\u0631\u064a\u0647"
     ],
@@ -46,9 +50,6 @@
     ],
     "name:tur_x_preferred":[
         "Amiriye"
-    ],
-    "name:und_x_variant":[
-        "\u0627\u0645\u064a\u0631\u064a\u0647"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +74,7 @@
         }
     ],
     "wof:id":1259538619,
-    "wof:lastmodified":1564118250,
+    "wof:lastmodified":1566719814,
     "wof:name":"Amiriyeh",
     "wof:parent_id":1108720441,
     "wof:placetype":"locality",

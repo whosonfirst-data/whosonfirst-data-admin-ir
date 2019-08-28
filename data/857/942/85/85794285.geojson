@@ -14,6 +14,7 @@
     "iso:country":"IE",
     "lbl:latitude":53.292926,
     "lbl:longitude":-6.229146,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.296328,
     "mps:longitude":-6.218338,
     "mz:hierarchy_label":1,
@@ -37,9 +38,6 @@
     ],
     "name:rus_x_preferred":[
         "\u0413\u043e\u0442\u0441\u0442\u0430\u0443\u043d"
-    ],
-    "name:unk_x_variant":[
-        "Goatstown"
     ],
     "qs:gn_adm0_cc":"IE",
     "qs:gn_fcode":"PPLX",
@@ -68,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":53.292837,
     "wd:longitude":-6.229565,
     "wd:wordcount":641,
@@ -82,7 +80,6 @@
     "wof:concordances":{
         "gn:id":6691007,
         "gp:id":560996,
-        "qs:id":1114349,
         "qs_pg:id":1114349,
         "wd:id":"Q3776234",
         "wk:page":"Goatstown"
@@ -102,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563338722,
+    "wof:lastmodified":1566716584,
     "wof:name":"Goatstown",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

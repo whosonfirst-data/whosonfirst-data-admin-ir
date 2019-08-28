@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"50.52013,31.91634,50.56013,31.95634",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u062f"
     ],
@@ -42,9 +46,6 @@
     ],
     "name:swe_x_preferred":[
         "B\u0101led"
-    ],
-    "name:und_x_variant":[
-        "\u0628\u0627\u0644\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":1276548607,
-    "wof:lastmodified":1564112838,
+    "wof:lastmodified":1566717581,
     "wof:name":"Baled",
     "wof:parent_id":1108719821,
     "wof:placetype":"locality",

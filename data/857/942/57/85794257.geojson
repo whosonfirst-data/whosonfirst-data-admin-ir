@@ -15,6 +15,7 @@
     "iso:country":"IE",
     "lbl:latitude":53.319698,
     "lbl:longitude":-6.235275,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.322671,
     "mps:longitude":-6.236748,
     "mz:hierarchy_label":1,
@@ -66,9 +67,6 @@
     "name:swe_x_preferred":[
         "Donnybrook"
     ],
-    "name:unk_x_variant":[
-        "Donnybrook"
-    ],
     "qs:gn_adm0_cc":"IE",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2964574,
@@ -97,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":1017,
     "wof:belongsto":[
@@ -110,7 +108,6 @@
     "wof:concordances":{
         "gn:id":2964745,
         "gp:id":560647,
-        "qs:id":976425,
         "qs_pg:id":976425,
         "wd:id":"Q3776296",
         "wk:page":"Donnybrook, Dublin"
@@ -130,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563338716,
+    "wof:lastmodified":1566716582,
     "wof:name":"Donnybrook",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

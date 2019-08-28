@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"54.31322,36.82617,54.35322,36.86617",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0645\u0633\u0643"
     ],
@@ -32,10 +36,6 @@
         "\u0644\u0645\u0633\u06a9"
     ],
     "name:msa_x_preferred":[
-        "Lamsak"
-    ],
-    "name:und_x_variant":[
-        "\u0644\u0645\u0633\u06a9",
         "Lamsak"
     ],
     "name:urd_x_preferred":[
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":1343800925,
-    "wof:lastmodified":1564110175,
+    "wof:lastmodified":1566716527,
     "wof:name":"Lamsak",
     "wof:parent_id":1108720041,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":36.6793,
     "geom:longitude":46.5669,
     "iso:country":"IR",
+    "lbl:bbox":"46.5469,36.6593,46.5869,36.6993",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0634\u0627\u0647\u064a\u0646 \u062f\u062c"
@@ -74,7 +78,7 @@
     "name:tur_x_preferred":[
         "\u015eahindej"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sahin Dazh"
     ],
     "name:zho_x_preferred":[
@@ -111,7 +115,7 @@
     "wof:concordances":{
         "gn:id":117793,
         "gp:id":2246737,
-        "qs:id":462574,
+        "qs_pg:id":462574,
         "wd:id":"Q862551",
         "wk:page":"Shahin Dezh"
     },
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":421179793,
-    "wof:lastmodified":1563345389,
+    "wof:lastmodified":1566719323,
     "wof:name":"Sain Dezh",
     "wof:parent_id":1108720429,
     "wof:placetype":"locality",

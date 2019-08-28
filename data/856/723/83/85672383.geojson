@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":37.023054,
     "lbl:longitude":49.663809,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u06af\u06cc\u0644\u0627\u0646",
     "mps:latitude":37.022764,
     "mps:longitude":49.708404,
@@ -241,7 +242,7 @@
         "Gilan"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbf\u0bb3\u0ba9\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b95\u0bbf\u0bb3\u0ba9\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u0413\u0438\u043b\u04d9\u043d"
@@ -263,9 +264,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0456\u043b\u044f\u043d"
-    ],
-    "name:unk_x_variant":[
-        "Guilan"
     ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062c\u06cc\u0644\u0627\u0646"
@@ -360,9 +358,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-24",
+    "src:population_date":"2011-10-24",
     "statoids:area_km":"14,042",
     "statoids:area_mi":"5,422",
     "statoids:as_of_date":"2011-10-24",
@@ -387,7 +385,7 @@
         "gp:id":2345773,
         "hasc:id":"IR.GI",
         "iso:id":"IR-19",
-        "qs:id":894891,
+        "qs_pg:id":894891,
         "unlc:id":"IR-19",
         "wd:id":"Q928828",
         "wk:page":"Gilan Province"
@@ -408,11 +406,10 @@
     "wof:lang_x_spoken":[
         "fas"
     ],
-    "wof:lastmodified":1565722689,
+    "wof:lastmodified":1566716601,
     "wof:name":"Gilan",
     "wof:parent_id":85632361,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":2480874,
     "wof:population_rank":12,

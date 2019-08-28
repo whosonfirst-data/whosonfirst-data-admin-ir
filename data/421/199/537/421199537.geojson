@@ -10,8 +10,12 @@
     "geom:latitude":36.90165,
     "geom:longitude":54.07088,
     "iso:country":"IR",
+    "lbl:bbox":"54.05088,36.88165,54.09088,36.92165",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0646\u062f\u0631 \u062a\u0631\u0643\u0645\u0627\u0646"
@@ -102,7 +106,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043d\u0434\u0435\u0440-\u0422\u043e\u0440\u043a\u0435\u043c\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bandar Sh\u0101h"
     ],
     "name:urd_x_preferred":[
@@ -146,7 +150,7 @@
     "wof:concordances":{
         "gn:id":141653,
         "gp:id":2254402,
-        "qs:id":479477,
+        "qs_pg:id":479477,
         "wd:id":"Q643394",
         "wk:page":"Bandar Torkaman"
     },
@@ -163,7 +167,7 @@
         }
     ],
     "wof:id":421199537,
-    "wof:lastmodified":1563345370,
+    "wof:lastmodified":1566719321,
     "wof:name":"Bandar-e Torkeman",
     "wof:parent_id":1108720501,
     "wof:placetype":"locality",

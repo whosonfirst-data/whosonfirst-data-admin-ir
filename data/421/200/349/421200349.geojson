@@ -10,8 +10,12 @@
     "geom:latitude":36.69235,
     "geom:longitude":53.55262,
     "iso:country":"IR",
+    "lbl:bbox":"53.53262,36.67235,53.57262,36.71235",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0647\u0634\u0647\u0631"
@@ -97,7 +101,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0445\u0448\u0430\u0445\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ashraf"
     ],
     "name:urd_x_preferred":[
@@ -139,7 +143,7 @@
     "wof:concordances":{
         "gn:id":140918,
         "gp:id":2254429,
-        "qs:id":1300733,
+        "qs_pg:id":1300733,
         "wd:id":"Q814594",
         "wk:page":"Behshahr"
     },
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":421200349,
-    "wof:lastmodified":1563345374,
+    "wof:lastmodified":1566719322,
     "wof:name":"Behshahr",
     "wof:parent_id":1108719887,
     "wof:placetype":"locality",

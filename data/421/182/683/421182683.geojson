@@ -10,8 +10,12 @@
     "geom:latitude":36.81626,
     "geom:longitude":50.87376,
     "iso:country":"IR",
+    "lbl:bbox":"50.85376,36.79626,50.89376,36.83626",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0646\u0643\u0627\u0628\u0646"
@@ -73,7 +77,7 @@
     "name:tur_x_preferred":[
         "Tonekabun"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shahsav\u0101r"
     ],
     "name:urd_x_preferred":[
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":112656,
         "gp:id":2248988,
-        "qs:id":1354256,
+        "qs_pg:id":1354256,
         "wd:id":"Q765561",
         "wk:page":"Tonekabon"
     },
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":421182683,
-    "wof:lastmodified":1563345396,
+    "wof:lastmodified":1566719324,
     "wof:name":"Shahsawar",
     "wof:parent_id":1108720495,
     "wof:placetype":"locality",

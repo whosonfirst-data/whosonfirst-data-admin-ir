@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"59.00499,28.61868,59.04499,28.65868",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bamb\u016by\u0101n"
     ],
@@ -38,10 +42,6 @@
     ],
     "name:swe_x_preferred":[
         "Bamb\u016by\u0101n"
-    ],
-    "name:und_x_variant":[
-        "Bambey\u016bn",
-        "Bamb\u012b\u016bn"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":1276174369,
-    "wof:lastmodified":1564111873,
+    "wof:lastmodified":1566717182,
     "wof:name":"Bambuyan",
     "wof:parent_id":1108719861,
     "wof:placetype":"locality",

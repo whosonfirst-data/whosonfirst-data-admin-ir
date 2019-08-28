@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"60.71933,35.80417,60.75933,35.84417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "G\u016br Khv\u0101r"
     ],
@@ -41,11 +45,9 @@
     ],
     "name:und_x_variant":[
         "Gowhar",
-        "G\u016br Khv\u0101r",
         "G\u016brkhar",
         "K\u016breh Khv\u0101r",
-        "G\u016breh Kh\u0101r",
-        "\u06af\u0648\u0631 \u062e\u0648\u0627\u0631"
+        "G\u016breh Kh\u0101r"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1276363471,
-    "wof:lastmodified":1564112885,
+    "wof:lastmodified":1566717600,
     "wof:name":"Gur Khvar",
     "wof:parent_id":1108720499,
     "wof:placetype":"locality",

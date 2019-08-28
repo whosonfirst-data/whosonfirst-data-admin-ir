@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"60.99836,25.76668,61.03836,25.80668",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "Sh\u0101hak B\u0101z\u0101r"
     ],
@@ -32,10 +36,6 @@
         "Sh\u0101hvak",
         "\u0634\u0627\u0647\u0648\u06a9",
         "\u0634\u0627\u0647\u06a9 \u0628\u0627\u0632\u0627\u0631"
-    ],
-    "name:und_x_variant":[
-        "Sh\u0101hvak",
-        "\u0634\u0627\u0647\u0648\u06a9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +55,7 @@
         }
     ],
     "wof:id":1209247309,
-    "wof:lastmodified":1564113384,
+    "wof:lastmodified":1566717812,
     "wof:name":"Shahvak",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",

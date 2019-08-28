@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"61.18769,25.56328,61.22769,25.60328",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u0643\u0631\u0628\u0627\u0632\u0627\u0631"
     ],
@@ -35,9 +39,6 @@
         "Ch\u0101ker B\u0101z\u0101r",
         "\u0686\u0627\u06a9\u0631 \u0628\u0627\u0632\u0627\u0631",
         "\u0686\u0627\u06a9\u0631\u0628\u0627\u0632\u0627\u0631"
-    ],
-    "name:und_x_variant":[
-        "\u0686\u0627\u06a9\u0631 \u0628\u0627\u0632\u0627\u0631"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1327431485,
-    "wof:lastmodified":1564108680,
+    "wof:lastmodified":1566715945,
     "wof:name":"Chaker Bazar",
     "wof:parent_id":1108719919,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":29.4963,
     "geom:longitude":60.8629,
     "iso:country":"IR",
+    "lbl:bbox":"60.8429,29.4763,60.8829,29.5163",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -204,7 +207,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0445\u0435\u0434\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dowzd\u0101b"
     ],
     "name:urd_x_preferred":[
@@ -347,7 +350,7 @@
     "wof:concordances":{
         "gn:id":1159301,
         "gp:id":2255308,
-        "qs:id":276006,
+        "qs_pg:id":276006,
         "wd:id":"Q140561",
         "wk:page":"Zahedan"
     },
@@ -364,7 +367,7 @@
         }
     ],
     "wof:id":421177981,
-    "wof:lastmodified":1563345385,
+    "wof:lastmodified":1566719323,
     "wof:name":"Dowzdab",
     "wof:parent_id":1108720517,
     "wof:placetype":"locality",

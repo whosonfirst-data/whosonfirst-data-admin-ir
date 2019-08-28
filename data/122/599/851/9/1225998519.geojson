@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"49.60859,34.55184,49.64859,34.59184",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0633\u0641\u064a\u0646"
     ],
@@ -43,9 +47,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0415\u0441\u0444\u0456\u043d"
-    ],
-    "name:und_x_variant":[
-        "\u0627\u0633\u0641\u064a\u0646"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1225998519,
-    "wof:lastmodified":1564119814,
+    "wof:lastmodified":1566720263,
     "wof:name":"Esfin",
     "wof:parent_id":1108720473,
     "wof:placetype":"locality",

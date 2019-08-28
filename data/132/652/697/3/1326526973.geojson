@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"49.52214,36.85585,49.56214,36.89585",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sondos"
     ],
@@ -42,9 +46,7 @@
     ],
     "name:und_x_variant":[
         "Sendes",
-        "Sandas",
-        "Sondos",
-        "\u0633\u0646\u062f\u0633"
+        "Sandas"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +72,7 @@
         }
     ],
     "wof:id":1326526973,
-    "wof:lastmodified":1564108519,
+    "wof:lastmodified":1566715884,
     "wof:name":"Sondos",
     "wof:parent_id":1108720361,
     "wof:placetype":"locality",

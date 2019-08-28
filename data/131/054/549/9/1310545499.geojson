@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"53.61499,36.28193,53.65499,36.32193",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Manzel Darreh"
     ],
@@ -41,10 +45,6 @@
         "\u0645\u0646\u0632\u0644\u200c\u062f\u0631\u0647"
     ],
     "name:swe_x_preferred":[
-        "Manzel Darreh"
-    ],
-    "name:und_x_variant":[
-        "\u0645\u0646\u0632\u0644 \u062f\u0631\u0647",
         "Manzel Darreh"
     ],
     "src:geom":"geonames",
@@ -71,7 +71,7 @@
         }
     ],
     "wof:id":1310545499,
-    "wof:lastmodified":1564115476,
+    "wof:lastmodified":1566718715,
     "wof:name":"Manzel Darreh",
     "wof:parent_id":1108720401,
     "wof:placetype":"locality",

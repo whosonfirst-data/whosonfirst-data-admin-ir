@@ -11,10 +11,14 @@
     "geom:longitude":48.462,
     "gn:country":"IR",
     "gn:fcode":"PPL",
-    "gn:pop":1081,
+    "gn:population":1081,
     "iso:country":"IR",
+    "lbl:bbox":"48.442,34.01792,48.482,34.05792",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u043c\u0430\u0441"
     ],
@@ -42,9 +46,6 @@
     "name:swe_x_preferred":[
         "Pamas"
     ],
-    "name:unk_x_variant":[
-        "Pamas"
-    ],
     "qs:name":"pamas",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -60,7 +61,7 @@
     "wof:concordances":{
         "gn:id":134905,
         "gp:id":2254664,
-        "qs:id":67070,
+        "qs_pg:id":67070,
         "wd:id":"Q10843499"
     },
     "wof:country":"IR",
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":890436239,
-    "wof:lastmodified":1563345404,
+    "wof:lastmodified":1566719325,
     "wof:name":"pamas",
     "wof:parent_id":1108720257,
     "wof:placetype":"locality",

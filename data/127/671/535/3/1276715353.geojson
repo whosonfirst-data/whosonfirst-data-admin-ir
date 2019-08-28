@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"46.7101,37.3782,46.7501,37.4182",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "Ch\u0101kan"
     ],
@@ -33,10 +37,6 @@
         "\u0686\u06a9\u0646"
     ],
     "name:msa_x_preferred":[
-        "Chakan"
-    ],
-    "name:und_x_variant":[
-        "\u0686\u0627\u06a9\u0646",
         "Chakan"
     ],
     "src:geom":"geonames",
@@ -63,7 +63,7 @@
         }
     ],
     "wof:id":1276715353,
-    "wof:lastmodified":1564112485,
+    "wof:lastmodified":1566717435,
     "wof:name":"Chakan",
     "wof:parent_id":1108720055,
     "wof:placetype":"locality",

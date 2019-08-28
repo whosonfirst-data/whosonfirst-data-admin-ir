@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"59.57405,27.39893,59.61405,27.43893",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0644\u0627\u0643\u0646\u062a\u0643"
     ],
@@ -35,10 +39,6 @@
         "Kal\u0101kontak",
         "Kal\u0101n Kontak",
         "Kal\u0101n Kantak"
-    ],
-    "name:und_x_variant":[
-        "Kal\u0101n Kantak",
-        "Kal\u0101n Kontak"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1226645945,
-    "wof:lastmodified":1564120216,
+    "wof:lastmodified":1566720374,
     "wof:name":"Kalakontak",
     "wof:parent_id":1108720063,
     "wof:placetype":"locality",

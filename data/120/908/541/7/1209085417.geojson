@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"46.77389,33.98167,46.81389,34.02167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632361
@@ -34,7 +38,7 @@
         "gn:id":24505
     },
     "wof:country":"IR",
-    "wof:geomhash":"6b06b62a735448eac71c877d4d558b1d",
+    "wof:geomhash":"5066e740de6ee3cd166b2a09efcfffb0",
     "wof:hierarchy":[
         {
             "country_id":85632361,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209085417,
-    "wof:lastmodified":1536298203,
+    "wof:lastmodified":1566717715,
     "wof:name":"Kheykeh",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     46.79389000000001,
-    34.001670000000004,
+    34.00167,
     46.79389000000001,
-    34.001670000000004
+    34.00167
 ],
   "geometry": {"coordinates":[46.79389000000001,34.00167],"type":"Point"}
 }

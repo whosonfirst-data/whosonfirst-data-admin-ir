@@ -10,8 +10,12 @@
     "geom:latitude":36.63191,
     "geom:longitude":52.26286,
     "iso:country":"IR",
+    "lbl:bbox":"52.24286,36.61191,52.28286,36.65191",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u062d\u0645\u0648\u062f \u0623\u0628\u0627\u062f"
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":125328,
         "gp:id":2254885,
-        "qs:id":266933,
+        "qs_pg:id":266933,
         "wd:id":"Q862511",
         "wk:page":"Mahmudabad, Mazandaran"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421170853,
-    "wof:lastmodified":1563345379,
+    "wof:lastmodified":1566719323,
     "wof:name":"Mahmudabad",
     "wof:parent_id":1108720199,
     "wof:placetype":"locality",

@@ -11,11 +11,14 @@
     "geom:longitude":61.46989,
     "gn:country":"IR",
     "gn:fcode":"BLDG",
-    "gn:pop":5,
+    "gn:population":5,
     "iso:country":"IR",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Magma"
     ],
@@ -296,7 +299,7 @@
     "wof:concordances":{
         "gn:id":8015572,
         "gp:id":2229543,
-        "qs:id":749493,
+        "qs_pg:id":749493,
         "wd:id":"Q42278",
         "wk:page":"Magma"
     },
@@ -313,7 +316,7 @@
         }
     ],
     "wof:id":890426567,
-    "wof:lastmodified":1563345406,
+    "wof:lastmodified":1566719326,
     "wof:name":"Magma",
     "wof:parent_id":1108720513,
     "wof:placetype":"locality",

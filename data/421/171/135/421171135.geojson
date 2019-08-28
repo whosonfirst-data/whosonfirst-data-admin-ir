@@ -10,8 +10,12 @@
     "geom:latitude":33.946251,
     "geom:longitude":51.3727,
     "iso:country":"IR",
+    "lbl:bbox":"51.3527,33.926251,51.3927,33.966251",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2227254,
-        "qs:id":1209724
+        "qs_pg:id":1209724
     },
     "wof:country":"IR",
     "wof:created":1459008882,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421171135,
-    "wof:lastmodified":1500011812,
+    "wof:lastmodified":1566719324,
     "wof:name":"Fin Bozorg",
     "wof:parent_id":1108720109,
     "wof:placetype":"locality",

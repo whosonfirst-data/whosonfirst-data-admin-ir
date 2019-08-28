@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"59.3361,33.18163,59.3761,33.22163",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "Sar \u0100s\u012b\u0101b"
     ],
@@ -32,10 +36,6 @@
         "\u0633\u0631 \u0622\u0633\u06cc\u0627\u0628",
         "Sar \u0100sy\u0101b",
         "\u0633\u0631\u0622\u0633\u06cc\u0627\u0628"
-    ],
-    "name:und_x_variant":[
-        "Sar \u0100sy\u0101b",
-        "\u0633\u0631 \u0622\u0633\u06cc\u0627\u0628"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":1327461535,
-    "wof:lastmodified":1564108163,
+    "wof:lastmodified":1566715736,
     "wof:name":"Sar Asiab",
     "wof:parent_id":1108719895,
     "wof:placetype":"locality",

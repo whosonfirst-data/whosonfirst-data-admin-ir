@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"51.04177,30.32212,51.08177,30.36212",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u0645\u0627\u0645\u064a\u0627\u0646"
     ],
@@ -47,8 +51,7 @@
     "name:und_x_variant":[
         "Barm\u0101m\u012b\u0101n",
         "Borm\u0101mey\u0101n",
-        "Barmay\u016bn",
-        "\u0628\u0631\u0645\u0627\u0645\u064a\u0627\u0646"
+        "Barmay\u016bn"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1343565751,
-    "wof:lastmodified":1564109803,
+    "wof:lastmodified":1566716384,
     "wof:name":"Bormamian",
     "wof:parent_id":1108720015,
     "wof:placetype":"locality",

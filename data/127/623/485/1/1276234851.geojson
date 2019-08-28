@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"50.41415,31.6502,50.45415,31.6902",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u062c\u0627\u0631\u0648\u06cc \u0633\u064f\u0641\u0644\u064e\u0649"
     ],
@@ -33,8 +37,7 @@
         "\u062c\u0627\u0631\u0648\u06cc \u067e\u0627\u0626\u064a\u0646"
     ],
     "name:und_x_variant":[
-        "J\u0101r\u016b-ye Sofl\u00e1",
-        "\u062c\u0627\u0631\u0648\u06cc \u067e\u0627\u0626\u064a\u0646"
+        "J\u0101r\u016b-ye Sofl\u00e1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1276234851,
-    "wof:lastmodified":1537644851,
+    "wof:lastmodified":1566717456,
     "wof:name":"Jaru-ye Pa'in",
     "wof:parent_id":1108719821,
     "wof:placetype":"locality",

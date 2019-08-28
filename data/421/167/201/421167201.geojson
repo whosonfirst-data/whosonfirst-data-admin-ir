@@ -10,8 +10,12 @@
     "geom:latitude":27.20245,
     "geom:longitude":60.68476,
     "iso:country":"IR",
+    "lbl:bbox":"60.66476,27.18245,60.70476,27.22245",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0625\u064a\u0631\u0627\u0646 \u0634\u0647\u0631"
@@ -138,7 +142,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u0440\u0430\u043d\u0448\u0435\u0445\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fehruj"
     ],
     "name:urd_x_preferred":[
@@ -180,7 +184,7 @@
     "wof:concordances":{
         "gn:id":1160939,
         "gp:id":2226748,
-        "qs:id":130629,
+        "qs_pg:id":130629,
         "wd:id":"Q643687",
         "wk:page":"Iranshahr (city)"
     },
@@ -197,7 +201,7 @@
         }
     ],
     "wof:id":421167201,
-    "wof:lastmodified":1563345278,
+    "wof:lastmodified":1566719311,
     "wof:name":"Fahrej",
     "wof:parent_id":1108720063,
     "wof:placetype":"locality",

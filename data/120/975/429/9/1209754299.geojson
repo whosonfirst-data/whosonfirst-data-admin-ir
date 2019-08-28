@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"55.18532,37.03918,55.22532,37.07918",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u0627\u0636\u0644 \u0623\u0628\u0627\u062f"
     ],
@@ -49,9 +53,6 @@
     ],
     "name:tur_x_preferred":[
         "Faz\u0131labad"
-    ],
-    "name:und_x_variant":[
-        "\u0641\u0627\u0636\u0644 \u0622\u0628\u0627\u062f"
     ],
     "name:urd_x_preferred":[
         "\u0641\u0627\u0636\u0644\u200c\u0622\u0628\u0627\u062f"
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1209754299,
-    "wof:lastmodified":1564114127,
+    "wof:lastmodified":1566718145,
     "wof:name":"Fazelabad",
     "wof:parent_id":1108719839,
     "wof:placetype":"locality",

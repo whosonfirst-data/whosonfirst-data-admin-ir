@@ -11,10 +11,14 @@
     "geom:longitude":52.30942,
     "gn:country":"IR",
     "gn:fcode":"PPL",
-    "gn:pop":49491,
+    "gn:population":49491,
     "iso:country":"IR",
+    "lbl:bbox":"52.28942,35.21455,52.32942,35.25455",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:fas_x_preferred":[
         "\u064a\u0633\u062a\u06af\u0627\u0647\u0650 \u0631\u0627\u0647\u0627\u0647\u064e\u0646\u0650 \u06af\u064e\u0631\u0645\u0633\u0627\u0631"
     ],
@@ -26,7 +30,7 @@
         "\u012astg\u0101h-e Garms\u0101r",
         "\u0627\u064a\u0633\u062a\u06af\u0627\u0647 \u0631\u0627\u0647\u0627\u0647\u0646 \u06af\u064e\u0631\u0645\u0633\u0627\u0631"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u012astg\u0101h-e R\u0101h \u0100han Garms\u0101r"
     ],
     "qs:name":"\u012astg\u0101h-e R\u0101h \u0100han-e Garms\u0101r",
@@ -44,7 +48,7 @@
     "wof:concordances":{
         "gn:id":32723,
         "gp:id":2254624,
-        "qs:id":56796
+        "qs_pg:id":56796
     },
     "wof:country":"IR",
     "wof:created":1469052706,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":890449733,
-    "wof:lastmodified":1505343630,
+    "wof:lastmodified":1566719325,
     "wof:name":"\u012astg\u0101h-e R\u0101h \u0100han-e Garms\u0101r",
     "wof:parent_id":1108720023,
     "wof:placetype":"locality",

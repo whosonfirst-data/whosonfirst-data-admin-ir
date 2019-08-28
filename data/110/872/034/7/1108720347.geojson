@@ -12,6 +12,8 @@
     "iso:country":"IR",
     "lbl:latitude":31.380583,
     "lbl:longitude":57.166574,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Kerman",
     "meso:adm1_loc":"\u0643\u0631\u0645\u0627\u0646",
     "meso:adm2_alt":"NO DATA",
@@ -27,6 +29,7 @@
     "mps:longitude":57.166574,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0631\u0627\u0648\u0631"
     ],
@@ -58,7 +61,7 @@
         "Raver"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632361,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1108720347,
-    "wof:lastmodified":1564115184,
+    "wof:lastmodified":1566718603,
     "wof:name":"Ravar",
     "wof:parent_id":85672409,
     "wof:placetype":"county",

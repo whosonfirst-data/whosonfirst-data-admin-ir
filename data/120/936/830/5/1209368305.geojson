@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"53.30339,36.63685,53.34339,36.67685",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0686\u0627\u0644\u0650\u0647 \u067e\u064f\u0644"
     ],
@@ -36,9 +40,7 @@
     ],
     "name:und_x_variant":[
         "Chalapur",
-        "Chalvil",
-        "Ch\u0101l\u016b Pol",
-        "\u0686\u0627\u0644\u0648 \u067e\u0644"
+        "Chalvil"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +60,7 @@
         }
     ],
     "wof:id":1209368305,
-    "wof:lastmodified":1564112964,
+    "wof:lastmodified":1566717633,
     "wof:name":"Chalu Pol",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",

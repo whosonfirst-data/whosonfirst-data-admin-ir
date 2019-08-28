@@ -10,8 +10,12 @@
     "geom:latitude":26.55778,
     "geom:longitude":54.01944,
     "iso:country":"IR",
+    "lbl:bbox":"53.99944,26.53778,54.03944,26.57778",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Kish"
@@ -168,7 +172,7 @@
     "wof:concordances":{
         "gn:id":126914,
         "gp:id":2236273,
-        "qs:id":238655,
+        "qs_pg:id":238655,
         "wd:id":"Q453373"
     },
     "wof:country":"IR",
@@ -184,7 +188,7 @@
         }
     ],
     "wof:id":421204211,
-    "wof:lastmodified":1563345287,
+    "wof:lastmodified":1566719312,
     "wof:name":"Kish",
     "wof:parent_id":1108719869,
     "wof:placetype":"locality",

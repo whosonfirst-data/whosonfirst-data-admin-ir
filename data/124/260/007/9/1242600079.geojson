@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"51.50518,30.71091,51.54518,30.75091",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0632\u062f\u0643\u064a\u0629"
     ],
@@ -124,10 +128,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0437\u0434\u0430\u043a"
     ],
-    "name:und_x_variant":[
-        "\u0645\u0632\u062f\u0643",
-        "Mazdak"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0632\u062f\u06a9"
     ],
@@ -157,7 +157,7 @@
         }
     ],
     "wof:id":1242600079,
-    "wof:lastmodified":1564117352,
+    "wof:lastmodified":1566719513,
     "wof:name":"Mazdak",
     "wof:parent_id":1108719911,
     "wof:placetype":"locality",

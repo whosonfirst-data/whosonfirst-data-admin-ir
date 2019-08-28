@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"59.01973,28.59038,59.05973,28.63038",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gaz\u0101n Khod\u0101st"
     ],
@@ -40,10 +44,6 @@
     ],
     "name:swe_x_preferred":[
         "Gaz\u0101n Khod\u0101st"
-    ],
-    "name:und_x_variant":[
-        "Gaz\u0101n Khv\u0101st",
-        "Jaz\u0101n Khv\u0101\u015f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":1292961859,
-    "wof:lastmodified":1564111391,
+    "wof:lastmodified":1566716983,
     "wof:name":"Gazan Khodast",
     "wof:parent_id":1108719861,
     "wof:placetype":"locality",

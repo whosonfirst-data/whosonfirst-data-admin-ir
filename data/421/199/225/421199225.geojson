@@ -10,8 +10,12 @@
     "geom:latitude":35.308,
     "geom:longitude":51.7267,
     "iso:country":"IR",
+    "lbl:bbox":"51.7067,35.288,51.7467,35.328",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u064a\u0634\u0648\u0627"
@@ -49,7 +53,7 @@
     "name:tur_x_preferred":[
         "Pi\u015fva"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P\u012bshy\u0101n"
     ],
     "name:zho_x_preferred":[
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":120972,
         "gp:id":2243247,
-        "qs:id":190661,
+        "qs_pg:id":190661,
         "wd:id":"Q720560"
     },
     "wof:country":"IR",
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":421199225,
-    "wof:lastmodified":1561767793,
+    "wof:lastmodified":1566719321,
     "wof:name":"Pishva",
     "wof:parent_id":1108720507,
     "wof:placetype":"locality",

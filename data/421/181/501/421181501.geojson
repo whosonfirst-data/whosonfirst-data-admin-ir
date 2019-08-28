@@ -10,8 +10,12 @@
     "geom:latitude":27.1865,
     "geom:longitude":56.2808,
     "iso:country":"IR",
+    "lbl:bbox":"56.2608,27.1665,56.3008,27.2065",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Bandar Abbas"
@@ -212,7 +216,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043d\u0434\u0435\u0440-\u0410\u0431\u0431\u0430\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bandar-e \u2018Abb\u0101s"
     ],
     "name:urd_x_preferred":[
@@ -264,7 +268,7 @@
     "wof:concordances":{
         "gn:id":141681,
         "gp:id":2218961,
-        "qs:id":493393,
+        "qs_pg:id":493393,
         "wd:id":"Q154814",
         "wk:page":"Bandar Abbas"
     },
@@ -281,7 +285,7 @@
         }
     ],
     "wof:id":421181501,
-    "wof:lastmodified":1563345327,
+    "wof:lastmodified":1566719316,
     "wof:name":"Bandar Abbas",
     "wof:parent_id":1108719863,
     "wof:placetype":"locality",

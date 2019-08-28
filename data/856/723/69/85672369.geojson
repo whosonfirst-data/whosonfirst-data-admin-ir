@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":38.791327,
     "lbl:longitude":44.783185,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u0622\u0630\u0631\u0628\u0627\u064a\u062c\u0627\u0646 \u063a\u0631\u0628\u064a",
     "mps:latitude":38.789966,
     "mps:longitude":44.818315,
@@ -235,7 +236,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0445\u0456\u0434\u043d\u0438\u0439 \u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ost\u0101n-e Ch\u0101h\u0101rom"
     ],
     "name:urd_x_preferred":[
@@ -328,9 +329,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-24",
+    "src:population_date":"2011-10-24",
     "statoids:area_km":"37,411",
     "statoids:area_mi":"14,445",
     "statoids:as_of_date":"2011-10-24",
@@ -355,7 +356,7 @@
         "gp:id":2345767,
         "hasc:id":"IR.WA",
         "iso:id":"IR-02",
-        "qs:id":890076,
+        "qs_pg:id":890076,
         "unlc:id":"IR-02",
         "wd:id":"Q134411",
         "wk:page":"West Azerbaijan Province"
@@ -376,11 +377,10 @@
     "wof:lang_x_spoken":[
         "fas"
     ],
-    "wof:lastmodified":1565722683,
+    "wof:lastmodified":1566716595,
     "wof:name":"West Azerbaijan",
     "wof:parent_id":85632361,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":3080576,
     "wof:population_rank":12,

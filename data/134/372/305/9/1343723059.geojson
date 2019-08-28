@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"55.95428,30.17749,55.99428,30.21749",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0647\u0648\u064a\u064a\u0629"
     ],
@@ -37,12 +41,6 @@
         "Dehoo\u2019yeh",
         "Deh\u2019\u016byeh",
         "\u062f\u0647\u0648\u06cc\u06cc\u0647"
-    ],
-    "name:und_x_variant":[
-        "Deh\u2019\u016byeh",
-        "Deh\u016b\u2019\u012byeh",
-        "Dehoo\u2019yeh",
-        "\u062f\u0647\u0648\u0626\u064a\u0647"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +66,7 @@
         }
     ],
     "wof:id":1343723059,
-    "wof:lastmodified":1564110276,
+    "wof:lastmodified":1566716563,
     "wof:name":"Dehu'iyeh",
     "wof:parent_id":1108720329,
     "wof:placetype":"locality",

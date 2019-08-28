@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"56.79401,30.75033,56.83401,30.79033",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "B\u012bd-e Kh\u016bn\u012b"
     ],
@@ -36,13 +40,6 @@
         "B\u0101b-e B\u012bd Khv\u0101n",
         "Bab B\u012bdkhan",
         "\u062f\u0631\u0628\u06cc\u062f\u062e\u0648\u0646"
-    ],
-    "name:und_x_variant":[
-        "Deh-B\u012bd Kh\u016bn",
-        "B\u012bdkh\u016bn",
-        "Bab B\u012bdkhan",
-        "B\u0101b-e B\u012bd Khv\u0101n",
-        "\u062f\u0627\u0631 \u0628\u06cc\u062f \u062e\u0648\u0646"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +65,7 @@
         }
     ],
     "wof:id":1226605965,
-    "wof:lastmodified":1564119550,
+    "wof:lastmodified":1566720189,
     "wof:name":"Dar-e Bid Khun",
     "wof:parent_id":1108720523,
     "wof:placetype":"locality",

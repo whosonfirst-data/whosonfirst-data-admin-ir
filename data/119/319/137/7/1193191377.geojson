@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"49.74506,34.58136,49.78506,34.62136",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0631\u0645\u0646\u0643"
     ],
@@ -46,9 +50,7 @@
     "name:und_x_variant":[
         "Darmank",
         "Dormonak",
-        "Dirmanik",
-        "\u062f\u0631\u0645\u0646\u0643",
-        "Dermanak"
+        "Dirmanik"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1193191377,
-    "wof:lastmodified":1564114629,
+    "wof:lastmodified":1566718365,
     "wof:name":"Dermanak",
     "wof:parent_id":1108720473,
     "wof:placetype":"locality",

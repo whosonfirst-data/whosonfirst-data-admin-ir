@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":26.307505,
     "lbl:longitude":57.852122,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u0647\u0631\u0645\u0632\u06af\u0627\u0646",
     "mps:latitude":27.650777,
     "mps:longitude":56.568391,
@@ -315,9 +316,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-24",
+    "src:population_date":"2011-10-24",
     "statoids:area_km":"70,697",
     "statoids:area_mi":"27,296",
     "statoids:as_of_date":"2011-10-24",
@@ -331,7 +332,6 @@
     "statoids:timezone":"+3:30~",
     "statoids:type":"province",
     "unlc:subdivision":"IR-23",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191569,
         85632361
@@ -343,7 +343,7 @@
         "gp:id":2345776,
         "hasc:id":"IR.HG",
         "iso:id":"IR-23",
-        "qs:id":894893,
+        "qs_pg:id":894893,
         "unlc:id":"IR-23",
         "wd:id":"Q633659",
         "wk:page":"Hormozgan Province"
@@ -364,11 +364,10 @@
     "wof:lang_x_spoken":[
         "fas"
     ],
-    "wof:lastmodified":1565722687,
+    "wof:lastmodified":1566716599,
     "wof:name":"Hormozgan",
     "wof:parent_id":85632361,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1578183,
     "wof:population_rank":12,

@@ -10,8 +10,12 @@
     "geom:latitude":30.75972,
     "geom:longitude":49.705,
     "iso:country":"IR",
+    "lbl:bbox":"49.685,30.73972,49.725,30.77972",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0645\u064a\u062f\u064a\u0629"
@@ -70,7 +74,7 @@
     "name:tur_x_preferred":[
         "Omidiye"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sherkat-e Naft"
     ],
     "name:zho_x_preferred":[
@@ -109,7 +113,7 @@
     "wof:concordances":{
         "gn:id":121861,
         "gp:id":2255014,
-        "qs:id":184925,
+        "qs_pg:id":184925,
         "wd:id":"Q719776",
         "wk:page":"Omidiyeh"
     },
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":421198719,
-    "wof:lastmodified":1563345343,
+    "wof:lastmodified":1566719318,
     "wof:name":"Omidiyeh",
     "wof:parent_id":1108720285,
     "wof:placetype":"locality",

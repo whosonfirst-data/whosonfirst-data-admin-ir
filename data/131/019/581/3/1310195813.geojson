@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"51.67159,30.16102,51.71159,30.20102",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "Cham-e Zeyt\u016bn"
     ],
@@ -35,10 +39,6 @@
     ],
     "name:msa_x_preferred":[
         "Cham Zeytun"
-    ],
-    "name:und_x_variant":[
-        "Cham Zeyt\u016bn",
-        "\u0686\u0645 \u0632\u06cc\u062a\u0648\u0646"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +64,7 @@
         }
     ],
     "wof:id":1310195813,
-    "wof:lastmodified":1564115855,
+    "wof:lastmodified":1566718859,
     "wof:name":"Cham Zeytun",
     "wof:parent_id":1108720209,
     "wof:placetype":"locality",

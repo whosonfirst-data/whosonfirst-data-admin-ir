@@ -10,6 +10,9 @@
     "geom:latitude":31.0287,
     "geom:longitude":61.5012,
     "iso:country":"IR",
+    "lbl:bbox":"61.4812,31.0087,61.5212,31.0487",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -97,9 +100,6 @@
     ],
     "name:tur_x_preferred":[
         "Zabul"
-    ],
-    "name:unk_x_variant":[
-        "\u0632\u0627\u0628\u0644"
     ],
     "name:urd_x_preferred":[
         "\u0632\u0628\u0648\u0644"
@@ -235,7 +235,7 @@
     "wof:concordances":{
         "gn:id":1113217,
         "gp:id":2255305,
-        "qs:id":1029747,
+        "qs_pg:id":1029747,
         "wd:id":"Q139024",
         "wk:page":"Zabol"
     },
@@ -252,7 +252,7 @@
         }
     ],
     "wof:id":421175751,
-    "wof:lastmodified":1563345336,
+    "wof:lastmodified":1566719317,
     "wof:name":"Zabol",
     "wof:parent_id":1108720513,
     "wof:placetype":"locality",

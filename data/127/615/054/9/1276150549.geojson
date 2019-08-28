@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"60.29619,35.39798,60.33619,35.43798",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0635\u0631 \u0623\u0628\u0627\u062f"
     ],
@@ -47,10 +51,6 @@
     ],
     "name:tur_x_preferred":[
         "Nasrabad"
-    ],
-    "name:und_x_variant":[
-        "No\u015frat\u0101b\u0101d",
-        "Nusrat\u0101b\u0101d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":1276150549,
-    "wof:lastmodified":1564112560,
+    "wof:lastmodified":1566717466,
     "wof:name":"Nasrabad",
     "wof:parent_id":1108720499,
     "wof:placetype":"locality",

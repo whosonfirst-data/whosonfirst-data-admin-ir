@@ -10,8 +10,12 @@
     "geom:latitude":31.61283,
     "geom:longitude":55.41067,
     "iso:country":"IR",
+    "lbl:bbox":"55.39067,31.59283,55.43067,31.63283",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0627\u0641\u0642"
@@ -176,7 +180,7 @@
     "wof:concordances":{
         "gn:id":142255,
         "gp:id":2254372,
-        "qs:id":122364,
+        "qs_pg:id":122364,
         "wd:id":"Q799795",
         "wk:page":"Bafq"
     },
@@ -193,7 +197,7 @@
         }
     ],
     "wof:id":421197303,
-    "wof:lastmodified":1563345360,
+    "wof:lastmodified":1566719320,
     "wof:name":"Bafq",
     "wof:parent_id":1108719849,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":33.487548,
     "lbl:longitude":48.459986,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u0644\u0631\u0633\u062a\u0627\u0646",
     "mps:latitude":33.532421,
     "mps:longitude":48.298559,
@@ -251,7 +252,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0443\u0440\u0435\u0441\u0442\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Larestan"
     ],
     "name:urd_x_preferred":[
@@ -344,9 +345,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-24",
+    "src:population_date":"2011-10-24",
     "statoids:area_km":"28,294",
     "statoids:area_mi":"10,924",
     "statoids:as_of_date":"2011-10-24",
@@ -371,7 +372,7 @@
         "gp:id":2345782,
         "hasc:id":"IR.LO",
         "iso:id":"IR-20",
-        "qs:id":229377,
+        "qs_pg:id":229377,
         "unlc:id":"IR-20",
         "wd:id":"Q1131727",
         "wk:page":"Lorestan Province"
@@ -392,11 +393,10 @@
     "wof:lang_x_spoken":[
         "fas"
     ],
-    "wof:lastmodified":1565722685,
+    "wof:lastmodified":1566716597,
     "wof:name":"Lorestan",
     "wof:parent_id":85632361,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1754243,
     "wof:population_rank":12,

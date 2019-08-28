@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"48.78175,31.02975,48.82175,31.06975",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "Khosrav\u012byeh"
     ],
@@ -32,10 +36,6 @@
         "Khosrav\u012b",
         "\u062e\u0633\u0631\u0648\u06cc",
         "\u062e\u0633\u0631\u0648\u06cc\u0647"
-    ],
-    "name:und_x_variant":[
-        "Khosrav\u012b",
-        "\u062e\u0633\u0631\u0648\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":1242647155,
-    "wof:lastmodified":1537644541,
+    "wof:lastmodified":1566719728,
     "wof:name":"Khosraviyeh",
     "wof:parent_id":1108719793,
     "wof:placetype":"locality",

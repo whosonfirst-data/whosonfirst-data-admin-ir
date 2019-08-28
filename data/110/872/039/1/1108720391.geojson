@@ -12,6 +12,8 @@
     "iso:country":"IR",
     "lbl:latitude":33.260711,
     "lbl:longitude":58.085419,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"South Khorasan",
     "meso:adm1_loc":"\u062e\u0631\u0627\u0633\u0627\u0646 \u062c\u0646\u0648\u0628\u064a",
     "meso:adm2_alt":"NO DATA",
@@ -27,6 +29,7 @@
     "mps:longitude":58.085419,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0633\u0631\u0627\u064a\u0627\u0646"
     ],
@@ -55,7 +58,7 @@
         "\u0633\u0631\u0627\u06cc\u0627\u0646"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632361,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108720391,
-    "wof:lastmodified":1564115154,
+    "wof:lastmodified":1566718590,
     "wof:name":"Sarayan",
     "wof:parent_id":85672391,
     "wof:placetype":"county",

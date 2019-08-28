@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"58.06013,26.87438,58.10013,26.91438",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0633\u062a\u0627\u0646"
     ],
@@ -38,9 +42,6 @@
     ],
     "name:kat_x_preferred":[
         "\u10d0\u10e1\u10e2\u10d0\u10dc\u10d8"
-    ],
-    "name:und_x_variant":[
-        "Est\u0101n"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1242738937,
-    "wof:lastmodified":1564117167,
+    "wof:lastmodified":1566719431,
     "wof:name":"Astan",
     "wof:parent_id":1108720029,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"59.86047,34.71075,59.90047,34.75075",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062e\u0631\u0645 \u0622\u0628\u0627\u062f"
     ],
@@ -152,9 +156,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u043e\u0440\u0440\u0435\u043c\u0430\u0431\u0430\u0434"
     ],
-    "name:und_x_variant":[
-        "\u062e\u0631\u0645 \u0622\u0628\u0627\u062f"
-    ],
     "name:urd_x_preferred":[
         "\u062e\u0631\u0645\u200c\u0622\u0628\u0627\u062f"
     ],
@@ -181,7 +182,7 @@
         }
     ],
     "wof:id":1209242505,
-    "wof:lastmodified":1564113388,
+    "wof:lastmodified":1566717814,
     "wof:name":"Khorramabad",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",

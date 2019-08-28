@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"54.62592,36.99835,54.66592,37.03835",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0631\u062f"
     ],
@@ -37,9 +41,6 @@
     ],
     "name:msa_x_preferred":[
         "Kord"
-    ],
-    "name:und_x_variant":[
-        "\u0643\u0631\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1276483899,
-    "wof:lastmodified":1564112657,
+    "wof:lastmodified":1566717505,
     "wof:name":"Kord",
     "wof:parent_id":1108719813,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"48.0743,33.4304,48.1143,33.4704",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0648\u0629 \u062a\u0634\u0627\u0629 \u0641\u0644\u0627\u0648\u0646\u062f"
     ],
@@ -40,9 +44,7 @@
         "\u062a\u0648\u0647 \u0686\u0627\u0647 \u0641\u0644\u0627\u0648\u0646\u062f"
     ],
     "name:und_x_variant":[
-        "T\u016bch\u0101h",
         "T\u016bh Ch\u0101h-e Fal\u0101vand",
-        "\u062a\u0648\u0686\u0627\u0647 \u0641\u0644\u0627\u0648\u0646\u062f",
         "T\u016bh Ch\u0101h Fal\u0101vand"
     ],
     "src:geom":"geonames",
@@ -69,7 +71,7 @@
         }
     ],
     "wof:id":1310458033,
-    "wof:lastmodified":1564115699,
+    "wof:lastmodified":1566718800,
     "wof:name":"Tuchah Falavand",
     "wof:parent_id":1108720145,
     "wof:placetype":"locality",

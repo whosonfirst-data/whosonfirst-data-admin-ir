@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"59.23709,32.87997,59.27709,32.91997",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "S\u012bst\u0101nak"
     ],
@@ -32,10 +36,6 @@
         "\u0633\u064a\u0633\u062a\u0627\u0646\u06a9",
         "S\u012bst\u016bnak",
         "\u0633\u06cc\u0633\u062a\u0627\u0646\u06a9"
-    ],
-    "name:und_x_variant":[
-        "S\u012bst\u016bnak",
-        "\u0633\u064a\u0633\u062a\u0627\u0646\u06a9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":1293716337,
-    "wof:lastmodified":1564110873,
+    "wof:lastmodified":1566716797,
     "wof:name":"Sistanak",
     "wof:parent_id":1108719895,
     "wof:placetype":"locality",

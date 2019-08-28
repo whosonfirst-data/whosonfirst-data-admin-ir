@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":36.86373,
     "lbl:longitude":50.302417,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Isfahan",
     "meso:adm1_loc":"\u0627\u0635\u0641\u0647\u0627\u0646",
     "meso:adm2_alt":"NO DATA",
@@ -33,6 +35,7 @@
     "mps:longitude":50.302417,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0631\u0648\u062f\u0633\u0631"
     ],
@@ -88,7 +91,7 @@
         "\u0634\u06c1\u0631\u0633\u062a\u0627\u0646 \u0631\u0648\u062f\u0633\u0631"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1108720365,
-    "wof:lastmodified":1563343157,
+    "wof:lastmodified":1566718587,
     "wof:name":"Rudsar",
     "wof:parent_id":85672383,
     "wof:placetype":"county",

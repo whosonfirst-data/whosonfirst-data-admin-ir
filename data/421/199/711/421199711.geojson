@@ -10,6 +10,9 @@
     "geom:latitude":35.57291,
     "geom:longitude":53.39714,
     "iso:country":"IR",
+    "lbl:bbox":"53.37714,35.55291,53.41714,35.59291",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -200,7 +203,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043c\u043d\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Samn\u0101n"
     ],
     "name:urd_x_preferred":[
@@ -340,7 +343,7 @@
     "wof:concordances":{
         "gn:id":116402,
         "gp:id":2255163,
-        "qs:id":1222006,
+        "qs_pg:id":1222006,
         "wd:id":"Q203045",
         "wk:page":"Semnan, Iran"
     },
@@ -357,7 +360,7 @@
         }
     ],
     "wof:id":421199711,
-    "wof:lastmodified":1563345373,
+    "wof:lastmodified":1566719322,
     "wof:name":"Semnan",
     "wof:parent_id":1108720419,
     "wof:placetype":"locality",

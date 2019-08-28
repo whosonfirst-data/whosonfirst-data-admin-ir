@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"60.3883,32.4368,60.4283,32.4768",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "M\u0101kh\u016bn\u012bk"
     ],
@@ -50,12 +54,7 @@
         "\u041c\u043e\u0445\u0443\u043d\u0438\u043a"
     ],
     "name:und_x_variant":[
-        "Mo\u1e29ammadkh\u0101nak",
-        "M\u0101h-i-Kh\u016bpik",
-        "M\u0101h Kh\u016bn\u012bk",
-        "Mak-i-Kh\u016bnik",
-        "Makhoonik",
-        "M\u0101h-i-Kh\u016bnik"
+        "Makhoonik"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -81,7 +80,7 @@
         }
     ],
     "wof:id":1360213255,
-    "wof:lastmodified":1564116437,
+    "wof:lastmodified":1566719102,
     "wof:name":"Makhunik",
     "wof:parent_id":1108720397,
     "wof:placetype":"locality",

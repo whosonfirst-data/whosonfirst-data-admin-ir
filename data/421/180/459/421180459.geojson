@@ -10,8 +10,12 @@
     "geom:latitude":27.6652,
     "geom:longitude":54.1371,
     "iso:country":"IR",
+    "lbl:bbox":"54.1171,27.6452,54.1571,27.6852",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u063a\u0631\u0627\u0634"
@@ -64,7 +68,7 @@
     "name:tur_x_preferred":[
         "Gera\u015f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gir\u0101sh"
     ],
     "name:urd_x_preferred":[
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":133595,
         "gp:id":2228539,
-        "qs:id":432877,
+        "qs_pg:id":432877,
         "wd:id":"Q720672",
         "wk:page":"Gerash"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421180459,
-    "wof:lastmodified":1563345315,
+    "wof:lastmodified":1566719315,
     "wof:name":"Girash",
     "wof:parent_id":1108720185,
     "wof:placetype":"locality",

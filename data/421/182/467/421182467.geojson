@@ -10,6 +10,9 @@
     "geom:latitude":30.3392,
     "geom:longitude":48.3043,
     "iso:country":"IR",
+    "lbl:bbox":"48.2843,30.3192,48.3243,30.3592",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -383,7 +386,7 @@
     "wof:concordances":{
         "gn:id":145459,
         "gp:id":2254271,
-        "qs:id":912924,
+        "qs_pg:id":912924,
         "wd:id":"Q63049",
         "wk:page":"Abadan, Iran"
     },
@@ -400,7 +403,7 @@
         }
     ],
     "wof:id":421182467,
-    "wof:lastmodified":1563345397,
+    "wof:lastmodified":1566719324,
     "wof:name":"Abadan",
     "wof:parent_id":1108719777,
     "wof:placetype":"locality",

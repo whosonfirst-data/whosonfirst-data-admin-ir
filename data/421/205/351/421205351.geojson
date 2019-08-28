@@ -10,8 +10,12 @@
     "geom:latitude":36.76083,
     "geom:longitude":54.47528,
     "iso:country":"IR",
+    "lbl:bbox":"54.45528,36.74083,54.49528,36.78083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0646\u0627\u0647\u0627\u0631\u062e\u0648\u0631\u0627\u0646"
@@ -33,7 +37,7 @@
     "name:nld_x_preferred":[
         "Nahar Khvoran"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nah\u0101r Khor\u0101n"
     ],
     "qs:gn_country":"IR",
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":122916,
         "gp:id":2241028,
-        "qs:id":262524,
+        "qs_pg:id":262524,
         "wd:id":"Q6959197",
         "wk:page":"Nahar Khoran"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421205351,
-    "wof:lastmodified":1563345307,
+    "wof:lastmodified":1566719314,
     "wof:name":"Nahar Khvoran",
     "wof:parent_id":1108720041,
     "wof:placetype":"locality",

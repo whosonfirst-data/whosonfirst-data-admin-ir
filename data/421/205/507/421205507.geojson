@@ -10,8 +10,12 @@
     "geom:latitude":37.8008,
     "geom:longitude":48.9037,
     "iso:country":"IR",
+    "lbl:bbox":"48.8837,37.7808,48.9237,37.8208",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0647\u0634\u062a\u0628\u0631"
@@ -73,7 +77,7 @@
     "name:tur_x_preferred":[
         "He\u015ftper"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gashpar"
     ],
     "name:urd_x_preferred":[
@@ -109,7 +113,7 @@
     "wof:concordances":{
         "gn:id":113343,
         "gp:id":2251263,
-        "qs:id":263479,
+        "qs_pg:id":263479,
         "wd:id":"Q2427450",
         "wk:page":"Hashtpar"
     },
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":421205507,
-    "wof:lastmodified":1563345308,
+    "wof:lastmodified":1566719314,
     "wof:name":"Talesh",
     "wof:parent_id":1108720487,
     "wof:placetype":"locality",

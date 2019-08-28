@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":28.665254,
     "lbl:longitude":51.53051,
+    "lbl:min_zoom":8.0,
     "meso:adm1_loc":"\u0628\u0648\u0634\u0647\u0631",
     "mps:latitude":28.662503,
     "mps:longitude":51.502896,
@@ -356,9 +357,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-24",
+    "src:population_date":"2011-10-24",
     "statoids:area_km":"22,743",
     "statoids:area_mi":"8,781",
     "statoids:as_of_date":"2011-10-24",
@@ -383,7 +384,7 @@
         "gp:id":2345781,
         "hasc:id":"IR.BS",
         "iso:id":"IR-06",
-        "qs:id":219564,
+        "qs_pg:id":219564,
         "unlc:id":"IR-06",
         "wd:id":"Q132945",
         "wk:page":"Bushehr Province"
@@ -404,11 +405,10 @@
     "wof:lang_x_spoken":[
         "fas"
     ],
-    "wof:lastmodified":1565722676,
+    "wof:lastmodified":1566716586,
     "wof:name":"Bushehr",
     "wof:parent_id":85632361,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1032949,
     "wof:population_rank":12,

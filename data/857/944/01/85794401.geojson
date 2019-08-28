@@ -15,6 +15,7 @@
     "iso:country":"IE",
     "lbl:latitude":53.29755,
     "lbl:longitude":-6.311147,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.297972,
     "mps:longitude":-6.311651,
     "mz:hierarchy_label":1,
@@ -69,10 +70,6 @@
     "name:swe_x_preferred":[
         "Templeogue"
     ],
-    "name:unk_x_variant":[
-        "Templeogue",
-        "Templeoge"
-    ],
     "qs:gn_adm0_cc":"IE",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2964574,
@@ -101,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:elevation":55.0,
     "wd:latitude":53.2985,
@@ -117,7 +114,6 @@
     "wof:concordances":{
         "gn:id":3315404,
         "gp:id":562337,
-        "qs:id":906057,
         "qs_pg:id":906057,
         "wd:id":"Q2668330",
         "wk:page":"Templeogue"
@@ -137,7 +133,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563338723,
+    "wof:lastmodified":1566716584,
     "wof:name":"Templeoge",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

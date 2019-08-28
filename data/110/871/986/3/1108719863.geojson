@@ -12,6 +12,8 @@
     "iso:country":"IR",
     "lbl:latitude":27.552713,
     "lbl:longitude":56.322912,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Hormozgan",
     "meso:adm1_loc":"\u0647\u0631\u0645\u0632\u06af\u0627\u0646",
     "meso:adm2_alt":"Baghemalek",
@@ -27,6 +29,7 @@
     "mps:longitude":56.322912,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Bandar Abbas"
     ],
@@ -199,7 +202,7 @@
         "\u963f\u5df4\u65af\u6e2f"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632361,
@@ -221,7 +224,7 @@
         }
     ],
     "wof:id":1108719863,
-    "wof:lastmodified":1564115222,
+    "wof:lastmodified":1566718617,
     "wof:name":"Bandar Abbas",
     "wof:parent_id":85672337,
     "wof:placetype":"county",

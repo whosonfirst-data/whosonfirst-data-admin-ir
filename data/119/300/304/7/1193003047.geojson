@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"49.97942,36.89253,50.01942,36.93253",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u062f\u0633\u0631\u0627"
     ],
@@ -46,9 +50,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0454\u0434-\u0421\u0430\u0440\u0430"
-    ],
-    "name:und_x_variant":[
-        "\u0633\u06cc\u062f \u0633\u0631\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +75,7 @@
         }
     ],
     "wof:id":1193003047,
-    "wof:lastmodified":1564114256,
+    "wof:lastmodified":1566718195,
     "wof:name":"Seyyed Sara",
     "wof:parent_id":1108720459,
     "wof:placetype":"locality",

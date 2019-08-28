@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"50.07198,37.17115,50.11198,37.21115",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u0632\u064a\u0646"
     ],
@@ -56,9 +60,6 @@
     "name:swe_x_preferred":[
         "Dizin"
     ],
-    "name:und_x_variant":[
-        "\u062f\u06cc\u0632\u06cc\u0646"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1193263233,
-    "wof:lastmodified":1564114641,
+    "wof:lastmodified":1566718371,
     "wof:name":"Dizin",
     "wof:parent_id":1108720173,
     "wof:placetype":"locality",

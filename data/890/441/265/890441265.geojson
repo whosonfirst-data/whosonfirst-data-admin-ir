@@ -11,10 +11,14 @@
     "geom:longitude":51.69553,
     "gn:country":"IR",
     "gn:fcode":"PPL",
-    "gn:pop":33607,
+    "gn:population":33607,
     "iso:country":"IR",
+    "lbl:bbox":"51.67553,32.77978,51.71553,32.81978",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0644\u062a \u0623\u0628\u0627\u062f"
     ],
@@ -55,7 +59,7 @@
     "name:tur_x_preferred":[
         "\u015eapurabad"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Daulat\u0101b\u0101d"
     ],
     "qs:name":"Dowlat\u0101b\u0101d",
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":418868,
         "gp:id":2236155,
-        "qs:id":274987,
+        "qs_pg:id":274987,
         "wd:id":"Q2616779"
     },
     "wof:country":"IR",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":890441265,
-    "wof:lastmodified":1563345402,
+    "wof:lastmodified":1566719325,
     "wof:name":"Dowlat\u0101b\u0101d",
     "wof:parent_id":1108719901,
     "wof:placetype":"locality",

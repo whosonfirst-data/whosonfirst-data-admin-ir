@@ -10,6 +10,9 @@
     "geom:latitude":33.8973,
     "geom:longitude":48.7516,
     "iso:country":"IR",
+    "lbl:bbox":"48.7316,33.8773,48.7716,33.9173",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -141,7 +144,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0440\u0443\u0434\u0436\u0435\u0440\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u016br\u016bj\u012brd"
     ],
     "name:urd_x_preferred":[
@@ -279,7 +282,7 @@
     "wof:concordances":{
         "gn:id":140044,
         "gp:id":2254458,
-        "qs:id":273719,
+        "qs_pg:id":273719,
         "wd:id":"Q605454",
         "wk:page":"Borujerd"
     },
@@ -296,7 +299,7 @@
         }
     ],
     "wof:id":421166887,
-    "wof:lastmodified":1563345253,
+    "wof:lastmodified":1566719308,
     "wof:name":"Borujerd",
     "wof:parent_id":1108719905,
     "wof:placetype":"locality",

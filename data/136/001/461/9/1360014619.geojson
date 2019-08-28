@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"58.25804,37.09531,58.29804,37.13531",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ch\u012btgar"
     ],
@@ -36,9 +40,6 @@
     ],
     "name:swe_x_preferred":[
         "Ch\u012btgar"
-    ],
-    "name:und_x_variant":[
-        "\u0686\u06cc\u062a\u06af\u0631"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1360014619,
-    "wof:lastmodified":1564116307,
+    "wof:lastmodified":1566719045,
     "wof:name":"Chitgar",
     "wof:parent_id":1108720327,
     "wof:placetype":"locality",

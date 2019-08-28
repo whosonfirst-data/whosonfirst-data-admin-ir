@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"44.8806,37.1888,44.9206,37.2288",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0648\u0631\u0632\u0646\u064a"
     ],
@@ -57,9 +61,6 @@
     "name:swe_x_preferred":[
         "Lowrz\u012bn\u012b"
     ],
-    "name:und_x_variant":[
-        "\u0644\u0648\u0631\u0632\u06cc\u0646\u06cc"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1193150613,
-    "wof:lastmodified":1564114359,
+    "wof:lastmodified":1566718242,
     "wof:name":"Lowrzini",
     "wof:parent_id":1108720289,
     "wof:placetype":"locality",

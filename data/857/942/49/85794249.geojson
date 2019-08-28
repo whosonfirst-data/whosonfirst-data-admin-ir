@@ -14,6 +14,7 @@
     "iso:country":"IE",
     "lbl:latitude":53.285581,
     "lbl:longitude":-6.168272,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.279136,
     "mps:longitude":-6.177975,
     "mz:hierarchy_label":1,
@@ -56,10 +57,6 @@
     "name:rus_x_preferred":[
         "\u0414\u0438\u043d\u0441\u0433\u0440\u0435\u0439\u043d\u0434\u0436"
     ],
-    "name:unk_x_variant":[
-        "Deansgrange",
-        "Deans Grange"
-    ],
     "qs:gn_adm0_cc":"IE",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":2964574,
@@ -88,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":337,
     "wof:belongsto":[
         102191581,
@@ -100,7 +97,6 @@
     "wof:concordances":{
         "gn:id":3315284,
         "gp:id":560603,
-        "qs:id":243293,
         "qs_pg:id":243293,
         "wd:id":"Q2085861",
         "wk:page":"Deansgrange"
@@ -120,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563338722,
+    "wof:lastmodified":1566716584,
     "wof:name":"Deans Grange",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",

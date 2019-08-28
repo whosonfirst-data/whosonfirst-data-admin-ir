@@ -10,8 +10,12 @@
     "geom:latitude":36.57352,
     "geom:longitude":52.01382,
     "iso:country":"IR",
+    "lbl:bbox":"51.99382,36.55352,52.03382,36.59352",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0646\u0648\u0631"
@@ -69,7 +73,7 @@
     "name:tur_x_preferred":[
         "Nur"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u016blehdeh"
     ],
     "qs:gn_country":"IR",
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":113797,
         "gp:id":2255012,
-        "qs:id":229339,
+        "qs_pg:id":229339,
         "wd:id":"Q1553458",
         "wk:page":"Nur, Iran"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421203165,
-    "wof:lastmodified":1563345295,
+    "wof:lastmodified":1566719313,
     "wof:name":"Nur",
     "wof:parent_id":1108720283,
     "wof:placetype":"locality",

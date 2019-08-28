@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"56.75081,29.64471,56.79081,29.68471",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0646\u063a \u0635\u064a\u0627\u062f"
     ],
@@ -34,9 +38,6 @@
     "name:fas_x_variant":[
         "Sang-e \u015eayy\u0101d",
         "\u0633\u0646\u06af \u0635\u06cc\u0627\u062f",
-        "Sang-e Sey\u0101h"
-    ],
-    "name:und_x_variant":[
         "Sang-e Sey\u0101h"
     ],
     "src:geom":"geonames",
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1226303797,
-    "wof:lastmodified":1564120281,
+    "wof:lastmodified":1566720393,
     "wof:name":"Sang-e Sayyad",
     "wof:parent_id":1108719879,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"50.06546,36.8632,50.10546,36.9032",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0643\u0631\u0648\u062f"
     ],
@@ -39,9 +43,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043a\u0440\u0443\u0434"
-    ],
-    "name:und_x_variant":[
-        "\u06a9\u0627\u06a9\u0631\u0648\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":1259768067,
-    "wof:lastmodified":1564118648,
+    "wof:lastmodified":1566719932,
     "wof:name":"Kakrud",
     "wof:parent_id":1108719805,
     "wof:placetype":"locality",

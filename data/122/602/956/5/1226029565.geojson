@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"49.94789,37.05558,49.98789,37.09558",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0648\u0627\u062c\u0627\u0631\u063a\u0627\u0647"
     ],
@@ -53,10 +57,6 @@
     "name:tur_x_preferred":[
         "Vacargah"
     ],
-    "name:und_x_variant":[
-        "V\u0101j\u0101rg\u0101h",
-        "\u0648\u062c\u0627\u0631\u06af\u0627\u0647"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":1226029565,
-    "wof:lastmodified":1564119483,
+    "wof:lastmodified":1566720170,
     "wof:name":"Vejargah",
     "wof:parent_id":1108720183,
     "wof:placetype":"locality",

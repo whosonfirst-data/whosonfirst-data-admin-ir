@@ -10,8 +10,12 @@
     "geom:latitude":33.22052,
     "geom:longitude":50.31497,
     "iso:country":"IR",
+    "lbl:bbox":"50.29497,33.20052,50.33497,33.24052",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062e\u0648\u0627\u0646\u0633\u0627\u0631"
@@ -67,7 +71,7 @@
     "name:tur_x_preferred":[
         "Hansar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khansar"
     ],
     "name:urd_x_preferred":[
@@ -106,7 +110,7 @@
     "wof:concordances":{
         "gn:id":127033,
         "gp:id":2254835,
-        "qs:id":184908,
+        "qs_pg:id":184908,
         "wd:id":"Q2718227",
         "wk:page":"Khvansar"
     },
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":421198717,
-    "wof:lastmodified":1563345344,
+    "wof:lastmodified":1566719318,
     "wof:name":"Khvansar",
     "wof:parent_id":1108720129,
     "wof:placetype":"locality",

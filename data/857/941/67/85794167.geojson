@@ -14,6 +14,7 @@
     "iso:country":"IE",
     "lbl:latitude":53.330235,
     "lbl:longitude":-6.232785,
+    "lbl:max_zoom":18.0,
     "mps:latitude":53.335169,
     "mps:longitude":-6.247325,
     "mz:hierarchy_label":1,
@@ -51,9 +52,6 @@
     "name:rus_x_preferred":[
         "\u0411\u043e\u043b\u0441\u0431\u0440\u0438\u0434\u0436"
     ],
-    "name:unk_x_variant":[
-        "Ballsbridge"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0644\u0632\u0628\u0631\u06cc\u062c"
     ],
@@ -88,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:latitude":53.333333,
     "wd:longitude":-6.233333,
     "wd:wordcount":471,
@@ -102,7 +100,6 @@
     "wof:concordances":{
         "gn:id":2966685,
         "gp:id":559641,
-        "qs:id":243279,
         "qs_pg:id":243279,
         "wd:id":"Q2085900",
         "wk:page":"Ballsbridge"
@@ -122,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563338713,
+    "wof:lastmodified":1566716581,
     "wof:name":"Ballsbridge",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",
