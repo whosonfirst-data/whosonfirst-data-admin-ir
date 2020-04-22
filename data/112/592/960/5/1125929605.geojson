@@ -97,6 +97,9 @@
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03c3\u03ac\u03bd\u03c4"
     ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03c3\u03c7\u03ac\u03bd\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Mashhad"
     ],
@@ -169,6 +172,15 @@
     "name:kat_x_preferred":[
         "\u10db\u10d4\u10e8\u10f0\u10d4\u10d3\u10d8"
     ],
+    "name:kaz_cn_x_preferred":[
+        "\u0645\u06d5\u0634\u062d\u06d5\u062f"
+    ],
+    "name:kaz_kz_x_preferred":[
+        "\u041c\u0435\u0448\u0445\u0435\u0434"
+    ],
+    "name:kaz_tr_x_preferred":[
+        "Me\u015fxed"
+    ],
     "name:kaz_x_preferred":[
         "\u041c\u0435\u0448\u04bb\u0435\u0434"
     ],
@@ -213,6 +225,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0645\u0634\u0647\u062f"
+    ],
+    "name:nan_x_preferred":[
+        "Mashhad"
     ],
     "name:nld_x_preferred":[
         "Mashhad"
@@ -271,6 +286,12 @@
     "name:sqi_x_preferred":[
         "Meshhed"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u041c\u0435\u0448\u0445\u0435\u0434"
+    ],
+    "name:srp_el_x_preferred":[
+        "Me\u0161hed"
+    ],
     "name:srp_x_preferred":[
         "\u041c\u0435\u0448\u0445\u0435\u0434"
     ],
@@ -319,8 +340,23 @@
     "name:war_x_preferred":[
         "Mashhad"
     ],
+    "name:wuu_x_preferred":[
+        "\u9a6c\u4ec0\u54c8\u5fb7"
+    ],
     "name:yue_x_preferred":[
         "\u99ac\u65af\u54c8\u5fb7"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u9a6c\u4ec0\u54c8\u5fb7"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u99ac\u4ec0\u54c8\u5fb7"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u9a6c\u4ec0\u54c8\u5fb7"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u99ac\u4ec0\u54c8\u5fb7"
     ],
     "name:zho_x_preferred":[
         "\u99ac\u4ec0\u54c8\u5fb7"
@@ -342,8 +378,8 @@
     "wof:belongsto":[
         102191569,
         85632361,
-        85672397,
-        1108720227
+        1108720227,
+        85672397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -364,7 +400,7 @@
         }
     ],
     "wof:id":1125929605,
-    "wof:lastmodified":1566719327,
+    "wof:lastmodified":1587427901,
     "wof:name":"Mashhad",
     "wof:parent_id":1108720227,
     "wof:placetype":"locality",
