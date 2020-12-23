@@ -14,7 +14,7 @@
     "lbl:max_zoom":13.0,
     "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":6.1,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
@@ -384,13 +384,14 @@
     "wof:belongsto":[
         102191569,
         85632361,
-        85672415,
-        1108720105
+        1108720105,
+        85672415
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":128747,
         "gp:id":2254777,
+        "ne:id":1159142617,
         "qs_pg:id":493438,
         "wd:id":"Q36529",
         "wk:page":"Karaj"
@@ -408,7 +409,8 @@
         }
     ],
     "wof:id":421181507,
-    "wof:lastmodified":1566719316,
+    "wof:lastmodified":1608688162,
+    "wof:megacity":1,
     "wof:name":"Karaj",
     "wof:parent_id":1108720105,
     "wof:placetype":"locality",
