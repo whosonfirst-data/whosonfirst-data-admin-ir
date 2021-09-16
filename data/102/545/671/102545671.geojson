@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"49.535,30.8352777778,49.535,30.8352777778",
+    "geom:bbox":"49.535,30.835278,49.535,30.835278",
     "geom:latitude":30.835278,
     "geom:longitude":49.535,
     "iso:country":"IR",
@@ -15,6 +15,10 @@
     "mz:min_zoom":13.0,
     "name:eng_x_preferred":[
         "Omidiyeh Air Base"
+    ],
+    "name:eng_x_variant":[
+        "OMI",
+        "OIAJ"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0627\u0645\u06cc\u062f\u06cc\u0647"
@@ -54,7 +58,7 @@
         "wd:id":"Q3448553"
     },
     "wof:country":"IR",
-    "wof:geomhash":"b52928a076ccbe26ea96ca72f0e9dae1",
+    "wof:geomhash":"7a965ce5020858adf960cdaba5888b54",
     "wof:hierarchy":[
         {
             "campus_id":102545671,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":102545671,
-    "wof:lastmodified":1566716032,
+    "wof:lastmodified":1631744729,
     "wof:name":"Omidiyeh Airport",
     "wof:parent_id":85672325,
     "wof:placetype":"campus",
@@ -76,9 +80,9 @@
 },
   "bbox": [
     49.535,
-    30.835277777778,
+    30.835278,
     49.535,
-    30.835277777778
+    30.835278
 ],
-  "geometry": {"coordinates":[49.535,30.835277777778],"type":"Point"}
+  "geometry": {"coordinates":[49.535,30.835278],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"50.82805556,30.3375,50.82805556,30.3375",
+    "geom:bbox":"50.828056,30.3375,50.828056,30.3375",
     "geom:latitude":30.3375,
     "geom:longitude":50.828056,
     "iso:country":"IR",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "Gachsaran Airport"
+    ],
+    "name:eng_x_variant":[
+        "GCH",
+        "OIAH"
     ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Gachsaran"
@@ -53,7 +57,7 @@
         "wd:id":"Q15221241"
     },
     "wof:country":"IR",
-    "wof:geomhash":"392c005060dae812cbb3fed958590d88",
+    "wof:geomhash":"e5213850353c051e8bf9fff5d9631e5c",
     "wof:hierarchy":[
         {
             "campus_id":102545695,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":102545695,
-    "wof:lastmodified":1566716032,
+    "wof:lastmodified":1631744729,
     "wof:name":"Gach Saran Airport",
     "wof:parent_id":85672283,
     "wof:placetype":"campus",
@@ -74,10 +78,10 @@
     ]
 },
   "bbox": [
-    50.82805556,
+    50.828056,
     30.3375,
-    50.82805556,
+    50.828056,
     30.3375
 ],
-  "geometry": {"coordinates":[50.82805556,30.3375],"type":"Point"}
+  "geometry": {"coordinates":[50.828056,30.3375],"type":"Point"}
 }
