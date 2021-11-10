@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"46.2200105375,37.4203890168,46.2200105375,37.4203890168",
+    "geom:bbox":"46.220011,37.420389,46.220011,37.420389",
     "geom:latitude":37.420389,
     "geom:longitude":46.220011,
     "iso:country":"IR",
@@ -33,6 +33,9 @@
     "name:bel_x_preferred":[
         "\u041c\u0435\u0440\u043e\u0433\u0435"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09b0\u09be\u0998\u09c7\u09b9"
+    ],
     "name:bre_x_preferred":[
         "Maragheh"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:deu_x_preferred":[
         "Maragha"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c1\u03b1\u03b3\u03ba\u03ad\u03c7"
     ],
     "name:eng_x_preferred":[
         "Maragheh"
@@ -75,8 +81,14 @@
     "name:hrv_x_preferred":[
         "Maraga"
     ],
+    "name:hun_x_preferred":[
+        "Maragheh"
+    ],
     "name:hye_x_preferred":[
         "\u0544\u0561\u0580\u0561\u0572\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Maragheh"
     ],
     "name:ita_x_preferred":[
         "Maragheh"
@@ -146,6 +158,9 @@
     ],
     "name:uzb_x_preferred":[
         "Marog\u02bba"
+    ],
+    "name:vie_x_preferred":[
+        "Maragheh"
     ],
     "name:war_x_preferred":[
         "Maraqeh"
@@ -261,7 +276,7 @@
     },
     "wof:country":"IR",
     "wof:created":1499130782,
-    "wof:geomhash":"605e440c1d0d53d073f4dc5a6ba6f14f",
+    "wof:geomhash":"06ddc9c62f2588e40c70813d5d36e14e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -272,7 +287,7 @@
         }
     ],
     "wof:id":1141907873,
-    "wof:lastmodified":1566720470,
+    "wof:lastmodified":1636495449,
     "wof:name":"Maragheh",
     "wof:parent_id":1108720217,
     "wof:placetype":"locality",
@@ -282,10 +297,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    46.22001053750728,
-    37.42038901676773,
-    46.22001053750728,
-    37.42038901676773
+    46.220011,
+    37.420389,
+    46.220011,
+    37.420389
 ],
-  "geometry": {"coordinates":[46.22001053750728,37.42038901676773],"type":"Point"}
+  "geometry": {"coordinates":[46.220011,37.420389],"type":"Point"}
 }

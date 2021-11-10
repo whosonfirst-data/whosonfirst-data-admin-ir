@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"51.5799934477,33.9804181102,51.5799934477,33.9804181102",
+    "geom:bbox":"51.579993,33.980418,51.579993,33.980418",
     "geom:latitude":33.980418,
     "geom:longitude":51.579993,
     "iso:country":"IR",
@@ -29,6 +29,9 @@
     ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u0448\u0430\u043d"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u09b6\u09be\u09a8"
     ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u0448\u0430\u043d"
@@ -77,6 +80,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0554\u0561\u0577\u0561\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Kashan"
     ],
     "name:ita_x_preferred":[
         "Kashan"
@@ -158,6 +164,9 @@
     ],
     "name:uzb_x_preferred":[
         "Koshon"
+    ],
+    "name:vie_x_preferred":[
+        "Kashan"
     ],
     "name:war_x_preferred":[
         "Kashan"
@@ -273,7 +282,7 @@
     },
     "wof:country":"IR",
     "wof:created":1499130780,
-    "wof:geomhash":"108208524e69fa5737796462d2fc077d",
+    "wof:geomhash":"044fa74b5185cf40c927fdf50114a436",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -284,7 +293,7 @@
         }
     ],
     "wof:id":1141907861,
-    "wof:lastmodified":1566720470,
+    "wof:lastmodified":1636495448,
     "wof:name":"Kashan",
     "wof:parent_id":1108719815,
     "wof:placetype":"locality",
@@ -294,10 +303,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    51.57999344768501,
-    33.98041811017845,
-    51.57999344768501,
-    33.98041811017845
+    51.579993,
+    33.980418,
+    51.579993,
+    33.980418
 ],
-  "geometry": {"coordinates":[51.57999344768501,33.98041811017845],"type":"Point"}
+  "geometry": {"coordinates":[51.579993,33.980418],"type":"Point"}
 }

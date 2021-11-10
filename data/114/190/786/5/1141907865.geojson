@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"48.4700023995,32.3803865753,48.4700023995,32.3803865753",
+    "geom:bbox":"48.470002,32.380387,48.470002,32.380387",
     "geom:latitude":32.380387,
     "geom:longitude":48.470002,
     "iso:country":"IR",
@@ -27,6 +27,9 @@
     "name:aze_x_preferred":[
         "Dezful"
     ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09c7\u099c\u09ab\u09c1\u09b2"
+    ],
     "name:bul_x_preferred":[
         "\u0414\u0435\u0437\u0444\u0443\u043b"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:deu_x_preferred":[
         "Dezful"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b5\u03b6\u03c6\u03bf\u03cd\u03bb"
     ],
     "name:eng_x_preferred":[
         "Dezful"
@@ -66,6 +72,9 @@
     "name:hun_x_preferred":[
         "Dezful"
     ],
+    "name:ind_x_preferred":[
+        "Dezful"
+    ],
     "name:ita_x_preferred":[
         "Dezful"
     ],
@@ -91,6 +100,9 @@
         "\u062f\u0632\u0641\u0648\u0644"
     ],
     "name:pol_x_preferred":[
+        "Dezful"
+    ],
+    "name:por_x_preferred":[
         "Dezful"
     ],
     "name:ron_x_preferred":[
@@ -125,6 +137,9 @@
     ],
     "name:uzb_x_preferred":[
         "Dizpul"
+    ],
+    "name:vie_x_preferred":[
+        "Dezful"
     ],
     "name:war_x_preferred":[
         "Dezful"
@@ -240,7 +255,7 @@
     },
     "wof:country":"IR",
     "wof:created":1499130780,
-    "wof:geomhash":"ec93828c08a94431f9e501a92822e49b",
+    "wof:geomhash":"acd965271bfd60d286b572e000b12bee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -251,7 +266,7 @@
         }
     ],
     "wof:id":1141907865,
-    "wof:lastmodified":1566720470,
+    "wof:lastmodified":1636495449,
     "wof:name":"Dezful",
     "wof:parent_id":1108719969,
     "wof:placetype":"locality",
@@ -261,10 +276,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    48.47000239949546,
-    32.38038657534128,
-    48.47000239949546,
-    32.38038657534128
+    48.470002,
+    32.380387,
+    48.470002,
+    32.380387
 ],
-  "geometry": {"coordinates":[48.47000239949546,32.38038657534128],"type":"Point"}
+  "geometry": {"coordinates":[48.470002,32.380387],"type":"Point"}
 }

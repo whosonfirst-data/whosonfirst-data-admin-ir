@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"58.451460326,35.1814300731,58.451460326,35.1814300731",
+    "geom:bbox":"58.45146,35.18143,58.45146,35.18143",
     "geom:latitude":35.18143,
     "geom:longitude":58.45146,
     "iso:country":"IR",
@@ -27,6 +27,9 @@
     "name:aze_x_preferred":[
         "Ka\u015fm\u0259r"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u09b6\u09ae\u09be\u09b0"
+    ],
     "name:cat_x_preferred":[
         "Kashmar"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:deu_x_preferred":[
         "K\u0101schmar"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c3\u03bc\u03ac\u03c1"
     ],
     "name:epo_x_preferred":[
         "Ka\u015dmaro"
@@ -51,17 +57,26 @@
     "name:glk_x_preferred":[
         "\u06a9\u0627\u0634\u0645\u0631"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e9\u05de\u05e8"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u0936\u092e\u093e\u0930"
     ],
     "name:hun_x_preferred":[
         "K\u00e1smar"
     ],
+    "name:ind_x_preferred":[
+        "Kashmar"
+    ],
     "name:ita_x_preferred":[
         "Kashmar"
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30b7\u30e5\u30de\u30fc\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\uc288\ub9c8\ub974"
     ],
     "name:mlg_x_preferred":[
         "Kashmar"
@@ -223,7 +238,7 @@
     "wof:concordances":{},
     "wof:country":"IR",
     "wof:created":1499130958,
-    "wof:geomhash":"33e0d55da6c4caa646cc49d861b07a26",
+    "wof:geomhash":"886da8620306c004b5207a3debfe46fe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -234,7 +249,7 @@
         }
     ],
     "wof:id":1141908689,
-    "wof:lastmodified":1566720469,
+    "wof:lastmodified":1636495448,
     "wof:name":"Kashmar",
     "wof:parent_id":1108720111,
     "wof:placetype":"locality",
@@ -244,10 +259,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    58.45146032596767,
-    35.18143007307384,
-    58.45146032596767,
-    35.18143007307384
+    58.45146,
+    35.18143,
+    58.45146,
+    35.18143
 ],
-  "geometry": {"coordinates":[58.45146032596767,35.18143007307384],"type":"Point"}
+  "geometry": {"coordinates":[58.45146,35.18143],"type":"Point"}
 }

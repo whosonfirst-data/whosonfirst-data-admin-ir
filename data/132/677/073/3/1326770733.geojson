@@ -39,6 +39,9 @@
         "Nav\u0101",
         "Nuva"
     ],
+    "name:urd_x_preferred":[
+        "\u0646\u06cc\u0648\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +54,7 @@
         "gn:id":122485
     },
     "wof:country":"IR",
-    "wof:geomhash":"d246b4e94191a7ff37908b6e9a9cb97e",
+    "wof:geomhash":"8e0b87ab7902c58a6f23e080a9b5c592",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1326770733,
-    "wof:lastmodified":1566715853,
+    "wof:lastmodified":1636495378,
     "wof:name":"Neva",
     "wof:parent_id":1108719807,
     "wof:placetype":"locality",
@@ -73,9 +76,9 @@
 },
   "bbox": [
     52.21097,
-    35.85444000000001,
+    35.85444,
     52.21097,
-    35.85444000000001
+    35.85444
 ],
-  "geometry": {"coordinates":[52.21097,35.85444000000001],"type":"Point"}
+  "geometry": {"coordinates":[52.21097,35.85444],"type":"Point"}
 }

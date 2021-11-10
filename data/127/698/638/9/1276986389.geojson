@@ -32,6 +32,9 @@
     "name:bel_x_preferred":[
         "\u0411\u0443\u0433"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u0997"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0443\u0433"
     ],
@@ -65,6 +68,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d5\u05d2"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0917"
     ],
     "name:hrv_x_preferred":[
         "Bug"
@@ -120,6 +126,9 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0433"
     ],
+    "name:urd_x_preferred":[
+        "\u0628\u06af"
+    ],
     "name:uzb_x_preferred":[
         "Bug"
     ],
@@ -135,7 +144,7 @@
         "gn:id":7094532
     },
     "wof:country":"IR",
-    "wof:geomhash":"34c95b74e5f108fe3fb149c0ab2612ab",
+    "wof:geomhash":"e0b2c3502e8e11e34d9818cbf3126ea4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -146,7 +155,7 @@
         }
     ],
     "wof:id":1276986389,
-    "wof:lastmodified":1566717574,
+    "wof:lastmodified":1636495403,
     "wof:name":"Bug",
     "wof:parent_id":1108720131,
     "wof:placetype":"locality",
@@ -156,10 +165,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    61.10738000000001,
+    61.10738,
     28.02429,
-    61.10738000000001,
+    61.10738,
     28.02429
 ],
-  "geometry": {"coordinates":[61.10738000000001,28.02429],"type":"Point"}
+  "geometry": {"coordinates":[61.10738,28.02429],"type":"Point"}
 }

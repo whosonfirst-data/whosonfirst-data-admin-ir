@@ -41,6 +41,12 @@
     "name:fas_x_variant":[
         "B\u0101r"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8"
+    ],
+    "name:hun_x_preferred":[
+        "Bar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +60,7 @@
         "wk:page":"Bar,_Razavi_Khorasan"
     },
     "wof:country":"IR",
-    "wof:geomhash":"6c964d530a6a48fdb928a92527fd733e",
+    "wof:geomhash":"e47ef2661946016a97025c3a0555c808",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1260109893,
-    "wof:lastmodified":1566718517,
+    "wof:lastmodified":1636495413,
     "wof:name":"Bar",
     "wof:parent_id":1108720279,
     "wof:placetype":"locality",
@@ -75,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    58.71664000000001,
+    58.71664,
     36.49193,
-    58.71664000000001,
+    58.71664,
     36.49193
 ],
-  "geometry": {"coordinates":[58.71664000000001,36.49193],"type":"Point"}
+  "geometry": {"coordinates":[58.71664,36.49193],"type":"Point"}
 }

@@ -29,8 +29,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u063a\u0627"
+    ],
     "name:ceb_x_preferred":[
         "Daga"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03ac\u03b3\u03ba\u03b1"
     ],
     "name:fas_x_preferred":[
         "\u062f\u06cc\u06af\u0627"
@@ -42,6 +48,12 @@
     "name:fra_x_preferred":[
         "Daga"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d2\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u093e\u0917\u093e"
+    ],
     "name:ita_x_preferred":[
         "Daga"
     ],
@@ -51,8 +63,14 @@
     "name:tgl_x_preferred":[
         "Daga"
     ],
+    "name:tur_x_preferred":[
+        "Daga"
+    ],
     "name:und_x_variant":[
         "Dag\u0101"
+    ],
+    "name:vie_x_preferred":[
+        "Daga"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +95,7 @@
         }
     ],
     "wof:id":1293579443,
-    "wof:lastmodified":1566716886,
+    "wof:lastmodified":1636495392,
     "wof:name":"Daga",
     "wof:parent_id":1108720225,
     "wof:placetype":"locality",

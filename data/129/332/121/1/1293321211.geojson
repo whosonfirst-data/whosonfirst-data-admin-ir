@@ -35,6 +35,9 @@
     "name:fas_x_variant":[
         "Mor\u0101d\u0101b\u0101d"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e8\u05d3\u05d0\u05d1\u05d0\u05d3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +51,7 @@
         "wk:page":"Moradabad,_Bakharz"
     },
     "wof:country":"IR",
-    "wof:geomhash":"089694c1ef10cca65de74120b2ab27a4",
+    "wof:geomhash":"15aa0de6054e47044673868e23b4f485",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1293321211,
-    "wof:lastmodified":1566716900,
+    "wof:lastmodified":1636495392,
     "wof:name":"Moradabad",
     "wof:parent_id":1108720489,
     "wof:placetype":"locality",
@@ -69,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    60.34699000000001,
+    60.34699,
     35.07186,
-    60.34699000000001,
+    60.34699,
     35.07186
 ],
-  "geometry": {"coordinates":[60.34699000000001,35.07186],"type":"Point"}
+  "geometry": {"coordinates":[60.34699,35.07186],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"52.8214680571,29.8014483836,52.8214680571,29.8014483836",
+    "geom:bbox":"52.821468,29.801448,52.821468,29.801448",
     "geom:latitude":29.801448,
     "geom:longitude":52.821468,
     "iso:country":"IR",
@@ -24,6 +24,9 @@
     "name:aze_x_preferred":[
         "M\u0259rvd\u0259\u015ft"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09b0\u09cd\u09ad \u09a6\u09be\u09b6\u09cd\u09a4"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u0440\u0432\u0434\u0430\u0449"
     ],
@@ -32,6 +35,9 @@
     ],
     "name:deu_x_preferred":[
         "Marvdascht"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c1\u03b2 \u039d\u03c4\u03b1\u03c3\u03c4"
     ],
     "name:eng_x_preferred":[
         "Marvdasht"
@@ -47,6 +53,12 @@
     ],
     "name:hin_x_preferred":[
         "\u092e\u093e\u0930\u094d\u0935 \u0926\u0936\u094d\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Marv Dasht"
+    ],
+    "name:ind_x_preferred":[
+        "Marv Dasht"
     ],
     "name:ita_x_preferred":[
         "Marvdasht"
@@ -75,6 +87,9 @@
     "name:pol_x_preferred":[
         "Marwdaszt"
     ],
+    "name:por_x_preferred":[
+        "Marvdasht"
+    ],
     "name:ron_x_preferred":[
         "Marvdasht"
     ],
@@ -96,8 +111,14 @@
     "name:tur_x_preferred":[
         "Mervde\u015ft"
     ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0440\u0432\u0434\u0435\u0448\u0442"
+    ],
     "name:urd_x_preferred":[
         "\u0645\u0631\u0648\u062f\u0634\u062a"
+    ],
+    "name:vie_x_preferred":[
+        "Marv Dasht"
     ],
     "name:war_x_preferred":[
         "Marvdasht"
@@ -213,7 +234,7 @@
     },
     "wof:country":"IR",
     "wof:created":1499130616,
-    "wof:geomhash":"9c403d066d28326790e42019ffe77047",
+    "wof:geomhash":"a6f335df3a5624d02627f440c20a843e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -224,7 +245,7 @@
         }
     ],
     "wof:id":1141906609,
-    "wof:lastmodified":1566720469,
+    "wof:lastmodified":1636495448,
     "wof:name":"Marv Dasht",
     "wof:parent_id":1108720447,
     "wof:placetype":"locality",
@@ -234,10 +255,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    52.82146805706498,
-    29.80144838359928,
-    52.82146805706498,
-    29.80144838359928
+    52.821468,
+    29.801448,
+    52.821468,
+    29.801448
 ],
-  "geometry": {"coordinates":[52.82146805706498,29.80144838359928],"type":"Point"}
+  "geometry": {"coordinates":[52.821468,29.801448],"type":"Point"}
 }

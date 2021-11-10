@@ -32,6 +32,9 @@
     "name:fas_x_preferred":[
         "F\u0101ry\u0101b"
     ],
+    "name:hun_x_preferred":[
+        "Faryab"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -44,7 +47,7 @@
         "gn:id":44076
     },
     "wof:country":"IR",
-    "wof:geomhash":"1ee56f4cc0ea6d1215715caf1d95b181",
+    "wof:geomhash":"3c38e94675dfdecca24a912050821d65",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1292896811,
-    "wof:lastmodified":1566716705,
+    "wof:lastmodified":1636495389,
     "wof:name":"Faryab",
     "wof:parent_id":1108720447,
     "wof:placetype":"locality",
@@ -66,9 +69,9 @@
 },
   "bbox": [
     52.14222,
-    29.39389000000001,
+    29.39389,
     52.14222,
-    29.39389000000001
+    29.39389
 ],
-  "geometry": {"coordinates":[52.14222,29.39389000000001],"type":"Point"}
+  "geometry": {"coordinates":[52.14222,29.39389],"type":"Point"}
 }

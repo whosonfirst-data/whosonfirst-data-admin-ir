@@ -57,11 +57,12 @@
         "Kola"
     ],
     "name:fas_x_preferred":[
-        "\u06a9\u0644\u0627"
+        "\u06a9\u0648\u0644\u0627"
     ],
     "name:fas_x_variant":[
         "K\u016bl\u0101",
-        "Kol\u0101"
+        "Kol\u0101",
+        "\u06a9\u0644\u0627"
     ],
     "name:fin_x_preferred":[
         "Kola"
@@ -69,10 +70,19 @@
     "name:fra_x_preferred":[
         "Kola"
     ],
+    "name:hin_x_preferred":[
+        "\u0915\u094b\u0932\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Kola"
     ],
     "name:hsb_x_preferred":[
+        "Kola"
+    ],
+    "name:hun_x_preferred":[
+        "Kola"
+    ],
+    "name:ind_x_preferred":[
         "Kola"
     ],
     "name:ita_x_preferred":[
@@ -111,6 +121,9 @@
     "name:pol_x_preferred":[
         "Kola"
     ],
+    "name:por_x_preferred":[
+        "Kola"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u043b\u0430"
     ],
@@ -124,13 +137,25 @@
         "\u041a\u043e\u043b\u0430"
     ],
     "name:swe_x_preferred":[
+        "Kolafloden"
+    ],
+    "name:swe_x_variant":[
         "Kola"
     ],
     "name:tgl_x_preferred":[
         "Kola"
     ],
+    "name:tur_x_preferred":[
+        "Kola"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043b\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0644\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Kola"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -155,7 +180,7 @@
         }
     ],
     "wof:id":1260121337,
-    "wof:lastmodified":1566718398,
+    "wof:lastmodified":1636495412,
     "wof:name":"Kola",
     "wof:parent_id":1108720247,
     "wof:placetype":"locality",

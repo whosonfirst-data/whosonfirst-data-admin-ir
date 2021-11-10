@@ -35,6 +35,9 @@
     "name:fas_x_variant":[
         "\u0641\u06cc\u0636 \u0622\u0628\u0627\u062f"
     ],
+    "name:hun_x_preferred":[
+        "Feyzabad"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -47,7 +50,7 @@
         "gn:id":1113889
     },
     "wof:country":"IR",
-    "wof:geomhash":"969de44bc364f2c00bdef643a1719a25",
+    "wof:geomhash":"21d7a50f1c72fcf2e8a12d464902bd49",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1243363639,
-    "wof:lastmodified":1566719341,
+    "wof:lastmodified":1636495434,
     "wof:name":"Feyzabad",
     "wof:parent_id":1108720131,
     "wof:placetype":"locality",
@@ -68,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    61.49203000000001,
+    61.49203,
     28.42254,
-    61.49203000000001,
+    61.49203,
     28.42254
 ],
-  "geometry": {"coordinates":[61.49203000000001,28.42254],"type":"Point"}
+  "geometry": {"coordinates":[61.49203,28.42254],"type":"Point"}
 }

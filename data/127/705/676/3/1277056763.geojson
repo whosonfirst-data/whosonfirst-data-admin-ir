@@ -126,6 +126,9 @@
         "\u30b5\u30fc\u30af\u5cf6"
     ],
     "name:kor_x_preferred":[
+        "\uc0ac\ud06c"
+    ],
+    "name:kor_x_variant":[
         "\uc0ac\ud06c\uc12c"
     ],
     "name:lat_x_preferred":[
@@ -198,11 +201,20 @@
         "Sorak",
         "Sar\u012bk"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0631\u06a9"
+    ],
     "name:vie_x_preferred":[
         "Sark"
     ],
     "name:vls_x_preferred":[
         "Sark"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u8428\u514b\u5c9b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u85a9\u514b\u5cf6"
     ],
     "name:zho_x_preferred":[
         "\u85a9\u514b\u5cf6"
@@ -219,7 +231,7 @@
         "gn:id":116977
     },
     "wof:country":"IR",
-    "wof:geomhash":"50e9c5b890d29707e1efd655decc4e27",
+    "wof:geomhash":"448683b057a9aeb8ac50e267f0593884",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -230,7 +242,7 @@
         }
     ],
     "wof:id":1277056763,
-    "wof:lastmodified":1566717375,
+    "wof:lastmodified":1636495400,
     "wof:name":"Sark",
     "wof:parent_id":1108719863,
     "wof:placetype":"locality",
@@ -240,10 +252,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    56.75833000000001,
+    56.75833,
     27.48778,
-    56.75833000000001,
+    56.75833,
     27.48778
 ],
-  "geometry": {"coordinates":[56.75833000000001,27.48778],"type":"Point"}
+  "geometry": {"coordinates":[56.75833,27.48778],"type":"Point"}
 }

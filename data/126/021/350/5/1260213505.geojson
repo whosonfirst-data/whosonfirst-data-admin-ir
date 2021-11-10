@@ -50,6 +50,12 @@
     "name:fin_x_preferred":[
         "Bam"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05dd"
+    ],
+    "name:hun_x_preferred":[
+        "Bam"
+    ],
     "name:mlg_x_preferred":[
         "Bam"
     ],
@@ -83,7 +89,7 @@
         "gn:id":141733
     },
     "wof:country":"IR",
-    "wof:geomhash":"773e11cb7ff308e0db98d912bd733c5f",
+    "wof:geomhash":"3e9493ece2bccc4c4ba7440f0f543445",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1260213505,
-    "wof:lastmodified":1566718530,
+    "wof:lastmodified":1636495413,
     "wof:name":"Bam",
     "wof:parent_id":1108720073,
     "wof:placetype":"locality",
@@ -104,10 +110,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    56.83884000000001,
+    56.83884,
     37.34597,
-    56.83884000000001,
+    56.83884,
     37.34597
 ],
-  "geometry": {"coordinates":[56.83884000000001,37.34597],"type":"Point"}
+  "geometry": {"coordinates":[56.83884,37.34597],"type":"Point"}
 }

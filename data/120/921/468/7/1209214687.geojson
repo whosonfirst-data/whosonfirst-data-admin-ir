@@ -56,6 +56,9 @@
     "name:hin_x_preferred":[
         "\u0938\u0930\u093e\u0935\u093e\u0928"
     ],
+    "name:hun_x_preferred":[
+        "Saravan"
+    ],
     "name:ita_x_preferred":[
         "Saravan"
     ],
@@ -96,7 +99,7 @@
         "wk:page":"Saravan%2C_Iran"
     },
     "wof:country":"IR",
-    "wof:geomhash":"0053069334b4bd989787b14073acfc21",
+    "wof:geomhash":"3a043b5ba2784a3735355a5f4302fdc3",
     "wof:hierarchy":[
         {
             "country_id":85632361,
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1209214687,
-    "wof:lastmodified":1566718102,
+    "wof:lastmodified":1636495409,
     "wof:name":"Saravan",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",
@@ -115,9 +118,9 @@
 },
   "bbox": [
     62.33096,
-    27.37089000000001,
+    27.37089,
     62.33096,
-    27.37089000000001
+    27.37089
 ],
-  "geometry": {"coordinates":[62.33096,27.37089000000001],"type":"Point"}
+  "geometry": {"coordinates":[62.33096,27.37089],"type":"Point"}
 }

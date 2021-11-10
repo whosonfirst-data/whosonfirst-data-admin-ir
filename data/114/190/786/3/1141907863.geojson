@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"51.4699743233,32.7004187205,51.4699743233,32.7004187205",
+    "geom:bbox":"51.469974,32.700419,51.469974,32.700419",
     "geom:latitude":32.700419,
     "geom:longitude":51.469974,
     "iso:country":"IR",
@@ -18,6 +18,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u0996\u09cb\u09ae\u09c7\u0987\u09a8\u09bf \u09b6\u09be\u09b9\u09b0"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bc\u03b5\u03ca\u03bd\u03af \u03a3\u03b1\u03c1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d5\u05e0\u05d9\u05d9\u05e0\u05d9 \u05e9\u05d0\u05d4\u05e8"
+    ],
+    "name:ind_x_preferred":[
+        "Khomeini Shahr"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30e1\u30a4\u30cb\u30fc\u30fb\u30b7\u30e3\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\ud638\uba54\uc774\ub2c8 \uc0e4\ub974"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u043e\u043c\u0435\u0439\u043d\u0456\u0448\u0435\u0445\u0440"
+    ],
+    "name:vie_x_preferred":[
+        "Khomeini Shahr"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Iran",
     "ne:ADM0_A3":"IRN",
@@ -124,7 +148,7 @@
     "wof:concordances":{},
     "wof:country":"IR",
     "wof:created":1499130780,
-    "wof:geomhash":"db7e217c37706a7560a045cbed2e1dde",
+    "wof:geomhash":"698ddce9dec630e8ba72e6d264ad0add",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +159,7 @@
         }
     ],
     "wof:id":1141907863,
-    "wof:lastmodified":1566720470,
+    "wof:lastmodified":1636495449,
     "wof:name":"Khomeini Shahr",
     "wof:parent_id":1108720139,
     "wof:placetype":"locality",
@@ -145,10 +169,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    51.46997432333552,
-    32.70041872052485,
-    51.46997432333552,
-    32.70041872052485
+    51.469974,
+    32.700419,
+    51.469974,
+    32.700419
 ],
-  "geometry": {"coordinates":[51.46997432333552,32.70041872052485],"type":"Point"}
+  "geometry": {"coordinates":[51.469974,32.700419],"type":"Point"}
 }

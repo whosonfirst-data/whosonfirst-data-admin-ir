@@ -32,14 +32,29 @@
     "name:ara_x_preferred":[
         "\u0645\u0631\u0627\u063a\u0647"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09b0\u09be\u0998\u09c7\u09b9"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c1\u03b1\u03b3\u03ba\u03ad\u03c7"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0631\u0627\u063a\u0647"
     ],
     "name:fas_x_variant":[
         "Mar\u0101gheh"
     ],
+    "name:hun_x_preferred":[
+        "Maragheh"
+    ],
+    "name:ind_x_preferred":[
+        "Maragheh"
+    ],
     "name:und_x_variant":[
         "Maragheb"
+    ],
+    "name:vie_x_preferred":[
+        "Maragheh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +69,7 @@
         "wk:page":"Maragheh,_Razavi_Khorasan"
     },
     "wof:country":"IR",
-    "wof:geomhash":"60329eccad8ecd2a906b2b441f2b9ef6",
+    "wof:geomhash":"9922e41cdea30cdd873d415930f8fc2b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +80,7 @@
         }
     ],
     "wof:id":1310134423,
-    "wof:lastmodified":1566718661,
+    "wof:lastmodified":1636495422,
     "wof:name":"Maragheh",
     "wof:parent_id":1108719995,
     "wof:placetype":"locality",
@@ -76,9 +91,9 @@
 },
   "bbox": [
     59.63324,
-    35.82915999999999,
+    35.82916,
     59.63324,
-    35.82915999999999
+    35.82916
 ],
-  "geometry": {"coordinates":[59.63324,35.82915999999999],"type":"Point"}
+  "geometry": {"coordinates":[59.63324,35.82916],"type":"Point"}
 }

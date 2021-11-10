@@ -35,6 +35,9 @@
     "name:aze_x_preferred":[
         "R\u0259\u015fid"
     ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09b6\u09bf\u09a6"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u0430\u0448\u0438\u0434"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:fra_x_preferred":[
         "Rachid"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u093e\u0936\u093f\u0926"
     ],
     "name:ita_x_preferred":[
         "Rashid"
@@ -62,6 +68,9 @@
     "name:swe_x_preferred":[
         "Rashid"
     ],
+    "name:vie_x_preferred":[
+        "Rashid"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -74,7 +83,7 @@
         "gn:id":1159839
     },
     "wof:country":"IR",
-    "wof:geomhash":"43dfb3050e212400d813f2d28dd5c9e4",
+    "wof:geomhash":"4d6d531333055f33ff6d8b561f14accb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":1327266301,
-    "wof:lastmodified":1566715953,
+    "wof:lastmodified":1636495379,
     "wof:name":"Rashid",
     "wof:parent_id":1108720271,
     "wof:placetype":"locality",
@@ -95,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    60.54221999999999,
+    60.54222,
     26.54333,
-    60.54221999999999,
+    60.54222,
     26.54333
 ],
-  "geometry": {"coordinates":[60.54221999999999,26.54333],"type":"Point"}
+  "geometry": {"coordinates":[60.54222,26.54333],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"45.5772073962,34.5123753042,45.5772073962,34.5123753042",
+    "geom:bbox":"45.577207,34.512375,45.577207,34.512375",
     "geom:latitude":34.512375,
     "geom:longitude":45.577207,
     "iso:country":"IR",
@@ -24,6 +24,9 @@
     "name:aze_x_preferred":[
         "Q\u0259sri \u015eirin"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u09b8\u09b0-\u0987 \u09b6\u09bf\u09b0\u09bf\u09a8"
+    ],
     "name:cat_x_preferred":[
         "Qasr-i Xirin"
     ],
@@ -36,6 +39,9 @@
     "name:deu_x_preferred":[
         "Qasr-e Schirin"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c3\u03c1\u03af \u03a3\u03b9\u03c1\u03af\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Qasr-e Shirin"
     ],
@@ -45,17 +51,29 @@
     "name:fra_x_preferred":[
         "Qasr-e Chirin"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05e1\u05e8-\u05d0 \u05e9\u05d9\u05e8\u05d9\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0938\u094d\u0930-\u090f-\u0936\u0940\u0930\u0940\u0928"
+    ],
     "name:hun_x_preferred":[
         "Kaszr-i -Sirin"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0561\u057d\u0580\u0565-\u0547\u056b\u0580\u056b\u0576"
     ],
+    "name:ind_x_preferred":[
+        "Qasr-e Shirin"
+    ],
     "name:ita_x_preferred":[
         "Qasr-e Shirin"
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30b9\u30ec\uff1d\u30b7\u30fc\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\uc2a4\ub974\uc5d0 \uc2dc\ub9b0"
     ],
     "name:mlg_x_preferred":[
         "Qasr-e Shirin"
@@ -72,14 +90,23 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u0441\u0440\u0435-\u0428\u0438\u0440\u0438\u043d"
     ],
+    "name:spa_x_preferred":[
+        "Qasr-e Shirin"
+    ],
     "name:swe_x_preferred":[
         "Qa\u015fr-e Sh\u012br\u012bn"
     ],
     "name:tur_x_preferred":[
         "Kasr \u015eirin"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0441\u0440\u0435-\u0428\u0438\u0440\u0456\u043d"
+    ],
     "name:urd_x_preferred":[
         "\u0642\u0635\u0631 \u0634\u06cc\u0631\u06cc\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Qasr-e Shirin"
     ],
     "name:zho_x_preferred":[
         "\u5e2d\u6797\u5821"
@@ -192,7 +219,7 @@
     },
     "wof:country":"IR",
     "wof:created":1499130782,
-    "wof:geomhash":"b14d077a63fd65b4540aabfcfc5b4f8e",
+    "wof:geomhash":"4412b6e3318fca5efd75af230040e32c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -203,7 +230,7 @@
         }
     ],
     "wof:id":1141907875,
-    "wof:lastmodified":1566720470,
+    "wof:lastmodified":1636495449,
     "wof:name":"Qasr-e Shirin",
     "wof:parent_id":1108720311,
     "wof:placetype":"locality",
@@ -213,10 +240,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    45.57720739622857,
-    34.51237530419098,
-    45.57720739622857,
-    34.51237530419098
+    45.577207,
+    34.512375,
+    45.577207,
+    34.512375
 ],
-  "geometry": {"coordinates":[45.57720739622857,34.51237530419098],"type":"Point"}
+  "geometry": {"coordinates":[45.577207,34.512375],"type":"Point"}
 }

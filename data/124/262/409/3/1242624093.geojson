@@ -70,6 +70,9 @@
     "name:guj_x_preferred":[
         "\u0aae\u0ac1\u0ab0\u0abe\u0aa6\u0abe\u0aac\u0abe\u0aa6"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e8\u05d3\u05d0\u05d1\u05d0\u05d3"
+    ],
     "name:hif_x_preferred":[
         "Moradabad"
     ],
@@ -172,7 +175,7 @@
         "gn:id":7060779
     },
     "wof:country":"IR",
-    "wof:geomhash":"53fa3d953c5fda168f43db01fb3f6cda",
+    "wof:geomhash":"bc332f02cb69018eacc4d0d747a064c9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -183,7 +186,7 @@
         }
     ],
     "wof:id":1242624093,
-    "wof:lastmodified":1566719713,
+    "wof:lastmodified":1636495438,
     "wof:name":"Moradabad",
     "wof:parent_id":1108720029,
     "wof:placetype":"locality",
@@ -194,9 +197,9 @@
 },
   "bbox": [
     58.16053,
-    27.33354000000001,
+    27.33354,
     58.16053,
-    27.33354000000001
+    27.33354
 ],
-  "geometry": {"coordinates":[58.16053,27.33354000000001],"type":"Point"}
+  "geometry": {"coordinates":[58.16053,27.33354],"type":"Point"}
 }

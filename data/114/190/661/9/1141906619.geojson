@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"55.7300243722,29.4699699087,55.7300243722,29.4699699087",
+    "geom:bbox":"55.730024,29.46997,55.730024,29.46997",
     "geom:latitude":29.46997,
     "geom:longitude":55.730024,
     "iso:country":"IR",
@@ -63,6 +63,9 @@
     "name:guj_x_preferred":[
         "\u0ab8\u0abf\u0ab0\u0a9c\u0aa8"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05e8\u05d2'\u05d0\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u0940\u0930\u091c\u093e\u0928"
     ],
@@ -75,8 +78,14 @@
     "name:ita_x_preferred":[
         "Sirjan"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30fc\u30eb\u30b8\u30e3\u30fc\u30f3"
+    ],
     "name:kan_x_preferred":[
         "\u0cb8\u0cbf\u0cb0\u0ccd\u0c9c\u0cbe\u0ca8\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2dc\ub974\uc794"
     ],
     "name:lav_x_preferred":[
         "Sird\u017eana"
@@ -116,6 +125,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dbb\u0dca\u0da2\u0dcf\u0db1\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Sirjan"
     ],
     "name:swe_x_preferred":[
         "Sirjan"
@@ -258,7 +270,7 @@
     },
     "wof:country":"IR",
     "wof:created":1499130617,
-    "wof:geomhash":"555900cea3b485da9409cc3518918bc4",
+    "wof:geomhash":"8444645f5677a2f336f3f48ffe73b07e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -269,7 +281,7 @@
         }
     ],
     "wof:id":1141906619,
-    "wof:lastmodified":1566720470,
+    "wof:lastmodified":1636495448,
     "wof:name":"Sirjan",
     "wof:parent_id":1108720461,
     "wof:placetype":"locality",
@@ -279,10 +291,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    55.73002437218059,
-    29.4699699086629,
-    55.73002437218059,
-    29.4699699086629
+    55.730024,
+    29.46997,
+    55.730024,
+    29.46997
 ],
-  "geometry": {"coordinates":[55.73002437218059,29.4699699086629],"type":"Point"}
+  "geometry": {"coordinates":[55.730024,29.46997],"type":"Point"}
 }
