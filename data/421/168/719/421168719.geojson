@@ -129,6 +129,9 @@
     "name:glg_x_preferred":[
         "Isfah\u00e1n"
     ],
+    "name:glk_x_preferred":[
+        "\u0627\u064a\u0635\u0641\u0647\u0627\u0646"
+    ],
     "name:gsw_x_preferred":[
         "Isfahan"
     ],
@@ -157,6 +160,9 @@
         "\u054d\u057a\u0561\u0570\u0561\u0576"
     ],
     "name:ido_x_preferred":[
+        "Isfahan"
+    ],
+    "name:ile_x_preferred":[
         "Isfahan"
     ],
     "name:ina_x_preferred":[
@@ -228,16 +234,25 @@
     "name:ltz_x_preferred":[
         "Isfahan"
     ],
+    "name:lzh_x_preferred":[
+        "\u4ea6\u601d\u5f17\u7f55"
+    ],
     "name:mal_x_preferred":[
         "\u0d07\u0d38\u0d4d\u0d2b\u0d39\u0d3e\u0d7b"
     ],
     "name:mar_x_preferred":[
         "\u0907\u0938\u094d\u092b\u0939\u093e\u0928"
     ],
+    "name:mdf_x_preferred":[
+        "\u0418\u0441\u0444\u0430\u0433\u0430\u043d"
+    ],
     "name:mkd_x_preferred":[
         "\u0418\u0441\u0444\u0430\u0445\u0430\u043d"
     ],
     "name:mlg_x_preferred":[
+        "Isfahan"
+    ],
+    "name:mlt_x_preferred":[
         "Isfahan"
     ],
     "name:mri_x_preferred":[
@@ -285,6 +300,9 @@
     "name:por_x_preferred":[
         "Isfahan"
     ],
+    "name:pus_x_preferred":[
+        "\u0627\u0635\u0641\u0647\u0627\u0646 \u069a\u0627\u0631"
+    ],
     "name:que_x_preferred":[
         "Isfahan"
     ],
@@ -306,6 +324,15 @@
     "name:slv_x_preferred":[
         "Isfahan"
     ],
+    "name:sme_x_preferred":[
+        "Isfahan"
+    ],
+    "name:snd_x_preferred":[
+        "\u0627\u0635\u0641\u06be\u0627\u0646"
+    ],
+    "name:som_x_preferred":[
+        "Asfahaan"
+    ],
     "name:spa_x_preferred":[
         "Isfah\u00e1n"
     ],
@@ -315,11 +342,20 @@
     "name:srp_x_preferred":[
         "\u0418\u0441\u0444\u0430\u0445\u0430\u043d"
     ],
+    "name:swa_x_preferred":[
+        "Isfahan"
+    ],
     "name:swe_x_preferred":[
         "Esfahan"
     ],
+    "name:szl_x_preferred":[
+        "Isfahan"
+    ],
     "name:tam_x_preferred":[
         "\u0b87\u0b9a\u0bc1\u0baa\u0b95\u0bbe\u0ba9\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0418\u0441\u0444\u04d9\u04bb\u0430\u043d"
     ],
     "name:tel_x_preferred":[
         "\u0c07\u0c38\u0c4d\u0c2b\u0c39\u0c3e\u0c28\u0c4d"
@@ -342,8 +378,14 @@
     "name:tur_x_preferred":[
         "\u0130sfahan"
     ],
+    "name:uig_x_preferred":[
+        "\u0626\u06d0\u0633\u0641\u06d5\u06be\u0627\u0646"
+    ],
     "name:ukr_x_preferred":[
         "\u0406\u0441\u0444\u0430\u0445\u0430\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "\u0406\u0441\u0444\u0430\u0433\u0430\u043d"
     ],
     "name:und_x_variant":[
         "Aspadana"
@@ -353,6 +395,9 @@
     ],
     "name:uzb_x_preferred":[
         "Isfahon"
+    ],
+    "name:vec_x_preferred":[
+        "Esfahan"
     ],
     "name:vep_x_preferred":[
         "Isfahan"
@@ -499,8 +544,8 @@
     "wof:belongsto":[
         102191569,
         85632361,
-        1108719977,
-        85672291
+        85672291,
+        1108719977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -527,7 +572,7 @@
         }
     ],
     "wof:id":421168719,
-    "wof:lastmodified":1610148762,
+    "wof:lastmodified":1690934550,
     "wof:megacity":1,
     "wof:name":"Esfahan",
     "wof:parent_id":1108719977,

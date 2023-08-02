@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:aka_x_preferred":[
+        "Shahrud"
+    ],
     "name:ara_x_preferred":[
         "\u0634\u0627\u0647\u0631\u0648\u062f"
     ],
@@ -56,6 +59,9 @@
     "name:eng_x_variant":[
         "Shahrud"
     ],
+    "name:epo_x_preferred":[
+        "\u015cahrud"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u0627\u0647\u0631\u0648\u062f"
     ],
@@ -71,8 +77,14 @@
     "name:fra_x_preferred":[
         "Shahroud"
     ],
+    "name:gle_x_preferred":[
+        "Shahrud"
+    ],
     "name:guj_x_preferred":[
         "\u0ab6\u0abe\u0ab9\u0ab0\u0ac1\u0aa6"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d0\u05d4\u05e8\u05d5\u05d3"
     ],
     "name:hin_x_preferred":[
         "\u0936\u093e\u0939\u0930\u0942\u0926"
@@ -82,6 +94,9 @@
     ],
     "name:hun_x_preferred":[
         "S\u00e1hrud"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u0574\u0561\u0574\u0577\u0565\u0570\u0580"
     ],
     "name:ind_x_preferred":[
         "Shahrud"
@@ -116,6 +131,9 @@
     "name:msa_x_preferred":[
         "Shahrud"
     ],
+    "name:nan_x_preferred":[
+        "Shahrud"
+    ],
     "name:nld_x_preferred":[
         "Shahrud"
     ],
@@ -146,6 +164,9 @@
     "name:tam_x_preferred":[
         "\u0bb7\u0bbe\u0bb9\u0bcd\u0bb0\u0bc1\u0ba4\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0428\u0430\u04bb\u0440\u0443\u0434"
+    ],
     "name:tel_x_preferred":[
         "\u0c37\u0c39\u0c4d \u0c30\u0c41\u0c26\u0c4d"
     ],
@@ -163,6 +184,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0634\u0627\u062d\u0631\u0648\u062f"
+    ],
+    "name:urd_x_variant":[
+        "[[\u0634\u06c1\u0631\u0633\u062a\u0627\u0646 \u0634\u0627\u06c1\u0631\u0648\u062f|\u0634\u0627\u062d\u0631\u062f]]"
     ],
     "name:vie_x_preferred":[
         "Shahrud"
@@ -312,7 +336,7 @@
         }
     ],
     "wof:id":421177847,
-    "wof:lastmodified":1566719323,
+    "wof:lastmodified":1690934594,
     "wof:name":"Emamshahr",
     "wof:parent_id":1108720441,
     "wof:placetype":"locality",

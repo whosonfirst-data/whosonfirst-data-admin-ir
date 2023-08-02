@@ -123,10 +123,17 @@
         "Mashhad"
     ],
     "name:fra_x_variant":[
-        "Mechhed"
+        "Mechhed",
+        "Machhad"
+    ],
+    "name:gle_x_preferred":[
+        "Mashhad"
     ],
     "name:glg_x_preferred":[
         "Mashhad"
+    ],
+    "name:glk_x_preferred":[
+        "\u0645\u0634\u0647\u062f"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ab6\u0ab9\u0abe\u0aa6"
@@ -151,6 +158,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0544\u0561\u0577\u0570\u0561\u0564"
+    ],
+    "name:ile_x_preferred":[
+        "Mashdad"
     ],
     "name:ina_x_preferred":[
         "Mashhad"
@@ -194,6 +204,9 @@
     "name:kur_x_preferred":[
         "Me\u015fhed"
     ],
+    "name:lat_x_preferred":[
+        "Mexatum"
+    ],
     "name:lav_x_preferred":[
         "Me\u0161heda"
     ],
@@ -205,6 +218,9 @@
     ],
     "name:mar_x_preferred":[
         "\u092e\u0936\u0939\u0926"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041c\u044d\u0448\u0445\u044d\u0434"
     ],
     "name:mkd_x_preferred":[
         "\u041c\u0435\u0448\u0445\u0435\u0434"
@@ -281,6 +297,12 @@
     "name:slk_x_preferred":[
         "Ma\u0161had"
     ],
+    "name:slv_x_preferred":[
+        "Ma\u0161had"
+    ],
+    "name:snd_x_preferred":[
+        "\u0645\u0634\u06be\u062f"
+    ],
     "name:spa_x_preferred":[
         "Mashhad"
     ],
@@ -298,6 +320,9 @@
     ],
     "name:swe_x_preferred":[
         "Mashhad"
+    ],
+    "name:szl_x_preferred":[
+        "Meszhed"
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0b9a\u0bc1\u0b95\u0bbe\u0ba4\u0bcd"
@@ -326,6 +351,9 @@
     "name:tur_x_preferred":[
         "Me\u015fhed"
     ],
+    "name:uig_x_preferred":[
+        "\u0645\u06d5\u0634\u06be\u06d5\u062f"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0448\u0445\u0435\u0434"
     ],
@@ -333,6 +361,9 @@
         "\u0645\u0634\u06c1\u062f"
     ],
     "name:uzb_x_preferred":[
+        "Mashhad"
+    ],
+    "name:vec_x_preferred":[
         "Mashhad"
     ],
     "name:vie_x_preferred":[
@@ -343,6 +374,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u9a6c\u4ec0\u54c8\u5fb7"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10db\u10d4\u10e8\u10f0\u10d4\u10d3\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u99ac\u65af\u54c8\u5fb7"
@@ -382,8 +416,8 @@
     "wof:belongsto":[
         102191569,
         85632361,
-        1108720227,
-        85672397
+        85672397,
+        1108720227
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -408,7 +442,7 @@
         }
     ],
     "wof:id":1125929605,
-    "wof:lastmodified":1610148763,
+    "wof:lastmodified":1690934604,
     "wof:megacity":1,
     "wof:name":"Mashhad",
     "wof:parent_id":1108720227,

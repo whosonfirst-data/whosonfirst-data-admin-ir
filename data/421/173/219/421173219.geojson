@@ -35,6 +35,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u042d\u0440\u0430\u043a"
     ],
+    "name:bel_x_variant":[
+        "\u042d\u0440\u0430\u043a"
+    ],
     "name:bre_x_preferred":[
         "Arak"
     ],
@@ -88,17 +91,26 @@
     "name:fry_x_preferred":[
         "Arak"
     ],
+    "name:gle_x_preferred":[
+        "Arak"
+    ],
     "name:glg_x_preferred":[
         "Arak"
     ],
     "name:glg_x_variant":[
         "Arak - \u0633\u0627\u0648\u0647"
     ],
+    "name:glk_x_preferred":[
+        "\u0623\u0631\u0627\u06a9"
+    ],
     "name:hbs_x_preferred":[
         "Arak"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05e8\u05d0\u05e7"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0\u05e8\u05d0\u05db"
     ],
     "name:hin_x_preferred":[
         "\u0905\u0930\u093e\u0915"
@@ -114,7 +126,8 @@
     ],
     "name:hye_x_variant":[
         "\u0537\u0580\u0561\u056f",
-        "\u0537\u0580\u0561\u0567"
+        "\u0537\u0580\u0561\u0567",
+        "\u0531\u0580\u0561\u0584"
     ],
     "name:ind_x_preferred":[
         "Arak"
@@ -134,16 +147,37 @@
     "name:kur_x_preferred":[
         "Erak"
     ],
+    "name:lav_x_preferred":[
+        "Ar\u0101ka"
+    ],
     "name:lit_x_preferred":[
         "Arakas"
     ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d31\u0d3e\u0d15\u0d4d\u0d15\u0d4d"
+    ],
     "name:mlg_x_preferred":[
+        "Arak"
+    ],
+    "name:mri_x_preferred":[
         "Arak"
     ],
     "name:msa_x_preferred":[
         "Arak"
     ],
+    "name:mzn_x_preferred":[
+        "\u0627\u0631\u0627\u06a9"
+    ],
+    "name:nan_x_preferred":[
+        "Arak"
+    ],
     "name:nld_x_preferred":[
+        "Arak"
+    ],
+    "name:nno_x_preferred":[
+        "Arak"
+    ],
+    "name:nob_x_preferred":[
         "Arak"
     ],
     "name:oss_x_preferred":[
@@ -182,6 +216,9 @@
     "name:swe_x_preferred":[
         "Arak"
     ],
+    "name:tat_x_preferred":[
+        "\u04d8\u0440\u0430\u043a"
+    ],
     "name:tgk_x_preferred":[
         "\u0410\u0440\u043e\u043a"
     ],
@@ -206,11 +243,20 @@
     "name:urd_x_variant":[
         "\u0627\u0631\u0627\u06a9"
     ],
+    "name:uzb_x_preferred":[
+        "Arok"
+    ],
+    "name:vec_x_preferred":[
+        "Arak"
+    ],
     "name:vie_x_preferred":[
         "Arak"
     ],
     "name:war_x_preferred":[
         "Arak"
+    ],
+    "name:wuu_x_preferred":[
+        "\u963f\u62c9\u514b"
     ],
     "name:yue_x_preferred":[
         "\u963f\u62c9\u514b"
@@ -370,7 +416,7 @@
         }
     ],
     "wof:id":421173219,
-    "wof:lastmodified":1636495432,
+    "wof:lastmodified":1690934573,
     "wof:name":"Arak",
     "wof:parent_id":1108720443,
     "wof:placetype":"locality",

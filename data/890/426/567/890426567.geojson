@@ -22,6 +22,9 @@
     "name:afr_x_preferred":[
         "Magma"
     ],
+    "name:afr_x_variant":[
+        "magma"
+    ],
     "name:amh_x_preferred":[
         "\u1245\u120d\u1325 \u12a0\u1208\u1275"
     ],
@@ -31,23 +34,53 @@
     "name:arg_x_preferred":[
         "Magma"
     ],
+    "name:arg_x_variant":[
+        "magma"
+    ],
     "name:ast_x_preferred":[
         "Magma"
+    ],
+    "name:ast_x_variant":[
+        "magma"
     ],
     "name:aze_x_preferred":[
         "Maqma"
     ],
+    "name:aze_x_variant":[
+        "maqma"
+    ],
     "name:bak_x_preferred":[
         "\u041c\u0430\u0433\u043c\u0430"
+    ],
+    "name:bak_x_variant":[
+        "\u043c\u0430\u0433\u043c\u0430"
+    ],
+    "name:bcl_x_preferred":[
+        "Magma"
     ],
     "name:bel_x_preferred":[
         "\u041c\u0430\u0433\u043c\u0430"
     ],
+    "name:bel_x_variant":[
+        "\u043c\u0430\u0433\u043c\u0430"
+    ],
+    "name:bho_x_preferred":[
+        "\u092e\u0948\u0917\u094d\u092e\u093e"
+    ],
+    "name:bjn_x_preferred":[
+        "Magma"
+    ],
     "name:bos_x_preferred":[
         "Magma"
     ],
+    "name:bos_x_variant":[
+        "magma"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u0433\u043c\u0430"
+    ],
+    "name:bul_x_variant":[
+        "\u043c\u0430\u0433\u043c\u0430"
     ],
     "name:cat_x_preferred":[
         "magma"
@@ -55,14 +88,26 @@
     "name:ces_x_preferred":[
         "magma"
     ],
+    "name:ckb_x_preferred":[
+        "\u06af\u0695\u062a\u0627\u0648"
+    ],
+    "name:cym_x_preferred":[
+        "magma"
+    ],
     "name:dan_x_preferred":[
         "Magma"
+    ],
+    "name:dan_x_variant":[
+        "magma"
     ],
     "name:deu_x_preferred":[
         "Magma"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03ac\u03b3\u03bc\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u03bc\u03ac\u03b3\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "magma"
@@ -73,8 +118,14 @@
     "name:est_x_preferred":[
         "Magma"
     ],
+    "name:est_x_variant":[
+        "magma"
+    ],
     "name:eus_x_preferred":[
         "Magma"
+    ],
+    "name:eus_x_variant":[
+        "magma"
     ],
     "name:fas_x_preferred":[
         "\u062a\u0641\u062a\u0627\u0644"
@@ -82,26 +133,47 @@
     "name:fin_x_preferred":[
         "Magma"
     ],
+    "name:fin_x_variant":[
+        "magma"
+    ],
     "name:fra_x_preferred":[
         "magma"
     ],
     "name:fry_x_preferred":[
         "Magma"
     ],
+    "name:fry_x_variant":[
+        "magma"
+    ],
     "name:fur_x_preferred":[
         "Magma"
+    ],
+    "name:fur_x_variant":[
+        "magma"
     ],
     "name:gle_x_preferred":[
         "Magma"
     ],
+    "name:gle_x_variant":[
+        "magma"
+    ],
     "name:glg_x_preferred":[
         "Magma"
+    ],
+    "name:glg_x_variant":[
+        "magma"
     ],
     "name:grn_x_preferred":[
         "Tata hu'\u0169"
     ],
+    "name:grn_x_variant":[
+        "tata hu'\u0169"
+    ],
     "name:hat_x_preferred":[
         "Magma"
+    ],
+    "name:hat_x_variant":[
+        "magma"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d0\u05d2\u05de\u05d4"
@@ -112,14 +184,26 @@
     "name:hrv_x_preferred":[
         "Magma"
     ],
+    "name:hrv_x_variant":[
+        "magma"
+    ],
     "name:hun_x_preferred":[
         "Magma"
+    ],
+    "name:hun_x_variant":[
+        "magma"
     ],
     "name:hye_x_preferred":[
         "\u0544\u0561\u0563\u0574\u0561"
     ],
+    "name:hye_x_variant":[
+        "\u0574\u0561\u0563\u0574\u0561"
+    ],
     "name:ina_x_preferred":[
         "Magma"
+    ],
+    "name:ina_x_variant":[
+        "magma"
     ],
     "name:ind_x_preferred":[
         "magma"
@@ -127,11 +211,17 @@
     "name:isl_x_preferred":[
         "Bergkvika"
     ],
+    "name:isl_x_variant":[
+        "bergkvika"
+    ],
     "name:ita_x_preferred":[
         "magma"
     ],
     "name:jam_x_preferred":[
         "Magma"
+    ],
+    "name:jam_x_variant":[
+        "magma"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30b0\u30de"
@@ -142,8 +232,14 @@
     "name:kaz_x_preferred":[
         "\u041c\u0430\u0433\u043c\u0430"
     ],
+    "name:kaz_x_variant":[
+        "\u043c\u0430\u0433\u043c\u0430"
+    ],
     "name:kir_x_preferred":[
         "\u041c\u0430\u0433\u043c\u0430"
+    ],
+    "name:kir_x_variant":[
+        "\u043c\u0430\u0433\u043c\u0430"
     ],
     "name:kor_x_preferred":[
         "\ub9c8\uadf8\ub9c8"
@@ -151,14 +247,29 @@
     "name:lat_x_preferred":[
         "Magma"
     ],
+    "name:lat_x_variant":[
+        "magma"
+    ],
     "name:lav_x_preferred":[
         "Magma"
+    ],
+    "name:lav_x_variant":[
+        "magma"
+    ],
+    "name:lfn_x_preferred":[
+        "magma"
     ],
     "name:lim_x_preferred":[
         "Magma"
     ],
+    "name:lim_x_variant":[
+        "magma"
+    ],
     "name:lit_x_preferred":[
         "Magma"
+    ],
+    "name:lit_x_variant":[
+        "magma"
     ],
     "name:ltz_x_preferred":[
         "Magma"
@@ -169,11 +280,23 @@
     "name:mkd_x_preferred":[
         "\u041c\u0430\u0433\u043c\u0430"
     ],
+    "name:mkd_x_variant":[
+        "\u043c\u0430\u0433\u043c\u0430"
+    ],
+    "name:mlg_x_preferred":[
+        "Magma"
+    ],
     "name:msa_x_preferred":[
         "Magma"
     ],
+    "name:msa_x_variant":[
+        "magma"
+    ],
     "name:nan_x_preferred":[
         "G\u00e2m-chiu\u207f"
+    ],
+    "name:nan_x_variant":[
+        "g\u00e2m-chiu\u207f"
     ],
     "name:nds_x_preferred":[
         "Magma"
@@ -202,17 +325,32 @@
     "name:pol_x_preferred":[
         "Magma"
     ],
+    "name:pol_x_variant":[
+        "magma"
+    ],
     "name:por_x_preferred":[
         "magma"
+    ],
+    "name:pus_x_preferred":[
+        "\u0645\u0627\u06ab\u0645\u0627"
     ],
     "name:que_x_preferred":[
         "Ninat'uru"
     ],
+    "name:que_x_variant":[
+        "ninat'uru"
+    ],
     "name:ron_x_preferred":[
         "Magm\u0103"
     ],
+    "name:ron_x_variant":[
+        "magm\u0103"
+    ],
     "name:rus_x_preferred":[
         "\u041c\u0430\u0433\u043c\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u043c\u0430\u0433\u043c\u0430"
     ],
     "name:sco_x_preferred":[
         "magma"
@@ -220,23 +358,44 @@
     "name:slk_x_preferred":[
         "Magma"
     ],
+    "name:slk_x_variant":[
+        "magma"
+    ],
     "name:slv_x_preferred":[
         "Magma"
+    ],
+    "name:slv_x_variant":[
+        "magma"
     ],
     "name:spa_x_preferred":[
         "magma"
     ],
+    "name:sqi_x_preferred":[
+        "Magma"
+    ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u0433\u043c\u0430"
+    ],
+    "name:srp_x_variant":[
+        "\u043c\u0430\u0433\u043c\u0430"
     ],
     "name:sun_x_preferred":[
         "Magma"
     ],
+    "name:sun_x_variant":[
+        "magma"
+    ],
     "name:swa_x_preferred":[
         "Magma"
     ],
+    "name:swa_x_variant":[
+        "magma"
+    ],
     "name:swe_x_preferred":[
         "Magma"
+    ],
+    "name:swe_x_variant":[
+        "magma"
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bb1\u0bcd\u0b95\u0bc1\u0bb4\u0bae\u0bcd\u0baa\u0bc1"
@@ -244,11 +403,20 @@
     "name:tat_x_preferred":[
         "\u041c\u0430\u0433\u043c\u0430"
     ],
+    "name:tat_x_variant":[
+        "\u043c\u0430\u0433\u043c\u0430"
+    ],
     "name:tgk_x_preferred":[
         "\u041c\u0430\u0433\u043c\u0430"
     ],
+    "name:tgk_x_variant":[
+        "\u043c\u0430\u0433\u043c\u0430"
+    ],
     "name:tgl_x_preferred":[
         "Magma"
+    ],
+    "name:tgl_x_variant":[
+        "magma"
     ],
     "name:tha_x_preferred":[
         "\u0e2b\u0e34\u0e19\u0e2b\u0e19\u0e37\u0e14"
@@ -259,20 +427,35 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0433\u043c\u0430"
     ],
+    "name:ukr_x_variant":[
+        "\u043c\u0430\u0433\u043c\u0430"
+    ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u06af\u0645\u0627"
     ],
     "name:uzb_x_preferred":[
         "Magma"
     ],
+    "name:uzb_x_variant":[
+        "magma"
+    ],
     "name:vie_x_preferred":[
         "Macma"
+    ],
+    "name:vie_x_variant":[
+        "macma"
     ],
     "name:vls_x_preferred":[
         "Magma"
     ],
+    "name:vls_x_variant":[
+        "magma"
+    ],
     "name:war_x_preferred":[
         "Magma"
+    ],
+    "name:war_x_variant":[
+        "magma"
     ],
     "name:xmf_x_preferred":[
         "\u10db\u10d0\u10d2\u10db\u10d0"
@@ -316,7 +499,7 @@
         }
     ],
     "wof:id":890426567,
-    "wof:lastmodified":1566719326,
+    "wof:lastmodified":1690934601,
     "wof:name":"Magma",
     "wof:parent_id":1108720513,
     "wof:placetype":"locality",

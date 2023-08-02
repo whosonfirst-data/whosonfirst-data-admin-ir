@@ -60,6 +60,12 @@
     "name:ces_x_preferred":[
         "Qom"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u0443\u043c"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0642\u0648\u0645"
+    ],
     "name:cym_x_preferred":[
         "Qom"
     ],
@@ -96,6 +102,12 @@
     "name:fra_x_preferred":[
         "Qom"
     ],
+    "name:gle_x_preferred":[
+        "Qom"
+    ],
+    "name:glg_x_preferred":[
+        "Qom"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0aae"
     ],
@@ -120,6 +132,12 @@
     "name:hye_x_preferred":[
         "\u053f\u0578\u0582\u0574"
     ],
+    "name:hye_x_variant":[
+        "\u0542\u0578\u0574"
+    ],
+    "name:ido_x_preferred":[
+        "Qom"
+    ],
     "name:ind_x_preferred":[
         "Qom"
     ],
@@ -129,11 +147,20 @@
     "name:jpn_x_preferred":[
         "\u30b4\u30e0"
     ],
+    "name:kaa_x_preferred":[
+        "Qum"
+    ],
     "name:kan_x_preferred":[
         "\u0c95\u0ccb\u0cae\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e7\u10e3\u10db\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u041a\u0443\u043c"
+    ],
+    "name:kaz_x_variant":[
+        "\u049a\u043e\u043c"
     ],
     "name:kir_x_preferred":[
         "\u041a\u0443\u043c \u0448\u0430\u0430\u0440\u044b"
@@ -156,13 +183,25 @@
     "name:lit_x_preferred":[
         "Kumas"
     ],
+    "name:lrc_x_preferred":[
+        "\u0642\u0648\u0645"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d15\u0d4d\u0d35\u0d4b\u0d02"
+    ],
     "name:mar_x_preferred":[
         "\u0915\u0949\u092e"
     ],
     "name:mlg_x_preferred":[
         "Qom"
     ],
+    "name:mri_x_preferred":[
+        "Qom"
+    ],
     "name:msa_x_preferred":[
+        "Qom"
+    ],
+    "name:nan_x_preferred":[
         "Qom"
     ],
     "name:nld_x_preferred":[
@@ -173,6 +212,9 @@
     ],
     "name:nor_x_preferred":[
         "Qom"
+    ],
+    "name:oss_x_preferred":[
+        "\u041a\u0443\u043c"
     ],
     "name:pnb_x_preferred":[
         "\u0642\u0645"
@@ -186,6 +228,9 @@
     "name:pus_x_preferred":[
         "\u0642\u0645"
     ],
+    "name:que_x_preferred":[
+        "Qom"
+    ],
     "name:ron_x_preferred":[
         "Qom"
     ],
@@ -198,11 +243,17 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0ddc\u0db8\u0dca"
     ],
+    "name:slk_x_preferred":[
+        "Kumm"
+    ],
     "name:spa_x_preferred":[
         "Qom"
     ],
     "name:srp_x_preferred":[
         "\u041a\u043e\u043c"
+    ],
+    "name:swa_x_preferred":[
+        "Ghom"
     ],
     "name:swe_x_preferred":[
         "Qom"
@@ -215,6 +266,9 @@
     ],
     "name:tam_x_variant":[
         "\u0b95\u0bc1\u0bb5\u0bcb\u0bae\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u043c"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4b\u0c2e\u0c4d"
@@ -409,7 +463,7 @@
         }
     ],
     "wof:id":421199797,
-    "wof:lastmodified":1636495433,
+    "wof:lastmodified":1690934588,
     "wof:megacity":1,
     "wof:name":"Qom",
     "wof:parent_id":1108720321,

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"56.2721355436,27.2040597822,56.2721355436,27.2040597822",
+    "geom:bbox":"56.272136,27.20406,56.272136,27.20406",
     "geom:latitude":27.20406,
     "geom:longitude":56.272136,
     "iso:country":"IR",
@@ -35,6 +35,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0435\u043d\u0434\u044d\u0440-\u0410\u0431\u0430\u0441"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u0435\u043d\u0434\u044d\u0440-\u0410\u0431\u0430\u0441"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09a8\u09cd\u09a6\u09b0 \u0986\u09ac\u09cd\u09ac\u09be\u09b8"
@@ -81,6 +84,9 @@
     "name:fra_x_preferred":[
         "Bandar Abbas"
     ],
+    "name:gle_x_preferred":[
+        "Bandar Abbas"
+    ],
     "name:glg_x_preferred":[
         "Bandar Abbas - \u0628\u0646\u062f\u0631 \u0639\u0628\u0627\u0633"
     ],
@@ -98,6 +104,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0532\u0561\u0576\u0564\u0565\u0580 \u0531\u0562\u0562\u0561\u057d"
+    ],
+    "name:hye_x_variant":[
+        "\u0532\u0561\u0576\u0564\u0561\u0580 \u0531\u0562\u0562\u0561\u057d"
     ],
     "name:ind_x_preferred":[
         "Bandar Abbas"
@@ -120,13 +129,31 @@
     "name:kur_x_preferred":[
         "Bender Ebbas"
     ],
+    "name:lat_x_preferred":[
+        "Gamronum"
+    ],
+    "name:lav_x_preferred":[
+        "Bandarab\u0101sa"
+    ],
     "name:lit_x_preferred":[
         "Bender Abasas"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2c\u0d28\u0d4d\u0d26\u0d7c \u0d05\u0d2c\u0d4d\u0d2c\u0d3e\u0d38\u0d4d"
     ],
     "name:mlg_x_preferred":[
         "Bandar Abbas"
     ],
+    "name:mri_x_preferred":[
+        "Bandar Abbas"
+    ],
     "name:msa_x_preferred":[
+        "Bandar Abbas"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0628\u0646\u062f\u0631 \u0639\u0628\u0627\u0633"
+    ],
+    "name:nan_x_preferred":[
         "Bandar Abbas"
     ],
     "name:nld_x_preferred":[
@@ -156,6 +183,9 @@
     "name:sco_x_preferred":[
         "Bandar Abbas"
     ],
+    "name:snd_x_preferred":[
+        "\u0628\u0646\u062f\u0631 \u0639\u0628\u0627\u0633"
+    ],
     "name:spa_x_preferred":[
         "Bandar Abbas"
     ],
@@ -168,14 +198,23 @@
     "name:swe_x_preferred":[
         "Bandar Abbas"
     ],
+    "name:tat_x_preferred":[
+        "\u0411\u04d9\u043d\u0434\u04d9\u0440\u0435-\u0413\u0430\u0431\u0431\u0430\u0441"
+    ],
     "name:tgk_x_preferred":[
         "\u0411\u0430\u043d\u0434\u0430\u0440-\u0410\u0431\u0431\u043e\u0441"
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e31\u0e19\u0e14\u0e32\u0e23\u0e4c\u0e2d\u0e31\u0e1a\u0e1a\u0e32\u0e2a"
     ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e1a\u0e19\u0e41\u0e14\u0e23\u0e4c\u0e41\u0e2d\u0e1a\u0e1a\u0e2d\u0e2a"
+    ],
     "name:tur_x_preferred":[
         "Bender Abbas"
+    ],
+    "name:uig_x_preferred":[
+        "\u0628\u06d5\u0646\u062f\u06d5\u0631 \u0626\u0627\u0628\u0628\u0627\u0633"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043d\u0434\u0435\u0440-\u0410\u0431\u0431\u0430\u0441"
@@ -186,11 +225,20 @@
     "name:uzb_x_preferred":[
         "Bandar-abbos"
     ],
+    "name:vec_x_preferred":[
+        "Bandar Abbas"
+    ],
     "name:vie_x_preferred":[
         "Bandar-Abbas"
     ],
     "name:war_x_preferred":[
         "Bandar Abbas"
+    ],
+    "name:wuu_x_preferred":[
+        "\u963f\u5df4\u65af\u6e2f"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d1\u10d4\u10dc\u10d3\u10d4\u10e0-\u10d0\u10d1\u10d0\u10e1\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u963f\u5df4\u65af\u6e2f"
@@ -303,7 +351,7 @@
     },
     "wof:country":"IR",
     "wof:created":1499131058,
-    "wof:geomhash":"4b94b19eb8777c33634137333cd5348a",
+    "wof:geomhash":"065451501005c585e6eac3b69fa31995",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -314,7 +362,7 @@
         }
     ],
     "wof:id":1141909283,
-    "wof:lastmodified":1566720470,
+    "wof:lastmodified":1690934620,
     "wof:name":"Bandar-e-Abbas",
     "wof:parent_id":1108719863,
     "wof:placetype":"locality",
@@ -324,10 +372,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    56.27213554363476,
-    27.20405978220958,
-    56.27213554363476,
-    27.20405978220958
+    56.272136,
+    27.20406,
+    56.272136,
+    27.20406
 ],
-  "geometry": {"coordinates":[56.27213554363476,27.20405978220958],"type":"Point"}
+  "geometry": {"coordinates":[56.272136,27.20406],"type":"Point"}
 }

@@ -36,11 +36,32 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u0644\u0627\u064a\u0631"
+    ],
+    "name:arz_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0645\u0644\u0627\u06cc\u0631"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0644\u0627\u06cc\u06cc\u0631 \u0628\u0624\u0644\u06af\u0647\u200c\u0633\u06cc"
+    ],
     "name:aze_x_preferred":[
         "M\u0259layer \u015f\u0259hristan\u0131"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b2\u09be\u09df\u09c7\u09b0"
+    ],
+    "name:ceb_x_preferred":[
+        "Shahrest\u0101n-e Mal\u0101yer"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0634\u0627\u0631\u0633\u062a\u0627\u0646\u06cc \u0645\u06d5\u0644\u0627\u06cc\u06ce\u0631"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Malayer"
+    ],
+    "name:deu_x_preferred":[
+        "Malayer"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03bb\u03b1\u03ca\u03ad\u03c1"
@@ -56,6 +77,9 @@
     ],
     "name:fra_x_preferred":[
         "pr\u00e9fecture de Malayer"
+    ],
+    "name:gle_x_preferred":[
+        "Contae Malayer"
     ],
     "name:glk_x_preferred":[
         "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0645\u0644\u0627\u06cc\u0631"
@@ -78,8 +102,17 @@
     "name:kor_x_preferred":[
         "\ub9d0\ub808\uc774\uc5b4"
     ],
+    "name:kur_x_preferred":[
+        "Melayer"
+    ],
+    "name:nan_x_preferred":[
+        "Malayer K\u016bn"
+    ],
     "name:nld_x_preferred":[
         "Malayer"
+    ],
+    "name:nno_x_preferred":[
+        "Malayer fylke"
     ],
     "name:pnb_x_preferred":[
         "\u0634\u06c1\u0631\u0633\u062a\u0627\u0646 \u0645\u0644\u0627\u06cc\u0631"
@@ -96,11 +129,17 @@
     "name:spa_x_preferred":[
         "Malayer"
     ],
+    "name:swe_x_preferred":[
+        "Shahrest\u0101n-e Mal\u0101yer"
+    ],
     "name:tgk_x_preferred":[
         "\u0428\u0430\u04b3\u0440\u0438\u0441\u0442\u043e\u043d\u0438 \u041c\u0430\u043b\u043e\u0439\u0438\u0440"
     ],
     "name:tur_x_preferred":[
         "Melayer \u015fehristan\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u043b\u0430\u0454\u0440"
     ],
     "name:urd_x_preferred":[
         "\u0634\u06c1\u0631\u0633\u062a\u0627\u0646 \u0645\u0644\u0627\u06cc\u0631"
@@ -142,7 +181,7 @@
         }
     ],
     "wof:id":1108720205,
-    "wof:lastmodified":1636495415,
+    "wof:lastmodified":1690934531,
     "wof:name":"Malayer",
     "wof:parent_id":85672355,
     "wof:placetype":"county",
