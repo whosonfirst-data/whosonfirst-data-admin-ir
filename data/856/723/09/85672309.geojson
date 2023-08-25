@@ -39,6 +39,9 @@
     "name:arz_x_preferred":[
         "\u0633\u0645\u0646\u0627\u0646"
     ],
+    "name:ava_x_preferred":[
+        "\u0421\u0435\u043c\u043d\u0430\u043d"
+    ],
     "name:azb_x_preferred":[
         "\u0633\u06cc\u0645\u0646\u0627\u0646 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
     ],
@@ -60,8 +63,14 @@
     "name:ces_x_preferred":[
         "Semn\u00e1n"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0435\u043c\u043d\u0430\u043d"
+    ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0633\u0645\u0646\u0627\u0646"
+    ],
+    "name:crh_x_preferred":[
+        "Semnan ostan\u0131"
     ],
     "name:cym_x_preferred":[
         "Semn\u0101n"
@@ -88,6 +97,9 @@
     ],
     "name:epo_x_preferred":[
         "provinco Semnano"
+    ],
+    "name:est_x_preferred":[
+        "Semn\u0101ni provints"
     ],
     "name:eus_x_preferred":[
         "Semnan"
@@ -124,6 +136,9 @@
     "name:heb_x_preferred":[
         "\u05de\u05d7\u05d5\u05d6 \u05e1\u05de\u05e0\u05d0\u05df"
     ],
+    "name:heb_x_variant":[
+        "\u05e4\u05e8\u05d5\u05d1\u05d9\u05e0\u05e6\u05d9\u05d9\u05ea \u05e1\u05de\u05e0\u05d0\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u0947\u092e\u0928\u093e\u0928 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
@@ -148,6 +163,9 @@
     "name:jpn_x_preferred":[
         "\u30bb\u30e0\u30ca\u30fc\u30f3\u5dde"
     ],
+    "name:kas_x_preferred":[
+        "\u0633\u0645\u0646\u0627\u0646 \u0635\u0648\u0657\u0628\u06c1\u0655"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10d4\u10db\u10dc\u10d0\u10dc\u10d8\u10e1 \u10dd\u10e1\u10e2\u10d0\u10dc\u10d8"
     ],
@@ -159,6 +177,9 @@
     ],
     "name:kur_x_preferred":[
         "Simnan"
+    ],
+    "name:lat_x_preferred":[
+        "Semnan"
     ],
     "name:lav_x_preferred":[
         "Semn\u0101na"
@@ -175,8 +196,14 @@
     "name:mkd_x_preferred":[
         "\u0421\u0435\u043c\u043d\u0430\u043d"
     ],
+    "name:mri_x_preferred":[
+        "Semnan Porowini"
+    ],
     "name:msa_x_preferred":[
         "Wilayah Semnan"
+    ],
+    "name:nan_x_preferred":[
+        "Semnan S\u00e9ng"
     ],
     "name:new_x_preferred":[
         "\u0938\u0947\u092e\u094d\u0928\u093e\u0928 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
@@ -186,6 +213,9 @@
     ],
     "name:nno_x_preferred":[
         "Semnan"
+    ],
+    "name:nno_x_variant":[
+        "Semnan-provinsen"
     ],
     "name:nob_x_preferred":[
         "Semnan"
@@ -226,6 +256,12 @@
     "name:swe_x_preferred":[
         "Semnan"
     ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc6\u0bae\u0bcd\u0ba9\u0ba9\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0438\u043c\u043d\u0430\u043d"
+    ],
     "name:tgk_x_preferred":[
         "\u0423\u0441\u0442\u043e\u043d\u0438 \u0421\u0438\u043c\u043d\u043e\u043d"
     ],
@@ -252,6 +288,9 @@
     ],
     "name:war_x_preferred":[
         "Semn\u0101n"
+    ],
+    "name:wuu_x_preferred":[
+        "\u585e\u59c6\u5357\u7701"
     ],
     "name:yue_x_preferred":[
         "\u585e\u59c6\u5357\u7701"
@@ -382,7 +421,7 @@
     "wof:lang_x_spoken":[
         "fas"
     ],
-    "wof:lastmodified":1636495387,
+    "wof:lastmodified":1690934426,
     "wof:name":"Semnan",
     "wof:parent_id":85632361,
     "wof:placetype":"region",

@@ -29,6 +29,9 @@
     "name:arz_x_preferred":[
         "\u0627\u0647\u0648\u0627\u0632"
     ],
+    "name:ava_x_preferred":[
+        "\u0410\u0445\u04c0\u0432\u0430\u0437"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0647\u0648\u0627\u0632"
     ],
@@ -101,6 +104,9 @@
     "name:fra_x_preferred":[
         "Ahvaz"
     ],
+    "name:gle_x_preferred":[
+        "Ahvaz"
+    ],
     "name:glg_x_preferred":[
         "Ahvaz"
     ],
@@ -128,6 +134,9 @@
     "name:hye_x_preferred":[
         "\u0531\u056d\u057e\u0561\u0566"
     ],
+    "name:hye_x_variant":[
+        "\u0531\u0570\u057e\u0561\u0566"
+    ],
     "name:ind_x_preferred":[
         "Ahvaz"
     ],
@@ -149,6 +158,9 @@
     "name:kir_x_preferred":[
         "\u0410\u0445\u0432\u0430\u0437 \u0448\u0430\u0430\u0440\u044b"
     ],
+    "name:kir_x_variant":[
+        "\u0410\u0445\u0432\u0430\u0437"
+    ],
     "name:kor_x_preferred":[
         "\uc544\ubc14\uc988"
     ],
@@ -158,17 +170,29 @@
     "name:lat_x_preferred":[
         "Ahvaz"
     ],
+    "name:lat_x_variant":[
+        "Vasetum"
+    ],
     "name:lav_x_preferred":[
         "Ahv\u0101za"
     ],
     "name:lit_x_preferred":[
         "Ahvazas"
     ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d39\u0d4d\u0d35\u0d3e\u0d38\u0d4d"
+    ],
     "name:mlg_x_preferred":[
+        "Ahvaz"
+    ],
+    "name:mri_x_preferred":[
         "Ahvaz"
     ],
     "name:msa_x_preferred":[
         "Ahvaz"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0627\u0647\u0648\u0627\u0632"
     ],
     "name:nld_x_preferred":[
         "Ahvaz"
@@ -224,6 +248,9 @@
     "name:tam_x_variant":[
         "\u0b86\u0b95\u0bcd\u0bb5\u0bbe\u0b9a\u0bc1"
     ],
+    "name:tat_x_preferred":[
+        "\u04d8\u04bb\u0432\u0430\u0437"
+    ],
     "name:tgk_x_preferred":[
         "\u0410\u04b3\u0432\u043e\u0437"
     ],
@@ -251,11 +278,20 @@
     "name:uzb_x_preferred":[
         "Ahvoz"
     ],
+    "name:vec_x_preferred":[
+        "Ahvaz"
+    ],
     "name:vie_x_preferred":[
         "Ahvaz"
     ],
     "name:war_x_preferred":[
         "Ahvaz"
+    ],
+    "name:wuu_x_preferred":[
+        "\u963f\u74e6\u58eb"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d0\u10f0\u10d5\u10d0\u10d6\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u963f\u83ef\u58eb"
@@ -387,8 +423,8 @@
     "wof:belongsto":[
         102191569,
         85632361,
-        1108719793,
-        85672325
+        85672325,
+        1108719793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -416,7 +452,7 @@
         }
     ],
     "wof:id":421168643,
-    "wof:lastmodified":1610148762,
+    "wof:lastmodified":1690934549,
     "wof:megacity":1,
     "wof:name":"Ahvaz",
     "wof:parent_id":1108719793,

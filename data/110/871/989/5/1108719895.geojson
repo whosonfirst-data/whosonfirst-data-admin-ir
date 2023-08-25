@@ -39,8 +39,23 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u064a\u0631\u062c\u0646\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0628\u06cc\u0631\u062c\u0646\u062f"
+    ],
     "name:aze_x_preferred":[
         "Birc\u0259nd \u015f\u0259hristan\u0131"
+    ],
+    "name:ceb_x_preferred":[
+        "Shahrest\u0101n-e B\u012brjand"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0628\u06cc\u0631\u062c\u06d5\u0646\u062f"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Birjand"
+    ],
+    "name:deu_x_preferred":[
+        "Birdschand"
     ],
     "name:eng_x_preferred":[
         "Birjand"
@@ -54,11 +69,20 @@
     "name:fra_x_preferred":[
         "pr\u00e9fecture de Birjand"
     ],
+    "name:gle_x_preferred":[
+        "Contae Birjand"
+    ],
     "name:glk_x_preferred":[
         "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0628\u06cc\u0631\u062c\u0646\u062f"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d1\u05d9\u05e8\u05d2'\u05e0\u05d3"
+    ],
     "name:hun_x_preferred":[
         "Birjand"
+    ],
+    "name:hun_x_variant":[
+        "Birdzsand megye"
     ],
     "name:ita_x_preferred":[
         "shahrest\u0101n di Birjand"
@@ -66,11 +90,23 @@
     "name:jpn_x_preferred":[
         "\u30d3\u30fc\u30eb\u30b8\u30e3\u30f3\u30c9\u90e1"
     ],
+    "name:kur_x_preferred":[
+        "B\u00eercend"
+    ],
+    "name:nan_x_preferred":[
+        "Birjand K\u016bn"
+    ],
     "name:nld_x_preferred":[
         "Birjand"
     ],
+    "name:nno_x_preferred":[
+        "Birjand fylke"
+    ],
     "name:pnb_x_preferred":[
         "\u0634\u06c1\u0631\u0633\u062a\u0627\u0646 \u0628\u06cc\u0631\u062c\u0646\u062f"
+    ],
+    "name:pol_x_preferred":[
+        "Bird\u017cand"
     ],
     "name:pus_x_preferred":[
         "\u0628\u064a\u0631\u062c\u0646\u062f \u0648\u0644\u0633\u0648\u0627\u0644\u064a"
@@ -81,6 +117,9 @@
     "name:sco_x_preferred":[
         "Birjand Coonty"
     ],
+    "name:swe_x_preferred":[
+        "Birjand"
+    ],
     "name:tgk_x_preferred":[
         "\u0428\u0430\u04b3\u0440\u0438\u0441\u0442\u043e\u043d\u0438 \u0411\u0435\u0440\u04b7\u0430\u043d\u0434"
     ],
@@ -89,6 +128,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0634\u06c1\u0631\u0633\u062a\u0627\u0646 \u0628\u06cc\u0631\u062c\u0646\u062f"
+    ],
+    "name:uzb_x_preferred":[
+        "Birjand okrugi"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u5c14\u8a79\u5fb7\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -124,7 +169,7 @@
         }
     ],
     "wof:id":1108719895,
-    "wof:lastmodified":1636495419,
+    "wof:lastmodified":1690934542,
     "wof:name":"Birjand",
     "wof:parent_id":85672391,
     "wof:placetype":"county",

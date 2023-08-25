@@ -56,6 +56,9 @@
     "name:ces_x_preferred":[
         "Jazd"
     ],
+    "name:ckb_x_preferred":[
+        "\u06cc\u06d5\u0632\u062f"
+    ],
     "name:cym_x_preferred":[
         "Yazd"
     ],
@@ -87,6 +90,9 @@
         "Yazd"
     ],
     "name:fra_x_preferred":[
+        "Yazd"
+    ],
+    "name:gle_x_preferred":[
         "Yazd"
     ],
     "name:gsw_x_preferred":[
@@ -152,6 +158,9 @@
     "name:lit_x_preferred":[
         "Jezdas"
     ],
+    "name:mal_x_preferred":[
+        "\u0d2f\u0d3e\u0d38\u0d4d\u0d26\u0d4d"
+    ],
     "name:mar_x_preferred":[
         "\u092f\u093e\u091d\u0926"
     ],
@@ -161,8 +170,14 @@
     "name:mlg_x_preferred":[
         "Yazd"
     ],
+    "name:mri_x_preferred":[
+        "Yazd"
+    ],
     "name:msa_x_preferred":[
         "Yazd"
+    ],
+    "name:mzn_x_preferred":[
+        "\u06cc\u0632\u062f"
     ],
     "name:nld_x_preferred":[
         "Yazd"
@@ -175,6 +190,9 @@
     ],
     "name:oci_x_preferred":[
         "Yazd"
+    ],
+    "name:oss_x_preferred":[
+        "\u0419\u0435\u0437\u0434"
     ],
     "name:pol_x_preferred":[
         "Jazd"
@@ -196,6 +214,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0dba\u0dc3\u0dca\u0da9\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Jazd"
     ],
     "name:slv_x_preferred":[
         "Yazd"
@@ -233,8 +254,14 @@
     "name:tur_x_preferred":[
         "Yezd"
     ],
+    "name:uig_x_preferred":[
+        "\u064a\u06d5\u0632\u062f"
+    ],
     "name:ukr_x_preferred":[
         "\u042f\u0437\u0434"
+    ],
+    "name:ukr_x_variant":[
+        "\u0404\u0437\u0434"
     ],
     "name:urd_x_preferred":[
         "\u06cc\u0632\u062f"
@@ -242,11 +269,17 @@
     "name:uzb_x_preferred":[
         "Yazd"
     ],
+    "name:vec_x_preferred":[
+        "Yazd"
+    ],
     "name:vie_x_preferred":[
         "Yazd"
     ],
     "name:war_x_preferred":[
         "Yazd"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e9a\u5179\u5fb7"
     ],
     "name:zho_x_preferred":[
         "\u4e9a\u5179\u5fb7"
@@ -394,7 +427,7 @@
         }
     ],
     "wof:id":421204531,
-    "wof:lastmodified":1566719312,
+    "wof:lastmodified":1690934563,
     "wof:name":"Yezd",
     "wof:parent_id":1108720511,
     "wof:placetype":"locality",

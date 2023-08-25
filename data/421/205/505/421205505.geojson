@@ -71,8 +71,14 @@
     "name:fra_x_preferred":[
         "Ghouchan"
     ],
+    "name:gle_x_preferred":[
+        "Quchan"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac1\u0a9a\u0abe\u0aa8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e6'\u05d0\u05df"
     ],
     "name:hin_x_preferred":[
         "\u0915\u0942\u091a\u093e\u0928"
@@ -95,6 +101,9 @@
     "name:kur_x_preferred":[
         "Qo\u00e7an\u00ee"
     ],
+    "name:kur_x_variant":[
+        "Qo\u00e7an"
+    ],
     "name:lav_x_preferred":[
         "Ku\u010dana"
     ],
@@ -112,6 +121,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u0642\u0648\u0686\u0627\u0646"
+    ],
+    "name:nan_x_preferred":[
+        "Quchan"
     ],
     "name:nld_x_preferred":[
         "Quchan"
@@ -312,7 +324,7 @@
         }
     ],
     "wof:id":421205505,
-    "wof:lastmodified":1566719314,
+    "wof:lastmodified":1690934568,
     "wof:name":"Gochan",
     "wof:parent_id":1108720327,
     "wof:placetype":"locality",

@@ -37,6 +37,9 @@
     "name:ang_x_preferred":[
         "Tehran"
     ],
+    "name:anp_x_preferred":[
+        "\u0924\u0947\u0939\u0930\u093e\u0928"
+    ],
     "name:ara_x_preferred":[
         "\u0637\u0647\u0631\u0627\u0646"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:arg_x_preferred":[
         "Teher\u00e1n"
+    ],
+    "name:ary_x_preferred":[
+        "\u0637\u0647\u0631\u0627\u0646"
     ],
     "name:arz_x_preferred":[
         "\u0637\u0647\u0631\u0627\u0646"
@@ -55,6 +61,9 @@
     "name:ast_x_preferred":[
         "Te\u1e25r\u00e1n"
     ],
+    "name:ava_x_preferred":[
+        "\u0422\u0435\u0433\u044c\u0440\u0430\u043d"
+    ],
     "name:azb_x_preferred":[
         "\u062a\u0626\u0647\u0631\u0627\u0646"
     ],
@@ -63,6 +72,12 @@
     ],
     "name:bak_x_preferred":[
         "\u0422\u0435\u0433\u0435\u0440\u0430\u043d"
+    ],
+    "name:bak_x_variant":[
+        "\u0422\u04d9\u04bb\u0440\u0430\u043d"
+    ],
+    "name:ban_x_preferred":[
+        "T\u00e9h\u00e9ran"
     ],
     "name:bar_x_preferred":[
         "Teheran"
@@ -206,6 +221,9 @@
     "name:glk_x_preferred":[
         "\u062a\u0626\u0631\u0627\u0646"
     ],
+    "name:grn_x_preferred":[
+        "Teer\u00e3"
+    ],
     "name:gsw_x_preferred":[
         "Teheran"
     ],
@@ -296,6 +314,9 @@
     "name:kan_x_preferred":[
         "\u0ca4\u0cc6\u0cb9\u0ccd\u0cb0\u0cbe\u0ca8\u0ccd"
     ],
+    "name:kas_x_preferred":[
+        "\u062a\u06c1\u0631\u0627\u0646"
+    ],
     "name:kat_x_preferred":[
         "\u10d7\u10d4\u10d8\u10e0\u10d0\u10dc\u10d8"
     ],
@@ -329,6 +350,9 @@
     "name:lez_x_preferred":[
         "\u0422\u0435\u0433\u044c\u0440\u0430\u043d"
     ],
+    "name:lfn_x_preferred":[
+        "Teran"
+    ],
     "name:lij_x_preferred":[
         "Teheran"
     ],
@@ -337,6 +361,9 @@
     ],
     "name:lit_x_preferred":[
         "Teheranas"
+    ],
+    "name:lld_x_preferred":[
+        "Teheran"
     ],
     "name:lmo_x_preferred":[
         "Teheran"
@@ -356,14 +383,23 @@
     "name:mar_x_preferred":[
         "\u0924\u0947\u0939\u0930\u093e\u0928"
     ],
+    "name:mdf_x_preferred":[
+        "\u0422\u044d\u0433\u044d\u0440\u0430\u043d"
+    ],
     "name:mhr_x_preferred":[
         "\u0422\u0435\u0433\u0435\u0440\u0430\u043d"
+    ],
+    "name:min_x_preferred":[
+        "Tehran"
     ],
     "name:mkd_x_preferred":[
         "\u0422\u0435\u0445\u0435\u0440\u0430\u043d"
     ],
     "name:mlg_x_preferred":[
         "Teheran"
+    ],
+    "name:mlt_x_preferred":[
+        "Tehran"
     ],
     "name:mon_x_preferred":[
         "\u0422\u0435\u0433\u0435\u0440\u0430\u043d"
@@ -394,6 +430,9 @@
     ],
     "name:nap_x_preferred":[
         "Teheran"
+    ],
+    "name:nav_x_preferred":[
+        "Dzi\u0142ts\u012f\u0301\u012f\u0301k\u02bceh"
     ],
     "name:nds_x_preferred":[
         "Teheran"
@@ -504,6 +543,9 @@
         "Teheran"
     ],
     "name:sme_x_preferred":[
+        "Teheran"
+    ],
+    "name:smn_x_preferred":[
         "Teheran"
     ],
     "name:sna_x_preferred":[
@@ -751,8 +793,8 @@
     "wof:belongsto":[
         102191569,
         85632361,
-        1108720491,
-        85672313
+        85672313,
+        1108720491
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -786,7 +828,7 @@
         }
     ],
     "wof:id":421204533,
-    "wof:lastmodified":1608688190,
+    "wof:lastmodified":1690934563,
     "wof:megacity":1,
     "wof:name":"Tehran",
     "wof:parent_id":1108720491,

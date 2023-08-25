@@ -42,6 +42,9 @@
     "name:ast_x_preferred":[
         "Provincia d'Ilam"
     ],
+    "name:ava_x_preferred":[
+        "\u0418\u043b\u0430\u043c"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u06cc\u0644\u0627\u0645 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
     ],
@@ -54,14 +57,26 @@
     "name:bul_x_preferred":[
         "\u0418\u043b\u0430\u043c"
     ],
+    "name:cat_x_preferred":[
+        "Prov\u00edncia d'Ilam"
+    ],
     "name:ceb_x_preferred":[
         "Il\u0101m"
     ],
     "name:ces_x_preferred":[
         "\u00cdl\u00e1m"
     ],
+    "name:che_x_preferred":[
+        "\u0418\u043b\u0430\u043c"
+    ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0626\u06cc\u0644\u0627\u0645"
+    ],
+    "name:crh_x_preferred":[
+        "\u0130lam ostan\u0131"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Ilam"
     ],
     "name:dan_x_preferred":[
         "Ilam"
@@ -80,6 +95,9 @@
     ],
     "name:epo_x_preferred":[
         "Provinco Ilamo"
+    ],
+    "name:est_x_preferred":[
+        "\u012al\u0101mi provints"
     ],
     "name:eus_x_preferred":[
         "Ilam"
@@ -148,6 +166,9 @@
     "name:kur_x_preferred":[
         "\u00celam"
     ],
+    "name:lat_x_preferred":[
+        "Elam"
+    ],
     "name:lav_x_preferred":[
         "\u012al\u0101ma"
     ],
@@ -156,6 +177,9 @@
     ],
     "name:lrc_x_preferred":[
         "\u0622\u0633\u062a\u0648\u0659\u0646 \u0626\u06cc\u0644\u0627\u0645"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d07\u0d32\u0d3e\u0d02 \u0d2a\u0d4d\u0d30\u0d35\u0d3f\u0d36\u0d4d\u0d2f"
     ],
     "name:mar_x_preferred":[
         "\u0907\u0932\u093e\u092e \u092a\u094d\u0930\u093e\u0902\u0924"
@@ -166,8 +190,14 @@
     "name:mlg_x_preferred":[
         "Il\u0101m"
     ],
+    "name:mri_x_preferred":[
+        "Ilam Porowini"
+    ],
     "name:msa_x_preferred":[
         "Ilam"
+    ],
+    "name:nan_x_preferred":[
+        "Ilam S\u00e9ng"
     ],
     "name:new_x_preferred":[
         "\u0907\u0932\u093e\u092e \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
@@ -175,8 +205,14 @@
     "name:nld_x_preferred":[
         "Ilam"
     ],
+    "name:nno_x_preferred":[
+        "Ilam-provinsen"
+    ],
     "name:nob_x_preferred":[
         "Ilam"
+    ],
+    "name:oss_x_preferred":[
+        "\u0418\u043b\u0430\u043c"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u06cc\u0644\u0627\u0645"
@@ -211,6 +247,9 @@
     "name:tam_x_preferred":[
         "\u0b87\u0bb2\u0bbe\u0bae\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0418\u043b\u0430\u043c"
+    ],
     "name:tgk_x_preferred":[
         "\u0423\u0441\u0442\u043e\u043d\u0438 \u042d\u043b\u043e\u043c"
     ],
@@ -237,6 +276,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u06cc\u0644\u0627\u0645"
+    ],
+    "name:uzb_x_preferred":[
+        "Ilom ustoni"
     ],
     "name:vie_x_preferred":[
         "Ilam"
@@ -376,7 +418,7 @@
     "wof:lang_x_spoken":[
         "fas"
     ],
-    "wof:lastmodified":1636495386,
+    "wof:lastmodified":1690934423,
     "wof:name":"Ilam",
     "wof:parent_id":85632361,
     "wof:placetype":"region",

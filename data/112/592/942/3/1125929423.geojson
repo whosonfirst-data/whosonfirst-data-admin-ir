@@ -37,6 +37,9 @@
     "name:aze_x_preferred":[
         "Ni\u015fapur"
     ],
+    "name:bak_x_preferred":[
+        "\u041d\u0438\u0448\u0430\u043f\u0443\u0440"
+    ],
     "name:bel_x_preferred":[
         "\u041d\u0456\u0448\u0430\u043f\u0443\u0440"
     ],
@@ -142,6 +145,9 @@
     "name:jpn_x_variant":[
         "\u30cb\u30fc\u30b7\u30e3\u30fc\u30d7\u30fc\u30eb"
     ],
+    "name:kab_x_preferred":[
+        "Nisapur"
+    ],
     "name:kat_x_preferred":[
         "\u10dc\u10d8\u10e8\u10d0\u10d1\u10e3\u10e0\u10d8"
     ],
@@ -157,11 +163,17 @@
     "name:lat_x_preferred":[
         "Nishapur"
     ],
+    "name:lat_x_variant":[
+        "Nisapurum"
+    ],
     "name:lav_x_preferred":[
         "Nei\u0161\u0101b\u016bra"
     ],
     "name:lit_x_preferred":[
         "Ni\u0161ap\u016bras"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d28\u0d3f\u0d37\u0d3e\u0d2a\u0d42\u0d7c"
     ],
     "name:mar_x_preferred":[
         "\u0928\u093f\u0936\u093e\u092a\u0942\u0930"
@@ -175,8 +187,17 @@
     "name:mlg_x_preferred":[
         "Nishapur"
     ],
+    "name:mlt_x_preferred":[
+        "Nishapur"
+    ],
+    "name:mon_x_preferred":[
+        "\u041d\u0438\u0448\u0430\u043f\u0443\u0440"
+    ],
     "name:mzn_x_preferred":[
         "\u0646\u06cc\u0634\u0627\u0628\u0648\u0631"
+    ],
+    "name:nan_x_preferred":[
+        "Nishapur"
     ],
     "name:nld_x_preferred":[
         "Neyshabur"
@@ -214,6 +235,9 @@
     "name:sco_x_preferred":[
         "Nishapur"
     ],
+    "name:slk_x_preferred":[
+        "N\u00ed\u0161\u00e1p\u00far"
+    ],
     "name:slv_x_preferred":[
         "Ni\u0161apur"
     ],
@@ -226,11 +250,23 @@
     "name:sqi_x_preferred":[
         "Nishapur"
     ],
+    "name:srp_x_preferred":[
+        "\u041d\u0438\u0448\u0430\u043f\u0443\u0440"
+    ],
     "name:swe_x_preferred":[
         "Neyshabur"
     ],
+    "name:tam_x_preferred":[
+        "\u0ba8\u0bbf\u0b9a\u0bbe\u0baa\u0bc2\u0bb0\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041d\u0438\u0448\u0430\u043f\u0443\u0440"
+    ],
     "name:tgk_x_preferred":[
         "\u041d\u0438\u0448\u043e\u043f\u0443\u0440"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e19\u0e35\u0e0a\u0e2d\u0e1a\u0e39\u0e23\u0e4c"
     ],
     "name:tuk_x_preferred":[
         "Ni\u015fabur"
@@ -250,11 +286,17 @@
     "name:uzb_x_preferred":[
         "Nishopur"
     ],
+    "name:vec_x_preferred":[
+        "Nishapur"
+    ],
     "name:vie_x_preferred":[
         "Nishapur"
     ],
     "name:war_x_preferred":[
         "Neyshabur"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5185\u6c99\u5e03\u5c14"
     ],
     "name:zho_x_preferred":[
         "\u5167\u6c99\u5e03\u723e"
@@ -298,7 +340,7 @@
         }
     ],
     "wof:id":1125929423,
-    "wof:lastmodified":1566719327,
+    "wof:lastmodified":1690934604,
     "wof:name":"Neysh\u0101b\u016br",
     "wof:parent_id":1108720279,
     "wof:placetype":"locality",

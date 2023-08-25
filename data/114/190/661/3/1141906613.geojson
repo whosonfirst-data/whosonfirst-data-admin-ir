@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"44.9999816475,37.5299947297,44.9999816475,37.5299947297",
+    "geom:bbox":"44.999982,37.529995,44.999982,37.529995",
     "geom:latitude":37.529995,
     "geom:longitude":44.999982,
     "iso:country":"IR",
@@ -35,6 +35,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0423\u0440\u043c\u0456\u044f"
+    ],
+    "name:bel_x_variant":[
+        "\u0423\u0440\u043c\u0456\u044f"
     ],
     "name:ben_x_preferred":[
         "\u0989\u09b0\u09cd\u09ae\u09bf\u09af\u09bc\u09be"
@@ -87,6 +90,12 @@
     "name:gla_x_preferred":[
         "Urmia"
     ],
+    "name:gle_x_preferred":[
+        "Urmia"
+    ],
+    "name:glk_x_preferred":[
+        "\u0627\u06ca\u0631\u06ca\u0645\u064a\u0647"
+    ],
     "name:guj_x_preferred":[
         "\u0a89\u0ab0\u0acd\u0aae\u0abf\u0aaf\u0abe"
     ],
@@ -135,13 +144,25 @@
     "name:lit_x_preferred":[
         "Urmija"
     ],
+    "name:mal_x_preferred":[
+        "\u0d0a\u0d7c\u0d2e\u0d3f\u0d2f"
+    ],
     "name:mar_x_preferred":[
         "\u0909\u0930\u094d\u092e\u093f\u0906"
     ],
     "name:mlg_x_preferred":[
         "Urmia"
     ],
+    "name:mri_x_preferred":[
+        "Urmia"
+    ],
     "name:msa_x_preferred":[
+        "Urmia"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0627\u0631\u0648\u0645\u06cc\u0647"
+    ],
+    "name:nan_x_preferred":[
         "Urmia"
     ],
     "name:nld_x_preferred":[
@@ -149,6 +170,9 @@
     ],
     "name:nob_x_preferred":[
         "Urmia"
+    ],
+    "name:oss_x_preferred":[
+        "\u0423\u0440\u043c\u0438"
     ],
     "name:pnb_x_preferred":[
         "\u0627\u0631\u0648\u0645\u06cc\u06c1"
@@ -171,17 +195,26 @@
     "name:sin_x_preferred":[
         "\u0d8b\u0dbb\u0dca\u0db8\u0dd2\u0dba\u0dcf"
     ],
+    "name:sme_x_preferred":[
+        "Urmia"
+    ],
     "name:spa_x_preferred":[
         "Urm\u00eda"
     ],
     "name:srp_x_preferred":[
         "\u0423\u0440\u043c\u0438\u0458\u0430"
     ],
+    "name:swa_x_preferred":[
+        "Urmia"
+    ],
     "name:swe_x_preferred":[
         "Urmia"
     ],
     "name:tam_x_preferred":[
         "\u0b89\u0bb0\u0bcd\u0bae\u0bbf\u0baf\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u0423\u0440\u043c\u0438\u044f"
     ],
     "name:tel_x_preferred":[
         "\u0c09\u0c30\u0c4d\u0c2e\u0c3f\u0c2f\u0c3e"
@@ -204,11 +237,20 @@
     "name:urd_x_preferred":[
         "\u0627\u0631\u0648\u0645\u06cc\u06c1"
     ],
+    "name:uzb_x_preferred":[
+        "Urmiya"
+    ],
+    "name:vec_x_preferred":[
+        "Urmia"
+    ],
     "name:vie_x_preferred":[
         "Urmia"
     ],
     "name:war_x_preferred":[
         "Urmia"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e4c\u5c14\u7c73\u8036"
     ],
     "name:yue_x_preferred":[
         "\u70cf\u723e\u7c73\u8036"
@@ -324,7 +366,7 @@
     },
     "wof:country":"IR",
     "wof:created":1499130616,
-    "wof:geomhash":"b2cd8f9647e537a9913460a9fe3b2481",
+    "wof:geomhash":"d50a80e886bfadd03b1d2fd3c1c434c0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -335,7 +377,7 @@
         }
     ],
     "wof:id":1141906613,
-    "wof:lastmodified":1566720470,
+    "wof:lastmodified":1690934619,
     "wof:name":"Urmia",
     "wof:parent_id":1108720289,
     "wof:placetype":"locality",
@@ -345,10 +387,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    44.9999816475285,
-    37.52999472965871,
-    44.9999816475285,
-    37.52999472965871
+    44.999982,
+    37.529995,
+    44.999982,
+    37.529995
 ],
-  "geometry": {"coordinates":[44.9999816475285,37.52999472965871],"type":"Point"}
+  "geometry": {"coordinates":[44.999982,37.529995],"type":"Point"}
 }

@@ -82,6 +82,12 @@
     "name:fra_x_preferred":[
         "Bojnourd"
     ],
+    "name:gle_x_preferred":[
+        "Bojnord"
+    ],
+    "name:glk_x_preferred":[
+        "\u0628\u06ca\u062c\u0646\u06ca\u0631\u062f"
+    ],
     "name:guj_x_preferred":[
         "\u0aac\u0acb\u0a9c\u0aa8\u0acb\u0ab0\u0acd\u0aa1"
     ],
@@ -130,7 +136,16 @@
     "name:mlg_x_preferred":[
         "Bojnord"
     ],
+    "name:mri_x_preferred":[
+        "Bojnourd"
+    ],
     "name:msa_x_preferred":[
+        "Bojnord"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0628\u062c\u0646\u0648\u0631\u062f"
+    ],
+    "name:nan_x_preferred":[
         "Bojnord"
     ],
     "name:nld_x_preferred":[
@@ -138,6 +153,9 @@
     ],
     "name:nob_x_preferred":[
         "Bojnord"
+    ],
+    "name:oss_x_preferred":[
+        "\u0411\u043e\u0434\u0436\u043d\u0443\u0440\u0434"
     ],
     "name:pnb_x_preferred":[
         "\u0628\u062c\u0646\u0648\u0631\u062f"
@@ -172,8 +190,14 @@
     "name:swe_x_preferred":[
         "Bojnourd"
     ],
+    "name:swe_x_variant":[
+        "Bojnurd"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bcb\u0b9c\u0ba9\u0bbe\u0bb0\u0bcd\u0b9f\u0bc1"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u043e\u0497\u043d\u0443\u0440\u0434"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c4b\u0c1c\u0c4d\u0c28\u0c4b\u0c30\u0c4d\u0c21\u0c4d"
@@ -202,6 +226,12 @@
     "name:urd_x_preferred":[
         "\u0628\u062c\u0646\u0648\u0631\u062f"
     ],
+    "name:uzb_x_preferred":[
+        "Bojnord"
+    ],
+    "name:vec_x_preferred":[
+        "Bojnurd"
+    ],
     "name:vie_x_preferred":[
         "Bojnord"
     ],
@@ -210,6 +240,9 @@
     ],
     "name:zho_x_preferred":[
         "\u535a\u5b63\u52aa\u723e\u5fb7\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u535a\u5b63\u52aa\u723e\u5fb7"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Iran",
@@ -339,7 +372,7 @@
         }
     ],
     "wof:id":890443183,
-    "wof:lastmodified":1566719326,
+    "wof:lastmodified":1690934601,
     "wof:name":"Bojn\u016brd",
     "wof:parent_id":1108719897,
     "wof:placetype":"locality",

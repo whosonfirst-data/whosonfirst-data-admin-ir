@@ -38,6 +38,9 @@
     "name:ces_x_preferred":[
         "\u010c\u00e1hbah\u00e1r"
     ],
+    "name:ckb_x_preferred":[
+        "\u0686\u0627\u0628\u06d5\u06be\u0627\u0631"
+    ],
     "name:dan_x_preferred":[
         "Chabahar"
     ],
@@ -65,6 +68,12 @@
         "Delicias"
     ],
     "name:fra_x_preferred":[
+        "Chabahar"
+    ],
+    "name:fra_x_variant":[
+        "Tchabahar"
+    ],
+    "name:gle_x_preferred":[
         "Chabahar"
     ],
     "name:guj_x_preferred":[
@@ -112,6 +121,12 @@
     "name:msa_x_preferred":[
         "Chabahar"
     ],
+    "name:mzn_x_preferred":[
+        "\u0686\u0627\u0628\u0647\u0627\u0631"
+    ],
+    "name:nan_x_preferred":[
+        "Chabahar"
+    ],
     "name:nld_x_preferred":[
         "Chabahar"
     ],
@@ -143,14 +158,23 @@
     "name:sin_x_preferred":[
         "\u0da0\u0db6\u0dc4\u0dbb\u0dca"
     ],
+    "name:snd_x_preferred":[
+        "\u0686\u0627\u0628\u06be\u0627\u0631"
+    ],
     "name:spa_x_preferred":[
         "Chabahar"
     ],
     "name:swe_x_preferred":[
         "Ch\u0101bah\u0101r"
     ],
+    "name:swe_x_variant":[
+        "Chabahar"
+    ],
     "name:tam_x_preferred":[
         "\u0b9a\u0baa\u0bbe\u0bb9\u0bb0\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0427\u0430\u0431\u04d9\u04bb\u0430\u0440"
     ],
     "name:tel_x_preferred":[
         "\u0c1a\u0c2c\u0c39\u0c3e\u0c30\u0c4d"
@@ -173,11 +197,17 @@
     "name:urd_x_variant":[
         "\u0686\u0627\u0628\u06be\u0627\u0631"
     ],
+    "name:uzb_x_preferred":[
+        "Chobahar"
+    ],
     "name:vie_x_preferred":[
         "Chabahar"
     ],
     "name:zho_x_preferred":[
         "\u6070\u8d6b\u5df4\u54c8\u723e"
+    ],
+    "name:zho_x_variant":[
+        "\u6070\u5df4\u54c8\u723e"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Iran",
@@ -322,7 +352,7 @@
         }
     ],
     "wof:id":421168805,
-    "wof:lastmodified":1636495430,
+    "wof:lastmodified":1690934549,
     "wof:name":"Chabahar",
     "wof:parent_id":1108719919,
     "wof:placetype":"locality",

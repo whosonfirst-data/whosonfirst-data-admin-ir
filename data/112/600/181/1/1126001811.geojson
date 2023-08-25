@@ -37,6 +37,9 @@
     "name:ceb_x_preferred":[
         "Q\u0101'en"
     ],
+    "name:ckb_x_preferred":[
+        "\u0642\u0627\u06cc\u0646"
+    ],
     "name:dan_x_preferred":[
         "Qaen"
     ],
@@ -63,8 +66,14 @@
     "name:fra_x_preferred":[
         "Ghayen"
     ],
+    "name:gle_x_preferred":[
+        "Qaen"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0acd\u0aaf\u0ac1\u0a8f\u0aa8"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05d9\u05df"
     ],
     "name:hin_x_preferred":[
         "\u0915\u093c\u093e\u090f\u0928"
@@ -125,6 +134,9 @@
     ],
     "name:swe_x_preferred":[
         "Qayen"
+    ],
+    "name:swe_x_variant":[
+        "Qaen"
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bbf\u0baf\u0bbe\u0ba9\u0bcd"
@@ -195,7 +207,7 @@
         }
     ],
     "wof:id":1126001811,
-    "wof:lastmodified":1566719329,
+    "wof:lastmodified":1690934606,
     "wof:name":"Q\u0101yen",
     "wof:parent_id":1108720313,
     "wof:placetype":"locality",
