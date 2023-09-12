@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03453,
-    "geom:area_square_m":344524205.214568,
+    "geom:area_square_m":344524205.21461,
     "geom:bbox":"49.9278093088,36.0707187578,50.3170220471,36.363485553",
     "geom:latitude":36.20534,
     "geom:longitude":50.112816,
     "iso:country":"IR",
+    "label:eng_x_preferred_longname":[
+        "Alborz County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":36.181253,
     "lbl:longitude":50.064469,
     "lbl:max_zoom":10.0,
@@ -77,6 +83,9 @@
     ],
     "name:deu_x_preferred":[
         "Elburs-Gebirge"
+    ],
+    "name:eng_x_preferred":[
+        "Alborz"
     ],
     "name:epo_x_preferred":[
         "Elborz-Montaro"
@@ -226,7 +235,7 @@
     },
     "wof:country":"IR",
     "wof:created":1476120649,
-    "wof:geomhash":"751e705f597221f101ebf5cc5f24246e",
+    "wof:geomhash":"a8a471930f06fe4fdc5fcb112159ed2a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -236,7 +245,7 @@
         }
     ],
     "wof:id":1108719797,
-    "wof:lastmodified":1566718610,
+    "wof:lastmodified":1694497844,
     "wof:name":"Alborz",
     "wof:parent_id":85672367,
     "wof:placetype":"county",

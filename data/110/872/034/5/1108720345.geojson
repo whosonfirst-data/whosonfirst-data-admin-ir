@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.121022,
-    "geom:area_square_m":1229752199.687211,
+    "geom:area_square_m":1229752199.687334,
     "geom:bbox":"46.350079474,34.5186244458,46.8224560561,35.0083785277",
     "geom:latitude":34.737177,
     "geom:longitude":46.589258,
     "iso:country":"IR",
+    "label:eng_x_preferred_longname":[
+        "Ravansar County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":34.687721,
     "lbl:longitude":46.632215,
     "lbl:max_zoom":10.0,
@@ -41,6 +47,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u0695\u0648\u0627\u0646\u0633\u06d5\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Ravansar"
     ],
     "name:fas_x_preferred":[
         "\u0631\u0648\u0627\u0646\u0633\u0631"
@@ -85,7 +94,7 @@
     },
     "wof:country":"IR",
     "wof:created":1476120962,
-    "wof:geomhash":"6ffab040bddb0d1188e1a83a4ba7156e",
+    "wof:geomhash":"4f8e556e7796c56cbfba5f151f32270e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +104,7 @@
         }
     ],
     "wof:id":1108720345,
-    "wof:lastmodified":1566718603,
+    "wof:lastmodified":1694497844,
     "wof:name":"Ravansar",
     "wof:parent_id":85672379,
     "wof:placetype":"county",

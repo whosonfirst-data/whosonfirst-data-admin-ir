@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.545857,
-    "geom:area_square_m":5427621332.509372,
+    "geom:area_square_m":5427621332.509425,
     "geom:bbox":"48.9727804516,36.1443972717,50.8554946064,36.7649864332",
     "geom:latitude":36.472954,
     "geom:longitude":49.865988,
     "iso:country":"IR",
+    "label:eng_x_preferred_longname":[
+        "Qazvin County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":36.416801,
     "lbl:longitude":50.037059,
     "lbl:max_zoom":10.0,
@@ -74,6 +80,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03b6\u03b2\u03af\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Qazvin"
     ],
     "name:epo_x_preferred":[
         "Kazvino"
@@ -205,7 +214,7 @@
     },
     "wof:country":"IR",
     "wof:created":1476120947,
-    "wof:geomhash":"3345607510da9b1f4bab89c61ef1bf97",
+    "wof:geomhash":"3c456408ec9180c1a77e69077f2bf582",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -215,7 +224,7 @@
         }
     ],
     "wof:id":1108720315,
-    "wof:lastmodified":1566718587,
+    "wof:lastmodified":1694497844,
     "wof:name":"Qazvin",
     "wof:parent_id":85672367,
     "wof:placetype":"county",

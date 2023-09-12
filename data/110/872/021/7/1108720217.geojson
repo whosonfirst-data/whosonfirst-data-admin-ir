@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.216606,
-    "geom:area_square_m":2128781402.975279,
+    "geom:area_square_m":2128781942.957447,
     "geom:bbox":"46.13818,37.017576,46.719554,37.735594",
     "geom:latitude":37.363106,
     "geom:longitude":46.421397,
     "iso:country":"IR",
+    "label:eng_x_preferred_longname":[
+        "Maragheh County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":37.364417,
     "lbl:longitude":46.425792,
     "lbl:max_zoom":10.0,
@@ -65,6 +71,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03c1\u03b1\u03b3\u03ba\u03ad\u03c7"
+    ],
+    "name:eng_x_preferred":[
+        "Maragheh"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0631\u0627\u063a\u0647"
@@ -172,7 +181,7 @@
     },
     "wof:country":"IR",
     "wof:created":1476120893,
-    "wof:geomhash":"241251ec813db1279e16168163f52e3f",
+    "wof:geomhash":"2db769f310cefab25324055d251e9cfd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -182,7 +191,7 @@
         }
     ],
     "wof:id":1108720217,
-    "wof:lastmodified":1636495417,
+    "wof:lastmodified":1694498101,
     "wof:name":"Maragheh",
     "wof:parent_id":85672373,
     "wof:placetype":"county",

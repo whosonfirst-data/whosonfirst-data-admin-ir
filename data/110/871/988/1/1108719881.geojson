@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.506345,
-    "geom:area_square_m":5568923347.241305,
+    "geom:area_square_m":5568923347.241544,
     "geom:bbox":"53.8255074554,26.9149618535,55.3905204627,27.4678462732",
     "geom:latitude":27.194914,
     "geom:longitude":54.48731,
     "iso:country":"IR",
+    "label:eng_x_preferred_longname":[
+        "Bastak County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":27.189471,
     "lbl:longitude":54.499121,
     "lbl:max_zoom":10.0,
@@ -41,6 +47,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b1\u03c3\u03c4\u03ac\u03ba"
+    ],
+    "name:eng_x_preferred":[
+        "Bastak"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0633\u062a\u06a9"
@@ -88,7 +97,7 @@
     },
     "wof:country":"IR",
     "wof:created":1476120694,
-    "wof:geomhash":"accd778cddb87bbb01752488cb1d8c66",
+    "wof:geomhash":"fc12a25433d10726be6ac547dd892b51",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":1108719881,
-    "wof:lastmodified":1566718616,
+    "wof:lastmodified":1694497844,
     "wof:name":"Bastak",
     "wof:parent_id":85672337,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083041,
-    "geom:area_square_m":840467387.691051,
+    "geom:area_square_m":840467183.779853,
     "geom:bbox":"45.935744,34.907196,46.515812,35.282571",
     "geom:latitude":35.063673,
     "geom:longitude":46.252048,
     "iso:country":"IR",
+    "label:eng_x_preferred_longname":[
+        "Paveh County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":35.051639,
     "lbl:longitude":46.295926,
     "lbl:max_zoom":10.0,
@@ -44,6 +50,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0648\u06d5"
+    ],
+    "name:eng_x_preferred":[
+        "Paveh"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u0648\u0647"
@@ -97,7 +106,7 @@
     },
     "wof:country":"IR",
     "wof:created":1476120939,
-    "wof:geomhash":"0b7902b7040f5709d4f753d4aff1bc8c",
+    "wof:geomhash":"24a34c8889e0e60768ee654c94cea613",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":1108720301,
-    "wof:lastmodified":1627522225,
+    "wof:lastmodified":1694498050,
     "wof:name":"Paveh",
     "wof:parent_id":85672379,
     "wof:placetype":"county",

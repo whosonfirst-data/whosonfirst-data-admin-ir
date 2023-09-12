@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.914637,
-    "geom:area_square_m":10028655689.700603,
+    "geom:area_square_m":10028655689.69997,
     "geom:bbox":"55.2965240185,26.995416641,56.9829032111,27.9558854736",
     "geom:latitude":27.533614,
     "geom:longitude":56.240197,
     "iso:country":"IR",
+    "label:eng_x_preferred_longname":[
+        "Bandar Abbas County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":27.552713,
     "lbl:longitude":56.322912,
     "lbl:max_zoom":10.0,
@@ -74,6 +80,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b1\u03bd\u03c4\u03ac\u03c1 \u0391\u03bc\u03c0\u03ac\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Bandar Abbas"
     ],
     "name:epo_x_preferred":[
         "Bandar Abaso"
@@ -214,7 +223,7 @@
     },
     "wof:country":"IR",
     "wof:created":1476120684,
-    "wof:geomhash":"29e5c6f0d32669cedb164aa6187cd5ea",
+    "wof:geomhash":"6afc1fd010f221767e95a5b08d8fc296",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -224,7 +233,7 @@
         }
     ],
     "wof:id":1108719863,
-    "wof:lastmodified":1566718617,
+    "wof:lastmodified":1694497844,
     "wof:name":"Bandar Abbas",
     "wof:parent_id":85672337,
     "wof:placetype":"county",
