@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.200938,
-    "geom:area_square_m":2110291925.476872,
+    "geom:area_square_m":2110291925.476772,
     "geom:bbox":"48.5643409289,31.6065970419,49.2040811933,32.1141681314",
     "geom:latitude":31.860533,
     "geom:longitude":48.907135,
     "iso:country":"IR",
+    "label:eng_x_preferred_longname":[
+        "Shushtar County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":31.891614,
     "lbl:longitude":48.91322,
     "lbl:max_zoom":10.0,
@@ -50,6 +56,9 @@
     ],
     "name:deu_x_preferred":[
         "Schuschtar"
+    ],
+    "name:eng_x_preferred":[
+        "Shushtar"
     ],
     "name:fas_x_preferred":[
         "\u0634\u0648\u0634\u062a\u0631"
@@ -136,7 +145,7 @@
     },
     "wof:country":"IR",
     "wof:created":1476121025,
-    "wof:geomhash":"441c8d62866ac6a56dffc0cdd59bd11f",
+    "wof:geomhash":"817100fb0b7545278eb898d11358c609",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -146,7 +155,7 @@
         }
     ],
     "wof:id":1108720457,
-    "wof:lastmodified":1566718592,
+    "wof:lastmodified":1694497844,
     "wof:name":"Shushtar",
     "wof:parent_id":85672325,
     "wof:placetype":"county",

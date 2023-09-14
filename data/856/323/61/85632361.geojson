@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":156.129752,
-    "geom:area_square_m":1624180798566.595215,
+    "geom:area_square_m":1624206748982.698242,
     "geom:bbox":"44.031891,25.060389,63.333201,39.781676",
     "geom:latitude":32.561089,
     "geom:longitude":54.303338,
@@ -14,6 +14,9 @@
     "iso:country":"IR",
     "itu:country_code":[
         "98"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "IR"
@@ -1274,7 +1277,8 @@
         "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"98",
     "statoids:ds":"IR",
     "statoids:fifa":"IRN",
@@ -1335,7 +1339,7 @@
         "quattroshapes",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"f99861c0bb5baf7e419d57676baeb635",
+    "wof:geomhash":"6fbdaa1ee0256823e4c07a8260cc85e9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1349,12 +1353,12 @@
     "wof:lang_x_spoken":[
         "fas"
     ],
-    "wof:lastmodified":1690934416,
+    "wof:lastmodified":1694639591,
     "wof:name":"Iran",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":77447168,
-    "wof:population_rank":16,
+    "wof:population":82913906,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:shortcode":"IR",
     "wof:superseded_by":[],
