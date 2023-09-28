@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.363016,
-    "geom:area_square_m":13711598562.546135,
+    "geom:area_square_m":13711598702.952085,
     "geom:bbox":"50.33282,34.864583,53.156625,36.139567",
     "geom:latitude":35.554679,
     "geom:longitude":51.723961,
@@ -441,17 +441,19 @@
         "gn:id":110791,
         "gp:id":2345785,
         "hasc:id":"IR.TE",
+        "iso:code":"IR-07",
         "iso:id":"IR-07",
         "qs_pg:id":318510,
         "unlc:id":"IR-07",
         "wd:id":"Q590866",
         "wk:page":"Tehran Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"IR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"df26cde34b10dbd92bc4fa2bef2bde89",
+    "wof:geomhash":"3a78387e25ca70050a0251bed7affce1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -466,7 +468,7 @@
     "wof:lang_x_spoken":[
         "fas"
     ],
-    "wof:lastmodified":1690934430,
+    "wof:lastmodified":1695884338,
     "wof:name":"Tehran",
     "wof:parent_id":85632361,
     "wof:placetype":"region",
