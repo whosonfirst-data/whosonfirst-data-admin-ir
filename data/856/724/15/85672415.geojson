@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.511734,
-    "geom:area_square_m":5121116180.479005,
+    "geom:area_square_m":5121115933.109932,
     "geom:bbox":"50.163551,35.543414,51.463322,36.34181",
     "geom:latitude":35.970239,
     "geom:longitude":50.805406,
@@ -385,15 +385,17 @@
         "gn:id":7648907,
         "gp:id":-20070200,
         "hasc:id":"IR.AL",
+        "iso:code":"IR-32",
         "iso:id":"IR-32",
         "unlc:id":"IR-32",
         "wd:id":"Q484725"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"IR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"67f4b9095abb10567d1c864fccff6f67",
+    "wof:geomhash":"c12248f077363f5a472d679af3f04b7b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -408,7 +410,7 @@
     "wof:lang_x_spoken":[
         "fas"
     ],
-    "wof:lastmodified":1690934420,
+    "wof:lastmodified":1695884335,
     "wof:name":"Alborz",
     "wof:parent_id":85632361,
     "wof:placetype":"region",
