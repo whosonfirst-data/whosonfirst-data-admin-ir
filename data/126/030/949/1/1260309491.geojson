@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":1113981
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7094510
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"ea3de375cb50636abbd38ece81e765f4",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1260309491,
-    "wof:lastmodified":1566718463,
+    "wof:lastmodified":1706239898,
     "wof:name":"Nowgarabad",
     "wof:parent_id":1108720131,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360308971
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -53,6 +53,9 @@
     "name:tur_x_preferred":[
         "Razmiyan"
     ],
+    "name:und_x_variant":[
+        "K\u012b\u0101 Kal\u0101yeh-ye Sofl\u00e1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -64,6 +67,11 @@
     "wof:concordances":{
         "gn:id":7621213,
         "wk:page":"Razmian"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10301
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"a99ae773940969055b9fe1583cd5ae88",
@@ -77,13 +85,15 @@
         }
     ],
     "wof:id":1193216581,
-    "wof:lastmodified":1566718377,
+    "wof:lastmodified":1706239874,
     "wof:name":"Razmian",
     "wof:parent_id":1108720315,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326481769
+    ],
     "wof:tags":[]
 },
   "bbox": [

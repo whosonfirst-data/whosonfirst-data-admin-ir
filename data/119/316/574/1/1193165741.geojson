@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":125292
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7068899
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"7bfaaa2c9c53504adfea18b12d68c084",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1193165741,
-    "wof:lastmodified":1566718346,
+    "wof:lastmodified":1706239873,
     "wof:name":"Mahmu'i",
     "wof:parent_id":1108720313,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327162847
+    ],
     "wof:tags":[]
 },
   "bbox": [

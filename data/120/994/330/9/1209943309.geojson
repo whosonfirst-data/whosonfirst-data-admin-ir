@@ -52,6 +52,11 @@
     "wof:concordances":{
         "gn:id":31410
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7082143
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"2b3ccad47930ee02d47d90c8d7772749",
     "wof:hierarchy":[
@@ -64,13 +69,15 @@
         }
     ],
     "wof:id":1209943309,
-    "wof:lastmodified":1566717969,
+    "wof:lastmodified":1706239881,
     "wof:name":"Hajji Jani",
     "wof:parent_id":1108719931,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343489153
+    ],
     "wof:tags":[]
 },
   "bbox": [

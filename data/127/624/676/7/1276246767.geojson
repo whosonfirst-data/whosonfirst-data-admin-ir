@@ -41,6 +41,9 @@
     "name:fas_x_variant":[
         "\u062d\u0646\u06cc\u0631\u06cc \u0633\u0647"
     ],
+    "name:und_x_variant":[
+        "\u1e28oneyr\u012b-ye Seh"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +53,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":6661694
+        "gn:id":6661694,
+        "wk:page":"Honeyri-ye_Seh"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            42375
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"6a0f6c65fca9cb71158086cc89e5d764",
@@ -64,13 +73,15 @@
         }
     ],
     "wof:id":1276246767,
-    "wof:lastmodified":1566717460,
+    "wof:lastmodified":1706239899,
     "wof:name":"Honeyri-ye Seh",
     "wof:parent_id":1108719793,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326700051
+    ],
     "wof:tags":[]
 },
   "bbox": [

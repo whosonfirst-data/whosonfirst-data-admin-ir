@@ -52,8 +52,13 @@
     "wof:concordances":{
         "gn:id":133762
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7111403
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"d25ccccc1c8e6c7de83bc3d99b60ef73",
+    "wof:geomhash":"df4695556bc599fc8eba8ab9a23debfd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -64,20 +69,22 @@
         }
     ],
     "wof:id":1259979567,
-    "wof:lastmodified":1566719855,
+    "wof:lastmodified":1706239896,
     "wof:name":"Gazak",
     "wof:parent_id":1108720271,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293783943
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    59.40926999999999,
+    59.40927,
     26.06045,
-    59.40926999999999,
+    59.40927,
     26.06045
 ],
-  "geometry": {"coordinates":[59.40926999999999,26.06045],"type":"Point"}
+  "geometry": {"coordinates":[59.40927,26.06045],"type":"Point"}
 }

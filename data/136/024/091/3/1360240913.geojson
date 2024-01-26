@@ -35,6 +35,9 @@
     "name:fas_x_variant":[
         "R\u0101zb\u0101sh\u012b"
     ],
+    "name:und_x_variant":[
+        "R\u0101zb\u0101sh\u012b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6776662
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            31927
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"a04387c5bd6f3ca6e1e0461968d515e4",
@@ -58,13 +66,15 @@
         }
     ],
     "wof:id":1360240913,
-    "wof:lastmodified":1566718966,
+    "wof:lastmodified":1706239909,
     "wof:name":"Razbashi",
     "wof:parent_id":1108720145,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360243015
+    ],
     "wof:tags":[]
 },
   "bbox": [

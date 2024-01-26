@@ -53,6 +53,11 @@
     "wof:concordances":{
         "gn:id":10527
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7620722
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"ea7de59985f21d9e553280511e4eb3b2",
     "wof:hierarchy":[
@@ -65,13 +70,15 @@
         }
     ],
     "wof:id":1243112279,
-    "wof:lastmodified":1566719755,
+    "wof:lastmodified":1706239892,
     "wof:name":"Palham Dasht",
     "wof:parent_id":1108720333,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243112307
+    ],
     "wof:tags":[]
 },
   "bbox": [

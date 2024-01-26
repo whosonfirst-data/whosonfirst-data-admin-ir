@@ -50,8 +50,13 @@
     "wof:concordances":{
         "gn:id":5442
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7329797
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"8f4e8ce8bbbde23dc9e18df50969ef73",
+    "wof:geomhash":"edeca7560f9b10dcc0103fe4af06d0e2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +67,22 @@
         }
     ],
     "wof:id":1193246079,
-    "wof:lastmodified":1566718233,
+    "wof:lastmodified":1706239874,
     "wof:name":"Rusta-ye Enqelab",
     "wof:parent_id":1108720441,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310558547
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    54.90578000000001,
+    54.90578,
     36.31005,
-    54.90578000000001,
+    54.90578,
     36.31005
 ],
-  "geometry": {"coordinates":[54.90578000000001,36.31005],"type":"Point"}
+  "geometry": {"coordinates":[54.90578,36.31005],"type":"Point"}
 }

@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":28683
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7425550
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"a90650f0d12afb8d1c617509b4d14c51",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1226127279,
-    "wof:lastmodified":1566720335,
+    "wof:lastmodified":1706239884,
     "wof:name":"Dialeh Kal",
     "wof:parent_id":1108720459,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293380077
+    ],
     "wof:tags":[]
 },
   "bbox": [

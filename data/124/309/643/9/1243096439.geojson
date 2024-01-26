@@ -32,6 +32,9 @@
     "name:fas_x_preferred":[
         "Golest\u0101n"
     ],
+    "name:fas_x_variant":[
+        "Golest\u0101n"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":33959
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7102236
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"61f4e6a414283d0a91d91ec4e1008611",
@@ -55,13 +63,15 @@
         }
     ],
     "wof:id":1243096439,
-    "wof:lastmodified":1566719348,
+    "wof:lastmodified":1706239892,
     "wof:name":"Golestan",
     "wof:parent_id":1108720343,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310331885
+    ],
     "wof:tags":[]
 },
   "bbox": [

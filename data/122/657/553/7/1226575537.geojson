@@ -32,6 +32,15 @@
     "name:fas_x_preferred":[
         "\u062a\u0646\u0647\u06a9"
     ],
+    "name:fas_x_variant":[
+        "T\u0101nakh",
+        "T\u016btak"
+    ],
+    "name:und_x_variant":[
+        "Tunak",
+        "Tanahk",
+        "Tanhak"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -43,6 +52,14 @@
     "wof:concordances":{
         "gn:id":7049230,
         "wk:page":"Tanhak"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            110795
+        ],
+        "wk:page":[
+            "Tanhak"
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"d3e03a87f9046adb57015de80abe7c60",
@@ -56,13 +73,15 @@
         }
     ],
     "wof:id":1226575537,
-    "wof:lastmodified":1566720229,
+    "wof:lastmodified":1706239888,
     "wof:name":"Tanhak",
     "wof:parent_id":1108720063,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326462807
+    ],
     "wof:tags":[]
 },
   "bbox": [

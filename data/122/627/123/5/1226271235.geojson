@@ -43,6 +43,13 @@
     "name:swe_x_preferred":[
         "N\u0101y Band"
     ],
+    "name:und_x_variant":[
+        "Naiband\u0101n",
+        "Neyban",
+        "Naiband",
+        "Ney Band",
+        "N\u0101y Band\u0101n"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,6 +61,11 @@
     "wof:concordances":{
         "gn:id":7545120,
         "wk:page":"Nay_Band"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            122460
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"2452ff556b18065e0c02266eb79094d4",
@@ -67,13 +79,15 @@
         }
     ],
     "wof:id":1226271235,
-    "wof:lastmodified":1566720142,
+    "wof:lastmodified":1706239885,
     "wof:name":"Nay Band",
     "wof:parent_id":1108720469,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343589803
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -38,6 +38,9 @@
     "name:fas_x_variant":[
         "\u067e\u06af\u06cc\u0646"
     ],
+    "name:und_x_variant":[
+        "Pag\u012bn"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,6 +52,11 @@
     "wof:concordances":{
         "gn:id":7549404,
         "wk:page":"Pagin"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            121625
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"6a1dae26ef4c981b634e13d75464e5f6",
@@ -62,13 +70,15 @@
         }
     ],
     "wof:id":1309778849,
-    "wof:lastmodified":1566719165,
+    "wof:lastmodified":1706239905,
     "wof:name":"Pagin",
     "wof:parent_id":1108720331,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343927769
+    ],
     "wof:tags":[]
 },
   "bbox": [

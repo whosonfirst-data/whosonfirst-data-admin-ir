@@ -41,6 +41,12 @@
     "name:swe_x_preferred":[
         "Qeysar\u012byeh-ye Sofl\u00e1"
     ],
+    "name:und_x_variant":[
+        "Qaisar\u012byeh",
+        "Qey\u015far\u012byeh",
+        "Qey\u015far\u012byeh-ye P\u0101\u2019\u012bn",
+        "Qey\u015far\u012byeh-ye Sofl\u00e1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,7 +56,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":6687805
+        "gn:id":6687805,
+        "wk:page":"Qeysariyeh-ye_Sofla"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            119354
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"53f23e94cfcd8dd61502605bee02f740",
@@ -64,13 +76,15 @@
         }
     ],
     "wof:id":1225827893,
-    "wof:lastmodified":1566720451,
+    "wof:lastmodified":1706239882,
     "wof:name":"Qeysariyeh-ye Sofla",
     "wof:parent_id":1108719949,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293662029
+    ],
     "wof:tags":[]
 },
   "bbox": [

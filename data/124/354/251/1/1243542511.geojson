@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":48011
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6981236
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"5a74ff8bf4a6d17fdb425e8971ab3c19",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1243542511,
-    "wof:lastmodified":1566719366,
+    "wof:lastmodified":1706239893,
     "wof:name":"Chah Kartu",
     "wof:parent_id":1108719863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344038117
+    ],
     "wof:tags":[]
 },
   "bbox": [

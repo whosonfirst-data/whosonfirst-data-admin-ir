@@ -36,6 +36,9 @@
     "name:fas_x_preferred":[
         "Band-e Q\u012br"
     ],
+    "name:fas_x_variant":[
+        "Band-e Q\u012br"
+    ],
     "name:swe_x_preferred":[
         "Band-e Q\u012br"
     ],
@@ -52,7 +55,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":141588
+        "gn:id":141588,
+        "wk:page":"Band-e_Qir"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            141609
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"0e322df06c46d873e91252cd9bc0d7bf",
@@ -66,13 +75,15 @@
         }
     ],
     "wof:id":1310378115,
-    "wof:lastmodified":1566718777,
+    "wof:lastmodified":1706239906,
     "wof:name":"Band-e Qir",
     "wof:parent_id":1108719793,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327416481
+    ],
     "wof:tags":[]
 },
   "bbox": [

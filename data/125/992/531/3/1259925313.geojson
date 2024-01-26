@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"47.5041,38.0204,47.5041,38.0204",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0633\u0628\u0642\u0631\u0627\u0646"
@@ -70,12 +72,14 @@
         }
     ],
     "wof:id":1259925313,
-    "wof:lastmodified":1566719956,
+    "wof:lastmodified":1706239873,
     "wof:name":"Asbqaran",
     "wof:parent_id":1108720385,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1193073135
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -56,10 +56,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":405204
+        "gn:id":405204,
+        "wk:page":"Fathabad,_Saduq"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            134683
+        ]
     },
     "wof:country":"IR",
-    "wof:geomhash":"a282ad72e4090a1580632fed81715138",
+    "wof:geomhash":"2291f6ad2983cf398d1b7d5d8285673b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,20 +76,22 @@
         }
     ],
     "wof:id":1243596467,
-    "wof:lastmodified":1566719616,
+    "wof:lastmodified":1706239894,
     "wof:name":"Fathabad",
     "wof:parent_id":1108720133,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343304367
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    54.39449000000001,
+    54.39449,
     30.10436,
-    54.39449000000001,
+    54.39449,
     30.10436
 ],
-  "geometry": {"coordinates":[54.39449000000001,30.10436],"type":"Point"}
+  "geometry": {"coordinates":[54.39449,30.10436],"type":"Point"}
 }

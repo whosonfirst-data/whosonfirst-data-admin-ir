@@ -35,6 +35,16 @@
     "name:fas_x_variant":[
         "M\u012br Kar\u012bm"
     ],
+    "name:msa_x_preferred":[
+        "Chap va Rast"
+    ],
+    "name:por_x_preferred":[
+        "Chap va Rast"
+    ],
+    "name:und_x_variant":[
+        "M\u012br Kar\u012bm",
+        "Chap va R\u0101st"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -44,7 +54,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":6722282
+        "gn:id":6722282,
+        "wk:page":"Chap_va_Rast"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9413
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"852c71477065ae68f5f13022a9196be4",
@@ -58,13 +74,15 @@
         }
     ],
     "wof:id":1226321261,
-    "wof:lastmodified":1566720212,
+    "wof:lastmodified":1706239886,
     "wof:name":"Mir Karim",
     "wof:parent_id":1108719785,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327018405
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"50.1488,37.09171,50.1488,37.09171",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "Alb\u0101 Sar\u0101"
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":1327019819,
-    "wof:lastmodified":1566715453,
+    "wof:lastmodified":1706239901,
     "wof:name":"Alba Sara",
     "wof:parent_id":1108720183,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1276651969
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

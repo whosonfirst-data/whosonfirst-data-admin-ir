@@ -37,6 +37,13 @@
         "\u0628\u0639\u06cc\u0646\u0647 \u06f2",
         "Bo\u2018eyneh-ye Do"
     ],
+    "name:und_x_variant":[
+        "Bo\u2018eyneh-ye Do",
+        "Bo\u2018eyneh-ye 2",
+        "Ba\u2018\u012bneh-ye Do",
+        "Bo\u2018eyn\u012beh-ye Yek",
+        "Q\u0101sem-e \u2018Alv\u0101n"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,8 +55,13 @@
     "wof:concordances":{
         "gn:id":6687897
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            42444
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"ba6458b6b33070d992c930441d145ef9",
+    "wof:geomhash":"1e8c265b529e73bd55be897069dcdfed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,20 +72,22 @@
         }
     ],
     "wof:id":1226112181,
-    "wof:lastmodified":1566720155,
+    "wof:lastmodified":1706239884,
     "wof:name":"Bo`eyneh-ye Do",
     "wof:parent_id":1108719949,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310474681
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    48.00100000000001,
+    48.001,
     31.5028,
-    48.00100000000001,
+    48.001,
     31.5028
 ],
-  "geometry": {"coordinates":[48.00100000000001,31.5028],"type":"Point"}
+  "geometry": {"coordinates":[48.001,31.5028],"type":"Point"}
 }

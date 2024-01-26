@@ -48,7 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":39835
+        "gn:id":39835,
+        "wk:page":"Judaneh"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7781826
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"01df578d72657bcf823a61779b1314f4",
@@ -62,13 +68,15 @@
         }
     ],
     "wof:id":1226299873,
-    "wof:lastmodified":1566720153,
+    "wof:lastmodified":1706239885,
     "wof:name":"Judaneh",
     "wof:parent_id":1108720441,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242634445
+    ],
     "wof:tags":[]
 },
   "bbox": [

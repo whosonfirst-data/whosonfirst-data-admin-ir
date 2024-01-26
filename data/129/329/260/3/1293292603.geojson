@@ -52,6 +52,11 @@
     "wof:concordances":{
         "gn:id":7094501
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7094502
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"7978adda3fb1e5f70f2aa696751802c2",
     "wof:hierarchy":[
@@ -64,13 +69,15 @@
         }
     ],
     "wof:id":1293292603,
-    "wof:lastmodified":1566717022,
+    "wof:lastmodified":1706239903,
     "wof:name":"Shureg",
     "wof:parent_id":1108720131,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343584853
+    ],
     "wof:tags":[]
 },
   "bbox": [

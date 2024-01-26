@@ -35,6 +35,11 @@
     "name:fas_x_variant":[
         "\u067e\u0634\u062a\u0644\u0647 \u0633\u0631\u0628\u0631\u06af\u0648 \u0633\u0631\u0627"
     ],
+    "name:und_x_variant":[
+        "Poshteh-ye Leleh Sar",
+        "Poshtaleh-ye Sarbarg\u016b Sar\u0101",
+        "Poshteleleh Sar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7622092
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            29325
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"7f43fcd2368f4328f822d70245086403",
@@ -58,13 +68,15 @@
         }
     ],
     "wof:id":1293679185,
-    "wof:lastmodified":1566716931,
+    "wof:lastmodified":1706239904,
     "wof:name":"Poshtaleh-ye Sarbargu Sara",
     "wof:parent_id":1108720183,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310201877
+    ],
     "wof:tags":[]
 },
   "bbox": [

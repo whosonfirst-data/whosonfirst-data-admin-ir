@@ -35,6 +35,9 @@
     "name:fas_x_variant":[
         "Sart\u016bh-e Ghol\u0101m"
     ],
+    "name:und_x_variant":[
+        "Sart\u016bh-e Ghol\u0101m"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6711384
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            28514
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"499d66cc95cae2862d385ffd647211ad",
@@ -58,13 +66,15 @@
         }
     ],
     "wof:id":1277163463,
-    "wof:lastmodified":1566717616,
+    "wof:lastmodified":1706239902,
     "wof:name":"Sartuh-e Gholam",
     "wof:parent_id":1108719983,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327412839
+    ],
     "wof:tags":[]
 },
   "bbox": [

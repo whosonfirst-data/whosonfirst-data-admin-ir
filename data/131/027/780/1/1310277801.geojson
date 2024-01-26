@@ -35,6 +35,9 @@
     "name:fas_x_variant":[
         "Al\u1e29abch\u012byeh"
     ],
+    "name:und_x_variant":[
+        "Al\u1e29abch\u012byeh"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6687894
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            42594
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"5e2a5c60b8df79136fcf09ddd4dd93fc",
@@ -58,13 +66,15 @@
         }
     ],
     "wof:id":1310277801,
-    "wof:lastmodified":1566718815,
+    "wof:lastmodified":1706239905,
     "wof:name":"Alhabchiyeh",
     "wof:parent_id":1108719949,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327416501
+    ],
     "wof:tags":[]
 },
   "bbox": [

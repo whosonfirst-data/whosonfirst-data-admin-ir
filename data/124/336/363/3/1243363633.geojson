@@ -55,8 +55,13 @@
         "gn:id":1161319,
         "wk:page":"Damikan"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7050006
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"4e8a52d7b7a607440bbf0db69183208a",
+    "wof:geomhash":"66aaf18f1cc4ee758f4279805d942a70",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,20 +72,22 @@
         }
     ],
     "wof:id":1243363633,
-    "wof:lastmodified":1566719341,
+    "wof:lastmodified":1706239893,
     "wof:name":"Damanikan",
     "wof:parent_id":1108720131,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360108295
+    ],
     "wof:tags":[]
 },
   "bbox": [
     61.04737,
-    27.56064000000001,
+    27.56064,
     61.04737,
-    27.56064000000001
+    27.56064
 ],
-  "geometry": {"coordinates":[61.04737,27.56064000000001],"type":"Point"}
+  "geometry": {"coordinates":[61.04737,27.56064],"type":"Point"}
 }

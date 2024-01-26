@@ -59,6 +59,11 @@
     "wof:concordances":{
         "gn:id":6653011
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6683749
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"dd049c8e007c2490621472342d944760",
     "wof:hierarchy":[
@@ -71,13 +76,15 @@
         }
     ],
     "wof:id":1310225505,
-    "wof:lastmodified":1566718666,
+    "wof:lastmodified":1706239905,
     "wof:name":"Hasanabad",
     "wof:parent_id":1108720447,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343581627
+    ],
     "wof:tags":[]
 },
   "bbox": [

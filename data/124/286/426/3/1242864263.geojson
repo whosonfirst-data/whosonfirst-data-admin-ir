@@ -58,6 +58,11 @@
     "wof:concordances":{
         "gn:id":7622134
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2160
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"54979eac4b3c97be9b49e4967d652560",
     "wof:hierarchy":[
@@ -70,13 +75,15 @@
         }
     ],
     "wof:id":1242864263,
-    "wof:lastmodified":1566719449,
+    "wof:lastmodified":1706239891,
     "wof:name":"Gaviyeh",
     "wof:parent_id":1108720173,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259876293
+    ],
     "wof:tags":[]
 },
   "bbox": [

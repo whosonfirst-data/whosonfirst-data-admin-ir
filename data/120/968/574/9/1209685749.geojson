@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":42155
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6661742
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"e9c767116479f1f21df3a717f6e22961",
+    "wof:geomhash":"dda09e42b4335598e6de64300eb31af2",
     "wof:hierarchy":[
         {
             "country_id":85632361,
@@ -53,20 +58,22 @@
         }
     ],
     "wof:id":1209685749,
-    "wof:lastmodified":1566717899,
+    "wof:lastmodified":1706239879,
     "wof:name":"Talkhabad",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343334473
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    49.24800000000001,
+    49.248,
     31.9761,
-    49.24800000000001,
+    49.248,
     31.9761
 ],
-  "geometry": {"coordinates":[49.24800000000001,31.9761],"type":"Point"}
+  "geometry": {"coordinates":[49.248,31.9761],"type":"Point"}
 }

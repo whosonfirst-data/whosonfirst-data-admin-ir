@@ -35,6 +35,14 @@
     "name:fas_x_variant":[
         "Gav\u0101jag"
     ],
+    "name:msa_x_preferred":[
+        "Gavajag"
+    ],
+    "name:und_x_variant":[
+        "Govajk",
+        "Gav\u0101jag",
+        "G\u016bjag"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -44,7 +52,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":6649709
+        "gn:id":6649709,
+        "wk:page":"Gavajag,_Hormozgan"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            132824
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"0562075dde1534ba950a00344d1a3f36",
@@ -58,13 +72,15 @@
         }
     ],
     "wof:id":1309883389,
-    "wof:lastmodified":1566719285,
+    "wof:lastmodified":1706239905,
     "wof:name":"Gavajag",
     "wof:parent_id":1108720243,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309983691
+    ],
     "wof:tags":[]
 },
   "bbox": [

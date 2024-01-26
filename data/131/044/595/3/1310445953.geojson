@@ -35,6 +35,9 @@
     "name:fas_x_variant":[
         "\u067e\u0634\u062a\u06af\u0627\u0647"
     ],
+    "name:und_x_variant":[
+        "Poshtg\u0101h"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7625393
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10202
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"3965f09c8170b1c7be9df5d72581177b",
@@ -58,13 +66,15 @@
         }
     ],
     "wof:id":1310445953,
-    "wof:lastmodified":1566718831,
+    "wof:lastmodified":1706239906,
     "wof:name":"Poshtgah",
     "wof:parent_id":1108720333,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326683255
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -38,6 +38,10 @@
     "name:swe_x_preferred":[
         "Farsheh"
     ],
+    "name:und_x_variant":[
+        "Forshah",
+        "Forsheh"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -50,8 +54,16 @@
         "gn:id":7102051,
         "wk:page":"Farsheh"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            134454
+        ],
+        "wk:page":[
+            "Farsheh"
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"221717b472ed152d646cc0c1de899b44",
+    "wof:geomhash":"fd377988d07705f2ab520f50b07edc30",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +74,22 @@
         }
     ],
     "wof:id":1260316173,
-    "wof:lastmodified":1566718456,
+    "wof:lastmodified":1706239898,
     "wof:name":"Farsheh",
     "wof:parent_id":1108720111,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276257847
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    58.75083000000001,
+    58.75083,
     35.2719,
-    58.75083000000001,
+    58.75083,
     35.2719
 ],
-  "geometry": {"coordinates":[58.75083000000001,35.2719],"type":"Point"}
+  "geometry": {"coordinates":[58.75083,35.2719],"type":"Point"}
 }

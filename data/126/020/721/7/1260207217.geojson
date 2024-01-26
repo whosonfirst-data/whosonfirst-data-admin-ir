@@ -11,6 +11,7 @@
     "geom:longitude":59.24917,
     "gn:admin1_code":"4",
     "gn:asciiname":"Bermin",
+    "gn:cc2":"IR",
     "gn:country_code":"IR",
     "gn:dem":773,
     "gn:feature_class":"P",
@@ -47,8 +48,13 @@
     "wof:concordances":{
         "gn:id":49033
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            140803
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"7ca56a93685a13edf9824ab610f160d4",
+    "wof:geomhash":"33f7cdf6e4a8700eae19886c4b2e2373",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,20 +65,22 @@
         }
     ],
     "wof:id":1260207217,
-    "wof:lastmodified":1566718483,
+    "wof:lastmodified":1706239897,
     "wof:name":"Bermin",
     "wof:parent_id":1108720271,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310204811
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    59.24916999999999,
+    59.24917,
     26.79417,
-    59.24916999999999,
+    59.24917,
     26.79417
 ],
-  "geometry": {"coordinates":[59.24916999999999,26.79417],"type":"Point"}
+  "geometry": {"coordinates":[59.24917,26.79417],"type":"Point"}
 }

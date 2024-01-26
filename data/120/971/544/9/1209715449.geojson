@@ -35,6 +35,9 @@
     "name:fas_x_variant":[
         "G\u016br\u0101bak"
     ],
+    "name:und_x_variant":[
+        "G\u016br\u0101bak"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6979411
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1161075
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"fd27d2601ca455153ca66c0ce446262e",
@@ -58,13 +66,15 @@
         }
     ],
     "wof:id":1209715449,
-    "wof:lastmodified":1566717839,
+    "wof:lastmodified":1706239880,
     "wof:name":"Gurabak",
     "wof:parent_id":1108720389,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259689771
+    ],
     "wof:tags":[]
 },
   "bbox": [

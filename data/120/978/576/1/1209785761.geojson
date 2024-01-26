@@ -35,6 +35,10 @@
     "name:fas_x_variant":[
         "\u0622\u0628 \u0627\u0646\u0628\u0627\u0631"
     ],
+    "name:und_x_variant":[
+        "\u0100b Anb\u0101r",
+        "Sar Anb\u0101r-e K\u0101shkel\u012b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +49,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7541961
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            33337
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"ab0b81f6473e4df1f0ea95ec6c055e74",
@@ -58,13 +67,15 @@
         }
     ],
     "wof:id":1209785761,
-    "wof:lastmodified":1566717832,
+    "wof:lastmodified":1706239880,
     "wof:name":"Ab Anbar",
     "wof:parent_id":1108720067,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327107365
+    ],
     "wof:tags":[]
 },
   "bbox": [

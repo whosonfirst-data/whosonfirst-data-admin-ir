@@ -32,6 +32,10 @@
     "name:fas_x_preferred":[
         "\u062f\u0647 \u0628\u0632\u0631\u06af"
     ],
+    "name:fas_x_variant":[
+        "Kork\u012b",
+        "\u062f\u0647 \u0628\u0632\u0631\u06af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7414613
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            126541
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"6f7c2f6d5e82e1e6478f7c758a40dca5",
@@ -55,13 +64,15 @@
         }
     ],
     "wof:id":1326698581,
-    "wof:lastmodified":1566715594,
+    "wof:lastmodified":1706239908,
     "wof:name":"Deh-e Bozorg",
     "wof:parent_id":1108720307,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344215269
+    ],
     "wof:tags":[]
 },
   "bbox": [

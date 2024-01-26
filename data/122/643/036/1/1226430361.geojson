@@ -52,6 +52,11 @@
     "wof:concordances":{
         "gn:id":132154
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6649745
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"8f5da3f3707d2b8f9a5a92ed83648b58",
     "wof:hierarchy":[
@@ -64,13 +69,15 @@
         }
     ],
     "wof:id":1226430361,
-    "wof:lastmodified":1566720081,
+    "wof:lastmodified":1706239886,
     "wof:name":"Alvahi",
     "wof:parent_id":1108720243,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243251419
+    ],
     "wof:tags":[]
 },
   "bbox": [

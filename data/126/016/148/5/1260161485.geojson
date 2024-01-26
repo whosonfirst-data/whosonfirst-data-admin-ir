@@ -29,11 +29,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062f\u0647\u0646\u0648 \u0645\u064a\u0631"
+    ],
+    "name:ceb_x_preferred":[
+        "Deh-e N\u016bf\u012br"
+    ],
     "name:fas_x_preferred":[
         "Deh-e N\u016bf\u012br"
     ],
     "name:fas_x_variant":[
         "\u062f\u0647 \u0646\u0648 \u0641\u06cc\u0631"
+    ],
+    "name:msa_x_preferred":[
+        "Deh Nowmir"
+    ],
+    "name:swe_x_preferred":[
+        "Deh-e N\u016bf\u012br"
+    ],
+    "name:und_x_variant":[
+        "Deh Now-e M\u012br"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -44,7 +59,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":7612755
+        "gn:id":7612755,
+        "wk:page":"Deh_Nowmir"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            136578
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"c945fc6c98f719cbe2c389ff543aaa34",
@@ -58,13 +79,15 @@
         }
     ],
     "wof:id":1260161485,
-    "wof:lastmodified":1566718501,
+    "wof:lastmodified":1706239897,
     "wof:name":"Deh-e Nufir",
     "wof:parent_id":1108719869,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309986705
+    ],
     "wof:tags":[]
 },
   "bbox": [

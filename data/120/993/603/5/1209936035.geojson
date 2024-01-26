@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":6743789
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11597183
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"e4d2fb4907ee09a4d2c657a6a5ab41fb",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1209936035,
-    "wof:lastmodified":1566717949,
+    "wof:lastmodified":1706239881,
     "wof:name":"Vazneh Sar",
     "wof:parent_id":1108720487,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293380061
+    ],
     "wof:tags":[]
 },
   "bbox": [

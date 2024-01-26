@@ -75,8 +75,13 @@
     "wof:concordances":{
         "gn:id":1114840
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7040959
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"bb8546435d0f327934ddc01eb3c2a0e3",
+    "wof:geomhash":"9fb13a36c3c88249926bb047457c3669",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,20 +92,22 @@
         }
     ],
     "wof:id":1193050445,
-    "wof:lastmodified":1566718285,
+    "wof:lastmodified":1706239872,
     "wof:name":"Mami",
     "wof:parent_id":1108720389,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209539307
+    ],
     "wof:tags":[]
 },
   "bbox": [
     61.38052,
-    27.16772000000001,
+    27.16772,
     61.38052,
-    27.16772000000001
+    27.16772
 ],
-  "geometry": {"coordinates":[61.38052,27.16772000000001],"type":"Point"}
+  "geometry": {"coordinates":[61.38052,27.16772],"type":"Point"}
 }

@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":28912
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7622073
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"46ee80e3d4c2570ec23204c858cf6812",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1276651969,
-    "wof:lastmodified":1566717567,
+    "wof:lastmodified":1706239901,
     "wof:name":"Alba Sara",
     "wof:parent_id":1108720183,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327019819
+    ],
     "wof:tags":[]
 },
   "bbox": [

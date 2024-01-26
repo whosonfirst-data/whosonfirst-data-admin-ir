@@ -54,6 +54,11 @@
     "wof:concordances":{
         "gn:id":135787
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7519867
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"0f95d40e6f869cd9f0fb30d7735a19de",
     "wof:hierarchy":[
@@ -66,13 +71,15 @@
         }
     ],
     "wof:id":1225894681,
-    "wof:lastmodified":1566720251,
+    "wof:lastmodified":1706239883,
     "wof:name":"Eslamabad",
     "wof:parent_id":1108720461,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276922603
+    ],
     "wof:tags":[]
 },
   "bbox": [

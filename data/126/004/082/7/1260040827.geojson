@@ -61,6 +61,11 @@
     "wof:concordances":{
         "gn:id":7052443
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            124988
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"7eb56bff0a39faa1d7dfbd2df03778a5",
     "wof:hierarchy":[
@@ -73,13 +78,15 @@
         }
     ],
     "wof:id":1260040827,
-    "wof:lastmodified":1566718541,
+    "wof:lastmodified":1706239897,
     "wof:name":"Mangan",
     "wof:parent_id":1108720363,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276922571
+    ],
     "wof:tags":[]
 },
   "bbox": [

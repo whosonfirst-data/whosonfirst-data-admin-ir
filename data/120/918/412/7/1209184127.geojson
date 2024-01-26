@@ -48,6 +48,11 @@
     "wof:concordances":{
         "gn:id":121646
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            36706
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"4952a647fda7fb21c3ad88eb63d79063",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1209184127,
-    "wof:lastmodified":1566718044,
+    "wof:lastmodified":1706239875,
     "wof:name":"Pahvand-e Bala",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293360325
+    ],
     "wof:tags":[]
 },
   "bbox": [

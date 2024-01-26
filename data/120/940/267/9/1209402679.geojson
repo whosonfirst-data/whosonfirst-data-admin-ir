@@ -39,8 +39,20 @@
         "Sham\u012bl",
         "\u0634\u0645\u06cc\u0644"
     ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d0\u05de\u05d9\u05dc"
+    ],
     "name:msa_x_preferred":[
         "Shamil"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043c\u0438\u043b\u044c"
+    ],
+    "name:tat_x_preferred":[
+        "\u0428\u0430\u043c\u0438\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0430\u043c\u0456\u043b\u044c"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,6 +63,11 @@
         "gn:id":115559,
         "wk:page":"Shamil,_Hormozgan"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6649660
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"d1ab260287615cdd6314f03469249a59",
     "wof:hierarchy":[
@@ -60,13 +77,15 @@
         }
     ],
     "wof:id":1209402679,
-    "wof:lastmodified":1566717825,
+    "wof:lastmodified":1706239877,
     "wof:name":"Shamil",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276528539
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":1113914
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7010057
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"86f1bbcb5c558652cb6401bdf647021d",
     "wof:hierarchy":[
@@ -53,13 +58,15 @@
         }
     ],
     "wof:id":1209010195,
-    "wof:lastmodified":1566717693,
+    "wof:lastmodified":1706239874,
     "wof:name":"Chamag",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259497843
+    ],
     "wof:tags":[]
 },
   "bbox": [

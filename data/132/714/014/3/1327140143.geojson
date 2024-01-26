@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"61.03333,25.82278,61.03333,25.82278",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "Vash\u012bn Chat"
@@ -51,7 +53,7 @@
         "gn:id":1159329
     },
     "wof:country":"IR",
-    "wof:geomhash":"fa97f5a07d28941e30e105171d8f4290",
+    "wof:geomhash":"c42521047adf7d05264b6f5125d9017e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +64,22 @@
         }
     ],
     "wof:id":1327140143,
-    "wof:lastmodified":1566715687,
+    "wof:lastmodified":1706239907,
     "wof:name":"Vashin Chat",
     "wof:parent_id":1108719919,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1326630049
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    61.03333000000001,
+    61.03333,
     25.82278,
-    61.03333000000001,
+    61.03333,
     25.82278
 ],
-  "geometry": {"coordinates":[61.03333000000001,25.82278],"type":"Point"}
+  "geometry": {"coordinates":[61.03333,25.82278],"type":"Point"}
 }

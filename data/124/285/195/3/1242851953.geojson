@@ -56,8 +56,13 @@
     "wof:concordances":{
         "gn:id":122705
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6649596
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"dd407e8ad599757aee742d3fbdcdd7e0",
+    "wof:geomhash":"570ac9a6611ce9331b7406595874070a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +73,22 @@
         }
     ],
     "wof:id":1242851953,
-    "wof:lastmodified":1566719702,
+    "wof:lastmodified":1706239891,
     "wof:name":"Nong",
     "wof:parent_id":1108719863,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344237461
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    56.44603000000001,
+    56.44603,
     27.37001,
-    56.44603000000001,
+    56.44603,
     27.37001
 ],
-  "geometry": {"coordinates":[56.44603000000001,27.37001],"type":"Point"}
+  "geometry": {"coordinates":[56.44603,27.37001],"type":"Point"}
 }

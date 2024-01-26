@@ -35,6 +35,13 @@
     "name:fas_x_variant":[
         "J\u012bmeh"
     ],
+    "name:und_x_variant":[
+        "Ch\u0101h Hims",
+        "J\u012bmeh",
+        "Jam\u012bmeh",
+        "Jeyheh",
+        "Jeymeh"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +52,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6651748
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            130402
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"82dec3a4319062f094190daa5673421f",
@@ -58,13 +70,15 @@
         }
     ],
     "wof:id":1276395313,
-    "wof:lastmodified":1566717545,
+    "wof:lastmodified":1706239900,
     "wof:name":"Jimeh",
     "wof:parent_id":1108719951,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326899265
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -35,6 +35,10 @@
     "name:fas_x_variant":[
         "Bal\u012bl\u012b"
     ],
+    "name:und_x_variant":[
+        "B\u016blbuli",
+        "Beleylt"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +49,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6654853
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            141769
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"f2e063e53d0fb4b4d6ed8aa736adc535",
@@ -58,13 +67,15 @@
         }
     ],
     "wof:id":1209904051,
-    "wof:lastmodified":1566717738,
+    "wof:lastmodified":1706239881,
     "wof:name":"Balili",
     "wof:parent_id":1108720243,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243542509
+    ],
     "wof:tags":[]
 },
   "bbox": [

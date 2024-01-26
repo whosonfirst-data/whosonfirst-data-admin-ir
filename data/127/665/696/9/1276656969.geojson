@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":1113804
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7010049
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"08708c5d1d70df086805c9c5837b6edb",
     "wof:hierarchy":[
@@ -61,13 +66,15 @@
         }
     ],
     "wof:id":1276656969,
-    "wof:lastmodified":1566717568,
+    "wof:lastmodified":1706239901,
     "wof:name":"Lahrab",
     "wof:parent_id":1108720517,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326647999
+    ],
     "wof:tags":[]
 },
   "bbox": [

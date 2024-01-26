@@ -57,8 +57,16 @@
         "gn:id":126855,
         "wk:page":"Kohur_Kalaghi"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6654556
+        ],
+        "wk:page":[
+            "Kohur_Kalaghi"
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"6c88021433b96f6ddd91653423c41519",
+    "wof:geomhash":"84dc77f2d75e7c8b269a1019b073b56c",
     "wof:hierarchy":[
         {
             "country_id":85632361,
@@ -66,20 +74,22 @@
         }
     ],
     "wof:id":1209696431,
-    "wof:lastmodified":1566717988,
+    "wof:lastmodified":1706239879,
     "wof:name":"Kohur Kalaghi",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310689181
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    56.69813000000001,
+    56.69813,
     27.38378,
-    56.69813000000001,
+    56.69813,
     27.38378
 ],
-  "geometry": {"coordinates":[56.69813000000001,27.38378],"type":"Point"}
+  "geometry": {"coordinates":[56.69813,27.38378],"type":"Point"}
 }

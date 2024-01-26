@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"52.50252,36.49124,52.50252,36.49124",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0627\u064e\u0644\u0651\u0627\u0647 \u0634\u0627\u0647"
@@ -46,7 +48,7 @@
         "gn:id":1702
     },
     "wof:country":"IR",
-    "wof:geomhash":"5bef55b984490a64854e4d4742d9e074",
+    "wof:geomhash":"21f1721b7d4ebc5bda1e6a297a5d9047",
     "wof:hierarchy":[
         {
             "country_id":85632361,
@@ -54,20 +56,22 @@
         }
     ],
     "wof:id":1209559685,
-    "wof:lastmodified":1566717753,
+    "wof:lastmodified":1706239873,
     "wof:name":"`Alishah",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1193186733
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     52.50252,
-    36.49124000000001,
+    36.49124,
     52.50252,
-    36.49124000000001
+    36.49124
 ],
-  "geometry": {"coordinates":[52.50252,36.49124000000001],"type":"Point"}
+  "geometry": {"coordinates":[52.50252,36.49124],"type":"Point"}
 }

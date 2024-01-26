@@ -38,6 +38,13 @@
     "name:fra_x_preferred":[
         "Javadiyeh"
     ],
+    "name:und_x_variant":[
+        "Dom S\u012byah",
+        "Dum-i-Si\u0101h",
+        "Doms\u012b\u0101n",
+        "Domsey\u0101h",
+        "Jav\u0101d\u012byeh"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,6 +55,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7516490
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            135925
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"1b5233377496e8a1697d37db18ff2fb2",
@@ -61,13 +73,15 @@
         }
     ],
     "wof:id":1243304597,
-    "wof:lastmodified":1566719379,
+    "wof:lastmodified":1706239892,
     "wof:name":"Javadiyeh",
     "wof:parent_id":1108720137,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343898817
+    ],
     "wof:tags":[]
 },
   "bbox": [

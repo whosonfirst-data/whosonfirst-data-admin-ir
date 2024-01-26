@@ -32,6 +32,25 @@
     "name:fas_x_preferred":[
         "\u0642\u0631\u0647 \u0642\u064a\u0647"
     ],
+    "name:fas_x_variant":[
+        "\u063a\u064e\u0631\u064e \u063a\u064e\u064a\u0650\u0647",
+        "\u0642\u064e\u0631\u0650\u0647 \u0642\u064e\u064a\u0650\u0647",
+        "\u0642\u064e\u0631\u064e\u0647 \u0642\u064a\u0650\u0651\u0647",
+        "\u0642\u064e\u0631\u064e\u0642\u064a\u0650\u0651\u0647",
+        "Qar\u0101 Qayeh",
+        "\u0642\u0631\u0647 \u0642\u064a\u0647",
+        "\u0642\u0631\u0627\u0642\u06cc\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Qara Qayeh"
+    ],
+    "name:und_x_variant":[
+        "Ghara Ghayeh",
+        "Qarah Q\u012byeh",
+        "Qareh Qayeh",
+        "Qaraq\u012byeh",
+        "Qarah Qayah"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -41,7 +60,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":6756400
+        "gn:id":6756400,
+        "wk:page":"Qara_Qayeh,_Hamadan"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            119939
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"3edf08599a61a76d1ac2821d44c64ae2",
@@ -55,13 +80,15 @@
         }
     ],
     "wof:id":1259472413,
-    "wof:lastmodified":1566719912,
+    "wof:lastmodified":1706239894,
     "wof:name":"Qarah Qayah",
     "wof:parent_id":1108720349,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259579743
+    ],
     "wof:tags":[]
 },
   "bbox": [

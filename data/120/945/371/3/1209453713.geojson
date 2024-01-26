@@ -35,6 +35,13 @@
     "name:fas_x_preferred":[
         "\u0642\u0631\u0647 \u06af\u0644"
     ],
+    "name:fas_x_variant":[
+        "\u0642\u0631\u0647 \u06af\u0644",
+        "\u0642\u0631\u0647\u200c\u06af\u0644\u200c\u06a9\u0644\u0647"
+    ],
+    "name:msa_x_preferred":[
+        "Qarah Gol-e Kalleh"
+    ],
     "name:swe_x_preferred":[
         "Qarah Gol"
     ],
@@ -44,7 +51,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":7111088
+        "gn:id":7111088,
+        "wk:page":"Qarah_Gol-e_Kalleh"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9722
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"7279891e4ec88fcd81973ba4cc5a52b1",
@@ -55,13 +68,15 @@
         }
     ],
     "wof:id":1209453713,
-    "wof:lastmodified":1566718081,
+    "wof:lastmodified":1706239877,
     "wof:name":"Qarah Gol",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259434529
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -35,6 +35,11 @@
     "name:fas_x_variant":[
         "B\u0101gh-e Qal\u0101t\u016bn"
     ],
+    "name:und_x_variant":[
+        "B\u0101gh Gal\u016bn",
+        "B\u0101gh-e Qal\u0101t\u016bn",
+        "B\u0101ghgal\u0101n"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6654841
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            381558
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"6741d80e15d62053a715d62274a81ee6",
@@ -58,13 +68,15 @@
         }
     ],
     "wof:id":1260370929,
-    "wof:lastmodified":1566718472,
+    "wof:lastmodified":1706239898,
     "wof:name":"Bagh-e Qalatun",
     "wof:parent_id":1108720243,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310681661
+    ],
     "wof:tags":[]
 },
   "bbox": [

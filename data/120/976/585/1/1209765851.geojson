@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":406317
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6654361
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"64dc7eb26390b11727c3139553597dbe",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1209765851,
-    "wof:lastmodified":1566717865,
+    "wof:lastmodified":1706239880,
     "wof:name":"Bezang",
     "wof:parent_id":1108719851,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276814757
+    ],
     "wof:tags":[]
 },
   "bbox": [

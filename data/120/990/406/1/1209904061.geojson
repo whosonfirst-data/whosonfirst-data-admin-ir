@@ -78,6 +78,11 @@
     "wof:concordances":{
         "gn:id":48532
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6650481
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"ac00df8d7bbf2c023c1aa5628203a0f5",
     "wof:hierarchy":[
@@ -90,13 +95,15 @@
         }
     ],
     "wof:id":1209904061,
-    "wof:lastmodified":1566717735,
+    "wof:lastmodified":1706239881,
     "wof:name":"Abgarm",
     "wof:parent_id":1108720357,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242765541
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -49,8 +49,13 @@
     "wof:concordances":{
         "gn:id":8695903
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8698800
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"0ada0ce6fe691529ac1035eababcbcf5",
+    "wof:geomhash":"301e71d9096b853414c593890d10b53c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -61,20 +66,22 @@
         }
     ],
     "wof:id":1242601193,
-    "wof:lastmodified":1566719516,
+    "wof:lastmodified":1706239889,
     "wof:name":"Tasian",
     "wof:parent_id":1108720389,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293487519
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    61.71373000000001,
+    61.71373,
     27.2496,
-    61.71373000000001,
+    61.71373,
     27.2496
 ],
-  "geometry": {"coordinates":[61.71373000000001,27.2496],"type":"Point"}
+  "geometry": {"coordinates":[61.71373,27.2496],"type":"Point"}
 }

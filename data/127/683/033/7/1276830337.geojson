@@ -53,6 +53,11 @@
     "wof:concordances":{
         "gn:id":46356
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6988396
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"5fe0ebb920dae8e92fc7db2e8de1fefa",
     "wof:hierarchy":[
@@ -65,13 +70,15 @@
         }
     ],
     "wof:id":1276830337,
-    "wof:lastmodified":1566717498,
+    "wof:lastmodified":1706239901,
     "wof:name":"Hasan Jahazi",
     "wof:parent_id":1108720091,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326980393
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -41,6 +41,9 @@
     "name:ukr_x_preferred":[
         "\u041a\u0435\u0448\u0430\u0454"
     ],
+    "name:und_x_variant":[
+        "Kesh\u0101yeh"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,6 +55,14 @@
     "wof:concordances":{
         "gn:id":7620857,
         "wk:page":"Keshayeh"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10373
+        ],
+        "wk:page":[
+            "Keshayeh"
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"fab74dbab222ad74d82ce68f15f2355d",
@@ -65,13 +76,15 @@
         }
     ],
     "wof:id":1327025249,
-    "wof:lastmodified":1566715763,
+    "wof:lastmodified":1706239908,
     "wof:name":"Keshayeh",
     "wof:parent_id":1108720365,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360270137
+    ],
     "wof:tags":[]
 },
   "bbox": [

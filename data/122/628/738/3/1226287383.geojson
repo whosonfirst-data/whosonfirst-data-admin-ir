@@ -38,8 +38,18 @@
     "name:fas_x_preferred":[
         "\u067e\u06cc\u06a9"
     ],
+    "name:fas_x_variant":[
+        "P\u012bk",
+        "\u067e\u06cc\u06a9"
+    ],
     "name:swe_x_preferred":[
         "Peyk"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0439\u043a"
+    ],
+    "name:und_x_variant":[
+        "Peik"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +60,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":6659667
+        "gn:id":6659667,
+        "wk:page":"Peyk%2C_Markazi"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            121163
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"365de8dd7c8b4481765c72424ad13c78",
@@ -64,13 +80,15 @@
         }
     ],
     "wof:id":1226287383,
-    "wof:lastmodified":1566720093,
+    "wof:lastmodified":1706239885,
     "wof:name":"Peyk",
     "wof:parent_id":1108720525,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326984029
+    ],
     "wof:tags":[]
 },
   "bbox": [

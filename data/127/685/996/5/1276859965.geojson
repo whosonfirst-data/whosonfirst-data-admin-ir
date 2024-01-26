@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u062f\u0648\u0627\u0628"
     ],
+    "name:ceb_x_preferred":[
+        "Do Ab"
+    ],
     "name:fas_x_preferred":[
         "Do \u0100b-e M\u0101zh\u012bn"
     ],
@@ -41,6 +44,9 @@
         "\u062f\u0648\u0627\u0628"
     ],
     "name:msa_x_preferred":[
+        "Do Ab"
+    ],
+    "name:swe_x_preferred":[
         "Do Ab"
     ],
     "name:und_x_variant":[
@@ -58,6 +64,11 @@
         "gn:id":42098,
         "wk:page":"Do_Ab,_Ilam"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6722254
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"906882969af22b71567e10c0924591b9",
     "wof:hierarchy":[
@@ -70,13 +81,15 @@
         }
     ],
     "wof:id":1276859965,
-    "wof:lastmodified":1566717430,
+    "wof:lastmodified":1706239901,
     "wof:name":"Do Ab",
     "wof:parent_id":1108719947,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326818957
+    ],
     "wof:tags":[]
 },
   "bbox": [

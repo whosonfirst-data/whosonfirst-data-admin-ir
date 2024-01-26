@@ -58,6 +58,11 @@
     "wof:concordances":{
         "gn:id":8355879
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            15020
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"b8cc0f2a25a58852a245edf4817b1370",
     "wof:hierarchy":[
@@ -70,13 +75,15 @@
         }
     ],
     "wof:id":1259685343,
-    "wof:lastmodified":1566719939,
+    "wof:lastmodified":1706239896,
     "wof:name":"Gandomzar",
     "wof:parent_id":1108720189,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360092029
+    ],
     "wof:tags":[]
 },
   "bbox": [

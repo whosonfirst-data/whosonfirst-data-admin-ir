@@ -35,6 +35,9 @@
     "name:fas_x_variant":[
         "Moll\u0101 Ebr\u0101h\u012bm"
     ],
+    "name:und_x_variant":[
+        "Moll\u0101 Ebr\u0101h\u012bm"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6657617
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1114451
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"14ffe54846be9fef6cf9078f68aef1e3",
@@ -58,13 +66,15 @@
         }
     ],
     "wof:id":1293589187,
-    "wof:lastmodified":1566716925,
+    "wof:lastmodified":1706239904,
     "wof:name":"Molla Ebrahim",
     "wof:parent_id":1108720513,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309911751
+    ],
     "wof:tags":[]
 },
   "bbox": [

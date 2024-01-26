@@ -35,13 +35,22 @@
     "name:fas_x_variant":[
         "Z\u012bleh Kh\u016bn\u012b"
     ],
+    "name:und_x_variant":[
+        "Z\u012bleh Kh\u016bn\u012b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632361
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":6743780
+        "gn:id":6743780,
+        "wk:page":"Zola_Khuni"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            37099
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"0ef70eb5f1da2f08e6ab90afdaba8f51",
@@ -52,13 +61,15 @@
         }
     ],
     "wof:id":1209411951,
-    "wof:lastmodified":1566717797,
+    "wof:lastmodified":1706239877,
     "wof:name":"Zileh Khuni",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310100865
+    ],
     "wof:tags":[]
 },
   "bbox": [

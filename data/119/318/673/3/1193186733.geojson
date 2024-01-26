@@ -46,8 +46,13 @@
     "wof:concordances":{
         "gn:id":7641978
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1702
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"5bef55b984490a64854e4d4742d9e074",
+    "wof:geomhash":"21f1721b7d4ebc5bda1e6a297a5d9047",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,20 +63,22 @@
         }
     ],
     "wof:id":1193186733,
-    "wof:lastmodified":1566718328,
+    "wof:lastmodified":1706239873,
     "wof:name":"`Alishah",
     "wof:parent_id":1108719845,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209559685
+    ],
     "wof:tags":[]
 },
   "bbox": [
     52.50252,
-    36.49124000000001,
+    36.49124,
     52.50252,
-    36.49124000000001
+    36.49124
 ],
-  "geometry": {"coordinates":[52.50252,36.49124000000001],"type":"Point"}
+  "geometry": {"coordinates":[52.50252,36.49124],"type":"Point"}
 }

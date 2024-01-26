@@ -35,6 +35,9 @@
     "name:fas_x_variant":[
         "Mad\u0101nch"
     ],
+    "name:und_x_variant":[
+        "Madanj"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7064290
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            406150
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"d070cb80615ec60e07a70dcd66899677",
@@ -58,13 +66,15 @@
         }
     ],
     "wof:id":1243269813,
-    "wof:lastmodified":1566719790,
+    "wof:lastmodified":1706239892,
     "wof:name":"Madanch",
     "wof:parent_id":1108720271,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259583213
+    ],
     "wof:tags":[]
 },
   "bbox": [

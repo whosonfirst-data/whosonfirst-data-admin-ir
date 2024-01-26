@@ -29,8 +29,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0639\u0633\u06a9\u0631\u064a"
+    ],
     "name:fas_x_preferred":[
         "\u0639\u0633\u06a9\u0631\u06cc"
+    ],
+    "name:fas_x_variant":[
+        "\u2018Asgar\u012b",
+        "\u0639\u0633\u06a9\u0631\u06cc"
+    ],
+    "name:msa_x_preferred":[
+        "Askari"
     ],
     "name:und_x_variant":[
         "\u2018Askar\u012b"
@@ -44,7 +54,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":8376045
+        "gn:id":8376045,
+        "wk:page":"Askari,_Kangan"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            142812
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"c447439723e1631d737f12fb29f02092",
@@ -58,13 +74,15 @@
         }
     ],
     "wof:id":1193105877,
-    "wof:lastmodified":1566718358,
+    "wof:lastmodified":1706239873,
     "wof:name":"`Askari",
     "wof:parent_id":1108720101,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326486765
+    ],
     "wof:tags":[]
 },
   "bbox": [

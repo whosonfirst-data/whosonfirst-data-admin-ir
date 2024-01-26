@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"49.248,31.9761,49.248,31.9761",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u062a\u0644\u062e \u0622\u0628\u0627\u062f"
@@ -47,7 +49,7 @@
         "gn:id":6661742
     },
     "wof:country":"IR",
-    "wof:geomhash":"e9c767116479f1f21df3a717f6e22961",
+    "wof:geomhash":"dda09e42b4335598e6de64300eb31af2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,20 +60,22 @@
         }
     ],
     "wof:id":1343334473,
-    "wof:lastmodified":1566716425,
+    "wof:lastmodified":1706239879,
     "wof:name":"Talkhabad",
     "wof:parent_id":1108720229,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209685749
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    49.24800000000001,
+    49.248,
     31.9761,
-    49.24800000000001,
+    49.248,
     31.9761
 ],
-  "geometry": {"coordinates":[49.24800000000001,31.9761],"type":"Point"}
+  "geometry": {"coordinates":[49.248,31.9761],"type":"Point"}
 }

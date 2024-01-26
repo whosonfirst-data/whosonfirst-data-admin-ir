@@ -29,11 +29,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0643\u062a\u064a\u0631"
+    ],
     "name:fas_x_preferred":[
         "Kat\u012br"
     ],
     "name:fas_x_variant":[
         "\u06a9\u062a\u06cc\u0631"
+    ],
+    "name:und_x_variant":[
+        "Kat\u012br"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -41,7 +47,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":7457175
+        "gn:id":7457175,
+        "wk:page":"Kotir"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7933
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"f5371819508cf6b50ea5a2ad35e3cbae",
@@ -52,13 +64,15 @@
         }
     ],
     "wof:id":1209050911,
-    "wof:lastmodified":1566717999,
+    "wof:lastmodified":1706239874,
     "wof:name":"Katir",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209149305
+    ],
     "wof:tags":[]
 },
   "bbox": [

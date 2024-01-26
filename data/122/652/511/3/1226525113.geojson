@@ -53,8 +53,13 @@
         "gn:id":133475,
         "wk:page":"Ghafel"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6661686
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"d301aee3fdb2b5895a5653cff4fdded1",
+    "wof:geomhash":"91bfdbd31d319ca0f8d164266a22db40",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,20 +70,22 @@
         }
     ],
     "wof:id":1226525113,
-    "wof:lastmodified":1566720373,
+    "wof:lastmodified":1706239887,
     "wof:name":"Ghafel",
     "wof:parent_id":1108720457,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327348055
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    49.02634000000001,
+    49.02634,
     31.71836,
-    49.02634000000001,
+    49.02634,
     31.71836
 ],
-  "geometry": {"coordinates":[49.02634000000001,31.71836],"type":"Point"}
+  "geometry": {"coordinates":[49.02634,31.71836],"type":"Point"}
 }

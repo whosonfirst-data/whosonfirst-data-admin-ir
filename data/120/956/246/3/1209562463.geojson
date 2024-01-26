@@ -35,13 +35,23 @@
     "name:fas_x_variant":[
         "B\u0101gh-e Sorkh"
     ],
+    "name:und_x_variant":[
+        "B\u0101ghsorkh",
+        "B\u0101gh-i-Surkh"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632361
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":6875561
+        "gn:id":6875561,
+        "wk:page":"Bagh-e_Sorkh,_Isfahan"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            142076
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"7d2153c972f78e22e8fb5609d415a9a3",
@@ -52,13 +62,15 @@
         }
     ],
     "wof:id":1209562463,
-    "wof:lastmodified":1566717985,
+    "wof:lastmodified":1706239878,
     "wof:name":"Bagh-e Sorkh",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209562469
+    ],
     "wof:tags":[]
 },
   "bbox": [

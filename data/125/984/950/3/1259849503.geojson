@@ -39,8 +39,14 @@
         "\u0622\u0628 \u0627\u0646\u0627\u0631\u06a9",
         "\u062f\u0648\u0631\u062a\u0648"
     ],
+    "name:msa_x_preferred":[
+        "Ab Anarak"
+    ],
     "name:swe_x_preferred":[
         "\u0100b An\u0101rak"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0628 \u0627\u0646\u0627\u0631\u06a9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,6 +60,11 @@
         "gn:id":14491,
         "wk:page":"Durtu"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7864221
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"cbae01bd43981720b14d222d252abbe9",
     "wof:hierarchy":[
@@ -66,13 +77,15 @@
         }
     ],
     "wof:id":1259849503,
-    "wof:lastmodified":1566719890,
+    "wof:lastmodified":1706239896,
     "wof:name":"Ab Anarak",
     "wof:parent_id":1108719853,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276624535
+    ],
     "wof:tags":[]
 },
   "bbox": [

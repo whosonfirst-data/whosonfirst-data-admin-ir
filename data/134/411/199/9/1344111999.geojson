@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"53.12129,35.90512,53.12129,35.90512",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u062e\u064e\u0637\u064a\u0631 \u0643\u0648\u0647"
@@ -53,7 +55,7 @@
         "gn:id":127678
     },
     "wof:country":"IR",
-    "wof:geomhash":"1a1fddb35ceb9d1f0de41f1c460b4592",
+    "wof:geomhash":"5e78f743ca99b9cec7ba9c354dc279ad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -64,20 +66,22 @@
         }
     ],
     "wof:id":1344111999,
-    "wof:lastmodified":1566716455,
+    "wof:lastmodified":1706239883,
     "wof:name":"Band-e Bon",
     "wof:parent_id":1108720419,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1225911901
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     53.12129,
-    35.90512000000001,
+    35.90512,
     53.12129,
-    35.90512000000001
+    35.90512
 ],
-  "geometry": {"coordinates":[53.12129,35.90512000000001],"type":"Point"}
+  "geometry": {"coordinates":[53.12129,35.90512],"type":"Point"}
 }

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"57.03573,29.26604,57.03573,29.26604",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u0633\u0644\u0627\u0645 \u0622\u0628\u0627\u062f"
@@ -51,7 +53,7 @@
         "gn:id":7617244
     },
     "wof:country":"IR",
-    "wof:geomhash":"0f93fe64f64c2d9c9ee3c388c554f99f",
+    "wof:geomhash":"1487aae12a29ac62175ba7e88c871acb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +64,22 @@
         }
     ],
     "wof:id":1309756381,
-    "wof:lastmodified":1566719299,
+    "wof:lastmodified":1706239895,
     "wof:name":"Eslamabad",
     "wof:parent_id":1108719851,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1259544585
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    57.03573000000001,
+    57.03573,
     29.26604,
-    57.03573000000001,
+    57.03573,
     29.26604
 ],
-  "geometry": {"coordinates":[57.03573000000001,29.26604],"type":"Point"}
+  "geometry": {"coordinates":[57.03573,29.26604],"type":"Point"}
 }

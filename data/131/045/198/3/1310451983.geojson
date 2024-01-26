@@ -118,6 +118,11 @@
     "wof:concordances":{
         "gn:id":66937
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            390612
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"9df7b9c48a20c17d58afad159a2b9928",
     "wof:hierarchy":[
@@ -130,13 +135,15 @@
         }
     ],
     "wof:id":1310451983,
-    "wof:lastmodified":1566718802,
+    "wof:lastmodified":1706239906,
     "wof:name":"Pol",
     "wof:parent_id":1108720115,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343408039
+    ],
     "wof:tags":[]
 },
   "bbox": [

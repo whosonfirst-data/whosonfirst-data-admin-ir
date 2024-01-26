@@ -53,6 +53,11 @@
     "wof:concordances":{
         "gn:id":32260
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6739726
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"96d96dd8132c56ac1714b45e687aaf51",
     "wof:hierarchy":[
@@ -65,13 +70,15 @@
         }
     ],
     "wof:id":1276827231,
-    "wof:lastmodified":1566717420,
+    "wof:lastmodified":1706239901,
     "wof:name":"Pa Tappeh",
     "wof:parent_id":1108720145,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360240917
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -38,6 +38,9 @@
     "name:rus_x_preferred":[
         "\u0420\u0443\u0445\u0430\u0431\u0430\u0434"
     ],
+    "name:und_x_variant":[
+        "R\u016b\u1e29\u0101b\u0101d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -47,7 +50,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":7074965
+        "gn:id":7074965,
+        "wk:page":"Ruhabad,_Roshtkhar"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            134868
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"afbc487b340e8a4c6d8d0054be99a4e9",
@@ -61,13 +70,15 @@
         }
     ],
     "wof:id":1293517247,
-    "wof:lastmodified":1566716917,
+    "wof:lastmodified":1706239904,
     "wof:name":"Ruhabad",
     "wof:parent_id":1108720119,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343290979
+    ],
     "wof:tags":[]
 },
   "bbox": [

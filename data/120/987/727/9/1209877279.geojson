@@ -51,6 +51,11 @@
     "wof:concordances":{
         "gn:id":118166
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7028476
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"cb3b506fbfe034160a2aa5e973087409",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1209877279,
-    "wof:lastmodified":1566718055,
+    "wof:lastmodified":1706239880,
     "wof:name":"Mehrabad",
     "wof:parent_id":1108720433,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226392675
+    ],
     "wof:tags":[]
 },
   "bbox": [

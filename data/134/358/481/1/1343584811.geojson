@@ -59,6 +59,11 @@
     "wof:concordances":{
         "gn:id":1159971
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7050005
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"64190a9657754746baa08633a9bc5f19",
     "wof:hierarchy":[
@@ -71,13 +76,15 @@
         }
     ],
     "wof:id":1343584811,
-    "wof:lastmodified":1566716397,
+    "wof:lastmodified":1706239909,
     "wof:name":"Badan",
     "wof:parent_id":1108720131,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360208281
+    ],
     "wof:tags":[]
 },
   "bbox": [

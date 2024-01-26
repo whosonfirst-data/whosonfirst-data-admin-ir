@@ -55,6 +55,11 @@
     "wof:concordances":{
         "gn:id":132921
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7060559
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"4ded512fcbebd10e43d768cf256bf72a",
     "wof:hierarchy":[
@@ -64,13 +69,15 @@
         }
     ],
     "wof:id":1209644913,
-    "wof:lastmodified":1566717740,
+    "wof:lastmodified":1706239878,
     "wof:name":"Kangan",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293321673
+    ],
     "wof:tags":[]
 },
   "bbox": [

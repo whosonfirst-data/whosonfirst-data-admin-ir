@@ -49,8 +49,13 @@
     "wof:concordances":{
         "gn:id":7529580
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11268152
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"f7bbeafa23d5f53ed33a75c19624b060",
+    "wof:geomhash":"7414236bed0e63a19f1f1bb83c37ed1c",
     "wof:hierarchy":[
         {
             "country_id":85632361,
@@ -58,20 +63,22 @@
         }
     ],
     "wof:id":1209514147,
-    "wof:lastmodified":1566717992,
+    "wof:lastmodified":1706239877,
     "wof:name":"Qanat-e Chirbiun",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310128255
+    ],
     "wof:tags":[]
 },
   "bbox": [
     50.70313,
-    31.24937000000001,
+    31.24937,
     50.70313,
-    31.24937000000001
+    31.24937
 ],
-  "geometry": {"coordinates":[50.70313,31.24937000000001],"type":"Point"}
+  "geometry": {"coordinates":[50.70313,31.24937],"type":"Point"}
 }

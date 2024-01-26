@@ -41,13 +41,23 @@
     "name:msa_x_preferred":[
         "Hasan Langi-ye Bala"
     ],
+    "name:und_x_variant":[
+        "Gazak\u012b-e \u1e28asanlang\u012b",
+        "\u1e28asan Lang\u012b-ye B\u0101l\u0101"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632361
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":6649643
+        "gn:id":6649643,
+        "wk:page":"Hasan_Langi-ye_Bala"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            48050
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"2f96b66746e74b242bbd1a5007d8d334",
@@ -58,13 +68,15 @@
         }
     ],
     "wof:id":1209292001,
-    "wof:lastmodified":1566718031,
+    "wof:lastmodified":1706239876,
     "wof:name":"Hasan Langi-ye Bala",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343441607
+    ],
     "wof:tags":[]
 },
   "bbox": [

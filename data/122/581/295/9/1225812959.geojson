@@ -35,6 +35,10 @@
     "name:fas_x_variant":[
         "Parp\u0101-ye B\u0101l\u0101"
     ],
+    "name:und_x_variant":[
+        "Par\u012b\u0101",
+        "Par\u012by\u0101"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -46,8 +50,13 @@
     "wof:concordances":{
         "gn:id":7108287
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            121426
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"921def2142653312868efb33f31e40b0",
+    "wof:geomhash":"18f9f7db8e6a4d1cf646ad4b6965cb73",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,20 +67,22 @@
         }
     ],
     "wof:id":1225812959,
-    "wof:lastmodified":1566720237,
+    "wof:lastmodified":1706239882,
     "wof:name":"Parpa-ye Bala",
     "wof:parent_id":1108720419,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343719007
+    ],
     "wof:tags":[]
 },
   "bbox": [
     53.92513,
-    35.76300000000001,
+    35.763,
     53.92513,
-    35.76300000000001
+    35.763
 ],
-  "geometry": {"coordinates":[53.92513,35.76300000000001],"type":"Point"}
+  "geometry": {"coordinates":[53.92513,35.763],"type":"Point"}
 }

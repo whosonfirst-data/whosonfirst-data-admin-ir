@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":10050
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7620855
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"2efc2b67e9d5b0f92d45770f6d273e08",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1226690205,
-    "wof:lastmodified":1566720180,
+    "wof:lastmodified":1706239888,
     "wof:name":"Yazan",
     "wof:parent_id":1108720333,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276377857
+    ],
     "wof:tags":[]
 },
   "bbox": [

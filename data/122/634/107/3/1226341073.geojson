@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":6729610
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            141173
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"a80c9931990221531468bbb95de9d07c",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1226341073,
-    "wof:lastmodified":1566720164,
+    "wof:lastmodified":1706239886,
     "wof:name":"Barzian",
     "wof:parent_id":1108719859,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1292902307
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -52,6 +52,11 @@
     "wof:concordances":{
         "gn:id":15085
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7549596
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"45a36309565944d14a9966cbb2bd7234",
     "wof:hierarchy":[
@@ -64,13 +69,15 @@
         }
     ],
     "wof:id":1193000993,
-    "wof:lastmodified":1566718195,
+    "wof:lastmodified":1706239872,
     "wof:name":"Palam-e Zivar",
     "wof:parent_id":1108720067,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209585655
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -53,6 +53,11 @@
     "wof:concordances":{
         "gn:id":115358
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            129033
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"74f17900318776284063d87cf4849996",
     "wof:hierarchy":[
@@ -65,13 +70,15 @@
         }
     ],
     "wof:id":1276808367,
-    "wof:lastmodified":1566717209,
+    "wof:lastmodified":1706239901,
     "wof:name":"Kamar Ab",
     "wof:parent_id":1108720443,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327474553
+    ],
     "wof:tags":[]
 },
   "bbox": [

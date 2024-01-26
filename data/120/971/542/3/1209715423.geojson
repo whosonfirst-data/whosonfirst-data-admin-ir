@@ -35,6 +35,9 @@
     "name:fas_x_variant":[
         "Ch\u0101h-e Mo\u1e29ammad \u2018Omar"
     ],
+    "name:und_x_variant":[
+        "Ch\u0101h-e Mo\u1e29ammad \u2018Omar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7094500
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1113680
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"9cb54bf392a988968293aced3bdd8995",
@@ -58,13 +66,15 @@
         }
     ],
     "wof:id":1209715423,
-    "wof:lastmodified":1566717840,
+    "wof:lastmodified":1706239879,
     "wof:name":"Chah-e Mohammad `Omar",
     "wof:parent_id":1108720131,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344162871
+    ],
     "wof:tags":[]
 },
   "bbox": [

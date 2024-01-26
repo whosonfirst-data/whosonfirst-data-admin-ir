@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":43275
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6984152
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"850c5df4e06e63fb18fea75d4460f05b",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1226605961,
-    "wof:lastmodified":1566720189,
+    "wof:lastmodified":1706239888,
     "wof:name":"`Aliabad",
     "wof:parent_id":1108720461,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243029145
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -13,6 +13,7 @@
     "gn:longitude":-6.29694,
     "gn:population":19768,
     "iso:country":"IE",
+    "lbl:bbox":"-6.303964,53.384707,-6.293964,53.394707",
     "lbl:latitude":53.389391,
     "lbl:longitude":-6.296117,
     "lbl:max_zoom":18.0,
@@ -26,6 +27,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":5,
     "mz:tier_metro":1,
     "name:bul_x_preferred":[
@@ -112,6 +114,21 @@
     "qs:woe_lau":20072154,
     "qs:woe_local":560743,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Tinglas",
+    "qs_pg:name_adm0":"Ireland",
+    "qs_pg:name_adm1":"Dublin",
+    "qs_pg:photos":1719,
+    "qs_pg:photos_1k":348,
+    "qs_pg:photos_9k":8,
+    "qs_pg:photos_9r":8,
+    "qs_pg:photos_all":1719,
+    "qs_pg:photos_sr":14,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":897861,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424803,
+    "qs_pg:woe_id":562362,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -119,6 +136,10 @@
     "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wd:wordcount":1075,
+    "woe:adm0_id":23424803,
+    "woe:name_adm0":"Ireland",
+    "woe:name_adm1":"Dublin",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         102191581,
         101751737,
@@ -132,6 +153,17 @@
         "qs_pg:id":243295,
         "wd:id":"Q2092179",
         "wk:page":"Finglas"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            562362
+        ],
+        "qs_pg:id":[
+            897861
+        ],
+        "wd:id":[
+            "Q21705220"
+        ]
     },
     "wof:country":"IR",
     "wof:geom_alt":[
@@ -151,7 +183,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690934409,
+    "wof:lastmodified":1706239870,
     "wof:name":"Finglas",
     "wof:parent_id":101751737,
     "wof:placetype":"neighbourhood",
@@ -159,7 +191,10 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126089187,
+        1746761201
+    ],
     "wof:tags":[]
 },
   "bbox": [

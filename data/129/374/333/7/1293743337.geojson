@@ -38,6 +38,9 @@
     "name:msa_x_preferred":[
         "Abazar"
     ],
+    "name:und_x_variant":[
+        "\u0100bzar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,6 +52,14 @@
     "wof:concordances":{
         "gn:id":6689312,
         "wk:page":"Abazar,_Ardabil"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            145420
+        ],
+        "wk:page":[
+            "Abazar"
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"8b7d1c9a3563ed72d992514a563dce48",
@@ -62,13 +73,15 @@
         }
     ],
     "wof:id":1293743337,
-    "wof:lastmodified":1566717056,
+    "wof:lastmodified":1706239904,
     "wof:name":"Abazar",
     "wof:parent_id":1108720273,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310660329
+    ],
     "wof:tags":[]
 },
   "bbox": [

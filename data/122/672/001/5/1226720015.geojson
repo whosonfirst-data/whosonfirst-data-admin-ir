@@ -35,6 +35,9 @@
     "name:fas_x_variant":[
         "Esl\u0101m\u0101b\u0101d-e Jon\u016bb\u012b"
     ],
+    "name:und_x_variant":[
+        "Esl\u0101m\u0101b\u0101d-e Jon\u016bb\u012b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6660577
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            116041
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"556712decfedab23d1d9f5e8bf816229",
@@ -58,13 +66,15 @@
         }
     ],
     "wof:id":1226720015,
-    "wof:lastmodified":1566720072,
+    "wof:lastmodified":1706239888,
     "wof:name":"Eslamabad-e Jonubi",
     "wof:parent_id":1108719969,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259962571
+    ],
     "wof:tags":[]
 },
   "bbox": [

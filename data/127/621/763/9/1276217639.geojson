@@ -11,6 +11,7 @@
     "geom:longitude":54.5314,
     "gn:admin1_code":"7",
     "gn:asciiname":"Kaneh",
+    "gn:cc2":"IR",
     "gn:country_code":"IR",
     "gn:dem":1905,
     "gn:feature_class":"P",
@@ -54,6 +55,14 @@
         "gn:id":45412,
         "wk:page":"Kaneh"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            128856
+        ],
+        "wk:page":[
+            "Kaneh"
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"a649e55926f3725cd5d849223241bed8",
     "wof:hierarchy":[
@@ -66,13 +75,15 @@
         }
     ],
     "wof:id":1276217639,
-    "wof:lastmodified":1566717188,
+    "wof:lastmodified":1706239899,
     "wof:name":"Kaneh",
     "wof:parent_id":1108720277,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309996753
+    ],
     "wof:tags":[]
 },
   "bbox": [

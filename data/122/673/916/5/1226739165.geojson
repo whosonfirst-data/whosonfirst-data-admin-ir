@@ -50,8 +50,16 @@
         "gn:id":137523,
         "wk:page":"Darreh_Rast"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6747012
+        ],
+        "wk:page":[
+            "Darreh_Rast"
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"1568133d4245d24c688d44f8b149ae30",
+    "wof:geomhash":"c0f3fd98e69821b87244501aae3c7abe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +70,22 @@
         }
     ],
     "wof:id":1226739165,
-    "wof:lastmodified":1566720130,
+    "wof:lastmodified":1706239889,
     "wof:name":"Darreh Rast",
     "wof:parent_id":1108720205,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276140685
+    ],
     "wof:tags":[]
 },
   "bbox": [
     48.99889,
-    34.03055999999999,
+    34.03056,
     48.99889,
-    34.03055999999999
+    34.03056
 ],
-  "geometry": {"coordinates":[48.99889,34.03055999999999],"type":"Point"}
+  "geometry": {"coordinates":[48.99889,34.03056],"type":"Point"}
 }

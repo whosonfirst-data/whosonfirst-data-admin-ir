@@ -35,6 +35,9 @@
     "name:fas_x_variant":[
         "\u0628\u0631\u0641\u0648\u06cc\u0647"
     ],
+    "name:und_x_variant":[
+        "Barf\u016byeh"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632361
@@ -42,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7634433
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            39033
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"1e6012f648aa18de34375dcda2aaba36",
@@ -52,13 +60,15 @@
         }
     ],
     "wof:id":1209576539,
-    "wof:lastmodified":1566717896,
+    "wof:lastmodified":1706239878,
     "wof:name":"Barfuyeh",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226796009
+    ],
     "wof:tags":[]
 },
   "bbox": [

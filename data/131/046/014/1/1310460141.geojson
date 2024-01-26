@@ -59,7 +59,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":138699
+        "gn:id":138699,
+        "wk:page":"Rahimabad-e_Yek"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            118955
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"1d9b67e2cc6c44007f1214fb2568c0f2",
@@ -73,13 +79,15 @@
         }
     ],
     "wof:id":1310460141,
-    "wof:lastmodified":1566718641,
+    "wof:lastmodified":1706239906,
     "wof:name":"Rahimabad-e Yek",
     "wof:parent_id":1108720145,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360041461
+    ],
     "wof:tags":[]
 },
   "bbox": [

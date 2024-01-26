@@ -83,6 +83,11 @@
     "wof:concordances":{
         "gn:id":119846
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6706889
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"69be26561688c4e829ea0a3b232abae8",
     "wof:hierarchy":[
@@ -95,13 +100,15 @@
         }
     ],
     "wof:id":1226083025,
-    "wof:lastmodified":1636495446,
+    "wof:lastmodified":1706239884,
     "wof:name":"Qulan",
     "wof:parent_id":1108720083,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327279243
+    ],
     "wof:tags":[]
 },
   "bbox": [
