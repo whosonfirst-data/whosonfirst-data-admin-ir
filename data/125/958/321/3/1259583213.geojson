@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"59.22754,26.78283,59.22754,26.78283",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "Mad\u0101nch"
@@ -51,7 +53,7 @@
         "gn:id":406150
     },
     "wof:country":"IR",
-    "wof:geomhash":"d88b12f2cf426c5e05b53f82285235f7",
+    "wof:geomhash":"a9a685cd370b637595171dcf2a935202",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,20 +64,22 @@
         }
     ],
     "wof:id":1259583213,
-    "wof:lastmodified":1566719976,
+    "wof:lastmodified":1706239892,
     "wof:name":"Madanch",
     "wof:parent_id":1108720271,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1243269813
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    59.22754000000001,
+    59.22754,
     26.78283,
-    59.22754000000001,
+    59.22754,
     26.78283
 ],
-  "geometry": {"coordinates":[59.22754000000001,26.78283],"type":"Point"}
+  "geometry": {"coordinates":[59.22754,26.78283],"type":"Point"}
 }

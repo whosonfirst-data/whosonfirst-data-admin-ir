@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"47.0165,34.3945,47.0165,34.3945",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0633\u0631\u0627\u0628 \u062e\u0634\u06a9\u0647 \u0628\u0627\u0644\u0627"
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":1293072245,
-    "wof:lastmodified":1566716605,
+    "wof:lastmodified":1706239890,
     "wof:name":"Sarab Khoshkeh-ye `Olya",
     "wof:parent_id":1108720117,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1242749173
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

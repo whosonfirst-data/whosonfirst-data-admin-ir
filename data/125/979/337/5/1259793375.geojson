@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":6980071
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6980281
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"ac87e865b13f4ff9a90d9651c9118120",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1259793375,
-    "wof:lastmodified":1566719893,
+    "wof:lastmodified":1706239896,
     "wof:name":"Tall Sabz",
     "wof:parent_id":1108719939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293497425
+    ],
     "wof:tags":[]
 },
   "bbox": [

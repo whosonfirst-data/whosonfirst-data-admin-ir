@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":139655
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7052338
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"4ea705f51407cd75711d42e3371688b5",
     "wof:hierarchy":[
@@ -61,13 +66,15 @@
         }
     ],
     "wof:id":1293051347,
-    "wof:lastmodified":1566716963,
+    "wof:lastmodified":1706239903,
     "wof:name":"Chahar Rahi",
     "wof:parent_id":1108720363,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309966973
+    ],
     "wof:tags":[]
 },
   "bbox": [

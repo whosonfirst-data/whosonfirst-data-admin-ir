@@ -32,6 +32,15 @@
     "name:fas_x_preferred":[
         "\u0628\u0646\u062f \u0628\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u0628\u0646\u062f \u0628\u0646",
+        "\u0628\u0646\u062f \u0628\u0646 \u062e\u0637\u064a\u0631 \u06a9\u0648\u0647"
+    ],
+    "name:und_x_variant":[
+        "Kha\u0163\u012br K\u016bh",
+        "Band-e Bon",
+        "Band-e Bon Kha\u0163\u012br K\u016bh"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -43,8 +52,13 @@
     "wof:concordances":{
         "gn:id":7100882
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            127678
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"1a1fddb35ceb9d1f0de41f1c460b4592",
+    "wof:geomhash":"5e78f743ca99b9cec7ba9c354dc279ad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,20 +69,22 @@
         }
     ],
     "wof:id":1225911901,
-    "wof:lastmodified":1566720277,
+    "wof:lastmodified":1706239883,
     "wof:name":"Band-e Bon",
     "wof:parent_id":1108720419,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344111999
+    ],
     "wof:tags":[]
 },
   "bbox": [
     53.12129,
-    35.90512000000001,
+    35.90512,
     53.12129,
-    35.90512000000001
+    35.90512
 ],
-  "geometry": {"coordinates":[53.12129,35.90512000000001],"type":"Point"}
+  "geometry": {"coordinates":[53.12129,35.90512],"type":"Point"}
 }

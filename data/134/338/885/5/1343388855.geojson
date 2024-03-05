@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"58.97117,32.86049,58.97117,32.86049",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "Ch\u0101h-e Ja\u2018far\u012byeh"
@@ -50,7 +52,7 @@
         "gn:id":21610
     },
     "wof:country":"IR",
-    "wof:geomhash":"84c0ec9b8f12ea5c2e730dc5a04aae6f",
+    "wof:geomhash":"bb8cddabde3b460e80edc492adad2117",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -61,20 +63,22 @@
         }
     ],
     "wof:id":1343388855,
-    "wof:lastmodified":1566716040,
+    "wof:lastmodified":1706239888,
     "wof:name":"Ja`fariyeh",
     "wof:parent_id":1108719895,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1226674699
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     58.97117,
-    32.86049000000001,
+    32.86049,
     58.97117,
-    32.86049000000001
+    32.86049
 ],
-  "geometry": {"coordinates":[58.97117,32.86049000000001],"type":"Point"}
+  "geometry": {"coordinates":[58.97117,32.86049],"type":"Point"}
 }

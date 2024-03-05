@@ -35,6 +35,9 @@
     "name:fas_x_variant":[
         "Reb\u0101b\u0101d"
     ],
+    "name:und_x_variant":[
+        "Reb\u0101b\u0101d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -46,8 +49,13 @@
     "wof:concordances":{
         "gn:id":7105726
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1113752
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"8220a3a7b84a9d9f39f91a2f96c0e0b8",
+    "wof:geomhash":"b244090e30b8812d4f9ed23d9a7e729b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,20 +66,22 @@
         }
     ],
     "wof:id":1193050481,
-    "wof:lastmodified":1566718282,
+    "wof:lastmodified":1706239872,
     "wof:name":"Rebabad",
     "wof:parent_id":1108720517,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242777737
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    61.22398000000001,
+    61.22398,
     28.80432,
-    61.22398000000001,
+    61.22398,
     28.80432
 ],
-  "geometry": {"coordinates":[61.22398000000001,28.80432],"type":"Point"}
+  "geometry": {"coordinates":[61.22398,28.80432],"type":"Point"}
 }

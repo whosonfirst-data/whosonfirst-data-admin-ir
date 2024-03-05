@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":6680734
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            391362
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"e3374c9ce725a5693100aa2743b21c2b",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1226236737,
-    "wof:lastmodified":1566720325,
+    "wof:lastmodified":1706239885,
     "wof:name":"Baba Sheykh `Ali",
     "wof:parent_id":1108720003,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360276201
+    ],
     "wof:tags":[]
 },
   "bbox": [

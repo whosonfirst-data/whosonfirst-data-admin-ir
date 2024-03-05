@@ -50,7 +50,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10003
+        "gn:id":10003,
+        "wk:page":"Eyfi"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7620885
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"56b07814e40cd4ed588a0e220966d817",
@@ -64,13 +70,15 @@
         }
     ],
     "wof:id":1193200177,
-    "wof:lastmodified":1566718322,
+    "wof:lastmodified":1706239873,
     "wof:name":"Eyfi",
     "wof:parent_id":1108720333,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277120955
+    ],
     "wof:tags":[]
 },
   "bbox": [

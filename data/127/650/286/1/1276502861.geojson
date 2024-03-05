@@ -38,6 +38,9 @@
     "name:msa_x_preferred":[
         "Baghcheh-ye Jonubi"
     ],
+    "name:und_x_variant":[
+        "B\u0101ghcheh-ye Jon\u016bb\u012b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,6 +52,11 @@
     "wof:concordances":{
         "gn:id":6651671,
         "wk:page":"Baghcheh-ye_Jonubi"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            142192
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"a6da32f326aaa6ec555085fdb029f8e3",
@@ -62,13 +70,15 @@
         }
     ],
     "wof:id":1276502861,
-    "wof:lastmodified":1566717343,
+    "wof:lastmodified":1706239900,
     "wof:name":"Baghcheh-ye Jonubi",
     "wof:parent_id":1108720481,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293547835
+    ],
     "wof:tags":[]
 },
   "bbox": [

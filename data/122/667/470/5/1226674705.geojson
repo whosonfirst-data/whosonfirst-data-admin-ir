@@ -69,6 +69,11 @@
     "wof:concordances":{
         "gn:id":114097
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7052571
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"98616b055add0976b274085f596d8fa7",
     "wof:hierarchy":[
@@ -81,13 +86,15 @@
         }
     ],
     "wof:id":1226674705,
-    "wof:lastmodified":1566720197,
+    "wof:lastmodified":1706239888,
     "wof:name":"Soltanabad",
     "wof:parent_id":1108720259,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310233443
+    ],
     "wof:tags":[]
 },
   "bbox": [

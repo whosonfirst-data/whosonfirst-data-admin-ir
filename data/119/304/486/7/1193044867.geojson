@@ -38,6 +38,9 @@
     "name:ukr_x_preferred":[
         "\u0410\u0431\u0434\u043e\u043b\u043b\u0430\u0433\u0430\u0431\u0430\u0434"
     ],
+    "name:und_x_variant":[
+        "\u2018Abdoll\u0101h\u0101b\u0101d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,8 +52,13 @@
     "wof:concordances":{
         "gn:id":9778
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9260861
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"a84db0fd8968dde560cbc0f1691ab8dc",
+    "wof:geomhash":"73d35ec179201b032a557ff47494dafa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -61,20 +69,22 @@
         }
     ],
     "wof:id":1193044867,
-    "wof:lastmodified":1566718280,
+    "wof:lastmodified":1706239872,
     "wof:name":"`Abdollahabad",
     "wof:parent_id":1108719897,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293418479
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    56.87603000000001,
-    37.93944000000001,
-    56.87603000000001,
-    37.93944000000001
+    56.87603,
+    37.93944,
+    56.87603,
+    37.93944
 ],
-  "geometry": {"coordinates":[56.87603000000001,37.93944000000001],"type":"Point"}
+  "geometry": {"coordinates":[56.87603,37.93944],"type":"Point"}
 }

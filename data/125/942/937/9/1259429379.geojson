@@ -60,8 +60,13 @@
     "wof:concordances":{
         "gn:id":124393
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6984070
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"6c889bdea0ad3f37fffb8e5dfe671892",
+    "wof:geomhash":"e6b7e4354611f889172733fa4078acdb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,20 +77,22 @@
         }
     ],
     "wof:id":1259429379,
-    "wof:lastmodified":1566720010,
+    "wof:lastmodified":1706239894,
     "wof:name":"Mehdiabad",
     "wof:parent_id":1108720461,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276922555
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    55.98099000000001,
+    55.98099,
     29.36167,
-    55.98099000000001,
+    55.98099,
     29.36167
 ],
-  "geometry": {"coordinates":[55.98099000000001,29.36167],"type":"Point"}
+  "geometry": {"coordinates":[55.98099,29.36167],"type":"Point"}
 }

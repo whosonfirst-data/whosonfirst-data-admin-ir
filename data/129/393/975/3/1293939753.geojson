@@ -38,6 +38,9 @@
     "name:fas_x_preferred":[
         "\u062f\u0631\u0646\u06af"
     ],
+    "name:fas_x_variant":[
+        "\u062f\u0631\u0646\u06af"
+    ],
     "name:swe_x_preferred":[
         "Derang"
     ],
@@ -53,6 +56,14 @@
         "gn:id":6730107,
         "wk:page":"Derang"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            136348
+        ],
+        "wk:page":[
+            "Derang"
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"a636da42823f51a00f1014f0bca65848",
     "wof:hierarchy":[
@@ -65,13 +76,15 @@
         }
     ],
     "wof:id":1293939753,
-    "wof:lastmodified":1566716943,
+    "wof:lastmodified":1706239904,
     "wof:name":"Derang",
     "wof:parent_id":1108719951,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326686277
+    ],
     "wof:tags":[]
 },
   "bbox": [

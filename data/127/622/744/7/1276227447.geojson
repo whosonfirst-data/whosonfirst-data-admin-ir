@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":1114882
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7050015
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"79eda2124f48e081817aa55d6e70820e",
     "wof:hierarchy":[
@@ -61,13 +66,15 @@
         }
     ],
     "wof:id":1276227447,
-    "wof:lastmodified":1566717411,
+    "wof:lastmodified":1706239899,
     "wof:name":"Gevaleshtan",
     "wof:parent_id":1108720131,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276340779
+    ],
     "wof:tags":[]
 },
   "bbox": [

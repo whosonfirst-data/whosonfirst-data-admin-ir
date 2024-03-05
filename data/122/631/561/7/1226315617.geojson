@@ -48,6 +48,11 @@
     "name:swe_x_preferred":[
         "Omm ol Ghar\u012bb"
     ],
+    "name:und_x_variant":[
+        "Omm\u00e9 Gharibeh\u00e9 Bozorg",
+        "Omm ol Qar\u012bb",
+        "Omm-ol Qar\u012bd"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -57,7 +62,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":6649385
+        "gn:id":6649385,
+        "wk:page":"Omm_ol_Gharib-e_Bozorg"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            121841
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"5212d80835992e556c6f8b5da815ca25",
@@ -71,13 +82,15 @@
         }
     ],
     "wof:id":1226315617,
-    "wof:lastmodified":1566720435,
+    "wof:lastmodified":1706239885,
     "wof:name":"Omm ol Gharib-e Bozorg",
     "wof:parent_id":1108719793,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343433745
+    ],
     "wof:tags":[]
 },
   "bbox": [

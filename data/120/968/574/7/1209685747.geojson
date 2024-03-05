@@ -35,6 +35,11 @@
     "name:fas_x_variant":[
         "\u0637\u0627\u0644\u0642\u0627\u0646\u06cc \u0633\u0647"
     ],
+    "name:und_x_variant":[
+        "P\u0101 Gach\u012b",
+        "\u0162\u0101leq\u0101n\u012b-ye Seh",
+        "P\u0101gach\u012b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632361
@@ -42,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7549487
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            121680
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"f5ab3948e192468df72f58a54f363809",
@@ -52,13 +62,15 @@
         }
     ],
     "wof:id":1209685747,
-    "wof:lastmodified":1566717899,
+    "wof:lastmodified":1706239879,
     "wof:name":"Taleqani-ye Seh",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243233683
+    ],
     "wof:tags":[]
 },
   "bbox": [

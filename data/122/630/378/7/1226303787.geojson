@@ -53,6 +53,11 @@
     "wof:concordances":{
         "gn:id":7022629
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            129070
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"7660613cbe5424e89cc301e34209688f",
     "wof:hierarchy":[
@@ -65,13 +70,15 @@
         }
     ],
     "wof:id":1226303787,
-    "wof:lastmodified":1566720393,
+    "wof:lastmodified":1706239885,
     "wof:name":"Kamalabad",
     "wof:parent_id":1108719879,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226700361
+    ],
     "wof:tags":[]
 },
   "bbox": [

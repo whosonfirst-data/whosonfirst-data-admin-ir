@@ -54,6 +54,9 @@
     "name:swe_x_preferred":[
         "Mahmudabad"
     ],
+    "name:und_x_variant":[
+        "S\u0101khtem\u0101n"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -64,6 +67,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":44408
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            390158
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"0b9f8287381785ef0f7789b40b2568ea",
@@ -77,13 +85,15 @@
         }
     ],
     "wof:id":1326624387,
-    "wof:lastmodified":1566715907,
+    "wof:lastmodified":1706239907,
     "wof:name":"Mahmudabad",
     "wof:parent_id":1108720447,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327026579
+    ],
     "wof:tags":[]
 },
   "bbox": [

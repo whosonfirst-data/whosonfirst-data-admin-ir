@@ -35,6 +35,11 @@
     "name:fas_x_variant":[
         "\u0634\u0647\u0631\u0643 \u0627\u0628\u0627\u0630\u0631"
     ],
+    "name:und_x_variant":[
+        "Ab\u016bz\u0304ar\u0101b\u0101d",
+        "Shahpoor Abad",
+        "Shahrak-e Ab\u0101z\u0304ar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7543254
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            115835
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"2c5062965414f436b6a848a06d5dfb37",
@@ -58,13 +68,15 @@
         }
     ],
     "wof:id":1226300903,
-    "wof:lastmodified":1566720392,
+    "wof:lastmodified":1706239885,
     "wof:name":"Shahrak-e Abazar",
     "wof:parent_id":1108719803,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326698579
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -35,6 +35,11 @@
     "name:fas_x_variant":[
         "Shah\u012bd S\u012bk\u0101n\u012b"
     ],
+    "name:und_x_variant":[
+        "S\u012bk\u0101n",
+        "S\u012bkun",
+        "Shah\u012bd S\u012bk\u0101n\u012b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6719939
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            114342
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"14379158bc2fe46c724dac5329223828",
@@ -58,13 +68,15 @@
         }
     ],
     "wof:id":1193132359,
-    "wof:lastmodified":1566718251,
+    "wof:lastmodified":1706239873,
     "wof:name":"Shahid Sikani",
     "wof:parent_id":1108719947,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1225939993
+    ],
     "wof:tags":[]
 },
   "bbox": [

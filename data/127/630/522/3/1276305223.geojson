@@ -52,8 +52,13 @@
     "wof:concordances":{
         "gn:id":125613
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6662903
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"2c297bd9ce961abbaf97abd0842ef0cf",
+    "wof:geomhash":"5f0377d682f98838560eb3cd39471093",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -64,20 +69,22 @@
         }
     ],
     "wof:id":1276305223,
-    "wof:lastmodified":1566717542,
+    "wof:lastmodified":1706239899,
     "wof:name":"Longir-e `Olya",
     "wof:parent_id":1108719885,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310378117
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    50.00100000000001,
+    50.001,
     30.4501,
-    50.00100000000001,
+    50.001,
     30.4501
 ],
-  "geometry": {"coordinates":[50.00100000000001,30.4501],"type":"Point"}
+  "geometry": {"coordinates":[50.001,30.4501],"type":"Point"}
 }

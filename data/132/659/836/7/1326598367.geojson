@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"48.06733,33.21017,48.06733,33.21017",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0643\u064e\u067e\u064e\u0631\u06af\u064e\u0647\u0650 \u0639\u064e\u0644\u064a\u0631\u0650\u0636\u0627"
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":1326598367,
-    "wof:lastmodified":1566715630,
+    "wof:lastmodified":1706239888,
     "wof:name":"Shahid Chamran-e Seh",
     "wof:parent_id":1108720307,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1226614207
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

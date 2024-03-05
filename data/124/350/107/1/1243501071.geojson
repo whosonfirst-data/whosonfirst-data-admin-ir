@@ -128,6 +128,11 @@
     "wof:concordances":{
         "gn:id":7028501
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7028459
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"cd1b6fb02b362edc5fe9b17d06ab7f72",
     "wof:hierarchy":[
@@ -140,13 +145,15 @@
         }
     ],
     "wof:id":1243501071,
-    "wof:lastmodified":1566719620,
+    "wof:lastmodified":1706239893,
     "wof:name":"Vahdat",
     "wof:parent_id":1108720433,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259544543
+    ],
     "wof:tags":[]
 },
   "bbox": [

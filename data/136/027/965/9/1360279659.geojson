@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"54.46611,28.48556,54.46611,28.48556",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "S\u0101khtem\u0101n-e Am\u012bn\u012b"
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":1360279659,
-    "wof:lastmodified":1566719053,
+    "wof:lastmodified":1706239907,
     "wof:name":"Sakhteman-e Amini",
     "wof:parent_id":1108720527,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1326524315
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

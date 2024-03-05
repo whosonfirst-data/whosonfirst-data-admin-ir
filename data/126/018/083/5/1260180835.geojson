@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":45886
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6729505
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"17fd85e190829dd2c31c1ad378daa09c",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1260180835,
-    "wof:lastmodified":1566718490,
+    "wof:lastmodified":1706239897,
     "wof:name":"Barmul",
     "wof:parent_id":1108720157,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293291393
+    ],
     "wof:tags":[]
 },
   "bbox": [

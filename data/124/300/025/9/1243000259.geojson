@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":34160
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7074880
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"bb38b848075c6ac37300d63439e8faf4",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1243000259,
-    "wof:lastmodified":1566719336,
+    "wof:lastmodified":1706239891,
     "wof:name":"Ma`dan",
     "wof:parent_id":1108720497,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360314497
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -45,10 +45,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":45964
+        "gn:id":45964,
+        "wk:page":"Now_Mahi"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7058418
+        ]
     },
     "wof:country":"IR",
-    "wof:geomhash":"c80218b21dea15561b9cfae56a1e76de",
+    "wof:geomhash":"806db2005656c3c42dd6c071e8424d60",
     "wof:hierarchy":[
         {
             "country_id":85632361,
@@ -56,20 +62,22 @@
         }
     ],
     "wof:id":1209662101,
-    "wof:lastmodified":1566717914,
+    "wof:lastmodified":1706239878,
     "wof:name":"Now Mahi",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293440105
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    58.50548000000001,
+    58.50548,
     28.00303,
-    58.50548000000001,
+    58.50548,
     28.00303
 ],
-  "geometry": {"coordinates":[58.50548000000001,28.00303],"type":"Point"}
+  "geometry": {"coordinates":[58.50548,28.00303],"type":"Point"}
 }

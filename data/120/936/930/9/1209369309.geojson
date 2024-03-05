@@ -37,6 +37,9 @@
         "\u0645\u062d\u0644\u0647 \u0628\u0627\u0644\u0627",
         "S\u016bleq\u0101n"
     ],
+    "name:und_x_variant":[
+        "Sooleghan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632361
@@ -44,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6672393
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            113791
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"0326a41d7b030b105730b26dda741308",
@@ -54,13 +62,15 @@
         }
     ],
     "wof:id":1209369309,
-    "wof:lastmodified":1566717627,
+    "wof:lastmodified":1706239876,
     "wof:name":"Suleqan",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327301059
+    ],
     "wof:tags":[]
 },
   "bbox": [

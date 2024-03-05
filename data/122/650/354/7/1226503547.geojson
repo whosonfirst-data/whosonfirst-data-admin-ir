@@ -35,6 +35,16 @@
     "name:fas_x_variant":[
         "\u0633\u0647\u200c\u06a9\u0646\u062c"
     ],
+    "name:und_x_variant":[
+        "Tawakkul\u0101b\u0101d",
+        "Sekonj",
+        "Sheykh \u2018Al\u012b B\u0101b\u0101",
+        "Seh Konj",
+        "Seh G\u016bsh",
+        "Segach",
+        "Sag\u016bch",
+        "\u1e28ojjat\u0101b\u0101d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +55,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7103662
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            113056
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"8c9d620df8d32d0e61eb87d0e21584e7",
@@ -58,13 +73,15 @@
         }
     ],
     "wof:id":1226503547,
-    "wof:lastmodified":1566720231,
+    "wof:lastmodified":1706239887,
     "wof:name":"Sekonj",
     "wof:parent_id":1108720115,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243324507
+    ],
     "wof:tags":[]
 },
   "bbox": [

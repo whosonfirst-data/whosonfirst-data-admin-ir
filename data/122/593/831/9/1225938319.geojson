@@ -35,6 +35,12 @@
     "name:fas_x_variant":[
         "Nowr\u016bz\u0101n"
     ],
+    "name:msa_x_preferred":[
+        "Nowruzan"
+    ],
+    "name:und_x_variant":[
+        "Naur\u016bz\u0101n"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -44,7 +50,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":6652974
+        "gn:id":6652974,
+        "wk:page":"Nowruzan,_Kavar"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            121966
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"a9d1b1c20bbccdbc279e1d14f182aa41",
@@ -58,13 +70,15 @@
         }
     ],
     "wof:id":1225938319,
-    "wof:lastmodified":1566720059,
+    "wof:lastmodified":1706239883,
     "wof:name":"Nowruzan",
     "wof:parent_id":1108720447,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226666463
+    ],
     "wof:tags":[]
 },
   "bbox": [

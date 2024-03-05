@@ -35,6 +35,9 @@
     "name:fas_x_variant":[
         "Gojag-e \u2018Al\u012b\u0101b\u0101d"
     ],
+    "name:und_x_variant":[
+        "Kachchak"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632361
@@ -42,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6649752
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            134145
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"4a4d03230de55b37392079ff81fc25a3",
@@ -52,13 +60,15 @@
         }
     ],
     "wof:id":1209392459,
-    "wof:lastmodified":1566717696,
+    "wof:lastmodified":1706239877,
     "wof:name":"Gojag-e `Aliabad",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1225931789
+    ],
     "wof:tags":[]
 },
   "bbox": [

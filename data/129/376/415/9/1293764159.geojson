@@ -41,6 +41,11 @@
     "name:msa_x_preferred":[
         "Dezhgan"
     ],
+    "name:und_x_variant":[
+        "Dashqun",
+        "Dashg\u016bn",
+        "Dash\u2018\u016bn"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,6 +57,14 @@
     "wof:concordances":{
         "gn:id":6653848,
         "wk:page":"Dezhgan"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            136249
+        ],
+        "wk:page":[
+            "Dezhgan"
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"513670daa6d9eb4b98fde53dba471ee4",
@@ -65,13 +78,15 @@
         }
     ],
     "wof:id":1293764159,
-    "wof:lastmodified":1566716803,
+    "wof:lastmodified":1706239904,
     "wof:name":"Dezhgan",
     "wof:parent_id":1108719869,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343742769
+    ],
     "wof:tags":[]
 },
   "bbox": [

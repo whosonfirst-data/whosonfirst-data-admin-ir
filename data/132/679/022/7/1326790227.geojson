@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"48.4585,37.2477,48.4585,37.2477",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u0162\u016byest\u0101n"
@@ -78,12 +80,14 @@
         }
     ],
     "wof:id":1326790227,
-    "wof:lastmodified":1566715832,
+    "wof:lastmodified":1706239904,
     "wof:name":"Tuvistan",
     "wof:parent_id":1108720123,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1293648977
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

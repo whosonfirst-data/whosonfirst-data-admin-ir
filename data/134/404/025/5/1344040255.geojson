@@ -35,6 +35,11 @@
     "name:fas_x_variant":[
         "Ma\u1e29m\u016bd \u2018Al\u012b"
     ],
+    "name:und_x_variant":[
+        "Boneh-ye Sh\u0101mehd",
+        "Mahm\u016bd \u2018Ali",
+        "Ma\u1e29m\u016bd \u2018Al\u012b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6688094
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            66744
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"b2dc01033ef864327a3e96c647bd4846",
@@ -58,13 +68,15 @@
         }
     ],
     "wof:id":1344040255,
-    "wof:lastmodified":1566716488,
+    "wof:lastmodified":1706239909,
     "wof:name":"Mahmud `Ali",
     "wof:parent_id":1108719811,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360157559
+    ],
     "wof:tags":[]
 },
   "bbox": [

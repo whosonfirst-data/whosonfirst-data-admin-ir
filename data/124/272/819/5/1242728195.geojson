@@ -63,6 +63,11 @@
     "wof:concordances":{
         "gn:id":7052378
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7052379
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"97a6534ec3010bd7b7588d34552ccd9f",
     "wof:hierarchy":[
@@ -75,13 +80,15 @@
         }
     ],
     "wof:id":1242728195,
-    "wof:lastmodified":1566719454,
+    "wof:lastmodified":1706239890,
     "wof:name":"Hoseynabad",
     "wof:parent_id":1108720363,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293734323
+    ],
     "wof:tags":[]
 },
   "bbox": [

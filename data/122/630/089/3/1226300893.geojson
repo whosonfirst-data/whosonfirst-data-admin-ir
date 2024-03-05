@@ -32,6 +32,9 @@
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u06a9"
     ],
+    "name:fas_x_variant":[
+        "\u0634\u0647\u0631\u06a9"
+    ],
     "name:msa_x_preferred":[
         "Shahrak"
     ],
@@ -55,8 +58,13 @@
     "wof:concordances":{
         "gn:id":6739761
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            31875
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"796fd74a690438412c072902919431fe",
+    "wof:geomhash":"383ad951de536fe58377aa536f80f8da",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,20 +75,22 @@
         }
     ],
     "wof:id":1226300893,
-    "wof:lastmodified":1566720394,
+    "wof:lastmodified":1706239885,
     "wof:name":"Shahrak",
     "wof:parent_id":1108720145,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327103113
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    48.56100000000001,
+    48.561,
     33.6577,
-    48.56100000000001,
+    48.561,
     33.6577
 ],
-  "geometry": {"coordinates":[48.56100000000001,33.6577],"type":"Point"}
+  "geometry": {"coordinates":[48.561,33.6577],"type":"Point"}
 }

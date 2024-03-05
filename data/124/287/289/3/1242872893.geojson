@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":139076
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7380889
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"27e2231a115c70d4027e578e2f03fa34",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1242872893,
-    "wof:lastmodified":1566719437,
+    "wof:lastmodified":1706239891,
     "wof:name":"Tall Rezaqoli",
     "wof:parent_id":1108719859,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310632187
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:bul_x_preferred":[
+        "\u0420\u0438\u0447\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Richi"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u06cc\u0686\u06cc"
     ],
@@ -37,6 +43,12 @@
     ],
     "name:msa_x_preferred":[
         "Richi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u0447\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0456\u0447\u0456"
     ],
     "name:und_x_variant":[
         "Rech\u012b",
@@ -55,6 +67,11 @@
         "gn:id":118618,
         "wk:page":"Richi,_Iran"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6683862
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"3dd6fa7aab24c9ea19b3b3c18bb73bfd",
     "wof:hierarchy":[
@@ -67,13 +84,15 @@
         }
     ],
     "wof:id":1226362901,
-    "wof:lastmodified":1566720441,
+    "wof:lastmodified":1706239886,
     "wof:name":"Richi",
     "wof:parent_id":1108720447,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226770231
+    ],
     "wof:tags":[]
 },
   "bbox": [

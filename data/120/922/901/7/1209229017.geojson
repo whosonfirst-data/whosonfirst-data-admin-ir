@@ -37,6 +37,13 @@
         "\u0641\u0627\u0631\u06cc\u0627\u0628 \u06af\u0631\u0648\u0647 \u0661",
         "F\u0101ry\u0101b-e Gor\u016bh-e Yek"
     ],
+    "name:und_x_variant":[
+        "Ch\u0101h-e Jangal T\u016b\u2019t",
+        "F\u0101ry\u0101b-e Gor\u016bh-e Yek",
+        "Ch\u0101h Jangal T\u016b\u2019\u012b",
+        "F\u0101ry\u0101b-e Gor\u016bh-e 1",
+        "Tolombeh-ye Mokht\u0101r-e Mo\u1e29ammad\u012b F\u0101ry\u0101b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632361
@@ -44,6 +51,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6988458
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            130370
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"0193bc25a610fbff678105cca31aaa6d",
@@ -54,13 +66,15 @@
         }
     ],
     "wof:id":1209229017,
-    "wof:lastmodified":1566717867,
+    "wof:lastmodified":1706239875,
     "wof:name":"Faryab-e Goruh-e Yek",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1225795369
+    ],
     "wof:tags":[]
 },
   "bbox": [

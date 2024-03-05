@@ -65,6 +65,11 @@
     "wof:concordances":{
         "gn:id":113768
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7592518
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"35365ff90d922717f04bd58b2a78771c",
     "wof:hierarchy":[
@@ -77,13 +82,15 @@
         }
     ],
     "wof:id":1193255907,
-    "wof:lastmodified":1566718268,
+    "wof:lastmodified":1706239874,
     "wof:name":"Shey",
     "wof:parent_id":1108720077,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327421741
+    ],
     "wof:tags":[]
 },
   "bbox": [

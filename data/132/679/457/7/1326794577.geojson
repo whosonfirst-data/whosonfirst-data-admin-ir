@@ -39,6 +39,11 @@
         "Esl\u0101m\u0101b\u0101d",
         "\u0627\u0633\u0644\u0627\u0645\u200c\u0622\u0628\u0627\u062f"
     ],
+    "name:und_x_variant":[
+        "Delkor\u016b",
+        "Dolkor\u016b",
+        "Esl\u0101m\u0101b\u0101d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,6 +54,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6684129
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3856
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"a6ed4f6913b715b4a189b00fc7b6657c",
@@ -62,13 +72,15 @@
         }
     ],
     "wof:id":1326794577,
-    "wof:lastmodified":1566715836,
+    "wof:lastmodified":1706239908,
     "wof:name":"Eslamabad",
     "wof:parent_id":1108720099,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344120863
+    ],
     "wof:tags":[]
 },
   "bbox": [

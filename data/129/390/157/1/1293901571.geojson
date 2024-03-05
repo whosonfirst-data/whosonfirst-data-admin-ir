@@ -35,6 +35,11 @@
     "name:fas_x_variant":[
         "N\u012br\u0101\u2019\u012b-ye B\u0101l\u0101"
     ],
+    "name:und_x_variant":[
+        "N\u016br\u0101\u2019\u012b",
+        "N\u012br\u0101\u2019\u012b-ye B\u0101l\u0101",
+        "N\u016br\u0101\u2019\u012b-ye Now"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6916525
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            121907
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"9f072da0dde699b6466cc2ed0d83b35d",
@@ -58,13 +68,15 @@
         }
     ],
     "wof:id":1293901571,
-    "wof:lastmodified":1566716702,
+    "wof:lastmodified":1706239904,
     "wof:name":"Nira'i-ye Bala",
     "wof:parent_id":1108720181,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327154663
+    ],
     "wof:tags":[]
 },
   "bbox": [

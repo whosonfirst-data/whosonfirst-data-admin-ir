@@ -124,6 +124,11 @@
     "wof:concordances":{
         "gn:id":7621817
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7621816
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"f629a9b4010b1d86aeae4ea66bcad275",
     "wof:hierarchy":[
@@ -136,13 +141,15 @@
         }
     ],
     "wof:id":1310496851,
-    "wof:lastmodified":1566718682,
+    "wof:lastmodified":1706239906,
     "wof:name":"Lapan",
     "wof:parent_id":1108720459,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327025233
+    ],
     "wof:tags":[]
 },
   "bbox": [

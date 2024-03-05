@@ -9,7 +9,21 @@
     "geom:bbox":"51.072299,35.518649,51.889893,35.939648",
     "geom:latitude":35.720735,
     "geom:longitude":51.468741,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Tehran",
+    "gn:country_code":"IR",
+    "gn:dem":1375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6683528,
+    "gn:latitude":35.75,
+    "gn:longitude":51.5148,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Tehr\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Tehran",
     "iso:country":"IR",
+    "lbl:bbox":"51.4948,35.73,51.5348,35.77",
     "lbl:latitude":35.69439,
     "lbl:longitude":51.42151,
     "lbl:max_zoom":12.0,
@@ -30,6 +44,9 @@
     ],
     "name:aka_x_preferred":[
         "Tehran"
+    ],
+    "name:als_x_preferred":[
+        "Teheran"
     ],
     "name:amh_x_preferred":[
         "\u1274\u1205\u122b\u1295"
@@ -809,6 +826,11 @@
         "wd:id":"Q3616",
         "wk:page":"Tehran"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6683528
+        ]
+    },
     "wof:coterminous":[
         1108720491
     ],
@@ -828,7 +850,7 @@
         }
     ],
     "wof:id":421204533,
-    "wof:lastmodified":1690934563,
+    "wof:lastmodified":1706239871,
     "wof:megacity":1,
     "wof:name":"Tehran",
     "wof:parent_id":1108720491,
@@ -837,7 +859,9 @@
     "wof:population_rank":13,
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276192459
+    ],
     "wof:tags":[]
 },
   "bbox": [

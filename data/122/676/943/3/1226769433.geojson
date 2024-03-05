@@ -56,7 +56,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":6758038
+        "gn:id":6758038,
+        "wk:page":"Kolangestan"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6758035
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"b404d0b83c85708ec84c099ebf1df367",
@@ -70,13 +76,15 @@
         }
     ],
     "wof:id":1226769433,
-    "wof:lastmodified":1566720298,
+    "wof:lastmodified":1706239889,
     "wof:name":"Kolangestan",
     "wof:parent_id":1108720225,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243167391
+    ],
     "wof:tags":[]
 },
   "bbox": [

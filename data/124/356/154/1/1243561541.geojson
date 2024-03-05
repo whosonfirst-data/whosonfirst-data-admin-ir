@@ -35,6 +35,10 @@
     "name:fas_x_variant":[
         "\u0645\u0644 \u0633\u0641\u06cc\u062f"
     ],
+    "name:und_x_variant":[
+        "Molesf\u012bd",
+        "Mal Sef\u012bd"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +49,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7529725
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            124257
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"8cdd34d8587dbba0100b8d6db4372884",
@@ -58,13 +67,15 @@
         }
     ],
     "wof:id":1243561541,
-    "wof:lastmodified":1566719638,
+    "wof:lastmodified":1706239893,
     "wof:name":"Mal Sefid",
     "wof:parent_id":1108720189,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309912791
+    ],
     "wof:tags":[]
 },
   "bbox": [

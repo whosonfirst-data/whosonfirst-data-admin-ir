@@ -51,6 +51,11 @@
     "wof:concordances":{
         "gn:id":403199
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6688029
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"e95db1e03383c1f4944484d61fb36068",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1343433749,
-    "wof:lastmodified":1566716573,
+    "wof:lastmodified":1706239909,
     "wof:name":"Dehestan-e Fath ol Mobin",
     "wof:parent_id":1108720455,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344027931
+    ],
     "wof:tags":[]
 },
   "bbox": [

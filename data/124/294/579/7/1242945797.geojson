@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":36344
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6688051
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"9e4c73673d47c7f8f72de1b2bb832abe",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1242945797,
-    "wof:lastmodified":1566719511,
+    "wof:lastmodified":1706239891,
     "wof:name":"Dowruvan",
     "wof:parent_id":1108719811,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326602791
+    ],
     "wof:tags":[]
 },
   "bbox": [

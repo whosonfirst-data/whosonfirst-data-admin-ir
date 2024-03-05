@@ -47,7 +47,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":6916245
+        "gn:id":6916245,
+        "wk:page":"Koreh_Muchi"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            48731
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"dfd2618cf4562c0c0d096154b5cdf84c",
@@ -61,13 +67,15 @@
         }
     ],
     "wof:id":1243464145,
-    "wof:lastmodified":1566719539,
+    "wof:lastmodified":1706239893,
     "wof:name":"Koreh Muchi",
     "wof:parent_id":1108720181,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310102193
+    ],
     "wof:tags":[]
 },
   "bbox": [

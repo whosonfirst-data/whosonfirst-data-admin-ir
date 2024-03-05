@@ -32,6 +32,9 @@
     "name:fas_x_preferred":[
         "\u067e\u0627\u0626\u06cc\u0646 \u0645\u062d\u0644\u0647 \u0646\u0648\u0634\u0631"
     ],
+    "name:fas_x_variant":[
+        "\u067e\u0627\u0626\u06cc\u0646 \u0645\u062d\u0644\u0647 \u0646\u0648\u0634\u0631"
+    ],
     "name:und_x_variant":[
         "Nowshar",
         "P\u0101\u2019\u012bn Ma\u1e29alleh-ye Nowsher"
@@ -47,6 +50,11 @@
     "wof:concordances":{
         "gn:id":2178
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7622140
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"94651052c17d815b31168337cc2a89c6",
     "wof:hierarchy":[
@@ -59,13 +67,15 @@
         }
     ],
     "wof:id":1310300771,
-    "wof:lastmodified":1566718769,
+    "wof:lastmodified":1706239906,
     "wof:name":"Pa'in Mahalleh-ye Nowsher",
     "wof:parent_id":1108720173,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343854793
+    ],
     "wof:tags":[]
 },
   "bbox": [

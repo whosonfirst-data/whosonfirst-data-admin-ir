@@ -38,6 +38,13 @@
     "name:fra_x_preferred":[
         "Rezvanshahr"
     ],
+    "name:und_x_variant":[
+        "Moj Marit",
+        "Maj\u016b Mard",
+        "Mowj M\u0101r\u012bt",
+        "Majoomard",
+        "Re\u1e95v\u0101nshahr"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632361
@@ -46,8 +53,13 @@
     "wof:concordances":{
         "gn:id":7537092
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            125236
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"ac9f410c1f66de88a2c25c733fe5ae7f",
+    "wof:geomhash":"27b6bcafbcb8e0874fb8864033cee0d2",
     "wof:hierarchy":[
         {
             "country_id":85632361,
@@ -55,20 +67,22 @@
         }
     ],
     "wof:id":1209566505,
-    "wof:lastmodified":1566717981,
+    "wof:lastmodified":1706239878,
     "wof:name":"Rezvanshahr",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310243225
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    54.19923000000001,
+    54.19923,
     32.02217,
-    54.19923000000001,
+    54.19923,
     32.02217
 ],
-  "geometry": {"coordinates":[54.19923000000001,32.02217],"type":"Point"}
+  "geometry": {"coordinates":[54.19923,32.02217],"type":"Point"}
 }

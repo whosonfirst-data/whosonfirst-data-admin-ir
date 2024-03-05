@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"55.42288,30.7528,55.42288,30.7528",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0645\u064a\u062f \u0623\u0628\u0627\u062f"
@@ -52,7 +54,7 @@
         "wk:page":"Hamidabad,_Anar"
     },
     "wof:country":"IR",
-    "wof:geomhash":"22d932b4bf204bdf204cf5a3761b18f6",
+    "wof:geomhash":"9fe6bf9c09ca9535aee2f01151a320c7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +65,22 @@
         }
     ],
     "wof:id":1310462895,
-    "wof:lastmodified":1566718640,
+    "wof:lastmodified":1706239894,
     "wof:name":"Hamidabad",
     "wof:parent_id":1108720329,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1259433109
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    55.42288000000001,
+    55.42288,
     30.7528,
-    55.42288000000001,
+    55.42288,
     30.7528
 ],
-  "geometry": {"coordinates":[55.42288000000001,30.7528],"type":"Point"}
+  "geometry": {"coordinates":[55.42288,30.7528],"type":"Point"}
 }

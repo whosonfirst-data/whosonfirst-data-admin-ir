@@ -38,6 +38,9 @@
         "\u0631\u064e\u062c\u06cc \u0622\u0628\u0627\u062f",
         "Ra\u1e95\u012b\u0101b\u0101d"
     ],
+    "name:msa_x_preferred":[
+        "Raziabad"
+    ],
     "name:und_x_variant":[
         "Raz\u012b\u0101b\u0101d",
         "Raj\u012b\u0101b\u0101d"
@@ -51,7 +54,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":118647
+        "gn:id":118647,
+        "wk:page":"Raziabad,_Hamadan"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            14234
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"0da2a4c529bb56c6e0e8cae279b99479",
@@ -65,13 +74,15 @@
         }
     ],
     "wof:id":1276860743,
-    "wof:lastmodified":1566717145,
+    "wof:lastmodified":1706239902,
     "wof:name":"Raziabad",
     "wof:parent_id":1108720257,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343746051
+    ],
     "wof:tags":[]
 },
   "bbox": [

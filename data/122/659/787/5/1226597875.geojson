@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":7108249
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11230
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"47f27c9010275b6a8c5c494bddca9c76",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1226597875,
-    "wof:lastmodified":1566720220,
+    "wof:lastmodified":1706239888,
     "wof:name":"Tajan Lateh",
     "wof:parent_id":1108720401,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260024069
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -55,7 +55,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":138817
+        "gn:id":138817,
+        "wk:page":"Chahzal"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2046
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"be2e05dc30255e588b04978d3ddbb0d6",
@@ -69,13 +75,15 @@
         }
     ],
     "wof:id":1276504725,
-    "wof:lastmodified":1566717346,
+    "wof:lastmodified":1706239900,
     "wof:name":"Chahzal",
     "wof:parent_id":1108720145,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327392039
+    ],
     "wof:tags":[]
 },
   "bbox": [

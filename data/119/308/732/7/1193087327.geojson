@@ -35,6 +35,11 @@
     "name:fas_x_variant":[
         "P\u016bshkal"
     ],
+    "name:und_x_variant":[
+        "Posht Korom",
+        "P\u016bshkal",
+        "Posht Gor"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7028445
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            49238
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"f3662bd3db1969a51bc42e512ffcd4d0",
@@ -58,13 +68,15 @@
         }
     ],
     "wof:id":1193087327,
-    "wof:lastmodified":1566718212,
+    "wof:lastmodified":1706239873,
     "wof:name":"Pushkal",
     "wof:parent_id":1108720433,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242824631
+    ],
     "wof:tags":[]
 },
   "bbox": [

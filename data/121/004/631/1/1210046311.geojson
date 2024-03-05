@@ -35,6 +35,10 @@
     "name:fas_x_variant":[
         "Garkaz-e T\u0101zeh Yal"
     ],
+    "name:und_x_variant":[
+        "Garkaz-e T\u0101zeh Yal",
+        "Garkaz"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +49,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7101998
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9757
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"29d6feaba34d09c1047b001755eddfa1",
@@ -58,13 +67,15 @@
         }
     ],
     "wof:id":1210046311,
-    "wof:lastmodified":1566718177,
+    "wof:lastmodified":1706239882,
     "wof:name":"Garkaz-e Tazeh Yal",
     "wof:parent_id":1108720211,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260213469
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -47,8 +47,13 @@
     "wof:concordances":{
         "gn:id":42974
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7079792
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"48ec61497b43114137c6149cbbaabc94",
+    "wof:geomhash":"a04fbeb0b45607a611d0a2bd927d4599",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,20 +64,22 @@
         }
     ],
     "wof:id":1259533833,
-    "wof:lastmodified":1566719816,
+    "wof:lastmodified":1706239895,
     "wof:name":"Hashemabad",
     "wof:parent_id":1108720115,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293238941
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    57.99888000000001,
+    57.99888,
     30.29912,
-    57.99888000000001,
+    57.99888,
     30.29912
 ],
-  "geometry": {"coordinates":[57.99888000000001,30.29912],"type":"Point"}
+  "geometry": {"coordinates":[57.99888,30.29912],"type":"Point"}
 }

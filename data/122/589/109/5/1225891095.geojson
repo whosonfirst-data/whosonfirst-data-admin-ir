@@ -35,6 +35,11 @@
     "name:fas_x_variant":[
         "H\u016br Owl\u012b\u0101\u2019\u012b"
     ],
+    "name:und_x_variant":[
+        "H\u016br Owl\u012b\u0101\u2019\u012b",
+        "Ch\u0101h-e Ka\u2019\u016br Der\u0101z\u012b",
+        "Mowtowr-e \u1e28owr Ra\u2019\u012bs\u012b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6988398
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            46325
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"bed7ae89fd3e7d78573249841d447ac4",
@@ -58,13 +68,15 @@
         }
     ],
     "wof:id":1225891095,
-    "wof:lastmodified":1566720249,
+    "wof:lastmodified":1706239883,
     "wof:name":"Hur Owlia'i",
     "wof:parent_id":1108720091,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309956023
+    ],
     "wof:tags":[]
 },
   "bbox": [

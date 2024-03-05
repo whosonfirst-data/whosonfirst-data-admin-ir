@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"59.49107,32.65273,59.49107,32.65273",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fan\u016bd"
@@ -54,7 +56,7 @@
         "wk:page":"Fanud"
     },
     "wof:country":"IR",
-    "wof:geomhash":"8642b84073b741fde879a288294cdb4c",
+    "wof:geomhash":"20030bfeed33ec1cb66ef62d66eb964b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,20 +67,22 @@
         }
     ],
     "wof:id":1327059719,
-    "wof:lastmodified":1566715752,
+    "wof:lastmodified":1706239887,
     "wof:name":"Fanud",
     "wof:parent_id":1108720397,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1226569343
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    59.49106999999999,
+    59.49107,
     32.65273,
-    59.49106999999999,
+    59.49107,
     32.65273
 ],
-  "geometry": {"coordinates":[59.49106999999999,32.65273],"type":"Point"}
+  "geometry": {"coordinates":[59.49107,32.65273],"type":"Point"}
 }

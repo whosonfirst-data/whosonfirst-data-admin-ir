@@ -35,6 +35,9 @@
     "name:fas_x_variant":[
         "Chen\u0101leh"
     ],
+    "name:und_x_variant":[
+        "Chen\u0101leh"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632361
@@ -42,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6719764
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9356
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"259787681da5263a1f92e516f4c16f8d",
@@ -52,13 +60,15 @@
         }
     ],
     "wof:id":1209192843,
-    "wof:lastmodified":1566718096,
+    "wof:lastmodified":1706239875,
     "wof:name":"Chenaleh",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293280887
+    ],
     "wof:tags":[]
 },
   "bbox": [

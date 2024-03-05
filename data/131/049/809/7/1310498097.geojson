@@ -38,6 +38,11 @@
     "name:msa_x_preferred":[
         "Tall Sarbani"
     ],
+    "name:und_x_variant":[
+        "Tolombeh-ye Mashhad\u012b Em\u0101m",
+        "Tall S\u0101rb\u0101n\u012b",
+        "Tolombeh-ye Em\u0101m Qol\u012b Khalaj"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -47,7 +52,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":7887818
+        "gn:id":7887818,
+        "wk:page":"Tall_Sarbani"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            45360
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"8dc18f264cbf0a07286e2fae4faeac05",
@@ -61,13 +72,15 @@
         }
     ],
     "wof:id":1310498097,
-    "wof:lastmodified":1566718683,
+    "wof:lastmodified":1706239906,
     "wof:name":"Tall Sarbani",
     "wof:parent_id":1108720277,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327330289
+    ],
     "wof:tags":[]
 },
   "bbox": [

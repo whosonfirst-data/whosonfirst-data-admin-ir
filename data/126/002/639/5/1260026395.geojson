@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":9073935
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8305979
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"09c5324b8b06ef705ff05ba479e19bbb",
     "wof:hierarchy":[
@@ -61,13 +66,15 @@
         }
     ],
     "wof:id":1260026395,
-    "wof:lastmodified":1566718574,
+    "wof:lastmodified":1706239897,
     "wof:name":"Garchidan",
     "wof:parent_id":1108719879,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343708375
+    ],
     "wof:tags":[]
 },
   "bbox": [

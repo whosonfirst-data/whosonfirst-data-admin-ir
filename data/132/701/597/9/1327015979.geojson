@@ -44,6 +44,9 @@
     "name:swe_x_preferred":[
         "K\u016blsav\u0101nd"
     ],
+    "name:und_x_variant":[
+        "Koleh Savand"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,6 +58,11 @@
     "wof:concordances":{
         "gn:id":6708820,
         "wk:page":"Kulsavand"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            25829
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"c3bbf0da88491e16cd21ca2a39348ffb",
@@ -68,13 +76,15 @@
         }
     ],
     "wof:id":1327015979,
-    "wof:lastmodified":1566715451,
+    "wof:lastmodified":1706239908,
     "wof:name":"Kulsavand",
     "wof:parent_id":1108720031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360271515
+    ],
     "wof:tags":[]
 },
   "bbox": [

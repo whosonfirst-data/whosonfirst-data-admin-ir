@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":6654676
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            48468
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"03c884649b12c9dce89a3fd7ab358a3e",
     "wof:hierarchy":[
@@ -61,13 +66,15 @@
         }
     ],
     "wof:id":1293253243,
-    "wof:lastmodified":1566716849,
+    "wof:lastmodified":1706239903,
     "wof:name":"Cheshmeh",
     "wof:parent_id":1108720213,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343308613
+    ],
     "wof:tags":[]
 },
   "bbox": [

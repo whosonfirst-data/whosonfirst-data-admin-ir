@@ -35,6 +35,9 @@
     "name:fas_x_variant":[
         "A\u1e29mad\u0101b\u0101d-e P\u016bzeh Kh\u016bn"
     ],
+    "name:und_x_variant":[
+        "A\u1e29mad\u0101b\u0101d-e P\u016bzeh Kh\u016bn"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6983863
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            45265
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"8e0519a3d0e0d54b6e9d62ff30316d2b",
@@ -58,13 +66,15 @@
         }
     ],
     "wof:id":1225958695,
-    "wof:lastmodified":1566720066,
+    "wof:lastmodified":1706239883,
     "wof:name":"Ahmadabad-e Puzeh Khun",
     "wof:parent_id":1108720461,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260141247
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -55,8 +55,13 @@
         "gn:id":49081,
         "wk:page":"Hoseynabad_Ladi"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7066956
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"2ab8393df53dbbdd8a99e7150fc484a5",
+    "wof:geomhash":"ca4190c1d9704214894f96494842671b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,20 +72,22 @@
         }
     ],
     "wof:id":1293133445,
-    "wof:lastmodified":1566716832,
+    "wof:lastmodified":1706239903,
     "wof:name":"Hoseynabad Ladi",
     "wof:parent_id":1108720063,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310507221
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    59.38681999999999,
+    59.38682,
     27.5344,
-    59.38681999999999,
+    59.38682,
     27.5344
 ],
-  "geometry": {"coordinates":[59.38681999999999,27.5344],"type":"Point"}
+  "geometry": {"coordinates":[59.38682,27.5344],"type":"Point"}
 }

@@ -41,6 +41,9 @@
     "name:msa_x_preferred":[
         "Sit"
     ],
+    "name:und_x_variant":[
+        "Nakhlest\u0101n-e S\u012bt"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -52,6 +55,11 @@
     "wof:concordances":{
         "gn:id":114221,
         "wk:page":"Sit,_Gafr_and_Parmon"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7110754
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"0057d5c694afa0d0a2cde0f407eb931c",
@@ -65,13 +73,15 @@
         }
     ],
     "wof:id":1209893687,
-    "wof:lastmodified":1566718074,
+    "wof:lastmodified":1706239881,
     "wof:name":"Sit",
     "wof:parent_id":1108720077,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327211387
+    ],
     "wof:tags":[]
 },
   "bbox": [

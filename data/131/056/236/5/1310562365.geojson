@@ -46,8 +46,13 @@
     "wof:concordances":{
         "gn:id":7060663
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7060704
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"4aa815427c480ce327e6fcedaa76dbf3",
+    "wof:geomhash":"9bb97e37c5a056023e64d7e21b2c6c79",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,20 +63,22 @@
         }
     ],
     "wof:id":1310562365,
-    "wof:lastmodified":1566718939,
+    "wof:lastmodified":1706239906,
     "wof:name":"Chah-e Dad Khoda",
     "wof:parent_id":1108720029,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327095487
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    58.27741999999999,
+    58.27742,
     27.2719,
-    58.27741999999999,
+    58.27742,
     27.2719
 ],
-  "geometry": {"coordinates":[58.27741999999999,27.2719],"type":"Point"}
+  "geometry": {"coordinates":[58.27742,27.2719],"type":"Point"}
 }

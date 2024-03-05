@@ -54,8 +54,13 @@
         "gn:id":7052429,
         "wk:page":"Konatabad"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7052430
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"ee4206d990a0b1cb6be7b46d7f5cbd5a",
+    "wof:geomhash":"e4d3de402172f2150abc53f5d5b34091",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,20 +71,23 @@
         }
     ],
     "wof:id":1226389109,
-    "wof:lastmodified":1566720435,
+    "wof:lastmodified":1706239886,
     "wof:name":"Konatabad",
     "wof:parent_id":1108720363,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344117819,
+        1259644541
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    58.51971999999999,
+    58.51972,
     27.97935,
-    58.51971999999999,
+    58.51972,
     27.97935
 ],
-  "geometry": {"coordinates":[58.51971999999999,27.97935],"type":"Point"}
+  "geometry": {"coordinates":[58.51972,27.97935],"type":"Point"}
 }

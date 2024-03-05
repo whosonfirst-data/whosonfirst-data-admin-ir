@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"59.96752,34.24546,59.96752,34.24546",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "H\u0259s\u0259nabad"
@@ -60,7 +62,7 @@
         "gn:id":434439
     },
     "wof:country":"IR",
-    "wof:geomhash":"dff9746a5e2035b90cc55ad552d27baa",
+    "wof:geomhash":"dfd0f0eab7ee80c42c86f769e08604e1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +73,22 @@
         }
     ],
     "wof:id":1344086279,
-    "wof:lastmodified":1566716196,
+    "wof:lastmodified":1706239896,
     "wof:name":"Hasanabad",
     "wof:parent_id":1108720119,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1259712719
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    59.96751999999999,
-    34.24545999999999,
-    59.96751999999999,
-    34.24545999999999
+    59.96752,
+    34.24546,
+    59.96752,
+    34.24546
 ],
-  "geometry": {"coordinates":[59.96751999999999,34.24545999999999],"type":"Point"}
+  "geometry": {"coordinates":[59.96752,34.24546],"type":"Point"}
 }

@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0625\u0633\u0644\u0627\u0645 \u0622\u0628\u0627\u062f"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0633\u0644\u0627\u0645 \u0622\u0628\u0627\u062f"
     ],
@@ -38,6 +41,10 @@
     "name:fas_x_variant":[
         "Esl\u0101m\u0101b\u0101d",
         "\u0627\u0633\u0644\u0627\u0645\u200c\u0622\u0628\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Sultanabad",
+        "Esl\u0101m\u0101b\u0101d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,6 +58,11 @@
         "gn:id":6741219,
         "wk:page":"Eslamabad,_Zanjan"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            114107
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"7dc14c5de392a4bc71382b90476c46f1",
     "wof:hierarchy":[
@@ -63,13 +75,15 @@
         }
     ],
     "wof:id":1276166723,
-    "wof:lastmodified":1566717247,
+    "wof:lastmodified":1706239899,
     "wof:name":"Eslamabad",
     "wof:parent_id":1108720135,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326483269
+    ],
     "wof:tags":[]
 },
   "bbox": [

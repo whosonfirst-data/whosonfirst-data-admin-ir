@@ -35,6 +35,11 @@
     "name:fas_x_variant":[
         "\u0628\u0627\u062f\u0647"
     ],
+    "name:und_x_variant":[
+        "B\u0101deh-ye \u0100best\u0101n",
+        "B\u0101deh-ye Bost\u0101n",
+        "Shah\u012bd Madan\u012b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":142301
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            142298
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"dc43935bb6c6db4fed0f594fb7e8cb56",
@@ -58,13 +68,15 @@
         }
     ],
     "wof:id":1209874215,
-    "wof:lastmodified":1566718051,
+    "wof:lastmodified":1706239880,
     "wof:name":"Badeh",
     "wof:parent_id":1108720145,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310559655
+    ],
     "wof:tags":[]
 },
   "bbox": [

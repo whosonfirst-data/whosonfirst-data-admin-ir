@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":121231
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6988417
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"7f8e1b13ac9b66a884431ed62a8c9e4c",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1276185745,
-    "wof:lastmodified":1566717230,
+    "wof:lastmodified":1706239899,
     "wof:name":"Pagodar",
     "wof:parent_id":1108720091,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293744673
+    ],
     "wof:tags":[]
 },
   "bbox": [

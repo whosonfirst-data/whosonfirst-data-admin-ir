@@ -52,6 +52,11 @@
     "wof:concordances":{
         "gn:id":126367
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6986621
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"1a57470c77f097e30625a409c32e821c",
     "wof:hierarchy":[
@@ -64,13 +69,15 @@
         }
     ],
     "wof:id":1259363473,
-    "wof:lastmodified":1566719805,
+    "wof:lastmodified":1706239894,
     "wof:name":"Kah Shuru",
     "wof:parent_id":1108720045,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343549067
+    ],
     "wof:tags":[]
 },
   "bbox": [

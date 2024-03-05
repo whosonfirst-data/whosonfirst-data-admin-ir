@@ -56,6 +56,11 @@
     "wof:concordances":{
         "gn:id":122545
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6659837
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"539cecf8382c81d9326b238ce189f263",
     "wof:hierarchy":[
@@ -68,13 +73,15 @@
         }
     ],
     "wof:id":1293246221,
-    "wof:lastmodified":1566716770,
+    "wof:lastmodified":1706239903,
     "wof:name":"Nasirabad",
     "wof:parent_id":1108720525,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310350061
+    ],
     "wof:tags":[]
 },
   "bbox": [

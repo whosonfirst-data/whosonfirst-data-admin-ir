@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":42216
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6649462
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"e640d686de6cd98c3ee7f2deef12a4d0",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1242844359,
-    "wof:lastmodified":1566719677,
+    "wof:lastmodified":1706239891,
     "wof:name":"Seyyed Saleh",
     "wof:parent_id":1108720455,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343234881
+    ],
     "wof:tags":[]
 },
   "bbox": [

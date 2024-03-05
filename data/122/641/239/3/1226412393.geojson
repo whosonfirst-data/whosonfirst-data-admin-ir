@@ -51,6 +51,11 @@
     "wof:concordances":{
         "gn:id":42422
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6687891
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"46a46de81a65276a4f17b5dc0aa39125",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1226412393,
-    "wof:lastmodified":1566720340,
+    "wof:lastmodified":1706239886,
     "wof:name":"Rahimi-ye Do",
     "wof:parent_id":1108719949,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327416487
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -35,6 +35,10 @@
     "name:fas_x_variant":[
         "Shotorak-e Sofl\u00e1"
     ],
+    "name:und_x_variant":[
+        "Shotorak-e Sofl\u00e1",
+        "Oshtorak"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +49,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6677769
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1114310
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"1c7392f9bd95543a865325cc07f79240",
@@ -58,13 +67,15 @@
         }
     ],
     "wof:id":1310411649,
-    "wof:lastmodified":1566718645,
+    "wof:lastmodified":1706239906,
     "wof:name":"Shotorak-e Sofla",
     "wof:parent_id":1108720515,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360285367
+    ],
     "wof:tags":[]
 },
   "bbox": [

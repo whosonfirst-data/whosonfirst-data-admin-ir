@@ -53,6 +53,11 @@
     "wof:concordances":{
         "gn:id":35624
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6689589
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"e15dc816188cc1b4d0218003357db862",
     "wof:hierarchy":[
@@ -65,13 +70,15 @@
         }
     ],
     "wof:id":1193025711,
-    "wof:lastmodified":1566718291,
+    "wof:lastmodified":1706239872,
     "wof:name":"Albardeh",
     "wof:parent_id":1108719791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344202725
+    ],
     "wof:tags":[]
 },
   "bbox": [

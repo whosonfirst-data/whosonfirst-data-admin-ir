@@ -35,6 +35,13 @@
     "name:fas_x_variant":[
         "\u0646\u0648\u062a\u0631\u06af\u06cc \u0627\u062d\u0645\u062f\u06cc"
     ],
+    "name:und_x_variant":[
+        "Not\u0101gi",
+        "Now Tarog\u012b",
+        "Now Targ\u012b",
+        "Nowtarg\u012b-ye A\u1e29mad\u012b",
+        "Talkh\u0101b-e A\u1e29mad\u012b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +52,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7549544
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            121953
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"5004ea744d692454ed83e621764e7fd2",
@@ -58,13 +70,15 @@
         }
     ],
     "wof:id":1259756043,
-    "wof:lastmodified":1566720040,
+    "wof:lastmodified":1706239896,
     "wof:name":"Nowtargi-ye Ahmadi",
     "wof:parent_id":1108720067,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309988797
+    ],
     "wof:tags":[]
 },
   "bbox": [

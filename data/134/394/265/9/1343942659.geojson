@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":6757533
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6757529
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"a30717aa753d4d9db11fd929ed7215a1",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1343942659,
-    "wof:lastmodified":1566716410,
+    "wof:lastmodified":1706239909,
     "wof:name":"Shakhan",
     "wof:parent_id":1108720427,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360282829
+    ],
     "wof:tags":[]
 },
   "bbox": [

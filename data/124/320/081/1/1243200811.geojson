@@ -53,6 +53,11 @@
     "wof:concordances":{
         "gn:id":118343
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7052590
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"30271fd081680bf31d5bf535b650c97d",
     "wof:hierarchy":[
@@ -65,13 +70,15 @@
         }
     ],
     "wof:id":1243200811,
-    "wof:lastmodified":1566719751,
+    "wof:lastmodified":1706239892,
     "wof:name":"Nokredin",
     "wof:parent_id":1108720397,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360214337
+    ],
     "wof:tags":[]
 },
   "bbox": [

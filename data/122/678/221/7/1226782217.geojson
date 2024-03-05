@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":1113130
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6651370
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"3c02cb1583ead513983d45d886e78a76",
     "wof:hierarchy":[
@@ -61,13 +66,15 @@
         }
     ],
     "wof:id":1226782217,
-    "wof:lastmodified":1566720315,
+    "wof:lastmodified":1706239889,
     "wof:name":"Deh-e Rashid",
     "wof:parent_id":1108720513,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260188383
+    ],
     "wof:tags":[]
 },
   "bbox": [

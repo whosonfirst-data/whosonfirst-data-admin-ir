@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"51.6125,28.74889,51.6125,28.74889",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0631\u0646\u063a"
@@ -57,7 +59,7 @@
         "wk:page":"Derang"
     },
     "wof:country":"IR",
-    "wof:geomhash":"7056ae3245c9704fbbd19cf8ca5cf9f7",
+    "wof:geomhash":"093957ee603a909e987f448630b36b79",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +70,22 @@
         }
     ],
     "wof:id":1326686277,
-    "wof:lastmodified":1566715657,
+    "wof:lastmodified":1706239904,
     "wof:name":"Derang",
     "wof:parent_id":1108719951,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1293939753
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     51.6125,
-    28.74889000000001,
+    28.74889,
     51.6125,
-    28.74889000000001
+    28.74889
 ],
-  "geometry": {"coordinates":[51.6125,28.74889000000001],"type":"Point"}
+  "geometry": {"coordinates":[51.6125,28.74889],"type":"Point"}
 }

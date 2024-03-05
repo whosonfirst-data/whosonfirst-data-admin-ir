@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"48.39944,34.81972,48.39944,34.81972",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0647\u0648\u0626\u06cc \u062c\u064a\u0646"
@@ -58,7 +60,7 @@
         "gn:id":123103
     },
     "wof:country":"IR",
-    "wof:geomhash":"930500d939af6198bd2a4c3132362963",
+    "wof:geomhash":"d18643107dadc1a86c0c2e68377df604",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,20 +71,22 @@
         }
     ],
     "wof:id":1210010851,
-    "wof:lastmodified":1566718163,
+    "wof:lastmodified":1706239879,
     "wof:name":"Marijin",
     "wof:parent_id":1108720047,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209699859
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    48.39944000000001,
+    48.39944,
     34.81972,
-    48.39944000000001,
+    48.39944,
     34.81972
 ],
-  "geometry": {"coordinates":[48.39944000000001,34.81972],"type":"Point"}
+  "geometry": {"coordinates":[48.39944,34.81972],"type":"Point"}
 }

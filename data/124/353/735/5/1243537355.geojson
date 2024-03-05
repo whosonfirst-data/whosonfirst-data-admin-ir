@@ -51,6 +51,11 @@
     "wof:concordances":{
         "gn:id":42484
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6687774
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"9920a85eb3cbbf63f2a252b0767b0cbf",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1243537355,
-    "wof:lastmodified":1566719372,
+    "wof:lastmodified":1706239893,
     "wof:name":"Ahmadabad-e Maziyeh",
     "wof:parent_id":1108719793,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293561969
+    ],
     "wof:tags":[]
 },
   "bbox": [

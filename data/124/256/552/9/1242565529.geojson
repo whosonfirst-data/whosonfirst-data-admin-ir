@@ -38,11 +38,21 @@
     "name:fas_x_preferred":[
         "\u06a9\u0634"
     ],
+    "name:fas_x_variant":[
+        "\u06a9\u0634",
+        "\u0627\u063a\u0648\u0634\u06a9 \u06a9\u0634"
+    ],
     "name:ita_x_preferred":[
         "Kash"
     ],
+    "name:msa_x_preferred":[
+        "Aghushkash"
+    ],
     "name:swe_x_preferred":[
         "Kash"
+    ],
+    "name:und_x_variant":[
+        "Agh\u016bshk-e Kash"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +63,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":6654593
+        "gn:id":6654593,
+        "wk:page":"Aghushkash"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            48658
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"13ae6c254479a3f62e672d08c1cf26b1",
@@ -67,13 +83,15 @@
         }
     ],
     "wof:id":1242565529,
-    "wof:lastmodified":1566719534,
+    "wof:lastmodified":1706239889,
     "wof:name":"Kash",
     "wof:parent_id":1108720077,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276313609
+    ],
     "wof:tags":[]
 },
   "bbox": [

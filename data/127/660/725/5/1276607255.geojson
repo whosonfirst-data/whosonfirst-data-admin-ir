@@ -63,6 +63,11 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u043d\u0430\u0431\u0430\u0434"
     ],
+    "name:und_x_variant":[
+        "Kh\u0101n\u0101b\u0101d",
+        "Kh\u0101tem\u0101b\u0101d",
+        "Kh\u0101neh\u0101b\u0101d"
+    ],
     "name:uzb_x_preferred":[
         "Xonobod"
     ],
@@ -77,8 +82,13 @@
     "wof:concordances":{
         "gn:id":6747449
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            127977
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"fe81b597e75d24d893006122ee50ece5",
+    "wof:geomhash":"ddb867bb4104c1eff0bba999c75443d3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,20 +99,22 @@
         }
     ],
     "wof:id":1276607255,
-    "wof:lastmodified":1566717275,
+    "wof:lastmodified":1706239901,
     "wof:name":"Khanabad",
     "wof:parent_id":1108720159,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326683699
+    ],
     "wof:tags":[]
 },
   "bbox": [
     49.292,
-    34.61199999999999,
+    34.612,
     49.292,
-    34.61199999999999
+    34.612
 ],
-  "geometry": {"coordinates":[49.292,34.61199999999999],"type":"Point"}
+  "geometry": {"coordinates":[49.292,34.612],"type":"Point"}
 }

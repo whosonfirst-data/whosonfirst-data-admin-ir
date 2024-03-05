@@ -32,6 +32,9 @@
     "name:fas_x_preferred":[
         "\u064a\u0633\u064a\u0631 \u06af\u0686\u0646 \u062c\u0646\u0648\u0628\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u06cc\u06a9\u0633\u0631\u0647 \u06a9\u0686\u0646"
+    ],
     "name:und_x_variant":[
         "Yas\u012br Gachan-e Jon\u016bb\u012b"
     ],
@@ -46,6 +49,11 @@
     "wof:concordances":{
         "gn:id":9984994
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9973434
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"b34913dab80210593b172abcb642d278",
     "wof:hierarchy":[
@@ -58,13 +66,15 @@
         }
     ],
     "wof:id":1225796845,
-    "wof:lastmodified":1566720461,
+    "wof:lastmodified":1706239882,
     "wof:name":"Yasir Gachan-e Jonubi",
     "wof:parent_id":1108720039,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226093737
+    ],
     "wof:tags":[]
 },
   "bbox": [

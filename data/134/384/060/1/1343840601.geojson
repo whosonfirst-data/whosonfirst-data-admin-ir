@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"49.97989,31.94218,49.97989,31.94218",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u0631\u062f\u0648\u062a \u0643\u0644(\u0627\u06cc\u0630\u0647)"
@@ -56,7 +58,7 @@
         "wk:page":"Ordowt-e_Kal"
     },
     "wof:country":"IR",
-    "wof:geomhash":"c332bb4cf88734adac77ecb82d2ef1d9",
+    "wof:geomhash":"665c6a1fa7def574373c3636a2fb9bb5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,20 +69,22 @@
         }
     ],
     "wof:id":1343840601,
-    "wof:lastmodified":1566716268,
+    "wof:lastmodified":1706239909,
     "wof:name":"Kal Ordud",
     "wof:parent_id":1108720067,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1343543899
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    49.97989000000001,
+    49.97989,
     31.94218,
-    49.97989000000001,
+    49.97989,
     31.94218
 ],
-  "geometry": {"coordinates":[49.97989000000001,31.94218],"type":"Point"}
+  "geometry": {"coordinates":[49.97989,31.94218],"type":"Point"}
 }

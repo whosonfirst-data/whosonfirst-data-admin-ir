@@ -35,6 +35,16 @@
     "name:fas_x_variant":[
         "Kha\u1e95r\u012b\u0101t"
     ],
+    "name:und_x_variant":[
+        "Khaf\u012br\u012by\u0101t",
+        "Khazar\u012b\u0101t",
+        "Khadair\u0101th",
+        "Khaz\u012br\u012by\u0101t",
+        "Khaz\u012br\u012b\u0101t",
+        "Khez\u012br\u012by\u0101t",
+        "Khezery\u0101t",
+        "Kha\u1e95\u012br\u012b\u0101t"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -44,7 +54,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":6648066
+        "gn:id":6648066,
+        "wk:page":"Khaziriat"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            127635
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"38f17cab974f601b86f78c957d9a3bd5",
@@ -58,13 +74,15 @@
         }
     ],
     "wof:id":1243144949,
-    "wof:lastmodified":1566719603,
+    "wof:lastmodified":1706239892,
     "wof:name":"Khazriat",
     "wof:parent_id":1108720335,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260373181
+    ],
     "wof:tags":[]
 },
   "bbox": [

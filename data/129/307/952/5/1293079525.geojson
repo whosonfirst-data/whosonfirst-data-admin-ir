@@ -63,6 +63,9 @@
     "name:rus_x_preferred":[
         "\u041d\u0430\u0441\u0440"
     ],
+    "name:und_x_variant":[
+        "Na\u015fr"
+    ],
     "name:uzb_x_preferred":[
         "Nasr"
     ],
@@ -77,6 +80,11 @@
     "wof:concordances":{
         "gn:id":6722219
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9395
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"ea972fb899c93f7748234dcd11e7efc4",
     "wof:hierarchy":[
@@ -89,13 +97,15 @@
         }
     ],
     "wof:id":1293079525,
-    "wof:lastmodified":1566716602,
+    "wof:lastmodified":1706239903,
     "wof:name":"Nasr",
     "wof:parent_id":1108719957,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293772399
+    ],
     "wof:tags":[]
 },
   "bbox": [

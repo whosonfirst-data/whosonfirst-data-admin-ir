@@ -39,6 +39,9 @@
         "Dowlat\u0101b\u0101d",
         "\u062f\u0648\u0633\u062a\u200c\u0622\u0628\u0627\u062f"
     ],
+    "name:und_x_variant":[
+        "Dowlat\u0101b\u0101d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632361
@@ -47,6 +50,14 @@
     "wof:concordances":{
         "gn:id":7082134,
         "wk:page":"Dustabad,_Chenaran"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            31327
+        ],
+        "wk:page":[
+            "Dustabad,_Torbat-e_Jam"
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"6a6270a829ce57c61506839f6425020d",
@@ -57,13 +68,15 @@
         }
     ],
     "wof:id":1209241489,
-    "wof:lastmodified":1566717819,
+    "wof:lastmodified":1706239875,
     "wof:name":"Dowlatabad",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293419533
+    ],
     "wof:tags":[]
 },
   "bbox": [

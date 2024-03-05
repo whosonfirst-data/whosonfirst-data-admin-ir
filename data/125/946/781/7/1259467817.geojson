@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"49.5936,36.811,49.5936,36.811",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u1e28\u0101jj\u012b Sh\u012brk\u012b\u0101"
@@ -72,12 +74,14 @@
         }
     ],
     "wof:id":1259467817,
-    "wof:lastmodified":1566719898,
+    "wof:lastmodified":1706239887,
     "wof:name":"Gargadeh",
     "wof:parent_id":1108720361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1226439271
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

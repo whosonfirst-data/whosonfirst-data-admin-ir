@@ -51,8 +51,13 @@
     "wof:concordances":{
         "gn:id":45309
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            117781
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"61317b00381e9a522ff9f0ebcb2fecd9",
+    "wof:geomhash":"56d4b2a7a5e2f666fcdf5756dcfc42f4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1326524315,
-    "wof:lastmodified":1566715881,
+    "wof:lastmodified":1706239907,
     "wof:name":"Sakhteman-e Amini",
     "wof:parent_id":1108720527,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360279659
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    54.46528000000001,
+    54.46528,
     28.48541,
-    54.46528000000001,
+    54.46528,
     28.48541
 ],
-  "geometry": {"coordinates":[54.46528000000001,28.48541],"type":"Point"}
+  "geometry": {"coordinates":[54.46528,28.48541],"type":"Point"}
 }

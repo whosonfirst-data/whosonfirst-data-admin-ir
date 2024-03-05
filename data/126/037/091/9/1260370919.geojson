@@ -51,6 +51,11 @@
     "wof:concordances":{
         "gn:id":43136
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7592650
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"2e0e3993f629ee12ed87237cecd42b13",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1260370919,
-    "wof:lastmodified":1566718471,
+    "wof:lastmodified":1706239898,
     "wof:name":"Gashk",
     "wof:parent_id":1108720077,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1292978453
+    ],
     "wof:tags":[]
 },
   "bbox": [

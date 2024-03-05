@@ -45,6 +45,9 @@
     "name:swe_x_preferred":[
         "Dowlatabad"
     ],
+    "name:und_x_variant":[
+        "Daulat\u0101b\u0101d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":7102320
+        "gn:id":7102320,
+        "wk:page":"Dowlatabad,_Roshtkhar"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            135746
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"85e98e3bc8a4b8c097267bff1c9ca885",
@@ -68,13 +77,15 @@
         }
     ],
     "wof:id":1276472395,
-    "wof:lastmodified":1566717448,
+    "wof:lastmodified":1706239900,
     "wof:name":"Dowlatabad",
     "wof:parent_id":1108720343,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360315073
+    ],
     "wof:tags":[]
 },
   "bbox": [

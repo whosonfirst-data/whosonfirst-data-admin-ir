@@ -53,8 +53,13 @@
     "wof:concordances":{
         "gn:id":15051
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7529413
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"7b9ac967b7af7a7642ba1208911b2d1d",
+    "wof:geomhash":"55c6c4936b5618cc9f62329cc27665ec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,20 +70,22 @@
         }
     ],
     "wof:id":1242784801,
-    "wof:lastmodified":1566719689,
+    "wof:lastmodified":1706239890,
     "wof:name":"Deh-e Zir",
     "wof:parent_id":1108720189,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326637009
+    ],
     "wof:tags":[]
 },
   "bbox": [
     50.8417,
-    31.30502000000001,
+    31.30502,
     50.8417,
-    31.30502000000001
+    31.30502
 ],
-  "geometry": {"coordinates":[50.8417,31.30502000000001],"type":"Point"}
+  "geometry": {"coordinates":[50.8417,31.30502],"type":"Point"}
 }

@@ -11,6 +11,7 @@
     "geom:longitude":48.56667,
     "gn:admin1_code":"36",
     "gn:asciiname":"Tavileh-ye Darrahsi",
+    "gn:cc2":"IR",
     "gn:country_code":"IR",
     "gn:dem":2191,
     "gn:feature_class":"P",
@@ -32,6 +33,11 @@
     "name:fas_x_preferred":[
         "\u0162\u016b\u0163eh Daraq"
     ],
+    "name:fas_x_variant":[
+        "\u0637\u064e\u0648\u064a\u0644\u0650\u0647 \u062f\u064e\u0631\u0650\u0651\u0647\u0633\u06cc",
+        "\u0637\u064e\u0648\u064a\u0644\u0650\u0647 \u062f\u064e\u0631\u064e\u0642",
+        "\u0162av\u012bleh-ye Darrahs\u012b"
+    ],
     "name:und_x_variant":[
         "\u0162av\u012bleh-ye Darrahs\u012b",
         "Tula-Darrekh",
@@ -50,6 +56,11 @@
     "wof:concordances":{
         "gn:id":10662
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            113019
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"0cf5c70af554047b9b2f443e9d2b9dfd",
     "wof:hierarchy":[
@@ -62,13 +73,15 @@
         }
     ],
     "wof:id":1243125093,
-    "wof:lastmodified":1566719575,
+    "wof:lastmodified":1706239892,
     "wof:name":"Tavileh-ye Darrahsi",
     "wof:parent_id":1108719787,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310257615
+    ],
     "wof:tags":[]
 },
   "bbox": [

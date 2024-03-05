@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":7010079
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1113729
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"98295eb670d92bcfe3b9e623e97e6c09",
     "wof:hierarchy":[
@@ -49,13 +54,15 @@
         }
     ],
     "wof:id":1209129505,
-    "wof:lastmodified":1566717810,
+    "wof:lastmodified":1706239874,
     "wof:name":"Sar Deh",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259903487
+    ],
     "wof:tags":[]
 },
   "bbox": [

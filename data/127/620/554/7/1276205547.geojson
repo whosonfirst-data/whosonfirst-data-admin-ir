@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":25892
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6708745
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"42f172cf4d4385405fa287dc8e4c2f8f",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1276205547,
-    "wof:lastmodified":1566717241,
+    "wof:lastmodified":1706239899,
     "wof:name":"Zeyd `Ali",
     "wof:parent_id":1108719933,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309785041
+    ],
     "wof:tags":[]
 },
   "bbox": [

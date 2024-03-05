@@ -35,6 +35,10 @@
     "name:fas_x_variant":[
         "Shahrak-e B\u012bldar"
     ],
+    "name:und_x_variant":[
+        "Shahrak-e B\u012bldar",
+        "Dehnow"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +49,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6678223
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            31316
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"862841ecb8b6b846a05021ee4cfe0e4d",
@@ -58,13 +67,15 @@
         }
     ],
     "wof:id":1225974099,
-    "wof:lastmodified":1566720271,
+    "wof:lastmodified":1706239883,
     "wof:name":"Shahrak-e Bildar",
     "wof:parent_id":1108720227,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259712701
+    ],
     "wof:tags":[]
 },
   "bbox": [

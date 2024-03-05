@@ -50,6 +50,11 @@
     "wof:concordances":{
         "gn:id":122715
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6649701
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"5e091cedf98fc2b1bca58f618ec36195",
     "wof:hierarchy":[
@@ -62,13 +67,15 @@
         }
     ],
     "wof:id":1276967217,
-    "wof:lastmodified":1566717559,
+    "wof:lastmodified":1706239902,
     "wof:name":"Namordi",
     "wof:parent_id":1108720243,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343835667
+    ],
     "wof:tags":[]
 },
   "bbox": [

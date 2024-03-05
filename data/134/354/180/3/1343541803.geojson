@@ -46,8 +46,13 @@
     "wof:concordances":{
         "gn:id":48541
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6654822
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"2593c33ea5ff85b91b2b5ee6a1b104ab",
+    "wof:geomhash":"8a5718cef8818fae9e6f538631662964",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,20 +63,22 @@
         }
     ],
     "wof:id":1343541803,
-    "wof:lastmodified":1566716075,
+    "wof:lastmodified":1706239909,
     "wof:name":"Hakami-ye Pa'in",
     "wof:parent_id":1108720243,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343549057
+    ],
     "wof:tags":[]
 },
   "bbox": [
     57.01378,
-    27.16847000000001,
+    27.16847,
     57.01378,
-    27.16847000000001
+    27.16847
 ],
-  "geometry": {"coordinates":[57.01378,27.16847000000001],"type":"Point"}
+  "geometry": {"coordinates":[57.01378,27.16847],"type":"Point"}
 }

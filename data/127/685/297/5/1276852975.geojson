@@ -35,6 +35,9 @@
     "name:fas_x_variant":[
         "K\u0101n\u012b Sal\u0101m"
     ],
+    "name:und_x_variant":[
+        "K\u0101n\u012b Sal\u0101m"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -44,7 +47,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":6684125
+        "gn:id":6684125,
+        "wk:page":"Kani_Shalaneh"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            435757
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"8d8a59156daeba4e4e2cc4abb956fe3b",
@@ -58,13 +67,15 @@
         }
     ],
     "wof:id":1276852975,
-    "wof:lastmodified":1566717434,
+    "wof:lastmodified":1706239901,
     "wof:name":"Kani Salam",
     "wof:parent_id":1108720379,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343633273
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -52,7 +52,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":144245
+        "gn:id":144245,
+        "wk:page":"Aljan"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            144227
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"36f48e655d5ebd82fcadc47614f9795e",
@@ -66,13 +72,15 @@
         }
     ],
     "wof:id":1260225337,
-    "wof:lastmodified":1566718418,
+    "wof:lastmodified":1706239897,
     "wof:name":"Aljan",
     "wof:parent_id":1108720195,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276275277
+    ],
     "wof:tags":[]
 },
   "bbox": [

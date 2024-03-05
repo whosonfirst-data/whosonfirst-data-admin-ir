@@ -82,6 +82,11 @@
     "wof:concordances":{
         "gn:id":145461
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6651690
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"f5a268c0ae74334d4e39409fe7e62606",
     "wof:hierarchy":[
@@ -91,13 +96,15 @@
         }
     ],
     "wof:id":1209383643,
-    "wof:lastmodified":1566717640,
+    "wof:lastmodified":1706239876,
     "wof:name":"Abad",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293059641
+    ],
     "wof:tags":[]
 },
   "bbox": [

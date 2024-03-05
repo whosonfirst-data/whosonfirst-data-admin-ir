@@ -53,8 +53,13 @@
         "gn:id":14733,
         "wk:page":"Sheykh_Sarkeh"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7529498
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"27d4f36c2d4b2dc90b2dab1d704493ff",
+    "wof:geomhash":"667ab433184e6bc52bdf172584ae0f67",
     "wof:hierarchy":[
         {
             "country_id":85632361,
@@ -62,20 +67,22 @@
         }
     ],
     "wof:id":1209637793,
-    "wof:lastmodified":1566717723,
+    "wof:lastmodified":1706239878,
     "wof:name":"Seyyed Saduq",
     "wof:parent_id":85632361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209912897
+    ],
     "wof:tags":[]
 },
   "bbox": [
     50.91382,
-    31.14379000000001,
+    31.14379,
     50.91382,
-    31.14379000000001
+    31.14379
 ],
-  "geometry": {"coordinates":[50.91382,31.14379000000001],"type":"Point"}
+  "geometry": {"coordinates":[50.91382,31.14379],"type":"Point"}
 }

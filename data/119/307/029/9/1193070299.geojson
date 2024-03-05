@@ -63,6 +63,10 @@
     "name:tur_x_preferred":[
         "Behabad"
     ],
+    "name:und_x_variant":[
+        "Beh\u0101b\u0101d",
+        "Bah\u0101b\u0101d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -75,8 +79,13 @@
         "gn:id":140958,
         "wk:page":"Behabad"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9533956
+        ]
+    },
     "wof:country":"IR",
-    "wof:geomhash":"80d19b6a4cf607e59be4009c18a83261",
+    "wof:geomhash":"930ec84a02d7a0ecd7decffd451e0c02",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,20 +96,22 @@
         }
     ],
     "wof:id":1193070299,
-    "wof:lastmodified":1566718189,
+    "wof:lastmodified":1706239872,
     "wof:name":"Bahabad",
     "wof:parent_id":1108719849,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209758115
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    56.02348000000001,
+    56.02348,
     31.87268,
-    56.02348000000001,
+    56.02348,
     31.87268
 ],
-  "geometry": {"coordinates":[56.02348000000001,31.87268],"type":"Point"}
+  "geometry": {"coordinates":[56.02348,31.87268],"type":"Point"}
 }

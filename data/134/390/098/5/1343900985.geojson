@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"54.49554,36.80609,54.49554,36.80609",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u063a \u063a\u0644\u0628\u0646"
@@ -64,7 +66,7 @@
         "wk:page":"Bagh-e_Golbon"
     },
     "wof:country":"IR",
-    "wof:geomhash":"c39f8596fe5bcf242ec6702affe80162",
+    "wof:geomhash":"1880c3288bbd00d5c49285debb56722f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,20 +77,22 @@
         }
     ],
     "wof:id":1343900985,
-    "wof:lastmodified":1566716135,
+    "wof:lastmodified":1706239909,
     "wof:name":"Baba Galmeh",
     "wof:parent_id":1108720041,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1343499995
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    54.49554000000001,
-    36.80609000000001,
-    54.49554000000001,
-    36.80609000000001
+    54.49554,
+    36.80609,
+    54.49554,
+    36.80609
 ],
-  "geometry": {"coordinates":[54.49554000000001,36.80609000000001],"type":"Point"}
+  "geometry": {"coordinates":[54.49554,36.80609],"type":"Point"}
 }

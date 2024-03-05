@@ -32,6 +32,11 @@
     "name:fas_x_preferred":[
         "\u0645\u0645\u0628\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0642\u064e\u0644\u0639\u0650\u06c0 \u0645\u0627\u0645\u0628\u06cc",
+        "Qal\u2018eh Momb\u012b",
+        "\u0645\u0645\u0628\u06cc"
+    ],
     "name:por_x_preferred":[
         "Mombi"
     ],
@@ -49,6 +54,11 @@
     "wof:concordances":{
         "gn:id":8354981
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            120235
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"5233f5ed5f6f94dd6d6afd79553ae419",
     "wof:hierarchy":[
@@ -61,13 +71,15 @@
         }
     ],
     "wof:id":1225849561,
-    "wof:lastmodified":1566720464,
+    "wof:lastmodified":1706239882,
     "wof:name":"Mombi",
     "wof:parent_id":1108719859,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226752197
+    ],
     "wof:tags":[]
 },
   "bbox": [

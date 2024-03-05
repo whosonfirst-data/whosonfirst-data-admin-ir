@@ -41,6 +41,9 @@
     "name:srp_x_preferred":[
         "Halan"
     ],
+    "name:und_x_variant":[
+        "Hal\u0101n"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,6 +54,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6717636
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            13269
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"ba986b8d962eda76e8a5dff8ad26f726",
@@ -64,13 +72,15 @@
         }
     ],
     "wof:id":1276822829,
-    "wof:lastmodified":1566717422,
+    "wof:lastmodified":1706239901,
     "wof:name":"Halan",
     "wof:parent_id":1108719791,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327375033
+    ],
     "wof:tags":[]
 },
   "bbox": [

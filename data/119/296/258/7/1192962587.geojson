@@ -32,6 +32,10 @@
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u0643 \u062a\u0645\u06cc\u0634\u0627\u0646"
     ],
+    "name:fas_x_variant":[
+        "Tam\u012bsh\u0101n",
+        "\u0634\u0647\u0631\u0643 \u062a\u0645\u06cc\u0634\u0627\u0646"
+    ],
     "name:und_x_variant":[
         "Shahrak-e Tam\u012bsh\u0101n"
     ],
@@ -46,6 +50,11 @@
     "wof:concordances":{
         "gn:id":8535282
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            113331
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"20f765a3a4df4ddbaae9079c46dd9010",
     "wof:hierarchy":[
@@ -58,13 +67,15 @@
         }
     ],
     "wof:id":1192962587,
-    "wof:lastmodified":1566718297,
+    "wof:lastmodified":1706239872,
     "wof:name":"Shahrak-e Tamishan",
     "wof:parent_id":1108720283,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226386847
+    ],
     "wof:tags":[]
 },
   "bbox": [

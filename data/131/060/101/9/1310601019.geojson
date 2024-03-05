@@ -37,6 +37,9 @@
         "\u06a9\u0647\u0646\u0627\u0628",
         "K\u016blag"
     ],
+    "name:und_x_variant":[
+        "Kan\u0101b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -47,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7060912
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1160674
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"40788819e90f05b712a6b77bac90d6ca",
@@ -60,13 +68,15 @@
         }
     ],
     "wof:id":1310601019,
-    "wof:lastmodified":1566718963,
+    "wof:lastmodified":1706239906,
     "wof:name":"Kulag",
     "wof:parent_id":1108720389,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344180723
+    ],
     "wof:tags":[]
 },
   "bbox": [

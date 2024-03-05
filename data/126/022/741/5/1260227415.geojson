@@ -57,6 +57,11 @@
     "wof:concordances":{
         "gn:id":38774
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7634438
+        ]
+    },
     "wof:country":"IR",
     "wof:geomhash":"b713aeb6249a1450e265a1d5ad7bca91",
     "wof:hierarchy":[
@@ -69,13 +74,15 @@
         }
     ],
     "wof:id":1260227415,
-    "wof:lastmodified":1566718421,
+    "wof:lastmodified":1706239898,
     "wof:name":"Rahmatabad",
     "wof:parent_id":1108720347,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327195085
+    ],
     "wof:tags":[]
 },
   "bbox": [

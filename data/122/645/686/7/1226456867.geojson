@@ -35,6 +35,10 @@
     "name:fas_x_variant":[
         "Mand \u0100l\u012b"
     ],
+    "name:und_x_variant":[
+        "Mand \u0100l\u012b",
+        "Deh-e Mo\u1e29ammad \u2018Al\u012b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +49,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7010050
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1113903
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"ffe626b92fd539564525943778b07234",
@@ -58,13 +67,15 @@
         }
     ],
     "wof:id":1226456867,
-    "wof:lastmodified":1566720114,
+    "wof:lastmodified":1706239887,
     "wof:name":"Mand Ali",
     "wof:parent_id":1108720517,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242577429
+    ],
     "wof:tags":[]
 },
   "bbox": [

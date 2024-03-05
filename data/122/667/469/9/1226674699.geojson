@@ -35,6 +35,9 @@
     "name:fas_x_variant":[
         "\u062c\u0639\u0641\u0631\u06cc\u0647"
     ],
+    "name:und_x_variant":[
+        "Ja\u2018far\u012byeh"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7381832
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            21610
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"b1d2f76bb72af6f5b421793b1c8f8aff",
@@ -58,13 +66,15 @@
         }
     ],
     "wof:id":1226674699,
-    "wof:lastmodified":1566720199,
+    "wof:lastmodified":1706239888,
     "wof:name":"Ja`fariyeh",
     "wof:parent_id":1108719895,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343388855
+    ],
     "wof:tags":[]
 },
   "bbox": [

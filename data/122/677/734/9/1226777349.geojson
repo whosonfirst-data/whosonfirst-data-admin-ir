@@ -35,6 +35,9 @@
     "name:fas_x_variant":[
         "\u0627\u0633\u0645\u0627\u0639\u06cc\u0644 \u0622\u0628\u0627\u062f"
     ],
+    "name:und_x_variant":[
+        "\u0627\u0633\u0645\u0627\u0639\u06cc\u0644 \u0622\u0628\u0627\u062f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +48,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7258
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7515187
+        ]
     },
     "wof:country":"IR",
     "wof:geomhash":"a6c4e2c23c99ac394616d37d57ad8420",
@@ -58,13 +66,15 @@
         }
     ],
     "wof:id":1226777349,
-    "wof:lastmodified":1566720362,
+    "wof:lastmodified":1706239889,
     "wof:name":"Esma`ilabad",
     "wof:parent_id":1108720367,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ir",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260212809
+    ],
     "wof:tags":[]
 },
   "bbox": [
