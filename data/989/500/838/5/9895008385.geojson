@@ -1,0 +1,75 @@
+{
+  "id": 9895008385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.1583,35.56528,51.1583,35.56528",
+    "geom:latitude":35.56528,
+    "geom:longitude":51.1583,
+    "gn:population":200393,
+    "iso:country":"IR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13405749: name \"Nasimshahr\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13405749"
+        },
+        {
+            "citation":"GeoNames populated place 13405749: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13405749"
+        },
+        {
+            "citation":"GeoNames populated place 13405749: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13405749"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108720355 (Robatkarim), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361,
+        85672313,
+        102191569,
+        1108720355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13405749
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"cefd9a50fce07eaabc9ccabd9f1fec73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720355,
+            "locality_id":9895008385,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":9895008385,
+    "wof:lastmodified":1795732966,
+    "wof:name":"Nasimshahr",
+    "wof:parent_id":1108720355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.1583,
+    35.56528,
+    51.1583,
+    35.56528
+],
+  "geometry": {"coordinates":[51.1583,35.56528],"type":"Point"}
+}
