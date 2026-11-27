@@ -1,0 +1,75 @@
+{
+  "id": 9895093014,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.3787,32.3564,51.3787,32.3564",
+    "geom:latitude":32.3564,
+    "geom:longitude":51.3787,
+    "gn:population":18700,
+    "iso:country":"IR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 418444: name \"Varn\u0101mkhv\u0101st\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/418444"
+        },
+        {
+            "citation":"GeoNames populated place 418444: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/418444"
+        },
+        {
+            "citation":"GeoNames populated place 418444: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/418444"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108720187 (Lenjan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361,
+        85672291,
+        102191569,
+        1108720187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":418444
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"5a118e7ef8b06edfe63d1dc841f8ccc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720187,
+            "locality_id":9895093014,
+            "region_id":85672291
+        }
+    ],
+    "wof:id":9895093014,
+    "wof:lastmodified":1795747209,
+    "wof:name":"Varn\u0101mkhv\u0101st",
+    "wof:parent_id":1108720187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.3787,
+    32.3564,
+    51.3787,
+    32.3564
+],
+  "geometry": {"coordinates":[51.3787,32.3564],"type":"Point"}
+}

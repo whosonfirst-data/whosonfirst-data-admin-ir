@@ -1,0 +1,75 @@
+{
+  "id": 9895093013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.47086,35.71445,51.47086,35.71445",
+    "geom:latitude":35.71445,
+    "geom:longitude":51.47086,
+    "gn:population":33249,
+    "iso:country":"IR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 404592: name \"Va\u1e29\u012bd\u012byeh\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/404592"
+        },
+        {
+            "citation":"GeoNames populated place 404592: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/404592"
+        },
+        {
+            "citation":"GeoNames populated place 404592: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/404592"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108720491 (Tehran), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361,
+        85672313,
+        102191569,
+        1108720491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":404592
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"e7cea4ec098449a39ed3921fd645d83f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720491,
+            "locality_id":9895093013,
+            "region_id":85672313
+        }
+    ],
+    "wof:id":9895093013,
+    "wof:lastmodified":1795747209,
+    "wof:name":"Va\u1e29\u012bd\u012byeh",
+    "wof:parent_id":1108720491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.47086,
+    35.71445,
+    51.47086,
+    35.71445
+],
+  "geometry": {"coordinates":[51.47086,35.71445],"type":"Point"}
+}

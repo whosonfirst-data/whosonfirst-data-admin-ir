@@ -1,0 +1,75 @@
+{
+  "id": 9895093016,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"46.1103,37.95104,46.1103,37.95104",
+    "geom:latitude":37.95104,
+    "geom:longitude":46.1103,
+    "gn:population":82494,
+    "iso:country":"IR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13631338: name \"Sahand\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13631338"
+        },
+        {
+            "citation":"GeoNames populated place 13631338: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13631338"
+        },
+        {
+            "citation":"GeoNames populated place 13631338: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13631338"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108720293 (Osku), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361,
+        85672373,
+        102191569,
+        1108720293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13631338
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"a185ed56c22d67cd0eda7df3d7d9a2e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720293,
+            "locality_id":9895093016,
+            "region_id":85672373
+        }
+    ],
+    "wof:id":9895093016,
+    "wof:lastmodified":1795747209,
+    "wof:name":"Sahand",
+    "wof:parent_id":1108720293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    46.1103,
+    37.95104,
+    46.1103,
+    37.95104
+],
+  "geometry": {"coordinates":[46.1103,37.95104],"type":"Point"}
+}

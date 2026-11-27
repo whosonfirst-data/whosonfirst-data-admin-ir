@@ -1,0 +1,75 @@
+{
+  "id": 9895093012,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.956,35.772,50.956,35.772",
+    "geom:latitude":35.772,
+    "geom:longitude":50.956,
+    "gn:population":16104,
+    "iso:country":"IR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 41589: name \"Shahrak-e Mohandes\u012b-ye Zer\u0101\u2018\u012b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/41589"
+        },
+        {
+            "citation":"GeoNames populated place 41589: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/41589"
+        },
+        {
+            "citation":"GeoNames populated place 41589: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/41589"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108720105 (Karaj), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632361,
+        85672415,
+        102191569,
+        1108720105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":41589
+    },
+    "wof:country":"IR",
+    "wof:geomhash":"7eafa828da6999e3c9c7ea592f53ab18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632361,
+            "county_id":1108720105,
+            "locality_id":9895093012,
+            "region_id":85672415
+        }
+    ],
+    "wof:id":9895093012,
+    "wof:lastmodified":1795747209,
+    "wof:name":"Shahrak-e Mohandes\u012b-ye Zer\u0101\u2018\u012b",
+    "wof:parent_id":1108720105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ir",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.956,
+    35.772,
+    50.956,
+    35.772
+],
+  "geometry": {"coordinates":[50.956,35.772],"type":"Point"}
+}
